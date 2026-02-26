@@ -1,22 +1,8 @@
-# Laravel Education Registry - Package Plan
+# University Directory - Package Plan
 
-## 1. Package Vision
+## 1. Vision
 
-**Goal**
-
-Provide a lightweight, structured, importable registry of educational institutions (universities, colleges, institutes) for Laravel applications.
-
-**Non-Goals**
-
-- Not a SaaS
-- Not a global education authority
-- Not a ranking system
-- Not a city/country management system
-- Not overly abstracted architecture
-
-This is:
-
-> A structured, maintainable, importable institution registry layer for Laravel.
+A lightweight, structured, importable university registry for Laravel applications. Built for scholarship platforms, education portals, and any app that needs clean university data with search, autocomplete, and URL-friendly slugs.
 
 ---
 
@@ -30,59 +16,58 @@ This is:
 - No breaking the user's existing schema
 - Clean Laravel-native code
 - Import-driven, not seed-dump-driven
+- Developer experience over data plumbing — the consumption API is the product
 
 ---
 
-## 3. Data Source Strategy
+## 3. Compatibility
+
+- **PHP:** 8.2+
+- **Laravel:** 11.x, 12.x
+- **Database:** MySQL 8.0+, PostgreSQL 14+, SQLite 3.35+
+
+---
+
+## 4. Data Source Strategy
 
 ### Primary Source: Wikidata (CC0)
 
-Why:
-
-- Free
-- Legally safe (CC0)
-- Structured
-- Has unique identifiers (e.g. Q49108)
-- Has aliases
-- Has country relation
+- Free and legally safe (CC0 license)
+- Structured with unique identifiers (e.g. Q49108)
+- Has aliases, country relations, coordinates
 - Queryable via SPARQL
 
-### AI Usage (Secondary)
+### Data Pipeline (Not In-Package)
 
-AI is used for:
+SPARQL queries, data cleaning, and normalization happen outside the package in a separate data pipeline. The pipeline curates clean JSON files per country, hosted on GitHub. The package fetches from these curated files — not directly from the SPARQL endpoint.
 
-- Normalization
-- Deduplication suggestions
-- Slug improvement
-- Alias enrichment
-- Type classification cleanup
-
-AI is NOT the primary dataset generator.
+This keeps the package truly lightweight. The data pipeline can be as sophisticated as needed (SPARQL, AI-assisted cleanup, manual curation) without burdening package consumers.
 
 ---
 
-## 4. Database Design
+## 5. Database Design
 
-All tables use a hardcoded `edu_` prefix to avoid conflicts with the host application.
+All tables use a hardcoded `ud_` prefix to avoid conflicts with the host application.
 
-> **Why hardcoded, not configurable?** Eloquent's `$table` property is static. A configurable prefix requires resolving config at boot time in the model constructor — fragile and error-prone. Migrations can't read config at generation time cleanly. Any JOIN or raw query from the user's app must dynamically resolve the prefix. No major Laravel package (Spatie, Filament, Cashier) uses configurable prefixes. If someone truly needs a different prefix, they can publish and edit migrations — that's the Laravel convention.
+> **Why hardcoded, not configurable?** Eloquent's `$table` property is static. A configurable prefix requires resolving config at boot time — fragile and error-prone. No major Laravel package (Spatie, Filament, Cashier) uses configurable prefixes. If someone needs a different prefix, they publish and edit migrations — that's the Laravel convention.
 
-### Table: `edu_institutions`
+### Table: `ud_universities`
 
-| Column           | Type                     | Notes                                |
-| ---------------- | ------------------------ | ------------------------------------ |
-| id               | bigint                   | Primary key                          |
-| wikidata_id      | string, nullable, unique | e.g. Q49108                          |
-| name             | string                   | Official name                        |
-| short_name       | string, nullable         | e.g. "MIT", "TUM" (from P1813)      |
-| slug             | string, unique           | Indexed, generated via Str::slug()   |
-| country_code     | string(2), indexed       | ISO 3166-1 alpha-2                   |
-| type             | string                   | Backed by PHP enum                   |
-| official_website | string, nullable         |                                      |
-| latitude         | decimal(10,7), nullable  |                                      |
-| longitude        | decimal(10,7), nullable  |                                      |
-| created_at       | timestamp                |                                      |
-| updated_at       | timestamp                |                                      |
+| Column           | Type                     | Notes                                         |
+| ---------------- | ------------------------ | --------------------------------------------- |
+| id               | bigint                   | Primary key                                   |
+| wikidata_id      | string, nullable, unique | e.g. Q49108                                   |
+| name             | string                   | Official name                                 |
+| short_name       | string, nullable         | e.g. "MIT", "TUM" (from Wikidata P1813)       |
+| slug             | string, unique           | Globally unique, country-suffixed if needed    |
+| country_code     | string(2), indexed       | ISO 3166-1 alpha-2                            |
+| type             | string                   | Backed by PHP enum                            |
+| official_website | string, nullable         |                                               |
+| aliases          | json, nullable           | e.g. ["MIT", "Mass Tech"]                     |
+| latitude         | decimal(10,7), nullable  |                                               |
+| longitude        | decimal(10,7), nullable  |                                               |
+| created_at       | timestamp                |                                               |
+| updated_at       | timestamp                |                                               |
 
 **Indexes:**
 
@@ -94,54 +79,30 @@ All tables use a hardcoded `edu_` prefix to avoid conflicts with the host applic
 **Design decisions:**
 
 - No foreign key to a countries table. Most apps already have countries — avoid FK conflicts and duplication.
-- No `status` column in v1. Wikidata doesn't reliably indicate closures, and there's no mechanism to detect them. Add in v2 when a real data source exists. YAGNI.
-- `short_name` added for real-world usage (autocomplete, dropdowns). Populated from Wikidata's short name property (P1813).
+- No `status` column in v1. Wikidata doesn't reliably indicate closures, and there's no mechanism to detect them. Add in v2 when a real data source exists.
+- `short_name` for real-world usage (autocomplete, dropdowns). Populated from Wikidata's short name property (P1813).
+- `aliases` stored as a JSON column instead of a separate table. Most universities have 1-3 aliases — a separate table with FK, model, relationship, and joins is too much machinery for v1. If alias needs grow (hundreds of aliases, alias metadata), add a dedicated table in v2.
 
-### Table: `edu_institution_aliases`
+### Slug Collision Strategy
 
-| Column         | Type      | Notes                            |
-| -------------- | --------- | -------------------------------- |
-| id             | bigint    | Primary key                      |
-| institution_id | bigint    | Foreign key to edu_institutions  |
-| alias          | string    | e.g. "MIT", "TU Munich"         |
-| created_at     | timestamp |                                  |
+Slugs are globally unique. When a collision is detected during import:
 
-Used for abbreviations, alternative spellings, and common short forms.
+1. First attempt: `Str::slug($name)` → `national-university`
+2. On collision: append country code → `national-university-ph`
+3. Still colliding: append numeric suffix → `national-university-ph-2`
 
-> **Why no `slug` column on aliases?** If the slug is just `Str::slug($alias)`, don't store it — derive it at query time or use a scope. Storing derived data in a lookup table adds write complexity for zero read benefit. Slug-based lookup should happen on the main `edu_institutions` table only.
+This keeps URL routing simple — no compound lookups needed.
 
 ### No `edu_import_logs` table in v1
 
-Import logs add a table, a model, and write logic for something achievable with `$this->info()` in console output and `Log::info()` for persistence. Add in v2 if users actually need audit trails.
+Use console output and `Log::info()` for persistence. Add a dedicated table in v2 if users need audit trails.
 
 ---
 
-## 5. Package Configuration
-
-`config/edu-registry.php`
+## 6. University Type Enum
 
 ```php
-return [
-
-    'import' => [
-        'update_existing' => true,
-        'chunk_size' => 500,
-        'max_retries' => 3,
-    ],
-
-];
-```
-
-Minimal configuration. No configurable prefix (hardcoded `edu_`). No `default_status` (no status column in v1).
-
----
-
-## 6. Institution Type Enum
-
-Use a backed PHP enum instead of a free string to prevent data drift. Wikidata returns dozens of variants ("research university", "polytechnic", "technical university") — map them to a controlled set during import.
-
-```php
-enum InstitutionType: string
+enum UniversityType: string
 {
     case University = 'university';
     case College = 'college';
@@ -150,171 +111,255 @@ enum InstitutionType: string
 }
 ```
 
-Anything from Wikidata that doesn't map cleanly defaults to `university`.
+Wikidata returns dozens of variants ("research university", "polytechnic", "technical university"). The importer maps them to this controlled set. Anything that doesn't map cleanly defaults to `university`.
 
 ---
 
-## 7. Core Features (Phase 1)
+## 7. Developer Experience (Consumption API)
 
-### Eloquent Models
+The consumption API is the product. Import is plumbing. Here's how developers use the package:
 
-**`Institution`** with scopes:
+### Basic Queries
 
-- `scopeCountry($code)`
-- `scopeType($type)`
-- `scopeSearch($term)` — basic LIKE search on name and short_name
+```php
+use Tisuchi\UniversityDirectory\Models\University;
 
-**`InstitutionAlias`** — simple belongs-to relationship.
+// Get all German universities
+University::country('DE')->get();
 
-No repository pattern. No excessive abstraction.
+// Filter by type
+University::country('US')->type(UniversityType::College)->get();
 
-### Facade
+// Search by name or short_name
+University::search('Munich')->get();
 
-`EduRegistry::search('MIT')` as a clean public API for common lookups.
+// Find by slug (for URL routing)
+University::where('slug', 'technical-university-of-munich')->firstOrFail();
 
-### Import Command
+// Dropdown data
+University::country('DE')->pluck('name', 'id');
+
+// With alias search (searches name, short_name, and JSON aliases)
+University::search('MIT')->first();
+```
+
+### Relationships
+
+```php
+// In the user's app — no trait needed, just a standard relationship
+class Application extends Model
+{
+    public function university()
+    {
+        return $this->belongsTo(\Tisuchi\UniversityDirectory\Models\University::class);
+    }
+}
+
+// Usage
+$application->university->name; // "Massachusetts Institute of Technology"
+$application->university->short_name; // "MIT"
+$application->university->aliases; // ["MIT", "Mass Tech"]
+```
+
+### API Resources
+
+```php
+use Tisuchi\UniversityDirectory\Http\Resources\UniversityResource;
+
+// In a controller
+return UniversityResource::collection(
+    University::search($request->q)->limit(20)->get()
+);
+
+// Response
+{
+    "id": 1,
+    "name": "Technical University of Munich",
+    "short_name": "TUM",
+    "slug": "technical-university-of-munich",
+    "country_code": "DE",
+    "type": "university",
+    "aliases": ["TU Munich", "TUM"],
+    "official_website": "https://www.tum.de"
+}
+```
+
+### Autocomplete Endpoint (Common Pattern)
+
+```php
+// routes/api.php
+Route::get('/universities/search', function (Request $request) {
+    return University::search($request->q)
+        ->country($request->country)
+        ->limit(20)
+        ->get(['id', 'name', 'short_name', 'country_code']);
+});
+```
+
+---
+
+## 8. Artisan Commands
+
+### Import
 
 ```
-php artisan edu:import DE
-php artisan edu:import DE --chunk=500
+php artisan ud:import DE
+php artisan ud:import DE --chunk=500 --retries=3 --no-update
 ```
 
 Workflow:
 
-1. Call Wikidata SPARQL endpoint with pagination (`LIMIT 500 OFFSET x`)
-2. Fetch institutions for the given ISO country code
-3. Transform and normalize response
-4. Match existing records by `wikidata_id` ONLY
-5. Insert or update (upsert)
+1. Fetch curated JSON from the data repository for the given country code
+2. Transform and normalize response
+3. Match existing records by `wikidata_id` ONLY
+4. Insert or update (upsert)
+5. Handle slug collisions with country-code suffix
 6. Output summary to console
 
-### Import Matching Strategy
+**Import matching:** `wikidata_id` only. No name-based fallback — name matching creates duplicates across languages. Records with null `wikidata_id` (manual entries) are never touched by imports.
 
-Match by `wikidata_id` only for automated imports.
+**Update rules — only update:** name, short_name, official_website, latitude, longitude, type, aliases. Never auto-delete records missing from the data source.
 
-> **Why not fallback to name + country_code?** Name matching creates duplicates. "Technical University of Munich" vs "Technische Universitat Munchen" — different strings, same institution. The `wikidata_id` is a unique identifier — use it. If `wikidata_id` is null (manual entry), it stays untouched by imports. Clean separation.
+### List & Inspect
 
-**Update rules — only update:**
+```
+php artisan ud:list --country=DE
+php artisan ud:list --search=Munich
+php artisan ud:stats
+```
 
-- name
-- short_name
-- official_website
-- latitude / longitude
-- type
+Output for `ud:stats`:
 
-Never overwrite manually edited custom fields (if user extends model). Never auto-delete records missing from Wikidata.
+```
+University Directory Stats
+--------------------------
+Total universities: 1,247
+Countries:          5
+Types:              university (980), college (150), institute (87), academy (30)
+Last import:        2026-02-20 (DE: 423 records)
+```
 
-### Slug Generation
-
-Use `Str::slug()` directly in the importer. No dedicated `SlugGenerator` class.
-
-> **Why no SlugGenerator?** Laravel has `Str::slug()`. Unless you're doing non-trivial transliteration of Cyrillic/Arabic university names, a dedicated class is unjustified. If transliteration is needed later, add it then. Don't pre-build infrastructure for a problem you haven't encountered yet.
-
----
-
-## 8. SPARQL Reliability
-
-The Wikidata public SPARQL endpoint has real constraints that must be handled:
-
-- **60-second timeout** on queries
-- **Aggressive rate limiting**
-- **Large countries (USA: ~5,000+ institutions) will time out** without pagination
-- **Endpoint downtime** is common
-
-### Mitigations
-
-1. **Pagination:** `LIMIT 500 OFFSET x` in every SPARQL query
-2. **Retry logic:** Exponential backoff, 3 attempts per chunk
-3. **Chunk option:** `--chunk=500` flag on the import command
-4. **Response caching:** Cache raw SPARQL responses so re-runs don't re-fetch on failure
+These commands cost minimal effort to build and massively improve the developer experience of "did my import work?"
 
 ---
 
-## 9. Package Structure
+## 9. No Config File
+
+Import-related settings (`chunk_size`, `retries`, `update_existing`) are per-invocation concerns — they belong as command options, not in a config file. If the config file would only have import keys, don't ship one. Not every package needs a config file.
+
+If a config file becomes necessary in a future version (e.g., for customizing the model class or data source URL), add it then.
+
+---
+
+## 10. No Facade
+
+The `University` model with Eloquent scopes IS the API. `University::search('MIT')->get()` is already clean and expressive. A Facade that wraps a single Eloquent query adds a layer of indirection for zero benefit. Facades exist for complex service objects, not for re-wrapping the query builder.
+
+---
+
+## 11. Package Structure
 
 ```
 src/
-  EduRegistryServiceProvider.php
-  Facades/
-    EduRegistry.php
+  UniversityDirectoryServiceProvider.php
   Models/
-    Institution.php
-    InstitutionAlias.php
+    University.php
   Enums/
-    InstitutionType.php
+    UniversityType.php
   Services/
-    WikidataClient.php
-    InstitutionImporter.php
+    DataClient.php
+    UniversityImporter.php
+  Http/
+    Resources/
+      UniversityResource.php
   Console/
-    ImportInstitutionsCommand.php
-config/
-  edu-registry.php
+    ImportCommand.php
+    ListCommand.php
+    StatsCommand.php
 database/
   migrations/
 tests/
   Feature/
     ImportCommandTest.php
+    ListCommandTest.php
   Unit/
-    WikidataClientTest.php
-    InstitutionImporterTest.php
+    DataClientTest.php
+    UniversityImporterTest.php
+    UniversityTest.php
+    UniversityTypeTest.php
+    SlugCollisionTest.php
 ```
 
 **Not included (by design):**
 
+- No Facades
+- No Config file
 - No Repositories
 - No Interfaces everywhere
 - No Events / Jobs / Queues
 - No DTO explosion
-- No SlugGenerator class
-- No import log model
+- No separate aliases table/model
 
 ---
 
-## 10. Country Handling Strategy
+## 12. Testing Strategy
+
+Tests are not optional. The Laravel ecosystem has high standards.
+
+| Test File | What It Covers |
+| --- | --- |
+| `DataClientTest` | Mock HTTP responses, test JSON parsing, test error handling |
+| `UniversityImporterTest` | Create, update, skip logic with SQLite. Upsert behavior. |
+| `ImportCommandTest` | Full command with mocked HTTP. Console output assertions. |
+| `ListCommandTest` | List/search output formatting. Stats calculations. |
+| `UniversityTest` | `scopeCountry`, `scopeType`, `scopeSearch`. Alias JSON querying. |
+| `UniversityTypeTest` | Wikidata type strings map to enum correctly. Default fallback. |
+| `SlugCollisionTest` | Duplicate slug detection, country suffix, numeric suffix. |
+
+All external HTTP calls are mocked. Tests run against SQLite for speed.
+
+---
+
+## 13. Country Handling
 
 Do NOT ship a countries table.
 
-Store `country_code` (ISO 3166-1 alpha-2) as a plain string column with an index.
-
-Reasons:
+Store `country_code` (ISO 3166-1 alpha-2) as a plain indexed string column.
 
 - Most apps already have countries
-- Avoid FK conflicts
-- Avoid duplication
+- Avoid FK conflicts and duplication
 - Keep the package portable
 
-If advanced users want country model integration, they can map manually via config or model extension.
+If users want country model integration, they add a standard `belongsTo` in their own app.
 
 ---
 
-## 11. Rollout Plan
+## 14. Rollout Plan
 
 ### Phase 1 — Germany Only
 
-- Build the importer
-- Test against real Wikidata responses
-- Handle deduplication edge cases
-- Validate slug generation
-- Validate website fields
+- Build the data pipeline (SPARQL → curated JSON)
+- Build the package (model, importer, commands)
+- Write full test suite
+- Test against real Wikidata data
+- Validate slug generation and collision handling
 - Deploy inside your scholarship project for real-world validation (forms, filters, autocomplete)
 
 ### Phase 2 — Expand to 3-5 Countries
 
 - Germany, USA, UK, Canada, Australia
-- Validate SPARQL pagination works for large datasets (USA)
+- Validate import works for large datasets (USA)
 - Publish v0.1 on Packagist
 
 ### Phase 3 — Community Contributions
 
-- Open up `php artisan edu:import FR` for any country
+- Open up `php artisan ud:import FR` for any country
 - Accept community PRs for type mapping improvements, alias enrichment
 - Publish v1.0
 
 ---
 
-## 12. Keeping It Lightweight
-
-To ensure the package stays lightweight:
+## 15. Keeping It Lightweight
 
 - No automatic global import
 - No heavy seed files
@@ -327,7 +372,7 @@ This is a registry, not a ministry of education.
 
 ---
 
-## 13. Long-Term Extension Possibilities (Post v1)
+## 16. Long-Term Possibilities (Post v1)
 
 Not for v1. Document for future consideration:
 
@@ -335,53 +380,51 @@ Not for v1. Document for future consideration:
 - Filament select component
 - Livewire search dropdown
 - Alias auto-suggest
-- Scheduled sync command (`edu:sync`)
-- Optional API routes
+- Scheduled sync command (`ud:sync`)
+- Optional API routes (pre-built)
 - `status` column (active/closed) with real data source
-- `edu_import_logs` table for audit trails
+- `ud_import_logs` table for audit trails
+- Separate aliases table if JSON column outgrows its usefulness
+- Config file for model class customization, data source URL
 
 ---
 
-## 14. What Makes This Package Valuable
+## 17. Risks & Mitigation
 
-Not the size of the data. But:
-
-- Structured, clean data from a reliable source
-- Automated importing with proper deduplication
-- Minimal, conflict-free schema
-- Laravel-native integration (Eloquent, Facade, Artisan)
-- Alias handling for real-world name variations
-- Slug consistency for URL-friendly lookups
-
----
-
-## 15. Risks & Mitigation
-
-| Risk                           | Mitigation                                             |
-| ------------------------------ | ------------------------------------------------------ |
-| Incomplete Wikidata entries    | Allow manual additions (null wikidata_id)              |
-| Duplicates from name matching  | Match by wikidata_id only, never by name               |
-| SPARQL timeouts on large data  | Pagination, chunking, retry with exponential backoff   |
-| SPARQL endpoint downtime       | Response caching, retry logic                          |
-| Type data drift (free strings) | PHP backed enum with controlled mapping                |
-| Schema conflicts with host app | Hardcoded edu_ prefix, no FKs to external tables       |
-| Overengineering                | Strict minimal architecture, no premature abstractions |
-| Abandonment                    | Use it in your own production app first                |
+| Risk | Mitigation |
+| --- | --- |
+| Incomplete Wikidata entries | Allow manual additions (null wikidata_id) |
+| Duplicates from name matching | Match by wikidata_id only, never by name |
+| Data source unavailable | Curated JSON on GitHub — no SPARQL dependency at runtime |
+| Type data drift (free strings) | PHP backed enum with controlled mapping |
+| Slug collisions across countries | Global unique slugs with country-code suffix |
+| Schema conflicts with host app | Hardcoded ud_ prefix, no FKs to external tables |
+| Overengineering | Strict minimal architecture, no premature abstractions |
+| Abandonment | Use it in your own production app first |
 
 ---
 
-## 16. Summary of Changes from Original Plan
+## 18. Summary of Revisions
 
-| #  | Original Plan                    | Revised                                           |
-| -- | -------------------------------- | ------------------------------------------------- |
-| 1  | Configurable table prefix        | Hardcoded `edu_` prefix                           |
-| 2  | `slug` on aliases table          | Dropped — derive from alias at query time         |
-| 3  | `type` as free string            | PHP backed enum                                   |
-| 4  | `status` column                  | Dropped from v1 (YAGNI)                           |
-| 5  | Simple SPARQL call               | Chunking, retry, timeout handling, caching        |
-| 6  | Name + country fallback matching | Match by `wikidata_id` only                       |
-| 7  | No constraints mentioned         | Explicit unique/index constraints defined          |
-| 8  | No short_name                    | Added `short_name` nullable column (from P1813)   |
-| 9  | `edu_import_logs` table          | Dropped from v1 — use console output + Log facade |
-| 10 | Minimal package structure        | Added Facades, Enums, tests, publishable config   |
-| 11 | `SlugGenerator` class            | Removed — use `Str::slug()` directly              |
+| # | Original (ChatGPT) | Architect Review | Final (Taylor Review) |
+| -- | --- | --- | --- |
+| 1 | Configurable table prefix | Hardcoded `edu_` | Hardcoded `ud_`, unified naming |
+| 2 | `slug` on aliases table | Dropped slug column | Dropped entire aliases table — JSON column |
+| 3 | `type` as free string | PHP backed enum | PHP backed enum |
+| 4 | `status` column | Dropped from v1 | Dropped from v1 |
+| 5 | Direct SPARQL in package | Chunking, retry, caching | Curated JSON data repo — no SPARQL in package |
+| 6 | Name + country fallback | wikidata_id only | wikidata_id only |
+| 7 | No constraints | Explicit indexes | Explicit indexes |
+| 8 | No short_name | Added short_name | Added short_name |
+| 9 | `edu_import_logs` table | Dropped from v1 | Dropped from v1 |
+| 10 | Minimal structure | Added Facade, tests | Dropped Facade, expanded tests |
+| 11 | `SlugGenerator` class | Use Str::slug() | Use Str::slug() with collision handling |
+| 12 | Config file with 3 keys | Kept config file | Dropped config file — use command options |
+| 13 | Model: `Institution` | Kept Institution | Renamed to `University` |
+| 14 | Mixed package naming | — | Unified: `university-directory` everywhere |
+| 15 | AI section in plan | — | Removed — it's workflow, not a feature |
+| 16 | Import-heavy, no DX docs | — | Full consumption API section added |
+| 17 | No artisan list/stats | — | Added `ud:list` and `ud:stats` commands |
+| 18 | No version constraints | — | PHP 8.2+, Laravel 11/12, DB requirements |
+| 19 | Slug collisions ignored | — | Global unique with country suffix strategy |
+| 20 | 3 test files | — | 7 test files covering real scenarios |
