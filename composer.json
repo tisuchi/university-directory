@@ -19,7 +19,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Tisuchi\\UniversityDirectory\\": "src/"
+            "Tisuchi\\UniversityDirectory\\": "src/",
+            "Tisuchi\\UniversityDirectory\\Database\\Factories\\": "database/factories/"
         }
     },
     "autoload-dev": {
