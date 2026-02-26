@@ -4,14 +4,10 @@
 
 # University Directory
 
-<!--
 <p align="center">
     <a href="https://github.com/tisuchi/university-directory/actions"><img src="https://img.shields.io/github/actions/workflow/status/tisuchi/university-directory/run-tests.yml?branch=main&label=tests&style=flat-square" alt="Tests"></a>
     <a href="https://github.com/tisuchi/university-directory/blob/main/LICENSE"><img src="https://img.shields.io/github/license/tisuchi/university-directory?style=flat-square" alt="License"></a>
-    <a href="https://packagist.org/packages/tisuchi/university-directory"><img src="https://img.shields.io/packagist/v/tisuchi/university-directory.svg?style=flat-square" alt="Latest Version on Packagist"></a>
-    <a href="https://packagist.org/packages/tisuchi/university-directory"><img src="https://img.shields.io/packagist/dt/tisuchi/university-directory.svg?style=flat-square" alt="Total Downloads"></a>
 </p>
--->
 
 A lightweight, structured university registry for Laravel applications. Built for scholarship platforms, education portals, and any app that needs clean university data with search, autocomplete, and URL-friendly slugs.
 
