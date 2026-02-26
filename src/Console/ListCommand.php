@@ -8,7 +8,7 @@ use Tisuchi\UniversityDirectory\Models\University;
 
 class ListCommand extends Command
 {
-    protected $signature = 'ud:list
+    protected $signature = 'university-directory:list
         {--country= : Filter by country code}
         {--search= : Search by name}
         {--type= : Filter by type}
