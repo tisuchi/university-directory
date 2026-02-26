@@ -3,11 +3,19 @@
 namespace Tisuchi\UniversityDirectory\Models;
 
 use Illuminate\Database\Eloquent\Builder;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Tisuchi\UniversityDirectory\Enums\UniversityType;
 
 class University extends Model
 {
+    use HasFactory;
+
+    protected static function newFactory()
+    {
+        return \Tisuchi\UniversityDirectory\Database\Factories\UniversityFactory::new();
+    }
+
     protected $table = 'ud_universities';
 
     protected $fillable = [
