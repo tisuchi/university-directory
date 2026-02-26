@@ -25,10 +25,10 @@ php artisan migrate
 Import university data from the curated data source by country code:
 
 ```bash
-php artisan ud:import DE
-php artisan ud:import DE US GB
-php artisan ud:import --region=europe
-php artisan ud:import --all
+php artisan university-directory:import DE
+php artisan university-directory:import DE US GB
+php artisan university-directory:import --region=europe
+php artisan university-directory:import --all
 ```
 
 Available regions: `europe`, `asia`, `africa`, `americas`, `oceania`, `middle-east`
@@ -139,11 +139,11 @@ Route::get('/universities/search', function (Request $request) {
 
 ```bash
 # List universities with filters
-php artisan ud:list
-php artisan ud:list --country=DE --type=university --search=Munich --limit=10
+php artisan university-directory:list
+php artisan university-directory:list --country=DE --type=university --search=Munich --limit=10
 
 # Show database statistics
-php artisan ud:stats
+php artisan university-directory:stats
 ```
 
 ## Publishing Migrations

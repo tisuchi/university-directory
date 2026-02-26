@@ -29,7 +29,7 @@ test('imports single country', function () {
         '*/DE.json' => Http::response(sampleJsonResponse(3), 200),
     ]);
 
-    $this->artisan('ud:import', ['countries' => ['DE']])
+    $this->artisan('university-directory:import', ['countries' => ['DE']])
         ->assertExitCode(0);
 
     expect(University::count())->toBe(3);
@@ -53,7 +53,7 @@ test('imports multiple countries', function () {
         ], 200),
     ]);
 
-    $this->artisan('ud:import', ['countries' => ['DE', 'US']])
+    $this->artisan('university-directory:import', ['countries' => ['DE', 'US']])
         ->assertExitCode(0);
 
     expect(University::where('country_code', 'DE')->count())->toBe(2);
@@ -65,7 +65,7 @@ test('handles fetch failure gracefully', function () {
         '*' => Http::response('Server Error', 500),
     ]);
 
-    $this->artisan('ud:import', ['countries' => ['XX']])
+    $this->artisan('university-directory:import', ['countries' => ['XX']])
         ->assertExitCode(0);
 
     expect(University::count())->toBe(0);
@@ -76,7 +76,7 @@ test('displays summary output', function () {
         '*/DE.json' => Http::response(sampleJsonResponse(2), 200),
     ]);
 
-    $this->artisan('ud:import', ['countries' => ['DE']])
+    $this->artisan('university-directory:import', ['countries' => ['DE']])
         ->expectsOutputToContain('created')
         ->assertExitCode(0);
 });
@@ -104,7 +104,7 @@ test('no-update flag skips existing', function () {
         ], 200),
     ]);
 
-    $this->artisan('ud:import', ['countries' => ['DE'], '--no-update' => true])
+    $this->artisan('university-directory:import', ['countries' => ['DE'], '--no-update' => true])
         ->assertExitCode(0);
 
     expect(University::where('wikidata_id', 'Q50000')->first()->name)->toBe('Old Name');
@@ -115,7 +115,7 @@ test('region flag imports region', function () {
         '*' => Http::response([], 200),
     ]);
 
-    $this->artisan('ud:import', ['--region' => 'oceania'])
+    $this->artisan('university-directory:import', ['--region' => 'oceania'])
         ->assertExitCode(0);
 });
 
@@ -124,16 +124,16 @@ test('all flag with no-interaction', function () {
         '*' => Http::response([], 200),
     ]);
 
-    $this->artisan('ud:import', ['--all' => true, '--no-interaction' => true])
+    $this->artisan('university-directory:import', ['--all' => true, '--no-interaction' => true])
         ->assertExitCode(0);
 });
 
 test('fails without arguments', function () {
-    $this->artisan('ud:import')
+    $this->artisan('university-directory:import')
         ->assertExitCode(1);
 });
 
 test('fails with invalid region', function () {
-    $this->artisan('ud:import', ['--region' => 'atlantis'])
+    $this->artisan('university-directory:import', ['--region' => 'atlantis'])
         ->assertExitCode(1);
 });

@@ -10,7 +10,7 @@ use Tisuchi\UniversityDirectory\Services\UniversityImporter;
 
 class ImportCommand extends Command
 {
-    protected $signature = 'ud:import
+    protected $signature = 'university-directory:import
         {countries?* : One or more country codes (e.g. DE US UK)}
         {--region= : Import all countries in a region (europe, asia, africa, americas, oceania, middle-east)}
         {--all : Import all available countries}

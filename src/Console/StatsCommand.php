@@ -7,7 +7,7 @@ use Tisuchi\UniversityDirectory\Models\University;
 
 class StatsCommand extends Command
 {
-    protected $signature = 'ud:stats';
+    protected $signature = 'university-directory:stats';
 
     protected $description = 'Show university database statistics';
 
