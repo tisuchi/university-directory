@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background rounded square -->
+  <rect width="512" height="512" rx="80" fill="url(#bg)"/>
+
+  <!-- University building -->
+  <g transform="translate(256, 240)">
+    <!-- Triangular pediment / roof -->
+    <polygon points="-120,-80 0,-140 120,-80" fill="white" opacity="0.95"/>
+
+    <!-- Main building body -->
+    <rect x="-110" y="-80" width="220" height="140" rx="4" fill="white" opacity="0.95"/>
+
+    <!-- Pillars -->
+    <rect x="-90" y="-65" width="18" height="120" rx="3" fill="#4F46E5" opacity="0.6"/>
+    <rect x="-50" y="-65" width="18" height="120" rx="3" fill="#4F46E5" opacity="0.6"/>
+    <rect x="-10" y="-65" width="18" height="120" rx="3" fill="#4F46E5" opacity="0.6"/>
+    <rect x="32" y="-65" width="18" height="120" rx="3" fill="#4F46E5" opacity="0.6"/>
+    <rect x="72" y="-65" width="18" height="120" rx="3" fill="#4F46E5" opacity="0.6"/>
+
+    <!-- Base / steps -->
+    <rect x="-130" y="60" width="260" height="16" rx="4" fill="white" opacity="0.85"/>
+    <rect x="-145" y="76" width="290" height="14" rx="4" fill="white" opacity="0.7"/>
+  </g>
+
+  <!-- Magnifying glass (search / directory) -->
+  <g transform="translate(370, 350)">
+    <circle cx="0" cy="0" r="42" stroke="white" stroke-width="12" fill="none" opacity="0.95"/>
+    <line x1="30" y1="30" x2="62" y2="62" stroke="white" stroke-width="12" stroke-linecap="round" opacity="0.95"/>
+  </g>
+</svg>
