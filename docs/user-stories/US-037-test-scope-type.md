@@ -9,18 +9,18 @@ As a package developer, I want tests that verify the type scope filters universi
 - US-031 (test infrastructure exists)
 
 ## Stack
-- PHPUnit 11
+- Pest PHP 3
 - Orchestra Testbench
 - SQLite in-memory
 
 ## Implementation Checklist
-- [ ] Add tests to `tests/Unit/UniversityTest.php`
-- [ ] Test: `test_scope_type_filters_by_enum()` — create universities of different types, assert filtering by College returns only colleges
-- [ ] Test: `test_scope_type_with_university()` — filter for University type
-- [ ] Test: `test_scope_type_returns_empty_for_no_matches()` — filter for a type with no records
+- [ ] Add test closures to `tests/Unit/UniversityTest.php`
+- [ ] Add test closure: `test('scope type filters by enum', ...)` — create universities of different types, assert filtering by College returns only colleges
+- [ ] Add test closure: `test('scope type with university', ...)` — filter for University type
+- [ ] Add test closure: `test('scope type returns empty for no matches', ...)` — filter for a type with no records
 
 ## Implementation Prompt
-> Add tests to `tests/Unit/UniversityTest.php`. `test_scope_type_filters_by_enum`: create 2 unis with type 'university' and 3 with type 'college', assert `University::type(UniversityType::College)->count()` is 3. `test_scope_type_with_university_type`: same data, assert `University::type(UniversityType::University)->count()` is 2. `test_scope_type_returns_empty_when_no_matches`: assert `University::type(UniversityType::Academy)->count()` is 0.
+> Add test closures to `tests/Unit/UniversityTest.php` using Pest syntax. `test('scope type filters by enum', function () { University::factory()->count(2)->create(['type' => 'university']); University::factory()->count(3)->create(['type' => 'college']); expect(University::type(UniversityType::College)->count())->toBe(3); });` — `test('scope type with university type', function () { ... expect(University::type(UniversityType::University)->count())->toBe(2); });` — `test('scope type returns empty when no matches', function () { expect(University::type(UniversityType::Academy)->count())->toBe(0); });`
 
 ## Acceptance Criteria
 - [ ] Type filter returns only universities matching the given enum case

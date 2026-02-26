@@ -9,19 +9,19 @@ As a package developer, I want tests that verify the DataClient throws proper ex
 - US-043 (basic DataClient tests exist)
 
 ## Stack
-- PHPUnit 11
+- Pest PHP 3
 - Laravel HTTP Client fake/mock
 - PHP 8.2+
 
 ## Implementation Checklist
 - [ ] Add tests to `tests/Unit/DataClientTest.php`
-- [ ] Test: `test_throws_exception_on_404()` — Mock 404 response, assert exception is thrown when fetching
-- [ ] Test: `test_throws_exception_on_500()` — Mock 500 response, assert exception is thrown
-- [ ] Test: `test_throws_on_connection_timeout()` — Mock a connection exception, verify it propagates
-- [ ] Test: `test_retries_before_failing()` — Mock sequence of failures then success, verify retry works
+- [ ] Test: `test('throws exception on 404', function () { ... })` — Mock 404 response, assert exception is thrown when fetching
+- [ ] Test: `test('throws exception on 500', function () { ... })` — Mock 500 response, assert exception is thrown
+- [ ] Test: `test('throws on connection timeout', function () { ... })` — Mock a connection exception, verify it propagates
+- [ ] Test: `test('retries before failing', function () { ... })` — Mock sequence of failures then success, verify retry works
 
 ## Implementation Prompt
-> Add tests to `tests/Unit/DataClientTest.php`. `test_throws_exception_on_404`: `Http::fake(['*' => Http::response('Not Found', 404)])`. Assert `$this->expectException(\Illuminate\Http\Client\RequestException::class)` then call `$client->fetch('XX')`. `test_throws_exception_on_500`: same but with 500 status. `test_retries_before_failing`: Use `Http::fakeSequence()->push('Error', 500)->push('Error', 500)->push([['name' => 'Test']], 200)`. Call `$client->fetch('DE', 3)` and assert it succeeds (retries got through). `test_throws_after_retries_exhausted`: fake all 500s, assert exception thrown.
+> Add tests to `tests/Unit/DataClientTest.php` using Pest closure syntax. `test('throws exception on 404', function () { ... })`: `Http::fake(['*' => Http::response('Not Found', 404)])`. Use `expect(fn () => $client->fetch('XX'))->toThrow(\Illuminate\Http\Client\RequestException::class)`. `test('throws exception on 500', function () { ... })`: same but with 500 status, use `expect(fn () => $client->fetch('XX'))->toThrow(RequestException::class)`. `test('retries before failing', function () { ... })`: Use `Http::fakeSequence()->push('Error', 500)->push('Error', 500)->push([['name' => 'Test']], 200)`. Call `$client->fetch('DE', 3)` and use `expect($result)->toBeArray()` to assert it succeeds (retries got through). `test('throws after retries exhausted', function () { ... })`: fake all 500s, use `expect(fn () => $client->fetch('XX'))->toThrow(RequestException::class)`.
 
 ## Acceptance Criteria
 - [ ] 404 responses throw RequestException
