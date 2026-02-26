@@ -1,76 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
   <defs>
-    <linearGradient id="shield" x1="256" y1="40" x2="256" y2="480" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#1E293B"/>
-      <stop offset="100%" stop-color="#0F172A"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
     </linearGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#F59E0B"/>
-      <stop offset="100%" stop-color="#D97706"/>
-    </linearGradient>
-    <linearGradient id="capGold" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#FBBF24"/>
-      <stop offset="100%" stop-color="#F59E0B"/>
+    <linearGradient id="shine" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
-  <!-- Shield shape -->
-  <path d="M256 28 L462 100 L462 260 Q462 420 256 488 Q50 420 50 260 L50 100 Z" fill="url(#shield)" stroke="#334155" stroke-width="4"/>
-
-  <!-- Inner shield border -->
-  <path d="M256 52 L440 116 L440 258 Q440 402 256 464 Q72 402 72 258 L72 116 Z" fill="none" stroke="#D97706" stroke-width="2.5" opacity="0.6"/>
+  <!-- Background rounded square -->
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <rect width="512" height="512" rx="96" fill="url(#shine)"/>
 
   <!-- Graduation cap -->
-  <g transform="translate(256, 148)">
-    <!-- Cap board (diamond) -->
-    <polygon points="0,-38 120,0 0,22 -120,0" fill="url(#capGold)"/>
-    <!-- Cap board shadow -->
-    <polygon points="0,22 120,0 0,8 -120,0" fill="#D97706" opacity="0.4"/>
-    <!-- Tassel string -->
-    <line x1="0" y1="-38" x2="-56" y2="-38" stroke="#FBBF24" stroke-width="3"/>
-    <line x1="-56" y1="-38" x2="-56" y2="10" stroke="#FBBF24" stroke-width="3"/>
-    <!-- Tassel end -->
-    <rect x="-62" y="10" width="12" height="18" rx="2" fill="#F59E0B"/>
-    <!-- Button on top -->
-    <circle cx="0" cy="-38" r="6" fill="#D97706"/>
+  <g transform="translate(256, 175)">
+    <!-- Cap board (flat top) -->
+    <polygon points="0,-52 140,0 0,30 -140,0" fill="#FFFFFF"/>
+    <!-- Cap underside shadow -->
+    <polygon points="0,30 140,0 0,14 -140,0" fill="#E0E0FF" opacity="0.5"/>
+    <!-- Center button -->
+    <circle cx="0" cy="-52" r="8" fill="#E0E7FF"/>
+    <!-- Tassel cord -->
+    <path d="M0,-52 Q-30,-52 -60,-44 Q-68,-42 -70,-30 L-70,12" fill="none" stroke="#E0E7FF" stroke-width="3.5" stroke-linecap="round"/>
+    <!-- Tassel -->
+    <path d="M-76,12 L-64,12 L-66,36 Q-70,42 -74,36 Z" fill="#E0E7FF"/>
   </g>
 
-  <!-- Open book / directory -->
-  <g transform="translate(256, 280)">
-    <!-- Book spine -->
-    <line x1="0" y1="-50" x2="0" y2="50" stroke="#94A3B8" stroke-width="2" opacity="0.5"/>
-    <!-- Left page -->
-    <path d="M-4,-50 Q-80,-42 -100,-30 L-100,42 Q-80,34 -4,42 Z" fill="#E2E8F0" opacity="0.9"/>
-    <!-- Right page -->
-    <path d="M4,-50 Q80,-42 100,-30 L100,42 Q80,34 4,42 Z" fill="#F1F5F9" opacity="0.9"/>
+  <!-- Pillars (classical university columns) -->
+  <g fill="#FFFFFF">
+    <!-- Left pillar -->
+    <rect x="138" y="238" width="18" height="100" rx="2"/>
+    <rect x="132" y="232" width="30" height="10" rx="2"/>
+    <rect x="132" y="336" width="30" height="10" rx="2"/>
 
-    <!-- Left page lines (directory entries) -->
-    <line x1="-82" y1="-18" x2="-20" y2="-24" stroke="#64748B" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
-    <line x1="-86" y1="-2" x2="-18" y2="-8" stroke="#64748B" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
-    <line x1="-88" y1="14" x2="-16" y2="8" stroke="#64748B" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
-    <line x1="-90" y1="30" x2="-14" y2="24" stroke="#64748B" stroke-width="3" stroke-linecap="round" opacity="0.35"/>
+    <!-- Center-left pillar -->
+    <rect x="202" y="238" width="18" height="100" rx="2"/>
+    <rect x="196" y="232" width="30" height="10" rx="2"/>
+    <rect x="196" y="336" width="30" height="10" rx="2"/>
 
-    <!-- Right page lines -->
-    <line x1="20" y1="-24" x2="82" y2="-18" stroke="#64748B" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
-    <line x1="18" y1="-8" x2="86" y2="-2" stroke="#64748B" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
-    <line x1="16" y1="8" x2="88" y2="14" stroke="#64748B" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
-    <line x1="14" y1="24" x2="90" y2="30" stroke="#64748B" stroke-width="3" stroke-linecap="round" opacity="0.35"/>
+    <!-- Center-right pillar -->
+    <rect x="292" y="238" width="18" height="100" rx="2"/>
+    <rect x="286" y="232" width="30" height="10" rx="2"/>
+    <rect x="286" y="336" width="30" height="10" rx="2"/>
 
-    <!-- Small gold dots as bullet points (left) -->
-    <circle cx="-86" cy="-20" r="3" fill="#F59E0B" opacity="0.7"/>
-    <circle cx="-90" cy="-4" r="3" fill="#F59E0B" opacity="0.7"/>
-    <circle cx="-92" cy="12" r="3" fill="#F59E0B" opacity="0.7"/>
-
-    <!-- Small gold dots as bullet points (right) -->
-    <circle cx="86" cy="-20" r="3" fill="#F59E0B" opacity="0.7"/>
-    <circle cx="90" cy="-4" r="3" fill="#F59E0B" opacity="0.7"/>
-    <circle cx="92" cy="12" r="3" fill="#F59E0B" opacity="0.7"/>
+    <!-- Right pillar -->
+    <rect x="356" y="238" width="18" height="100" rx="2"/>
+    <rect x="350" y="232" width="30" height="10" rx="2"/>
+    <rect x="350" y="336" width="30" height="10" rx="2"/>
   </g>
 
-  <!-- Globe accent (small, bottom of shield) -->
-  <g transform="translate(256, 400)">
-    <circle cx="0" cy="0" r="22" stroke="#D97706" stroke-width="1.5" fill="none" opacity="0.45"/>
-    <ellipse cx="0" cy="0" rx="10" ry="22" stroke="#D97706" stroke-width="1.5" fill="none" opacity="0.35"/>
-    <line x1="-22" y1="0" x2="22" y2="0" stroke="#D97706" stroke-width="1.5" opacity="0.35"/>
+  <!-- Base / foundation -->
+  <rect x="116" y="350" width="280" height="14" rx="4" fill="#FFFFFF"/>
+
+  <!-- Pediment / triangular roof -->
+  <polygon points="256,200 390,240 122,240" fill="#FFFFFF"/>
+
+  <!-- Search / directory magnifying glass accent -->
+  <g transform="translate(370, 370)">
+    <circle cx="0" cy="0" r="32" stroke="#FFFFFF" stroke-width="7" fill="none" opacity="0.9"/>
+    <line x1="22" y1="22" x2="48" y2="48" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" opacity="0.9"/>
+  </g>
+
+  <!-- Three horizontal lines inside the building (directory listing) -->
+  <g stroke="#E0E7FF" stroke-width="4" stroke-linecap="round" opacity="0.5">
+    <line x1="180" y1="268" x2="332" y2="268"/>
+    <line x1="180" y1="288" x2="332" y2="288"/>
+    <line x1="180" y1="308" x2="332" y2="308"/>
   </g>
 </svg>
