@@ -1,0 +1,965 @@
+[
+    {
+        "wikidata_id": "Q12793764",
+        "name": "Agricultural Institute of Slovenia",
+        "short_name": null,
+        "official_website": "http:\/\/www.kis.si\/",
+        "aliases": [
+            "Kmetijski inštitut Slovenije"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q14594755",
+        "name": "Alma Mater Europaea",
+        "short_name": null,
+        "official_website": "https:\/\/almamater.at\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q49569400",
+        "name": "Andrej marušič institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30257260",
+        "name": "Angela Boškin Faculty of Health Care",
+        "short_name": "ABFHC",
+        "official_website": "https:\/\/www.fzab.si\/",
+        "aliases": [
+            "ABFHC",
+            "College of Nursing (Jesenice)",
+            "Faculty of Health Care Jesenice"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74546672",
+        "name": "Association of Radiology and Oncology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74549104",
+        "name": "Bird Watching and Bird Study Association of Slovenia - DOPPS Bird Life",
+        "short_name": "DOPPS",
+        "official_website": "https:\/\/www.ptice.si\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30257301",
+        "name": "College of Environmental Protection",
+        "short_name": null,
+        "official_website": "http:\/\/www.vsvo.si\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q20523709",
+        "name": "Department of German, Scandinavian and Dutch Languages",
+        "short_name": null,
+        "official_website": "http:\/\/germanistika.si\/sl\/",
+        "aliases": [
+            "Oddelek za germanistiko z nederlandistiko in skandinavistiko"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20523721",
+        "name": "Department of Translation",
+        "short_name": null,
+        "official_website": "http:\/\/www.prevajalstvo.net\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q49238110",
+        "name": "Družbenomedicinski inštitut",
+        "short_name": null,
+        "official_website": "https:\/\/dmi.zrc-sazu.si\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5411497",
+        "name": "Euro-Mediterranean University of Slovenia",
+        "short_name": null,
+        "official_website": "https:\/\/emuni.si\/",
+        "aliases": [
+            "EMUNI",
+            "EMUNI University"
+        ],
+        "latitude": 45.5281915,
+        "longitude": 13.5675583,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74542840",
+        "name": "Faculty SASS Nova Gorica",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5453059",
+        "name": "First Grammar School, Celje",
+        "short_name": null,
+        "official_website": "http:\/\/www.prvagim.si\/",
+        "aliases": null,
+        "latitude": 46.2311111,
+        "longitude": 15.2583333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q49237735",
+        "name": "Glasbenonarodopisni inštitut",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q49568176",
+        "name": "High School for Regional Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.arema.si\/",
+        "aliases": [
+            "AREMA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5970220",
+        "name": "IEDC-Bled School of Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.iedc.si",
+        "aliases": [
+            "IEDC - Bled School of Management"
+        ],
+        "latitude": 46.3706917,
+        "longitude": 14.1086667,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12791410",
+        "name": "Institute for Ethnic Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.inv.si\/",
+        "aliases": [
+            "Inštitut za Narodnostna Vprašanja"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74546674",
+        "name": "Institute of Biology ZRC SAZU (Slovenian Academy of Sciences and Arts)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12791409",
+        "name": "Institute of Contemporary History in Ljubljana",
+        "short_name": null,
+        "official_website": "http:\/\/www.inz.si\/",
+        "aliases": [
+            "Inštitut za Novejšo Zgodovino",
+            "inz.si"
+        ],
+        "latitude": 46.0508724,
+        "longitude": 14.5032931,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q15228722",
+        "name": "Institute of Mathematics, Physics, and Mechanics",
+        "short_name": null,
+        "official_website": "http:\/\/www.imfm.si\/view?set_language=en",
+        "aliases": [
+            "Inštitut za Matematiko, Fiziko in Mehaniko"
+        ],
+        "latitude": 46.0426972,
+        "longitude": 14.4897,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12797927",
+        "name": "Institute of Oncology Ljubljana",
+        "short_name": null,
+        "official_website": "http:\/\/www.onko-i.si\/",
+        "aliases": [
+            "Onkološki Inštitut Ljubljana"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12791413",
+        "name": "Institute of Pathology, Faculty of Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q49237859",
+        "name": "Institute of Philosophy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Institute of Philosophy SAZU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12796287",
+        "name": "International School for Business and Social Studies",
+        "short_name": null,
+        "official_website": "http:\/\/mfdps.si\/en",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q49237597",
+        "name": "Inštitut za antropološke in prostorske študije",
+        "short_name": null,
+        "official_website": "https:\/\/iaps.zrc-sazu.si\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q49237415",
+        "name": "Inštitut za kulturno zgodovino",
+        "short_name": null,
+        "official_website": "https:\/\/ikz.zrc-sazu.si\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q49237039",
+        "name": "Inštitut za slovensko izseljenstvo in migracije",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q49236930",
+        "name": "Inštitut za slovensko narodopisje",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12785900",
+        "name": "Jovan Hadži Institute of Biology",
+        "short_name": null,
+        "official_website": "http:\/\/bijh.zrc-sazu.si\/",
+        "aliases": [
+            "BIJH"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5918873",
+        "name": "Jožef Stefan Institute",
+        "short_name": "JSI",
+        "official_website": "http:\/\/www.ijs.si\/",
+        "aliases": [
+            "JSI",
+            "ijs.si"
+        ],
+        "latitude": 46.0423028,
+        "longitude": 14.4877694,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20520998",
+        "name": "Jožef Stefan International Postgraduate School",
+        "short_name": null,
+        "official_website": "http:\/\/www.mps.si\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q49237187",
+        "name": "Karst Research Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12797033",
+        "name": "Marine Biology Station Piran",
+        "short_name": null,
+        "official_website": "http:\/\/www.nib.si\/mbp\/sl\/",
+        "aliases": [
+            "MBP",
+            "Morska biološka postaja"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12788294",
+        "name": "Milan Vidmar Electric Power Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.eimv.si\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6858110",
+        "name": "Milko Kos Historical Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Zgodovinski inštitut Milka Kosa"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12797210",
+        "name": "National Institute of Biology",
+        "short_name": "NIB",
+        "official_website": "http:\/\/www.nib.si\/eng\/",
+        "aliases": [
+            "NIB",
+            "Nacionalni inštitut za biologijo"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12793602",
+        "name": "National Institute of Chemistry",
+        "short_name": null,
+        "official_website": "https:\/\/www.ki.si\/en",
+        "aliases": [
+            "NIC",
+            "Kemijski inštitut"
+        ],
+        "latitude": 46.0427,
+        "longitude": 14.4936,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q50224392",
+        "name": "New University",
+        "short_name": null,
+        "official_website": "https:\/\/nova-uni.si\/",
+        "aliases": [
+            "Nova univerza"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12797802",
+        "name": "Oddelek za arheologijo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12797770",
+        "name": "Oddelek za etnologijo in kulturno antropologijo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12797777",
+        "name": "Oddelek za pedagogiko in andragogiko",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q49236805",
+        "name": "Paleontološki inštitut Ivana Rakovca",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q105580996",
+        "name": "Q105580996",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 46.0492046,
+        "longitude": 14.4750307,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107616247",
+        "name": "Q107616247",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107619713",
+        "name": "Q107619713",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12797768",
+        "name": "Q12797768",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 46.0512389,
+        "longitude": 14.4699389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12797769",
+        "name": "Q12797769",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12797772",
+        "name": "Q12797772",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12797773",
+        "name": "Q12797773",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12797775",
+        "name": "Q12797775",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12797778",
+        "name": "Q12797778",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12797781",
+        "name": "Q12797781",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12797782",
+        "name": "Q12797782",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12797786",
+        "name": "Q12797786",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q132559179",
+        "name": "Q132559179",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 45.7758173,
+        "longitude": 14.2149677,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q132797625",
+        "name": "Q132797625",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 45.7750078,
+        "longitude": 14.2138425,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q132798076",
+        "name": "Q132798076",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 45.7755552,
+        "longitude": 14.2138185,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20523694",
+        "name": "Q20523694",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20523703",
+        "name": "Q20523703",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20523732",
+        "name": "Q20523732",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20523739",
+        "name": "Q20523739",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20523748",
+        "name": "Q20523748",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20523763",
+        "name": "Q20523763",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q49235840",
+        "name": "Q49235840",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q49980174",
+        "name": "Q49980174",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q50179598",
+        "name": "Q50179598",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q52831843",
+        "name": "Q52831843",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q49447920",
+        "name": "Raziskovalni center Ekonomske fakultete Univerze v Ljubljani",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "RCEF"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20033509",
+        "name": "Royal lmperial State Craft School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 46.0460282,
+        "longitude": 14.500203,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65272936",
+        "name": "School Centre Novo Mesto, Short-cycle Higher Vocational College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q49569044",
+        "name": "Science and Research Centre of Koper",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "University of Primorska Science and Research Centre of Koper"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q49760420",
+        "name": "Slovensko kemijsko društvo",
+        "short_name": null,
+        "official_website": "http:\/\/www.chem-soc.si",
+        "aliases": [
+            "SCS",
+            "SKD",
+            "Slovenian chemical socety",
+            "Slovenian Chemical Society"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7775831",
+        "name": "The Workers and Punks University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12804516",
+        "name": "Turistica - College of Tourism",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q49236614",
+        "name": "Umetnostnozgodovinski inštitut Franceta Steleta",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q19937506",
+        "name": "University and Research Centre Novo Mesto",
+        "short_name": null,
+        "official_website": "http:\/\/www.unm.si\/",
+        "aliases": [
+            "Univerzitetno in raziskovalno središče Novo mesto"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q49470723",
+        "name": "University College of Health Sciences Slovenj Gradec",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12797787",
+        "name": "University in Ljubljana, Faculty of Arts, Department of History",
+        "short_name": null,
+        "official_website": "https:\/\/zgodovina.ff.uni-lj.si\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1377",
+        "name": "University of Ljubljana",
+        "short_name": null,
+        "official_website": "https:\/\/www.uni-lj.si\/",
+        "aliases": [
+            "Univerza v Ljubljani",
+            "Ljubljana University",
+            "R. universita di Lubiana",
+            "uni-lj.si",
+            "Universitas Alexandrina",
+            "Universitas Labacensis",
+            "Universität Laibach",
+            "Univerza Edvarda Kardelja v Ljubljani",
+            "Univerza kralja Aleksandra I. v Ljubljani",
+            "Univerza Kraljevine Srbov, Hrvatov in Slovencev v Ljubljani"
+        ],
+        "latitude": 46.0488889,
+        "longitude": 14.5038889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1378",
+        "name": "University of Maribor",
+        "short_name": null,
+        "official_website": "http:\/\/www.um.si",
+        "aliases": [
+            "Univerza v Mariboru",
+            "um.si"
+        ],
+        "latitude": 46.5594444,
+        "longitude": 15.6444444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74551866",
+        "name": "University of Maribor, Faculty of Logistics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74550796",
+        "name": "University of Maribor, Faculty of Organizational Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q656086",
+        "name": "University of Nova Gorica",
+        "short_name": null,
+        "official_website": "http:\/\/www.ung.si",
+        "aliases": null,
+        "latitude": 45.9423,
+        "longitude": 13.6402,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q47669666",
+        "name": "University of Novo Mesto",
+        "short_name": null,
+        "official_website": "https:\/\/uni-nm.si\/",
+        "aliases": [
+            "uni-nm.si"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1378123",
+        "name": "University of Primorska",
+        "short_name": null,
+        "official_website": "http:\/\/www.upr.si",
+        "aliases": [
+            "Univerza na Primorskem"
+        ],
+        "latitude": 45.5483,
+        "longitude": 13.7294,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12797767",
+        "name": "Univerza v Ljubljani. Oddelek za azijske in afriške študije",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12797771",
+        "name": "Univerza v Ljubljani. Oddelek za geografijo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12797785",
+        "name": "Univerza v Ljubljani. Oddelek za slovenistiko",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74553790",
+        "name": "Urban planning institute of the Republic of SLovenija",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    }
+]

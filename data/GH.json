@@ -1,0 +1,2029 @@
+[
+    {
+        "wikidata_id": "Q105078705",
+        "name": "Academic City University College",
+        "short_name": null,
+        "official_website": "https:\/\/acity.edu.gh\/",
+        "aliases": [
+            "ACity Ghana"
+        ],
+        "latitude": 5.6903307,
+        "longitude": -0.2099589,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16240676",
+        "name": "Accra Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.ait.edu.gh\/",
+        "aliases": [
+            "AIT",
+            "ait.edu.gh",
+            "IAU-000080"
+        ],
+        "latitude": 5.56611,
+        "longitude": -0.261389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4672825",
+        "name": "Accra Technical University",
+        "short_name": "ATU",
+        "official_website": "https:\/\/www.atu.edu.gh\/",
+        "aliases": [
+            "ATU",
+            "Accra Poly",
+            "Accra Polytechnic",
+            "Accra Technical School"
+        ],
+        "latitude": 5.554028,
+        "longitude": -0.205556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q46996955",
+        "name": "Ada College of Education",
+        "short_name": null,
+        "official_website": "https:\/\/adacoe.edu.gh\/",
+        "aliases": null,
+        "latitude": 5.78044,
+        "longitude": 0.62001,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105078698",
+        "name": "Advanced Business College",
+        "short_name": null,
+        "official_website": "https:\/\/www.advancedbusinesscollege.org\/",
+        "aliases": [
+            "ABC",
+            "IAU-024252"
+        ],
+        "latitude": 5.5922778,
+        "longitude": -0.2437778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q39397092",
+        "name": "African Institute For Mathematical Sciences Ghana",
+        "short_name": "AIMS",
+        "official_website": "http:\/\/www.aims.edu.gh\/",
+        "aliases": [
+            "AIMS",
+            "AIMS Ghana",
+            "aims.edu.gh"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q128034257",
+        "name": "African Research Network for Neglected Tropical Diseases",
+        "short_name": null,
+        "official_website": "https:\/\/arntd.org\/",
+        "aliases": [
+            "ARNTD"
+        ],
+        "latitude": 6.6697775,
+        "longitude": 1.5765129,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4689946",
+        "name": "African University College of Communications",
+        "short_name": null,
+        "official_website": "https:\/\/www.aucc.edu.gh\/",
+        "aliases": [
+            "AUCC",
+            "Africa Institute of Journalism & Communications",
+            "aucc.edu.gh",
+            "IAU-000142"
+        ],
+        "latitude": 5.558098,
+        "longitude": -0.211731,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134947528",
+        "name": "Akrofi-Christaller Institute of Theology",
+        "short_name": "ACI",
+        "official_website": "https:\/\/www.aci.edu.gh\/administrative-staff\/",
+        "aliases": null,
+        "latitude": 5.9732878,
+        "longitude": -0.0854665,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q258200",
+        "name": "All Nations University",
+        "short_name": null,
+        "official_website": "http:\/\/www.allnationsuniversity.org\/",
+        "aliases": [
+            "ANU",
+            "All Nations University",
+            "anu.edu.gh",
+            "IAU-000841"
+        ],
+        "latitude": 6.090544,
+        "longitude": -0.263329,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105078708",
+        "name": "Anglican University College of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/angutech.edu.gh\/",
+        "aliases": [
+            "ANG.U.TECH",
+            "IAU-024256"
+        ],
+        "latitude": 5.5796428,
+        "longitude": -0.1085685,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q725198",
+        "name": "Ashesi University",
+        "short_name": "AU",
+        "official_website": "http:\/\/www.ashesi.edu.gh\/",
+        "aliases": [
+            "AU",
+            "Ashesi University College",
+            "ashesi.edu.gh",
+            "IAU-001120"
+        ],
+        "latitude": 5.7597222,
+        "longitude": -0.2197222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q85746900",
+        "name": "Bia Lamplighter College of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 6.651,
+        "longitude": -3.093,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100955843",
+        "name": "BlueCrest College",
+        "short_name": null,
+        "official_website": "https:\/\/bluecrest.edu.gh\/",
+        "aliases": [
+            "BCC",
+            "bluecrest.edu.gh",
+            "IAU-024260"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112036122",
+        "name": "Bolgataga midwife training college bolgataga upper East",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 10.806069,
+        "longitude": -0.8633219,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q891337",
+        "name": "Bolgatanga Technical University",
+        "short_name": null,
+        "official_website": "https:\/\/www.bolgatu.edu.gh\/",
+        "aliases": [
+            "BTU",
+            "B-Poly",
+            "Bolgatanga Polytechnic",
+            "IAU-024322"
+        ],
+        "latitude": 10.8272222,
+        "longitude": -0.9394444,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q103838315",
+        "name": "Building and Road Research Institute, Ghana",
+        "short_name": null,
+        "official_website": "http:\/\/www.brri.org\/",
+        "aliases": [
+            "BRRI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q115768943",
+        "name": "C.K. Tedam University of Technology and Applied Sciences",
+        "short_name": "CKT-UTAS",
+        "official_website": "https:\/\/cktutas.edu.gh",
+        "aliases": [
+            "CK Tedam University of Technology and Applied Sciences",
+            "CKT-UTAS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105078720",
+        "name": "Cape Coast Technical University",
+        "short_name": "CCTU",
+        "official_website": "https:\/\/cctu.edu.gh\/",
+        "aliases": [
+            "C Poly",
+            "Cape Coast Polytechnic",
+            "CCTU",
+            "IAU-024306"
+        ],
+        "latitude": 5.1534519,
+        "longitude": -1.2791455,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105078699",
+        "name": "Catholic Institute of Business and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/cibt.edu.gh\/",
+        "aliases": [
+            "CIBT",
+            "IAU-024261"
+        ],
+        "latitude": 5.5594722,
+        "longitude": -0.2082222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1051100",
+        "name": "Catholic University College of Ghana",
+        "short_name": "CUCG",
+        "official_website": "http:\/\/www.cug.edu.gh\/",
+        "aliases": [
+            "CUCG",
+            "IAU-002019",
+            "Catholic University"
+        ],
+        "latitude": 7.3538361,
+        "longitude": -2.3879081,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134950490",
+        "name": "Central University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28223394",
+        "name": "Central University",
+        "short_name": "CU",
+        "official_website": "https:\/\/www.central.edu.gh\/",
+        "aliases": [
+            "CU",
+            "CUC",
+            "IAU-002094"
+        ],
+        "latitude": 5.613,
+        "longitude": -0.1929722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1054042",
+        "name": "Central University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.centraluniversity.org\/",
+        "aliases": [
+            "centraluniversity.org",
+            "CUC"
+        ],
+        "latitude": 5.5663,
+        "longitude": -0.241,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100267078",
+        "name": "Centre for Policy Analysis",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "CEPA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100942464",
+        "name": "Christ Apostolic University College",
+        "short_name": null,
+        "official_website": "https:\/\/cauc.edu.gh\/",
+        "aliases": [
+            "CAUC",
+            "IAU-024262"
+        ],
+        "latitude": 6.6931231,
+        "longitude": -1.6523695,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1081899",
+        "name": "Christian Service University College",
+        "short_name": "CSUC",
+        "official_website": "http:\/\/www.ghanacu.edu.gh",
+        "aliases": [
+            "CSUC",
+            "IAU-002793"
+        ],
+        "latitude": 6.6706539,
+        "longitude": -1.6462343,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112123135",
+        "name": "Christian Service University College, Kumasi",
+        "short_name": "CSUC",
+        "official_website": "https:\/\/www.csuc.edu.gh",
+        "aliases": [
+            "CSUC",
+            "Christian Service University College"
+        ],
+        "latitude": 6.6704941,
+        "longitude": -1.6461162,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30261781",
+        "name": "Cocoa Research Institute of Ghana",
+        "short_name": null,
+        "official_website": "http:\/\/crig.org.gh\/",
+        "aliases": [
+            "CRIG"
+        ],
+        "latitude": 6.217715,
+        "longitude": -0.366133,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5146623",
+        "name": "College of Agriculture and Natural Resources",
+        "short_name": null,
+        "official_website": "http:\/\/canr.knust.edu.gh\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5146636",
+        "name": "College of Architecture and Planning",
+        "short_name": null,
+        "official_website": "http:\/\/www.cap.knust.edu.gh\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5146641",
+        "name": "College of Art and Social Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.cass.knust.edu.gh\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5146704",
+        "name": "College of Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/coe.knust.edu.gh\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116869630",
+        "name": "College of Health and Well-Being Kintampo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "COH",
+            "COHK",
+            "Rural Health"
+        ],
+        "latitude": 8.0508611,
+        "longitude": -1.7324019,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5146726",
+        "name": "College of Health Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.chs.knust.edu.gh\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q126205479",
+        "name": "College of Humanities and Social Sciences (KNUST)",
+        "short_name": null,
+        "official_website": "https:\/\/cohss.knust.edu.gh\/",
+        "aliases": [
+            "College of Humanities and Social Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5146833",
+        "name": "College of Science, KNUST",
+        "short_name": null,
+        "official_website": "http:\/\/cos.knust.edu.gh\/",
+        "aliases": [
+            "College of Science (KNUST)",
+            "Kwame Nkrumah University of Science and Technology College of Science"
+        ],
+        "latitude": 6.6732,
+        "longitude": -1.5674,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q127347690",
+        "name": "Crop Research Institute (Ghana)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5187985",
+        "name": "Crops Research Institute, Ghana",
+        "short_name": null,
+        "official_website": "http:\/\/www.cropsresearch.org\/",
+        "aliases": [
+            "CRI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q105078719",
+        "name": "Data Link Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "DLI",
+            "IAU-003572"
+        ],
+        "latitude": 5.6701547,
+        "longitude": -0.0235712,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16733458",
+        "name": "DataLink University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.datalink.edu.gh\/",
+        "aliases": [
+            "DLI",
+            "Data Link Institute of Business and Technology",
+            "DataLink Institute"
+        ],
+        "latitude": 5.7418787,
+        "longitude": -0.0043939,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100942462",
+        "name": "Dominion University College",
+        "short_name": null,
+        "official_website": "https:\/\/duc.edu.gh\/",
+        "aliases": [
+            "DUC",
+            "duc.edu.gh",
+            "IAU-024268"
+        ],
+        "latitude": 5.64372,
+        "longitude": -0.1626801,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125019643",
+        "name": "Dr. Hilla Limann Technical University",
+        "short_name": "DHLTU",
+        "official_website": "https:\/\/dhltu.edu.gh",
+        "aliases": [
+            "DHLTU",
+            "Dr Hila Liman Technical University"
+        ],
+        "latitude": 10.01225,
+        "longitude": -2.513525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5415743",
+        "name": "Evangelical Presbyterian University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.epuc.edu.gh\/",
+        "aliases": [
+            "EPUC",
+            "IAU-004881"
+        ],
+        "latitude": 6.6094582,
+        "longitude": 0.4705369,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112123077",
+        "name": "Family Health University College, Pantang",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Family Health University College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5469256",
+        "name": "Forestry Research Institute of Ghana",
+        "short_name": null,
+        "official_website": "http:\/\/forig.csir.org.gh\/",
+        "aliases": [
+            "FORIG"
+        ],
+        "latitude": 6.7109,
+        "longitude": -1.5172,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q284673",
+        "name": "Garden City University College",
+        "short_name": "GCUC",
+        "official_website": "https:\/\/www.gcuc.edu.gh\/",
+        "aliases": [
+            "GCUC",
+            "gcuc.edu.gh",
+            "IAU-006587"
+        ],
+        "latitude": 6.7392651,
+        "longitude": -1.5652295,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1521340",
+        "name": "Ghana Baptist University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.gbuc.edu.gh",
+        "aliases": [
+            "null",
+            "GBUC"
+        ],
+        "latitude": 6.6913617,
+        "longitude": -1.6074152,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1521341",
+        "name": "Ghana Christian University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.ghanacu.org",
+        "aliases": [
+            "Ghana Christian University College (GhanaCU)",
+            "GhanaCU",
+            "IAU-006646"
+        ],
+        "latitude": 5.777,
+        "longitude": -0.139,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1521371",
+        "name": "Ghana Communication Technology University",
+        "short_name": "GCTU",
+        "official_website": "http:\/\/www.gctu.edu.gh\/",
+        "aliases": [
+            "GCTU",
+            "Ghana Technology University College",
+            "Ghana Telecom University College",
+            "GTUC"
+        ],
+        "latitude": 5.596,
+        "longitude": -0.223,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5555360",
+        "name": "Ghana Institute of Languages",
+        "short_name": "GIL",
+        "official_website": "http:\/\/www.gil.edu.gh",
+        "aliases": [
+            "GIL",
+            "gil.edu.gh"
+        ],
+        "latitude": 5.6583,
+        "longitude": -0.170495,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1521350",
+        "name": "Ghana Institute of Linguistics, Literacy and Bible Translation",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16733564",
+        "name": "Ghana Institute of Management and Public Administration",
+        "short_name": "GIMPA",
+        "official_website": "http:\/\/www.gimpa.edu.gh\/",
+        "aliases": [
+            "GIMPA",
+            "gimpa.edu.gh",
+            "IAU-006648"
+        ],
+        "latitude": 5.6360757,
+        "longitude": -0.200648,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135387816",
+        "name": "Ghana Institute of Management and Public Administration, Achimota",
+        "short_name": "GIMPA",
+        "official_website": "https:\/\/gimpa.edu.gh\/",
+        "aliases": null,
+        "latitude": 5.6362306,
+        "longitude": -0.2006158,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q114246749",
+        "name": "Ghana Society for Education Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "GSET",
+            "G-SET"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5555323",
+        "name": "Ghana-India Kofi Annan Centre of Excellence in ICT",
+        "short_name": null,
+        "official_website": "https:\/\/gi-kace.gov.gh\/",
+        "aliases": [
+            "AITI-KACE"
+        ],
+        "latitude": 5.55958,
+        "longitude": -0.19206,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q96375236",
+        "name": "Greenfield College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "College of Science, Arts and Education"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q48797148",
+        "name": "Heritage Christian College",
+        "short_name": null,
+        "official_website": "https:\/\/hcuc.edu.gh\/",
+        "aliases": [
+            "HCC"
+        ],
+        "latitude": 5.716363,
+        "longitude": -0.294378,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1325425",
+        "name": "Ho Technical University",
+        "short_name": "HTU",
+        "official_website": "https:\/\/htu.edu.gh",
+        "aliases": [
+            "HTU",
+            "Ho Poly",
+            "Ho Polytechnic"
+        ],
+        "latitude": 6.5911111,
+        "longitude": 0.4694444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100956163",
+        "name": "Institute for Natural Resources in Africa",
+        "short_name": null,
+        "official_website": "https:\/\/inra.unu.edu\/",
+        "aliases": [
+            "UNU-INRA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16219415",
+        "name": "Institute of African Studies University of Ghana",
+        "short_name": null,
+        "official_website": "http:\/\/ias.ug.edu.gh\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16733673",
+        "name": "Institute of Local Government Studies",
+        "short_name": "ILGS",
+        "official_website": "https:\/\/www.ilgs.edu.gh",
+        "aliases": [
+            "ILGS"
+        ],
+        "latitude": 5.6632817,
+        "longitude": -0.1535759,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1358701",
+        "name": "Islamic University College, Ghana",
+        "short_name": null,
+        "official_website": "http:\/\/www.islamicug.com\/",
+        "aliases": [
+            "IUG",
+            "Ahlul Bait Islamic School"
+        ],
+        "latitude": 5.6557429,
+        "longitude": -0.1171297,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q126949646",
+        "name": "Jackson University College",
+        "short_name": null,
+        "official_website": "https:\/\/jackson.edu.gh\/",
+        "aliases": [
+            "JUC",
+            "JEC",
+            "Jackson Educational Complex"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105078717",
+        "name": "Jayee University College",
+        "short_name": null,
+        "official_website": "http:\/\/juc.edu.gh\/",
+        "aliases": [
+            "JUC"
+        ],
+        "latitude": 5.5594332,
+        "longitude": -0.2953454,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16733703",
+        "name": "KAAF University",
+        "short_name": null,
+        "official_website": "https:\/\/kaafuni.edu.gh\/",
+        "aliases": [
+            "KAAF"
+        ],
+        "latitude": 5.52668,
+        "longitude": -0.48085,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105078703",
+        "name": "Kessben College",
+        "short_name": null,
+        "official_website": "https:\/\/kc.edu.gh\/",
+        "aliases": [
+            "KC"
+        ],
+        "latitude": 6.541713,
+        "longitude": -1.4506989,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112044401",
+        "name": "Kings health training school Takoradi Sekondi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 4.9263227,
+        "longitude": -1.7443545,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105078704",
+        "name": "Kings University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.kuc.edu.gh\/",
+        "aliases": [
+            "KUC",
+            "IAU-024277"
+        ],
+        "latitude": 5.5366411,
+        "longitude": -0.3270336,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6334616",
+        "name": "KNUST Department of Planning",
+        "short_name": null,
+        "official_website": "http:\/\/planning.knust.edu.gh\/",
+        "aliases": [
+            "DOP",
+            "KNUST DOP"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100942463",
+        "name": "Knutsford University College",
+        "short_name": "KUC",
+        "official_website": "https:\/\/knutsford.edu.gh\/",
+        "aliases": [
+            "IAU-010418",
+            "KUC"
+        ],
+        "latitude": 5.6392118,
+        "longitude": -0.1715281,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1406935",
+        "name": "Koforidua Technical University",
+        "short_name": "KTU",
+        "official_website": "https:\/\/ktu.edu.gh\/",
+        "aliases": [
+            "IAU-024307",
+            "K Poly",
+            "Koforidua Poly",
+            "KTU",
+            "ktu.edu.gh"
+        ],
+        "latitude": 6.0874562,
+        "longitude": -0.262417,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1791968",
+        "name": "Kumasi Technical University",
+        "short_name": "KsTU",
+        "official_website": "http:\/\/www.kpoly.edu.gh",
+        "aliases": [
+            "KTU",
+            "IAU-024308",
+            "K-Poly",
+            "KsTU",
+            "kstu.edu.gh"
+        ],
+        "latitude": 6.6911111,
+        "longitude": -1.61,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6450085",
+        "name": "Kwame Nkrumah Ideological Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Kwame Nkrumah Institute of Economics and Political Science",
+            "Nkrumah Ideological Institute",
+            "Winneba ideological Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1654025",
+        "name": "Kwame Nkrumah University of Science and Technology",
+        "short_name": "KNUST",
+        "official_website": "https:\/\/www.knust.edu.gh\/",
+        "aliases": [
+            "Tech",
+            "UST",
+            "IAU-010652",
+            "KNUST",
+            "knust.edu.gh",
+            "Nkrumah University of Science and Technology"
+        ],
+        "latitude": 6.67868,
+        "longitude": -1.56063,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943469",
+        "name": "Kwame Nkrumah University of Science and Technology Bureau of Integrated Rural Development",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946294",
+        "name": "Kwame Nkrumah University of Science and Technology Department of Agricultural Economics Agribusiness and Extension",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946293",
+        "name": "Kwame Nkrumah University of Science and Technology Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946295",
+        "name": "Kwame Nkrumah University of Science and Technology Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946297",
+        "name": "Kwame Nkrumah University of Science and Technology Department of Planning",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q55648280",
+        "name": "Lakeside University College",
+        "short_name": null,
+        "official_website": "https:\/\/www.lucg.edu.gh",
+        "aliases": [
+            "formerly Madina Institute of Science and Technology",
+            "formerly MIST Ghana",
+            "LUC Ghana"
+        ],
+        "latitude": 5.7051893,
+        "longitude": -0.119326,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30266490",
+        "name": "Lancaster University Ghana",
+        "short_name": null,
+        "official_website": "http:\/\/www.lancaster.edu.gh\/",
+        "aliases": [
+            "null",
+            "University of Lancaster",
+            "LUG",
+            "Lancaster University - Ghana Campus",
+            "Lancaster University, Ghana"
+        ],
+        "latitude": 5.6422061,
+        "longitude": -0.1524234,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134950964",
+        "name": "Laweh Open University College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 5.60887,
+        "longitude": -0.0863803,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1892276",
+        "name": "Maranatha University College",
+        "short_name": "MUC",
+        "official_website": "http:\/\/www.muc.edu.gh\/",
+        "aliases": [
+            "MUC"
+        ],
+        "latitude": 5.6252,
+        "longitude": -0.276391,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105078718",
+        "name": "Marshalls University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.marshalls.edu.gh\/",
+        "aliases": [
+            "IAU-024282",
+            "MARSHALLS",
+            "Marshalls College"
+        ],
+        "latitude": 5.5783386,
+        "longitude": -0.2570406,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1602891",
+        "name": "Meridian University College",
+        "short_name": null,
+        "official_website": "http:\/\/meducol.com\/index.php?option=com_frontpage&itemid=1",
+        "aliases": [
+            "MUC"
+        ],
+        "latitude": 5.557669,
+        "longitude": -0.303446,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1925513",
+        "name": "Methodist University College",
+        "short_name": "MUC",
+        "official_website": "http:\/\/www.mucg.edu.gh\/",
+        "aliases": [
+            "MUC",
+            "Methodist University",
+            "IAU-024874",
+            "MUCG",
+            "mucg.edu.gh"
+        ],
+        "latitude": 5.56611,
+        "longitude": -0.261389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15260094",
+        "name": "Mountcrest University College",
+        "short_name": "MCU",
+        "official_website": "http:\/\/www.mountcrestuniversity.com\/",
+        "aliases": [
+            "null",
+            "MCUC"
+        ],
+        "latitude": 5.5776944,
+        "longitude": -0.1963333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q48774248",
+        "name": "National Academy of Music",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q110057126",
+        "name": "National Banking College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "NBC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q136560010",
+        "name": "National Institute for Educational Planning and Administration",
+        "short_name": null,
+        "official_website": "https:\/\/iepa.ucc.edu.gh",
+        "aliases": [
+            "IEPA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q132171089",
+        "name": "New Life College",
+        "short_name": null,
+        "official_website": "https:\/\/newlifecollege.edu.gh\/",
+        "aliases": [
+            "NLC"
+        ],
+        "latitude": 9.432555,
+        "longitude": -0.870256,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q112650966",
+        "name": "Ohawu Agricultural College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7096265",
+        "name": "Open University of West Africa",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "OUWA"
+        ],
+        "latitude": 5.5586,
+        "longitude": -0.1718,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2048800",
+        "name": "Pan African Christian University College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2069397",
+        "name": "Pentecost University College",
+        "short_name": null,
+        "official_website": "http:\/\/pentvars.edu.gh\/",
+        "aliases": [
+            "PUC",
+            "Pentecost University",
+            "IAU-013424",
+            "pentvars.edu.gh"
+        ],
+        "latitude": 5.6257926,
+        "longitude": -0.2740947,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30688383",
+        "name": "Perez University College",
+        "short_name": null,
+        "official_website": "https:\/\/www.perez.edu.gh\/",
+        "aliases": [
+            "PERUC"
+        ],
+        "latitude": 5.3933684,
+        "longitude": -0.6542569,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1566634",
+        "name": "Presbyterian University, Ghana",
+        "short_name": "PUG",
+        "official_website": "http:\/\/www.presbyuniversity.edu.gh\/",
+        "aliases": [
+            "PUC",
+            "PUG",
+            "Presbyterian University",
+            "IAU-013720",
+            "Presbyterian University College",
+            "presbyuniversity.edu.gh"
+        ],
+        "latitude": 6.6763454,
+        "longitude": -0.7446939,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18393060",
+        "name": "Radford University College",
+        "short_name": "RUC",
+        "official_website": "http:\/\/www.radforduc.edu.gh\/",
+        "aliases": [
+            "RUC",
+            "IAU-024287",
+            "radforduc.edu.gh"
+        ],
+        "latitude": 5.6404722,
+        "longitude": -0.1635278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2137488",
+        "name": "Regent University College of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.regent.edu.gh\/",
+        "aliases": [
+            "IAU-013945",
+            "regent.edu.gh",
+            "RUCST"
+        ],
+        "latitude": 5.55917,
+        "longitude": -0.226944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7309095",
+        "name": "Regional Maritime University",
+        "short_name": "RMU",
+        "official_website": "http:\/\/www.rmu.edu.gh",
+        "aliases": [
+            "RMU",
+            "IAU-013950",
+            "rmu.edu.gh"
+        ],
+        "latitude": 5.6075293,
+        "longitude": -0.0639116,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q138054075",
+        "name": "School Of Engineering,UDS Nyankpala Campus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UDS SOE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q126280043",
+        "name": "SD Dombo University of Business and Integrated Development Studies",
+        "short_name": "SDD-UBIDS",
+        "official_website": "https:\/\/ubids.edu.gh\/",
+        "aliases": [
+            "SDD-UBID",
+            "Simon Diedoung Dombo University of Business and Integrated Development Studies"
+        ],
+        "latitude": 9.98817,
+        "longitude": -2.47967,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134954201",
+        "name": "Seikwa Nursing and Midwifery Training College",
+        "short_name": "Seikwa NMTC",
+        "official_website": "https:\/\/seikwanmtc.edu.gh\/",
+        "aliases": [
+            "Nursing and Midwifery Training College - Seikwa",
+            "Nursing and Midwifery Training College SEIKWA",
+            "Nursing and Midwifery Training College, Seikwa",
+            "Seikwa NMTC"
+        ],
+        "latitude": 7.7207,
+        "longitude": -2.5173,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q48800583",
+        "name": "Sekondi College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "SEKCO"
+        ],
+        "latitude": 4.9821228,
+        "longitude": -1.6865922,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q16734102",
+        "name": "Sikkim Manipal University, Ghana Learning Centre, Accra",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "SMU Ghana"
+        ],
+        "latitude": 6.09056,
+        "longitude": -0.263333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116784677",
+        "name": "Simon Diedong Dombo University of Business and Integrated Development Studies",
+        "short_name": "SDD UBIDS",
+        "official_website": "https:\/\/ubids.edu.gh\/",
+        "aliases": [
+            "SDD UBIDS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28223359",
+        "name": "SOS-Hermann Gmeiner International College",
+        "short_name": null,
+        "official_website": "https:\/\/soshgic.edu.gh",
+        "aliases": [
+            "HGIC"
+        ],
+        "latitude": 5.65853,
+        "longitude": -0.01132,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q134958744",
+        "name": "Spiritan University College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943463",
+        "name": "Spiritan University College",
+        "short_name": null,
+        "official_website": "https:\/\/suc.edu.gh\/",
+        "aliases": [
+            "IAU-015687",
+            "SUC"
+        ],
+        "latitude": 6.7347363,
+        "longitude": -1.4774019,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q85847309",
+        "name": "St. Vincent College of Education",
+        "short_name": null,
+        "official_website": "https:\/\/www.stvinceyendi.edu.gh\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q86937156",
+        "name": "SuccessValley",
+        "short_name": null,
+        "official_website": "https:\/\/www.successvalley.tech\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q630686",
+        "name": "Sunyani Technical University",
+        "short_name": "STU",
+        "official_website": "https:\/\/stu.edu.gh\/",
+        "aliases": [
+            "STU"
+        ],
+        "latitude": 7.32139,
+        "longitude": -2.31667,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1233332",
+        "name": "Takoradi Technical University",
+        "short_name": "TTU",
+        "official_website": "https:\/\/ttu.edu.gh\/",
+        "aliases": [
+            "TTU",
+            "IAU-024317",
+            "T Poly",
+            "Takoradi Poly",
+            "Takoradi Polytechnic"
+        ],
+        "latitude": 4.9094444,
+        "longitude": -1.7561111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q68939243",
+        "name": "Tamale Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/tamalepoly.edu.gh",
+        "aliases": [
+            "T Poly",
+            "Tamale Polytechnic",
+            "IAU-024314",
+            "TaTu",
+            "TaTU",
+            "tatu.edu.gh"
+        ],
+        "latitude": 9.430345,
+        "longitude": -0.8674485,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2802873",
+        "name": "Technical University College of Tamale",
+        "short_name": null,
+        "official_website": "http:\/\/www.nab.gov.gh\/",
+        "aliases": [
+            "IAU-024288",
+            "TUCT"
+        ],
+        "latitude": 9.38898,
+        "longitude": -0.816899,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q48800044",
+        "name": "Trinity Theological Seminary, Legon",
+        "short_name": "TTS",
+        "official_website": "https:\/\/trinity.edu.gh",
+        "aliases": [
+            "Trinity Theological Seminary",
+            "Trinity Theological Seminary, Ghana"
+        ],
+        "latitude": 5.653741,
+        "longitude": -0.168848,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894642",
+        "name": "University College of Agriculture and Environmental Studies",
+        "short_name": null,
+        "official_website": "http:\/\/environmentuniversity.edu.gh\/",
+        "aliases": [
+            "IAU-024289",
+            "UCAES"
+        ],
+        "latitude": 6.281687,
+        "longitude": -0.4669027,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2495782",
+        "name": "University College of Management Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucoms.edu.gh\/",
+        "aliases": [
+            "UCOMS"
+        ],
+        "latitude": 5.5467045,
+        "longitude": -0.3383245,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1766573",
+        "name": "University for Development Studies",
+        "short_name": "UDS",
+        "official_website": "http:\/\/www.uds.edu.gh\/",
+        "aliases": [
+            "UDS",
+            "IAU-019987",
+            "uds.edu.gh"
+        ],
+        "latitude": 9.37382,
+        "longitude": -0.884289,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946418",
+        "name": "University for Development Studies Department of Agricultural Economics and Extension",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943472",
+        "name": "University for Development Studies Graduate School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294148",
+        "name": "University of Applied Management",
+        "short_name": "UAM",
+        "official_website": null,
+        "aliases": [
+            "UAM"
+        ],
+        "latitude": 5.6997333,
+        "longitude": -0.2592361,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q746079",
+        "name": "University of Cape Coast",
+        "short_name": "UCC",
+        "official_website": "https:\/\/ucc.edu.gh\/",
+        "aliases": [
+            "UCC",
+            "Cape Varse",
+            "IAU-020103",
+            "ucc.edu.gh",
+            "University of Cape Coast (UCC)"
+        ],
+        "latitude": 5.10364,
+        "longitude": -1.28249,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946275",
+        "name": "University of Cape Coast Department of Agricultural Economics and Extension",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946276",
+        "name": "University of Cape Coast Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946281",
+        "name": "University of Cape Coast Institute for Development Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100946284",
+        "name": "University of Cape Coast School of Agriculture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946285",
+        "name": "University of Cape Coast School of Biological Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946286",
+        "name": "University of Cape Coast School of Graduate Studies and Research",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946287",
+        "name": "University of Cape Coast School of Physical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946427",
+        "name": "University of Education Winneba School of Creative Arts",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1557172",
+        "name": "University of Education, Winneba",
+        "short_name": "UEW",
+        "official_website": "http:\/\/www.uew.edu.gh\/",
+        "aliases": [
+            "IAU-020151",
+            "uew.edu.gh",
+            "UEWChuo Kikuu cha Elimu, Winneba",
+            "University of Education (UEW)"
+        ],
+        "latitude": 5.33803,
+        "longitude": -0.6254,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894844",
+        "name": "University of Energy and Natural Resources",
+        "short_name": "UENR",
+        "official_website": "https:\/\/uenr.edu.gh\/",
+        "aliases": [
+            "IAU-024250",
+            "UENR",
+            "uenr.edu.gh",
+            "University of Energy and Natural Resources (UENR)"
+        ],
+        "latitude": 7.34949,
+        "longitude": -2.343501,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q99973613",
+        "name": "University of Environment and Sustainable Development",
+        "short_name": "UESD",
+        "official_website": "https:\/\/www.uesd.edu.gh\/",
+        "aliases": [
+            "UESD"
+        ],
+        "latitude": 6.0507,
+        "longitude": -0.0075,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2303765",
+        "name": "University of Ghana",
+        "short_name": "Leg",
+        "official_website": "https:\/\/www.ug.edu.gh\/",
+        "aliases": [
+            "UG",
+            "IAU-020164",
+            "UG Legon",
+            "ug.edu.gh",
+            "University of Ghana, Legon",
+            "University of Ghana (UG)"
+        ],
+        "latitude": 5.65075,
+        "longitude": -0.18951,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q98550150",
+        "name": "University of Ghana College of Basic and Applied Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/www.cbas.ug.edu.gh\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q100946301",
+        "name": "University of Ghana Department of Agricultural Economics and Agribusiness",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946304",
+        "name": "University of Ghana Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946407",
+        "name": "University of Ghana Department of Political Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946412",
+        "name": "University of Ghana Institute of Statistical Social and Economic Research",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18357149",
+        "name": "University of Ghana Medical School",
+        "short_name": null,
+        "official_website": "https:\/\/www.ug.edu.gh\/ugms.ug.edu.gh\/\/",
+        "aliases": [
+            "UGMS"
+        ],
+        "latitude": 5.5394,
+        "longitude": -0.2295,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946414",
+        "name": "University of Ghana School of Agriculture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946415",
+        "name": "University of Ghana School of Communication Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946416",
+        "name": "University of Ghana School of Graduate Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946399",
+        "name": "University of Ghana School of Performing Arts",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946406",
+        "name": "University of Ghana School of Public Health",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74538037",
+        "name": "University of Ghana, Faculty of Arts",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16734216",
+        "name": "University of Health and Allied Sciences",
+        "short_name": "UHAS",
+        "official_website": "http:\/\/uhas.edu.gh\/",
+        "aliases": [
+            "IAU-024335",
+            "UHAS",
+            "uhas.edu.gh",
+            "University of Health and Allied Science (UHAS)"
+        ],
+        "latitude": 6.6032663,
+        "longitude": 0.4758539,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5555358",
+        "name": "University of Media, Arts and Communication",
+        "short_name": "GIJ",
+        "official_website": "https:\/\/unimac.edu.gh\/",
+        "aliases": [
+            "GIJ",
+            "Ghana Institute of Journalism",
+            "gij.edu.gh",
+            "IAU-006647",
+            "UniMAC",
+            "UniMAC-IJ",
+            "University of Media, Arts and Communication (UniMAC)"
+        ],
+        "latitude": 5.5631866,
+        "longitude": -0.1910972,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2495871",
+        "name": "University of Mines and Technology",
+        "short_name": "UMaT",
+        "official_website": "http:\/\/umat.edu.gh\/",
+        "aliases": [
+            "George Grant University of Mines and Technology",
+            "IAU-020301",
+            "UMaT",
+            "UMAT",
+            "umat.edu.gh",
+            "University of Mines and Technology (UMAT)"
+        ],
+        "latitude": 5.2985306,
+        "longitude": -2.0004611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16734218",
+        "name": "University of Professional Studies, Accra",
+        "short_name": "UPSA",
+        "official_website": "http:\/\/www.upsa.edu.gh\/",
+        "aliases": [
+            "UPSA",
+            "IAU-020438",
+            "Institute of Professional Studies",
+            "upsa.edu.gh",
+            "University of Professional Studies (UPSA)"
+        ],
+        "latitude": 5.65988,
+        "longitude": -0.166614,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2509370",
+        "name": "Valley View University",
+        "short_name": "VVU",
+        "official_website": "http:\/\/www.vvu.edu.gh\/",
+        "aliases": [
+            "IAU-020817",
+            "VVU",
+            "vvu.edu.gh"
+        ],
+        "latitude": 5.7993263,
+        "longitude": -0.1260923,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100945095",
+        "name": "Valley View University Department of Computer Science",
+        "short_name": null,
+        "official_website": "https:\/\/fos.vvu.edu.gh\/index.php\/academics\/departments\/computer-science",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100945098",
+        "name": "Valley View University School of Education Development Studies and Health Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946273",
+        "name": "Valley View University School of Graduate Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100945100",
+        "name": "Valley View University School of Theology and Mission",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2538163",
+        "name": "Wa Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.wapoly.edu.gh",
+        "aliases": [
+            "WTU",
+            "Wa Poly",
+            "Wa Polytechnic"
+        ],
+        "latitude": 10.0136087,
+        "longitude": -2.5125003,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134959330",
+        "name": "Webster University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16733317",
+        "name": "Webster University Ghana",
+        "short_name": null,
+        "official_website": "http:\/\/www.webster.edu\/ghana",
+        "aliases": null,
+        "latitude": 5.6383661,
+        "longitude": -0.1659203,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105078702",
+        "name": "West End University College",
+        "short_name": null,
+        "official_website": "https:\/\/weuc.edu.gh\/",
+        "aliases": [
+            "IAU-024290",
+            "WEUC"
+        ],
+        "latitude": 5.5353593,
+        "longitude": -0.3983614,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112123288",
+        "name": "Western Hills NuTraining College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q126463",
+        "name": "Wisconsin International University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.wiuc-ghana.edu.gh\/",
+        "aliases": [
+            "WIUC",
+            "IAU-021290",
+            "wiuc-ghana.edu.gh"
+        ],
+        "latitude": 5.6701,
+        "longitude": -0.189428,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8069126",
+        "name": "Zenith University College",
+        "short_name": null,
+        "official_website": "https:\/\/zucghana.org\/",
+        "aliases": [
+            "ZUC",
+            "IAU-021817",
+            "zucghana.org"
+        ],
+        "latitude": 5.57272,
+        "longitude": -0.14367,
+        "type": "university"
+    }
+]

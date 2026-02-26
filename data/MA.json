@@ -1,0 +1,897 @@
+[
+    {
+        "wikidata_id": "Q106916019",
+        "name": "42",
+        "short_name": null,
+        "official_website": "https:\/\/42.us.org",
+        "aliases": [
+            "42",
+            "42 school",
+            "School 42"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551367",
+        "name": "Abdelmalek Essaâdi University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uae.ma\/",
+        "aliases": [
+            "UAE",
+            "Abdelmalek Essaadi University"
+        ],
+        "latitude": 35.5610062,
+        "longitude": -5.3645465,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21619282",
+        "name": "Abulcasis International University of Health Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.uiass.ma\/",
+        "aliases": [
+            "UIASS"
+        ],
+        "latitude": 33.9774701,
+        "longitude": -6.8697735,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2822420",
+        "name": "Académie internationale Mohammed VI de l'aviation civile",
+        "short_name": null,
+        "official_website": "http:\/\/www.aiac.ma",
+        "aliases": null,
+        "latitude": 33.380928,
+        "longitude": -7.568468,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2829294",
+        "name": "Al Akhawayn University",
+        "short_name": null,
+        "official_website": "http:\/\/www.aui.ma\/",
+        "aliases": [
+            "AUI"
+        ],
+        "latitude": 33.539248,
+        "longitude": -5.105553,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q737095",
+        "name": "Cadi Ayyad University",
+        "short_name": null,
+        "official_website": "https:\/\/www.uca.ma",
+        "aliases": [
+            "UCA",
+            "University of Marrakesh"
+        ],
+        "latitude": 31.66414,
+        "longitude": -8.0008179,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q37794340",
+        "name": "Centre Jacques Berque",
+        "short_name": null,
+        "official_website": "http:\/\/www.cjb.ma\/",
+        "aliases": [
+            "pour les études en sciences humaines et sociales"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12204499",
+        "name": "Chouaib Doukkali University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucd.ac.ma",
+        "aliases": [
+            "UCD"
+        ],
+        "latitude": 33.2263889,
+        "longitude": -8.4872222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17626162",
+        "name": "Ecole Centrale Casablanca",
+        "short_name": null,
+        "official_website": "http:\/\/www.centrale-casablanca.ma",
+        "aliases": [
+            "ECC"
+        ],
+        "latitude": 33.4803174,
+        "longitude": -7.6204736,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294362",
+        "name": "Ecole d'architecture de Casablanca",
+        "short_name": null,
+        "official_website": "http:\/\/www.ecolearchicasa.com\/",
+        "aliases": [
+            "EAC",
+            "École Supérieure d’Architecture de Casablanca"
+        ],
+        "latitude": 33.6118702,
+        "longitude": -7.492185,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3577932",
+        "name": "Ecole des Hautes Etudes Commerciales",
+        "short_name": null,
+        "official_website": "http:\/\/www.hec.ac.ma",
+        "aliases": [
+            "HEC",
+            "École des Hautes Etudes Commerciales du Maroc"
+        ],
+        "latitude": 33.9576344,
+        "longitude": -6.8804549,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3578067",
+        "name": "Ecole Nationale d'Administration de Rabat",
+        "short_name": null,
+        "official_website": "https:\/\/ensa.org.ma\/",
+        "aliases": [
+            "ENSA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100144541",
+        "name": "Ecole Nationale Supérieure de Marrakech",
+        "short_name": null,
+        "official_website": "http:\/\/www.ens-marrakech.ac.ma\/",
+        "aliases": null,
+        "latitude": 31.6281517,
+        "longitude": -8.0503661,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137430474",
+        "name": "ESA Casablanca (Ecole Supérieure des Affaires de Casablanca)",
+        "short_name": null,
+        "official_website": "https:\/\/www.esa-igensia.ma\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21029695",
+        "name": "ESITH",
+        "short_name": null,
+        "official_website": "https:\/\/www.esith.ac.ma",
+        "aliases": [
+            "École supérieure des industries du textile et de l'habillement",
+            "School of Textile and Clothing industries"
+        ],
+        "latitude": 33.5392833,
+        "longitude": -7.6639917,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5411489",
+        "name": "Euro-Mediterranean University of Morocco",
+        "short_name": null,
+        "official_website": "http:\/\/www.ueuromed.org\/pro\/en\/universite.php",
+        "aliases": [
+            "UEMF"
+        ],
+        "latitude": 34.0458177,
+        "longitude": -5.0652757,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16635575",
+        "name": "Faculty of Legal, Economic and Social Sciences of Marrakech",
+        "short_name": null,
+        "official_website": "https:\/\/www4.fsjes.uca.ma\/",
+        "aliases": null,
+        "latitude": 31.664035,
+        "longitude": -7.9991946,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137592784",
+        "name": "Faculty of Legal, Economic and Social Sciences of Meknes",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137592791",
+        "name": "Faculty of Letters and Human Sciences of Meknes",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74539548",
+        "name": "Faculty of Sciences and Techniques Béni-Mellal. Morocco",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q35326192",
+        "name": "Faculty of Sciences and Technologies Guéliz",
+        "short_name": null,
+        "official_website": "http:\/\/www.fstg-marrakech.ac.ma\/",
+        "aliases": null,
+        "latitude": 31.64532,
+        "longitude": -8.02018,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3577670",
+        "name": "Hassania School of Public Works",
+        "short_name": null,
+        "official_website": "https:\/\/www.ehtp.ac.ma\/ar\/",
+        "aliases": null,
+        "latitude": 33.5482,
+        "longitude": -7.65145,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105640665",
+        "name": "HIGH-TECH",
+        "short_name": null,
+        "official_website": "http:\/\/www.hightech.edu\/",
+        "aliases": null,
+        "latitude": 33.9703722,
+        "longitude": -6.8621559,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3151828",
+        "name": "IAV Hassan II",
+        "short_name": null,
+        "official_website": "http:\/\/www.iav.ac.ma",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3551417",
+        "name": "Ibn Tofail University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uit.ac.ma\/",
+        "aliases": [
+            "UIT",
+            "Ibn Tofaïl University",
+            "Ibn Tufayl Uniuversity"
+        ],
+        "latitude": 34.2462554,
+        "longitude": -6.5852861,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551418",
+        "name": "Ibn Zohr University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uiz.ac.ma\/",
+        "aliases": [
+            "UIZ",
+            "Université Ibn Zohr Agadir-MAROC"
+        ],
+        "latitude": 30.40618,
+        "longitude": -9.54612,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q26257926",
+        "name": "INSA Euro-Méditerranée",
+        "short_name": null,
+        "official_website": "http:\/\/www.insa-euromediterranee.org\/",
+        "aliases": [
+            "Institut international des sciences appliquées Euro-Méditerranée"
+        ],
+        "latitude": 34.0433,
+        "longitude": -5.0165,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106352250",
+        "name": "Institut des Hautes Études Marocaines",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52661381",
+        "name": "Institut Marocain de l’Information Scientifique et Technique",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30281767",
+        "name": "Institut Pasteur du Maroc",
+        "short_name": null,
+        "official_website": "http:\/\/www.pasteur.ma\/",
+        "aliases": [
+            "IPM",
+            "Pasteur Institute of Morocco"
+        ],
+        "latitude": 33.57381,
+        "longitude": -7.624452,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30294160",
+        "name": "Institut supérieur d'art dramatique et d'animation culturelle",
+        "short_name": null,
+        "official_website": "http:\/\/isadac.ma\/",
+        "aliases": [
+            "High Institute of Theatrical Arts and Cultural Animation"
+        ],
+        "latitude": 33.978056,
+        "longitude": -6.872858,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3152577",
+        "name": "Institut supérieur de la Magistrature",
+        "short_name": null,
+        "official_website": "http:\/\/www.ism.ma\/",
+        "aliases": null,
+        "latitude": 33.9645,
+        "longitude": -6.85146,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27961614",
+        "name": "Institute of Applied Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/www.iga.ac.ma\/",
+        "aliases": [
+            "IGA"
+        ],
+        "latitude": 33.5909779,
+        "longitude": -7.5911341,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6051094",
+        "name": "International Institute for Higher Education in Morocco",
+        "short_name": null,
+        "official_website": "http:\/\/www.iihem.ac.ma\/",
+        "aliases": [
+            "IIHEM"
+        ],
+        "latitude": 33.96995,
+        "longitude": -6.8281317,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551785",
+        "name": "International University of Rabat",
+        "short_name": null,
+        "official_website": "http:\/\/www.uir.ac.ma\/",
+        "aliases": [
+            "UIR",
+            "IUR",
+            "Universite Internationale de Rabat"
+        ],
+        "latitude": 33.985001,
+        "longitude": -6.72376,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q119789280",
+        "name": "International Water Research Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.um6p.ma\/en\/institut-international-de-recherche-en-eau-iwri",
+        "aliases": [
+            "Institut International de Recherche en Eau",
+            "International Water Research Institute, Mohammed VI Polytechnic University",
+            "IWRI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3551445",
+        "name": "Mohamed I University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ump.ma\/",
+        "aliases": [
+            "UMP",
+            "ump.ma"
+        ],
+        "latitude": 34.6501,
+        "longitude": -1.89893,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1360237",
+        "name": "Mohammed V University",
+        "short_name": null,
+        "official_website": "http:\/\/www.um5.ac.ma",
+        "aliases": [
+            "Université Mohammed V",
+            "Mohammed V University in Rabat",
+            "Universite Mohammed V",
+            "Universite Mohammed V de Rabat",
+            "Université Mohammed V de Rabat",
+            "Universite Mohammed-V de Raba",
+            "Université Mohammed-V de Raba"
+        ],
+        "latitude": 33.99833,
+        "longitude": -6.84382,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551451",
+        "name": "Mohammed V University at Agdal",
+        "short_name": null,
+        "official_website": "http:\/\/www.um5a.ac.ma\/",
+        "aliases": [
+            "Mohamed V University",
+            "Mohammed V Agdal University",
+            "um5a.ac.ma"
+        ],
+        "latitude": 33.98307,
+        "longitude": -6.86187,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551452",
+        "name": "Mohammed V University at Souissi",
+        "short_name": null,
+        "official_website": "http:\/\/www.um5s.ac.ma\/",
+        "aliases": [
+            "PrêteMohamed"
+        ],
+        "latitude": 33.9878,
+        "longitude": -6.85864,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19544573",
+        "name": "Multidisciplinary Faculty of Nador",
+        "short_name": null,
+        "official_website": "http:\/\/fpn.ma\/",
+        "aliases": [
+            "FPN",
+            "Multidisciplinary Nador College"
+        ],
+        "latitude": 35.0202778,
+        "longitude": -3.6338889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20669874",
+        "name": "Mundiapolis University",
+        "short_name": null,
+        "official_website": "http:\/\/www.mundiapolis.ma",
+        "aliases": [
+            "Université Mundiapolis"
+        ],
+        "latitude": 33.3821,
+        "longitude": -7.56765,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6862653",
+        "name": "National Centre for Nuclear Energy, Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.cnesten.org.ma\/index.php?lang=en",
+        "aliases": [
+            "CNESTEN",
+            "National Center for Energy Sciences and Nuclear Techniques"
+        ],
+        "latitude": 34.133747,
+        "longitude": -6.639476,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3578163",
+        "name": "National Institute of Forestry Engineering",
+        "short_name": null,
+        "official_website": "https:\/\/enfi.ac.ma\/",
+        "aliases": null,
+        "latitude": 34.0427,
+        "longitude": -6.80029,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3152380",
+        "name": "National Institute of Hygiene",
+        "short_name": null,
+        "official_website": "http:\/\/inh.ma\/",
+        "aliases": [
+            "National Institute of Hygiene of Morocco"
+        ],
+        "latitude": 34.0053722,
+        "longitude": -6.8403104,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2737222",
+        "name": "National Institute of Statistics and Applied Economics",
+        "short_name": null,
+        "official_website": "https:\/\/insea.ac.ma\/",
+        "aliases": [
+            "INSEA",
+            "Institut national de statistique et d`économie appliquée"
+        ],
+        "latitude": 33.982,
+        "longitude": -6.862,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3578072",
+        "name": "National School of Agriculture of Meknes",
+        "short_name": null,
+        "official_website": "https:\/\/www.enameknes.ac.ma",
+        "aliases": [
+            "ENAM",
+            "ENA Meknès"
+        ],
+        "latitude": 33.8435,
+        "longitude": -5.47746,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3578078",
+        "name": "National School of Architecture",
+        "short_name": null,
+        "official_website": "https:\/\/www.enarabat.ac.ma\/",
+        "aliases": [
+            "ENA"
+        ],
+        "latitude": 33.98705,
+        "longitude": -6.8614,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136706279",
+        "name": "National School of Architecture(MARRAKECH)",
+        "short_name": null,
+        "official_website": "https:\/\/www.enarabat.ac.ma\/",
+        "aliases": null,
+        "latitude": 31.6253645,
+        "longitude": -8.0028392,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q109136646",
+        "name": "Q109136646",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124966371",
+        "name": "Q124966371",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2518185",
+        "name": "Royal Institute of Amazigh Culture",
+        "short_name": null,
+        "official_website": "http:\/\/www.ircam.ma",
+        "aliases": null,
+        "latitude": 33.9756,
+        "longitude": -6.87116,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20863591",
+        "name": "School of Fine Arts of Casablanca",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "École Municipale des Beaux-Arts",
+            "Superior School of Fine Arts of Casablanca"
+        ],
+        "latitude": 33.5921,
+        "longitude": -7.6233,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551490",
+        "name": "Sidi Mohamed Ben Abdellah University",
+        "short_name": null,
+        "official_website": "http:\/\/www.usmba.ac.ma\/",
+        "aliases": [
+            "USMBA"
+        ],
+        "latitude": 34.0336,
+        "longitude": -4.97778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551494",
+        "name": "Sultan Moulay Slimane University",
+        "short_name": null,
+        "official_website": "https:\/\/www.usms.ac.ma\/",
+        "aliases": [
+            "USMS"
+        ],
+        "latitude": 32.3358,
+        "longitude": -6.36939,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3578437",
+        "name": "Sup de Co Marrakech",
+        "short_name": null,
+        "official_website": "http:\/\/www.supdeco.ma\/",
+        "aliases": null,
+        "latitude": 31.6526,
+        "longitude": -8.01832,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294399",
+        "name": "Sup Management",
+        "short_name": null,
+        "official_website": "https:\/\/www.supmanagement.ma",
+        "aliases": null,
+        "latitude": 34.0357357,
+        "longitude": -4.9942943,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q126875720",
+        "name": "Tawalt Cultural Foundation",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q61931430",
+        "name": "University Mohammed VI Polytechnic",
+        "short_name": null,
+        "official_website": "https:\/\/www.um6p.ma\/",
+        "aliases": [
+            "UM6P"
+        ],
+        "latitude": 32.218336,
+        "longitude": -7.935744,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q378014",
+        "name": "University of al-Qarawiyyin",
+        "short_name": null,
+        "official_website": "http:\/\/uaq.ma\/",
+        "aliases": [
+            "UAQ",
+            "Jāmiʿat al-Qarawiyyīn",
+            "uaq.ma"
+        ],
+        "latitude": 34.0644444,
+        "longitude": -4.9733333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q119820354",
+        "name": "Université Cadi Ayyad, Department of Environmental Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Cadi Ayyad University, Department of Environmental Sciences",
+            "UCA Department of Environmental Sciences",
+            "University Cadi Ayyad, Department of Environmental Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2405067",
+        "name": "Université Hassan 1er",
+        "short_name": null,
+        "official_website": "https:\/\/www.uh1.ac.ma\/",
+        "aliases": [
+            "UH1",
+            "University of Settat"
+        ],
+        "latitude": 33.0291469,
+        "longitude": -7.6156975,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551413",
+        "name": "Université Hassan II Mohammedia",
+        "short_name": null,
+        "official_website": "http:\/\/www.univh2m.ma\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100261338",
+        "name": "Université Internationale d'Agadir",
+        "short_name": null,
+        "official_website": "https:\/\/universiapolis.ma\/",
+        "aliases": [
+            "Universiapolis"
+        ],
+        "latitude": 30.4039786,
+        "longitude": -9.5306932,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16682080",
+        "name": "Université Internationale de Casablanca",
+        "short_name": null,
+        "official_website": "http:\/\/www.uic.ac.ma",
+        "aliases": [
+            "UIC"
+        ],
+        "latitude": 33.4956343,
+        "longitude": -7.6104679,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19407257",
+        "name": "Université Mohammed VI des Sciences de la Santé",
+        "short_name": null,
+        "official_website": "http:\/\/www.um6ss.ma",
+        "aliases": [
+            "UM6SS"
+        ],
+        "latitude": 33.5860045,
+        "longitude": -7.6272315,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551453",
+        "name": "Université Moulay-Ismaïl",
+        "short_name": null,
+        "official_website": "http:\/\/www.umi.ac.ma\/",
+        "aliases": [
+            "UMI",
+            "Moulay Ismail University",
+            "Universite Moulay Ismail De Meknes"
+        ],
+        "latitude": 33.895,
+        "longitude": -5.5547222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16511695",
+        "name": "Université Privée de Fès",
+        "short_name": null,
+        "official_website": "http:\/\/www.upf.ac.ma\/",
+        "aliases": [
+            "UPF"
+        ],
+        "latitude": 34.007,
+        "longitude": -5.0165,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551829",
+        "name": "Université Privée de Marrakech",
+        "short_name": null,
+        "official_website": "https:\/\/upm.ac.ma\/",
+        "aliases": [
+            "UPM"
+        ],
+        "latitude": 31.5195581,
+        "longitude": -8.062967,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136455949",
+        "name": "Upper School of Journalism and Communication",
+        "short_name": null,
+        "official_website": "https:\/\/esjc.ma\/",
+        "aliases": [
+            "School of Journalism and Mass Communication",
+            "Graduate School of Journalism and Mass Communication",
+            "School of Journalism and Communication",
+            "Higher School of Journalism and Communication",
+            "Graduate School of Journalism and Communication",
+            "Higher School of Journalism and Mass Communication",
+            "Upper School of Journalism and Mass Communication"
+        ],
+        "latitude": 33.5931667,
+        "longitude": -7.6174167,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100955856",
+        "name": "École de Formation aux Carrières de Santé",
+        "short_name": null,
+        "official_website": "http:\/\/efcsfes.simplesite.com\/",
+        "aliases": [
+            "EFCS",
+            "efcsfes.simplesite.com"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8077995",
+        "name": "École nationale des sciences appliquées de Tétouan",
+        "short_name": null,
+        "official_website": "http:\/\/www.ensa-tetouan.ac.ma\/",
+        "aliases": [
+            "Ecole nationale des sciences appliquees de Tetouan"
+        ],
+        "latitude": 35.5617665,
+        "longitude": -5.3645146,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294393",
+        "name": "École nationale supérieure de l'administration",
+        "short_name": null,
+        "official_website": "http:\/\/www.ensa.org.ma",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105640663",
+        "name": "École Supérieure en Ingénierie de l'Information, Télécoms, Management et Génie Civil",
+        "short_name": null,
+        "official_website": "https:\/\/estem.ma\/?utm=adweb",
+        "aliases": [
+            "ESTEM"
+        ],
+        "latitude": 33.5959057,
+        "longitude": -7.6305486,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8078058",
+        "name": "Écoles nationales des sciences appliquées",
+        "short_name": null,
+        "official_website": "http:\/\/www.ensa.org.ma\/",
+        "aliases": [
+            "Ecoles nationales des sciences appliquees"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

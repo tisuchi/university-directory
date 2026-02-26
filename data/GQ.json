@@ -1,0 +1,55 @@
+[
+    {
+        "wikidata_id": "Q122142167",
+        "name": "Afro-American University of Central Africa",
+        "short_name": null,
+        "official_website": "https:\/\/aaucauniversity.com\/",
+        "aliases": [
+            "Afroamerican University of Central Africa",
+            "Universidad Afro-Americana de África Central",
+            "Universidad Afroamericana de África Central"
+        ],
+        "latitude": 1.607172,
+        "longitude": 10.8591555,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107350957",
+        "name": "Campus UNED Guinea Ecuatorial",
+        "short_name": null,
+        "official_website": "https:\/\/www.uned.es\/universidad\/inicio\/internacional\/centros-exterior\/centros-uned-africa.html",
+        "aliases": null,
+        "latitude": 1.8683119,
+        "longitude": 9.7679544,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5142860",
+        "name": "Colegio Nacional Enrique Nvó Okenve",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "CNENO",
+            "Colegio La Salle de Bata",
+            "Colegio Nacional Enrique Nvo Okenve",
+            "Enrique Nvó Okenve National College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3291919",
+        "name": "National University of Equatorial Guinea",
+        "short_name": null,
+        "official_website": "http:\/\/unge.education\/main\/",
+        "aliases": [
+            "IAU-018033",
+            "UNGE",
+            "Universidad Nacional de Guinea Ecuatorial"
+        ],
+        "latitude": 3.7468,
+        "longitude": 8.7752,
+        "type": "university"
+    }
+]

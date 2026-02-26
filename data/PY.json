@@ -1,0 +1,374 @@
+[
+    {
+        "wikidata_id": "Q74550120",
+        "name": "Centro de Estudios Antropológicos (CEADUC)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q107942183",
+        "name": "Centro Paraguayo de Estudios de la Mujer",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "CEPEM",
+            "Paraguayan Center for Women's Studies"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5776907",
+        "name": "Colegio Goethe",
+        "short_name": null,
+        "official_website": "http:\/\/www.goethe.edu.py\/",
+        "aliases": null,
+        "latitude": -25.2832,
+        "longitude": -57.5559,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q107943470",
+        "name": "Grupo de Estudios de la Mujer Paraguaya",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "GEMPA",
+            "Paraguayan Women's Studies Group"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q29054122",
+        "name": "Metropolitan University of Asuncion",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74529270",
+        "name": "Ministerio de Salud Pública y Bienestar Social, Centro Médico Nacional, Hospital Nacional",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q52789496",
+        "name": "Paraguayan German University",
+        "short_name": null,
+        "official_website": "http:\/\/www.upa.edu.py\/",
+        "aliases": [
+            "UPA"
+        ],
+        "latitude": -25.342212,
+        "longitude": -57.542262,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29054125",
+        "name": "Polytechnic and Artistic University of Paraguay",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UPAP"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q110109160",
+        "name": "Polytechnic University Taiwan - Paraguay",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UPTP"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131857856",
+        "name": "Q131857856",
+        "short_name": null,
+        "official_website": "https:\/\/unamis.edu.py",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134017277",
+        "name": "Q134017277",
+        "short_name": null,
+        "official_website": "https:\/\/cpes.org.py",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q136433554",
+        "name": "Q136433554",
+        "short_name": null,
+        "official_website": "https:\/\/uds.edu.py",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q138257290",
+        "name": "Q138257290",
+        "short_name": null,
+        "official_website": "https:\/\/www.unigran.edu.py\/",
+        "aliases": [
+            "Great Asunción University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65246420",
+        "name": "Q65246420",
+        "short_name": null,
+        "official_website": "http:\/\/www.unves.edu.py\/unves.php",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1750155",
+        "name": "Universidad Americana",
+        "short_name": null,
+        "official_website": "http:\/\/www.americana.edu.py\/",
+        "aliases": null,
+        "latitude": -25.2786,
+        "longitude": -57.5994,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q549311",
+        "name": "Universidad Autónoma de Asunción",
+        "short_name": null,
+        "official_website": "http:\/\/www.uaa.edu.py",
+        "aliases": [
+            "Universidad Autonoma de Asuncion"
+        ],
+        "latitude": -25.287358,
+        "longitude": -57.643032,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61483495",
+        "name": "Universidad Autónoma de Encarnación",
+        "short_name": null,
+        "official_website": "http:\/\/www.unae.edu.py",
+        "aliases": null,
+        "latitude": -27.3374167,
+        "longitude": -55.8595,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q662015",
+        "name": "Universidad Católica \"Nuestra Señora de la Asunción\"",
+        "short_name": null,
+        "official_website": "http:\/\/www.universidadcatolica.edu.py\/",
+        "aliases": [
+            "Universidad Católica de Paraguay"
+        ],
+        "latitude": -25.281,
+        "longitude": -57.6322,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q264035",
+        "name": "Universidad Columbia del Paraguay",
+        "short_name": null,
+        "official_website": "http:\/\/www.columbia.edu.py\/",
+        "aliases": null,
+        "latitude": -25.2859056,
+        "longitude": -57.6297667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74528085",
+        "name": "Universidad de Asunción, Facultad de Ciencias Médicas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74537964",
+        "name": "Universidad de Asunción, Instituto de Investigaciones en Ciencias de la Salud",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30294146",
+        "name": "Universidad de la Integración de las Américas",
+        "short_name": null,
+        "official_website": "https:\/\/www.unida.edu.py\/",
+        "aliases": null,
+        "latitude": -25.2746814,
+        "longitude": -57.5941531,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q62163467",
+        "name": "Universidad del Norte",
+        "short_name": null,
+        "official_website": "https:\/\/uninorte.edu.py\/",
+        "aliases": [
+            "UNINORTE"
+        ],
+        "latitude": -25.2856667,
+        "longitude": -57.6174722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2039033",
+        "name": "Universidad Nacional de Asunción",
+        "short_name": null,
+        "official_website": "http:\/\/www.una.py\/",
+        "aliases": [
+            "UNA",
+            "Mbo'ehaovusu Tetãgua Paraguaygua",
+            "National University of Asuncion",
+            "Universidad de Asunción",
+            "Universidad Nacional de Asuncion"
+        ],
+        "latitude": -25.33562,
+        "longitude": -57.5199864,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74529348",
+        "name": "Universidad Nacional de Asunción, Facultad de Ciencias Agrarias",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528744",
+        "name": "Universidad Nacional de Asunción, Facultad de Ciencias Económicas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530081",
+        "name": "Universidad Nacional de Asunción, Facultad de Ciencias Veterinarias, Departamento de Investigación Científica y Tecnológica",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q108737566",
+        "name": "Universidad Nacional De Caaguazú",
+        "short_name": null,
+        "official_website": "http:\/\/www.unca.edu.py\/",
+        "aliases": [
+            "UNCA"
+        ],
+        "latitude": -25.28312,
+        "longitude": -57.62839,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97168846",
+        "name": "Universidad Nacional de Canindeyú",
+        "short_name": null,
+        "official_website": "https:\/\/www.unican.edu.py\/",
+        "aliases": null,
+        "latitude": -24.0748201,
+        "longitude": -54.306073,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108737361",
+        "name": "Universidad Nacional de Concepción",
+        "short_name": null,
+        "official_website": "https:\/\/www.unc.edu.py\/",
+        "aliases": [
+            "UNC"
+        ],
+        "latitude": -23.409347,
+        "longitude": -57.41219,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894300",
+        "name": "Universidad Nacional de Itapúa",
+        "short_name": null,
+        "official_website": "https:\/\/uni.edu.py\/",
+        "aliases": [
+            "Universidad Nacional de Itapua"
+        ],
+        "latitude": -27.3066303,
+        "longitude": -55.8884131,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1570663",
+        "name": "Universidad Nacional de Pilar",
+        "short_name": null,
+        "official_website": "http:\/\/www.unp.edu.py\/",
+        "aliases": null,
+        "latitude": -26.8531924,
+        "longitude": -58.3100044,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2495702",
+        "name": "Universidad Nacional del Este",
+        "short_name": null,
+        "official_website": "http:\/\/www.une.edu.py",
+        "aliases": null,
+        "latitude": -25.484104,
+        "longitude": -54.6699442,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30293958",
+        "name": "Universidad Privada del Norte",
+        "short_name": null,
+        "official_website": "https:\/\/upe.edu.py\/",
+        "aliases": null,
+        "latitude": -25.5516389,
+        "longitude": -54.6158333,
+        "type": "university"
+    }
+]

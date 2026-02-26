@@ -1,0 +1,90 @@
+[
+    {
+        "wikidata_id": "Q74555605",
+        "name": "Biotechnical Faculty, Podgorica",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74535778",
+        "name": "Center for Quality, Faculty of Mechanical Engineering, University of Montenegro, Montenegro",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5428882",
+        "name": "Faculty for Information technology, Podgorica",
+        "short_name": null,
+        "official_website": "http:\/\/fit.unimediteran.net",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136530323",
+        "name": "Faculty of Liberal Arts and Sciences",
+        "short_name": "FLAS",
+        "official_website": "https:\/\/www.liberalarts.me\/",
+        "aliases": [
+            "FLAS",
+            "Liberal Arts in Montenegro",
+            "Liberal Arts Montenegro",
+            "Foundation Liberal Arts Montenegro"
+        ],
+        "latitude": 42.2905556,
+        "longitude": 18.8394444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16655674",
+        "name": "Institute of Marine Biology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 42.4361111,
+        "longitude": 18.7641667,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q282645",
+        "name": "Mediterranean University",
+        "short_name": null,
+        "official_website": "http:\/\/www.unimediteran.net",
+        "aliases": null,
+        "latitude": 42.4483333,
+        "longitude": 19.2616667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103021183",
+        "name": "University of Donja Gorica",
+        "short_name": "UDG",
+        "official_website": "https:\/\/www.udg.edu.me",
+        "aliases": null,
+        "latitude": 42.4175,
+        "longitude": 19.2028,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1786067",
+        "name": "University of Montenegro",
+        "short_name": null,
+        "official_website": "https:\/\/www.ucg.ac.me",
+        "aliases": [
+            "University of Montenegro, Faculty for Sport and Physical Education, Montenegrin Sports Academy",
+            "Univerzitet Crne Gore"
+        ],
+        "latitude": 42.4430556,
+        "longitude": 19.2430556,
+        "type": "university"
+    }
+]

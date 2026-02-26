@@ -1,0 +1,954 @@
+[
+    {
+        "wikidata_id": "Q97574388",
+        "name": "Armed Forces University - ESPE",
+        "short_name": null,
+        "official_website": "http:\/\/www.espe.edu.ec",
+        "aliases": null,
+        "latitude": -0.3148611,
+        "longitude": -78.4434722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q120143435",
+        "name": "Babahoyo Higher Technological Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.istb.edu.ec",
+        "aliases": null,
+        "latitude": -1.8108339,
+        "longitude": -79.5446509,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q120142798",
+        "name": "Babahoyo Technological Higher Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.istb.edu.ec",
+        "aliases": null,
+        "latitude": -1.8108339,
+        "longitude": -79.5446509,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21574121",
+        "name": "Bolivar State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ueb.edu.ec\/",
+        "aliases": null,
+        "latitude": -1.5711162,
+        "longitude": -79.0072775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1643758",
+        "name": "Central University of Ecuador",
+        "short_name": null,
+        "official_website": "https:\/\/www.uce.edu.ec\/",
+        "aliases": null,
+        "latitude": -0.1998,
+        "longitude": -78.5056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74554458",
+        "name": "Centro de Investigación de la Facultad de Arqiutectura y Urbanismo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5761987",
+        "name": "Centro de Tecnologías de Información",
+        "short_name": null,
+        "official_website": "http:\/\/www.cti.espol.edu.ec\/",
+        "aliases": [
+            "Centro de Tecnologias de Informacion"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q113826",
+        "name": "Charles Darwin Research Station",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Estación Científica Charles Darwin"
+        ],
+        "latitude": -0.75,
+        "longitude": -90.3167,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q23474223",
+        "name": "Escuela Sucre",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -0.2237,
+        "longitude": -78.5101,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3732873",
+        "name": "Escuela Superior Politécnica del Litoral",
+        "short_name": null,
+        "official_website": "https:\/\/www.espol.edu.ec\/",
+        "aliases": [
+            "Escuela Superior Politecnica del Litoral"
+        ],
+        "latitude": -2.1496604,
+        "longitude": -79.9593754,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q31885315",
+        "name": "Estacion Cientifica Yasuni",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -0.63333,
+        "longitude": -76.5,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22045587",
+        "name": "Estatal Amazonica University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uea.edu.ec\/",
+        "aliases": [
+            "UEA",
+            "Universidad Estatal Amazónica"
+        ],
+        "latitude": -1.4686894,
+        "longitude": -77.9959842,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74540283",
+        "name": "Facultad de Odontología, Instituto Superior de Investigación y Posgrado",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30294135",
+        "name": "FLACSO Ecuador",
+        "short_name": null,
+        "official_website": "https:\/\/www.flacso.edu.ec\/",
+        "aliases": [
+            "Facultad Latinoamericana de Ciencias Sociales, Sede Ecuador",
+            "FLACSO Ecuador",
+            "Facultad Latinoamericana de Ciencias Sociales, sede Ecuador"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28813667",
+        "name": "Instituto de Altos Estudios Nacionales",
+        "short_name": null,
+        "official_website": "http:\/\/www.iaen.edu.ec",
+        "aliases": null,
+        "latitude": -0.173115,
+        "longitude": -78.4853509,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104969614",
+        "name": "Instituto Geofísico de Ecuador",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25409879",
+        "name": "Instituto Nacional de Investigaciones Agropecuarias",
+        "short_name": null,
+        "official_website": "http:\/\/www.iniap.gob.ec\/",
+        "aliases": [
+            "INIAP"
+        ],
+        "latitude": -0.3689189,
+        "longitude": -78.5551322,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100956047",
+        "name": "Instituto Superior Tecnológico Loja",
+        "short_name": null,
+        "official_website": "https:\/\/tecnologicoloja.edu.ec\/",
+        "aliases": [
+            "ISTL"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6164739",
+        "name": "Jatun Sacha Foundation",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 0.34311,
+        "longitude": -79.72873,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74550499",
+        "name": "Maestría en Estudios Socioambientales, Departamento de Desarrollo, Ambiente y Territorio, FLACSO Ecuador",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q8778175",
+        "name": "National Polytechnic School",
+        "short_name": null,
+        "official_website": "http:\/\/www.epn.edu.ec\/",
+        "aliases": [
+            "EPN",
+            "Escuela Politécnica Nacional"
+        ],
+        "latitude": -0.2105556,
+        "longitude": -78.4888889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q24170810",
+        "name": "National University of Loja",
+        "short_name": null,
+        "official_website": "http:\/\/www.unl.edu.ec\/",
+        "aliases": null,
+        "latitude": -4.035947,
+        "longitude": -79.2032826,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7210143",
+        "name": "Politecnica Salesiana University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ups.edu.ec\/",
+        "aliases": null,
+        "latitude": -2.886382,
+        "longitude": -78.989613,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1537436",
+        "name": "Pontificia Universidad Católica del Ecuador",
+        "short_name": null,
+        "official_website": "http:\/\/www.puce.edu.ec",
+        "aliases": [
+            "Pontifical Catholic University of Ecuador",
+            "Pontificia Universidad Catolica del Ecuador",
+            "Universidad Catolica del Ecuador",
+            "Universidad Católica del Ecuador"
+        ],
+        "latitude": -0.21,
+        "longitude": -78.4914,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74527066",
+        "name": "Pontificia Universidad Católica del Ecuador, Carrera de Artes Visuales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q125768138",
+        "name": "Q125768138",
+        "short_name": null,
+        "official_website": "https:\/\/www.unicepes.edu.mx",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130236184",
+        "name": "Q130236184",
+        "short_name": null,
+        "official_website": "https:\/\/odecom.puce.edu.ec",
+        "aliases": null,
+        "latitude": -0.2096219,
+        "longitude": -78.4916039,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q136089651",
+        "name": "Q136089651",
+        "short_name": null,
+        "official_website": "https:\/\/istriobamba.edu.ec\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16579058",
+        "name": "Q16579058",
+        "short_name": null,
+        "official_website": "http:\/\/www.evaluacion.gob.ec",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5395416",
+        "name": "Q5395416",
+        "short_name": null,
+        "official_website": "http:\/\/www.uagraria.edu.ec\/",
+        "aliases": null,
+        "latitude": -2.2397839,
+        "longitude": -79.8944305,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156695",
+        "name": "Q6156695",
+        "short_name": null,
+        "official_website": "http:\/\/www.uteg.edu.ec\/",
+        "aliases": null,
+        "latitude": -2.1822151,
+        "longitude": -79.9439689,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894316",
+        "name": "Quevedo State Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uteq.edu.ec\/",
+        "aliases": null,
+        "latitude": -1.012778,
+        "longitude": -79.469167,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29386573",
+        "name": "Regional College Amazon Ikiam",
+        "short_name": null,
+        "official_website": "http:\/\/www.ikiam.edu.ec",
+        "aliases": null,
+        "latitude": -0.9502232,
+        "longitude": -77.8626934,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q85879073",
+        "name": "State University of Milagro",
+        "short_name": null,
+        "official_website": "https:\/\/www.unemi.edu.ec",
+        "aliases": null,
+        "latitude": -2.1489643,
+        "longitude": -79.6026381,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111985520",
+        "name": "Technical University of Machala",
+        "short_name": null,
+        "official_website": "http:\/\/utmachala.edu.ec",
+        "aliases": [
+            "San Antonio de Machala University of Technology",
+            "Universidad Tecnológica San Antonio de Machala"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134111884",
+        "name": "Universidad Alfredo Pérez Guerrero",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2495648",
+        "name": "Universidad Andina Simón Bolívar",
+        "short_name": null,
+        "official_website": "http:\/\/uasb.edu.bo\/",
+        "aliases": null,
+        "latitude": -19.049856,
+        "longitude": -65.260108,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27982784",
+        "name": "Universidad Casa Grande",
+        "short_name": null,
+        "official_website": "http:\/\/www.casagrande.edu.ec\/",
+        "aliases": null,
+        "latitude": -2.1675995,
+        "longitude": -79.9176626,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156393",
+        "name": "Universidad Católica de Cuenca",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucacue.edu.ec",
+        "aliases": null,
+        "latitude": -2.884652,
+        "longitude": -79.007208,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894254",
+        "name": "Universidad Católica de Oriente",
+        "short_name": null,
+        "official_website": "http:\/\/www.uco.edu.co\/",
+        "aliases": [
+            "Universidad Catolica de Oriente"
+        ],
+        "latitude": 6.15045,
+        "longitude": -75.36634,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q661971",
+        "name": "Universidad Católica de Santiago de Guayaquil",
+        "short_name": null,
+        "official_website": "https:\/\/www.ucsg.edu.ec\/",
+        "aliases": [
+            "Catholic University of Santiago de Guayaquil",
+            "Universidad Catolica de Santiago de Guayaquil"
+        ],
+        "latitude": -2.1813742,
+        "longitude": -79.9036976,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530258",
+        "name": "Universidad de Cuenca, Dirección de Investigación",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74537479",
+        "name": "Universidad de Cuenca, Facultad de Artes",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530623",
+        "name": "Universidad de Cuenca, Facultad de Ciencias Económicas y Administrativas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q541927",
+        "name": "Universidad de Especialidades Espíritu Santo",
+        "short_name": null,
+        "official_website": "https:\/\/www.uees.edu.ec\/",
+        "aliases": [
+            "UEES"
+        ],
+        "latitude": -2.133057,
+        "longitude": -79.8660479,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q24960966",
+        "name": "Universidad de Especialidades Turísticas",
+        "short_name": null,
+        "official_website": "http:\/\/www.udet.edu.ec\/",
+        "aliases": null,
+        "latitude": -0.198955,
+        "longitude": -78.493975,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156835",
+        "name": "Universidad de las Américas",
+        "short_name": null,
+        "official_website": "http:\/\/www.udla.edu.ec\/",
+        "aliases": [
+            "Universidad de las Americas"
+        ],
+        "latitude": -0.1803528,
+        "longitude": -78.467806,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17632385",
+        "name": "Universidad de las Artes",
+        "short_name": null,
+        "official_website": "http:\/\/www.uartes.edu.ec\/",
+        "aliases": null,
+        "latitude": -2.1945509,
+        "longitude": -79.8804465,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5397474",
+        "name": "Universidad de las Fuerzas Armadas - ESPE",
+        "short_name": null,
+        "official_website": "https:\/\/www.espe.edu.ec",
+        "aliases": [
+            "ESPE Army University"
+        ],
+        "latitude": -0.3148611,
+        "longitude": -78.4434722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156840",
+        "name": "Universidad del Azuay",
+        "short_name": null,
+        "official_website": "http:\/\/www.uazuay.edu.ec",
+        "aliases": null,
+        "latitude": -2.9189369,
+        "longitude": -78.999979,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894259",
+        "name": "Universidad Del Pacífico – Ecuador",
+        "short_name": null,
+        "official_website": "http:\/\/upacifico.edu.ec\/web\/",
+        "aliases": [
+            "ESNEPA",
+            "UPACIFICO"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29051048",
+        "name": "Universidad Ecotec",
+        "short_name": null,
+        "official_website": "https:\/\/www.ecotec.edu.ec\/",
+        "aliases": [
+            "Ecotec"
+        ],
+        "latitude": -2.039249,
+        "longitude": -79.856851,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294123",
+        "name": "Universidad Estatal de Milagro",
+        "short_name": null,
+        "official_website": "https:\/\/www.unemi.edu.ec",
+        "aliases": [
+            "UNEMI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74551935",
+        "name": "Universidad Estatal de Milagro,  Departamento de Investigación, Desarrollo Tecnológico e Innovación",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q22084795",
+        "name": "Universidad Estatal del Sur de Manabí",
+        "short_name": null,
+        "official_website": "http:\/\/www.unesum.edu.ec\/",
+        "aliases": null,
+        "latitude": -1.3495799,
+        "longitude": -80.5641208,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16644462",
+        "name": "Universidad Estatal Península de Santa Elena",
+        "short_name": null,
+        "official_website": "http:\/\/www.upse.edu.ec\/",
+        "aliases": null,
+        "latitude": -2.2332318,
+        "longitude": -80.8779038,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156836",
+        "name": "Universidad Hemisferios",
+        "short_name": null,
+        "official_website": "https:\/\/www.uhemisferios.edu.ec\/",
+        "aliases": [
+            "UHE",
+            "Universidad Hemisferios",
+            "UHemisferios"
+        ],
+        "latitude": -0.1771166,
+        "longitude": -78.5047881,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q24960965",
+        "name": "Universidad Iberoamericana del Ecuador",
+        "short_name": null,
+        "official_website": "http:\/\/www.unibe.edu.ec\/",
+        "aliases": null,
+        "latitude": -0.198955,
+        "longitude": -78.493975,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1443288",
+        "name": "Universidad Intercultural de las Nacionalidades y Pueblos Indígenas",
+        "short_name": null,
+        "official_website": "https:\/\/uaw.edu.ec\/",
+        "aliases": [
+            "Universidad Amawtay Wasi",
+            "Universidad Intercultural de las Nacionalidades y Pueblos Indígenas Amawtay Wasi"
+        ],
+        "latitude": -0.2008317,
+        "longitude": -78.4923557,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2495685",
+        "name": "Universidad Internacional del Ecuador",
+        "short_name": null,
+        "official_website": "https:\/\/www.uide.edu.ec\/",
+        "aliases": null,
+        "latitude": -0.2453,
+        "longitude": -78.4697,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156485",
+        "name": "Universidad Internacional SEK",
+        "short_name": null,
+        "official_website": "https:\/\/www.uisek.edu.ec\/es",
+        "aliases": null,
+        "latitude": -0.0909889,
+        "longitude": -78.4845389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19627405",
+        "name": "Universidad Laica Eloy Alfaro de Manabí",
+        "short_name": null,
+        "official_website": "http:\/\/www.uleam.edu.ec\/",
+        "aliases": null,
+        "latitude": -0.95274,
+        "longitude": -80.745177,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5393210",
+        "name": "Universidad Laica Vicente Rocafuerte",
+        "short_name": null,
+        "official_website": "http:\/\/www.ulvr.edu.ec\/",
+        "aliases": null,
+        "latitude": -2.1757096,
+        "longitude": -79.8907564,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156721",
+        "name": "Universidad Luis Vargas Torres",
+        "short_name": null,
+        "official_website": "http:\/\/www.utelvt.edu.ec\/",
+        "aliases": null,
+        "latitude": 0.9737291,
+        "longitude": -79.6662641,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294110",
+        "name": "Universidad Metropolitana",
+        "short_name": null,
+        "official_website": "https:\/\/www.umet.edu.ec\/",
+        "aliases": null,
+        "latitude": -3.2618841,
+        "longitude": -79.9580562,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29051133",
+        "name": "Universidad Nacional de Chimborazo",
+        "short_name": null,
+        "official_website": "https:\/\/www.unach.edu.ec\/",
+        "aliases": [
+            "Unach"
+        ],
+        "latitude": -1.6803573,
+        "longitude": -78.641386,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74529738",
+        "name": "Universidad Nacional de Chimborazo, Facultad de Ciencias Políticas y Administrativas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156626",
+        "name": "Universidad Politécnica Estatal del Carchi",
+        "short_name": null,
+        "official_website": "http:\/\/www.upec.edu.ec\/",
+        "aliases": [
+            "UPEC"
+        ],
+        "latitude": 0.8055556,
+        "longitude": -77.7341667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11049417",
+        "name": "Universidad Regional Autónoma de los Andes - UNIANDES",
+        "short_name": null,
+        "official_website": "http:\/\/www.uniandesonline.edu.ec\/",
+        "aliases": [
+            "UNIANDES"
+        ],
+        "latitude": -0.983861,
+        "longitude": -79.4428629,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2495713",
+        "name": "Universidad San Francisco de Quito",
+        "short_name": null,
+        "official_website": "http:\/\/www.usfq.edu.ec\/",
+        "aliases": [
+            "San Francisco University of Quito",
+            "Universidad San Francisco"
+        ],
+        "latitude": -0.19691,
+        "longitude": -78.43582,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30266537",
+        "name": "Universidad Santa María",
+        "short_name": null,
+        "official_website": "http:\/\/www.usm.edu.ec\/",
+        "aliases": [
+            "USM"
+        ],
+        "latitude": -2.164375,
+        "longitude": -79.924761,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74546058",
+        "name": "Universidad Tecnológica Equinoccial UTE, Facultad de Ciencias de la Ingeniería",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156697",
+        "name": "Universidad Tecnológica Indoamérica",
+        "short_name": null,
+        "official_website": "http:\/\/www.uti.edu.ec",
+        "aliases": [
+            "UTI",
+            "Indoamerica University",
+            "Universidad Indoamérica"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156723",
+        "name": "Universidad Técnica de Ambato",
+        "short_name": null,
+        "official_website": "http:\/\/www.uta.edu.ec\/",
+        "aliases": null,
+        "latitude": -1.2690951,
+        "longitude": -78.6235598,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q24306461",
+        "name": "Universidad Técnica de Cotopaxi",
+        "short_name": null,
+        "official_website": "http:\/\/www.utc.edu.ec\/",
+        "aliases": [
+            "UTC"
+        ],
+        "latitude": -0.91789,
+        "longitude": -78.632856,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q24352128",
+        "name": "Universidad Técnica de Machala",
+        "short_name": null,
+        "official_website": "http:\/\/www.utmachala.edu.ec\/",
+        "aliases": null,
+        "latitude": -3.264525,
+        "longitude": -79.951195,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18655712",
+        "name": "Universidad Técnica de Manabí",
+        "short_name": null,
+        "official_website": "http:\/\/www.utm.edu.ec\/",
+        "aliases": null,
+        "latitude": -1.0441667,
+        "longitude": -80.4558333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74546522",
+        "name": "Universidad Técnica de Manabí, Facultad de Ciencias Humanísticas y Sociales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528050",
+        "name": "Universidad Técnica de Manabí, Unidad de Cooperación Universitaria",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74537226",
+        "name": "Universidad Técnica de Manabí, Vicerrectorado Académico UTM",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q29051038",
+        "name": "Universidad Técnica del Norte",
+        "short_name": null,
+        "official_website": "https:\/\/www.utn.edu.ec\/web\/uniportal\/",
+        "aliases": null,
+        "latitude": 0.3584462,
+        "longitude": -78.1114867,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894321",
+        "name": "Universidad Técnica Particular de Loja",
+        "short_name": null,
+        "official_website": "https:\/\/www.utpl.edu.ec\/",
+        "aliases": [
+            "Universidad Tecnica Particular de Loja",
+            "Universidad Técnica Particular de Loja (Loja, Ekvádor : provincie)"
+        ],
+        "latitude": -3.9863111,
+        "longitude": -79.1991557,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895315",
+        "name": "University of Cuenca",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucuenca.edu.ec",
+        "aliases": [
+            "Universidad de Cuenca"
+        ],
+        "latitude": -2.900515,
+        "longitude": -79.009001,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895474",
+        "name": "University of Guayaquil",
+        "short_name": null,
+        "official_website": "http:\/\/www.ug.edu.ec\/",
+        "aliases": [
+            "Universidad de Guayaquil"
+        ],
+        "latitude": -2.18341,
+        "longitude": -79.8958,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3728444",
+        "name": "University San Gregorio de Portoviejo",
+        "short_name": null,
+        "official_website": "http:\/\/www.sangregorio.edu.ec\/",
+        "aliases": null,
+        "latitude": -1.06389,
+        "longitude": -80.4703,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2495708",
+        "name": "UTE University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ute.edu.ec\/",
+        "aliases": [
+            "Universidad UTE"
+        ],
+        "latitude": -0.1841667,
+        "longitude": -78.4935278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16320182",
+        "name": "Yachay University for Experimental Technology and Research",
+        "short_name": null,
+        "official_website": "http:\/\/www.yachaytech.edu.ec",
+        "aliases": [
+            "Yachay Tech",
+            "Yachay University"
+        ],
+        "latitude": 0.4106111,
+        "longitude": -78.1700278,
+        "type": "university"
+    }
+]

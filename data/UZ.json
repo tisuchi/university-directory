@@ -1,0 +1,1946 @@
+[
+    {
+        "wikidata_id": "Q12822190",
+        "name": "Abdullayev Institute of Geology and Geophysics",
+        "short_name": null,
+        "official_website": "https:\/\/ingeo.uz\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q64623374",
+        "name": "Abu Rayhan Biruni Institute of Oriental Studies",
+        "short_name": null,
+        "official_website": "http:\/\/beruni.uz\/",
+        "aliases": [
+            "Abu Rayhan Al-Biruni Institute of Oriental  Studies",
+            "Al-Beruni Center for Oriental Manuscripts",
+            "al-Beruni Institute for Oriental Studies",
+            "Beruni Institute of Oriental Studies",
+            "Institute of Oriental Studies named after Abu Rayhan Beruni"
+        ],
+        "latitude": 41.338114,
+        "longitude": 69.337085,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25527819",
+        "name": "Academy of the Armed Forces of Uzbekistan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.31787,
+        "longitude": 69.30882,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28771449",
+        "name": "Academy of the Ministry of Internal Affairs of Uzbekistan",
+        "short_name": null,
+        "official_website": "http:\/\/akadmvd.uz\/",
+        "aliases": null,
+        "latitude": 41.32809,
+        "longitude": 69.36158,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137397370",
+        "name": "Al-Khwarizmi University",
+        "short_name": null,
+        "official_website": "https:\/\/khwu.uz\/",
+        "aliases": [
+            "AKHU",
+            "Al-Xorazmiy universiteti"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28006255",
+        "name": "Alisher Navo'i Tashkent State University of Uzbek Language and Literature",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.2930556,
+        "longitude": 69.2530556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136649140",
+        "name": "American University of Technology",
+        "short_name": null,
+        "official_website": "https:\/\/aut-edu.uz\/",
+        "aliases": [
+            "American University of Technology, Tashkent",
+            "American University of Technology in Tashkent"
+        ],
+        "latitude": 41.3070878,
+        "longitude": 69.2550421,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294772",
+        "name": "Andijan Institute of Agricultural",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Andijan Institute of Agriculture and Agritechnologies"
+        ],
+        "latitude": 40.856012,
+        "longitude": 72.300032,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25532246",
+        "name": "Andijan Machine-building Institute",
+        "short_name": null,
+        "official_website": "https:\/\/web.andmiedu.uz\/",
+        "aliases": [
+            "AndMI"
+        ],
+        "latitude": 40.7744231,
+        "longitude": 72.3373811,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20533248",
+        "name": "Andijan State Medical Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.8113792,
+        "longitude": 72.3284265,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124844869",
+        "name": "Andijan State Pedagogical Institute",
+        "short_name": null,
+        "official_website": "https:\/\/adpi.uz",
+        "aliases": [
+            "Andijon Davlat Pedagogika instituti"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19818745",
+        "name": "Andijan State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.adu.uz",
+        "aliases": null,
+        "latitude": 40.7881111,
+        "longitude": 72.3725556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q117237566",
+        "name": "Arifov Institute of Ion-Plasma and Laser Technologies",
+        "short_name": null,
+        "official_website": "https:\/\/iplt.uz\/",
+        "aliases": [
+            "Arifov Institute of Electronics",
+            "Institute of Ion Plasma Laser Technologies",
+            "U.A. Arifov Institute of Ion-Plasma and Laser Technologies of the Academy of Sciences of the Republic of Uzbekistan"
+        ],
+        "latitude": 41.3384,
+        "longitude": 69.34088,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25531810",
+        "name": "Bukhara State Medical Institute named after Abu Ali ibn Sino",
+        "short_name": null,
+        "official_website": "https:\/\/www.bsmi.uz",
+        "aliases": [
+            "BSMI"
+        ],
+        "latitude": 39.8067222,
+        "longitude": 64.43,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25531811",
+        "name": "Bukhara State Technical University",
+        "short_name": null,
+        "official_website": "https:\/\/www.bstu.uz\/",
+        "aliases": [
+            "Bukhara Engineering-Technological Institute",
+            "Bukhara High-Technology Engineering Institute",
+            "BSTU",
+            "Buxoro Davlat Texnika Universiteti"
+        ],
+        "latitude": 39.755,
+        "longitude": 64.4222222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20536168",
+        "name": "Bukhara State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.buxdu.uz\/",
+        "aliases": null,
+        "latitude": 39.76,
+        "longitude": 64.422,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q114568254",
+        "name": "Bukhara State University Pedagogical Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 39.7569444,
+        "longitude": 64.4163889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q132444474",
+        "name": "Center of Genomics and Bioinformatics",
+        "short_name": null,
+        "official_website": "https:\/\/genomics.uz\/",
+        "aliases": [
+            "CGB"
+        ],
+        "latitude": 41.366383,
+        "longitude": 69.342735,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q106485444",
+        "name": "Central Asian University",
+        "short_name": null,
+        "official_website": "https:\/\/centralasian.uz\/",
+        "aliases": [
+            "AKFA University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q138335385",
+        "name": "Central Asian University of Environmental and Climate Change Studies (Green University)",
+        "short_name": null,
+        "official_website": "https:\/\/caguniversity.uz\/",
+        "aliases": [
+            "Green University Tashkent",
+            "Green University Uzbekistan",
+            "Green University",
+            "CAGU",
+            "Central Asian Green University",
+            "Central Asian University of Environmental & Climate Change Studies",
+            "Central Asian University of Environmental and Climate Change Studies"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97145097",
+        "name": "Chirchik State Pedagogical University",
+        "short_name": null,
+        "official_website": "https:\/\/www.cspu.uz",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116971973",
+        "name": "Chirchiq State Pedagogical University",
+        "short_name": null,
+        "official_website": "https:\/\/cspi.uz\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136564987",
+        "name": "Diplomat University",
+        "short_name": null,
+        "official_website": "https:\/\/apply.diplomat.university\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16711550",
+        "name": "Fergana State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.fdu.uz",
+        "aliases": [
+            "Fergana state university"
+        ],
+        "latitude": 40.3874167,
+        "longitude": 71.7768889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122885018",
+        "name": "Former male gymnasium building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12822800",
+        "name": "Gulistan University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Gulistan State University"
+        ],
+        "latitude": 40.5041484,
+        "longitude": 68.7841453,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12829082",
+        "name": "Higher Military Customs Institute (Tashkent)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18351500",
+        "name": "Inha University Tashkent",
+        "short_name": null,
+        "official_website": "http:\/\/www.inha.uz\/",
+        "aliases": null,
+        "latitude": 41.3385,
+        "longitude": 69.3346,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25514618",
+        "name": "Institute of Art Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.311754,
+        "longitude": 69.266442,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q113562425",
+        "name": "Institute of Botany",
+        "short_name": null,
+        "official_website": "https:\/\/botany.uz\/",
+        "aliases": [
+            "Botanical Institute",
+            "Institute of Botany of the Academy of Science of Uzbekistan"
+        ],
+        "latitude": 41.336708,
+        "longitude": 69.341101,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25523291",
+        "name": "Institute of General and Inorganic Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.335273,
+        "longitude": 69.334893,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25520526",
+        "name": "Institute of History (Uzbekistan)",
+        "short_name": null,
+        "official_website": "https:\/\/fati.uz\/",
+        "aliases": [
+            "Institute of History of the Academy of Science of Uzbekistan",
+            "Institute of History of Uzbekistan",
+            "Institute of History, Academy of Science of Uzbekistan"
+        ],
+        "latitude": 41.304987,
+        "longitude": 69.283384,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25529359",
+        "name": "Institute of Materials Science",
+        "short_name": null,
+        "official_website": "https:\/\/imssolar.uz\/",
+        "aliases": [
+            "IMS"
+        ],
+        "latitude": 41.31288,
+        "longitude": 69.73978,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q130260861",
+        "name": "Institute of Microbiology",
+        "short_name": null,
+        "official_website": "https:\/\/microbio.uz\/",
+        "aliases": [
+            "Institute of Microbiology of the Academy of Science of Uzbekistan"
+        ],
+        "latitude": 41.33727,
+        "longitude": 69.340373,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25529177",
+        "name": "Institute of Polymer Chemistry and Physics",
+        "short_name": null,
+        "official_website": "http:\/\/polchemphys.uz\/",
+        "aliases": null,
+        "latitude": 41.32322,
+        "longitude": 69.260576,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25517294",
+        "name": "Institute of Seismology",
+        "short_name": null,
+        "official_website": "https:\/\/www.seismos.uz\/",
+        "aliases": [
+            "Institute of Seismology named after G.A. Mavlyanov of the Academy of Sciences of the Republic of Uzbekistan"
+        ],
+        "latitude": 41.32965,
+        "longitude": 69.27037,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q65284123",
+        "name": "Institute of Uzbek Language, Literature and Folklore",
+        "short_name": null,
+        "official_website": "https:\/\/tai.uz\/",
+        "aliases": [
+            "Institute of Uzbek Language, Literature and Folklore of the Uzbekistan Academy of Sciences"
+        ],
+        "latitude": 41.306626,
+        "longitude": 69.286564,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12822154",
+        "name": "Institute of Genetics and Plant Experimental Biology",
+        "short_name": null,
+        "official_website": "https:\/\/www.genetika.uz\/",
+        "aliases": null,
+        "latitude": 41.369047,
+        "longitude": 69.404858,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12828426",
+        "name": "Institute of Geology and Exploration of Oil and Gas Deposits",
+        "short_name": null,
+        "official_website": "https:\/\/ing.uz\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12827364",
+        "name": "Institute of Mineral Resources",
+        "short_name": null,
+        "official_website": "https:\/\/mridm.uz\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4201868",
+        "name": "Institute of Nuclear Physics",
+        "short_name": null,
+        "official_website": "http:\/\/inp.uz\/",
+        "aliases": null,
+        "latitude": 41.4115,
+        "longitude": 69.4552,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25523507",
+        "name": "Institute of State and Law",
+        "short_name": null,
+        "official_website": "https:\/\/islas.academy.uz\/",
+        "aliases": null,
+        "latitude": 41.337893,
+        "longitude": 69.33748,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25533866",
+        "name": "Institute of Zoology",
+        "short_name": null,
+        "official_website": "https:\/\/izoology.uz\/",
+        "aliases": null,
+        "latitude": 41.343986,
+        "longitude": 69.310037,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16705028",
+        "name": "International Islamic Academy of Uzbekistan",
+        "short_name": null,
+        "official_website": "https:\/\/www.iiau.uz",
+        "aliases": [
+            "Tashkent Islamic University"
+        ],
+        "latitude": 41.3235,
+        "longitude": 69.258,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124358666",
+        "name": "Japan Digital University",
+        "short_name": null,
+        "official_website": "https:\/\/www.jdu.uz\/",
+        "aliases": [
+            "JDU"
+        ],
+        "latitude": 41.3330833,
+        "longitude": 69.255,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q72342707",
+        "name": "Jizzakh branch of the National University of Uzbekistan",
+        "short_name": null,
+        "official_website": "https:\/\/jbnuu.uz\/",
+        "aliases": [
+            "Jizzakh branch of the National University of Uzbekistan named after Mirzo Ulugbek"
+        ],
+        "latitude": 40.1399322,
+        "longitude": 67.8211907,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12824054",
+        "name": "Jizzakh Higher Military Aviation School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12824058",
+        "name": "Jizzakh Polytechnic Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.1295,
+        "longitude": 67.836,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25533701",
+        "name": "Jizzakh State Pedagogical University named after Abdulla Qadiri",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.1318611,
+        "longitude": 67.8264722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20536396",
+        "name": "Karakalpak State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.karsu.uz\/",
+        "aliases": [
+            "KSU"
+        ],
+        "latitude": 42.4526667,
+        "longitude": 59.6266389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q73011341",
+        "name": "Karshi branch of Tashkent University of Information Technologies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 38.8278975,
+        "longitude": 65.728266,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25528138",
+        "name": "Karshi State Technical University",
+        "short_name": null,
+        "official_website": "https:\/\/kstu.uz\/",
+        "aliases": [
+            "KEEI",
+            "KSTU",
+            "Karshi Engineering Economics Institute"
+        ],
+        "latitude": 38.8359099,
+        "longitude": 65.8090434,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q82524912",
+        "name": "Kimyo International University in Tashkent",
+        "short_name": null,
+        "official_website": "https:\/\/kiut.uz\/",
+        "aliases": [
+            "Yeoju Technical Institute in Tashkent",
+            "YTIT"
+        ],
+        "latitude": 41.2583534,
+        "longitude": 69.2205327,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q65283740",
+        "name": "Kokand branch of Tashkent State Technical University named after Islam Karimov",
+        "short_name": null,
+        "official_website": "https:\/\/www.tdtukokand.uz\/",
+        "aliases": null,
+        "latitude": 40.5428746,
+        "longitude": 70.9717428,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122676021",
+        "name": "Kokand pedagogical institute buildings",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Simhayev house"
+        ],
+        "latitude": 40.531158,
+        "longitude": 70.928566,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q72083411",
+        "name": "Kokand University",
+        "short_name": null,
+        "official_website": "https:\/\/live.kokanduni.uz\/uz",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25529326",
+        "name": "Management Development Institute of Singapore in Tashkent",
+        "short_name": null,
+        "official_website": "http:\/\/mdis.uz\/",
+        "aliases": null,
+        "latitude": 41.2692567,
+        "longitude": 69.2027574,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122887111",
+        "name": "Middle school building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 39.721845,
+        "longitude": 64.551243,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q67080757",
+        "name": "Military Institute of Information and Communication Technologies and Communications",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25512565",
+        "name": "Namangan Engineering-Construction Institute",
+        "short_name": null,
+        "official_website": "https:\/\/nammqi.uz\/",
+        "aliases": [
+            "NamECI",
+            "Namangan Engineering Construction Institute"
+        ],
+        "latitude": 41.0071291,
+        "longitude": 71.6302096,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65283648",
+        "name": "Namangan Institute of Engineering and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/nammti.uz\/",
+        "aliases": null,
+        "latitude": 41.010882,
+        "longitude": 71.5927962,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q133998743",
+        "name": "Namangan state pedagogical institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.00238,
+        "longitude": 71.67524,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136565002",
+        "name": "Namangan State Technical University",
+        "short_name": null,
+        "official_website": "https:\/\/namdtu.uz\/",
+        "aliases": [
+            "NamDTU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q32393",
+        "name": "Namangan State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.namdu.uz",
+        "aliases": [
+            "Namangan State Technical University"
+        ],
+        "latitude": 41.0022753,
+        "longitude": 71.6743985,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q132166690",
+        "name": "National Center for Archeology",
+        "short_name": null,
+        "official_website": "https:\/\/archaeology.uz",
+        "aliases": null,
+        "latitude": 41.337893,
+        "longitude": 69.33748,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25511308",
+        "name": "National Institute of Art and Design (Tashkent)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.2815432,
+        "longitude": 69.268304,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q651133",
+        "name": "National University of Uzbekistan named after Mirzo Ulugbek",
+        "short_name": null,
+        "official_website": "http:\/\/www.nuu.uz\/",
+        "aliases": [
+            "National University of Uzbekistan",
+            "Tashkent State University"
+        ],
+        "latitude": 41.3511111,
+        "longitude": 69.205,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25512478",
+        "name": "Navoi State Mining Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.0960606,
+        "longitude": 65.3861431,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25512487",
+        "name": "Navoi State Pedagogical Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.0853032,
+        "longitude": 65.3837858,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136565003",
+        "name": "Navoi State University of Mining and Technologies",
+        "short_name": null,
+        "official_website": "https:\/\/www.nsumt.uz\/",
+        "aliases": [
+            "NSUMT"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116959484",
+        "name": "New Uzbekistan University",
+        "short_name": null,
+        "official_website": "https:\/\/newuu.uz",
+        "aliases": [
+            "NUU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q114076881",
+        "name": "Nordic International University",
+        "short_name": null,
+        "official_website": "https:\/\/nordicuniversity.org\/",
+        "aliases": [
+            "NIU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130533008",
+        "name": "Nukus Innovation Institute",
+        "short_name": null,
+        "official_website": "https:\/\/nukusii.uz\/",
+        "aliases": [
+            "Nukus Innovatsion Instituti"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12828800",
+        "name": "Nukus State Pedagogical Institute",
+        "short_name": null,
+        "official_website": "http:\/\/ndpi.uz\/",
+        "aliases": null,
+        "latitude": 42.4717055,
+        "longitude": 59.5877756,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65287932",
+        "name": "Pediatric Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4483534",
+        "name": "Physical-Technical Institute NGO «Physics-Sun»",
+        "short_name": null,
+        "official_website": "https:\/\/fti.uz\/",
+        "aliases": [
+            "Physical-Technical Insitute of SPA «Physics-Sun»"
+        ],
+        "latitude": 41.328586,
+        "longitude": 69.293936,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q111939454",
+        "name": "Q111939454",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122676355",
+        "name": "Q122676355",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.3546299,
+        "longitude": 69.3880496,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122676362",
+        "name": "Q122676362",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.3254443,
+        "longitude": 69.302782,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122676453",
+        "name": "Q122676453",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.3263109,
+        "longitude": 69.2267045,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122676456",
+        "name": "Q122676456",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.3393761,
+        "longitude": 69.2636013,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122676480",
+        "name": "Q122676480",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.3125697,
+        "longitude": 69.1981589,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122676561",
+        "name": "Q122676561",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.2825721,
+        "longitude": 69.2266617,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122676636",
+        "name": "Q122676636",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.26949,
+        "longitude": 69.2347,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122676640",
+        "name": "Q122676640",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.2946315,
+        "longitude": 69.2489697,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122676666",
+        "name": "Q122676666",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.3038656,
+        "longitude": 69.2877413,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122885001",
+        "name": "Q122885001",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 39.658571,
+        "longitude": 66.980232,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125516651",
+        "name": "Q125516651",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12821132",
+        "name": "Q12821132",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135702534",
+        "name": "Q135702534",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25518475",
+        "name": "Q25518475",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25521970",
+        "name": "Q25521970",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25527395",
+        "name": "Q25527395",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25531268",
+        "name": "Q25531268",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.3150993,
+        "longitude": 69.2950134,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4453002",
+        "name": "Q4453002",
+        "short_name": null,
+        "official_website": "http:\/\/mgjxu.uz\/",
+        "aliases": null,
+        "latitude": 41.3561111,
+        "longitude": 69.1661111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65283674",
+        "name": "Q65283674",
+        "short_name": null,
+        "official_website": "https:\/\/uzjoku.uz",
+        "aliases": null,
+        "latitude": 41.3241229,
+        "longitude": 69.2777616,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66807370",
+        "name": "Q66807370",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q72171746",
+        "name": "Q72171746",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97236526",
+        "name": "Q97236526",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97292760",
+        "name": "Q97292760",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 42.4440035,
+        "longitude": 59.6121357,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20536381",
+        "name": "Qarshi davlat universiteti",
+        "short_name": null,
+        "official_website": "http:\/\/www.qarshidu.uz\/uz",
+        "aliases": [
+            "Karshi State University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134760855",
+        "name": "Renaissance Educational University",
+        "short_name": null,
+        "official_website": "https:\/\/renessans-edu.uz\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25510650",
+        "name": "Romanovskiy Institute of Mathematics",
+        "short_name": null,
+        "official_website": "http:\/\/www.mathinst.uz\/",
+        "aliases": [
+            "Institute of Mathematics named after V.I. Romanovskiy of the Academy of Sciences of Uzbekistan",
+            "V.I. Romanovskiy Institute of Mathematics"
+        ],
+        "latitude": 41.348163,
+        "longitude": 69.207835,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25531425",
+        "name": "Sadykov Institute of Bioorganic Chemistry",
+        "short_name": null,
+        "official_website": "https:\/\/biochem.uz\/",
+        "aliases": [
+            "A.S. Sadykov Institute of Bioorganic Chemistry",
+            "Institute of Bioorganic Chemistry"
+        ],
+        "latitude": 41.342889,
+        "longitude": 69.342888,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q122886777",
+        "name": "Sallakhana (school)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28364225",
+        "name": "Samarkand Higher Military Automobile Command School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25532333",
+        "name": "Samarkand Institute of Archeology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Samarkand Archaeological Institute named after Yahyo Gulamov"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q122885057",
+        "name": "Samarkand Institute of Economics and Service main building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 39.653251,
+        "longitude": 66.959397,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25531159",
+        "name": "Samarkand Institute of Economics and Services",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Samarkand Economy and Service Institute"
+        ],
+        "latitude": 39.6531208,
+        "longitude": 66.9591691,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25514536",
+        "name": "Samarkand Institute of Veterinary Medicine",
+        "short_name": null,
+        "official_website": "http:\/\/samvmi.uz",
+        "aliases": [
+            "Samarkand Agricultural Institute"
+        ],
+        "latitude": 39.659801,
+        "longitude": 66.9323277,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25514525",
+        "name": "Samarkand State Architecture and Construction University",
+        "short_name": null,
+        "official_website": "https:\/\/samdaqu.edu.uz",
+        "aliases": null,
+        "latitude": 39.6320168,
+        "longitude": 66.9405914,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19521631",
+        "name": "Samarkand State Institute of Foreign Languages",
+        "short_name": null,
+        "official_website": "http:\/\/www.samdchti.uz",
+        "aliases": null,
+        "latitude": 39.652,
+        "longitude": 66.9632,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18399739",
+        "name": "Samarkand State Medical University",
+        "short_name": null,
+        "official_website": "https:\/\/sammu.uz",
+        "aliases": [
+            "SSMU"
+        ],
+        "latitude": 39.654,
+        "longitude": 66.959,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4406337",
+        "name": "Samarkand State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.samdu.uz",
+        "aliases": [
+            "Alisher Navoiy nomidagi Samarqand Davlat Universiteti",
+            "Samarkand State University named after Alisher Navoi",
+            "Samarkand University"
+        ],
+        "latitude": 39.6447008,
+        "longitude": 66.9611173,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122885019",
+        "name": "Samarkand State University main building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122887055",
+        "name": "School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122676641",
+        "name": "School 118 building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.2879624,
+        "longitude": 69.2599629,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122886753",
+        "name": "School number 6 building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 39.7759912,
+        "longitude": 64.409866,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136699291",
+        "name": "Scientific Research Institute of Irrigation and Water Problems",
+        "short_name": null,
+        "official_website": "https:\/\/ismiti.uz\/",
+        "aliases": [
+            "Central Asian Scientific and Research Institute of Irrigation",
+            "SANIIRI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q72084150",
+        "name": "Shahrisabz branch of Tashkent Institute of Chemical Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 39.0785388,
+        "longitude": 66.8535075,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130285340",
+        "name": "Shahrisabz State Pedagogical Institute",
+        "short_name": null,
+        "official_website": "https:\/\/shdpi.uz",
+        "aliases": [
+            "Shakhrisabz State Pedagogical Institute",
+            "SSPI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21674834",
+        "name": "State Conservatory of Uzbekistan",
+        "short_name": null,
+        "official_website": "http:\/\/konservatoriya.uz\/?lang=en",
+        "aliases": [
+            "Tashkent Conservatory",
+            "The State Conservatory of Uzbekistan"
+        ],
+        "latitude": 41.3143032,
+        "longitude": 69.2548506,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12826385",
+        "name": "State Institute of Arts and Culture of Uzbekistan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.3512754,
+        "longitude": 69.3422023,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23638994",
+        "name": "Tashkent Automobile and Road Construction Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.3016663,
+        "longitude": 69.2789545,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4452997",
+        "name": "Tashkent branch of Moscow State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.msu.uz\/",
+        "aliases": [
+            "Branch of Moscow State University Named for M.V. Lomonosov in Tashkent",
+            "Moscow State University, Tashkent"
+        ],
+        "latitude": 41.3002778,
+        "longitude": 69.2811111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52223",
+        "name": "Tashkent Higher All-Arms Command School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "TVOKU"
+        ],
+        "latitude": 41.3201,
+        "longitude": 69.3065,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28666102",
+        "name": "Tashkent Higher Tank Command School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.47807,
+        "longitude": 69.57103,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7687220",
+        "name": "Tashkent Institute of Architecture and Civil Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/taqu.uz\/",
+        "aliases": [
+            "Tashkent Architectural Building Institute",
+            "Tashkent Institute of Architecture and Construction"
+        ],
+        "latitude": 41.3202,
+        "longitude": 69.2616,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4452999",
+        "name": "Tashkent Institute of Chemical Technology",
+        "short_name": null,
+        "official_website": "http:\/\/tkti.uz\/",
+        "aliases": [
+            "Institute of Tashkent chemical technological",
+            "Tashkent Chemical and Technological Institute",
+            "Tashkent Chemical Technological Institute",
+            "Tashkent chemical-technological institute",
+            "Tashkent institute chemical technology",
+            "Tashkent institute of chemical technology",
+            "Tashkent Institute of Chemical Technology",
+            "TICT",
+            "TСTI"
+        ],
+        "latitude": 41.3221154,
+        "longitude": 69.2462664,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17372833",
+        "name": "Tashkent Institute of Irrigation and Melioration",
+        "short_name": null,
+        "official_website": "http:\/\/tiiame.uz\/",
+        "aliases": [
+            "TIIAME",
+            "TIIM"
+        ],
+        "latitude": 41.3232,
+        "longitude": 69.296,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25521981",
+        "name": "Tashkent Institute Of Postgraduate Medical Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25522068",
+        "name": "Tashkent institute of textile and light industry",
+        "short_name": null,
+        "official_website": "https:\/\/web.ttyesi.uz\/",
+        "aliases": [
+            "Textile"
+        ],
+        "latitude": 41.284,
+        "longitude": 69.2455,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131293755",
+        "name": "Tashkent International University",
+        "short_name": null,
+        "official_website": "https:\/\/www.tiu.uz\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111694614",
+        "name": "Tashkent International University of Education",
+        "short_name": null,
+        "official_website": "https:\/\/tiue.uz\/",
+        "aliases": [
+            "TIUE"
+        ],
+        "latitude": 41.290192,
+        "longitude": 69.365206,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136565006",
+        "name": "Tashkent International University of Financial Management and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/tift.uz\/",
+        "aliases": [
+            "TIFT Universiteti"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20631438",
+        "name": "Tashkent Islamic Institute",
+        "short_name": null,
+        "official_website": "http:\/\/oliymahad.uz\/",
+        "aliases": null,
+        "latitude": 41.3387466,
+        "longitude": 69.2384196,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4452982",
+        "name": "Tashkent Medical Academy",
+        "short_name": null,
+        "official_website": "https:\/\/tma.uz\/",
+        "aliases": [
+            "Tashkent Medical Institute"
+        ],
+        "latitude": 41.3594325,
+        "longitude": 69.1754985,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130473792",
+        "name": "Tashkent Metropolitan University",
+        "short_name": null,
+        "official_website": "https:\/\/tmuni.org\/",
+        "aliases": [
+            "TMU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25522033",
+        "name": "Tashkent Pedagogical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.tdpu.uz",
+        "aliases": [
+            "Tashkent State Pedagogical University named after Nizami",
+            "TDPU"
+        ],
+        "latitude": 41.273063,
+        "longitude": 69.204927,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4452988",
+        "name": "Tashkent Pediatric Medical Institute",
+        "short_name": null,
+        "official_website": "https:\/\/tashpmi.uz",
+        "aliases": null,
+        "latitude": 41.3540204,
+        "longitude": 69.3318449,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4452998",
+        "name": "Tashkent Pharmaceutical Institute",
+        "short_name": null,
+        "official_website": "https:\/\/pharmi.uz\/",
+        "aliases": null,
+        "latitude": 41.2977778,
+        "longitude": 69.2755556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16705025",
+        "name": "Tashkent State Agrarian University",
+        "short_name": null,
+        "official_website": "http:\/\/tdau.uz",
+        "aliases": [
+            "Tashkent Institute of Agriculture"
+        ],
+        "latitude": 41.3622222,
+        "longitude": 69.3405556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25529331",
+        "name": "Tashkent State Dental Institute",
+        "short_name": null,
+        "official_website": "http:\/\/tsdi.uz\/",
+        "aliases": [
+            "Toshkent Davlat stomatologii͡a instituti"
+        ],
+        "latitude": 41.3091922,
+        "longitude": 69.2989427,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25522012",
+        "name": "Tashkent State Higher School of National Dance and Choreography",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.2997709,
+        "longitude": 69.2616783,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21600575",
+        "name": "Tashkent state institute of Oriental studies",
+        "short_name": null,
+        "official_website": "http:\/\/tashgiv.uz",
+        "aliases": [
+            "Tashkent State Institute of Oriental Studies"
+        ],
+        "latitude": 41.2984187,
+        "longitude": 69.2744811,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3162985",
+        "name": "Tashkent State Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/tdtu.uz\/",
+        "aliases": null,
+        "latitude": 41.3524484,
+        "longitude": 69.2070277,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1822284",
+        "name": "Tashkent State Transport University",
+        "short_name": null,
+        "official_website": "http:\/\/www.tstu.uz\/",
+        "aliases": [
+            "Tashkent Institute of Railway Transport Engineers",
+            "TSTU"
+        ],
+        "latitude": 41.2764,
+        "longitude": 69.2822,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2428356",
+        "name": "Tashkent State University of Economics",
+        "short_name": null,
+        "official_website": "https:\/\/www.tsue.uz",
+        "aliases": [
+            "TSUE"
+        ],
+        "latitude": 41.3061111,
+        "longitude": 69.2544444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7687227",
+        "name": "Tashkent State University of Law",
+        "short_name": null,
+        "official_website": "https:\/\/tsul.uz\/",
+        "aliases": [
+            "Tashkent State Institute of Law"
+        ],
+        "latitude": 41.31106,
+        "longitude": 69.27753,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1348615",
+        "name": "Tashkent University of Information Technologies",
+        "short_name": null,
+        "official_website": "http:\/\/www.tuit.uz\/",
+        "aliases": [
+            "TUIT"
+        ],
+        "latitude": 41.3408333,
+        "longitude": 69.2866667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104869141",
+        "name": "TEAM University Tashkent",
+        "short_name": null,
+        "official_website": "https:\/\/www.teamuni.uz\/",
+        "aliases": null,
+        "latitude": 41.309177,
+        "longitude": 69.344225,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125886260",
+        "name": "Technical College of Public Health named after Siyab Abu Ali Ibn Sina",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q132858669",
+        "name": "Termez State Pedagogical Institute",
+        "short_name": null,
+        "official_website": "https:\/\/terdpi.uz\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74500993",
+        "name": "Termez State University of Engineering and Agricultural Technologies",
+        "short_name": null,
+        "official_website": "http:\/\/tiet.uz\/",
+        "aliases": [
+            "Termez State University of Engineering and Agricultural Technologies"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131560724",
+        "name": "The Law Enforcement Academy of the Republic of Uzbekistan",
+        "short_name": null,
+        "official_website": "https:\/\/proacademy.uz\/",
+        "aliases": [
+            "LEARU",
+            "LEARU, HMQA"
+        ],
+        "latitude": 41.3747506,
+        "longitude": 69.2729172,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15739366",
+        "name": "TPCIT",
+        "short_name": null,
+        "official_website": "http:\/\/www.tpkit.uz",
+        "aliases": [
+            "Tashkent Professional College of Information Technologies",
+            "Toshkent Axborot Texnologiyalari kasb- hunar Kolleji"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25529328",
+        "name": "Turin Polytechnic University",
+        "short_name": null,
+        "official_website": "http:\/\/polito.uz",
+        "aliases": null,
+        "latitude": 41.350719,
+        "longitude": 69.220975,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4071802",
+        "name": "Ulugh Beg Astronomical Institute",
+        "short_name": null,
+        "official_website": "http:\/\/astrin.uz\/",
+        "aliases": [
+            "UBAI"
+        ],
+        "latitude": 41.325739,
+        "longitude": 69.296355,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q126903050",
+        "name": "University of Tashkent for Applied Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/www.utas.uz\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25521053",
+        "name": "University of Termez",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Termez State University"
+        ],
+        "latitude": 37.2342079,
+        "longitude": 67.2860279,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551706",
+        "name": "University of World Economy and Diplomacy",
+        "short_name": null,
+        "official_website": "http:\/\/www.uwed.uz",
+        "aliases": [
+            "UWED"
+        ],
+        "latitude": 41.324,
+        "longitude": 69.321,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q132526910",
+        "name": "University of Geological Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/uzgeouniver.uz\/",
+        "aliases": [
+            "UGS"
+        ],
+        "latitude": 41.34128,
+        "longitude": 69.3413,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25511083",
+        "name": "Urazbaev Institute of Mechanics and Seismic Resistance of Structures",
+        "short_name": null,
+        "official_website": "https:\/\/instmech.academy.uz\/",
+        "aliases": [
+            "Institute of Mechanics and Seismic Resistance of Structures named after M.T. Urazbaev",
+            "Institute of Mechanics and Seismic Resistance of Structures named after M.T. Urazbaev of the Academy of Sciences of the Republic of Uzbekistan"
+        ],
+        "latitude": 41.338252,
+        "longitude": 69.340732,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q15924726",
+        "name": "Urgench State University named after Abu Rayhan Biruni",
+        "short_name": null,
+        "official_website": "http:\/\/www.urdu.uz\/",
+        "aliases": [
+            "Urganch Davlat Universiteti",
+            "Urgench State University"
+        ],
+        "latitude": 41.55725,
+        "longitude": 60.605636,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q127272707",
+        "name": "Uzbek national institute of music and arts",
+        "short_name": null,
+        "official_website": "https:\/\/uzmmsi.uz\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25527783",
+        "name": "Uzbek State University of Physical Culture and Sport",
+        "short_name": null,
+        "official_website": "https:\/\/jtsu.uz\/",
+        "aliases": [
+            "Uzbek State University of Physical Education and Sport",
+            "Uzbekistan State University of Physical Education and Sports"
+        ],
+        "latitude": 41.437419,
+        "longitude": 69.533754,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4469711",
+        "name": "Uzbek State World Language University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uzswlu.uz",
+        "aliases": [
+            "Uzbekistan State World Languages University"
+        ],
+        "latitude": 41.285,
+        "longitude": 69.1930556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116120180",
+        "name": "Webster University in Tashkent",
+        "short_name": null,
+        "official_website": "https:\/\/www.webster.uz\/index.php",
+        "aliases": [
+            "Webster University",
+            "Webster University: Tashkent"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1552065",
+        "name": "Westminster International University in Tashkent",
+        "short_name": "WIUT",
+        "official_website": "http:\/\/www.wiut.uz",
+        "aliases": [
+            "WIUT"
+        ],
+        "latitude": 41.3069444,
+        "longitude": 69.2833333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q96633545",
+        "name": "Yangiyer branch of the Tashkent Institute of Chemical Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.2606111,
+        "longitude": 68.8107778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25527956",
+        "name": "Yunusov Institute of the Chemistry of Plant Substances",
+        "short_name": null,
+        "official_website": "https:\/\/uzicps.uz\/",
+        "aliases": [
+            "Institute of Plant Chemistry",
+            "Institute of the Chemistry of Plant Substances Academy of Sciences of Uzbekistan"
+        ],
+        "latitude": 41.336031,
+        "longitude": 69.335747,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q125446883",
+        "name": "Zarmed University",
+        "short_name": null,
+        "official_website": "https:\/\/zarmeduniver.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65283573",
+        "name": "«Silk Road» International University of Tourism and Cultural Heritage",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-silkroad.uz\/",
+        "aliases": [
+            "\"Silk Road\" International University of Tourism and Cultural Heritage",
+            "Silk Road International University of Tourism and Cultural Heritage",
+            "SIUTCH"
+        ],
+        "latitude": 39.6444083,
+        "longitude": 66.9579953,
+        "type": "university"
+    }
+]

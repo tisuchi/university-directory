@@ -1,0 +1,104 @@
+[
+    {
+        "wikidata_id": "Q25339749",
+        "name": "Caribbean Agricultural Research and Development Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.cardi.org\/",
+        "aliases": null,
+        "latitude": 10.6435833,
+        "longitude": -61.4022778,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q648688",
+        "name": "College of Science, Technology and Applied Arts of Trinidad and Tobago",
+        "short_name": null,
+        "official_website": "http:\/\/www.costaatt.edu.tt\/",
+        "aliases": null,
+        "latitude": 10.66182,
+        "longitude": -61.51409,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q110970263",
+        "name": "Imperial college of Tropical Agriculture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116482094",
+        "name": "Institute of Marine Affairs",
+        "short_name": null,
+        "official_website": "https:\/\/www.ima.gov.tt\/",
+        "aliases": [
+            "IMA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q367398",
+        "name": "University of the Southern Caribbean",
+        "short_name": null,
+        "official_website": "http:\/\/usc.edu.tt\/",
+        "aliases": null,
+        "latitude": 10.6935,
+        "longitude": -61.4076,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q746153",
+        "name": "University of the West Indies",
+        "short_name": "UWI",
+        "official_website": "https:\/\/www.uwi.edu\/",
+        "aliases": [
+            "UCWI",
+            "UWI",
+            "The University of The West Indies",
+            "University College of the West Indies",
+            "University of the West Indies, UWI"
+        ],
+        "latitude": 18.0058,
+        "longitude": -76.7467,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q119850110",
+        "name": "University of the West Indies St. Augustine Campus Department of Economics",
+        "short_name": null,
+        "official_website": "https:\/\/sta.uwi.edu\/fss\/economics\/",
+        "aliases": [
+            "UWI St. Augustine Department of Economics"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q648244",
+        "name": "University of Trinidad and Tobago",
+        "short_name": null,
+        "official_website": "http:\/\/www.u.tt",
+        "aliases": null,
+        "latitude": 10.6167,
+        "longitude": -61.2167,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q119850067",
+        "name": "UWI Department of Geomatics Engineering and Land Management",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Department of Geomatics Engineering and Land Management, University of the West Indies"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

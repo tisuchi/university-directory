@@ -1,0 +1,30 @@
+[
+    {
+        "wikidata_id": "Q130759542",
+        "name": "Monegasque Institute for Training in the Legal Professions",
+        "short_name": null,
+        "official_website": "https:\/\/www.imfpj.mc",
+        "aliases": [
+            "IMFPJ",
+            "MITLP",
+            "Monegasque Institute for Training in Judicial Professions"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30296139",
+        "name": "Scientific Centre of Monaco",
+        "short_name": null,
+        "official_website": "https:\/\/www.centrescientifique.mc\/en",
+        "aliases": [
+            "CSM",
+            "Centre scientifique de Monaco",
+            "Monaco Scientific Centre"
+        ],
+        "latitude": 43.733676,
+        "longitude": 7.427158,
+        "type": "institute"
+    }
+]

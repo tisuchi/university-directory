@@ -1,0 +1,22 @@
+[
+    {
+        "wikidata_id": "Q49108",
+        "name": "Technical University of Munich",
+        "short_name": "TUM",
+        "official_website": "https://www.tum.de",
+        "aliases": ["TU Munich", "TUM"],
+        "latitude": 48.1497,
+        "longitude": 11.5679,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q55044",
+        "name": "Ludwig Maximilian University of Munich",
+        "short_name": "LMU",
+        "official_website": "https://www.lmu.de",
+        "aliases": ["LMU Munich"],
+        "latitude": 48.1508,
+        "longitude": 11.5802,
+        "type": "university"
+    }
+]

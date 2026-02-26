@@ -1,0 +1,575 @@
+[
+    {
+        "wikidata_id": "Q106916019",
+        "name": "42",
+        "short_name": null,
+        "official_website": "https:\/\/42.us.org",
+        "aliases": [
+            "42",
+            "42 school",
+            "School 42"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4699891",
+        "name": "Ajloun National Private University",
+        "short_name": null,
+        "official_website": "http:\/\/www.anpu.edu.jo",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4705048",
+        "name": "Al al-Bayt University",
+        "short_name": null,
+        "official_website": "http:\/\/www.aabu.edu.jo\/",
+        "aliases": [
+            "AABU",
+            "ʾĀl al-Bayt University"
+        ],
+        "latitude": 32.3356,
+        "longitude": 36.2395,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111461073",
+        "name": "Al Jāmi‘ah al Urdunīyah",
+        "short_name": null,
+        "official_website": "https:\/\/www.mindat.org\/feature-11075914.html",
+        "aliases": null,
+        "latitude": 32.01308,
+        "longitude": 35.87434,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q4702162",
+        "name": "Al-Ahliyya Amman University",
+        "short_name": null,
+        "official_website": "http:\/\/www.amman.edu\/",
+        "aliases": [
+            "Amman Private University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4702271",
+        "name": "Al-Balqa Applied University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bau.edu.jo\/",
+        "aliases": null,
+        "latitude": 32.0240693,
+        "longitude": 35.7167628,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4702538",
+        "name": "Al-Hussein Bin Talal University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ahu.edu.jo\/",
+        "aliases": null,
+        "latitude": 30.2663889,
+        "longitude": 35.6811111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12236070",
+        "name": "Al-Quds College",
+        "short_name": null,
+        "official_website": "http:\/\/www.quds.edu.jo\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1853678",
+        "name": "Al-Quds Open University",
+        "short_name": null,
+        "official_website": "http:\/\/www.qou.edu",
+        "aliases": null,
+        "latitude": 31.9130556,
+        "longitude": 35.1994444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4506012",
+        "name": "Al-Zaytoonah University of Jordan",
+        "short_name": null,
+        "official_website": "http:\/\/www.zuj.edu.jo",
+        "aliases": null,
+        "latitude": 31.8326,
+        "longitude": 35.8927,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q467174",
+        "name": "American University of Madaba",
+        "short_name": null,
+        "official_website": "http:\/\/www.aum.edu.jo\/en\/",
+        "aliases": null,
+        "latitude": 31.661199,
+        "longitude": 35.800066,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4747131",
+        "name": "Amman Arab University",
+        "short_name": null,
+        "official_website": "http:\/\/www.aau.edu.jo\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4781580",
+        "name": "Applied Science Private University",
+        "short_name": null,
+        "official_website": "http:\/\/www.asu.edu.jo",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q54870504",
+        "name": "Aqaba University of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3679860",
+        "name": "Arab Open University",
+        "short_name": null,
+        "official_website": "https:\/\/www.arabou.edu.kw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12185346",
+        "name": "Arab Open University - Jordan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Arab Open University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5149695",
+        "name": "Columbia Global Centers",
+        "short_name": null,
+        "official_website": "https:\/\/globalcenters.columbia.edu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q101012708",
+        "name": "German Jordanian University School of Computer Engineering and Information Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012709",
+        "name": "German Jordanian University School of Languages",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1205614",
+        "name": "German Protestant Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.deiahl.de\/",
+        "aliases": [
+            "DEIAHL",
+            "Deutsches Evangelisches Institut für Altertumswissenschaft des Heiligen Landes",
+            "German Protestant Institute of Archaeology"
+        ],
+        "latitude": 31.774835,
+        "longitude": 35.215162,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q322668",
+        "name": "German-Jordanian University",
+        "short_name": "GJU",
+        "official_website": "http:\/\/www.gju.edu.jo\/",
+        "aliases": null,
+        "latitude": 32.0255556,
+        "longitude": 35.8772222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2281564",
+        "name": "Hashemite University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hu.edu.jo\/",
+        "aliases": null,
+        "latitude": 32.1032,
+        "longitude": 36.184,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012778",
+        "name": "Hashemite University Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6047339",
+        "name": "Intermediate University College",
+        "short_name": null,
+        "official_website": "http:\/\/jo.jeeran.com\/p\/the-intermediate-university-college-amman",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6068365",
+        "name": "Irbid National University",
+        "short_name": null,
+        "official_website": "http:\/\/www.inu.edu.jo\/\/",
+        "aliases": null,
+        "latitude": 32.4833333,
+        "longitude": 36,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4702561",
+        "name": "Isra University",
+        "short_name": null,
+        "official_website": "https:\/\/www.iu.edu.jo",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6121200",
+        "name": "Jadara University",
+        "short_name": null,
+        "official_website": "http:\/\/www.jadara.edu.jo",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551597",
+        "name": "Jerash University",
+        "short_name": null,
+        "official_website": "http:\/\/www.jpu.edu.jo\/",
+        "aliases": [
+            "Jerash Private University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16851556",
+        "name": "Jordan Academy for Maritime Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.jams.edu.jo\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12183551",
+        "name": "Jordan Academy of Music",
+        "short_name": null,
+        "official_website": "http:\/\/www.jam.edu.jo\/",
+        "aliases": null,
+        "latitude": 31.970831,
+        "longitude": 35.894899,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12244297",
+        "name": "Jordan Media Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.jmi.edu.jo",
+        "aliases": null,
+        "latitude": 32.013889,
+        "longitude": 35.872778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2919325",
+        "name": "Jordan University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.just.edu.jo",
+        "aliases": [
+            "JUST"
+        ],
+        "latitude": 32.4789,
+        "longitude": 35.985,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012736",
+        "name": "Jordan University of Science and Technology Department of Public Health Community Medicine and Family Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6841366",
+        "name": "Middle East University",
+        "short_name": null,
+        "official_website": "http:\/\/www.meu.edu.jo",
+        "aliases": null,
+        "latitude": 31.809299,
+        "longitude": 35.9195,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6943648",
+        "name": "Mutah University",
+        "short_name": null,
+        "official_website": "http:\/\/www.mutah.edu.jo\/",
+        "aliases": null,
+        "latitude": 31.093552,
+        "longitude": 35.717285,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012753",
+        "name": "Mutah University Department of Public Administration",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109259669",
+        "name": "National University College of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551661",
+        "name": "Petra University",
+        "short_name": null,
+        "official_website": "https:\/\/www.uop.edu.jo\/En\/Pages\/default.aspx",
+        "aliases": [
+            "University of Petra"
+        ],
+        "latitude": 31.893409,
+        "longitude": 35.87304,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7182844",
+        "name": "Philadelphia University",
+        "short_name": null,
+        "official_website": "http:\/\/www.philadelphia.edu.jo",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551722",
+        "name": "Princess Sumaya University for Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.psut.edu.jo",
+        "aliases": [
+            "PSUT"
+        ],
+        "latitude": 32.0230556,
+        "longitude": 35.8763889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109298550",
+        "name": "Q109298550",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q54874878",
+        "name": "Q54874878",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7270490",
+        "name": "Queen Rania Center for Entrepreneurship",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.023056,
+        "longitude": 35.876389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7305002",
+        "name": "Red Sea Institute of Cinematic Arts",
+        "short_name": null,
+        "official_website": "http:\/\/www.rsica.edu.jo",
+        "aliases": null,
+        "latitude": 29.5166667,
+        "longitude": 35,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4120508",
+        "name": "Tafila Technical University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ttu.edu.jo\/",
+        "aliases": [
+            "TTU",
+            "tafila technical university",
+            "tafila university",
+            "tafila_technical_university",
+            "Tafila_Technical_University",
+            "ttu"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7678826",
+        "name": "Talal Abu-Ghazaleh Graduate School of Business",
+        "short_name": null,
+        "official_website": "http:\/\/www.tagcb.edu.jo\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q610253",
+        "name": "University of Jordan",
+        "short_name": null,
+        "official_website": "https:\/\/www.ju.edu.jo\/",
+        "aliases": null,
+        "latitude": 32.013889,
+        "longitude": 35.872778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012717",
+        "name": "University of Jordan Department of Biology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012718",
+        "name": "University of Jordan Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012719",
+        "name": "University of Jordan Department of Geology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q54874823",
+        "name": "University of Jordan, Aqaba",
+        "short_name": null,
+        "official_website": "https:\/\/aqaba.ju.edu.jo\/ar\/arabic\/Home.aspx",
+        "aliases": null,
+        "latitude": 29.584395,
+        "longitude": 35.022798,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8035873",
+        "name": "World Islamic Sciences and Education University",
+        "short_name": null,
+        "official_website": "http:\/\/www.wise.edu.jo",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q240784",
+        "name": "Yarmouk University",
+        "short_name": null,
+        "official_website": "https:\/\/www.yu.edu.jo\/",
+        "aliases": [
+            "YU",
+            "Yarmuk University"
+        ],
+        "latitude": 32.537251,
+        "longitude": 35.855491,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8066876",
+        "name": "Zarqa University",
+        "short_name": null,
+        "official_website": "http:\/\/zu.edu.jo\/EN\/",
+        "aliases": null,
+        "latitude": 32.059026,
+        "longitude": 36.155899,
+        "type": "university"
+    }
+]

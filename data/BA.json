@@ -1,0 +1,496 @@
+[
+    {
+        "wikidata_id": "Q4671522",
+        "name": "Academy of Performing Arts in Sarajevo",
+        "short_name": null,
+        "official_website": "https:\/\/www.asu.unsa.ba\/",
+        "aliases": null,
+        "latitude": 43.8570823,
+        "longitude": 18.4202438,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16960490",
+        "name": "Agromediterranean Faculty, University Džemal Bijedić of Mostar",
+        "short_name": null,
+        "official_website": "http:\/\/www.af.unmo.ba",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4745313",
+        "name": "American University in Bosnia and Herzegovina",
+        "short_name": null,
+        "official_website": "http:\/\/www.aubih.edu.ba",
+        "aliases": null,
+        "latitude": 44.533634,
+        "longitude": 18.65491,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74551168",
+        "name": "Apeiron",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74556058",
+        "name": "Association of Basic Medical Sciences of FBIH",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q13081337",
+        "name": "Banja Luka College",
+        "short_name": null,
+        "official_website": "https:\/\/www.blc.edu.ba\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4947381",
+        "name": "Bosniak Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.bosnjackiinstitut.ba\/",
+        "aliases": [
+            "Bosniak Institute - Foundation Adil Zulfikarpašić"
+        ],
+        "latitude": 43.8599349,
+        "longitude": 18.4252605,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q67035935",
+        "name": "Department of Media and Communication",
+        "short_name": null,
+        "official_website": "https:\/\/blc.edu.ba",
+        "aliases": [
+            "journalism"
+        ],
+        "latitude": 44.7619444,
+        "longitude": 17.1886111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6471118",
+        "name": "Džemal Bijedić University of Mostar",
+        "short_name": null,
+        "official_website": "http:\/\/www.unmo.ba",
+        "aliases": [
+            "UNMO"
+        ],
+        "latitude": 43.355,
+        "longitude": 17.81,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17005563",
+        "name": "Faculty of Business Management, University Džemal Bijedić of Mostar",
+        "short_name": null,
+        "official_website": "http:\/\/www.fpm.ba\/bos\/stream.php?kat=17",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16837884",
+        "name": "Faculty of Human Sciences\/Humanities, University Džemal Bijedić of Mostar",
+        "short_name": null,
+        "official_website": "http:\/\/www.fhn.unmo.ba\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16246416",
+        "name": "Faculty of Information Technology, University Džemal Bijedić of Mostar",
+        "short_name": null,
+        "official_website": "http:\/\/www.fit.ba",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116312167",
+        "name": "Faculty of Philosophy, University of East Sarajevo",
+        "short_name": null,
+        "official_website": "http:\/\/www.ffuis.edu.ba\/",
+        "aliases": null,
+        "latitude": 43.8564831,
+        "longitude": 18.5694785,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12631009",
+        "name": "Faculty of Philosophy, University of Mostar",
+        "short_name": null,
+        "official_website": "http:\/\/ff.sve-mo.ba\/",
+        "aliases": null,
+        "latitude": 43.3438889,
+        "longitude": 17.7972222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q67040983",
+        "name": "Faculty of Political Science",
+        "short_name": null,
+        "official_website": "https:\/\/fpn.unibl.org",
+        "aliases": null,
+        "latitude": 44.7755556,
+        "longitude": 17.2086111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5364390",
+        "name": "Faculty of Political Science in Sarajevo",
+        "short_name": null,
+        "official_website": "http:\/\/fpn.unsa.ba\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1566083",
+        "name": "Gazi Husrev-begova medresa",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 43.8595,
+        "longitude": 18.4289,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3956387",
+        "name": "Gimnazija Mostar",
+        "short_name": null,
+        "official_website": "http:\/\/www.gimnazijamostar.ba\/",
+        "aliases": [
+            "Gymnasium building in Mostar"
+        ],
+        "latitude": 43.3429722,
+        "longitude": 17.8072833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17998075",
+        "name": "Institute for Genetic Engineering and Biotechnology Sarajevo",
+        "short_name": null,
+        "official_website": "http:\/\/www.ingeb.unsa.ba\/",
+        "aliases": null,
+        "latitude": 43.856029,
+        "longitude": 18.397563,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6048890",
+        "name": "International Burch University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ibu.edu.ba\/",
+        "aliases": null,
+        "latitude": 43.8186357,
+        "longitude": 18.31207,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3443302",
+        "name": "International University of Sarajevo",
+        "short_name": null,
+        "official_website": "http:\/\/www.ius.edu.ba\/",
+        "aliases": null,
+        "latitude": 43.8216706,
+        "longitude": 18.3090592,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74544985",
+        "name": "Oikos Institut d.o.o.",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q122057074",
+        "name": "Osnovna škola \"Vladislav Skarić\"",
+        "short_name": null,
+        "official_website": "https:\/\/osvs.edu.ba\/",
+        "aliases": null,
+        "latitude": 43.853588,
+        "longitude": 18.410355,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16088899",
+        "name": "PSRI Institute for Protection and Ecology of the Republic of Srpska, Banja",
+        "short_name": null,
+        "official_website": "https:\/\/www.institutzei.net\/",
+        "aliases": [
+            "IPERS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q13090040",
+        "name": "Q13090040",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 43.988342,
+        "longitude": 18.176849,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135275795",
+        "name": "Q135275795",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 44.5341741,
+        "longitude": 18.646342,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17997078",
+        "name": "Q17997078",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7422982",
+        "name": "Sarajevo Graduate School of Business",
+        "short_name": null,
+        "official_website": "http:\/\/www.sgsb.ba\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6471353",
+        "name": "Sarajevo Music Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.mas.unsa.ba\/",
+        "aliases": null,
+        "latitude": 43.86018,
+        "longitude": 18.42485,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7422990",
+        "name": "Sarajevo School of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/ssst.edu.ba\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7541224",
+        "name": "Slobomir University",
+        "short_name": null,
+        "official_website": "http:\/\/www.spu.ba\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17097870",
+        "name": "Teachers Faculty, University Džemal Bijedić of Mostar",
+        "short_name": null,
+        "official_website": "http:\/\/www.nf.unmo.ba",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20434644",
+        "name": "The Andric Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 43.786327,
+        "longitude": 19.293608,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1587312",
+        "name": "University of Banja Luka",
+        "short_name": null,
+        "official_website": "https:\/\/unibl.org\/",
+        "aliases": null,
+        "latitude": 44.77495,
+        "longitude": 17.211714,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74538020",
+        "name": "University of Banja Luka, Faculty of Electrical Egineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2495989",
+        "name": "University of Bihać",
+        "short_name": null,
+        "official_website": "http:\/\/www.unbi.ba\/",
+        "aliases": null,
+        "latitude": 44.813753,
+        "longitude": 15.869221,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895118",
+        "name": "University of Bijeljina",
+        "short_name": null,
+        "official_website": "http:\/\/www.ubn.rs.ba\/",
+        "aliases": null,
+        "latitude": 44.7755556,
+        "longitude": 19.2244444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q87401635",
+        "name": "University of Business Engineering and Management",
+        "short_name": null,
+        "official_website": "http:\/\/univerzitetpim.com\/",
+        "aliases": [
+            "University of Business Engineering and Management",
+            "University PIM",
+            "Univerzitet PIM",
+            "Univerzitet za poslovni inženjering i menadžment",
+            "Univerzitet za poslovni inženjering i menadžment Banja Luka"
+        ],
+        "latitude": 44.809294,
+        "longitude": 17.201129,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6470528",
+        "name": "University of East Sarajevo",
+        "short_name": null,
+        "official_website": "http:\/\/www.ues.rs.ba",
+        "aliases": null,
+        "latitude": 43.82365,
+        "longitude": 18.37468,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17077730",
+        "name": "University of Herzegovina",
+        "short_name": null,
+        "official_website": "http:\/\/hercegovina.edu.ba\/",
+        "aliases": null,
+        "latitude": 43.3406389,
+        "longitude": 17.8074167,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2303102",
+        "name": "University of Mostar",
+        "short_name": null,
+        "official_website": "https:\/\/www.sum.ba\/",
+        "aliases": [
+            "Sveučilište u Mostaru"
+        ],
+        "latitude": 43.3423056,
+        "longitude": 17.8024444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q572286",
+        "name": "University of Sarajevo",
+        "short_name": null,
+        "official_website": "https:\/\/www.unsa.ba\/",
+        "aliases": [
+            "Univerzitet u Sarajevu\/Универзитет у Сарајеву"
+        ],
+        "latitude": 43.8667,
+        "longitude": 18.4167,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74535841",
+        "name": "University of Sarajevo, Faculty of Health Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12760368",
+        "name": "University of Travnik",
+        "short_name": null,
+        "official_website": "http:\/\/www.unt.ba",
+        "aliases": null,
+        "latitude": 44.2266667,
+        "longitude": 17.65,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1578569",
+        "name": "University of Tuzla",
+        "short_name": null,
+        "official_website": "http:\/\/www.untz.ba\/",
+        "aliases": [
+            "Univerzitet u Tuzli"
+        ],
+        "latitude": 44.5394444,
+        "longitude": 18.6625,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2496184",
+        "name": "University of Zenica",
+        "short_name": null,
+        "official_website": "https:\/\/unze.ba\/",
+        "aliases": [
+            "UNZE"
+        ],
+        "latitude": 44.1991667,
+        "longitude": 17.9019444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894931",
+        "name": "University Sinergija",
+        "short_name": null,
+        "official_website": "http:\/\/www.sinergija.edu.ba\/",
+        "aliases": null,
+        "latitude": 44.7686111,
+        "longitude": 19.2058333,
+        "type": "university"
+    }
+]

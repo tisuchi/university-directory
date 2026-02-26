@@ -1,0 +1,193 @@
+[
+    {
+        "wikidata_id": "Q4695192",
+        "name": "Ahlia University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ahlia.edu.bh\/",
+        "aliases": null,
+        "latitude": 26.2359,
+        "longitude": 50.593,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4652536",
+        "name": "AMA International University",
+        "short_name": null,
+        "official_website": "http:\/\/www.amaiu.edu.bh\/",
+        "aliases": null,
+        "latitude": 26.1859,
+        "longitude": 50.518,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000458",
+        "name": "AMA International University Bahrain Center for General Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q85741244",
+        "name": "American University of Bahrain",
+        "short_name": null,
+        "official_website": "https:\/\/aubh.edu.bh\/",
+        "aliases": [
+            "AUBH"
+        ],
+        "latitude": 26.102122,
+        "longitude": 50.54722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4781578",
+        "name": "Applied Science University",
+        "short_name": null,
+        "official_website": "http:\/\/www.asu.edu.bh",
+        "aliases": null,
+        "latitude": 26.143282,
+        "longitude": 50.614942,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3679860",
+        "name": "Arab Open University",
+        "short_name": null,
+        "official_website": "https:\/\/www.arabou.edu.kw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4118306",
+        "name": "Arabian Gulf University",
+        "short_name": "AGU",
+        "official_website": "https:\/\/www.agu.edu.bh",
+        "aliases": [
+            "AGU"
+        ],
+        "latitude": 26.2157944,
+        "longitude": 50.5713714,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000443",
+        "name": "Arabian Gulf University Princess Al-Jawhara Center for Molecular Medicine and Inherited Disoders",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4842757",
+        "name": "Bahrain Polytechnic",
+        "short_name": null,
+        "official_website": "http:\/\/www.polytechnic.bh\/",
+        "aliases": null,
+        "latitude": 26.165,
+        "longitude": 50.5455556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5146725",
+        "name": "College of Health Sciences, Bahrain",
+        "short_name": null,
+        "official_website": "http:\/\/www.uob.edu.bh\/en\/index.php\/colleges\/college-of-health-sciences",
+        "aliases": null,
+        "latitude": 26.2169444,
+        "longitude": 50.5736111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5254290",
+        "name": "Delmon University for Science & Technology",
+        "short_name": null,
+        "official_website": "http:\/\/delmon.edu.bh\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1707020",
+        "name": "Gulf University",
+        "short_name": null,
+        "official_website": "http:\/\/www.gulfuniversity.edu.bh\/",
+        "aliases": null,
+        "latitude": 26.1516,
+        "longitude": 50.5751,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000473",
+        "name": "Gulf University English Language Development Center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16893462",
+        "name": "Kingdom University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 26.136,
+        "longitude": 50.5834,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204409",
+        "name": "RCSI-Bahrain",
+        "short_name": null,
+        "official_website": "http:\/\/www.rcsi-mub.com\/",
+        "aliases": [
+            "RCSI-MUB",
+            "Royal College of Surgeons in Ireland - Medical University of Bahrain"
+        ],
+        "latitude": 26.261787,
+        "longitude": 50.596961,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7374950",
+        "name": "Royal University for Women",
+        "short_name": null,
+        "official_website": "http:\/\/www.ruw.edu.bh\/",
+        "aliases": null,
+        "latitude": 26.1019,
+        "longitude": 50.5512,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894645",
+        "name": "University College of Bahrain",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucb.edu.bh\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1707779",
+        "name": "University of Bahrain",
+        "short_name": "UOB",
+        "official_website": "https:\/\/www.uob.edu.bh\/?lang=ar",
+        "aliases": [
+            "UoB",
+            "Bahrain University",
+            "Ǧāmaʿat al-Baḥrayn"
+        ],
+        "latitude": 26.0522,
+        "longitude": 50.5084,
+        "type": "university"
+    }
+]

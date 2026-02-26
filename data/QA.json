@@ -1,0 +1,205 @@
+[
+    {
+        "wikidata_id": "Q4702248",
+        "name": "Al-Azhar University – Doha",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q890704",
+        "name": "Carnegie Mellon University, Qatar",
+        "short_name": null,
+        "official_website": "http:\/\/www.qatar.cmu.edu",
+        "aliases": [
+            "Carnegie Mellon University in Qatar"
+        ],
+        "latitude": 25.316389,
+        "longitude": 51.438889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23418976",
+        "name": "Doha Institute for Graduate Studies",
+        "short_name": null,
+        "official_website": "https:\/\/www.dohainstitute.edu.qa",
+        "aliases": null,
+        "latitude": 25.3866111,
+        "longitude": 51.4835833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5547063",
+        "name": "Georgetown University in Qatar",
+        "short_name": null,
+        "official_website": "https:\/\/www.qatar.georgetown.edu\/",
+        "aliases": [
+            "Georgetown University School of Foreign Service in Qatar",
+            "GU-Q",
+            "SFS-Q"
+        ],
+        "latitude": 25.3155556,
+        "longitude": 51.4347222,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q24911975",
+        "name": "Hamad Bin Khalifa University",
+        "short_name": null,
+        "official_website": "http:\/\/hbku.edu.qa\/",
+        "aliases": null,
+        "latitude": 25.31413,
+        "longitude": 51.43234,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108293481",
+        "name": "Lusail University",
+        "short_name": null,
+        "official_website": "https:\/\/lu.edu.qa",
+        "aliases": null,
+        "latitude": 25.4023056,
+        "longitude": 51.5128333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q890759",
+        "name": "Northwestern University in Qatar",
+        "short_name": null,
+        "official_website": "https:\/\/www.qatar.northwestern.edu\/ar\/",
+        "aliases": [
+            "NU-Q"
+        ],
+        "latitude": 25.318341,
+        "longitude": 51.445628,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6840397",
+        "name": "Q6840397",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7267097",
+        "name": "Qatar Computing Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.qcri.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30296030",
+        "name": "Qatar Environment and Energy Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.qeeri.org.qa\/",
+        "aliases": [
+            "QEERI"
+        ],
+        "latitude": 25.311437,
+        "longitude": 51.432806,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7267102",
+        "name": "Qatar Finance and Business Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.qfba.edu.qa",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1574578",
+        "name": "Qatar University",
+        "short_name": null,
+        "official_website": "http:\/\/www.qu.edu.qa",
+        "aliases": [
+            "University of Qatar"
+        ],
+        "latitude": 25.3746,
+        "longitude": 51.4902,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000552",
+        "name": "Qatar University Department of Biological and Environmental Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000554",
+        "name": "Qatar University Department of Chemistry and Earth Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12242241",
+        "name": "Sidra Medical and Research Center",
+        "short_name": null,
+        "official_website": "http:\/\/www.sidra.org\/",
+        "aliases": [
+            "Sidra Medical & Research Center"
+        ],
+        "latitude": 25.3227778,
+        "longitude": 51.4448889,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1144951",
+        "name": "Texas A&M University at Qatar",
+        "short_name": null,
+        "official_website": "http:\/\/www.qatar.tamu.edu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30296037",
+        "name": "University of Doha for Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.cna-qatar.com\/Pages\/default.aspx",
+        "aliases": [
+            "College of the North Atlantic Qatar",
+            "UDST"
+        ],
+        "latitude": 25.360727,
+        "longitude": 51.481317,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q24896812",
+        "name": "Virginia Commonwealth University - Qatar",
+        "short_name": null,
+        "official_website": "http:\/\/www.qatar.vcu.edu\/",
+        "aliases": [
+            "VCUarts Qatar",
+            "VCUQ",
+            "VCUQatar",
+            "Virginia Commonwealth University in Qatar",
+            "Virginia Commonwealth University School of the Arts in Qatar"
+        ],
+        "latitude": 25.314793,
+        "longitude": 51.432974,
+        "type": "university"
+    }
+]

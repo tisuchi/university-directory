@@ -1,0 +1,88 @@
+[
+    {
+        "wikidata_id": "Q5142877",
+        "name": "Colegio Ponceño",
+        "short_name": null,
+        "official_website": "http:\/\/www.copin.net",
+        "aliases": null,
+        "latitude": 18.0434028,
+        "longitude": -66.5751944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130553423",
+        "name": "Dewey University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q133823569",
+        "name": "Q133823569",
+        "short_name": null,
+        "official_website": "https:\/\/cea.uprrp.edu\/quienes-somos\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74553322",
+        "name": "SUAGM",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74553228",
+        "name": "Universidad de Puerto Rico, Centro de Investigaciones Comerciales e Iniciativas Académicas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547109",
+        "name": "Universidad de Puerto Rico, Recinto Río Piedras. Departamento de Consejería para el Desarrollo Estudiantil",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q117405688",
+        "name": "Universidad Internacional Iberoamericana",
+        "short_name": null,
+        "official_website": "https:\/\/www.unib.org",
+        "aliases": [
+            "UNIB"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896167",
+        "name": "University of Puerto Rico, Río Piedras Campus",
+        "short_name": null,
+        "official_website": "http:\/\/www.uprrp.edu",
+        "aliases": [
+            "University of Puerto Rico at Río Piedras",
+            "UPR Río Piedras",
+            "UPRRP"
+        ],
+        "latitude": 18.4027778,
+        "longitude": -66.05,
+        "type": "university"
+    }
+]

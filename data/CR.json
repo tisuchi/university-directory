@@ -1,0 +1,580 @@
+[
+    {
+        "wikidata_id": "Q5060319",
+        "name": "Central American Adventist University",
+        "short_name": null,
+        "official_website": "http:\/\/www.unadeca.net",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74558154",
+        "name": "Centro de Investigación en Identidad y Cultura Latinoamericanas (CIICLA)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q99517810",
+        "name": "Conservatorio de Castella",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 9.966241,
+        "longitude": -84.137582,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5174858",
+        "name": "Costa Rica Institute of Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.tec.ac.cr\/",
+        "aliases": [
+            "TEC",
+            "Tec",
+            "Instituto Tecnológico de Costa Rica",
+            "ITCR",
+            "tec.ac.cr",
+            "Technological Institute of Costa Rica"
+        ],
+        "latitude": 9.8545474,
+        "longitude": -83.9090366,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156446",
+        "name": "Distance State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uned.ac.cr\/",
+        "aliases": [
+            "UNED",
+            "uned.ac.cr",
+            "Universidad Estatal a Distancia, San José",
+            "Universidad Estatal a Distancia, San Jose, Costa Rica"
+        ],
+        "latitude": 9.9407,
+        "longitude": -84.0479,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5322516",
+        "name": "EARTH University",
+        "short_name": null,
+        "official_website": "https:\/\/www.earth.ac.cr",
+        "aliases": [
+            "Escuela de Agricultura de la Región Tropical Húmeda"
+        ],
+        "latitude": 10.2199278,
+        "longitude": -83.5917833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20014874",
+        "name": "Escuela de Bibliotecología y Ciencias de la Información de la Universidad de Costa Rica",
+        "short_name": null,
+        "official_website": "http:\/\/ebci.ucr.ac.cr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74543343",
+        "name": "Escuela de Estudios Generales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5446836",
+        "name": "Fidélitas University",
+        "short_name": null,
+        "official_website": "http:\/\/ufidelitas.ac.cr\/",
+        "aliases": [
+            "Fidelitas University"
+        ],
+        "latitude": 9.9333889,
+        "longitude": -84.0350278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74557725",
+        "name": "Instituto de Investigaciones en Ciencias Económicas",
+        "short_name": null,
+        "official_website": "https:\/\/iice.ucr.ac.cr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156489",
+        "name": "International University of Humanities and Social Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q31917701",
+        "name": "La Leona Eco Lodge",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 8.4503,
+        "longitude": -83.49101,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6465335",
+        "name": "La Suerte Biological Field School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 10.4486409,
+        "longitude": -83.7822814,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q255898",
+        "name": "Latin American School for Social Sciences",
+        "short_name": "FLACSO",
+        "official_website": "http:\/\/flacso.org\/",
+        "aliases": [
+            "Facultad Latinoamericana de Ciencias Sociales",
+            "FLACSO",
+            "Latin American Faculty of Social Sciences",
+            "flacso.org"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156516",
+        "name": "Latin American University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.ulacit.ac.cr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6496487",
+        "name": "Latin University of Costa Rica",
+        "short_name": null,
+        "official_website": "https:\/\/www.ulatina.ac.cr",
+        "aliases": null,
+        "latitude": 9.9326,
+        "longitude": -84.0433639,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2001178",
+        "name": "National Biodiversity Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.inbio.ac.cr\/",
+        "aliases": [
+            "INBio",
+            "Instituto Nacional de Biodiversidad"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q111487447",
+        "name": "National High Technology Center",
+        "short_name": null,
+        "official_website": "https:\/\/www.cenat.ac.cr\/es\/",
+        "aliases": [
+            "CeNAT",
+            "Centro Nacional de Alta Tecnología"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q31867",
+        "name": "National University of Costa Rica",
+        "short_name": null,
+        "official_website": "https:\/\/www.una.ac.cr",
+        "aliases": [
+            "Universidad Nacional",
+            "UNA CR",
+            "una.ac.cr",
+            "Universidad Nacional de Costa Rica",
+            "Universidad Nacional, Costa Rica"
+        ],
+        "latitude": 9.999,
+        "longitude": -84.1115,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q31928852",
+        "name": "Puma Rescue Center",
+        "short_name": null,
+        "official_website": "https:\/\/www.uned.ac.cr\/",
+        "aliases": null,
+        "latitude": 10.45135,
+        "longitude": -85.1254,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q56811017",
+        "name": "Q56811017",
+        "short_name": null,
+        "official_website": "https:\/\/www.upanamericana.ac.cr",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5682829",
+        "name": "Q5682829",
+        "short_name": null,
+        "official_website": "http:\/\/www.veritas.cr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156441",
+        "name": "Q6156441",
+        "short_name": null,
+        "official_website": "http:\/\/www.uescuelalibre.cr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28517224",
+        "name": "San Marcos University",
+        "short_name": null,
+        "official_website": "http:\/\/www.usanmarcos.ac.cr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17183894",
+        "name": "Tropical Agricultural Research and Higher Education Center",
+        "short_name": null,
+        "official_website": "https:\/\/www.catie.ac.cr",
+        "aliases": [
+            "CATIE",
+            "Tropical Agronomic Center for Research and Teaching"
+        ],
+        "latitude": 9.8931194,
+        "longitude": -83.6543528,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156349",
+        "name": "Universidad Autónoma de Centro América",
+        "short_name": null,
+        "official_website": "http:\/\/www.uaca.ac.cr",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29049248",
+        "name": "Universidad Bíblica Latinoamericana",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5407181",
+        "name": "Universidad Católica de Costa Rica",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucatolica.ac.cr",
+        "aliases": [
+            "Universidad Catolica de Costa Rica"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894258",
+        "name": "Universidad Cristiana del Sur",
+        "short_name": null,
+        "official_website": "http:\/\/www.educacion.ac.cr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894323",
+        "name": "Universidad de Ciencias Medicas",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucimed.com",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23746441",
+        "name": "Universidad de Costa Rica",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 10.08631,
+        "longitude": -84.47971,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74555988",
+        "name": "Universidad de Costa Rica, Escuela de Enfermería",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552173",
+        "name": "Universidad de Costa Rica, Escuela de Historia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74537103",
+        "name": "Universidad de Costa Rica, Facultad de Ciencias Sociales, Escuela de Antropología",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74537973",
+        "name": "Universidad de Costa Rica, Facultad de Ciencias Sociales, Instituto de Investigaciones Psicológicas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74537146",
+        "name": "Universidad de Costa Rica, Facultad de Educación",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74550848",
+        "name": "Universidad de Costa Rica, Instituto de Investigaciones Sociales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547173",
+        "name": "Universidad de Costa Rica, Programa Cooperativo Centroamericano para el Mejoramiento Cultivos y Animales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156821",
+        "name": "Universidad de Santo Tomás (Costa Rica)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894260",
+        "name": "Universidad Empresarial de Costa Rica",
+        "short_name": null,
+        "official_website": "http:\/\/www.unem.edu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894269",
+        "name": "Universidad Hispanoamericana",
+        "short_name": null,
+        "official_website": "https:\/\/uh.ac.cr\/",
+        "aliases": [
+            "UH"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156477",
+        "name": "Universidad Interamericana de Costa Rica",
+        "short_name": null,
+        "official_website": "http:\/\/www.uinteramericana.edu",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16644482",
+        "name": "Universidad Metropolitana Castro Carazo",
+        "short_name": null,
+        "official_website": "http:\/\/www.castrocarazo.ac.cr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74546042",
+        "name": "Universidad Nacional Autónoma de Costa Rica, Escuela de Bibliotecología, Documentación e Información",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530704",
+        "name": "Universidad Nacional de Costa Rica, Escuela de Filosofía",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74537540",
+        "name": "Universidad Nacional, Escuela de Medicina Veterinaria",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74546081",
+        "name": "Universidad Nacional, Instituto de Estudios Latinoamericanos",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7894289",
+        "name": "Universidad Nacional, School for International Relations",
+        "short_name": null,
+        "official_website": "http:\/\/www.una.ac.cr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894313",
+        "name": "Universidad San Juan de la Cruz",
+        "short_name": null,
+        "official_website": "http:\/\/www.universidadsanjuan.ac.cr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q392774",
+        "name": "University for Peace",
+        "short_name": "UPEACE",
+        "official_website": "https:\/\/upeace.org",
+        "aliases": [
+            "UPEACE"
+        ],
+        "latitude": 9.9194444,
+        "longitude": -84.2727778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1305486",
+        "name": "University of Costa Rica",
+        "short_name": null,
+        "official_website": "https:\/\/www.ucr.ac.cr\/",
+        "aliases": [
+            "UCR",
+            "ucr.ac.cr",
+            "Universidad de Costa Rica"
+        ],
+        "latitude": 9.9358333,
+        "longitude": -84.0505556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74550828",
+        "name": "University of Costa Rica, Research Center on Pure and Applied Mathematics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "CIMPA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74541674",
+        "name": "Univesidad de Costa Rica, Laboratorio Nacional de Materiales y Modelos Estructurales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    }
+]

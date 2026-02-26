@@ -1,0 +1,504 @@
+[
+    {
+        "wikidata_id": "Q24937816",
+        "name": "Adventist University of Central Africa",
+        "short_name": null,
+        "official_website": "http:\/\/www.auca.ac.rw\/",
+        "aliases": [
+            "AUCA"
+        ],
+        "latitude": -1.9451934,
+        "longitude": 30.1405192,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123038287",
+        "name": "African Centre of Excellence in Data Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -1.962,
+        "longitude": 30.0748,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124606217",
+        "name": "African Leadership University Rwanda",
+        "short_name": null,
+        "official_website": "https:\/\/www.alueducation.com\/",
+        "aliases": null,
+        "latitude": -1.9313,
+        "longitude": 30.1527,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131286425",
+        "name": "African School of Governance",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131315288",
+        "name": "Byumba School of Nursing And Midwifery",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "BSNM"
+        ],
+        "latitude": -1.5892736,
+        "longitude": 30.0533589,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131303286",
+        "name": "Catholic Institute of Kabgayi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ICK"
+        ],
+        "latitude": -2.0814375,
+        "longitude": 29.7498626,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100942484",
+        "name": "Catholic University of Rwanda",
+        "short_name": null,
+        "official_website": "https:\/\/www.cur.ac.rw\/",
+        "aliases": null,
+        "latitude": -2.6243725,
+        "longitude": 29.7497953,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131309394",
+        "name": "College of Agriculture and Veterinary Medicine",
+        "short_name": null,
+        "official_website": "https:\/\/cavm.ur.ac.rw\/",
+        "aliases": [
+            "CAVM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q131309398",
+        "name": "College of Business and Economics",
+        "short_name": null,
+        "official_website": "https:\/\/ur.ac.rw\/spip.php?page=Our-history",
+        "aliases": [
+            "CBE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q131315310",
+        "name": "Community Integrated Polytechnic",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "CIP"
+        ],
+        "latitude": -1.9022907,
+        "longitude": 30.5066531,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q47520129",
+        "name": "East African Institute for Fundamental Research",
+        "short_name": null,
+        "official_website": "https:\/\/eaifr.ictp.it\/",
+        "aliases": [
+            "EAIFR"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q105095653",
+        "name": "Institute of Applied Sciences Ruhengeri",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "INES Ruhengeri"
+        ],
+        "latitude": -1.5010983,
+        "longitude": 29.6087225,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131315433",
+        "name": "Integrated Polytechnic Regional College Ngoma",
+        "short_name": null,
+        "official_website": "https:\/\/www.iprcngoma.rp.ac.rw\/",
+        "aliases": [
+            "IPRC-Ngoma"
+        ],
+        "latitude": -2.1485233,
+        "longitude": 30.5432853,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131315348",
+        "name": "Integrated Polytechnic Regional College Tumba",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IPRC-Tumba"
+        ],
+        "latitude": -1.6950371,
+        "longitude": 29.9204059,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q117794943",
+        "name": "IPRC Musanze",
+        "short_name": null,
+        "official_website": "https:\/\/www.iprcmusanze.rp.ac.rw\/",
+        "aliases": null,
+        "latitude": -1.5617274,
+        "longitude": 29.637068,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1729628",
+        "name": "Karisoke Research Center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Karisoke Research Centre"
+        ],
+        "latitude": -1.477411,
+        "longitude": 29.492197,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118397745",
+        "name": "Kibogora Polytechnic",
+        "short_name": null,
+        "official_website": "https:\/\/www.kp.ac.rw\/",
+        "aliases": null,
+        "latitude": -2.3251,
+        "longitude": 29.1336,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551790",
+        "name": "Kigali Independent University ULK",
+        "short_name": null,
+        "official_website": "https:\/\/ulk.ac.rw\/",
+        "aliases": [
+            "ULK",
+            "Kigali Independent University (ULK)"
+        ],
+        "latitude": 1.920955,
+        "longitude": 30.057434,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134713868",
+        "name": "Kigali Institute of Education",
+        "short_name": "KIE",
+        "official_website": "https:\/\/ce.ur.ac.rw\/",
+        "aliases": [
+            "KIE"
+        ],
+        "latitude": -1.9492483,
+        "longitude": 30.1216982,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29025070",
+        "name": "KIM University",
+        "short_name": null,
+        "official_website": "http:\/\/www.kimuniversity.ac.rw\/",
+        "aliases": null,
+        "latitude": -1.9556097,
+        "longitude": 30.1412463,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97041890",
+        "name": "Mahatma Gandhi University, Kigali",
+        "short_name": null,
+        "official_website": "http:\/\/www.mgu.ac.rw\/",
+        "aliases": [
+            "MGU",
+            "mgu.ac.rw",
+            "MGU Kigali",
+            "MGU Rwanda"
+        ],
+        "latitude": -2.203975,
+        "longitude": 30.143952,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q119702803",
+        "name": "Mount Kigali University",
+        "short_name": null,
+        "official_website": "https:\/\/mkur.ac.rw\/",
+        "aliases": [
+            "MKUR",
+            "Mount Kenya University Rwanda"
+        ],
+        "latitude": -1.9884,
+        "longitude": 30.0983,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q650982",
+        "name": "National University of Rwanda",
+        "short_name": null,
+        "official_website": "http:\/\/www.nur.ac.rw\/",
+        "aliases": null,
+        "latitude": -2.616111,
+        "longitude": 29.742778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17108252",
+        "name": "North Gate University",
+        "short_name": null,
+        "official_website": "http:\/\/www.northgateuniversity.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131388485",
+        "name": "RP GISHALI COLLEGE",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -1.9125885,
+        "longitude": 30.4223208,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q131388445",
+        "name": "RP HUYE College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -2.6079267,
+        "longitude": 29.7174166,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q131388461",
+        "name": "RP KARONGI COLLEGE",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -2.0768457,
+        "longitude": 29.3503633,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q131388453",
+        "name": "RP KIGALI COLLEGE",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -1.9789694,
+        "longitude": 30.1029897,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q131388470",
+        "name": "RP KITABI COLLEGE",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -2.5279369,
+        "longitude": 28.8403358,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q131388457",
+        "name": "RP NGOMA COLLEGE",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -2.1485233,
+        "longitude": 30.5410322,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q131388476",
+        "name": "RP TUMBA COLLEGE",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -1.8369729,
+        "longitude": 29.8429655,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q63646326",
+        "name": "Rubona",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -2.4828056,
+        "longitude": 29.7713889,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100943690",
+        "name": "Rwanda Christian University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100942487",
+        "name": "Rwanda Tourism University College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -1.8251321,
+        "longitude": 29.3388306,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7383742",
+        "name": "Rwandan National Institute of Scientific Research",
+        "short_name": null,
+        "official_website": "http:\/\/www.irst.ac.rw\/spip.php?article113",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q131392161",
+        "name": "University of Gitwe",
+        "short_name": "UG",
+        "official_website": "https:\/\/home.uog.ac.rw\/",
+        "aliases": null,
+        "latitude": -2.2447355,
+        "longitude": 29.6826202,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28035081",
+        "name": "University of Global Health Equity",
+        "short_name": null,
+        "official_website": "http:\/\/ughe.org\/",
+        "aliases": [
+            "ughe.org"
+        ],
+        "latitude": -1.9529985,
+        "longitude": 30.0903474,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131388660",
+        "name": "university of grobal health equit",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131315334",
+        "name": "University of grobal health equity",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UGHE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19888178",
+        "name": "University of Rwanda",
+        "short_name": null,
+        "official_website": "https:\/\/ur.ac.rw\/",
+        "aliases": [
+            "UR",
+            "National University of Rwanda"
+        ],
+        "latitude": -2.61575,
+        "longitude": 29.74291,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131315333",
+        "name": "University of Rwanda (UR) Rwamagana Campus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 1.9522971,
+        "longitude": 30,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100947813",
+        "name": "University of Rwanda School of Arts and Languages",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100947807",
+        "name": "University of Rwanda School of Journalism and Communication",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100947820",
+        "name": "University of Rwanda School of Public Health",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100947808",
+        "name": "University of Rwanda School of Social Political and Administrative Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131303835",
+        "name": "UNIVERSITY OF TOURISM",
+        "short_name": null,
+        "official_website": "https:\/\/www.utb.ac.rw\/",
+        "aliases": null,
+        "latitude": -1.9901121,
+        "longitude": 30.0695015,
+        "type": "university"
+    }
+]

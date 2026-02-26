@@ -1,0 +1,167 @@
+[
+    {
+        "wikidata_id": "Q4882958",
+        "name": "Belize Adventist Junior College",
+        "short_name": null,
+        "official_website": "http:\/\/www.bajc.edu.bz\/",
+        "aliases": null,
+        "latitude": 18.36519,
+        "longitude": -88.436134,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5062823",
+        "name": "Centro Escolar Mexico Junior College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 18.304818,
+        "longitude": -88.508726,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q97488033",
+        "name": "Corozal Community College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5172347",
+        "name": "Corozal Junior College",
+        "short_name": null,
+        "official_website": "http:\/\/www.cjc.edu.bz\/",
+        "aliases": null,
+        "latitude": 18.39505,
+        "longitude": -88.40335,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1707030",
+        "name": "Galen University",
+        "short_name": null,
+        "official_website": "http:\/\/www.galen.edu.bz\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18351291",
+        "name": "Independence Junior College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 16.537273,
+        "longitude": -88.426579,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6806452",
+        "name": "Medical University of the Americas – Belize",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "MUA-B"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6932026",
+        "name": "Muffles Junior College",
+        "short_name": null,
+        "official_website": "http:\/\/www.mjc.edu.bz\/",
+        "aliases": null,
+        "latitude": 18.0951222,
+        "longitude": -88.5400694,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7397228",
+        "name": "Sacred Heart Junior College",
+        "short_name": null,
+        "official_website": "http:\/\/shjc.edu.bz\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q18354464",
+        "name": "San Pedro Junior College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7588645",
+        "name": "St. John's College, Belize",
+        "short_name": null,
+        "official_website": "http:\/\/www.sjc.edu.bz\/",
+        "aliases": null,
+        "latitude": 17.5123692,
+        "longitude": -88.1985855,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7600111",
+        "name": "Stann Creek Ecumenical Junior College",
+        "short_name": null,
+        "official_website": "http:\/\/www.scecumenicalhighschool.edu.bz\/",
+        "aliases": null,
+        "latitude": 16.963184,
+        "longitude": -88.226429,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q97260945",
+        "name": "Toledo Community College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7895116",
+        "name": "University of Belize",
+        "short_name": null,
+        "official_website": "http:\/\/www.ub.edu.bz\/",
+        "aliases": [
+            "UB",
+            "ub.edu.bz"
+        ],
+        "latitude": 17.2436,
+        "longitude": -88.7602,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895115",
+        "name": "University of Belize, Central Campus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 17.243639,
+        "longitude": -88.760153,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7983945",
+        "name": "Wesley Junior College",
+        "short_name": null,
+        "official_website": "http:\/\/wjc.edu.bz\/",
+        "aliases": null,
+        "latitude": 17.48728,
+        "longitude": -88.1904,
+        "type": "college"
+    }
+]

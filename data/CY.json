@@ -1,0 +1,406 @@
+[
+    {
+        "wikidata_id": "Q55669420",
+        "name": "Bahçeşehir Cyprus University",
+        "short_name": null,
+        "official_website": "https:\/\/baucyprus.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19611809",
+        "name": "British University of Nicosia",
+        "short_name": null,
+        "official_website": "http:\/\/www.bun.edu.tr",
+        "aliases": [
+            "BUN"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q71821575",
+        "name": "Cornaro Institute in Larnaca",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 34.9085472,
+        "longitude": 33.6356889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5200447",
+        "name": "Cyprus College",
+        "short_name": null,
+        "official_website": "http:\/\/www.cycollege.ac.cy",
+        "aliases": null,
+        "latitude": 35.1596,
+        "longitude": 33.3385,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q414085",
+        "name": "Cyprus College of Art",
+        "short_name": null,
+        "official_website": "https:\/\/www.cypruscollegeofart.com\/",
+        "aliases": null,
+        "latitude": 34.8102444,
+        "longitude": 32.4098917,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q74543991",
+        "name": "Cyprus Educational Sciences Association",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5200458",
+        "name": "Cyprus Institute of Marketing",
+        "short_name": null,
+        "official_website": "http:\/\/www.cima.ac.cy\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1667496",
+        "name": "Cyprus International University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ciu.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74550831",
+        "name": "Cyprus International University, Faculty of Arts and Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1518320",
+        "name": "Cyprus University of Technology",
+        "short_name": "CUT",
+        "official_website": "http:\/\/www.cut.ac.cy\/en\/",
+        "aliases": [
+            "CUT"
+        ],
+        "latitude": 34.6766111,
+        "longitude": 33.0441667,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q103151029",
+        "name": "Doğu Akdeniz Üniversitesi Eczacılık Fakültesi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103151021",
+        "name": "Doğu Akdeniz Üniversitesi Eğitim Fakültesi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103151054",
+        "name": "Doğu Akdeniz Üniversitesi Mimarlık Fakültesi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103151077",
+        "name": "Doğu Akdeniz Üniversitesi Sağlık Bilimleri Fakültesi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103151011",
+        "name": "Doğu Akdeniz Üniversitesi İletişim Fakültesi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5310941",
+        "name": "Dublin Metropolitan University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1377090",
+        "name": "European University Cyprus",
+        "short_name": "EUC",
+        "official_website": "https:\/\/euc.ac.cy\/",
+        "aliases": [
+            "EUC"
+        ],
+        "latitude": 35.1602139,
+        "longitude": 33.3389944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1453031",
+        "name": "Frederick University",
+        "short_name": null,
+        "official_website": "http:\/\/www.frederick.ac.cy",
+        "aliases": null,
+        "latitude": 35.179496,
+        "longitude": 33.3778555,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3152013",
+        "name": "Higher Technical Institute of Cyprus",
+        "short_name": null,
+        "official_website": "http:\/\/www.hti.ac.cy",
+        "aliases": null,
+        "latitude": 35.15606,
+        "longitude": 33.40233,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6097996",
+        "name": "ITU-TRNC Education Research Campuses",
+        "short_name": null,
+        "official_website": "http:\/\/www.kktc.itu.edu.tr\/",
+        "aliases": [
+            "ITU-TRNC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16852684",
+        "name": "KES College",
+        "short_name": null,
+        "official_website": "http:\/\/www.kes.ac.cy\/college",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6103191",
+        "name": "Middle East Technical University Northern Cyprus Campus",
+        "short_name": null,
+        "official_website": "https:\/\/ncc.metu.edu.tr\/tr",
+        "aliases": [
+            "METU NCC"
+        ],
+        "latitude": 35.247,
+        "longitude": 33.0211,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15261440",
+        "name": "Neapolis University Pafos",
+        "short_name": null,
+        "official_website": "http:\/\/www.nup.ac.cy\/",
+        "aliases": null,
+        "latitude": 34.749,
+        "longitude": 32.426,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q890755",
+        "name": "Near East University",
+        "short_name": null,
+        "official_website": "http:\/\/www.neu.edu.tr",
+        "aliases": [
+            "Yakın Doğu Üniversitesi"
+        ],
+        "latitude": 35.22669,
+        "longitude": 33.32373,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1473115",
+        "name": "Open University of Cyprus",
+        "short_name": null,
+        "official_website": "https:\/\/www.ouc.ac.cy\/",
+        "aliases": null,
+        "latitude": 35.1131,
+        "longitude": 33.3774,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q110254269",
+        "name": "Philips University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19610445",
+        "name": "Q19610445",
+        "short_name": null,
+        "official_website": "http:\/\/www.akun.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19612280",
+        "name": "Q19612280",
+        "short_name": null,
+        "official_website": "http:\/\/polisokulu.gov.ct.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21526112",
+        "name": "Q21526112",
+        "short_name": null,
+        "official_website": "http:\/\/education.gau.edu.tr",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7728557",
+        "name": "The Cyprus Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.cyi.ac.cy\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100993025",
+        "name": "University of Central Lancashire Cyprus Campus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1520608",
+        "name": "University of Cyprus",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucy.ac.cy\/el\/",
+        "aliases": null,
+        "latitude": 35.1597,
+        "longitude": 33.3778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q13573771",
+        "name": "University of Kyrenia",
+        "short_name": null,
+        "official_website": "http:\/\/www.girne.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16820667",
+        "name": "University of Limassol",
+        "short_name": null,
+        "official_website": "https:\/\/www.uol.ac.cy\/",
+        "aliases": [
+            "University of Limassol"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q890428",
+        "name": "University of Mediterranean Karpasia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q338645",
+        "name": "University of Nicosia",
+        "short_name": null,
+        "official_website": "https:\/\/www.unic.ac.cy",
+        "aliases": null,
+        "latitude": 35.1658611,
+        "longitude": 33.3144444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101010377",
+        "name": "University of Nicosia School of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101010378",
+        "name": "University of Nicosia School of Humanities Social Sciences and Law",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101010380",
+        "name": "University of Nicosia School of Sciences and Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

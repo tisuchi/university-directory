@@ -1,0 +1,298 @@
+[
+    {
+        "wikidata_id": "Q383924",
+        "name": "Africa Rice Center",
+        "short_name": null,
+        "official_website": "https:\/\/www.africarice-fr.org",
+        "aliases": [
+            "AfricaRice",
+            "West Africa Rice Development Association"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18589874",
+        "name": "Centre Ivoirien de Recherche Economique et Sociale",
+        "short_name": null,
+        "official_website": "http:\/\/www.cires-ci.org\/",
+        "aliases": [
+            "CIRES"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2945818",
+        "name": "CIFAD",
+        "short_name": null,
+        "official_website": "http:\/\/www.cifad.eu",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2680941",
+        "name": "Fondation Félix-Houphouët-Boigny",
+        "short_name": null,
+        "official_website": "http:\/\/www.fondation-fhb.org\/",
+        "aliases": null,
+        "latitude": 6.79688,
+        "longitude": -5.26469,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1583390",
+        "name": "Félix Houphouët Boigny University",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-fhb.edu.ci\/",
+        "aliases": [
+            "UFHB",
+            "univ-fhb.edu.ci",
+            "Université de Cocody",
+            "Université de Cocody-Abidjan",
+            "Université Félix Houphouët-Boigny",
+            "University of Abidjan",
+            "University of Abidjan-Cocody",
+            "University of Cocody",
+            "University of Cocody-Abidjan",
+            "University of Cocody-Abiyan",
+            "University of Cocody-Abiyán"
+        ],
+        "latitude": 5.345556,
+        "longitude": -3.986111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3152457",
+        "name": "Institut national supérieur des arts et de l'action culturelle",
+        "short_name": null,
+        "official_website": "https:\/\/www.insaac.edu.ci\/",
+        "aliases": null,
+        "latitude": 5.34468,
+        "longitude": -3.99691,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18413711",
+        "name": "Jean Lorougnon Guédé University",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-jlog.ci\/",
+        "aliases": [
+            "Université Jean-Lorougnon-Guédé"
+        ],
+        "latitude": 6.8965,
+        "longitude": -6.4414,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2945933",
+        "name": "National Center for Agronomic Research",
+        "short_name": null,
+        "official_website": "https:\/\/www.cnra.ci\/",
+        "aliases": [
+            "NCAR"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q65160505",
+        "name": "Pierre Richet Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 7.7038889,
+        "longitude": -5.0394444,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q109315313",
+        "name": "Q109315313",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 7.3544,
+        "longitude": -7.6236,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112883419",
+        "name": "Q112883419",
+        "short_name": null,
+        "official_website": "https:\/\/univ-pgc.edu.ci\/index.php",
+        "aliases": null,
+        "latitude": 9.42539,
+        "longitude": -5.62994,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q118200842",
+        "name": "Q118200842",
+        "short_name": null,
+        "official_website": "http:\/\/www.injsabidjan.ci\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q118315999",
+        "name": "Q118315999",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 7.0975146,
+        "longitude": -7.9897211,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61852447",
+        "name": "Q61852447",
+        "short_name": null,
+        "official_website": "https:\/\/istc-gouv-ci.net\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3216880",
+        "name": "Station d'écologie tropicale de Lamto",
+        "short_name": null,
+        "official_website": "http:\/\/lamto.free.fr\/",
+        "aliases": null,
+        "latitude": 6.2126,
+        "longitude": -5.0122,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q103020970",
+        "name": "Universite de Cocody Institut de Recherches Mathematiques",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551460",
+        "name": "University of Abobo-Adjamé",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-na.edu.ci",
+        "aliases": [
+            "univ-na.ci",
+            "Université Nangui Abrogoua"
+        ],
+        "latitude": 5.38922,
+        "longitude": -4.01909,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122811289",
+        "name": "University of Bondoukou",
+        "short_name": null,
+        "official_website": "https:\/\/www.ubkou.edu.ci\/",
+        "aliases": null,
+        "latitude": 8.067,
+        "longitude": -2.7757,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113714273",
+        "name": "University of San Pedro",
+        "short_name": null,
+        "official_website": "https:\/\/usp.edu.ci",
+        "aliases": [
+            "Université de San-Pédro"
+        ],
+        "latitude": 4.7874,
+        "longitude": -6.6984,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q64358814",
+        "name": "University of the Lagoons",
+        "short_name": null,
+        "official_website": "https:\/\/ulagunes.com\/",
+        "aliases": [
+            "Université des Lagunes"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551369",
+        "name": "Université Alassane Ouattara",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-ao.edu.ci",
+        "aliases": [
+            "UAO"
+        ],
+        "latitude": 7.68642,
+        "longitude": -5.06669,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103020455",
+        "name": "Université Alassane Ouattara Département de sociologie",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103020464",
+        "name": "Université Alassane Ouattara UFR Sciences Juridiques Administratives et Gestion",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103020986",
+        "name": "Université de Cocody Unité de formation et de recherche Mathématiques et Informatiques",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28381317",
+        "name": "Virtual University of Côte d'Ivoire",
+        "short_name": null,
+        "official_website": "http:\/\/www.uvci.edu.ci\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3578282",
+        "name": "École normale supérieure",
+        "short_name": null,
+        "official_website": "http:\/\/www.ensabidjan.ci\/",
+        "aliases": [
+            "École normale supérieure (Abidjan)",
+            "École normale supérieure (Côte d'Ivoire)",
+            "École normale supérieure d'Abidjan",
+            "ENS Abidjan",
+            "ENS d'Abidjan"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

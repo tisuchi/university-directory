@@ -1,0 +1,137 @@
+[
+    {
+        "wikidata_id": "Q55402201",
+        "name": "Al Aasriya University of Nouakchott",
+        "short_name": null,
+        "official_website": "http:\/\/www.una.mr\/fr",
+        "aliases": [
+            "UNA",
+            "Al Aasriya University",
+            "U.N.A.",
+            "Université de Nouakchott Al Aasriya"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q35326205",
+        "name": "Faculté des Sciences Juridiques et Economiques",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 18.08935,
+        "longitude": -15.96597,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6038988",
+        "name": "Institut National de Recherches en Sante Publique",
+        "short_name": null,
+        "official_website": "https:\/\/inrsp.mr\/",
+        "aliases": [
+            "INRSP",
+            "National Institute of Public Health Research"
+        ],
+        "latitude": 18.0855556,
+        "longitude": -15.9875,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12193484",
+        "name": "Institut Supérieur d'Etudes et de Recherche Islamiques",
+        "short_name": null,
+        "official_website": "http:\/\/www.iseri.mr\/",
+        "aliases": [
+            "Advanced Institute for Islamic Studies and Research"
+        ],
+        "latitude": 18.0788889,
+        "longitude": -15.9727778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102111208",
+        "name": "Institut Supérieur d'Etudes et de Recherche Islamiques",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ISERI",
+            "المعهد العالي للدراسات والبحوث الإسلامية"
+        ],
+        "latitude": 18.0790556,
+        "longitude": -15.9723611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1074359",
+        "name": "Modern University of Chinguitt",
+        "short_name": null,
+        "official_website": "https:\/\/umchinguitt.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6743838",
+        "name": "Q6743838",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3119358",
+        "name": "University of Nouakchott Al Aasriya",
+        "short_name": null,
+        "official_website": "http:\/\/www.una.mr\/",
+        "aliases": null,
+        "latitude": 18.0893889,
+        "longitude": -15.9684722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30260802",
+        "name": "Université des Sciences, de Technologie et de Médecine",
+        "short_name": null,
+        "official_website": "http:\/\/www.ustm.mr\/",
+        "aliases": [
+            "USTM",
+            "University of Science, Technology and Medicine",
+            "جامعة العلوم والتقنيات والطب"
+        ],
+        "latitude": 18.077929,
+        "longitude": -15.954251,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1443352",
+        "name": "Université Libanaise Internationale en Mauritanie",
+        "short_name": null,
+        "official_website": "http:\/\/www.liu.mr\/",
+        "aliases": [
+            "LIU",
+            "الجامعة اللبنانية الدولية في موريتانيا"
+        ],
+        "latitude": 18.0916667,
+        "longitude": -15.9669444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102111209",
+        "name": "École Nationale d'Administration, de Journalisme et de Magistrature",
+        "short_name": null,
+        "official_website": "http:\/\/enajm.mr\/",
+        "aliases": [
+            "ENAJM",
+            "IAU-004085",
+            "National School of Administration, Journalism and Magistature",
+            "المدرسة الوطنية للإدارة والصحافة والقضاء"
+        ],
+        "latitude": 18.0975556,
+        "longitude": -15.983,
+        "type": "university"
+    }
+]

@@ -1,0 +1,778 @@
+[
+    {
+        "wikidata_id": "Q4076909",
+        "name": "Baltic International Academy",
+        "short_name": null,
+        "official_website": "http:\/\/bsa.edu.lv\/",
+        "aliases": [
+            "Baltic Russian Institute",
+            "Baltijas Starptautiskā Akadēmija"
+        ],
+        "latitude": 56.9378,
+        "longitude": 24.1558,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16353012",
+        "name": "College of Business Administration",
+        "short_name": null,
+        "official_website": "http:\/\/www.bvk.lv\/",
+        "aliases": [
+            "BVK"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q46725678",
+        "name": "Cēsu apriņķa skola",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 57.3119553,
+        "longitude": 25.2714489,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74543865",
+        "name": "Daugavpils Universit, Institute of Sustainable Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1854796",
+        "name": "Daugavpils University",
+        "short_name": null,
+        "official_website": "http:\/\/du.lv",
+        "aliases": [
+            "DU",
+            "Daugavpils Universitāte"
+        ],
+        "latitude": 55.8694444,
+        "longitude": 26.5166667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q46928717",
+        "name": "Dobele State Gymnasium building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Dzirnavu iela 2, Dobele"
+        ],
+        "latitude": 56.6196256,
+        "longitude": 23.274643,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q55899673",
+        "name": "Dzirnavu iela 117 (Riga)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 56.9490375,
+        "longitude": 24.1250681,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16355880",
+        "name": "EKA University of Applied Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.eka.edu.lv",
+        "aliases": [
+            "EKA",
+            "Ekonomikas un Kultūras augstskola",
+            "University College of Economics and Culture"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15441074",
+        "name": "Herderinstitut zu Riga",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q110319397",
+        "name": "Higher School of Latvia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28939308",
+        "name": "Higher School of Social Technologies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Sociālo tehnoloģiju augstskola"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52317357",
+        "name": "Higher School of Social Work and Social Pedagogics `Attistiba`",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Attīstība"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136832079",
+        "name": "Historical Institute of Latvia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Historical institute (Riga)",
+            "Institute of History of Latvia"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20566309",
+        "name": "Institute for Enviromental Solutions",
+        "short_name": null,
+        "official_website": "https:\/\/www.videsinstituts.lv\/en",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q27055986",
+        "name": "Institute of Innovative Biomedical Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 56.9961111,
+        "longitude": 24.1425,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q28939156",
+        "name": "Institute of Physical Energetics",
+        "short_name": null,
+        "official_website": "http:\/\/fei-web.lv\/",
+        "aliases": [
+            "IPE",
+            "FEI",
+            "Fizikālās Enerģētikas Institūts"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q50378923",
+        "name": "Institute of Solid State Physics, University of Latvia",
+        "short_name": null,
+        "official_website": "https:\/\/www.cfi.lu.lv\/",
+        "aliases": [
+            "ISSP UL"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q27681613",
+        "name": "International Cosmetology College",
+        "short_name": null,
+        "official_website": "https:\/\/skk.lv\/",
+        "aliases": [
+            "SKK"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q15649513",
+        "name": "International Institute of Practical Psychology",
+        "short_name": null,
+        "official_website": "http:\/\/www.sppa.lv\/",
+        "aliases": [
+            "International Higher School of Practical Psychology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23136317",
+        "name": "ISMA University",
+        "short_name": null,
+        "official_website": "http:\/\/www.isma.lv\/",
+        "aliases": [
+            "Informācijas Sistēmu Menedžmenta Augstskola"
+        ],
+        "latitude": 56.9380556,
+        "longitude": 24.1586111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28939520",
+        "name": "Jekabpils Agrobusiness College",
+        "short_name": null,
+        "official_website": "http:\/\/www.jak.lv\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q2570442",
+        "name": "Jāzeps Vītols Latvian Academy of Music",
+        "short_name": null,
+        "official_website": "http:\/\/www.jvlma.lv\/",
+        "aliases": [
+            "Latvian Academy of Music",
+            "Riga Conservatory"
+        ],
+        "latitude": 56.9496667,
+        "longitude": 24.1173889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q56012091",
+        "name": "Kronvalda bulvāris 4",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 56.9552282,
+        "longitude": 24.1043229,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16361279",
+        "name": "Latvia Business College",
+        "short_name": null,
+        "official_website": "http:\/\/www.lbkeu.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1342858",
+        "name": "Latvia University of Life Sciences and Technologies",
+        "short_name": null,
+        "official_website": "http:\/\/www.llu.lv",
+        "aliases": [
+            "Latvia University of Agriculture"
+        ],
+        "latitude": 56.6669444,
+        "longitude": 23.7602778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q56042284",
+        "name": "Latvian Academy of Arts building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 56.9548537,
+        "longitude": 24.1114081,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4254872",
+        "name": "Latvian Academy of Culture",
+        "short_name": null,
+        "official_website": "http:\/\/www.lka.edu.lv\/",
+        "aliases": null,
+        "latitude": 56.9402,
+        "longitude": 24.1428,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124466691",
+        "name": "Latvian College of Culture",
+        "short_name": null,
+        "official_website": "https:\/\/kulturaskoledza.lv\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30268661",
+        "name": "Latvian Institute of Aquatic Ecology",
+        "short_name": null,
+        "official_website": "http:\/\/www.lhei.lv\/en\/",
+        "aliases": [
+            "LHEI",
+            "LIAE"
+        ],
+        "latitude": 56.9919722,
+        "longitude": 24.0857222,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4201643",
+        "name": "Latvian Institute of Organic Synthesis",
+        "short_name": null,
+        "official_website": "http:\/\/www.osi.lv\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4254869",
+        "name": "Latvian Maritime Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.latja.lv\/",
+        "aliases": null,
+        "latitude": 57.0463889,
+        "longitude": 24.0302778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16361744",
+        "name": "Latvian State Institute of Wood Chemistry",
+        "short_name": null,
+        "official_website": "http:\/\/www.kki.lv\/",
+        "aliases": [
+            "Latvijas Valsts Koksnes k̦īmijas institūts"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q52317358",
+        "name": "Latvijas Kristīgā akadēmija",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16363069",
+        "name": "Malnava College",
+        "short_name": null,
+        "official_website": "http:\/\/www.malnava.lv",
+        "aliases": [
+            "Malnavas koledža"
+        ],
+        "latitude": 56.774714,
+        "longitude": 27.720583,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q74555614",
+        "name": "Medicīnas Vēstures Institūts",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4314800",
+        "name": "National Defence Academy of Latvia",
+        "short_name": null,
+        "official_website": "https:\/\/www.naa.mil.lv\/",
+        "aliases": null,
+        "latitude": 56.9952994,
+        "longitude": 24.1813534,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104439578",
+        "name": "Q104439578",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136615847",
+        "name": "Q136615847",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136831482",
+        "name": "Q136831482",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16351438",
+        "name": "Q16351438",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16352517",
+        "name": "Q16352517",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21481127",
+        "name": "Q21481127",
+        "short_name": null,
+        "official_website": "http:\/\/www.rmk1.lv",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q21481216",
+        "name": "Q21481216",
+        "short_name": null,
+        "official_website": "http:\/\/www.rcmc.lv\/",
+        "aliases": null,
+        "latitude": 56.955,
+        "longitude": 24.1515,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q29450241",
+        "name": "Q29450241",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 57.3125,
+        "longitude": 25.2486111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q50378801",
+        "name": "Q50378801",
+        "short_name": null,
+        "official_website": "https:\/\/www.lu.lv\/par-mums\/struktura\/instituti\/lu-fizikas-instituts\/",
+        "aliases": null,
+        "latitude": 56.936646,
+        "longitude": 24.097246,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q55560517",
+        "name": "Q55560517",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 56.6492607,
+        "longitude": 23.7187729,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q86004182",
+        "name": "Q86004182",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q90307979",
+        "name": "Q90307979",
+        "short_name": null,
+        "official_website": "https:\/\/www.koledza.ba.lv",
+        "aliases": null,
+        "latitude": 56.975267,
+        "longitude": 24.13306,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7333325",
+        "name": "Riga Business School",
+        "short_name": null,
+        "official_website": "http:\/\/www.rbs.lv\/",
+        "aliases": [
+            "RTU Riga Business School"
+        ],
+        "latitude": 56.957394,
+        "longitude": 24.1172842,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4394548",
+        "name": "Riga Civil Aviation Engineers Institute",
+        "short_name": null,
+        "official_website": "http:\/\/rkiigarau.lv\/",
+        "aliases": [
+            "Riga Aviation University"
+        ],
+        "latitude": 56.9395,
+        "longitude": 24.1556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136765689",
+        "name": "Riga College of Applied Art",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q56024963",
+        "name": "Riga Music Boarding High School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 56.9350568,
+        "longitude": 24.036859,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111036372",
+        "name": "Riga Pedagogical Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2007643",
+        "name": "Riga Stradiņš University",
+        "short_name": null,
+        "official_website": "https:\/\/www.rsu.lv\/",
+        "aliases": [
+            "Rīgas Stradiņa universitāte"
+        ],
+        "latitude": 56.9536111,
+        "longitude": 24.0552778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27477416",
+        "name": "Riga Technical College",
+        "short_name": null,
+        "official_website": "http:\/\/www.rtk.lv\/",
+        "aliases": [
+            "RTK",
+            "Vocational Education Competence Centre"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q411895",
+        "name": "Riga Technical University",
+        "short_name": null,
+        "official_website": "https:\/\/rtu.lv",
+        "aliases": [
+            "Riga_Technical_University",
+            "Rīgas Tehniskā universitāte"
+        ],
+        "latitude": 56.9471306,
+        "longitude": 24.1051389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4394523",
+        "name": "RISEBA University of Business, Arts and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.riseba.lv",
+        "aliases": [
+            "Riga International School of Economics and Business Administration"
+        ],
+        "latitude": 56.9443,
+        "longitude": 24.0804,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3801493",
+        "name": "RTU Rezekne Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.rta.lv\/",
+        "aliases": [
+            "Rezekne Higher Education Institution",
+            "Rezekne Technology Academy"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q128509",
+        "name": "School of Civic Education",
+        "short_name": null,
+        "official_website": "https:\/\/sapere.online\/",
+        "aliases": [
+            "Moscow School of Civic Education"
+        ],
+        "latitude": 51.515,
+        "longitude": -0.0719444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q46928815",
+        "name": "Skolas iela 2",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 56.6223011,
+        "longitude": 23.2789756,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125762614",
+        "name": "Telts iela 2A",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 56.9195278,
+        "longitude": 24.0921389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4201765",
+        "name": "Transport and Telecommunication Institute",
+        "short_name": null,
+        "official_website": "https:\/\/tsi.lv\/",
+        "aliases": null,
+        "latitude": 56.9392,
+        "longitude": 24.1564,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q55652906",
+        "name": "Tukuma iela 10, Jūrmala",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 56.940991,
+        "longitude": 23.4902181,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q50378804",
+        "name": "UL Institute of Latvian History",
+        "short_name": null,
+        "official_website": "https:\/\/www.lvi.lu.lv\/en\/contents.htm",
+        "aliases": [
+            "Institute of History of Latvia at University of Latvia",
+            "Institute of the History of Latvia at the University of Latvia",
+            "Historical Institute of Latvia at the University of Latvia",
+            "Historical Institute of Latvia of the University of Latvia",
+            "Latvijas Universitāte. Historical Institute of Latvia",
+            "Latvijas Universitāte. Institute of the History of Latvia"
+        ],
+        "latitude": 56.879635,
+        "longitude": 24.603189,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q498407",
+        "name": "University of Latvia",
+        "short_name": null,
+        "official_website": "https:\/\/www.lu.lv\/",
+        "aliases": [
+            "Latvijas Universitāte"
+        ],
+        "latitude": 56.9505556,
+        "longitude": 24.1161111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q39774585",
+        "name": "University of Latvia Institute of Biology",
+        "short_name": null,
+        "official_website": "http:\/\/lubi.edu.lv\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3498695",
+        "name": "University of Liepāja",
+        "short_name": null,
+        "official_website": "http:\/\/www.liepu.lv\/en\/",
+        "aliases": null,
+        "latitude": 56.5087,
+        "longitude": 21.0101,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q55462992",
+        "name": "Valmiera State Gymnasium",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 57.5327,
+        "longitude": 25.4086,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11219959",
+        "name": "Ventspils University of Applied Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/venta.lv\/",
+        "aliases": [
+            "Ventspils Augstskola",
+            "Ventspils University College"
+        ],
+        "latitude": 57.384689,
+        "longitude": 21.546004,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1479765",
+        "name": "Vidzeme University of Applied Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.va.lv",
+        "aliases": null,
+        "latitude": 57.535,
+        "longitude": 25.4239,
+        "type": "university"
+    }
+]

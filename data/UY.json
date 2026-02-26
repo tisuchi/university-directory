@@ -1,0 +1,515 @@
+[
+    {
+        "wikidata_id": "Q123015139",
+        "name": "Building of the German School of Montevideo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.9070278,
+        "longitude": -56.1803056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122962835",
+        "name": "Building of the Great Britain School of Montevideo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.8535556,
+        "longitude": -56.1709444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123022422",
+        "name": "Casa Matriz del Instituto del Niño y el Adolescente",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.9043611,
+        "longitude": -56.2067778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3822124",
+        "name": "Ceibal",
+        "short_name": null,
+        "official_website": "http:\/\/www.ceibal.org.uy",
+        "aliases": [
+            "Plan Ceibal"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107946492",
+        "name": "Centre for Social Research, Training, and Women's Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Centro de Investigación Social, Formación y Estudios de la Mujer",
+            "CISFEM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16302374",
+        "name": "Centro Universitario de Salto",
+        "short_name": null,
+        "official_website": "http:\/\/www.unorte.edu.uy",
+        "aliases": null,
+        "latitude": -31.3908333,
+        "longitude": -57.9581667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130215128",
+        "name": "Colegio Mater Ter Admirabilis",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.2879459,
+        "longitude": -57.2320962,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q123049871",
+        "name": "Complejo educativo Tapié-Piñeyro",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.2953056,
+        "longitude": -55.9580278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16552124",
+        "name": "Consejo de Formación en Educación",
+        "short_name": null,
+        "official_website": "http:\/\/www.cfe.edu.uy\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123018227",
+        "name": "Edificio de la Biblioteca y el Museo Nacional",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.9076944,
+        "longitude": -56.2053889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123022261",
+        "name": "Edificio del Asilo Materno N°2",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.9005278,
+        "longitude": -56.1884444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123009713",
+        "name": "Edificio del ex Sanatorio Catalina Parma de Beisso",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.8985,
+        "longitude": -56.1675,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123015636",
+        "name": "Edificio del Instituto Normal de Varones",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.8992778,
+        "longitude": -56.1692778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42990935",
+        "name": "Edificio del Instituto Politécnico Osimani y Llerena",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -31.3868611,
+        "longitude": -57.9619722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123279187",
+        "name": "Edificio del Seminario Arquidiocesano de Toledo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.7428333,
+        "longitude": -56.0940278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122962792",
+        "name": "Edificio Escuela Artigas de Montevideo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.9071944,
+        "longitude": -56.1698889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122411529",
+        "name": "Escuela Alemania building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.8760306,
+        "longitude": -56.1859306,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74535476",
+        "name": "Facultad de Agronomía, INIA",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16911653",
+        "name": "Facultad de Información y Comunicación (Universidad de la República)",
+        "short_name": null,
+        "official_website": "https:\/\/fic.edu.uy\/",
+        "aliases": [
+            "Universidad de la República, Facultad de Información y Comunicación"
+        ],
+        "latitude": -34.91128,
+        "longitude": -56.17357,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q123058309",
+        "name": "Grupo Escolar Felipe Sanguinetti",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74547462",
+        "name": "Instituto de Ciencia Política",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5975040",
+        "name": "Instituto de Comunicación (Universidad de la República)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q26266057",
+        "name": "Instituto Metodista Universitario Crandon",
+        "short_name": null,
+        "official_website": "http:\/\/www.universitariocrandon.edu.uy\/",
+        "aliases": [
+            "IMUC",
+            "Universitario Crandon"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6044567",
+        "name": "Inter-American Institute for Global Change Research",
+        "short_name": null,
+        "official_website": "http:\/\/www.iai.int\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17630306",
+        "name": "Learning Assessment System",
+        "short_name": null,
+        "official_website": "http:\/\/www.anep.edu.uy\/anep\/index.php\/dspe-departamento-de-evaluacion-de-aprendizajes",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42973514",
+        "name": "Liceo Frances building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q138028768",
+        "name": "Military Institute of Advanced Studies",
+        "short_name": null,
+        "official_website": "https:\/\/www.imes.edu.uy\/",
+        "aliases": [
+            "IMES",
+            "I.M.E.S"
+        ],
+        "latitude": -34.882662,
+        "longitude": -56.166718,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q138313993",
+        "name": "Military Institute of Arms and Specialties",
+        "short_name": null,
+        "official_website": "https:\/\/imae.ejercito.mil.uy",
+        "aliases": [
+            "IMAE"
+        ],
+        "latitude": -34.813576,
+        "longitude": -56.095899,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29054109",
+        "name": "National Institute of Agricultural Research",
+        "short_name": null,
+        "official_website": "http:\/\/www.inia.uy\/",
+        "aliases": null,
+        "latitude": -34.8803056,
+        "longitude": -56.0766667,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5917646",
+        "name": "Pasteur Institute of Montevideo",
+        "short_name": null,
+        "official_website": "http:\/\/www.pasteur.uy\/",
+        "aliases": [
+            "Institut Pasteur de Montevideo",
+            "IP Montevideo"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q131609307",
+        "name": "Q131609307",
+        "short_name": null,
+        "official_website": "http:\/\/www.cin.edu.uy",
+        "aliases": null,
+        "latitude": -34.8813614,
+        "longitude": -56.1205857,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q42975595",
+        "name": "Q42975595",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124289850",
+        "name": "Quinta de Ramponi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.8796611,
+        "longitude": -56.14795,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124282931",
+        "name": "Quinta de Risso",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.8480278,
+        "longitude": -56.1998056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3291440",
+        "name": "Universidad Católica del Uruguay",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucu.edu.uy\/",
+        "aliases": [
+            "Universidad Catolica del Uruguay"
+        ],
+        "latitude": -34.8887,
+        "longitude": -56.159,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74543356",
+        "name": "Universidad Católica del Uruguay, Facultad de Ciencias Humanas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552635",
+        "name": "Universidad Católica del Uruguay, Facultad de Derecho",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q11704905",
+        "name": "Universidad de la Empresa",
+        "short_name": null,
+        "official_website": "https:\/\/ude.edu.uy\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74558179",
+        "name": "Universidad de la República, Comisión Sectorial de Enseñanza",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530727",
+        "name": "Universidad de la República, Facultad de Humanidades y Ciencias de la Educación, Instituto de Antropología",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Universidad de la República, Facultad de Humanidades y Ciencias de la Educación, Instituto de Educación"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q961612",
+        "name": "Universidad de Montevideo",
+        "short_name": null,
+        "official_website": "http:\/\/www.um.edu.uy\/",
+        "aliases": [
+            "UM",
+            "University of Montevideo"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74528388",
+        "name": "Universidad de Montevideo, Facultad de Humanidades y Educación",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552982",
+        "name": "Universidad de Montevideo, Facultad de Ingeniería",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3772943",
+        "name": "Universidad ORT Uruguay",
+        "short_name": null,
+        "official_website": "https:\/\/www.ort.edu.uy\/",
+        "aliases": null,
+        "latitude": -34.9038361,
+        "longitude": -56.1906,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74552626",
+        "name": "Universidad ORT Uruguay, Facultad de Comunicación",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156717",
+        "name": "Universidad Tecnológica",
+        "short_name": null,
+        "official_website": "https:\/\/utec.edu.uy\/es\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1023818",
+        "name": "University Latin American Center for Human Economy",
+        "short_name": null,
+        "official_website": "https:\/\/universidad.claeh.edu.uy",
+        "aliases": [
+            "CLAEH University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1856423",
+        "name": "University of the Republic",
+        "short_name": null,
+        "official_website": "http:\/\/www.universidad.edu.uy\/",
+        "aliases": [
+            "Udelar",
+            "UDELAR",
+            "Universidad de la Republica",
+            "Universidad de la República",
+            "Universidad de la Republica de Uruguay"
+        ],
+        "latitude": -34.9025,
+        "longitude": -56.1766667,
+        "type": "university"
+    }
+]

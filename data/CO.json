@@ -1,0 +1,2773 @@
+[
+    {
+        "wikidata_id": "Q4720532",
+        "name": "Alexander von Humboldt Biological Resources Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.humboldt.org.co\/",
+        "aliases": [
+            "IAH",
+            "Instituto Alexander von Humboldt",
+            "Instituto de Investigación de Recursos Biológicos Alexander von Humboldt"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q31871587",
+        "name": "Amazon Institute of Scientific Research",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -4.20601,
+        "longitude": -69.94352,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74558136",
+        "name": "Asociación Colombiana de Profesores de Ingles",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q9091527",
+        "name": "Autonomous University of Bucaramanga",
+        "short_name": null,
+        "official_website": "http:\/\/www.unab.edu.co\/",
+        "aliases": [
+            "UNAB"
+        ],
+        "latitude": 7.116816,
+        "longitude": -73.10524,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156355",
+        "name": "Autonomous University of Colombia",
+        "short_name": null,
+        "official_website": "https:\/\/soyautonoma.com\/",
+        "aliases": [
+            "Fundación Universidad Autónoma de Colombia"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27766479",
+        "name": "Autonomous University of Manizales",
+        "short_name": null,
+        "official_website": "http:\/\/www.autonoma.edu.co",
+        "aliases": null,
+        "latitude": 5.066894,
+        "longitude": -75.505324,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131933743",
+        "name": "Bellas Artes Institución Universitaria del Valle",
+        "short_name": null,
+        "official_website": "https:\/\/bellasartes.edu.co",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q596856",
+        "name": "Caro and Cuervo Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.caroycuervo.gov.co",
+        "aliases": null,
+        "latitude": 4.595949,
+        "longitude": -74.073887,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17155057",
+        "name": "Catholic University Luis Amigó",
+        "short_name": null,
+        "official_website": "http:\/\/www.funlam.edu.co\/",
+        "aliases": [
+            "Fundación Universitaria Luis Amigó"
+        ],
+        "latitude": 6.2594,
+        "longitude": -75.5837,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4005879",
+        "name": "Catholic University of Colombia",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucatolica.edu.co\/easyWeb\/",
+        "aliases": null,
+        "latitude": 4.6341667,
+        "longitude": -74.0669444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156396",
+        "name": "Catholic University of Manizales",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucm.edu.co",
+        "aliases": [
+            "UCM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97066185",
+        "name": "CEIBA Fundacion",
+        "short_name": null,
+        "official_website": "https:\/\/www.ceiba.org.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5061952",
+        "name": "Central University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucentral.edu.co\/",
+        "aliases": null,
+        "latitude": 4.651371,
+        "longitude": -74.071509,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3699209",
+        "name": "Central University of Valle del Cauca",
+        "short_name": null,
+        "official_website": "https:\/\/www.uceva.edu.co\/",
+        "aliases": null,
+        "latitude": 4.0643,
+        "longitude": -76.2025,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74527055",
+        "name": "Centro de Estudios Interdisciplinarios, Jurídicos, Sociales y Humanistas (CIES) de la Facultad de Derecho y Ciencias Sociales de la Universidad Icesi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q127602015",
+        "name": "Centro De Investigaciones De La Universidad Pedagógica Nacional",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "CIUP"
+        ],
+        "latitude": 4.6660305,
+        "longitude": -74.0586043,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5761340",
+        "name": "Centro Internacional de Física",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "CIF"
+        ],
+        "latitude": 4.633882,
+        "longitude": -74.086178,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q21511954",
+        "name": "Centro Nacional de Investigaciones de Café",
+        "short_name": null,
+        "official_website": "https:\/\/www.cenicafe.org\/",
+        "aliases": [
+            "Cenicafé",
+            "National Centre of Coffee Research"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156377",
+        "name": "CES University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ces.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5917112",
+        "name": "CESMAG University",
+        "short_name": null,
+        "official_website": "http:\/\/www.iucesmag.edu.co\/",
+        "aliases": [
+            "UNICESMAG"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130469905",
+        "name": "CINEP",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q23717587",
+        "name": "Ciudad Universitaria",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 4.63862,
+        "longitude": -74.08424,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5777255",
+        "name": "Colegio de Estudios Superiores de Administración",
+        "short_name": null,
+        "official_website": "http:\/\/www.cesa.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5777009",
+        "name": "Colegio Mayor de Antioquia",
+        "short_name": null,
+        "official_website": "http:\/\/www.colmayor.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5147878",
+        "name": "Colombia Adventist University",
+        "short_name": null,
+        "official_website": "http:\/\/www.unac.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30263764",
+        "name": "Colombian Corporation for Agricultural Research",
+        "short_name": null,
+        "official_website": "https:\/\/www.agrosavia.co",
+        "aliases": [
+            "AGROSAVIA",
+            "CORPOICA",
+            "Corporación Colombiana de Investigación Agropecuaria - AGROSAVIA",
+            "Corporación Colombiana de Investigación Agropecuaria (Corpoica)"
+        ],
+        "latitude": 4.70592,
+        "longitude": -74.23021,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q128536883",
+        "name": "Colombo Germana University Foundation",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29052734",
+        "name": "Comfenalco Technological University Foundation",
+        "short_name": null,
+        "official_website": "http:\/\/www.tecnologicocomfenalco.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131948336",
+        "name": "Corporación Academia Tecnológica de Colombia ATEC",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ATEC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131934273",
+        "name": "Corporación Colegiatura Autónoma del Norte",
+        "short_name": null,
+        "official_website": "https:\/\/uanorte.edu.co\/web\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20856254",
+        "name": "Corporación de Educación Superior ISES",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 4.651371,
+        "longitude": -74.071509,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q132736128",
+        "name": "Corporación de Educación Tecnológica Colsubsidio EADS",
+        "short_name": null,
+        "official_website": "https:\/\/cetcolsubsidio.edu.co\/",
+        "aliases": [
+            "CET Colsubsidio"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294026",
+        "name": "Corporación Escuela de Artes y Letras",
+        "short_name": null,
+        "official_website": "https:\/\/www.artesyletras.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20014248",
+        "name": "Corporación Unificada Nacional de Educación Superior",
+        "short_name": null,
+        "official_website": "https:\/\/cun.edu.co\/",
+        "aliases": [
+            "CUN"
+        ],
+        "latitude": 4.5985278,
+        "longitude": -74.0725833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131756794",
+        "name": "Corporación Universitaria Antonio Jośe de Sucre",
+        "short_name": null,
+        "official_website": "https:\/\/www.uajs.edu.co\/",
+        "aliases": [
+            "CORPOSUCRE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294058",
+        "name": "Corporación Universitaria Autónoma del Cauca",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294089",
+        "name": "Corporación Universitaria del Caribe",
+        "short_name": null,
+        "official_website": "https:\/\/cecar.edu.co\/",
+        "aliases": [
+            "CECAR"
+        ],
+        "latitude": 9.3088593,
+        "longitude": -75.3681719,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29052667",
+        "name": "Corporación Universitaria del Huila",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5395262",
+        "name": "Corporación Universitaria del Meta",
+        "short_name": null,
+        "official_website": "http:\/\/www.unimeta.edu.co",
+        "aliases": [
+            "Corporacion Universitaria del Meta"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29052641",
+        "name": "Corporación Universitaria Empresarial Alexander von Humboldt",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29052711",
+        "name": "Corporación Universitaria Lasallista",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5788938",
+        "name": "Corporación Universitaria Minuto de Dios",
+        "short_name": null,
+        "official_website": "http:\/\/www.uniminuto.edu\/",
+        "aliases": [
+            "Corporacion Universitaria Minuto de Dios"
+        ],
+        "latitude": 4.6983333,
+        "longitude": -74.0891667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131934160",
+        "name": "Corporación Universitaria para el Desarrollo Empresarial y Social",
+        "short_name": null,
+        "official_website": "https:\/\/unimisionpaz.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18222713",
+        "name": "Corporación Universitaria Reformada",
+        "short_name": null,
+        "official_website": "http:\/\/unireformada.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29052635",
+        "name": "Corporación Universitaria Remington",
+        "short_name": null,
+        "official_website": "http:\/\/www.uniremington.edu.co",
+        "aliases": [
+            "Uniremington"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q70800088",
+        "name": "Corporación Universitaria Unitec",
+        "short_name": null,
+        "official_website": "http:\/\/unitec.edu.co",
+        "aliases": null,
+        "latitude": 4.6619444,
+        "longitude": -74.0628056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3081395",
+        "name": "District University of Bogotá",
+        "short_name": null,
+        "official_website": "http:\/\/www.udistrital.edu.co",
+        "aliases": [
+            "District University of Bogota",
+            "Universidad Distrital Francisco José de Caldas"
+        ],
+        "latitude": 4.6280556,
+        "longitude": -74.0652778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3997314",
+        "name": "EAFIT University",
+        "short_name": null,
+        "official_website": "https:\/\/www.eafit.edu.co",
+        "aliases": [
+            "EAFIT",
+            "Escuela de Administración y Finanzas - Instituto Tecnológico"
+        ],
+        "latitude": 6.1997333,
+        "longitude": -75.5786861,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q9091550",
+        "name": "Ean University",
+        "short_name": null,
+        "official_website": "https:\/\/universidadean.edu.co\/",
+        "aliases": null,
+        "latitude": 4.6636673,
+        "longitude": -74.0567257,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106720935",
+        "name": "Educamas",
+        "short_name": null,
+        "official_website": "https:\/\/www.educamas.com.co",
+        "aliases": null,
+        "latitude": 4.676481,
+        "longitude": -74.056553,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q517861",
+        "name": "El Bosque University",
+        "short_name": null,
+        "official_website": "http:\/\/www.unbosque.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74549568",
+        "name": "El Instituto para la Pedagogía, la Paz y el Conflicto Urbano",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IPAZUD"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5397459",
+        "name": "Escuela Colombiana de Ingeniería",
+        "short_name": null,
+        "official_website": "https:\/\/www.escuelaing.edu.co\/es\/",
+        "aliases": [
+            "Colombian School of Engineering",
+            "Escuela Colombiana de Ingenieria",
+            "Escuela Colombiana de Ingeniería Julio Garavito"
+        ],
+        "latitude": 4.78222,
+        "longitude": -74.0439,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16440713",
+        "name": "Escuela de Arte Eladio Vélez",
+        "short_name": null,
+        "official_website": "http:\/\/www.escuelaeladiovelez.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74550081",
+        "name": "Facultad de Ciencias Sociales y Educación",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74545546",
+        "name": "Facultad de Derecho (Departamento de Derecho Penal)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74558189",
+        "name": "Facultad de Derecho, Centro de Estudios de la Propiedad Intelectual",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q23005392",
+        "name": "FESC University",
+        "short_name": null,
+        "official_website": "http:\/\/www.fesc.edu.co",
+        "aliases": [
+            "FESC",
+            "fesc"
+        ],
+        "latitude": 7.8815833,
+        "longitude": -72.5023889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74547093",
+        "name": "Fondo Editorial EIA",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q989759",
+        "name": "Francisco de Paula Santander University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ufps.edu.co",
+        "aliases": null,
+        "latitude": 7.899165,
+        "longitude": -72.487489,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131934278",
+        "name": "Fundación Centro Universitario de Bienestar Rural",
+        "short_name": null,
+        "official_website": "http:\/\/www.cubr.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131948786",
+        "name": "Fundación de Educación Superior San José Fesanjosé",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Fesanjosé"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29052688",
+        "name": "Fundación Universitaria Agraria de Colombia - UNIAGRARIA",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30293993",
+        "name": "Fundación Universitaria Bellas Artes",
+        "short_name": null,
+        "official_website": "https:\/\/bellasartesmed.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16941774",
+        "name": "Fundación Universitaria Católica Lumen Gentium",
+        "short_name": null,
+        "official_website": "http:\/\/www.unicatolica.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131756362",
+        "name": "Fundación Universitaria Comfenalco Santander",
+        "short_name": null,
+        "official_website": "https:\/\/www.unc.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21574117",
+        "name": "Fundación Universitaria Compensar",
+        "short_name": null,
+        "official_website": "https:\/\/www.ucompensar.edu.co",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16570043",
+        "name": "Fundación Universitaria de Popayán",
+        "short_name": null,
+        "official_website": "http:\/\/www.fup.edu.co\/",
+        "aliases": [
+            "Fundacion Universitaria de Popayan",
+            "University Foundation of Popayan"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25411265",
+        "name": "Fundación Universitaria del Área Andina",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 4.6577222,
+        "longitude": -74.0623611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131947490",
+        "name": "Fundación Universitaria Escuela Colombiana de Medicina Homeopática Luis G. Páez",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Unipáez"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112751953",
+        "name": "Fundación Universitaria Horizonte",
+        "short_name": null,
+        "official_website": "https:\/\/unihorizonte.edu.co",
+        "aliases": [
+            "UniHorizonte"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5871530",
+        "name": "Fundación Universitaria Juan de Castellanos",
+        "short_name": null,
+        "official_website": "http:\/\/www.jdc.edu.co\/",
+        "aliases": null,
+        "latitude": 5.5250389,
+        "longitude": -73.3656111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29052690",
+        "name": "Fundación Universitaria Juan N. Corpas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29052693",
+        "name": "Fundación Universitaria Konrad Lorenz",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136192221",
+        "name": "German Football Academy Popayan",
+        "short_name": null,
+        "official_website": "https:\/\/aafp.com.co\/",
+        "aliases": null,
+        "latitude": 2.473761,
+        "longitude": -76.611113,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5838876",
+        "name": "High School of Public Administration of Colombia. (ESAP)",
+        "short_name": null,
+        "official_website": "http:\/\/www.esap.edu.co",
+        "aliases": [
+            "ESAP",
+            "Escuela Superior de Administración Pública"
+        ],
+        "latitude": 4.64445,
+        "longitude": -74.09287,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61549178",
+        "name": "Holberton School",
+        "short_name": null,
+        "official_website": "https:\/\/www.holbertonschool.com\/",
+        "aliases": [
+            "Holberton School of Engineering",
+            "TechMeAbroad"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16440720",
+        "name": "IDEAS University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ideas.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1053303",
+        "name": "Industrial University of Santander",
+        "short_name": null,
+        "official_website": "http:\/\/www.uis.edu.co\/",
+        "aliases": [
+            "Universidad Industrial de Santander"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15075202",
+        "name": "Institución Universitaria Americana",
+        "short_name": null,
+        "official_website": "https:\/\/americana.edu.co\/barranquilla",
+        "aliases": null,
+        "latitude": 10.9912,
+        "longitude": -74.8071,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29052628",
+        "name": "Institución Universitaria Bellas Artes y Ciencias de Bolívar",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5917115",
+        "name": "Institución Universitaria de Envigado",
+        "short_name": null,
+        "official_website": "http:\/\/www.iue.edu.co",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108738282",
+        "name": "Institución Universitaria EAM",
+        "short_name": null,
+        "official_website": "http:\/\/www.eam.edu.co",
+        "aliases": null,
+        "latitude": 4.54175,
+        "longitude": -75.6635556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294126",
+        "name": "Institución Universitaria Escuela Nacional del Deporte",
+        "short_name": null,
+        "official_website": "http:\/\/www.endeporte.edu.co\/",
+        "aliases": [
+            "END",
+            "La Escuela"
+        ],
+        "latitude": 3.4263528,
+        "longitude": -76.5371444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115598856",
+        "name": "Institución Universitaria Escuela Nacional del Deporte",
+        "short_name": null,
+        "official_website": "https:\/\/www.endeporte.edu.co\/",
+        "aliases": [
+            "END"
+        ],
+        "latitude": 3.4263528,
+        "longitude": -76.5371444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29052658",
+        "name": "Institución Universitaria Esumer",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6081858",
+        "name": "Institución Universitaria Politécnico Grancolombiano",
+        "short_name": null,
+        "official_website": "http:\/\/www.poli.edu.co\/editorial",
+        "aliases": [
+            "Poli",
+            "Politecnico Grancolombiano"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29052660",
+        "name": "Institución Universitaria Salazar y Herrera",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131756706",
+        "name": "Institución universitaria Visión de las Américas",
+        "short_name": null,
+        "official_website": "https:\/\/www.uam.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74541204",
+        "name": "Institute of Environmental Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IDEA-Bogotá",
+            "Institute of Environmental Studies, National University of Colombia",
+            "Universidad Nacional de Colombia, Posgrados en Gestión Ambiental, Institutos de Estudios Ambientales"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q130556193",
+        "name": "Instituto de Investigaciones Estéticas",
+        "short_name": null,
+        "official_website": "http:\/\/www.iie.unal.edu.co\/",
+        "aliases": [
+            "Institute of Aesthetics Researchs"
+        ],
+        "latitude": 4.6357834,
+        "longitude": -74.0804406,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30294129",
+        "name": "Instituto Departamental de Bellas Artes",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5858476",
+        "name": "Instituto Nacional de Cancerología",
+        "short_name": null,
+        "official_website": "https:\/\/www.cancer.gov.co\/",
+        "aliases": [
+            "National Cancer Institute",
+            "Instituto Nacional de Cancerologia"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q127605584",
+        "name": "Instituto para el desarrollo de la Educación y la Pedagogía",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IDEP"
+        ],
+        "latitude": 4.6596708,
+        "longitude": -74.1062705,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74432283",
+        "name": "Instituto para la Investigación educativa y el Desarrollo Pedagógico - IDEP",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1054314",
+        "name": "International Center for Tropical Agriculture",
+        "short_name": null,
+        "official_website": "http:\/\/ciat.cgiar.org\/",
+        "aliases": [
+            "Centro Internacional de Agricultura Tropical - CIAT",
+            "CIAT"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5871527",
+        "name": "International University Foundation of the American Tropics",
+        "short_name": null,
+        "official_website": "http:\/\/www.unitropico.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5937434",
+        "name": "Jorge Tadeo Lozano University",
+        "short_name": null,
+        "official_website": "http:\/\/www.utadeo.edu.co\/",
+        "aliases": null,
+        "latitude": 4.6068056,
+        "longitude": -74.0675556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5838703",
+        "name": "José María Córdova Military Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.esmic.edu.co\/esmic",
+        "aliases": [
+            "Academia Militar José María Córdova",
+            "ESMIC"
+        ],
+        "latitude": 4.6788889,
+        "longitude": -74.0702778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156504",
+        "name": "La Gran Colombia University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ugc.edu.co",
+        "aliases": null,
+        "latitude": 4.601175,
+        "longitude": -74.0656611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6465150",
+        "name": "La Salle University, Colombia",
+        "short_name": null,
+        "official_website": "https:\/\/www.lasalle.edu.co",
+        "aliases": [
+            "Unisalle"
+        ],
+        "latitude": 4.643957,
+        "longitude": -74.060255,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5500137",
+        "name": "Libre University of Colombia",
+        "short_name": null,
+        "official_website": "https:\/\/www.unilibre.edu.co",
+        "aliases": null,
+        "latitude": 4.5952778,
+        "longitude": -74.0755556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7747060",
+        "name": "Los Libertadores University Foundation",
+        "short_name": null,
+        "official_website": "https:\/\/www.ulibertadores.edu.co\/",
+        "aliases": [
+            "Fundación Universitaria Los Libertadores"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6753029",
+        "name": "Manuela Beltrán University",
+        "short_name": null,
+        "official_website": "http:\/\/www.umb.edu.co\/",
+        "aliases": [
+            "Manuela Beltran University"
+        ],
+        "latitude": 4.6422222,
+        "longitude": -74.0544444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5871656",
+        "name": "Maria Cano University Foundation",
+        "short_name": null,
+        "official_website": "http:\/\/www.fumc.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q24960478",
+        "name": "Metropolitan Technological Institute (Medellin)",
+        "short_name": null,
+        "official_website": "http:\/\/www.itm.edu.co\/",
+        "aliases": [
+            "ITM",
+            "Instituto Tecnológico Metropolitano"
+        ],
+        "latitude": 6.2736111,
+        "longitude": -75.5887769,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16644479",
+        "name": "Metropolitan University",
+        "short_name": null,
+        "official_website": "http:\/\/www.unimetro.edu.co\/",
+        "aliases": [
+            "Universisad Metropolitana"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74536059",
+        "name": "National Academy of Medicine of Colombia",
+        "short_name": null,
+        "official_website": "https:\/\/anmdecolombia.org.co\/",
+        "aliases": [
+            "Academia Nacional de Medicina de Colombia"
+        ],
+        "latitude": 4.6517873,
+        "longitude": -74.057571,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q21572744",
+        "name": "National Center for Historical Memory",
+        "short_name": null,
+        "official_website": "http:\/\/www.centrodememoriahistorica.gov.co\/",
+        "aliases": [
+            "NCHM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5556466",
+        "name": "National Open and Distance University",
+        "short_name": null,
+        "official_website": "http:\/\/www.unad.edu.co",
+        "aliases": [
+            "UNAD"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2495711",
+        "name": "National Pedagogic University",
+        "short_name": null,
+        "official_website": "http:\/\/www.pedagogica.edu.co\/",
+        "aliases": [
+            "UPN"
+        ],
+        "latitude": 4.6581389,
+        "longitude": -74.0588333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6974078",
+        "name": "National Training Service",
+        "short_name": null,
+        "official_website": "http:\/\/www.sena.edu.co\/",
+        "aliases": [
+            "SENA",
+            "Servicio Nacional de Aprendizaje"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1150419",
+        "name": "National University of Colombia",
+        "short_name": null,
+        "official_website": "https:\/\/unal.edu.co\/",
+        "aliases": [
+            "UN",
+            "u.n.c",
+            "Unal",
+            "Universidad Nacional",
+            "Universidad Nacional de Colombia"
+        ],
+        "latitude": 4.6355556,
+        "longitude": -74.0827778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979233",
+        "name": "National University of Colombia at Arauca",
+        "short_name": null,
+        "official_website": "http:\/\/www.arauca.unal.edu.co",
+        "aliases": null,
+        "latitude": 7.0163889,
+        "longitude": -70.7444444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894591",
+        "name": "National University of Colombia at Bogotá",
+        "short_name": null,
+        "official_website": "http:\/\/www.unal.edu.co",
+        "aliases": [
+            "Universidad Nacional Bogota",
+            "Universidad Nacional Bogotá",
+            "Universidad Nacional de Colombia en Bogota",
+            "Universidad Nacional de Colombia en Bogotá",
+            "Universidad Nacional de Colombia Sede Bogota",
+            "Universidad Nacional de Colombia Sede Bogotá",
+            "University City of Bogota"
+        ],
+        "latitude": 4.63777,
+        "longitude": -74.084,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979237",
+        "name": "National University of Colombia at Leticia",
+        "short_name": null,
+        "official_website": "http:\/\/www.imani.unal.edu.co",
+        "aliases": null,
+        "latitude": -4.193741,
+        "longitude": -69.940746,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979236",
+        "name": "National University of Colombia at Manizales",
+        "short_name": null,
+        "official_website": "http:\/\/www.manizales.unal.edu.co\/",
+        "aliases": null,
+        "latitude": 5.0556,
+        "longitude": -75.4867,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979235",
+        "name": "National University of Colombia at Medellín",
+        "short_name": null,
+        "official_website": "http:\/\/medellin.unal.edu.co",
+        "aliases": [
+            "National University of Colombia at Medellin",
+            "Universidad Nacional de Colombia, Sede Medellín"
+        ],
+        "latitude": 6.26219,
+        "longitude": -75.576968,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979238",
+        "name": "National University of Colombia at Palmira",
+        "short_name": null,
+        "official_website": "http:\/\/www.palmira.unal.edu.co",
+        "aliases": null,
+        "latitude": 3.511686,
+        "longitude": -76.307688,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3997334",
+        "name": "Our Lady of the Rosary University",
+        "short_name": null,
+        "official_website": "http:\/\/www.urosario.edu.co\/",
+        "aliases": [
+            "Del Rosario University",
+            "Universidad del Rosario"
+        ],
+        "latitude": 4.600231,
+        "longitude": -74.073465,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100927384",
+        "name": "Pacific Corporate University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3067794",
+        "name": "Pedagogical and Technological University of Colombia",
+        "short_name": null,
+        "official_website": "https:\/\/www.uptc.edu.co\/sitio\/portal\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7194466",
+        "name": "Pilot University of Colombia",
+        "short_name": null,
+        "official_website": "http:\/\/www.unipiloto.edu.co",
+        "aliases": null,
+        "latitude": 4.632222,
+        "longitude": -74.065278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q133208106",
+        "name": "Politecnico Mayor",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q132856626",
+        "name": "Politécnico de Colombia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q2038878",
+        "name": "Pontifical Bolivarian University",
+        "short_name": null,
+        "official_website": "https:\/\/www.upb.edu.co\/",
+        "aliases": [
+            "Universidad Pontificia Bolivariana"
+        ],
+        "latitude": 6.24245,
+        "longitude": -75.5898333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74555359",
+        "name": "Pontificia Universidad Javeriana - Facultad de Enfermería",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547828",
+        "name": "Pontificia Universidad Javeriana, Facultad de Ciencias de la Salud",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74536755",
+        "name": "Pontificia Universidad Javeriana, Facultad de Ciencias Sociales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74558211",
+        "name": "Pontificia Universidad Javeriana, Facultad de Comunicación y Lenguaje",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7229746",
+        "name": "Popular University of Cesar",
+        "short_name": null,
+        "official_website": "http:\/\/www.unicesar.edu.co",
+        "aliases": [
+            "UPC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74544521",
+        "name": "Programa de Enfermería (Facultad de Ciencias de la Salud)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100881521",
+        "name": "Q100881521",
+        "short_name": null,
+        "official_website": "https:\/\/cec.uniandes.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q108700571",
+        "name": "Q108700571",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123736833",
+        "name": "Q123736833",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 2.442852,
+        "longitude": -76.604774,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q129262433",
+        "name": "Q129262433",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130358817",
+        "name": "Q130358817",
+        "short_name": null,
+        "official_website": "https:\/\/uninavarra.edu.co\/uninavarra\/",
+        "aliases": null,
+        "latitude": 2.933491,
+        "longitude": -75.29893,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131947886",
+        "name": "Q131947886",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135559092",
+        "name": "Q135559092",
+        "short_name": null,
+        "official_website": "https:\/\/umayor.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136006357",
+        "name": "Q136006357",
+        "short_name": null,
+        "official_website": "https:\/\/www.javerianacali.edu.co\/",
+        "aliases": null,
+        "latitude": 3.3469286,
+        "longitude": -76.5325876,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136307540",
+        "name": "Q136307540",
+        "short_name": null,
+        "official_website": "https:\/\/sanagustin.edu.co",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q136376570",
+        "name": "Q136376570",
+        "short_name": null,
+        "official_website": "https:\/\/www.uniagustiniana.edu.co\/",
+        "aliases": null,
+        "latitude": 4.6529962,
+        "longitude": -74.14483,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25412585",
+        "name": "Q25412585",
+        "short_name": null,
+        "official_website": "https:\/\/www.mineducacion.gov.co\/1621\/w3-article-345504.html",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6048295",
+        "name": "Q6048295",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74545485",
+        "name": "Red Iberoamericana de Pedagogía",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74557720",
+        "name": "Red Latinoamericana de Etnomatemática",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5871533",
+        "name": "Saint Martin University",
+        "short_name": null,
+        "official_website": "http:\/\/190.254.23.166\/index.php",
+        "aliases": [
+            "FUSM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7402232",
+        "name": "Saint Thomas Aquinas University",
+        "short_name": null,
+        "official_website": "http:\/\/www.usta.edu.co\/",
+        "aliases": [
+            "Universidad Santo Tomás"
+        ],
+        "latitude": 4.6380556,
+        "longitude": -74.0644444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7454179",
+        "name": "Sergio Arboleda University",
+        "short_name": null,
+        "official_website": "http:\/\/www.usergioarboleda.edu.co\/",
+        "aliases": [
+            "Universidad Sergio Arboleda"
+        ],
+        "latitude": 4.660803,
+        "longitude": -74.059836,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16644549",
+        "name": "Simón Bolívar University",
+        "short_name": null,
+        "official_website": "http:\/\/www.unisimon.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74554376",
+        "name": "Sociedad Colombiana de Urologia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4968008",
+        "name": "South Colombian University",
+        "short_name": null,
+        "official_website": "http:\/\/www.usco.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16143173",
+        "name": "Superior Academy of Arts of Bogotá",
+        "short_name": null,
+        "official_website": "http:\/\/fasab.udistrital.edu.co:8080\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29052717",
+        "name": "Technological Institute of Soledad, Atlántico",
+        "short_name": null,
+        "official_website": "http:\/\/www.itsa.edu.co\/",
+        "aliases": [
+            "ITSA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7692509",
+        "name": "Technological University of Choco",
+        "short_name": null,
+        "official_website": "http:\/\/www.utch.edu.co\/",
+        "aliases": [
+            "CHOCO",
+            "Universidad Tecnológica del Chocó Diego Luis Córdoba"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131933566",
+        "name": "Tecnológica FITEC",
+        "short_name": null,
+        "official_website": "http:\/\/www.fitec.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q648599",
+        "name": "Tecnológico de Antioquia",
+        "short_name": null,
+        "official_website": "http:\/\/www.tdea.edu.co",
+        "aliases": [
+            "Tecnologico de Antioquia",
+            "Tecnológico de Antioquia Institución Universitaria"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131946828",
+        "name": "Unidad Tecnológica del Magdalena Medio UTEM",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156336",
+        "name": "Universidad Antonio Nariño",
+        "short_name": null,
+        "official_website": "https:\/\/www.uan.edu.co\/",
+        "aliases": null,
+        "latitude": 4.6500398,
+        "longitude": -74.082329,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894240",
+        "name": "Universidad Autónoma de Occidente",
+        "short_name": null,
+        "official_website": "http:\/\/www.uao.edu.co",
+        "aliases": [
+            "Universidad Autonoma de Occidente"
+        ],
+        "latitude": 3.35389,
+        "longitude": -76.5228,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156365",
+        "name": "Universidad Autónoma del Caribe",
+        "short_name": null,
+        "official_website": "https:\/\/www.uac.edu.co\/",
+        "aliases": [
+            "UAC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125956076",
+        "name": "Universidad Autónoma Indígena Intercultural",
+        "short_name": null,
+        "official_website": "https:\/\/uaiinpebi-cric.edu.co\/",
+        "aliases": null,
+        "latitude": 2.4930355,
+        "longitude": -76.5651808,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19521853",
+        "name": "Universidad Autónoma Latinoamericana",
+        "short_name": null,
+        "official_website": "http:\/\/www.unaula.edu.co\/",
+        "aliases": [
+            "Autonomous Latin American University",
+            "UNAULA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74544965",
+        "name": "Universidad Católica de Colombia, Facultad de Arquitectura",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7894254",
+        "name": "Universidad Católica de Oriente",
+        "short_name": null,
+        "official_website": "http:\/\/www.uco.edu.co\/",
+        "aliases": [
+            "Universidad Catolica de Oriente"
+        ],
+        "latitude": 6.15045,
+        "longitude": -75.36634,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156401",
+        "name": "Universidad Católica de Pereira",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucp.edu.co",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2878598",
+        "name": "Universidad Cooperativa de Colombia",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucc.edu.co",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74548758",
+        "name": "Universidad Cooperativa de Colombia, Facultad de Derecho",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74550846",
+        "name": "Universidad Cooperativa de Colombia, Instituto Nacional de Medicina Legal y Ciencias Forenses",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527848",
+        "name": "Universidad de Antioquia, Instituto de Biología",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74538055",
+        "name": "Universidad de Antioquia, Instituto de Estudios Políticos",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74535869",
+        "name": "Universidad de Antioquía, Escuela Interamericana de Bibliotecología",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74536095",
+        "name": "Universidad de Antioquía, Instituto de Filosofía",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528780",
+        "name": "Universidad de Caldas, Vicerrectoría de Investigaciones y Posgrados",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7895227",
+        "name": "Universidad de Cartagena",
+        "short_name": null,
+        "official_website": "https:\/\/www.unicartagena.edu.co\/",
+        "aliases": null,
+        "latitude": 10.4255339,
+        "longitude": -75.5498131,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74552607",
+        "name": "Universidad de Cartagena, Programa de Historia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528776",
+        "name": "Universidad de Córdoba, Facultad de Ciencias Agrícolas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156770",
+        "name": "Universidad de Ibagué",
+        "short_name": null,
+        "official_website": "http:\/\/www.unibague.edu.co\/",
+        "aliases": [
+            "Universidad de Ibague",
+            "University Corporation of Ibagué",
+            "University of Ibagué"
+        ],
+        "latitude": 4.4482889,
+        "longitude": -75.1989667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156833",
+        "name": "Universidad de la Costa",
+        "short_name": null,
+        "official_website": "https:\/\/www.cuc.edu.co\/",
+        "aliases": null,
+        "latitude": 10.9947222,
+        "longitude": -74.7911111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74547789",
+        "name": "Universidad de los Andes, Departamento de Ciencia Política",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74557793",
+        "name": "Universidad de los Andes, Departamento de Humanidades y Literatura",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552197",
+        "name": "Universidad de los Andes, Ediciones Uniandes",
+        "short_name": null,
+        "official_website": "https:\/\/ediciones.uniandes.edu.co\/Paginas\/Home.aspx",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74543253",
+        "name": "Universidad de los Andes, Facultad de Derecho",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156781",
+        "name": "Universidad de Manizales",
+        "short_name": null,
+        "official_website": "http:\/\/www.umanizales.edu.co",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74557414",
+        "name": "Universidad de Manizales, Centro de Estudios Avanzados en Niñez y Juventud",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74535852",
+        "name": "Universidad de Nariño, Facultad de Ciencias Agrícolas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74537953",
+        "name": "Universidad de Nariño, Facultad de Ciencias Económicas y Administrativas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156813",
+        "name": "Universidad de San Buenaventura",
+        "short_name": null,
+        "official_website": "http:\/\/www.usb.edu.co\/",
+        "aliases": [
+            "USB"
+        ],
+        "latitude": 4.75123,
+        "longitude": -74.03002,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16644592",
+        "name": "Universidad de San Buenaventura Sede Cali",
+        "short_name": null,
+        "official_website": "http:\/\/www.usbcali.edu.co",
+        "aliases": null,
+        "latitude": 3.344888,
+        "longitude": -76.543862,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74548127",
+        "name": "Universidad de San Buenaventura, sede Bogotá",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74543988",
+        "name": "Universidad del Cauca, Facultad Ciencias de la Salud",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7894343",
+        "name": "Universidad del Norte, Colombia",
+        "short_name": null,
+        "official_website": "http:\/\/www.uninorte.edu.co",
+        "aliases": [
+            "Uninorte",
+            "University of the North, Colombia"
+        ],
+        "latitude": 11.0180556,
+        "longitude": -74.8511111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74551951",
+        "name": "Universidad del Norte, División de Ciencias de la Salud",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74557151",
+        "name": "Universidad del Norte, División de Derecho, Ciencia política y Relaciones Internacionales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156853",
+        "name": "Universidad del Sinú",
+        "short_name": null,
+        "official_website": "http:\/\/www.unisinu.edu.co",
+        "aliases": null,
+        "latitude": 8.7671006,
+        "longitude": -75.8851118,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74527422",
+        "name": "Universidad del Valle, Centro de Investigaciones y Estudios de Género, Mujer y Sociedad",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5808016",
+        "name": "Universidad Dirección Nacional de Escuelas y Educación Policial DIEPO",
+        "short_name": null,
+        "official_website": "https:\/\/policia.edu.co\/",
+        "aliases": [
+            "DIEPO",
+            "DINAE"
+        ],
+        "latitude": 4.58617,
+        "longitude": -74.13172,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74527813",
+        "name": "Universidad Distrital Francisco José de Caldas, Centro de Investigaciones y Desarrollo Científico CIDC y Facultad de Artes ASAB",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74536759",
+        "name": "Universidad Distrital Francisco José de Caldas, Grupo de Investigación Enseñanza y Aprendizaje de la Física Universidad Distrital",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74555725",
+        "name": "Universidad EAFIT, Escuela de Economía",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7894273",
+        "name": "Universidad Externado de Colombia",
+        "short_name": null,
+        "official_website": "http:\/\/www.uexternado.edu.co",
+        "aliases": [
+            "Externado University"
+        ],
+        "latitude": 4.5958,
+        "longitude": -74.0684,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5969511",
+        "name": "Universidad Icesi",
+        "short_name": null,
+        "official_website": "http:\/\/www.icesi.edu.co",
+        "aliases": [
+            "ICESI",
+            "ICESI University"
+        ],
+        "latitude": 3.341571,
+        "longitude": -76.530198,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74545639",
+        "name": "Universidad Icesi, Facultad de Derecho y Ciencias Sociales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16302657",
+        "name": "Universidad INCCA de Colombia",
+        "short_name": null,
+        "official_website": "https:\/\/www.unincca.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156527",
+        "name": "Universidad Mariana",
+        "short_name": null,
+        "official_website": "https:\/\/www.umariana.edu.co\/index.html",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74553264",
+        "name": "Universidad Militar Nueva Granada, Facultad de Derecho",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529679",
+        "name": "Universidad Nacional de Colombia (Sede Medellín).  Facultad de Ciencias Humanas y Económicas. Departamento de Economía",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16644508",
+        "name": "Universidad Nacional de Colombia sede Tumaco",
+        "short_name": null,
+        "official_website": "http:\/\/www.tumaco-pacifico.unal.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74547420",
+        "name": "Universidad Nacional de Colombia, Departamento de Geografía",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547455",
+        "name": "Universidad Nacional de Colombia, Departamento de Historia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74555653",
+        "name": "Universidad Nacional de Colombia, Departamento de Quimica",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74536465",
+        "name": "Universidad Nacional de Colombia, Facultad de Filosofia Letras",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547873",
+        "name": "Universidad Nacional De Colombia, Facultad de Odontología",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74543428",
+        "name": "Universidad Nacional de Colombia, Instituto de Biotecnologia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16494704",
+        "name": "Universidad Nacional de Colombia. Sede Caribe",
+        "short_name": null,
+        "official_website": "http:\/\/www.caribe.unal.edu.co\/",
+        "aliases": null,
+        "latitude": 12.536718,
+        "longitude": -81.711867,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74551495",
+        "name": "Universidad Pedagógica Nacional, Centro de Investigaciones",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74538988",
+        "name": "Universidad Pedagógica y Tecnológica de Colombia, Escuela de Filosofía y Humanidades",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74537563",
+        "name": "Universidad Pedagógica y Tecnológica de Colombia, Sociedad de Historia de la Educación Latinoamericana",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529999",
+        "name": "Universidad Pontificia Bolivariana, Escuela de Teología, Filosofía y Humanidades",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q124164118",
+        "name": "Universidad Republicana",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74528963",
+        "name": "Universidad Santo Tomás, Facultad de Derecho, Centro de Investigaciones Francisco de Vitoria",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156882",
+        "name": "Universitaria de Investigación y Desarrollo",
+        "short_name": null,
+        "official_website": "http:\/\/www.udi.edu.co",
+        "aliases": [
+            "UDI"
+        ],
+        "latitude": 7.1385022,
+        "longitude": -73.1241833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131933644",
+        "name": "Universitaria del Chicamocha",
+        "short_name": null,
+        "official_website": "https:\/\/unich.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q64684504",
+        "name": "University Corporation of Asturias",
+        "short_name": null,
+        "official_website": "https:\/\/uniasturias.edu.co\/",
+        "aliases": null,
+        "latitude": 4.6642769,
+        "longitude": -74.0604253,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q128213468",
+        "name": "University Foundation for Human Development - Uninpahu",
+        "short_name": null,
+        "official_website": "https:\/\/uninpahu.edu.co\/",
+        "aliases": null,
+        "latitude": 4.6294237,
+        "longitude": -74.0698828,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294027",
+        "name": "University Institution Pascual Bravo",
+        "short_name": null,
+        "official_website": "http:\/\/www.pascualbravo.edu.co\/",
+        "aliases": [
+            "Instituto Técnico Industrial Pascual Bravo"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19006769",
+        "name": "University Mayor of Colombia",
+        "short_name": null,
+        "official_website": "http:\/\/www.unicolmayor.edu.co\/",
+        "aliases": [
+            "UMC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11050122",
+        "name": "University of America",
+        "short_name": null,
+        "official_website": "http:\/\/www.uamerica.edu.co\/",
+        "aliases": [
+            "Fundación Universidad de América",
+            "Universidad de América"
+        ],
+        "latitude": 4.601893,
+        "longitude": -74.061818,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1258413",
+        "name": "University of Antioquia",
+        "short_name": null,
+        "official_website": "https:\/\/www.udea.edu.co\/",
+        "aliases": [
+            "UdeA"
+        ],
+        "latitude": 6.26706,
+        "longitude": -75.56941,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1195830",
+        "name": "University of Applied and Environmental Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.udca.edu.co",
+        "aliases": [
+            "Universidad de Ciencias Aplicadas y Ambientales"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q422166",
+        "name": "University of Atlántico",
+        "short_name": null,
+        "official_website": "https:\/\/www.uniatlantico.edu.co",
+        "aliases": [
+            "University of Atlantico"
+        ],
+        "latitude": 11.0191934,
+        "longitude": -74.8753886,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895130",
+        "name": "University of Boyaca",
+        "short_name": null,
+        "official_website": "http:\/\/www.uniboyaca.edu.co\/index.php",
+        "aliases": [
+            "UB"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895150",
+        "name": "University of Caldas",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucaldas.edu.co",
+        "aliases": [
+            "Universidad de Caldas"
+        ],
+        "latitude": 5.05611,
+        "longitude": -75.4928,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1137779",
+        "name": "University of Cauca",
+        "short_name": null,
+        "official_website": "http:\/\/www.unicauca.edu.co\/",
+        "aliases": null,
+        "latitude": 2.44083,
+        "longitude": -76.60472,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895312",
+        "name": "University of Cordoba",
+        "short_name": null,
+        "official_website": "http:\/\/www.unicordoba.edu.co",
+        "aliases": [
+            "Universidad de Cordoba",
+            "Universidad de Córdoba",
+            "Unicor",
+            "Unicórdoba"
+        ],
+        "latitude": 8.78778,
+        "longitude": -75.8578,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895317",
+        "name": "University of Cundinamarca",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucundinamarca.edu.co\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q192537",
+        "name": "University of La Guajira",
+        "short_name": null,
+        "official_website": "http:\/\/www.uniguajira.edu.co",
+        "aliases": [
+            "Uniguajira"
+        ],
+        "latitude": 11.3810042,
+        "longitude": -72.2610622,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895617",
+        "name": "University of La Sabana",
+        "short_name": null,
+        "official_website": "https:\/\/www.unisabana.edu.co\/",
+        "aliases": [
+            "Universidad de La Sabana"
+        ],
+        "latitude": 4.86111,
+        "longitude": -74.0336,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23730901",
+        "name": "University of La Salle Utopia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 5.32336,
+        "longitude": -72.29266,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895650",
+        "name": "University of Magdalena",
+        "short_name": null,
+        "official_website": "http:\/\/www.unimagdalena.edu.co\/",
+        "aliases": null,
+        "latitude": 11.22157,
+        "longitude": -74.1862,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156785",
+        "name": "University of Medellín",
+        "short_name": null,
+        "official_website": "https:\/\/udemedellin.edu.co",
+        "aliases": [
+            "UdeMedellín",
+            "Universidad de Medellín"
+        ],
+        "latitude": 6.2311,
+        "longitude": -75.6115,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1547837",
+        "name": "University of Nariño",
+        "short_name": null,
+        "official_website": "http:\/\/www.udenar.edu.co",
+        "aliases": [
+            "Udenar",
+            "Universidad de Nariño"
+        ],
+        "latitude": 1.2341667,
+        "longitude": -77.2852778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1424614",
+        "name": "University of Pamplona",
+        "short_name": null,
+        "official_website": "http:\/\/www.unipamplona.edu.co\/",
+        "aliases": [
+            "UP"
+        ],
+        "latitude": 7.385946,
+        "longitude": -72.649995,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896198",
+        "name": "University of Quindio",
+        "short_name": null,
+        "official_website": "http:\/\/www.uniquindio.edu.co",
+        "aliases": null,
+        "latitude": 4.555,
+        "longitude": -75.6597,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156819",
+        "name": "University of Santander",
+        "short_name": null,
+        "official_website": "http:\/\/www.udes.edu.co",
+        "aliases": [
+            "Universidad de Santander"
+        ],
+        "latitude": 7.105563,
+        "longitude": -73.095278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5575968",
+        "name": "University of Santiago de Cali",
+        "short_name": null,
+        "official_website": "http:\/\/www.usc.edu.co\/",
+        "aliases": null,
+        "latitude": 3.403412,
+        "longitude": -76.547719,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896369",
+        "name": "University of Sucre",
+        "short_name": null,
+        "official_website": "http:\/\/www.unisucre.edu.co\/",
+        "aliases": [
+            "Unisucre"
+        ],
+        "latitude": 9.31467,
+        "longitude": -75.3884,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896685",
+        "name": "University of the Amazoneishon",
+        "short_name": null,
+        "official_website": "https:\/\/www.udla.edu.co\/v10\/",
+        "aliases": null,
+        "latitude": 1.619816,
+        "longitude": -75.604029,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1569421",
+        "name": "University of the Andes",
+        "short_name": null,
+        "official_website": "https:\/\/uniandes.edu.co\/",
+        "aliases": [
+            "Universidad de Los Andes",
+            "Andes University",
+            "Uniandes",
+            "Universidad de los Andes",
+            "Universidad de Los Andes, Colombia",
+            "University of Los Andes"
+        ],
+        "latitude": 4.6012,
+        "longitude": -74.0657,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2495744",
+        "name": "University of the Llanos",
+        "short_name": null,
+        "official_website": "http:\/\/www.unillanos.edu.co\/",
+        "aliases": [
+            "Unillanos"
+        ],
+        "latitude": 4.075,
+        "longitude": -73.5853,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896713",
+        "name": "University of the Pacific",
+        "short_name": null,
+        "official_website": "http:\/\/www.unipacifico.edu.co\/",
+        "aliases": [
+            "Universidad del Pacifico (Colombia)"
+        ],
+        "latitude": 3.8478,
+        "longitude": -76.9992,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896472",
+        "name": "University of Tolima",
+        "short_name": null,
+        "official_website": "http:\/\/www.ut.edu.co\/",
+        "aliases": [
+            "UT"
+        ],
+        "latitude": 4.428242,
+        "longitude": -75.213478,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3117949",
+        "name": "University of Valle",
+        "short_name": null,
+        "official_website": "http:\/\/www.univalle.edu.co",
+        "aliases": [
+            "Universidad del Valle",
+            "Univalle"
+        ],
+        "latitude": 3.37501,
+        "longitude": -76.53445,
+        "type": "university"
+    }
+]

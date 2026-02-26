@@ -1,0 +1,151 @@
+[
+    {
+        "wikidata_id": "Q4100163",
+        "name": "College of Language and Culture Studies",
+        "short_name": null,
+        "official_website": "https:\/\/www.clcs.edu.bt\/",
+        "aliases": null,
+        "latitude": 27.4391,
+        "longitude": 90.4805,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15211235",
+        "name": "College of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/cst.edu.bt\/",
+        "aliases": null,
+        "latitude": 26.8503,
+        "longitude": 89.394,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5516504",
+        "name": "Gaeddu College of Business Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.gcbs.edu.bt\/",
+        "aliases": null,
+        "latitude": 26.922819,
+        "longitude": 89.522039,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q86663201",
+        "name": "Khesar Gyalpo University of Medical Sciences of Bhutan",
+        "short_name": null,
+        "official_website": "https:\/\/www.kgumsb.edu.bt\/",
+        "aliases": [
+            "KGUMSB",
+            "Khesar Gyalpo University of Medical Sciences",
+            "UMBS",
+            "University of Medical Sciences of Bhutan"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6666251",
+        "name": "Loden Foundation",
+        "short_name": null,
+        "official_website": "http:\/\/www.loden.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7139349",
+        "name": "Paro College of Education",
+        "short_name": null,
+        "official_website": "http:\/\/www.pce.edu.bt\/Homepage.html",
+        "aliases": [
+            "spa ro shes rig mtho rim slob grwa"
+        ],
+        "latitude": 27.417,
+        "longitude": 89.4228,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4233753",
+        "name": "Royal Institute of Health Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 27.4647222,
+        "longitude": 89.6372222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7374919",
+        "name": "Royal Thimphu College",
+        "short_name": null,
+        "official_website": "https:\/\/www.rtc.bt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2640138",
+        "name": "Royal University of Bhutan",
+        "short_name": null,
+        "official_website": "http:\/\/www.rub.edu.bt\/",
+        "aliases": [
+            "brug rgyal-'dzin gtsug-lag-slob-sde"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000313",
+        "name": "Royal University of Bhutan Institute of Language and Culture Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q101000316",
+        "name": "Royal University of Bhutan Royal Institute of Health Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q101000299",
+        "name": "Royal University of Bhutan Sherubtse College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7410660",
+        "name": "Samtse College of Education",
+        "short_name": null,
+        "official_website": "http:\/\/www.sce.edu.bt\/index.php",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2017028",
+        "name": "Sherubtse College",
+        "short_name": null,
+        "official_website": "http:\/\/www.sherubtse.edu.bt\/",
+        "aliases": null,
+        "latitude": 27.287112,
+        "longitude": 91.523677,
+        "type": "university"
+    }
+]

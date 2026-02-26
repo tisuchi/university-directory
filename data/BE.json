@@ -1,0 +1,3195 @@
+[
+    {
+        "wikidata_id": "Q104962456",
+        "name": "'t Klein Atheneum - BS, MS, CLB Tienen",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.852657,
+        "longitude": 4.353212,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106916019",
+        "name": "42",
+        "short_name": null,
+        "official_website": "https:\/\/42.us.org",
+        "aliases": [
+            "42",
+            "42 school",
+            "School 42"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q337461",
+        "name": "Académie Louvain",
+        "short_name": null,
+        "official_website": "http:\/\/www.academielouvain.be\/",
+        "aliases": [
+            "Academie Louvain"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104960394",
+        "name": "Albertschool",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.230642,
+        "longitude": 2.918855,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q13430595",
+        "name": "AP University of Applied Sciences and Arts",
+        "short_name": null,
+        "official_website": "https:\/\/www.ap.be\/",
+        "aliases": [
+            "Artesis Plantijn University College of Antwerp"
+        ],
+        "latitude": 51.2216667,
+        "longitude": 4.4069444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123232301",
+        "name": "Arras College, Leuven",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104961245",
+        "name": "Artesis Plantijn Hogeschool Campus Ellermanstraat",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.23012,
+        "longitude": 4.416177,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104962375",
+        "name": "Arteveldehogeschool (building)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.0408306,
+        "longitude": 3.7281332,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104960065",
+        "name": "Basisschool De Brug",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.935177,
+        "longitude": 3.97733,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104962361",
+        "name": "Basisschool De Groeiboom GO!",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.229436,
+        "longitude": 2.916318,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104960027",
+        "name": "Basisschool De Linde",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.016833,
+        "longitude": 2.959631,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104962221",
+        "name": "Basisschool De Mote",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.854214,
+        "longitude": 2.878599,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104962632",
+        "name": "Basisschool De Regenboog",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.9324251,
+        "longitude": 4.3653435,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104960857",
+        "name": "Basisschool De Springplank",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.21433,
+        "longitude": 3.220012,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104960865",
+        "name": "Basisschool De Zonnebloem",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.0123912,
+        "longitude": 5.2053952,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104962250",
+        "name": "Basisschool Sint-Gillis",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.8349158,
+        "longitude": 4.3405414,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104962826",
+        "name": "Basisschool Sint-Ursula",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.871223,
+        "longitude": 4.348899,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104961271",
+        "name": "Basisschool voor Buitengewoon Onderwijs Rumst",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.1071046,
+        "longitude": 4.3902819,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104961240",
+        "name": "Basisschool Zonnekind",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.356067,
+        "longitude": 4.47443,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74539688",
+        "name": "Belgian Association for Psychological Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/www.baps.be",
+        "aliases": [
+            "BAPS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q125213007",
+        "name": "Bollekensschool",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.04406,
+        "longitude": 3.70664,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109312233",
+        "name": "Bosquetville municipal school",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.4063889,
+        "longitude": 4.4475,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42054838",
+        "name": "Breugelcollege",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q123980581",
+        "name": "Brulabo",
+        "short_name": null,
+        "official_website": "http:\/\/www.brulabo.irisnet.be\/",
+        "aliases": [
+            "Brussels Intercommunaal Laboratorium voor Scheikunde en Bacteriologie",
+            "Laboratoire Intercommunale Bruxellois de Chimie et de Bactériologie"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q110404144",
+        "name": "Brussels Institute for Advanced Studies",
+        "short_name": "BrIAS",
+        "official_website": "https:\/\/brias.be\/",
+        "aliases": [
+            "BrIAS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q129005130",
+        "name": "Brussels Research Institute for Pediatrics",
+        "short_name": "BRIP",
+        "official_website": null,
+        "aliases": [
+            "BRIP"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4979801",
+        "name": "Brussels School of International Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.kent.ac.uk\/brussels\/BSIS",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q114562391",
+        "name": "Brussels Studies Institute",
+        "short_name": null,
+        "official_website": "https:\/\/bsi.brussels\/",
+        "aliases": [
+            "BSI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q104961887",
+        "name": "BSBO",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.1730713,
+        "longitude": 4.8285799,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104962032",
+        "name": "BSGO",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.831587,
+        "longitude": 4.407614,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104962575",
+        "name": "Campus 'Kattenberg', Arteveldehogeschool",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.0425454,
+        "longitude": 3.7239344,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q117352107",
+        "name": "Campus Pacheco",
+        "short_name": null,
+        "official_website": "https:\/\/campuspacheco.be\/",
+        "aliases": null,
+        "latitude": 50.84948,
+        "longitude": 4.3619,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q118346999",
+        "name": "Campus Sint-Michiel",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.86443,
+        "longitude": 4.34181,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104960234",
+        "name": "Campus Unesco Koekelberg",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.865757,
+        "longitude": 4.308622,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q32956933",
+        "name": "Catholic university of Mons",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "FUCaM",
+            "F.U.Ca.M.",
+            "Faculté Universitaire Catholique de Mons"
+        ],
+        "latitude": 50.4527778,
+        "longitude": 3.9830556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5010257",
+        "name": "CELSTEC",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.8779444,
+        "longitude": 5.9583333,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5062259",
+        "name": "Centre Européen de Recherches Internationales et Stratégiques",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Centre Europeen de Recherches Internationales et Strategiques"
+        ],
+        "latitude": 50.8288583,
+        "longitude": 4.3615444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5062563",
+        "name": "Centre for Research on the Epidemiology of Disasters",
+        "short_name": null,
+        "official_website": "https:\/\/www.cred.be\/",
+        "aliases": [
+            "CRED"
+        ],
+        "latitude": 50.849531,
+        "longitude": 4.449796,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2944869",
+        "name": "Centre Prospéro - Langage, image et connaissance",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Prospero"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q15208187",
+        "name": "CeReFiM",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.466661,
+        "longitude": 4.857434,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2931283",
+        "name": "Cetic",
+        "short_name": null,
+        "official_website": "https:\/\/www.cetic.be",
+        "aliases": [
+            "Center of Excellence in Technologies of Information and Communication"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q105985869",
+        "name": "Chapelle des Sœurs grises",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Chapelle Saint-Élisabeth",
+            "Chapelle Saint-Élisabeth de Hongrie",
+            "Saint Elizabeth Chapel",
+            "Saint Elizabeth of Hungary Chapel"
+        ],
+        "latitude": 50.3388457,
+        "longitude": 4.2913769,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28498963",
+        "name": "CIRIEC International",
+        "short_name": null,
+        "official_website": "http:\/\/www.ciriec.es\/",
+        "aliases": [
+            "C.I.R.I.E.C.",
+            "CIRIEC",
+            "International Center of Research and Information on the Public, Social and Cooperative Economy"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q117190825",
+        "name": "Climate Centre",
+        "short_name": null,
+        "official_website": "https:\/\/www.climatecentre.be\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1849851",
+        "name": "College O.-L.-V.-ten-Doorn",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.17945,
+        "longitude": 3.56682,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1109135",
+        "name": "College of Europe",
+        "short_name": null,
+        "official_website": "https:\/\/www.coleurope.eu\/",
+        "aliases": [
+            "Europacollege"
+        ],
+        "latitude": 51.2060694,
+        "longitude": 3.2259889,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q2983882",
+        "name": "Collège Royal Marie-Thérèse",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.6466944,
+        "longitude": 5.7990722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2983679",
+        "name": "Collège Saint-Servais",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "College Saint-Servais"
+        ],
+        "latitude": 50.6391667,
+        "longitude": 5.5633333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60848378",
+        "name": "Collège Érasme",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.669786,
+        "longitude": 4.610156,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1135178",
+        "name": "Corpus Vitrearum Medii Aevi",
+        "short_name": null,
+        "official_website": "https:\/\/corpusvitrearum.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18088837",
+        "name": "CTL",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104961794",
+        "name": "De Bladwijzer",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.9994517,
+        "longitude": 5.524453,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29576228",
+        "name": "de Duve Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.deduveinstitute.be\/",
+        "aliases": [
+            "Institute of Cellular Pathology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q104960249",
+        "name": "De Muziekladder",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.871973,
+        "longitude": 4.383037,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104960860",
+        "name": "De Vlindertuin Freinetschool",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.2365872,
+        "longitude": 4.8285878,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104961617",
+        "name": "Departement Gezondheidszorg & Technologie KH",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.8783449,
+        "longitude": 4.6739889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109288824",
+        "name": "Departement Horteco",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "HOR",
+            "HORTECO"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104960300",
+        "name": "DUBRUCQ",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.868258,
+        "longitude": 4.338567,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42432647",
+        "name": "Ecole Normale de Berkendael en de tuin",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.817575,
+        "longitude": 4.3485806,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2941686",
+        "name": "Economische Hogeschool Limburg",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109669432",
+        "name": "Ecotron",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.0019167,
+        "longitude": 5.7013056,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q27991319",
+        "name": "Elektron VZW",
+        "short_name": null,
+        "official_website": "https:\/\/elektronvzw.be\/",
+        "aliases": null,
+        "latitude": 50.8781773,
+        "longitude": 4.707259,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q104961219",
+        "name": "Energyville",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.997889,
+        "longitude": 5.535222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q118351827",
+        "name": "Episcopal College Our-Lady Ter Duinen",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q104960416",
+        "name": "Esac – Ecole supérieure des arts du Cirque",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.815403,
+        "longitude": 4.294858,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16685824",
+        "name": "Etablissement géographique de Bruxelles",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104962200",
+        "name": "Europacollege",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.205507,
+        "longitude": 3.224889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17085544",
+        "name": "European Association for Research on Learning and Instruction",
+        "short_name": "EARLI",
+        "official_website": "https:\/\/www.earli.org\/",
+        "aliases": [
+            "EARLI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16974742",
+        "name": "European Magnetic Field Laboratory",
+        "short_name": null,
+        "official_website": "https:\/\/emfl.eu\/a",
+        "aliases": [
+            "EMFL"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q788153",
+        "name": "European Security and Defence College",
+        "short_name": null,
+        "official_website": "https:\/\/esdc.europa.eu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1376969",
+        "name": "European Society of Human Reproduction and Embryology",
+        "short_name": null,
+        "official_website": "http:\/\/www.ESHRE.eu",
+        "aliases": [
+            "eshre.eu"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74540815",
+        "name": "European Society of Radiotherapy & Oncology",
+        "short_name": "ESTRO",
+        "official_website": "https:\/\/www.estro.org",
+        "aliases": [
+            "European Society for Radiotherapy & Oncology",
+            "European Society for Radiotherapy and Oncology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1266177",
+        "name": "European Trade Union Institute for Research",
+        "short_name": null,
+        "official_website": "http:\/\/www.etui.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q842911",
+        "name": "Evangelical Theological Faculty",
+        "short_name": null,
+        "official_website": "http:\/\/www.etf.edu",
+        "aliases": null,
+        "latitude": 50.868056,
+        "longitude": 4.663889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1393841",
+        "name": "Faculteit voor Protestantse Godgeleerdheid",
+        "short_name": null,
+        "official_website": "http:\/\/futp.be",
+        "aliases": null,
+        "latitude": 50.835534,
+        "longitude": 4.40447,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65043",
+        "name": "Faculté polytechnique de Mons",
+        "short_name": null,
+        "official_website": "http:\/\/portail.umons.ac.be\/FR\/universite\/facultes\/fpms",
+        "aliases": [
+            "Faculte polytechnique de Mons"
+        ],
+        "latitude": 50.4516667,
+        "longitude": 3.9533333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134620222",
+        "name": "FARI - AI for the Common Good Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.fari.brussels\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2297636",
+        "name": "Flanders Marine Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.vliz.be",
+        "aliases": [
+            "Vlaams Instituut voor de Zee"
+        ],
+        "latitude": 51.2328127,
+        "longitude": 2.9397846,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q66435874",
+        "name": "former Augustinian college",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.4093194,
+        "longitude": 4.1659194,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20754971",
+        "name": "Free University of Brussels",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ULB",
+            "FUB",
+            "Free University of Belgium"
+        ],
+        "latitude": 50.8223278,
+        "longitude": 4.3968645,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116768564",
+        "name": "Free University of Brussels Department of Mathematics",
+        "short_name": null,
+        "official_website": "https:\/\/sciences.ulb.be\/departement-mathematique",
+        "aliases": [
+            "Department of Mathematics, Free University of Brussels"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104960611",
+        "name": "Freinetschool De kRing",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.1935788,
+        "longitude": 4.423645,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104960862",
+        "name": "Freinetschool Ibis",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.162857,
+        "longitude": 4.834083,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1499947",
+        "name": "Gembloux Agro-Bio Tech",
+        "short_name": null,
+        "official_website": "https:\/\/www.gembloux.uliege.be",
+        "aliases": [
+            "Faculté Universitaire des Sciences Agronomiques de Gembloux",
+            "Institut Agricole de l’État"
+        ],
+        "latitude": 50.5623,
+        "longitude": 4.696,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q104960864",
+        "name": "Gemeenschapsschool De Zilverberk",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.73026,
+        "longitude": 4.245266,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104960575",
+        "name": "Gemeentelijke Basisschool Berlaar",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.1194635,
+        "longitude": 4.6678419,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q119789728",
+        "name": "Georges Lemaitre Centre for Earth and Climate Research",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "TECLIM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1137665",
+        "name": "Ghent University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ugent.be\/",
+        "aliases": [
+            "State University of Ghent",
+            "UGent",
+            "ugent.be",
+            "Universiteit Gent",
+            "University of Ghent"
+        ],
+        "latitude": 51.0438889,
+        "longitude": 3.7261111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104962593",
+        "name": "Guesthouse KU Leuven",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.8716016,
+        "longitude": 4.7045809,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1781858",
+        "name": "Hasselt University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uhasselt.be\/",
+        "aliases": [
+            "uhasselt.be",
+            "University of Hasselt"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29642358",
+        "name": "Haute Ecole de la Province de Namur",
+        "short_name": null,
+        "official_website": "http:\/\/www.hepn.be\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29642371",
+        "name": "Haute Ecole Galilée",
+        "short_name": null,
+        "official_website": "http:\/\/www.galilee.be\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2389892",
+        "name": "Haute Ecole Libre de Bruxelles Ilya Prigogine",
+        "short_name": null,
+        "official_website": "https:\/\/www.helb-prigogine.be\/",
+        "aliases": [
+            "HELB Ilya Prigogine"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29642386",
+        "name": "Haute Ecole Libre Mosane",
+        "short_name": null,
+        "official_website": "https:\/\/www.helmo.be\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3128575",
+        "name": "Haute École Charlemagne",
+        "short_name": null,
+        "official_website": "http:\/\/www.hech.be",
+        "aliases": [
+            "Haute Ecole Charlemagne"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3128582",
+        "name": "Haute École de Bruxelles",
+        "short_name": null,
+        "official_website": "http:\/\/he2b.be\/",
+        "aliases": [
+            "HEB",
+            "Haute Ecole de Bruxelles"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3128589",
+        "name": "Haute École de la Province de Liège",
+        "short_name": null,
+        "official_website": "https:\/\/www.hepl.be\/fr",
+        "aliases": [
+            "Haute Ecole de la Province de Liege",
+            "Higher Education Institution of the province of Liège",
+            "The Higher Education Institution of the province of Liège"
+        ],
+        "latitude": 50.5669103,
+        "longitude": 5.3810215,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3128587",
+        "name": "Haute École de la Ville de Liège",
+        "short_name": null,
+        "official_website": "http:\/\/www.hel.be",
+        "aliases": [
+            "Haute Ecole de la Ville de Liege"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2408259",
+        "name": "Haute École Louvain en Hainaut",
+        "short_name": null,
+        "official_website": "https:\/\/www.helha.be\/",
+        "aliases": [
+            "Haute Ecole Louvain en Hainaut"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2669045",
+        "name": "Haute École Léonard de Vinci",
+        "short_name": null,
+        "official_website": "http:\/\/www.vinci.be\/",
+        "aliases": [
+            "Haute Ecole Leonard de Vinci",
+            "Haute Ecole Léonard de Vinci"
+        ],
+        "latitude": 50.8499722,
+        "longitude": 4.4537778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3128594",
+        "name": "Haute École provinciale de Hainaut Condorcet",
+        "short_name": null,
+        "official_website": "https:\/\/www.condorcet.be\/",
+        "aliases": [
+            "Haute Ecole provinciale de Hainaut Condorcet",
+            "HEPH Condorcet"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29642072",
+        "name": "Haute École Robert Schuman",
+        "short_name": null,
+        "official_website": "http:\/\/hers.be\/",
+        "aliases": [
+            "HERS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3124820",
+        "name": "HEC Management School – University of Liège",
+        "short_name": null,
+        "official_website": "http:\/\/www.hec.uliege.be",
+        "aliases": null,
+        "latitude": 50.63522,
+        "longitude": 5.56323,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1313163",
+        "name": "HOGENT University of Applied Sciences and Arts",
+        "short_name": null,
+        "official_website": "http:\/\/www.hogent.be",
+        "aliases": [
+            "HOGENT"
+        ],
+        "latitude": 51.0523775,
+        "longitude": 3.7286017,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q118541225",
+        "name": "Hogere Handelsschool Leuven",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2208735",
+        "name": "iMinds",
+        "short_name": null,
+        "official_website": "http:\/\/www.iminds.be\/en",
+        "aliases": [
+            "IBBT",
+            "Interdisciplinary Institute for BroadBand Technology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16848835",
+        "name": "Innoviris",
+        "short_name": null,
+        "official_website": "https:\/\/innoviris.brussels\/",
+        "aliases": [
+            "Institute for the Encouragement of Scientific Research and Innovation of Brussels"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q27861135",
+        "name": "Institut belge des hautes études chinoises",
+        "short_name": null,
+        "official_website": "https:\/\/chinese-institute.be\/fr",
+        "aliases": [
+            "Belgisch Instituut voor Hogere Chinese Studiën - Bibliotheek"
+        ],
+        "latitude": 50.839206,
+        "longitude": 4.392402,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q116790741",
+        "name": "Institut d'études théologiques",
+        "short_name": null,
+        "official_website": "https:\/\/www.iet.be",
+        "aliases": null,
+        "latitude": 50.8354119,
+        "longitude": 4.4073611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3151785",
+        "name": "Institut Pasteur de Bruxelles",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Institut d’Antirabique et de Bactériologie",
+            "Institut Pasteur du Brabant"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q75468839",
+        "name": "Institut Paul Lambin",
+        "short_name": null,
+        "official_website": "http:\/\/www.vinci.be\/fr-be\/ipl\/Pages\/Accueil.aspx",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97178945",
+        "name": "Institut Sainte Trinité",
+        "short_name": null,
+        "official_website": "https:\/\/ecolesaintetrinitecardinalmercier1.be\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q924157",
+        "name": "Institute for Reference Materials and Measurements",
+        "short_name": null,
+        "official_website": "https:\/\/ec.europa.eu\/jrc\/institutes\/irmm\/",
+        "aliases": [
+            "JRC-Institute for Reference Materials and Measurements",
+            "JRC-IRMM)"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1881864",
+        "name": "Institute of Tropical Medicine Antwerp",
+        "short_name": "Institute of Tropical Medicine",
+        "official_website": "https:\/\/www.itg.be\/nl",
+        "aliases": [
+            "Institute of Tropical Medicine",
+            "Instituut voor tropische geneeskunde",
+            "Prince Leopold Institute of Tropical Medicine"
+        ],
+        "latitude": 51.212408,
+        "longitude": 4.397558,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528082",
+        "name": "Institute RSCS",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2177666",
+        "name": "Instituut der Wetenschappen",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.045556,
+        "longitude": 3.725,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104960290",
+        "name": "internaat Kauwenberg",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.223978,
+        "longitude": 4.41202,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q50309126",
+        "name": "International Solvay Institutes",
+        "short_name": null,
+        "official_website": "http:\/\/www.solvayinstitutes.be\/",
+        "aliases": [
+            "International Solvay Institutes for Physics and Chemistry"
+        ],
+        "latitude": 50.8200192,
+        "longitude": 4.3976272,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30274377",
+        "name": "Interuniversity Institute for High Energies",
+        "short_name": null,
+        "official_website": "http:\/\/www.iihe.ac.be\/",
+        "aliases": [
+            "IIHE"
+        ],
+        "latitude": 50.8230095,
+        "longitude": 4.3926295,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q49986279",
+        "name": "Jezuïetencollege te Leuven",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1500915",
+        "name": "Joint Research Centre",
+        "short_name": null,
+        "official_website": "https:\/\/joint-research-centre.ec.europa.eu\/index_en",
+        "aliases": [
+            "JRC",
+            "DG-JRC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q104962114",
+        "name": "KaHo Sint-Lieven Technologiecampus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.060613,
+        "longitude": 3.709826,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104961379",
+        "name": "Kapel van de Ontluiking",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.868437,
+        "longitude": 4.244639,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122167747",
+        "name": "Karreveld (school)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.860798,
+        "longitude": 4.3070617,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104962388",
+        "name": "KASK-building at Louis Pasteurlaan 1 & Godshuizenlaan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.045204,
+        "longitude": 3.714788,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1958387",
+        "name": "Kasteel van Meldert",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.7807,
+        "longitude": 4.83564,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2201807",
+        "name": "Katholieke Hogeschool Kempen",
+        "short_name": null,
+        "official_website": "http:\/\/www.khk.be",
+        "aliases": [
+            "KHKempen University College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3133819",
+        "name": "Katholieke Hogeschool Zuid-West-Vlaanderen",
+        "short_name": null,
+        "official_website": "http:\/\/www.katho.be\/",
+        "aliases": [
+            "KATHO"
+        ],
+        "latitude": 50.805783,
+        "longitude": 3.284192,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q644787",
+        "name": "Katholieke Universiteit Brussel",
+        "short_name": null,
+        "official_website": "http:\/\/www.kubrussel.ac.be",
+        "aliases": [
+            "KUB",
+            "K.U. Brussel",
+            "Katholieke Universiteit van Brussel",
+            "UFSAL",
+            "Universitaire Faculteiten Sint-Aloysius"
+        ],
+        "latitude": 50.8625,
+        "longitude": 4.3275,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42186511",
+        "name": "Katholieke Vlaamse Hogeschool voor Vrouwen",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104961419",
+        "name": "Keukentoren Elishout",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.815452,
+        "longitude": 4.294906,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q118381511",
+        "name": "Kindercampus Theodoor",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.88455,
+        "longitude": 4.30492,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q13744144",
+        "name": "Klein Seminarie",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Klein Seminarie (Hoogstraten)"
+        ],
+        "latitude": 51.398566,
+        "longitude": 4.7580886,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1867263",
+        "name": "Klein Seminarie Roeselare",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Klein Seminarie"
+        ],
+        "latitude": 50.943188,
+        "longitude": 3.125353,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q104960061",
+        "name": "Kleuter- en basisschool Het Vliegertje",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.194445,
+        "longitude": 4.473067,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104960571",
+        "name": "Kleuter- en basisschool Sint-Lievenspoort",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.0410326,
+        "longitude": 3.7366977,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104960858",
+        "name": "Kleuterschool Gekko",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.0218188,
+        "longitude": 4.5488159,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104960213",
+        "name": "Kleuterschool Xaveriuscollege",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.21209,
+        "longitude": 4.450806,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124623870",
+        "name": "Klooster van de Dienstmaagden van Maria",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.903214,
+        "longitude": 4.557644,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q33100553",
+        "name": "Koninklijk Atheneum Antwerpen",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.22024,
+        "longitude": 4.418113,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q62073274",
+        "name": "Koninklijk Atheneum Deurne",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.221497,
+        "longitude": 4.459972,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1919875",
+        "name": "Koninklijk Instituut Woluwe",
+        "short_name": null,
+        "official_website": "http:\/\/www.kiwoluwe.org\/",
+        "aliases": [
+            "Institut des aveugles, sourds et muets"
+        ],
+        "latitude": 50.8440571,
+        "longitude": 4.4115125,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104961198",
+        "name": "Kunstacademie Ter Beuken",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.108903,
+        "longitude": 3.986435,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115898091",
+        "name": "Laboratoire Aerotechnique de Belgique",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.75558,
+        "longitude": 4.38656,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2201607",
+        "name": "Lessius Hogeschool",
+        "short_name": null,
+        "official_website": "http:\/\/www.lessius.eu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2324579",
+        "name": "Lessius Mechelen",
+        "short_name": null,
+        "official_website": "http:\/\/mechelen.lessius.eu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104961194",
+        "name": "LiZa, Limburgse Zorgacademie",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.9577,
+        "longitude": 5.519814,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2946057",
+        "name": "Liège Space Center",
+        "short_name": null,
+        "official_website": "http:\/\/www.csl.uliege.be\/",
+        "aliases": [
+            "CSL",
+            "Centre spatial de Liège",
+            "Liege Space Center"
+        ],
+        "latitude": 50.5983333,
+        "longitude": 5.5655556,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q104962440",
+        "name": "MAD-faculty",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.9819527,
+        "longitude": 5.4906172,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q13823798",
+        "name": "Media & Design Academie",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.9821972,
+        "longitude": 5.4910333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122149501",
+        "name": "Meurop",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.8620555,
+        "longitude": 4.3675975,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104961616",
+        "name": "Michottekazerne",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.870663,
+        "longitude": 4.705272,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29576195",
+        "name": "Multitel",
+        "short_name": null,
+        "official_website": "http:\/\/www.multitel.be\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q124525809",
+        "name": "Namur Digital Institute",
+        "short_name": null,
+        "official_website": "https:\/\/nadi.unamur.be",
+        "aliases": [
+            "NADI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q56612979",
+        "name": "Namur Institute For Complex Systems",
+        "short_name": null,
+        "official_website": "http:\/\/www.naxys.be",
+        "aliases": [
+            "naXys"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q925456",
+        "name": "National Geographic Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.ngi.be\/",
+        "aliases": [
+            "NGI",
+            "NGIGN"
+        ],
+        "latitude": 50.84596,
+        "longitude": 4.39243,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2086107",
+        "name": "New University of Brussels",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Zwanze Université"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15943365",
+        "name": "Odisee, University of Applied Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/www.odisee.be\/",
+        "aliases": [
+            "Odisee"
+        ],
+        "latitude": 50.849019,
+        "longitude": 4.356506,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21771877",
+        "name": "Office of the Rector (University of Ghent)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.04738,
+        "longitude": 3.72752,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130551743",
+        "name": "OLVP Bornem building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.1002313,
+        "longitude": 4.2357408,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104552060",
+        "name": "Onze-Lieve-Vrouw van de Vredekapel",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.7972972,
+        "longitude": 3.3284806,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125582171",
+        "name": "Onze-Lieve-Vrouw-Hemelvaartinstituut (Waregem)",
+        "short_name": null,
+        "official_website": "https:\/\/www.hemelvaart.be\/",
+        "aliases": null,
+        "latitude": 50.8872139,
+        "longitude": 3.4339056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104962376",
+        "name": "Open Leercentrum Ghent",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.03045,
+        "longitude": 3.70272,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2289519",
+        "name": "Orpheus Instituut",
+        "short_name": null,
+        "official_website": "http:\/\/www.orpheusinstituut.be\/",
+        "aliases": [
+            "ORCiM",
+            "Orpheus Institute",
+            "Orpheus Research Centre in Music"
+        ],
+        "latitude": 51.05161,
+        "longitude": 3.72276,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q104962474",
+        "name": "Overdekte speelplaats met sanitair, KLIM-school",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.0293125,
+        "longitude": 3.7163233,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60024026",
+        "name": "Parliament building of the German-speaking Community",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.6241472,
+        "longitude": 6.0440056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104960302",
+        "name": "PIX",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.180558,
+        "longitude": 4.387607,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1973434",
+        "name": "Plantijn Hogeschool",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.219607,
+        "longitude": 4.41189,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q50825389",
+        "name": "Protestants Historisch Museum Abraham Hans",
+        "short_name": null,
+        "official_website": "http:\/\/www.museumabrahamhans.be\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107577438",
+        "name": "Q107577438",
+        "short_name": null,
+        "official_website": "https:\/\/csdm.be\/",
+        "aliases": null,
+        "latitude": 50.85667,
+        "longitude": 4.36949,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108745092",
+        "name": "Q108745092",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q110158342",
+        "name": "Q110158342",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12163963",
+        "name": "Q12163963",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124477739",
+        "name": "Q124477739",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q125510986",
+        "name": "Q125510986",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.4180556,
+        "longitude": 4.4463889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131672844",
+        "name": "Q131672844",
+        "short_name": null,
+        "official_website": "https:\/\/uclouvain.be\/fr\/facultes\/theologie",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q133866362",
+        "name": "Q133866362",
+        "short_name": null,
+        "official_website": "https:\/\/www.irfam.org",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q134171651",
+        "name": "Q134171651",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.806542,
+        "longitude": 3.183656,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135435182",
+        "name": "Q135435182",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135971807",
+        "name": "Q135971807",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136464678",
+        "name": "Q136464678",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q136716213",
+        "name": "Q136716213",
+        "short_name": null,
+        "official_website": "https:\/\/academie-noord.be\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137527034",
+        "name": "Q137527034",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q137625652",
+        "name": "Q137625652",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.82737,
+        "longitude": 4.346179,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137707228",
+        "name": "Q137707228",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.0558827,
+        "longitude": 3.7367511,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137761531",
+        "name": "Q137761531",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1479664",
+        "name": "Q1479664",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q14950396",
+        "name": "Q14950396",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16635581",
+        "name": "Q16635581",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21009526",
+        "name": "Q21009526",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2169532",
+        "name": "Q2169532",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21771837",
+        "name": "Q21771837",
+        "short_name": null,
+        "official_website": "http:\/\/labiris.ulb.be\/",
+        "aliases": null,
+        "latitude": 50.81584,
+        "longitude": 4.29528,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q21771870",
+        "name": "Q21771870",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.05113,
+        "longitude": 3.72482,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21771871",
+        "name": "Q21771871",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.02736,
+        "longitude": 3.73055,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21771878",
+        "name": "Q21771878",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.04608,
+        "longitude": 3.72497,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21771879",
+        "name": "Q21771879",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.0534,
+        "longitude": 3.70872,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21771880",
+        "name": "Q21771880",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.67009,
+        "longitude": 4.6157,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21771882",
+        "name": "Q21771882",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.85105,
+        "longitude": 4.45779,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21771903",
+        "name": "Q21771903",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.46638,
+        "longitude": 4.86134,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21771906",
+        "name": "Q21771906",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.86962,
+        "longitude": 4.69502,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21771907",
+        "name": "Q21771907",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.86446,
+        "longitude": 4.68026,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21771908",
+        "name": "Q21771908",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.87811,
+        "longitude": 4.69968,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21771909",
+        "name": "Q21771909",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.87335,
+        "longitude": 4.70013,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21771911",
+        "name": "Q21771911",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.88139,
+        "longitude": 4.68174,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21771912",
+        "name": "Q21771912",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.87603,
+        "longitude": 4.70822,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21771913",
+        "name": "Q21771913",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.8781,
+        "longitude": 4.70397,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21771915",
+        "name": "Q21771915",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.87604,
+        "longitude": 4.70125,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21771916",
+        "name": "Q21771916",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.87301,
+        "longitude": 4.70226,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21771917",
+        "name": "Q21771917",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.87672,
+        "longitude": 4.70921,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2926646",
+        "name": "Q2926646",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.87318,
+        "longitude": 4.70394,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2983661",
+        "name": "Q2983661",
+        "short_name": null,
+        "official_website": "http:\/\/www.ce-saint-joseph.be\/",
+        "aliases": null,
+        "latitude": 50.0511,
+        "longitude": 4.32344,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q3117757",
+        "name": "Q3117757",
+        "short_name": null,
+        "official_website": "https:\/\/www.grip.org\/fr",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3152549",
+        "name": "Q3152549",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3462002",
+        "name": "Q3462002",
+        "short_name": null,
+        "official_website": "http:\/\/www.sui.be",
+        "aliases": null,
+        "latitude": 51.064563,
+        "longitude": 4.579325,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551867",
+        "name": "Q3551867",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42431451",
+        "name": "Q42431451",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.8161694,
+        "longitude": 4.4227806,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q56248792",
+        "name": "Q56248792",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.2512771,
+        "longitude": 4.4525349,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q56460167",
+        "name": "Q56460167",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.2470402,
+        "longitude": 4.4991765,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q85305906",
+        "name": "Q85305906",
+        "short_name": null,
+        "official_website": "https:\/\/www.tada.brussels\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97989069",
+        "name": "Q97989069",
+        "short_name": null,
+        "official_website": "https:\/\/www.traduction-litteraire.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3916315",
+        "name": "Refaat Al-Areer building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Ufo",
+            "Universiteitsforum"
+        ],
+        "latitude": 51.046712,
+        "longitude": 3.727348,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7307892",
+        "name": "Rega Institute for Medical Research",
+        "short_name": null,
+        "official_website": "http:\/\/rega.kuleuven.be\/",
+        "aliases": null,
+        "latitude": 50.8797778,
+        "longitude": 4.6694167,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q104962573",
+        "name": "Regionaal Technisch Centrum (RTC)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.8206199,
+        "longitude": 3.2863751,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2913980",
+        "name": "Research Institute for Nature and Forest",
+        "short_name": null,
+        "official_website": "https:\/\/www.vlaanderen.be\/inbo\/en-gb\/homepage\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1423043",
+        "name": "Research Institute of Organic Agriculture",
+        "short_name": "FiBL",
+        "official_website": "http:\/\/www.fibl.org\/en\/homepage.html",
+        "aliases": [
+            "Forschungsinstitut für biologischen Landbau (FiBl)"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2515434",
+        "name": "Rijksuniversitair Centrum Antwerpen",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "RUCA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2508495",
+        "name": "Rommelaere Instituut",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.04583,
+        "longitude": 3.71972,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17355316",
+        "name": "Royal Belgian Institute for Beet Improvement",
+        "short_name": null,
+        "official_website": "http:\/\/www.irbab-kbivb.be",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16665660",
+        "name": "Royal Belgian Institute of Natural Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/www.naturalsciences.be\/",
+        "aliases": [
+            "RBINS"
+        ],
+        "latitude": 50.836547,
+        "longitude": 4.37656,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2235462",
+        "name": "Royal Institute for Cultural Heritage",
+        "short_name": null,
+        "official_website": "http:\/\/www.kikirpa.be\/",
+        "aliases": [
+            "KIK",
+            "IRPA",
+            "Institut Royal du Patrimoine Artistique",
+            "KIK-IRPA",
+            "Koninklijke Instituut voor het Kunstpatrimonium"
+        ],
+        "latitude": 50.8425241,
+        "longitude": 4.3934752,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1515214",
+        "name": "Royal Military Academy",
+        "short_name": null,
+        "official_website": "https:\/\/www.rma.ac.be\/",
+        "aliases": [
+            "RMA"
+        ],
+        "latitude": 50.844722,
+        "longitude": 4.3925,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q56305766",
+        "name": "Ruusbroecgenootschap Universiteit Antwerpen - Bibliotheek",
+        "short_name": null,
+        "official_website": "https:\/\/www.uantwerpen.be\/en\/research-groups\/ruusbroec-institute\/",
+        "aliases": null,
+        "latitude": 51.222507,
+        "longitude": 4.411181,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q28136759",
+        "name": "Saint Ignatius University Centre, Antwerp",
+        "short_name": null,
+        "official_website": "https:\/\/www.ucsia.org",
+        "aliases": [
+            "UCSIA"
+        ],
+        "latitude": 51.2221006,
+        "longitude": 4.4093259,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q50972962",
+        "name": "Salvatorcollege",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.2325,
+        "longitude": 5.54183,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104962625",
+        "name": "School in Sint-Joost-Ten Node by BAS",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.855001,
+        "longitude": 4.371362,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42414324",
+        "name": "School of The Wheel",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.8192472,
+        "longitude": 4.2961056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21013886",
+        "name": "Schoolcomplex Luchtbal",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.2585,
+        "longitude": 4.42263,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104961890",
+        "name": "Schoolgebouw Meulebeke",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.950893,
+        "longitude": 3.291383,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2928460",
+        "name": "Seminary of Tournai",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.6036,
+        "longitude": 3.39128,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2635234",
+        "name": "Sensoa",
+        "short_name": null,
+        "official_website": "https:\/\/www.sensoa.be\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q104961074",
+        "name": "Sint-Eduardusinstituut",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42052602",
+        "name": "Sint-Ivocollege",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "St Ivo's College, Leuven"
+        ],
+        "latitude": 50.878675,
+        "longitude": 4.7050077,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q23931064",
+        "name": "Sint-Jan Berchmanscollege",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.21702,
+        "longitude": 4.40734,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107331235",
+        "name": "Sint-Jan Berchmanscollege",
+        "short_name": null,
+        "official_website": "https:\/\/www.sjbmol.be\/",
+        "aliases": null,
+        "latitude": 51.1865806,
+        "longitude": 5.1067611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q62083173",
+        "name": "Sint-Jozefinstituut",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.008228,
+        "longitude": 3.890828,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15882061",
+        "name": "Sint-Vincentiuscollege",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7390470",
+        "name": "Sirris",
+        "short_name": null,
+        "official_website": "http:\/\/www.sirris.be",
+        "aliases": [
+            "CRIF-WTCM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q104961573",
+        "name": "Sportschool De Porre",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.02881,
+        "longitude": 3.758039,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21186651",
+        "name": "St Anne's College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Sint-Annacollege"
+        ],
+        "latitude": 50.8769444,
+        "longitude": 4.7005556,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q21186654",
+        "name": "St Anthony's College",
+        "short_name": null,
+        "official_website": "http:\/\/www.leuveninstitute.eu\/",
+        "aliases": [
+            "College of St. Anthony",
+            "Irish College of St Anthony"
+        ],
+        "latitude": 50.8761111,
+        "longitude": 4.6969444,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q104961380",
+        "name": "Stadscampus Universiteit Hasselt",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.933588,
+        "longitude": 5.342304,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2014020",
+        "name": "State University of Leuven",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.8778611,
+        "longitude": 4.7006389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106154045",
+        "name": "Technisch Instituut H. Elisabeth",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.945207,
+        "longitude": 3.1256613,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104961072",
+        "name": "Technisch Instituut Sint-Paulus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.176104,
+        "longitude": 5.123645,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135581355",
+        "name": "Technofest Institute of Technology TITU (Belgium)",
+        "short_name": null,
+        "official_website": "https:\/\/www.titu.edu.eu",
+        "aliases": [
+            "Technofest Institute",
+            "Technofest Institute of Technology Belgium",
+            "Technofest University",
+            "TITU",
+            "TITU Belgium",
+            "TITU International University",
+            "TITU Turkey",
+            "TITU University",
+            "دانشگاه تکنوفست",
+            "دانشگاه تیتو"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104962085",
+        "name": "Technologiecentrum Diepenbeek",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.928974,
+        "longitude": 5.395005,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122311060",
+        "name": "Teutonic Order College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q15876396",
+        "name": "Thomas More College",
+        "short_name": null,
+        "official_website": "http:\/\/www.thomasmore.be",
+        "aliases": [
+            "Thomas More",
+            "Thomas More (college)",
+            "Thomas More University of Applied Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104962457",
+        "name": "Toegangsgebouw Faculteit Sociale Wetenschappen",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.8738338,
+        "longitude": 4.7034418,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2668892",
+        "name": "transnationale Universiteit Limburg",
+        "short_name": null,
+        "official_website": "http:\/\/www.tul.edu",
+        "aliases": [
+            "tUL"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1391752",
+        "name": "UCLouvain Saint-Louis – Bruxelles",
+        "short_name": null,
+        "official_website": "http:\/\/www.usaintlouis.be",
+        "aliases": [
+            "Facultes universitaires Saint-Louis",
+            "Facultés Universitaires Saint-Louis",
+            "FUSL",
+            "Saint-Louis University",
+            "Saint-Louis University, Brussels",
+            "UCLouvain Saint-Louis - Bruxelles",
+            "UCLouvain Saint-Louis Bruxelles",
+            "Université Saint-Louis - Bruxelles",
+            "USL-B"
+        ],
+        "latitude": 50.85361,
+        "longitude": 4.36111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104960068",
+        "name": "Uitbreiding Atheneum Wispelberg",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.053177,
+        "longitude": 3.711879,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104960063",
+        "name": "Uitbreiding kleuter- en lagere school Het Laerhof",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.249021,
+        "longitude": 4.435387,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q549714",
+        "name": "Union of International Associations",
+        "short_name": "CIPO",
+        "official_website": "http:\/\/www.uia.org\/",
+        "aliases": [
+            "UIA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q14510915",
+        "name": "Universitaire Faculteiten Sint-Ignatius Antwerpen",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UFSIA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q943498",
+        "name": "Universities in Leuven",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18818681",
+        "name": "University Colleges Leuven-Limburg",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucll.be\/",
+        "aliases": [
+            "UC Leuven-Limburg"
+        ],
+        "latitude": 50.9287518,
+        "longitude": 5.3927781,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q175241",
+        "name": "University of Antwerp",
+        "short_name": null,
+        "official_website": "https:\/\/www.uantwerpen.be\/",
+        "aliases": [
+            "UAntwerp",
+            "uantwerpen.be",
+            "Universiteit Antwerpen"
+        ],
+        "latitude": 51.2227778,
+        "longitude": 4.41,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1334582",
+        "name": "University of Liège",
+        "short_name": null,
+        "official_website": "https:\/\/www.uliege.be\/",
+        "aliases": [
+            "Liège University",
+            "State University of Liège",
+            "ULg",
+            "ULiège",
+            "Universitas Leodiensis",
+            "Université de l'Etat à Liège",
+            "Universite de Liege",
+            "Université de Liège",
+            "University of Liege"
+        ],
+        "latitude": 50.640833,
+        "longitude": 5.574722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3151915",
+        "name": "University of Liège Institute of Astrophysics and Geophysics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1742161",
+        "name": "University of Mons",
+        "short_name": null,
+        "official_website": "https:\/\/web.umons.ac.be",
+        "aliases": [
+            "Université de Mons"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2230156",
+        "name": "University of Mons-Hainaut",
+        "short_name": null,
+        "official_website": "http:\/\/www.umons.ac.be",
+        "aliases": null,
+        "latitude": 50.459167,
+        "longitude": 3.950278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1391755",
+        "name": "University of Namur",
+        "short_name": null,
+        "official_website": "http:\/\/www.unamur.be",
+        "aliases": [
+            "Facultes universitaires Notre-Dame de la Paix",
+            "Facultés universitaires Notre-Dame de la Paix",
+            "FUNDP",
+            "UNamur",
+            "Universite de Namur",
+            "Université de Namur"
+        ],
+        "latitude": 50.466333,
+        "longitude": 4.860361,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q574606",
+        "name": "Université libre de Bruxelles",
+        "short_name": null,
+        "official_website": "https:\/\/www.ulb.be\/",
+        "aliases": [
+            "ULB",
+            "Free University of Brussels"
+        ],
+        "latitude": 50.811667,
+        "longitude": 4.381111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106926306",
+        "name": "Ursulinenklooster",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.26602,
+        "longitude": 4.86527,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3577708",
+        "name": "Vervloesem School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "École Vervloesem"
+        ],
+        "latitude": 50.8427,
+        "longitude": 4.43226,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2540066",
+        "name": "Vias institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.vias.be\/",
+        "aliases": [
+            "Belgisch Instituut Voor de Verkeersveiligheid",
+            "BIVV",
+            "IBSR",
+            "Institut Belge de pour la Sécurité Routière"
+        ],
+        "latitude": 50.88394,
+        "longitude": 4.4192,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q104961855",
+        "name": "Virga Jessecollege",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.9274269,
+        "longitude": 5.3404132,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17031990",
+        "name": "Vlaamsche Hoogeschool",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Hoogeschool te Gent",
+            "Von Bissing University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q49952472",
+        "name": "Vlaamse Hogeschool",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104962368",
+        "name": "Vlerick Management School - Campus Leuven",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 50.8761498,
+        "longitude": 4.7056128,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104962574",
+        "name": "Vlerinck Management School Gent",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.0514307,
+        "longitude": 3.7298697,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3152785",
+        "name": "von Kármán Institute for Fluid Dynamics",
+        "short_name": "VKI",
+        "official_website": "https:\/\/www.vki.ac.be\/",
+        "aliases": [
+            "VKI",
+            "von Kármán Institute"
+        ],
+        "latitude": 50.7557222,
+        "longitude": 4.3862778,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q104960454",
+        "name": "Vrije basisschool Sint-Paulus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 51.020417,
+        "longitude": 3.670035,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q612665",
+        "name": "Vrije Universiteit Brussel",
+        "short_name": null,
+        "official_website": "https:\/\/www.vub.be\/",
+        "aliases": [
+            "VUB",
+            "Free University of Brussels"
+        ],
+        "latitude": 50.82186,
+        "longitude": 4.39338,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q93183026",
+        "name": "War Heritage Institute",
+        "short_name": "WHI",
+        "official_website": "https:\/\/www.warheritage.be\/",
+        "aliases": [
+            "WHI"
+        ],
+        "latitude": 50.8411,
+        "longitude": 4.39421,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3577732",
+        "name": "École Centrale des Arts et Métiers",
+        "short_name": null,
+        "official_website": "http:\/\/www.ecam.be\/",
+        "aliases": [
+            "ECAM",
+            "ECAM Institut Superieur Industriel",
+            "ECAM Institut Supérieur Industriel"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1756635",
+        "name": "École pour l'informatique et les nouvelles technologies",
+        "short_name": null,
+        "official_website": "http:\/\/www.epitech.eu\/",
+        "aliases": [
+            "Ecole pour l'informatique et les nouvelles technologies",
+            "EPITECH"
+        ],
+        "latitude": 48.8153436,
+        "longitude": 2.363061,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3578319",
+        "name": "École pratique des hautes études commerciales",
+        "short_name": null,
+        "official_website": "http:\/\/www.ephec.be",
+        "aliases": [
+            "Ecole pratique des hautes etudes commerciales",
+            "EPHEC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29642316",
+        "name": "École Supérieure des Arts de l'Image Le 75",
+        "short_name": null,
+        "official_website": "http:\/\/www.leseptantecinq.be\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22343099",
+        "name": "École supérieure des arts Saint-Luc de Liège",
+        "short_name": null,
+        "official_website": "http:\/\/www.saint-luc.be",
+        "aliases": [
+            "ESA Saint-Luc Liège"
+        ],
+        "latitude": 50.643953,
+        "longitude": 5.585142,
+        "type": "university"
+    }
+]

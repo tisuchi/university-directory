@@ -1,0 +1,4155 @@
+[
+    {
+        "wikidata_id": "Q74551474",
+        "name": "Argentine Association of Microbiology",
+        "short_name": null,
+        "official_website": "https:\/\/www.aam.org.ar",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156341",
+        "name": "Argentine Atlantis University",
+        "short_name": null,
+        "official_website": "https:\/\/atlantida.edu.ar\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q119727217",
+        "name": "Argentine Institute for Snow Research, Glaciology and Environmental Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/ianigla.net",
+        "aliases": [
+            "IANIGLA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q119727747",
+        "name": "Argentine Institute of Oceanography",
+        "short_name": null,
+        "official_website": "https:\/\/iado.conicet.gov.ar\/index.php",
+        "aliases": [
+            "IADO",
+            "IADO-CONICET",
+            "Instituto Argentino de Oceanografía",
+            "Instituto Argentino de Oceanografía - CONICET"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3028249",
+        "name": "Argentine University of Enterprise",
+        "short_name": null,
+        "official_website": "https:\/\/www.uade.edu.ar\/",
+        "aliases": [
+            "UADE"
+        ],
+        "latitude": -34.6167,
+        "longitude": -58.3817,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123702430",
+        "name": "Argentinian Gravitational Wave Group",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2949394",
+        "name": "Army War Academy",
+        "short_name": null,
+        "official_website": "https:\/\/www.esgcffaa.edu.ar\/esp\/",
+        "aliases": [
+            "ESG",
+            "Escuela Superior de Guerra del Ejército Argentino",
+            "Teniente General Luis Maria Campos School"
+        ],
+        "latitude": -34.5732538,
+        "longitude": -58.4340343,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156550",
+        "name": "Arturo Jauretche National University",
+        "short_name": null,
+        "official_website": "https:\/\/www.unaj.edu.ar\/",
+        "aliases": [
+            "UNAJ"
+        ],
+        "latitude": -34.7751535,
+        "longitude": -58.2678955,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74550435",
+        "name": "Asociación de Escuelas y Facultades de Arquitectura Públicas de América del Sur",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74433378",
+        "name": "Asociación de Profesores de Física de Argentina",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Asociación de Profesores de Física de la Argentina"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4823399",
+        "name": "Austral University of Argentina",
+        "short_name": null,
+        "official_website": "https:\/\/www.austral.edu.ar\/",
+        "aliases": [
+            "Universidad Austral Argentina"
+        ],
+        "latitude": -34.45667,
+        "longitude": -58.8589,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156358",
+        "name": "Autonomous University of Entre Ríos",
+        "short_name": null,
+        "official_website": "https:\/\/uader.edu.ar\/",
+        "aliases": [
+            "UADER",
+            "Universidad Autónoma de Entre Ríos"
+        ],
+        "latitude": -31.7271,
+        "longitude": -60.515,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21573158",
+        "name": "Bahía Blanca Institute of biochemical researches",
+        "short_name": null,
+        "official_website": "https:\/\/www.inibibb-conicet.gob.ar\/",
+        "aliases": null,
+        "latitude": -38.6656922,
+        "longitude": -62.2343181,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4860750",
+        "name": "Bariloche Atomic Centre",
+        "short_name": null,
+        "official_website": "http:\/\/www.cab.cnea.gov.ar\/",
+        "aliases": null,
+        "latitude": -41.12025,
+        "longitude": -71.41476,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4882666",
+        "name": "Belgranian National Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.57586,
+        "longitude": -58.4260177,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q21848014",
+        "name": "Biblioteca Virtual U.N.R.",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -32.94132,
+        "longitude": -60.66616,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156373",
+        "name": "Blas Pascal University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ubp.edu.ar",
+        "aliases": [
+            "Universidad Blas Pascal"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3068593",
+        "name": "Buenos Aires Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.itba.edu.ar\/",
+        "aliases": null,
+        "latitude": -34.6415071,
+        "longitude": -58.4063919,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5810270",
+        "name": "CAECE University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ucaecemdp.edu.ar\/",
+        "aliases": [
+            "CAECE"
+        ],
+        "latitude": -38.01166,
+        "longitude": -57.5397778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97772073",
+        "name": "Calculus Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.5419444,
+        "longitude": -58.4425,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1736398",
+        "name": "Catholic University of Cordoba",
+        "short_name": null,
+        "official_website": "http:\/\/www.uccor.edu.ar\/",
+        "aliases": null,
+        "latitude": -31.419194,
+        "longitude": -64.186917,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1736403",
+        "name": "Catholic University of La Plata",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucalp.edu.ar\/",
+        "aliases": null,
+        "latitude": -34.8966667,
+        "longitude": -57.9418056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1570276",
+        "name": "Catholic University of Salta",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucasal.edu.ar",
+        "aliases": [
+            "UCASAL"
+        ],
+        "latitude": -24.7399611,
+        "longitude": -65.3918444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5053267",
+        "name": "Catholic University of Santiago del Estero",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucse.edu.ar\/",
+        "aliases": null,
+        "latitude": -27.7902778,
+        "longitude": -64.2438889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q47397358",
+        "name": "CENPAT",
+        "short_name": null,
+        "official_website": "https:\/\/cenpat.conicet.gov.ar\/",
+        "aliases": [
+            "CNP",
+            "CCT CONICET-CENPAT",
+            "Centro Científico Tecnológico CENPAT",
+            "Centro Nacional Patagónico, Centro Científico Tecnológico del Consejo Nacional de Investigaciones Científicas y Técnicas",
+            "CONICET-CENPAT"
+        ],
+        "latitude": -42.784594,
+        "longitude": -65.008969,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17986320",
+        "name": "Center for Distributive, Labor and Social Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.cedlas.econo.unlp.edu.ar",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29018295",
+        "name": "Center for Medical Education and Clinical Research Norberto Quirno",
+        "short_name": null,
+        "official_website": "http:\/\/www.cemic.edu.ar\/",
+        "aliases": [
+            "CEMIC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q97771745",
+        "name": "Center for Ocean and Atmosphere Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "CIMA",
+            "Center for Research on Sea and the Atmosphere"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16490623",
+        "name": "Center for Urban Archaeology",
+        "short_name": null,
+        "official_website": "http:\/\/www.iaa.fadu.uba.ar\/cau\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5062657",
+        "name": "Centre of Mathematics and Design",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5761636",
+        "name": "Centro de Documentación e Investigación de la Cultura de Izquierdas en la Argentina",
+        "short_name": null,
+        "official_website": "http:\/\/cedinci.org\/",
+        "aliases": [
+            "CeDInCI",
+            "Centro de Documentación e Investigación de la Cultura de Izquierdas"
+        ],
+        "latitude": -34.6048696,
+        "longitude": -58.3908942,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74434195",
+        "name": "Centro de Estudios e Investigaciones Laborales",
+        "short_name": null,
+        "official_website": "http:\/\/www.ceil-conicet.gov.ar",
+        "aliases": [
+            "CEIL-CONICET"
+        ],
+        "latitude": -34.6101148,
+        "longitude": -58.4034312,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74542231",
+        "name": "Centro de Estudios en Cultura y Politica (CECYP)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74556034",
+        "name": "Centro de Estudios Interdisciplinarios de las Mujeres, Maestría en Poder y Sociedad desde la Problemática del Género",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530247",
+        "name": "Centro de Estudios Latinos. IdIHCS (UNLP-CONICET)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.8999487,
+        "longitude": -57.9319569,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q124364551",
+        "name": "Centro de Estudios y Documentación Jorge Luis Borges",
+        "short_name": null,
+        "official_website": "https:\/\/www.bn.gov.ar\/biblioteca\/centros\/borges",
+        "aliases": null,
+        "latitude": -34.614869,
+        "longitude": -58.374006,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q109467290",
+        "name": "Centro de Innovación de los Trabajadores",
+        "short_name": null,
+        "official_website": "https:\/\/citra.org.ar",
+        "aliases": [
+            "Centro de Innovación de los Trabajadores (CITRA)",
+            "Centro de Innovación de los Trabajadores CITRA (CONICET-UMET)",
+            "CITRA (UMET-CONICET)",
+            "CITRA-UMET-CONICET",
+            "citra.org.ar",
+            "Workers' Innovation Center"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74541819",
+        "name": "Centro de Investigaciones Históricas, Grupo de Investigación y Extensión en Historia Regional",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547166",
+        "name": "Centro de Investigaciones y Estudios sobre Cultura y Sociedad (CIECS)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528967",
+        "name": "Centro de Investigaciones y Estudios sobre Cultura y Sociedad - Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) - Universidad Nacional de Córdoba (UNC)",
+        "short_name": null,
+        "official_website": "https:\/\/ciecs.conicet.gov.ar\/",
+        "aliases": [
+            "Centro de Investigaciones y Estudios sobre Cultura y Sociedad (CIECS) - Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) - Universidad Nacional de Córdoba (UNC)",
+            "CIECS"
+        ],
+        "latitude": -31.437721,
+        "longitude": -64.185401,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5062843",
+        "name": "Centro Internacional de Métodos Computacionales en Ingeniería",
+        "short_name": null,
+        "official_website": "http:\/\/www.cimec.santafe-conicet.gov.ar\/",
+        "aliases": [
+            "Centro Internacional de Metodos Computacionales en Ingenieria",
+            "CIMEC"
+        ],
+        "latitude": -31.6345,
+        "longitude": -60.6711,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q98090260",
+        "name": "CIPAF",
+        "short_name": null,
+        "official_website": "https:\/\/www.argentina.gob.ar\/inta\/centro-id-agricultura-familiar",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q21847993",
+        "name": "Ciudad Universitaria",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -31.63994,
+        "longitude": -60.67258,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5777185",
+        "name": "Colegio Santo Tomás de Aquino",
+        "short_name": null,
+        "official_website": "http:\/\/www.escolapiosstotomas.edu.ar\/",
+        "aliases": null,
+        "latitude": -31.41595,
+        "longitude": -64.1952694,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74553673",
+        "name": "CONICET - UNCPBA. Instituto de Geografía, Historia y Ciencias Sociales. Centro de Investigaciones Geográficas.",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q24214058",
+        "name": "Consejo Nacional de Investigaciones Científicas y Técnicas, Centro Argentino de Información Científica y Tecnológica",
+        "short_name": null,
+        "official_website": "http:\/\/caicyt-conicet.gov.ar",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q97446118",
+        "name": "Córdoba Anthropology Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IDACOR"
+        ],
+        "latitude": -31.422726,
+        "longitude": -64.187813,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q55262777",
+        "name": "Córdoba Research Institute in Physical Chemistry",
+        "short_name": null,
+        "official_website": "http:\/\/infiqc.fcq.unc.edu.ar\/",
+        "aliases": [
+            "INFIQC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118848364",
+        "name": "División Antropología del Museo de La Plata",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.9106,
+        "longitude": -57.9416,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118641140",
+        "name": "División Arqueología del Museo de La Plata",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.9091803,
+        "longitude": -57.9354256,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118976713",
+        "name": "División Entolomogía del Museo de La Plata",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.9106,
+        "longitude": -57.9416,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118521909",
+        "name": "División Etnografía del Museo de La Plata",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.9088272,
+        "longitude": -57.9350737,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118976560",
+        "name": "División Ficología del Museo de La Plata",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Departamento Científico de Ficología",
+            "División Ficología “Dr. Sebastián A. Guarrera”"
+        ],
+        "latitude": -34.9106,
+        "longitude": -57.9416,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118976601",
+        "name": "División Micología del Museo de La Plata",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "División Micología - Instituto Spegazzini",
+            "Instituto Spegazzini",
+            "Spegazzini Institute"
+        ],
+        "latitude": -34.9106,
+        "longitude": -57.9416,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118977066",
+        "name": "División Paleobotánica del Museo de La Plata",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.9106,
+        "longitude": -57.9416,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118976865",
+        "name": "División Paleoinvertebrados del Museo de La Plata",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.9106,
+        "longitude": -57.9416,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118976838",
+        "name": "División Paleovertebrados del Museo de La Plata",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.9106,
+        "longitude": -57.9416,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118976886",
+        "name": "División Zoología Invertebrados del Museo de La Plata",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.9106,
+        "longitude": -57.9416,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118976824",
+        "name": "División Zoología Vertebrados del Museo de La Plata",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.9106,
+        "longitude": -57.9416,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q125364416",
+        "name": "Dr. Tomás Perón Biological Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.ms.gba.gov.ar\/sitios\/institutobiologico\/",
+        "aliases": null,
+        "latitude": -34.89787,
+        "longitude": -57.9800439,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q55358496",
+        "name": "Enrique Gaviola Institute of Physics",
+        "short_name": null,
+        "official_website": "http:\/\/ifeg.famaf.unc.edu.ar\/",
+        "aliases": [
+            "IFEG"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q21847803",
+        "name": "Entrance gate to River Plate Adventist University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -32.07594,
+        "longitude": -60.46415,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5839069",
+        "name": "Escuela de Bellas Artes UNT",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Instituto Superior de Arte de la Universidad Nacional de Tucumán",
+            "School of Fine Arts of the National University of Tucumán"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74544426",
+        "name": "Escuela de Historia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74553703",
+        "name": "Escuela de Salud Pública (Facultad de Ciencias Médicas)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5397480",
+        "name": "Escuela Superior Latinoamericana de Informática",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Escuela Superior Latinoamericana de Informatica"
+        ],
+        "latitude": -34.8494444,
+        "longitude": -58.1352778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q138492458",
+        "name": "Esquel Mountain and Patagonian Steppe Research Center",
+        "short_name": null,
+        "official_website": "https:\/\/ciemep.conicet.gov.ar",
+        "aliases": [
+            "CIEMEP"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547765",
+        "name": "Estación Experimental Agroindustrial Obi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q121073992",
+        "name": "Estación Hidrobiológica de Puerto Quequén",
+        "short_name": null,
+        "official_website": "https:\/\/www.facebook.com\/profile.php?id=100063728026667",
+        "aliases": null,
+        "latitude": -38.574302,
+        "longitude": -58.702719,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q134965741",
+        "name": "EVOLUTIO",
+        "short_name": null,
+        "official_website": "https:\/\/www.evolutio.ar",
+        "aliases": [
+            "Centro Evolutio",
+            "Evolutio Argentina",
+            "Evolutio Center",
+            "EVOLUTIO Research Center",
+            "Evolutio Research Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74544470",
+        "name": "Facultad de Humanidades y Ciencias de la Educación, Centro de Estudios de Historia Social Europea",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547170",
+        "name": "Facultad de Humanidades y Ciencias de la Educación, Centro de Investigaciones Socio Históricas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74544541",
+        "name": "Facultad de Humanidades y Ciencias de la Educación, Departamento de Filosofía",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547182",
+        "name": "Facultad de Humanidades y Ciencias de la Educación, Departamento de Historia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74539662",
+        "name": "Facultad de Humanidades y Ciencias de la Educación, Departamento de Sociología",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17155001",
+        "name": "Facultad de Psicología de la Universidad Nacional de La Plata",
+        "short_name": null,
+        "official_website": "https:\/\/www.psico.unlp.edu.ar\/",
+        "aliases": [
+            "Universidad Nacional de La Plata, Facultad de Psicología"
+        ],
+        "latitude": -34.9007764,
+        "longitude": -57.932948,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156455",
+        "name": "FASTA University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ufasta.edu.ar\/",
+        "aliases": [
+            "Universidad Fraternidad de Agrupaciones Santo Tomas de Aquino",
+            "Universidad Fraternidad de Agrupaciones Santo Tomás de Aquino"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5438433",
+        "name": "Favaloro University",
+        "short_name": null,
+        "official_website": "https:\/\/www.favaloro.edu.ar\/",
+        "aliases": null,
+        "latitude": -34.61431,
+        "longitude": -58.39039,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894326",
+        "name": "Flores University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uflo.edu.ar\/",
+        "aliases": [
+            "UFLO"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q119727505",
+        "name": "French-Argentinean Institute of Climate Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Franco-Argentinian Institute for the Study of Climate and its Impacts",
+            "IFAECI",
+            "Instituto  Franco-Argentino  sobre Estudios  del  Clima  y sus  Impactos"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5871394",
+        "name": "Fundación Miguel Lillo",
+        "short_name": null,
+        "official_website": "https:\/\/lillo.org.ar\/",
+        "aliases": [
+            "Miguel Lillo Foundation"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5917962",
+        "name": "Gastón Dachary University",
+        "short_name": null,
+        "official_website": "http:\/\/www.dachary.edu.ar\/",
+        "aliases": [
+            "Gaston Dachary University"
+        ],
+        "latitude": -27.371329,
+        "longitude": -55.895627,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74553341",
+        "name": "Grupo de Estudios de Sociología Histórica de América Latina",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5624200",
+        "name": "Gymnasium UNT",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -26.8225,
+        "longitude": -65.2022222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5758072",
+        "name": "Higher Education Army Institute",
+        "short_name": null,
+        "official_website": "https:\/\/fe.undef.edu.ar",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q83870432",
+        "name": "Institute for Medical Research",
+        "short_name": null,
+        "official_website": "https:\/\/idim.org.ar\/",
+        "aliases": [
+            "IDIM"
+        ],
+        "latitude": -34.583864,
+        "longitude": -58.472835,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q50899983",
+        "name": "Institute of Agrobiotechnology of the Litoral",
+        "short_name": null,
+        "official_website": "http:\/\/www.ial.santafe-conicet.gov.ar\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q39639762",
+        "name": "Institute of Astronomical Sciences of the Earth and Space",
+        "short_name": null,
+        "official_website": "http:\/\/www.icate-conicet.gob.ar\/",
+        "aliases": [
+            "ICATE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q50314996",
+        "name": "Institute of Physical Investigations of Mar del Plata",
+        "short_name": null,
+        "official_website": "http:\/\/www.ifimar.conicet.gob.ar\/",
+        "aliases": [
+            "IFIMAR"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q97772161",
+        "name": "Institute of Physics of Buenos Aires",
+        "short_name": null,
+        "official_website": "https:\/\/www.df.uba.ar\/es\/institucional\/el-ifiba",
+        "aliases": [
+            "IFIBA-CONICET"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q54914587",
+        "name": "Institute of Physics of the South",
+        "short_name": null,
+        "official_website": "http:\/\/www.ifisur-conicet.gob.ar\/",
+        "aliases": [
+            "IFISUR"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16976342",
+        "name": "Instituto Argentino de Matematica",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q52575621",
+        "name": "Instituto de Arqueología, Facultad de Filosofía y Letras, Universidad de Buenos Aires",
+        "short_name": null,
+        "official_website": "http:\/\/arqueologia.institutos.filo.uba.ar\/",
+        "aliases": null,
+        "latitude": -34.6051245,
+        "longitude": -58.3708,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q120722406",
+        "name": "Instituto de Biodiversidad Neotropical",
+        "short_name": null,
+        "official_website": "https:\/\/ibn.conicet.gov.ar\/",
+        "aliases": [
+            "IBN"
+        ],
+        "latitude": -26.7771291,
+        "longitude": -65.3250881,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q29045424",
+        "name": "Instituto de Biología Marina y Pesquera Almirante Storni",
+        "short_name": null,
+        "official_website": "http:\/\/www.ibmpas.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5918035",
+        "name": "Instituto de Biología Subtropical",
+        "short_name": null,
+        "official_website": "http:\/\/www.ibs-conicet.gob.ar",
+        "aliases": [
+            "IBS",
+            "IBSI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5918039",
+        "name": "Instituto de Biología y Medicina Experimental",
+        "short_name": null,
+        "official_website": "http:\/\/www.ibyme.org.ar\/",
+        "aliases": [
+            "Instituto de Biologia y Medicina Experimental"
+        ],
+        "latitude": -34.5579,
+        "longitude": -58.4588,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q979012",
+        "name": "Instituto de Botánica Darwinion",
+        "short_name": null,
+        "official_website": "http:\/\/www.darwin.edu.ar\/",
+        "aliases": null,
+        "latitude": -34.4740876,
+        "longitude": -58.5082974,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5918049",
+        "name": "Instituto de Botánica del Nordeste",
+        "short_name": null,
+        "official_website": "http:\/\/ibone.unne.edu.ar\/",
+        "aliases": [
+            "Herbario Carmen L. Cristóbal, Instituto de Botánica del Nordeste, Corrientes, Corrientes, Argentina",
+            "Instituto de Botanica del Nordeste",
+            "Instituto de Botánica del Nordeste, Facultad de Ciencias Agrarias, Universidad Nacional del Nordeste"
+        ],
+        "latitude": -27.4595105,
+        "longitude": -58.8237817,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74538072",
+        "name": "Instituto de Ciencias Antropológicas, Facultad de Filosofía y Letras, Universidad de Buenos Aires",
+        "short_name": null,
+        "official_website": "https:\/\/antropologia.institutos.filo.uba.ar\/",
+        "aliases": null,
+        "latitude": -34.6282307,
+        "longitude": -58.4457802,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530670",
+        "name": "Instituto de Desarrollo Económico y Social (IDES)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q50892818",
+        "name": "Instituto de Diversidad y Ecología Animal",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IDEA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q122832483",
+        "name": "Instituto de Educación Superior EPGCBII Nº1- RAL'LAXAIC N'MENAXANAXAC Nº 1",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -27.4307754,
+        "longitude": -59.0060556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5918136",
+        "name": "Instituto de Enseñanza Superior en Lenguas Vivas Juan Ramón Fernández",
+        "short_name": null,
+        "official_website": "http:\/\/ieslvf-caba.infd.edu.ar\/sitio\/",
+        "aliases": [
+            "IES en Lenguas Vivas \"Juan Ramón Fernández\"",
+            "INPLV",
+            "Instituto Nacional Superior Del Profesorado En Lenguas Vivas"
+        ],
+        "latitude": -34.5905619,
+        "longitude": -58.3813379,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74545596",
+        "name": "Instituto de Estudios Sociales y Políticos de la Patagonia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q116733921",
+        "name": "Instituto de Filología Clásica",
+        "short_name": null,
+        "official_website": "http:\/\/ifc.institutos.filo.uba.ar",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30266612",
+        "name": "Instituto de Fisica de Liquidos y Sistemas Biologicos",
+        "short_name": null,
+        "official_website": "http:\/\/iflysib.unlp.edu.ar\/",
+        "aliases": [
+            "IFLySiB",
+            "IFLYSIB",
+            "Institute of Physics of Liquids and Biological Systems"
+        ],
+        "latitude": -34.923421,
+        "longitude": -57.946805,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74536130",
+        "name": "Instituto de Formación Docente Continua de San Luis",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q135456247",
+        "name": "Instituto de Hidrología de Llanuras \"Dr. Eduardo Jorge Usunoff\"",
+        "short_name": null,
+        "official_website": "https:\/\/ihlla.conicet.gov.ar\/",
+        "aliases": [
+            "IHLLA"
+        ],
+        "latitude": -36.7667443,
+        "longitude": -59.8809028,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q9008789",
+        "name": "Instituto de Historia Argentina y Americana \"Dr. Emilio Ravignani\"",
+        "short_name": null,
+        "official_website": "http:\/\/ravignani.institutos.filo.uba.ar\/",
+        "aliases": [
+            "Instituto de Historia Argentina y Americana \"Doctor Emilio Ravignani\"",
+            "Instituto de Historia Argentina y Americana \"Dr. Emilio Ravignani\" de la Facultad de Filosofía y Letras de la Universidad de Buenos Aires",
+            "Instituto de Historia Argentina y Americana \"Dr. Emilio Ravigniani\"",
+            "Instituto de Historia Argentina y Americana Dr. Emilio Ravignani",
+            "Instituto de Historia Argentina \"Doctor Emilio Ravignani\""
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q120722331",
+        "name": "Instituto de Investigaciones Arqueológicas y Paleontológicas del Cuaternario Pampeano",
+        "short_name": null,
+        "official_website": "https:\/\/incuapa.conicet.gov.ar\/",
+        "aliases": [
+            "INCUAPA"
+        ],
+        "latitude": -36.9152401,
+        "longitude": -60.3027895,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q125762026",
+        "name": "Instituto de Investigaciones en Diversidad Cultural y Procesos de Cambio",
+        "short_name": null,
+        "official_website": "https:\/\/iidypca.conicet.gov.ar",
+        "aliases": [
+            "IIDyPCa"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74548200",
+        "name": "Instituto de Investigaciones Filosóficas, Usal, San Miguel",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529337",
+        "name": "Instituto de Investigaciones Literarias y Discursivas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q117008022",
+        "name": "Instituto de Investigaciones Psicológicas",
+        "short_name": null,
+        "official_website": "https:\/\/iipsi.psicologia.unc.edu.ar\/",
+        "aliases": [
+            "Institute for Psychological Research"
+        ],
+        "latitude": -31.4371089,
+        "longitude": -64.1893958,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74536150",
+        "name": "Instituto de Investigaciones sobre el Patrimonio Cultural",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q97482589",
+        "name": "Instituto de Investigación y Desarrollo en Bioingeniería y Bioinformática",
+        "short_name": null,
+        "official_website": "https:\/\/ibb.conicet.gov.ar",
+        "aliases": [
+            "CONICET IBB",
+            "Institute for Research and Development in Bioengineering and Bioinformatics"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74556036",
+        "name": "Instituto de Lenguas y Literaturas Clásicas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q135494356",
+        "name": "Instituto de Limnología \"Dr. Raúl A. Ringuelet\"",
+        "short_name": null,
+        "official_website": "https:\/\/www.ilpla.edu.ar\/",
+        "aliases": [
+            "ILPLA"
+        ],
+        "latitude": -34.90984,
+        "longitude": -57.9261977,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q122873017",
+        "name": "Instituto de Literatura Argentina Ricardo Rojas",
+        "short_name": null,
+        "official_website": "http:\/\/ilar.institutos.filo.uba.ar\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q97924412",
+        "name": "Instituto de Química Física de los Materiales, Medio Ambiente y Energía",
+        "short_name": null,
+        "official_website": "http:\/\/www.inquimae.fcen.uba.ar\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q55454197",
+        "name": "Instituto de Tecnologías en Detección y Astropartículas",
+        "short_name": null,
+        "official_website": "http:\/\/www.iteda.cnea.gov.ar\/en\/",
+        "aliases": [
+            "ITeDA"
+        ],
+        "latitude": -34.594267,
+        "longitude": -58.428501,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5393477",
+        "name": "Instituto del Conurbano",
+        "short_name": null,
+        "official_website": "https:\/\/www.ungs.edu.ar\/ico\/instituto-del-conurbano",
+        "aliases": null,
+        "latitude": -34.5222222,
+        "longitude": -58.7,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q50892218",
+        "name": "Instituto Multidisciplinario de Biología Vegetal",
+        "short_name": null,
+        "official_website": "https:\/\/imbiv.conicet.unc.edu.ar",
+        "aliases": [
+            "Instituto Multidisciplinario de Biología Vegetal - IMBIV"
+        ],
+        "latitude": -31.434062,
+        "longitude": -64.1934275,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q66424698",
+        "name": "Instituto Multidisciplinario de Historia y Ciencias Humanas",
+        "short_name": null,
+        "official_website": "https:\/\/imhicihu.conicet.gov.ar\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q99078375",
+        "name": "Instituto Nacional del Cáncer",
+        "short_name": null,
+        "official_website": "https:\/\/www.argentina.gob.ar\/salud\/inc",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q57956804",
+        "name": "Instituto Superior de Investigaciones Biológicas",
+        "short_name": null,
+        "official_website": "http:\/\/insibio.org.ar\/",
+        "aliases": [
+            "INSIBIO"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6041497",
+        "name": "Instituto Superior Santo Domingo",
+        "short_name": null,
+        "official_website": "https:\/\/www.issd.edu.ar\/",
+        "aliases": null,
+        "latitude": -31.4132677,
+        "longitude": -64.1800312,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6041563",
+        "name": "Instituto Tecnológico de Córdoba",
+        "short_name": null,
+        "official_website": "http:\/\/www.fitc.unc.edu.ar\/",
+        "aliases": [
+            "Instituto Tecnologico de Cordoba"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q99522989",
+        "name": "Instituto Tecnológico del Sur",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5858872",
+        "name": "Interamerican Open University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uai.edu.ar\/",
+        "aliases": [
+            "UAI",
+            "Universidad Abierta Interamericana"
+        ],
+        "latitude": -34.62112,
+        "longitude": -58.37942,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q9008770",
+        "name": "Italian University Institute of Rosario",
+        "short_name": null,
+        "official_website": "https:\/\/www.iunir.edu.ar\/",
+        "aliases": null,
+        "latitude": -32.943834,
+        "longitude": -60.6420967,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894234",
+        "name": "John F. Kennedy Argentine University",
+        "short_name": null,
+        "official_website": "https:\/\/www.kennedy.edu.ar\/",
+        "aliases": [
+            "Universidad Kennedy"
+        ],
+        "latitude": -34.6074432,
+        "longitude": -58.3853243,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5403549",
+        "name": "Juan Agustín Maza University",
+        "short_name": null,
+        "official_website": "http:\/\/www.umaza.edu.ar\/",
+        "aliases": [
+            "Juan Agustin Maza University",
+            "Universidad Juan Agustín Maza"
+        ],
+        "latitude": -32.898624,
+        "longitude": -68.811697,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6520936",
+        "name": "Leloir Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.leloir.org.ar\/en\/",
+        "aliases": null,
+        "latitude": -34.604158,
+        "longitude": -58.434272,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156526",
+        "name": "Maimónides University",
+        "short_name": null,
+        "official_website": "https:\/\/www.maimonides.edu\/",
+        "aliases": null,
+        "latitude": -34.610295,
+        "longitude": -58.4405335,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6448746",
+        "name": "Mario Gulich Institute for Advanced Space Studies",
+        "short_name": null,
+        "official_website": "https:\/\/ig.conae.unc.edu.ar\/",
+        "aliases": null,
+        "latitude": -31.52064,
+        "longitude": -64.46527,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4981871",
+        "name": "National Agricultural Technology Institute",
+        "short_name": null,
+        "official_website": "http:\/\/inta.gob.ar\/",
+        "aliases": [
+            "INTA",
+            "INTA Argentina"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q115023098",
+        "name": "National Brownian Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.inb.gob.ar",
+        "aliases": null,
+        "latitude": -34.6294162,
+        "longitude": -58.364921,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q286325",
+        "name": "National Conservatory of Argentina",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Conservatorio Nacional Superior de Musica",
+            "National Music Conservatory of Argentina"
+        ],
+        "latitude": -34.5992104,
+        "longitude": -58.4017652,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q9008700",
+        "name": "National Institute of Human Viral Disease",
+        "short_name": null,
+        "official_website": "http:\/\/www.anlis.gov.ar\/inevh\/",
+        "aliases": [
+            "INEVH",
+            "INEVH Maiztegui",
+            "Instituto Nacional de Enfermedades Virales Humanas – ANLIS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q111835483",
+        "name": "National Institute of Musicology \"Carlos Vega\"",
+        "short_name": null,
+        "official_website": "https:\/\/inmcv.cultura.gob.ar\/",
+        "aliases": null,
+        "latitude": -34.6148381,
+        "longitude": -58.3739524,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3232206",
+        "name": "National Technological University",
+        "short_name": null,
+        "official_website": "https:\/\/www.utn.edu.ar\/",
+        "aliases": [
+            "UTN"
+        ],
+        "latitude": -34.6044444,
+        "longitude": -58.3727778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6978860",
+        "name": "National Technological University – Avellaneda Regional Faculty",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.6617,
+        "longitude": -58.3655,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6978866",
+        "name": "National Technological University – Concepción del Uruguay Regional Faculty",
+        "short_name": null,
+        "official_website": "http:\/\/www.frcu.utn.edu.ar\/",
+        "aliases": [
+            "Concepción del Uruguay Regional Faculty",
+            "FRCU",
+            "UTN-FRCU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6978867",
+        "name": "National Technological University – General Pacheco Regional Faculty",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6978870",
+        "name": "National Technological University – Mendoza Regional Faculty",
+        "short_name": null,
+        "official_website": "http:\/\/www.frm.utn.edu.ar\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q120204388",
+        "name": "National Technological University – Neuquén Regional Faculty",
+        "short_name": null,
+        "official_website": "http:\/\/www.frn.utn.edu.ar\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5854490",
+        "name": "National Technological University – Rosario Regional Faculty",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "FRRO"
+        ],
+        "latitude": -32.95461,
+        "longitude": -60.64382,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5854496",
+        "name": "National Technological University – San Francisco Regional Faculty",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "FRSFCO"
+        ],
+        "latitude": -31.42046,
+        "longitude": -62.110691,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5854498",
+        "name": "National Technological University – San Nicolás Regional Faculty",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "FRSN"
+        ],
+        "latitude": -33.33215,
+        "longitude": -60.20604,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6978879",
+        "name": "National Technological University – Tucumán Regional Faculty",
+        "short_name": null,
+        "official_website": "http:\/\/www.frt.utn.edu.ar\/",
+        "aliases": [
+            "FRT",
+            "Tucumán Regional Faculty"
+        ],
+        "latitude": -26.817,
+        "longitude": -65.1988,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979224",
+        "name": "National University of Austral Patagonia",
+        "short_name": null,
+        "official_website": "https:\/\/www.unpa.edu.ar\/",
+        "aliases": [
+            "UNPA"
+        ],
+        "latitude": -51.6472222,
+        "longitude": -69.2088889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156577",
+        "name": "National University of Avellaneda",
+        "short_name": null,
+        "official_website": "https:\/\/undav.edu.ar\/",
+        "aliases": [
+            "UNDAV"
+        ],
+        "latitude": -34.6629185,
+        "longitude": -58.3722126,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979234",
+        "name": "National University of Catamarca",
+        "short_name": null,
+        "official_website": "https:\/\/www.unca.edu.ar\/",
+        "aliases": [
+            "UNCA"
+        ],
+        "latitude": -28.45916,
+        "longitude": -65.78215,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5576619",
+        "name": "National University of Central Buenos Aires",
+        "short_name": null,
+        "official_website": "https:\/\/www.unicen.edu.ar\/",
+        "aliases": [
+            "UNICEN",
+            "UNIV NACL CENTRO PROVINCIA BUENOS AIRES"
+        ],
+        "latitude": -37.3288889,
+        "longitude": -59.1383333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979230",
+        "name": "National University of Chilecito",
+        "short_name": null,
+        "official_website": "https:\/\/www.undec.edu.ar\/",
+        "aliases": [
+            "UNdeC"
+        ],
+        "latitude": -29.1566667,
+        "longitude": -67.4713889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1570489",
+        "name": "National University of Córdoba",
+        "short_name": null,
+        "official_website": "https:\/\/www.unc.edu.ar\/",
+        "aliases": [
+            "UNC",
+            "National University of Cordoba",
+            "Universidad de Cordoba",
+            "Universidad de Córdoba",
+            "Universidad Nacional de Córdoba",
+            "Universidad Nacional de Córdoba (UNC)",
+            "University of Cordoba",
+            "University of Córdoba"
+        ],
+        "latitude": -31.4375,
+        "longitude": -64.1877778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6317539",
+        "name": "National University of Entre Ríos",
+        "short_name": null,
+        "official_website": "https:\/\/www.uner.edu.ar\/",
+        "aliases": [
+            "National University of Entre Rios"
+        ],
+        "latitude": -32.4839167,
+        "longitude": -58.2313889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979245",
+        "name": "National University of Formosa",
+        "short_name": null,
+        "official_website": "https:\/\/www.unf.edu.ar\/",
+        "aliases": [
+            "UNF"
+        ],
+        "latitude": -26.1919,
+        "longitude": -58.1999,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5733950",
+        "name": "National University of General San Martín",
+        "short_name": null,
+        "official_website": "https:\/\/www.unsam.edu.ar\/",
+        "aliases": [
+            "UNSAM",
+            "National University of General San Martin",
+            "Universidad Nacional de San Martín"
+        ],
+        "latitude": -34.58049,
+        "longitude": -58.52327,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1812180",
+        "name": "National University of General Sarmiento",
+        "short_name": null,
+        "official_website": "https:\/\/www.ungs.edu.ar\/",
+        "aliases": [
+            "UNGS"
+        ],
+        "latitude": -34.5222222,
+        "longitude": -58.7,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156583",
+        "name": "National University of José Clemente Paz",
+        "short_name": null,
+        "official_website": "https:\/\/www.unpaz.edu.ar\/",
+        "aliases": [
+            "UNPAZ"
+        ],
+        "latitude": -34.520388,
+        "longitude": -58.7455641,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6317490",
+        "name": "National University of Jujuy",
+        "short_name": null,
+        "official_website": "https:\/\/www.unju.edu.ar\/",
+        "aliases": [
+            "UNJu"
+        ],
+        "latitude": -24.1792028,
+        "longitude": -65.3245472,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979250",
+        "name": "National University of La Matanza",
+        "short_name": null,
+        "official_website": "https:\/\/www.unlam.edu.ar\/",
+        "aliases": [
+            "UNLaM",
+            "UNLM"
+        ],
+        "latitude": -34.6705556,
+        "longitude": -58.5627778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979257",
+        "name": "National University of La Pampa",
+        "short_name": null,
+        "official_website": "https:\/\/www.unlpam.edu.ar\/",
+        "aliases": [
+            "Universidad Nacional de La Pampa",
+            "UNLPam"
+        ],
+        "latitude": -36.62038,
+        "longitude": -64.28925,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q784171",
+        "name": "National University of La Plata",
+        "short_name": null,
+        "official_website": "https:\/\/unlp.edu.ar\/",
+        "aliases": [
+            "Universidad Nacional de La Plata",
+            "UNLP",
+            "UNIV NAC LA PLATA"
+        ],
+        "latitude": -34.9129694,
+        "longitude": -57.9513556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979253",
+        "name": "National University of La Rioja",
+        "short_name": null,
+        "official_website": "https:\/\/www.unlar.edu.ar\/",
+        "aliases": [
+            "UNLAR",
+            "UNLR"
+        ],
+        "latitude": -29.4288,
+        "longitude": -66.8673,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131030189",
+        "name": "National University of La Rioja - Chamical regional campus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Universidad Nacional de La Rioja sede regional Chamical",
+            "UNLaR Chamical",
+            "UNLR Chamical"
+        ],
+        "latitude": -30.3689635,
+        "longitude": -66.3126809,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979256",
+        "name": "National University of Lanús",
+        "short_name": null,
+        "official_website": "https:\/\/www.unla.edu.ar\/",
+        "aliases": [
+            "UNLa"
+        ],
+        "latitude": -34.7341667,
+        "longitude": -58.3905556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6316549",
+        "name": "National University of Lomas de Zamora",
+        "short_name": null,
+        "official_website": "https:\/\/www.unlz.edu.ar\/",
+        "aliases": [
+            "Universidad Nacional de Lomas de Zamora",
+            "UNLZ"
+        ],
+        "latitude": -34.7775,
+        "longitude": -58.4580556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979259",
+        "name": "National University of Luján",
+        "short_name": null,
+        "official_website": "https:\/\/www.unlu.edu.ar\/",
+        "aliases": [
+            "UNLu"
+        ],
+        "latitude": -34.5780556,
+        "longitude": -59.0872222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979260",
+        "name": "National University of Mar del Plata",
+        "short_name": null,
+        "official_website": "https:\/\/www.mdp.edu.ar\/",
+        "aliases": [
+            "Universidad Nacional de Mar del Plata",
+            "University of Mar del Plata"
+        ],
+        "latitude": -38.0057,
+        "longitude": -57.5713,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q690146",
+        "name": "National University of Misiones",
+        "short_name": null,
+        "official_website": "https:\/\/www.unam.edu.ar\/",
+        "aliases": [
+            "UNaM"
+        ],
+        "latitude": -27.4346389,
+        "longitude": -55.888,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156589",
+        "name": "National University of Moreno",
+        "short_name": null,
+        "official_website": "http:\/\/www.unm.edu.ar",
+        "aliases": [
+            "UNM"
+        ],
+        "latitude": -34.6517751,
+        "longitude": -58.7765888,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q9091584",
+        "name": "National University of Northwestern Buenos Aires",
+        "short_name": null,
+        "official_website": "https:\/\/www.unnoba.edu.ar\/",
+        "aliases": [
+            "UNNOBA"
+        ],
+        "latitude": -34.5713,
+        "longitude": -60.94885,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979265",
+        "name": "National University of Patagonia San Juan Bosco",
+        "short_name": null,
+        "official_website": "https:\/\/www.unp.edu.ar\/",
+        "aliases": [
+            "UNP",
+            "National University of the Patagonia San Juan Bosco",
+            "UNPSJB"
+        ],
+        "latitude": -45.82502,
+        "longitude": -67.46309,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6317522",
+        "name": "National University of Quilmes",
+        "short_name": null,
+        "official_website": "https:\/\/www.unq.edu.ar\/",
+        "aliases": null,
+        "latitude": -34.7066667,
+        "longitude": -58.2775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27832147",
+        "name": "National University of Rafaela",
+        "short_name": null,
+        "official_website": "https:\/\/www.unraf.edu.ar\/",
+        "aliases": null,
+        "latitude": -31.2715844,
+        "longitude": -61.5118021,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q796023",
+        "name": "National University of Río Cuarto",
+        "short_name": null,
+        "official_website": "https:\/\/www.unrc.edu.ar\/",
+        "aliases": [
+            "Universidad Nacional de Río Cuarto",
+            "UNRC"
+        ],
+        "latitude": -33.1097778,
+        "longitude": -64.3018889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156591",
+        "name": "National University of Río Negro",
+        "short_name": null,
+        "official_website": "https:\/\/www.unrn.edu.ar\/",
+        "aliases": [
+            "UNRN"
+        ],
+        "latitude": -39.09543,
+        "longitude": -67.09478,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979266",
+        "name": "National University of Salta",
+        "short_name": null,
+        "official_website": "https:\/\/www.unsa.edu.ar\/",
+        "aliases": [
+            "Universidad Nacional de Salta"
+        ],
+        "latitude": -24.72711,
+        "longitude": -65.40921,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27557477",
+        "name": "National University of San Antonio de Areco",
+        "short_name": null,
+        "official_website": "https:\/\/www.unsada.edu.ar\/",
+        "aliases": [
+            "UNSAdA"
+        ],
+        "latitude": -34.257391,
+        "longitude": -59.47966,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q934439",
+        "name": "National University of San Juan",
+        "short_name": null,
+        "official_website": "https:\/\/www.unsj.edu.ar\/",
+        "aliases": [
+            "UNSJ",
+            "Universidad Nacional de San Juan"
+        ],
+        "latitude": -31.5408333,
+        "longitude": -68.5777778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q9290218",
+        "name": "National University of San Luis",
+        "short_name": null,
+        "official_website": "https:\/\/www.unsl.edu.ar\/",
+        "aliases": [
+            "UNSL"
+        ],
+        "latitude": -33.29115,
+        "longitude": -66.33812,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q9091578",
+        "name": "National University of Santiago del Estero",
+        "short_name": null,
+        "official_website": "https:\/\/www.unse.edu.ar\/",
+        "aliases": [
+            "UNSE"
+        ],
+        "latitude": -27.801,
+        "longitude": -64.2511,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4315126",
+        "name": "National University of the Arts Prilidiano Pueyrredón",
+        "short_name": null,
+        "official_website": "https:\/\/www.una.edu.ar\/",
+        "aliases": null,
+        "latitude": -34.5947222,
+        "longitude": -58.3994444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979282",
+        "name": "National University of the Chaco Austral",
+        "short_name": null,
+        "official_website": "https:\/\/uncaus.edu.ar\/",
+        "aliases": [
+            "UNCAus"
+        ],
+        "latitude": -26.8011111,
+        "longitude": -60.4463889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q265866",
+        "name": "National University of the Littoral",
+        "short_name": null,
+        "official_website": "https:\/\/www.unl.edu.ar\/",
+        "aliases": [
+            "UNL, Argentina"
+        ],
+        "latitude": -31.6344444,
+        "longitude": -60.7052778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5261681",
+        "name": "National University of the Northeast",
+        "short_name": null,
+        "official_website": "https:\/\/www.unne.edu.ar\/",
+        "aliases": [
+            "UNNE",
+            "Universidad Nacional del Nordeste"
+        ],
+        "latitude": -27.4639,
+        "longitude": -58.8394,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979285",
+        "name": "National University of the West",
+        "short_name": null,
+        "official_website": "https:\/\/uno.edu.ar\/",
+        "aliases": [
+            "UNO"
+        ],
+        "latitude": -34.6647222,
+        "longitude": -58.6994444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5390556",
+        "name": "National University of Tierra del Fuego",
+        "short_name": null,
+        "official_website": "https:\/\/www.untdf.edu.ar\/",
+        "aliases": [
+            "UNTDF"
+        ],
+        "latitude": -54.8187321,
+        "longitude": -68.3255621,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979278",
+        "name": "National University of Tres de Febrero",
+        "short_name": null,
+        "official_website": "https:\/\/www.untref.edu.ar\/",
+        "aliases": [
+            "Universidad Nacional de Tres de Febrero",
+            "UNTREF"
+        ],
+        "latitude": -34.6016667,
+        "longitude": -58.5277778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979284",
+        "name": "National University of Tucumán",
+        "short_name": null,
+        "official_website": "https:\/\/www.unt.edu.ar\/",
+        "aliases": [
+            "UNT",
+            "National University of Tucuman",
+            "Universidad Nacional de Tucuman",
+            "Universidad Nacional de Tucumán"
+        ],
+        "latitude": -26.8422,
+        "longitude": -65.2313,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q9091583",
+        "name": "National University of Villa María",
+        "short_name": null,
+        "official_website": "https:\/\/www.unvm.edu.ar\/",
+        "aliases": [
+            "UNVM"
+        ],
+        "latitude": -32.3841386,
+        "longitude": -63.2617906,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156598",
+        "name": "National University of Villa Mercedes",
+        "short_name": null,
+        "official_website": "https:\/\/www.unvime.edu.ar\/",
+        "aliases": [
+            "UNViMe"
+        ],
+        "latitude": -33.68682,
+        "longitude": -65.46786,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74537172",
+        "name": "Núcleo de Investigación en Educación en Ciencia y Tecnología (NIECYT) - Departamento de Formación Docente, Facultad de Ciencias Exactas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q973767",
+        "name": "Pontifical Catholic University of Argentina",
+        "short_name": null,
+        "official_website": "http:\/\/www.uca.edu.ar\/",
+        "aliases": [
+            "UCA",
+            "Catholic University of Argentina"
+        ],
+        "latitude": -34.5935,
+        "longitude": -58.5098611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97583025",
+        "name": "Provincial University of Cordoba",
+        "short_name": null,
+        "official_website": "https:\/\/upc.edu.ar\/",
+        "aliases": [
+            "Universidad Provincial de Córdoba"
+        ],
+        "latitude": -31.43427,
+        "longitude": -64.1749,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74550537",
+        "name": "Proyecto En Letra",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q109423452",
+        "name": "Q109423452",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112751967",
+        "name": "Q112751967",
+        "short_name": null,
+        "official_website": "https:\/\/www.udelaciudad.edu.ar",
+        "aliases": [
+            "UCIUDAD",
+            "UniCABA"
+        ],
+        "latitude": -34.6106883,
+        "longitude": -58.370027,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q117087450",
+        "name": "Q117087450",
+        "short_name": null,
+        "official_website": "https:\/\/www.mendoza.conicet.gov.ar\/idevea\/",
+        "aliases": null,
+        "latitude": -34.6012499,
+        "longitude": -68.3279271,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118848045",
+        "name": "Q118848045",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.9106,
+        "longitude": -57.9416,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q120648323",
+        "name": "Q120648323",
+        "short_name": null,
+        "official_website": "https:\/\/ibiomar.conicet.gov.ar\/",
+        "aliases": null,
+        "latitude": -42.784563,
+        "longitude": -65.008883,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q120648361",
+        "name": "Q120648361",
+        "short_name": null,
+        "official_website": "https:\/\/ipgp.conicet.gov.ar\/",
+        "aliases": null,
+        "latitude": -42.7846654,
+        "longitude": -65.0089254,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q123210736",
+        "name": "Q123210736",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q125768138",
+        "name": "Q125768138",
+        "short_name": null,
+        "official_website": "https:\/\/www.unicepes.edu.mx",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125889310",
+        "name": "Q125889310",
+        "short_name": null,
+        "official_website": "https:\/\/isacepec.com.ar",
+        "aliases": null,
+        "latitude": -32.9643201,
+        "longitude": -60.6500728,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q128137502",
+        "name": "Q128137502",
+        "short_name": null,
+        "official_website": "https:\/\/unipe.edu.ar\/",
+        "aliases": null,
+        "latitude": -34.61714,
+        "longitude": -58.37727,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q128137965",
+        "name": "Q128137965",
+        "short_name": null,
+        "official_website": "https:\/\/unpilar.edu.ar\/",
+        "aliases": null,
+        "latitude": -26.8523637,
+        "longitude": -58.3098421,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q128138261",
+        "name": "Q128138261",
+        "short_name": null,
+        "official_website": "https:\/\/undelta.edu.ar\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q128139198",
+        "name": "Q128139198",
+        "short_name": null,
+        "official_website": "https:\/\/unrt.com.ar\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q128601838",
+        "name": "Q128601838",
+        "short_name": null,
+        "official_website": "https:\/\/web.upe.edu.ar\/",
+        "aliases": null,
+        "latitude": -34.7895199,
+        "longitude": -58.5231457,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q128601859",
+        "name": "Q128601859",
+        "short_name": null,
+        "official_website": "https:\/\/iupa.edu.ar\/sitio\/",
+        "aliases": null,
+        "latitude": -39.0178853,
+        "longitude": -67.5959193,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q128601864",
+        "name": "Q128601864",
+        "short_name": null,
+        "official_website": "https:\/\/iusm.edu.ar\/",
+        "aliases": null,
+        "latitude": -34.5079784,
+        "longitude": -58.4773738,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q128601874",
+        "name": "Q128601874",
+        "short_name": null,
+        "official_website": "https:\/\/iuse.edu.ar\/",
+        "aliases": null,
+        "latitude": -34.659295,
+        "longitude": -58.4643147,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q128601880",
+        "name": "Q128601880",
+        "short_name": null,
+        "official_website": "https:\/\/iups.jujuy.gob.ar\/",
+        "aliases": null,
+        "latitude": -24.24082,
+        "longitude": -65.27193,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q129344959",
+        "name": "Q129344959",
+        "short_name": null,
+        "official_website": "https:\/\/upatagonia.edu.ar\/",
+        "aliases": null,
+        "latitude": -38.951243,
+        "longitude": -68.055877,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131283737",
+        "name": "Q131283737",
+        "short_name": null,
+        "official_website": "https:\/\/ihaaafda.wixsite.com\/ihaaa",
+        "aliases": null,
+        "latitude": -34.9223552,
+        "longitude": -57.9421772,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q131343712",
+        "name": "Q131343712",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -32.3841386,
+        "longitude": -63.2617906,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q131562331",
+        "name": "Q131562331",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.6015299,
+        "longitude": -68.3303739,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135484441",
+        "name": "Q135484441",
+        "short_name": null,
+        "official_website": "https:\/\/iibicrit.conicet.gov.ar",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q135490323",
+        "name": "Q135490323",
+        "short_name": null,
+        "official_website": "https:\/\/uplab.edu.ar\/",
+        "aliases": null,
+        "latitude": -25.1114382,
+        "longitude": -58.2886468,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137357878",
+        "name": "Q137357878",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -33.9354282,
+        "longitude": -60.5592788,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q137358918",
+        "name": "Q137358918",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.5419609,
+        "longitude": -58.4412256,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q137359385",
+        "name": "Q137359385",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -41.1456447,
+        "longitude": -71.3130962,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q138473321",
+        "name": "Q138473321",
+        "short_name": null,
+        "official_website": "https:\/\/iae.institutos.filo.uba.ar\/",
+        "aliases": null,
+        "latitude": -34.6052222,
+        "longitude": -58.3707587,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20019056",
+        "name": "Q20019056",
+        "short_name": null,
+        "official_website": "https:\/\/www.upso.edu.ar\/",
+        "aliases": null,
+        "latitude": -38.6931294,
+        "longitude": -62.2421148,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2876214",
+        "name": "Q2876214",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.5222222,
+        "longitude": -58.7,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3064260",
+        "name": "Q3064260",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.5822,
+        "longitude": -58.3917,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q39081284",
+        "name": "Q39081284",
+        "short_name": null,
+        "official_website": "https:\/\/www.unlc.edu.ar\/",
+        "aliases": null,
+        "latitude": -32.3633594,
+        "longitude": -65.0173993,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q39081285",
+        "name": "Q39081285",
+        "short_name": null,
+        "official_website": "https:\/\/unau.edu.ar\/",
+        "aliases": null,
+        "latitude": -26.9937315,
+        "longitude": -54.4838421,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q39081287",
+        "name": "Q39081287",
+        "short_name": null,
+        "official_website": "https:\/\/www.unab.edu.ar\/",
+        "aliases": null,
+        "latitude": -34.7953151,
+        "longitude": -58.3894567,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q39081350",
+        "name": "Q39081350",
+        "short_name": null,
+        "official_website": "https:\/\/www.unso.edu.ar\/es\/",
+        "aliases": null,
+        "latitude": -34.5003095,
+        "longitude": -58.5811986,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5761046",
+        "name": "Q5761046",
+        "short_name": null,
+        "official_website": "https:\/\/cadic.conicet.gov.ar\/",
+        "aliases": null,
+        "latitude": -54.821301,
+        "longitude": -68.323937,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5839153",
+        "name": "Q5839153",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5907068",
+        "name": "Q5907068",
+        "short_name": null,
+        "official_website": "https:\/\/www.inpres.gob.ar\/",
+        "aliases": null,
+        "latitude": -31.5277958,
+        "longitude": -68.5610799,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q60602739",
+        "name": "Q60602739",
+        "short_name": null,
+        "official_website": "https:\/\/www.iugna.edu.ar",
+        "aliases": null,
+        "latitude": -34.6143865,
+        "longitude": -58.3696919,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156662",
+        "name": "Q6156662",
+        "short_name": null,
+        "official_website": "http:\/\/www.iunma.edu.ar\/",
+        "aliases": null,
+        "latitude": -34.6090958,
+        "longitude": -58.3722382,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q73741420",
+        "name": "Q73741420",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q84048804",
+        "name": "Q84048804",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -27.471067,
+        "longitude": -58.836303,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97624909",
+        "name": "Q97624909",
+        "short_name": null,
+        "official_website": "https:\/\/ifibyne.fcen.uba.ar\/",
+        "aliases": null,
+        "latitude": -34.5424065,
+        "longitude": -58.4388461,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74557185",
+        "name": "Red Iberoamericana de Ingeniería de Proyectos. RIIPRO.",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3551515",
+        "name": "River Plate Adventist University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uap.edu.ar",
+        "aliases": [
+            "UAP"
+        ],
+        "latitude": -32.0753349,
+        "longitude": -60.4646241,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11049501",
+        "name": "Saint Paul-T University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uspt.edu.ar\/",
+        "aliases": null,
+        "latitude": -26.8166667,
+        "longitude": -65.2166667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2496204",
+        "name": "Saint Thomas Aquinas University of the North",
+        "short_name": null,
+        "official_website": "https:\/\/www.unsta.edu.ar\/",
+        "aliases": null,
+        "latitude": -26.833159,
+        "longitude": -65.20522,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5838892",
+        "name": "School of Economics and Business Administration",
+        "short_name": null,
+        "official_website": "https:\/\/www.eseade.edu.ar\/",
+        "aliases": [
+            "Escuela Superior de Economía y Administración de Empresas",
+            "ESEADE"
+        ],
+        "latitude": -34.5808671,
+        "longitude": -58.4231477,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530705",
+        "name": "Seminario Mayor San José de La Plata",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18286571",
+        "name": "Siglo 21 University",
+        "short_name": null,
+        "official_website": "https:\/\/www.21.edu.ar\/",
+        "aliases": [
+            "21st Century Business University"
+        ],
+        "latitude": -31.32304,
+        "longitude": -64.22188,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52575383",
+        "name": "Sociedad Argentina de Análisis Filosófico (SADAF)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16635133",
+        "name": "Sociedad Argentina de Botánica",
+        "short_name": null,
+        "official_website": "https:\/\/botanicaargentina.org.ar",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q119728885",
+        "name": "Soil Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "CIRN Institute of Soils",
+            "Instituto de Suelos"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6138980",
+        "name": "Torcuato di Tella Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Instituto TORCUATO DI TELLA"
+        ],
+        "latitude": -34.5971779,
+        "longitude": -58.375489,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1333933",
+        "name": "Torcuato di Tella University",
+        "short_name": null,
+        "official_website": "https:\/\/www.utdt.edu\/",
+        "aliases": [
+            "University Torcuato Di Tella"
+        ],
+        "latitude": -34.5474167,
+        "longitude": -58.4466944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q127387637",
+        "name": "Torcuato Di Tella University Department of Economics",
+        "short_name": null,
+        "official_website": "https:\/\/www.utdt.edu\/ver_contenido.php?id_contenido=102&id_item_menu=435",
+        "aliases": [
+            "Torcuato Di Tella University Economics Department",
+            "University Torcuato Di Tella Department of Economics"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3152335",
+        "name": "UNESCO International Institute for Educational Planning",
+        "short_name": null,
+        "official_website": "https:\/\/www.iiep.unesco.org\/en",
+        "aliases": [
+            "IIEP-UNESCO",
+            "International Institute for Educational Planning"
+        ],
+        "latitude": 48.8628874,
+        "longitude": 2.2782039,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530015",
+        "name": "Universidad Abierta Interamericana, Fundación Iberoamericana de Estudios Superiores",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527521",
+        "name": "Universidad Austral Argentina, Facultad de Comunicación",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156394",
+        "name": "Universidad Católica de Cuyo",
+        "short_name": null,
+        "official_website": "http:\/\/www.uccuyo.edu.ar\/ucc3",
+        "aliases": [
+            "UCC",
+            "UCCuyo"
+        ],
+        "latitude": -31.5372222,
+        "longitude": -68.5205556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74547466",
+        "name": "Universidad Católica de Córdoba, Facultad de Educación",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156404",
+        "name": "Universidad Católica de Santa Fe",
+        "short_name": null,
+        "official_website": "https:\/\/www.ucsf.edu.ar\/",
+        "aliases": null,
+        "latitude": -31.6058328,
+        "longitude": -60.6709839,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74528762",
+        "name": "Universidad de Buenos Aires, Ciclo Básico Común, Biología para el Tercer Milenio",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547106",
+        "name": "Universidad de Buenos Aires, Facultad de Ciencias Sociales, Instituto de Investigaciones Gino Germani, Programa de Investigaciones sobre Conflicto Social",
+        "short_name": null,
+        "official_website": "https:\/\/iigg.sociales.uba.ar",
+        "aliases": [
+            "IIGG",
+            "IIGG-UBA",
+            "Instituto de Investigaciones Gino Germani"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528673",
+        "name": "Universidad de Buenos Aires, Facultad de Filosofía y Letras, Departamento de Letras",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74546128",
+        "name": "Universidad de Buenos Aires, Facultad de Filosofía y Letras, Instituto de Antropología Social",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74551946",
+        "name": "Universidad de Buenos Aires, Facultad de Filosofía y Letras, Instituto de Ciencias Antropológicas, Sección Etnohistoria",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74553784",
+        "name": "Universidad de Buenos Aires, Facultad de Filosofía y Letras, Instituto de Historia Argentina y Americana Dr. Emilio Ravignani",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q56317249",
+        "name": "Universidad de Buenos Aires, Facultad de Filosofía y Letras, Instituto de Investigaciones Bibliotecológicas",
+        "short_name": null,
+        "official_website": "http:\/\/inibi.institutos.filo.uba.ar",
+        "aliases": null,
+        "latitude": -34.6281429,
+        "longitude": -58.4462174,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528130",
+        "name": "Universidad de Buenos Aires, Facultad de Filosofía y Letras, Instituto de Lingüística",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74536101",
+        "name": "Universidad de Buenos Aires, Instituto de Estudios de América Latina y el Caribe",
+        "short_name": null,
+        "official_website": "https:\/\/iealc.sociales.uba.ar\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2887298",
+        "name": "Universidad de Ciencias Empresariales y Sociales",
+        "short_name": null,
+        "official_website": "https:\/\/www.uces.edu.ar\/",
+        "aliases": [
+            "UCES",
+            "UCES University"
+        ],
+        "latitude": -34.5980907,
+        "longitude": -58.3871549,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156753",
+        "name": "Universidad de Congreso",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucongreso.edu.ar\/",
+        "aliases": null,
+        "latitude": -32.8942383,
+        "longitude": -68.8417374,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894334",
+        "name": "Universidad de Morón",
+        "short_name": null,
+        "official_website": "http:\/\/www.unimoron.edu.ar\/",
+        "aliases": [
+            "Universidad de Moron"
+        ],
+        "latitude": -34.6467,
+        "longitude": -58.62,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530733",
+        "name": "Universidad de Palermo, Facultad de Ciencias Sociales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.5950543,
+        "longitude": -58.4148112,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2885322",
+        "name": "Universidad del Aconcagua",
+        "short_name": null,
+        "official_website": "http:\/\/www.uda.edu.ar\/",
+        "aliases": null,
+        "latitude": -32.889917,
+        "longitude": -68.836417,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q117788390",
+        "name": "Universidad del Este",
+        "short_name": null,
+        "official_website": "https:\/\/www.ude.edu.ar\/",
+        "aliases": null,
+        "latitude": -34.9071454,
+        "longitude": -57.9482494,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156851",
+        "name": "Universidad del Museo Social Argentino",
+        "short_name": null,
+        "official_website": "https:\/\/www.umsa.edu.ar\/",
+        "aliases": null,
+        "latitude": -34.6038801,
+        "longitude": -58.3913157,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74557422",
+        "name": "Universidad del Norte Santo Tomás de Aquino, Instituto de Investigaciones Históricas \"Prof. Manuel Soriano\"",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529749",
+        "name": "Universidad del Salvador, Facultad de Ciencias Sociales, Instituto de Investigación en Ciencias Sociales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q29045289",
+        "name": "Universidad Isalud",
+        "short_name": null,
+        "official_website": "https:\/\/www.isalud.edu.ar\/inicio",
+        "aliases": null,
+        "latitude": -34.6133302,
+        "longitude": -58.3794221,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109467100",
+        "name": "Universidad Metropolitana para la Educación y el Trabajo",
+        "short_name": null,
+        "official_website": "https:\/\/umet.edu.ar\/",
+        "aliases": [
+            "Metropolitan University for Education and Work",
+            "UMET"
+        ],
+        "latitude": -34.6050903,
+        "longitude": -58.3956341,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74548767",
+        "name": "Universidad Nacional de Avellaneda, Secretaría de Investigación e Innovación Productiva",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1076209",
+        "name": "Universidad Nacional de Cuyo",
+        "short_name": null,
+        "official_website": "https:\/\/www.uncuyo.edu.ar\/",
+        "aliases": [
+            "National University of Cuyo"
+        ],
+        "latitude": -32.8804333,
+        "longitude": -68.8777333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74528455",
+        "name": "Universidad Nacional de Córdoba (UNC), Facultad de Ciencias Sociales, Instituto de Investigación y Formación en Administración Pública (IIFAP)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74554965",
+        "name": "Universidad Nacional de Córdoba, Centro de Investigaciones de la Facultad de Filosofía y Humanidades",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528738",
+        "name": "Universidad Nacional de Córdoba, Facultad de Arquitectura, Urbanismo y Diseño, Instituto de Investigación de Vivienda y Hábitat",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74549226",
+        "name": "Universidad Nacional de Córdoba, Facultad de Ciencias Económicas, Instituto de Economía y Finanzas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528418",
+        "name": "Universidad Nacional de Córdoba, Facultad de Ciencias Sociales, Dirección de Carrera de Licenciatura en Trabajo Social",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528108",
+        "name": "Universidad Nacional de Córdoba, Facultad de Filosofia y Humanidades, Centro de Investigaciones Maria Saleme de Burnichon",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529013",
+        "name": "Universidad Nacional de Córdoba, Facultad de Filosofia y Humanidades, Centro de Investigaciones, Área Letras",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529341",
+        "name": "Universidad Nacional de Córdoba, Facultad de Filosofía y Humanidades, Centro de Investigaciones",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74554935",
+        "name": "Universidad Nacional de Córdoba, Facultad de Filosofía, Escuela de Historia de América",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528057",
+        "name": "Universidad Nacional de Córdoba, Facultad de Lenguas. Centro de Investigación en Literatura y Cultura",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74550426",
+        "name": "Universidad Nacional de Córdoba, Facultad de Psicología, Laboratorio de Evaluación Psicológica y Educativa",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74542818",
+        "name": "Universidad Nacional de General Sarmiento, Instituto de Desarrollo Económico y Social",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q28501872",
+        "name": "Universidad Nacional de Hurlingham",
+        "short_name": null,
+        "official_website": "https:\/\/unahur.edu.ar\/",
+        "aliases": null,
+        "latitude": -34.618093,
+        "longitude": -58.637751,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74538100",
+        "name": "Universidad Nacional de la Matanza, Departamento de Ciencias Económicas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530544",
+        "name": "Universidad Nacional de La Pampa, Facultad de Ciencias Económicas y Jurídicas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528394",
+        "name": "Universidad Nacional de La Pampa, Facultad de Ciencias Humanas, Instituto de Ciencias de la Educación",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528417",
+        "name": "Universidad Nacional de La Pampa. Facultad de Ciencias Humanas, Instituto de Geografía",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74545083",
+        "name": "Universidad Nacional de La Plata, Departamento de Educación Física",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74535845",
+        "name": "Universidad Nacional de La Plata, Facultad de Bellas Artes",
+        "short_name": null,
+        "official_website": "https:\/\/fba.unlp.edu.ar\/",
+        "aliases": null,
+        "latitude": -34.9221613,
+        "longitude": -57.9414447,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547100",
+        "name": "Universidad Nacional de La Plata, Facultad de Ciencias Jurídicas y Sociales, Instituto de Integración Latinoamericana",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74540139",
+        "name": "Universidad Nacional de La Plata, Facultad de Ciencias Veterinarias",
+        "short_name": null,
+        "official_website": "https:\/\/www.fcv.unlp.edu.ar\/",
+        "aliases": null,
+        "latitude": -34.9114041,
+        "longitude": -57.9304407,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74535879",
+        "name": "Universidad Nacional de La Plata, Facultad de Humanidades y Ciencias de la Educación, Centro de Teoría y Crítica Literaria",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Universidad Nacional de La Plata, Facultad de Humanidades y Ciencias de la Educación, Secretaría de Investigación, Centro de Estudios de Teoría y Crítica Literaria"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74537171",
+        "name": "Universidad Nacional de La Plata, Facultad de Humanidades y Ciencias de la Educación, Centro Interdisciplinario de Metodología de las Ciencias Sociales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.8999019,
+        "longitude": -57.9324166,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552203",
+        "name": "Universidad Nacional de La Plata, Facultad de Humanidades y Ciencias de la Educación, Departamento de Bibliotecología",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.8999487,
+        "longitude": -57.9319569,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74551483",
+        "name": "Universidad Nacional de La Plata, Facultad de Periodismo y Comunicación Social, Centro de Estudios en Historia, Comunicación, Periodismo y Medios",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74551944",
+        "name": "Universidad Nacional de La Plata. Facultad de Ciencias Jurídicas y Sociales. Instituto de Relaciones Internacionales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528406",
+        "name": "Universidad Nacional de Lomas de Zamora, Facultad de Ingeniería, Secretaria de Planeamiento",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529684",
+        "name": "Universidad Nacional de Mar del Plata, Centro de Estudios Sociales y Políticos",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528972",
+        "name": "Universidad Nacional de Mar del Plata, Facultad de Humanidades, Centro de Letras Hispanoamericanas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74538069",
+        "name": "Universidad Nacional de Mar del Plata, Facultad de Humanidades, Departamento de Letras, Grupo de Investigación Estudios de Teoría Literaria",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74546037",
+        "name": "Universidad Nacional de Mar del Plata, Facultad de Humanidades, Red de Historia Moderna, Grupo de Investigaciones en Historia de Europa Moderna",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74550444",
+        "name": "Universidad Nacional de Mar del Plata, Facultad de Psicología",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74548740",
+        "name": "Universidad Nacional de Misiones, Facultad de Ciencias Económicas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74541820",
+        "name": "Universidad Nacional de Misiones, Facultad de Ciencias Exactas, Químicas y Naturales, Secretaría de Investigación y Posgrado",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74540160",
+        "name": "Universidad Nacional de Misiones, Facultad de Humanidades y Ciencias Sociales, Secretaría de Investigación, Programa de Posgrado",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74539636",
+        "name": "Universidad Nacional de Quilmes, Centro de Estudios de la Argentina Rural",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.7065416,
+        "longitude": -58.278429,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74539008",
+        "name": "Universidad Nacional de Quilmes, Centro de Estudios e Investigaciones, Programa de Historia Intelectual",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527847",
+        "name": "Universidad Nacional de Quilmes, Secretaría de Posgrado",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5255905",
+        "name": "Universidad Nacional de Rosario",
+        "short_name": null,
+        "official_website": "https:\/\/unr.edu.ar\/",
+        "aliases": [
+            "UNR",
+            "National University of Rosario",
+            "Universidad de Rosario"
+        ],
+        "latitude": -32.9427778,
+        "longitude": -60.65,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530268",
+        "name": "Universidad Nacional de Rosario, Facultad de Arquitectura, Planeamiento y Diseño",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528693",
+        "name": "Universidad Nacional de Rosario, Facultad de Ciencia Política y Relaciones Internacionales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74537117",
+        "name": "Universidad Nacional de Rosario, Facultad de Ciencias Económicas y Estadística",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552267",
+        "name": "Universidad Nacional de Rosario, Facultad de Humanidades y Artes, Centro de Estudios de Teoría y Crítica Literaria",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529747",
+        "name": "Universidad Nacional de Rosario, Facultad de Humanidades y Artes, Escuela de Música",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Universidad Nacional de Rosario, Facultad de Humanidades y Artes, Escuela de Historia"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552546",
+        "name": "Universidad Nacional de Rosario; Consejo Nacional de Investigaciones Científicas y Técnicas, Nodo Centro de Estudios Sociales Regionales, Unidad Ejecutora Investigaciones Socio-Históricas Regionales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529335",
+        "name": "Universidad Nacional de Río Cuarto, Taller de Etnohistoria de la Frontera Sur",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528993",
+        "name": "Universidad Nacional de Salta, Centro de Investigaciones Sociales y Educativas del Norte Argentino",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74536396",
+        "name": "Universidad Nacional de San Juan, Facultad de Filosofía, Humanidades y Artes, Departamento de Historia, Gabinete de Historia Universal",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74543444",
+        "name": "Universidad Nacional de Santiago del Estero, Facultad de Ciencias Forestales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552644",
+        "name": "Universidad Nacional de Santiago del Estero. Instuto de Estudios para el Desarrollo Social",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527426",
+        "name": "Universidad Nacional de Tres de Febrero, Centro de Estudios sobre Genocidio",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529673",
+        "name": "Universidad Nacional de Tres de Febrero, Instituto de Investigaciones en Arte y Cultura \"Dr. Norberto Griffa\", Programa de Estudios Latinoamericanos, Contemporáneos y Comparados",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529345",
+        "name": "Universidad Nacional de Tucumán, Facultad de Filosofía y Letras, Instituto Interdisciplinario de Estudios Latinoamericanos",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74553727",
+        "name": "Universidad Nacional de Villa María, Instituto Académico Pedagógico de Ciencias Sociales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74550479",
+        "name": "Universidad Nacional del Centro de la Provincia de Buenos Aires Facultad de Ciencias Humanas Centro de Investigaciones y Estudios Ambientales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547149",
+        "name": "Universidad Nacional del Centro de la Provincia de Buenos Aires, Facultad de Ciencias Humanas. Carrera de Trabajo Social",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4315122",
+        "name": "Universidad Nacional del Comahue",
+        "short_name": null,
+        "official_website": "https:\/\/www.uncoma.edu.ar\/",
+        "aliases": [
+            "National University of Comahue",
+            "UNCo",
+            "UNCOMA"
+        ],
+        "latitude": -38.9403,
+        "longitude": -68.0558,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74536753",
+        "name": "Universidad Nacional del Comahue, Centro Universitario Regional Zona Atlántica",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530549",
+        "name": "Universidad Nacional del Comahue, Facultad de Derecho y Ciencias Sociales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74549589",
+        "name": "Universidad Nacional del Comahue, Facultad de Humanidades, Departamento de Filosofía",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530729",
+        "name": "Universidad Nacional del Comahue, Facultad de Lenguas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530333",
+        "name": "Universidad Nacional del Comahue, Facultad de Turismo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527510",
+        "name": "Universidad Nacional del Litoral, Centro de Investigaciones Teórico-literarias (Cedintel)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74540091",
+        "name": "Universidad Nacional del Litoral, Facultad de Ciencias Económicas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74551942",
+        "name": "Universidad Nacional del Litoral, Facultad de Ciencias Veterinarias",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529065",
+        "name": "Universidad Nacional del Litoral, Facultad de Humanidades y Ciencias",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528415",
+        "name": "Universidad Nacional del Litoral, Facultad de Humanidades y Ciencias, Instituto de Desarrollo e Investigación para la Formación Docente",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74546002",
+        "name": "Universidad Nacional del Nordeste, Centro de Estudios Sociales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527817",
+        "name": "Universidad Nacional del Nordeste, Facultad de Ciencias Económicas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527134",
+        "name": "Universidad Nacional del Nordeste, Facultad de Humanidades, Instituto de Filosofía",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528737",
+        "name": "Universidad Nacional del Nordeste, Instituto de Investigaciones Geohistóricas - CONICET",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529009",
+        "name": "Universidad Nacional del Nordeste. Facultad de Arquitectura y Urbanismo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5484518",
+        "name": "Universidad Nacional del Sur",
+        "short_name": null,
+        "official_website": "https:\/\/www.uns.edu.ar\/",
+        "aliases": [
+            "National University of the South"
+        ],
+        "latitude": -38.7014,
+        "longitude": -62.2694,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29045292",
+        "name": "Universidad Notarial Argentina",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.9119761,
+        "longitude": -57.9457604,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5557944",
+        "name": "Universidad Obrera Nacional",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q114878252",
+        "name": "Universidad Tecnológica Nacional, Facultad Regional Buenos Aires",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.6597223,
+        "longitude": -58.4677792,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5917985",
+        "name": "University Institute of the Argentine Federal Police",
+        "short_name": null,
+        "official_website": "https:\/\/www.universidad-policial.edu.ar\/",
+        "aliases": [
+            "IUPFA"
+        ],
+        "latitude": -34.61977,
+        "longitude": -58.43638,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1789101",
+        "name": "University of Belgrano",
+        "short_name": null,
+        "official_website": "https:\/\/ub.edu.ar\/",
+        "aliases": [
+            "UB"
+        ],
+        "latitude": -34.5639056,
+        "longitude": -58.44375,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q194223",
+        "name": "University of Buenos Aires",
+        "short_name": null,
+        "official_website": "https:\/\/www.uba.ar\/",
+        "aliases": [
+            "Universidad de Buenos Aires"
+        ],
+        "latitude": -34.5997222,
+        "longitude": -58.3730556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551776",
+        "name": "University of CEMA",
+        "short_name": null,
+        "official_website": "https:\/\/www.ucema.edu.ar",
+        "aliases": [
+            "UCEMA",
+            "Universidad del CEMA"
+        ],
+        "latitude": -34.5988,
+        "longitude": -58.3724,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156842",
+        "name": "University of Chubut",
+        "short_name": null,
+        "official_website": "https:\/\/udc.edu.ar\/",
+        "aliases": null,
+        "latitude": -43.2992448,
+        "longitude": -65.0981803,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q9091667",
+        "name": "University of Cinema",
+        "short_name": null,
+        "official_website": "https:\/\/www.ucine.edu.ar\/",
+        "aliases": [
+            "Fundacion Universidad del Cine",
+            "Universidad del Cine. Argentina"
+        ],
+        "latitude": -34.6178889,
+        "longitude": -58.3706389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156752",
+        "name": "University of Concepción del Uruguay",
+        "short_name": null,
+        "official_website": "https:\/\/ucu.edu.ar\/",
+        "aliases": [
+            "UCU",
+            "University of Concepcion del Uruguay"
+        ],
+        "latitude": -32.4814846,
+        "longitude": -58.2297089,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2880081",
+        "name": "University of Cuenca del Plata",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucp.edu.ar\/",
+        "aliases": null,
+        "latitude": -27.475115,
+        "longitude": -58.852502,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11727843",
+        "name": "University of La Punta",
+        "short_name": null,
+        "official_website": "https:\/\/www.ulp.edu.ar\/",
+        "aliases": null,
+        "latitude": -33.1484119,
+        "longitude": -66.307301,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2883574",
+        "name": "University of Mendoza",
+        "short_name": null,
+        "official_website": "http:\/\/www.um.edu.ar",
+        "aliases": null,
+        "latitude": -32.891711,
+        "longitude": -68.861129,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896057",
+        "name": "University of Palermo",
+        "short_name": null,
+        "official_website": "https:\/\/www.palermo.edu\/",
+        "aliases": [
+            "Universidad de Palermo"
+        ],
+        "latitude": -34.5974,
+        "longitude": -58.416,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5242548",
+        "name": "University of San Andrés",
+        "short_name": null,
+        "official_website": "https:\/\/www.udesa.edu.ar\/",
+        "aliases": [
+            "University of San Andres"
+        ],
+        "latitude": -34.4467,
+        "longitude": -58.5294,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896708",
+        "name": "University of the Latin American Educational Center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -32.9557928,
+        "longitude": -60.6439712,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30293945",
+        "name": "University of the Merchant Marine",
+        "short_name": null,
+        "official_website": "https:\/\/udemm.edu.ar\/",
+        "aliases": [
+            "UdeMM"
+        ],
+        "latitude": -34.6097222,
+        "longitude": -58.3984167,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q39081348",
+        "name": "University of the National Defence",
+        "short_name": null,
+        "official_website": "https:\/\/www.undef.edu.ar\/",
+        "aliases": [
+            "UNDEF Argentina"
+        ],
+        "latitude": -34.60513,
+        "longitude": -58.3767,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3115667",
+        "name": "University of the Salvador",
+        "short_name": null,
+        "official_website": "https:\/\/www.usal.edu.ar\/",
+        "aliases": [
+            "USAL"
+        ],
+        "latitude": -34.5996389,
+        "longitude": -58.3929111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100927381",
+        "name": "Yorker International University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

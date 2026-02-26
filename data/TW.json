@@ -1,0 +1,4262 @@
+[
+    {
+        "wikidata_id": "Q117707622",
+        "name": "Academia Sinica Biotechnology Center in Southern Taiwan",
+        "short_name": null,
+        "official_website": "https:\/\/www.as-bcst.sinica.edu.tw",
+        "aliases": null,
+        "latitude": 22.9243371,
+        "longitude": 120.292789,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10875095",
+        "name": "Academia Sinica Institute of Astronomy and Astrophysics",
+        "short_name": null,
+        "official_website": "http:\/\/www.asiaa.sinica.edu.tw\/",
+        "aliases": [
+            "ASIAA",
+            "Institute of Astronomy and Astrophysics"
+        ],
+        "latitude": 25.022527,
+        "longitude": 121.538171,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4716513",
+        "name": "Aletheia University",
+        "short_name": null,
+        "official_website": "http:\/\/www.au.edu.tw",
+        "aliases": null,
+        "latitude": 23.2176667,
+        "longitude": 120.2248333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10891299",
+        "name": "Architecture and Building Research Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.abri.gov.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10882754",
+        "name": "Asia Eastern University of Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/eng-rp.aeust.edu.tw\/",
+        "aliases": null,
+        "latitude": 24.9959,
+        "longitude": 121.4527,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q137929811",
+        "name": "Asia UAV AI Innovation Application R&D Center",
+        "short_name": null,
+        "official_website": "https:\/\/spacechiayi.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4806490",
+        "name": "Asia University",
+        "short_name": null,
+        "official_website": "https:\/\/www.asia.edu.tw\/",
+        "aliases": [
+            "Asia University,Taiwan",
+            "asia.edu.tw",
+            "Yàzhōu Dàxué"
+        ],
+        "latitude": 24.046941,
+        "longitude": 120.68652,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q303316",
+        "name": "Asia-Pacific Institute of Creativity",
+        "short_name": null,
+        "official_website": "http:\/\/www.apic.edu.tw\/",
+        "aliases": [
+            "APIC",
+            "Chin-Min College",
+            "Chin-Min Institute of Technology"
+        ],
+        "latitude": 24.6829444,
+        "longitude": 120.9702333,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q74542142",
+        "name": "Association for Dental Sciences of The Republic of China",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q15574199",
+        "name": "Cardinal Tien College of Healthcare and Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.ctcn.edu.tw\/ctcnEnglish\/ctcnindexEN.htm",
+        "aliases": [
+            "CTCN"
+        ],
+        "latitude": 24.977,
+        "longitude": 121.537,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q10875117",
+        "name": "Central Police University",
+        "short_name": null,
+        "official_website": "http:\/\/www.cpu.edu.tw\/",
+        "aliases": [
+            "Zhōngyāng Jǐngchá Dàxué"
+        ],
+        "latitude": 25.0469444,
+        "longitude": 121.3475,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10875989",
+        "name": "Central Taiwan University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.ctust.edu.tw\/",
+        "aliases": [
+            "Zhōngtái Kējì Dàxué"
+        ],
+        "latitude": 24.174,
+        "longitude": 120.735,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2748799",
+        "name": "Chang Gung University",
+        "short_name": null,
+        "official_website": "http:\/\/www.cgu.edu.tw",
+        "aliases": [
+            "Chang Gung College of Medicine and Technology",
+            "Chang Gung Medical College"
+        ],
+        "latitude": 25.033482,
+        "longitude": 121.387478,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013998",
+        "name": "Chang Gung University Department of Industrial and Business Management",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013999",
+        "name": "Chang Gung University Department of Medical Imaging and Radiological Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11088934",
+        "name": "Chang Gung University of Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.cgust.edu.tw\/",
+        "aliases": [
+            "CGUST"
+        ],
+        "latitude": 25.0333,
+        "longitude": 121.3901,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5071633",
+        "name": "Chang Jung Christian University",
+        "short_name": null,
+        "official_website": "http:\/\/www.cjcu.edu.tw",
+        "aliases": [
+            "Zhǎngróng Dàxué"
+        ],
+        "latitude": 22.9027222,
+        "longitude": 120.2725278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5072867",
+        "name": "Chaoyang University of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.cyut.edu.tw\/",
+        "aliases": [
+            "CYUT"
+        ],
+        "latitude": 24.0686111,
+        "longitude": 120.7144444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11123301",
+        "name": "Cheng Shiu University",
+        "short_name": null,
+        "official_website": "http:\/\/www.csu.edu.tw\/",
+        "aliases": [
+            "Zhēngxiū Kējì Dàxué"
+        ],
+        "latitude": 22.6503333,
+        "longitude": 120.35,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014047",
+        "name": "Cheng Shiu University Department of International Business",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5095141",
+        "name": "Chia Nan University of Pharmacy and Science",
+        "short_name": null,
+        "official_website": "http:\/\/www.chna.edu.tw\/",
+        "aliases": [
+            "CNU"
+        ],
+        "latitude": 22.9209,
+        "longitude": 120.225,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1688905",
+        "name": "Chiao Tung University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Jiao Tong University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q706472",
+        "name": "Chien Hsin University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.uch.edu.tw",
+        "aliases": [
+            "Ching Yun University"
+        ],
+        "latitude": 24.9472778,
+        "longitude": 121.2300111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11065261",
+        "name": "Chienkuo Technology University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ctu.edu.tw\/index.php?Lang=en",
+        "aliases": [
+            "Chienkuo Commercial Junior College",
+            "Chienkuo Institute of Technology"
+        ],
+        "latitude": 24.0665,
+        "longitude": 120.55,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5097298",
+        "name": "Chihlee University of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.chihlee.edu.tw\/",
+        "aliases": [
+            "Chihlee Institute of Technology"
+        ],
+        "latitude": 25.0211667,
+        "longitude": 121.4651111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q706177",
+        "name": "China Medical University",
+        "short_name": null,
+        "official_website": "https:\/\/www.cmu.edu.tw\/",
+        "aliases": [
+            "CMU",
+            "China Medical College"
+        ],
+        "latitude": 24.1565,
+        "longitude": 120.681,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014052",
+        "name": "China Medical University Department of Public Health",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10876513",
+        "name": "China University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.cust.edu.tw",
+        "aliases": [
+            "China Institute of Technology",
+            "China Junior College of Technology",
+            "China Junior College of Technology and Commerce",
+            "CUST"
+        ],
+        "latitude": 25.0345,
+        "longitude": 121.61,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q679974",
+        "name": "China University of Technology",
+        "short_name": null,
+        "official_website": "https:\/\/cpland.gm.cute.edu.tw\/",
+        "aliases": [
+            "China Junior College of Industrial and Commercial Management",
+            "Chinese Municipal Vocational School",
+            "Chung Kuo Institute of Technology"
+        ],
+        "latitude": 24.9987,
+        "longitude": 121.5551,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74553744",
+        "name": "Chinese Association of Urban Management",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "CAUM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q707140",
+        "name": "Chinese Culture University",
+        "short_name": "CCU",
+        "official_website": "http:\/\/www.pccu.edu.tw",
+        "aliases": [
+            "CCU",
+            "Far East University",
+            "College of Chinese Culture",
+            "Zhōngguó Wénhuà Dàxué"
+        ],
+        "latitude": 25.1333333,
+        "longitude": 121.5333333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014103",
+        "name": "Chinese Culture University Department of Counseling Psychology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10927357",
+        "name": "Chung Cheng Institute of Technology, National Defense University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ccit.ndu.edu.tw",
+        "aliases": [
+            "NMS",
+            "HIT",
+            "CCIT",
+            "School of Military Engineering",
+            "Chung Cheng Institute of Technology",
+            "Hanyang Institute of Technology",
+            "Hanyang Military Technical School",
+            "Naval Mechanical School",
+            "College of Ordnance Engineering",
+            "institute of technology Chung Cheng",
+            "College of Naval  Engineering",
+            "School of Surveying , ALC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q392138",
+        "name": "Chung Chou University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.ccut.edu.tw\/",
+        "aliases": null,
+        "latitude": 23.957778,
+        "longitude": 120.605917,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q718352",
+        "name": "Chung Hua University",
+        "short_name": null,
+        "official_website": "http:\/\/www.chu.edu.tw\/",
+        "aliases": [
+            "Chung Hua Polytechnic Institute"
+        ],
+        "latitude": 24.7583333,
+        "longitude": 120.9527778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10876571",
+        "name": "Chung Hwa University of Medical Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.hwai.edu.tw\/",
+        "aliases": [
+            "China Junior College of Medical Technology",
+            "Chung Hwa College of Medical Technology"
+        ],
+        "latitude": 22.960972,
+        "longitude": 120.244417,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5116334",
+        "name": "Chung Shan Medical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.csmu.edu.tw\/",
+        "aliases": [
+            "CSMU"
+        ],
+        "latitude": 24.1216667,
+        "longitude": 120.6513889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5116360",
+        "name": "Chung Yuan Christian University",
+        "short_name": null,
+        "official_website": "http:\/\/www.cycu.edu.tw",
+        "aliases": [
+            "CYCU",
+            "Tiong-gôan-tāi-ha̍k"
+        ],
+        "latitude": 24.9581639,
+        "longitude": 121.2417917,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013925",
+        "name": "Chung Yuan Christian University Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5116266",
+        "name": "Chung-Hua Institution for Economic Research",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20962476",
+        "name": "Chung-hwa Institute of Buddhist Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.chibs.edu.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11052708",
+        "name": "Chungyu University of Film and Arts",
+        "short_name": null,
+        "official_website": "https:\/\/www.cufa.edu.tw\/",
+        "aliases": [
+            "Chungyu Institue of Technology",
+            "Chungyu Institute of Technology"
+        ],
+        "latitude": 25.1320759,
+        "longitude": 121.7543363,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18652238",
+        "name": "College of International Affairs, NCCU",
+        "short_name": null,
+        "official_website": "https:\/\/ocia.nccu.edu.tw\/",
+        "aliases": [
+            "OCIA",
+            "College of International Affairs, National Chengchi University"
+        ],
+        "latitude": 24.9864953,
+        "longitude": 121.5736261,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q11613368",
+        "name": "CTBC Business School",
+        "short_name": null,
+        "official_website": "http:\/\/www.ctbc.edu.tw\/",
+        "aliases": null,
+        "latitude": 23.063639,
+        "longitude": 120.162194,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5434553",
+        "name": "CTBC University of Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.feu.edu.tw\/",
+        "aliases": [
+            "Far East University",
+            "FEU Taiwan"
+        ],
+        "latitude": 23.0653,
+        "longitude": 120.295,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10936612",
+        "name": "Dahan Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.dahan.edu.tw\/",
+        "aliases": [
+            "DAHAN"
+        ],
+        "latitude": 24.039,
+        "longitude": 121.608,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5243137",
+        "name": "Dayeh University",
+        "short_name": null,
+        "official_website": "http:\/\/www.dyu.edu.tw\/",
+        "aliases": [
+            "DYU",
+            "Dayeh Institute of Technology"
+        ],
+        "latitude": 24,
+        "longitude": 120.5961111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11606404",
+        "name": "Deh Yu College of Nursing and Health",
+        "short_name": null,
+        "official_website": "http:\/\/www.cku.edu.tw\/",
+        "aliases": [
+            "Ching Kuo Institute of Management and Health",
+            "Deh Yu College"
+        ],
+        "latitude": 25.1511,
+        "longitude": 121.728,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q109412184",
+        "name": "Department of Animal Science and Technology, National Taiwan University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Department of Animal Science and Technology, NTU",
+            "NTU Department of Animal Science and Technology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131438824",
+        "name": "Department of Animation, Taipei National University of the Arts",
+        "short_name": null,
+        "official_website": "https:\/\/w3.tnua.edu.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q9688828",
+        "name": "Department of Anthropology, National Taiwan University",
+        "short_name": null,
+        "official_website": "http:\/\/homepage.ntu.edu.tw\/~anthro\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27902507",
+        "name": "Department of Biology, Tunghai University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "DBTU",
+            "Tunghai University Department of Life Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122931619",
+        "name": "Department of Chemical Engineering, National Taiwan University",
+        "short_name": null,
+        "official_website": "https:\/\/che.ntu.edu.tw\/\/che\/Default.html",
+        "aliases": [
+            "che.ntu.edu.tw",
+            "Department of Chemical Engineering, NTU",
+            "National Taiwan University Department of Chemical Engineering",
+            "NTU Department of Chemical Engineering"
+        ],
+        "latitude": 25.0181467,
+        "longitude": 121.5383196,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20962497",
+        "name": "Department of Cultural Heritage Conservation, National Yunlin University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/culture.yuntech.edu.tw\/chc\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q117485691",
+        "name": "Department of Diplomacy, National Chengchi University",
+        "short_name": null,
+        "official_website": "https:\/\/diplomacy.nccu.edu.tw\/",
+        "aliases": [
+            "Department of Diplomacy, NCCU",
+            "NCCU Diplomacy",
+            "NCCUDiplomacy"
+        ],
+        "latitude": 24.9863833,
+        "longitude": 121.5735422,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113372331",
+        "name": "Department of Foreign Languages and Literatures, National Taiwan University",
+        "short_name": null,
+        "official_website": "https:\/\/www.forex.ntu.edu.tw",
+        "aliases": [
+            "FOREX"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q117484204",
+        "name": "Department of Geography, National Taiwan University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Department of Geography, NTU",
+            "NTU Department of Geography"
+        ],
+        "latitude": 25.015076,
+        "longitude": 121.538312,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124034102",
+        "name": "Department of History, National Chengchi University",
+        "short_name": null,
+        "official_website": "https:\/\/history.nccu.edu.tw\/",
+        "aliases": [
+            "Department of History, NCCU",
+            "NCCU Department of History",
+            "NCCU History"
+        ],
+        "latitude": 24.9810518,
+        "longitude": 121.5732281,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20962504",
+        "name": "Department of International Trade, Chihlee University of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/it100.chihlee.edu.tw",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124165920",
+        "name": "Department of Land Economics, National Chengchi University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "DLE",
+            "Department of Land Economics, NCCU",
+            "National Chengchi University Department of Land Economics",
+            "NCCU Department of Land Economics"
+        ],
+        "latitude": 24.9859051,
+        "longitude": 121.5735875,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124512709",
+        "name": "Department of Law, Chinese Culture University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124512710",
+        "name": "Department of Law, Fu Jen Catholic University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124512706",
+        "name": "Department of Law, National Cheng Kung University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124512694",
+        "name": "Department of Law, National Chengchi University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116980001",
+        "name": "Department of Law, National Chung Hsing University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "National Chung Hsing University Department of Law"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124512711",
+        "name": "Department of Law, National Chung-Cheng University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124512705",
+        "name": "Department of Law, National Taiwan University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124512712",
+        "name": "Department of Law, Shih Hsin University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124512707",
+        "name": "Department of Law, Soochow University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124512708",
+        "name": "Department of Law, Tunghai University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q47108937",
+        "name": "Department of Life Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "NTNUL"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q126097783",
+        "name": "Department of Mechanical Engineering, National Taiwan University",
+        "short_name": null,
+        "official_website": "http:\/\/www.me.ntu.edu.tw\/main.php",
+        "aliases": [
+            "Department of Mechanical Engineering, NTU",
+            "National Taiwan University Department of Mechanical Engineering",
+            "NTU Department of Mechanical Engineering"
+        ],
+        "latitude": 25.0190405,
+        "longitude": 121.5403657,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10927128",
+        "name": "Department of Physics, National Tsinghua University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 24.7941667,
+        "longitude": 120.9922222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10927076",
+        "name": "Department of Political Science, National Chengchi University",
+        "short_name": null,
+        "official_website": "https:\/\/politics.nccu.edu.tw\/eng\/PageFront",
+        "aliases": [
+            "NCCU Department of Political Science",
+            "NCCU Politics"
+        ],
+        "latitude": 24.9858531,
+        "longitude": 121.5734613,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q121436286",
+        "name": "Department of Political Science, Tunghai University",
+        "short_name": null,
+        "official_website": "https:\/\/politics.thu.edu.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20962496",
+        "name": "Department of Radio, TV, & Film, Shih Hsin University",
+        "short_name": null,
+        "official_website": "http:\/\/rtf.shu.edu.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20962486",
+        "name": "Department of Religious Culture and Organization Management, Aletheia University",
+        "short_name": null,
+        "official_website": "http:\/\/religion.epage.au.edu.tw",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20882468",
+        "name": "Department of Taiwanese Literature, Providence University",
+        "short_name": null,
+        "official_website": "http:\/\/putaiwan.pu.edu.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q126869728",
+        "name": "Department of Theatre Art, Taipei National University of the Arts",
+        "short_name": null,
+        "official_website": "https:\/\/theatre.tnua.edu.tw",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q126080486",
+        "name": "Department of Theatrical Design and Technology, Taipei National University of the Arts",
+        "short_name": null,
+        "official_website": "https:\/\/design.tnua.edu.tw",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11143772",
+        "name": "Dharma Drum Institute of Liberal Arts",
+        "short_name": null,
+        "official_website": "http:\/\/www.dila.edu.tw",
+        "aliases": [
+            "DILA"
+        ],
+        "latitude": 25.245427,
+        "longitude": 121.616935,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q696672",
+        "name": "Feng Chia University",
+        "short_name": null,
+        "official_website": "http:\/\/www.fcu.edu.tw\/",
+        "aliases": [
+            "Féngjiǎ Dàxué"
+        ],
+        "latitude": 24.1794444,
+        "longitude": 120.65,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q86726016",
+        "name": "Fengshan Tropical Horticultural Experiment Branch",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25058399",
+        "name": "Fisheries Research Institute, Kinmen County",
+        "short_name": null,
+        "official_website": "https:\/\/kfri.kinmen.gov.tw\/",
+        "aliases": [
+            "KFRI",
+            "Kinmen Fisheries Research Institute"
+        ],
+        "latitude": 24.4248333,
+        "longitude": 118.3147778,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q15908409",
+        "name": "Fisheries Research Institute, Ministry of Agriculture",
+        "short_name": null,
+        "official_website": "https:\/\/www.tfrin.gov.tw",
+        "aliases": [
+            "Fisheries Research Institute",
+            "Fisheries Research Institute,Council of Agriculture, Executive Yuan"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5463783",
+        "name": "Fo Guang University",
+        "short_name": null,
+        "official_website": "http:\/\/website.fgu.edu.tw\/\/",
+        "aliases": [
+            "FGU"
+        ],
+        "latitude": 24.8158889,
+        "longitude": 121.7268056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013974",
+        "name": "Fo Guang University Department of Sociology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11637637",
+        "name": "Fooyin University",
+        "short_name": null,
+        "official_website": "http:\/\/web.fy.edu.tw\/",
+        "aliases": [
+            "Fǔyīng Kējì Dàxué",
+            "FYU"
+        ],
+        "latitude": 22.6041667,
+        "longitude": 120.3875,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74557105",
+        "name": "Formosan Medical Association",
+        "short_name": null,
+        "official_website": "http:\/\/www.fma.org.tw\/",
+        "aliases": [
+            "FMA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10921575",
+        "name": "Fortune Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.fotech.edu.tw\/",
+        "aliases": [
+            "財富工業初級學院",
+            "財富技術與商業初級學院"
+        ],
+        "latitude": 22.6072222,
+        "longitude": 120.4272222,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q685664",
+        "name": "Fu Jen Catholic University",
+        "short_name": null,
+        "official_website": "http:\/\/www.fju.edu.tw\/",
+        "aliases": [
+            "FJU",
+            "The Catholic University of Peking",
+            "FJCU",
+            "Fu Jen",
+            "Fu Jen University",
+            "Fu Ren University"
+        ],
+        "latitude": 25.0358333,
+        "longitude": 121.4330556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013940",
+        "name": "Fu Jen Catholic University Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014028",
+        "name": "Fu Jen Catholic University Department of Library and Information Science",
+        "short_name": null,
+        "official_website": "https:\/\/web.lins.fju.edu.tw\/chi\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q126869988",
+        "name": "Graduate Institute of Theatre Performance and Playwriting, Taipei National University of the Arts",
+        "short_name": null,
+        "official_website": "https:\/\/theatre.tnua.edu.tw",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15909157",
+        "name": "Hanyang Institute of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Hanyang Military Technical School",
+            "College of Ordnance Engineering"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q11083374",
+        "name": "Hsin Sheng College of Medical Care and Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.hsc.edu.tw\/",
+        "aliases": [
+            "Hsin Sheng Senior Medical Vocational School",
+            "Xīnshēng Yīhù Guǎnlǐ Zhuānkē Xuéxiào"
+        ],
+        "latitude": 24.8325,
+        "longitude": 121.207,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q11644486",
+        "name": "Hsing Wu University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hwu.edu.tw\/",
+        "aliases": null,
+        "latitude": 25.081282,
+        "longitude": 121.395525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10888084",
+        "name": "Hsiuping University of Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.hust.edu.tw\/",
+        "aliases": null,
+        "latitude": 24.0969,
+        "longitude": 120.712,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5924445",
+        "name": "Hsuan Chuang University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hcu.edu.tw\/",
+        "aliases": null,
+        "latitude": 24.7759,
+        "longitude": 120.944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5925062",
+        "name": "Huafan University",
+        "short_name": null,
+        "official_website": "http:\/\/www.HFU.edu.tw\/",
+        "aliases": null,
+        "latitude": 24.982,
+        "longitude": 121.69,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15907953",
+        "name": "Humanities Building (Tunghai University)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 24.180024,
+        "longitude": 120.599905,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11066366",
+        "name": "Hungkuang University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hk.edu.tw\/main.php",
+        "aliases": [
+            "Hóngguāng Kējì Dàxué"
+        ],
+        "latitude": 24.2213889,
+        "longitude": 120.5841667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11620058",
+        "name": "Hwa Hsia Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.hwh.edu.tw",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2592553",
+        "name": "I-shou University",
+        "short_name": null,
+        "official_website": "http:\/\/www.isu.edu.tw\/",
+        "aliases": null,
+        "latitude": 22.7296,
+        "longitude": 120.4079,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10532988",
+        "name": "Industrial Technology Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.itri.org.tw\/",
+        "aliases": [
+            "Gongye Jishu Yanjiuyuan",
+            "Gōngyè Jìshù Yánjiùyuàn",
+            "Industrial Technology Research Institute of Taiwan, R.O.C",
+            "ITRI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q126215423",
+        "name": "Institute for Sino-Indian Buddhist Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Huafan Buddhist Research Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q56612996",
+        "name": "Institute of Biological Chemistry, Academia Sinica",
+        "short_name": null,
+        "official_website": "http:\/\/www.ibc.sinica.edu.tw\/",
+        "aliases": [
+            "IBC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30273893",
+        "name": "Institute of Biomedical Sciences, Academia Sinica",
+        "short_name": null,
+        "official_website": "http:\/\/www.ibms.sinica.edu.tw\/templates\/default\/en\/index.php",
+        "aliases": [
+            "IBMS",
+            "Shengwu-Yixue-Kexue-Yanjiusuo"
+        ],
+        "latitude": 25.044695,
+        "longitude": 121.614616,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552588",
+        "name": "Institute of China and Asia-Pacific Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q77081411",
+        "name": "Institute of European and American Studies, Academia Sinica",
+        "short_name": null,
+        "official_website": "https:\/\/www.ea.sinica.edu.tw\/",
+        "aliases": [
+            "IEAS"
+        ],
+        "latitude": 25.040374,
+        "longitude": 121.615514,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10875097",
+        "name": "Institute of History and Philology of Academia Sinica",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Institute of History and Philology, Academia Sinica",
+            "ACAD SINICA-INST HISTORY PHILOLOGY"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10875101",
+        "name": "Institute of Modern History, Academia Sinica",
+        "short_name": null,
+        "official_website": "http:\/\/www.mh.sinica.edu.tw",
+        "aliases": [
+            "IMH"
+        ],
+        "latitude": 25.040805,
+        "longitude": 121.615608,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q133289062",
+        "name": "Institute of Natural Resource Management, National Taipei University",
+        "short_name": null,
+        "official_website": "https:\/\/inrm.ntpu.edu.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10875099",
+        "name": "Institute of Physics, Academia Sinica",
+        "short_name": null,
+        "official_website": "http:\/\/www.phys.sinica.edu.tw\/",
+        "aliases": null,
+        "latitude": 25.042447,
+        "longitude": 121.61666,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74556800",
+        "name": "Institute of Plant and Microbial Biology, Academia Sinica, Taiwan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IPMB"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q77081458",
+        "name": "Institute of Political Science, Academia Sinica",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipsas.sinica.edu.tw",
+        "aliases": [
+            "IPSAS"
+        ],
+        "latitude": 25.041875,
+        "longitude": 121.611298,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q77081441",
+        "name": "Institute of Sociology, Academia Sinica",
+        "short_name": null,
+        "official_website": "http:\/\/www.ios.sinica.edu.tw",
+        "aliases": [
+            "IOS"
+        ],
+        "latitude": 25.0416,
+        "longitude": 121.611476,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q11076398",
+        "name": "Institute of technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q11090053",
+        "name": "Jinwen University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.just.edu.tw",
+        "aliases": [
+            "JUST"
+        ],
+        "latitude": 24.95162,
+        "longitude": 121.50976,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11655183",
+        "name": "Kainan University",
+        "short_name": null,
+        "official_website": "http:\/\/www.knu.edu.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014005",
+        "name": "Kainan University School of Humanities and Social Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014007",
+        "name": "Kainan University School of Informatics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014008",
+        "name": "Kainan University School of Tourism and Transportation",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15633777",
+        "name": "Kao Fong College of Digital Contents",
+        "short_name": null,
+        "official_website": "http:\/\/www.kfcdc.edu.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q700801",
+        "name": "Kaohsiung Medical University",
+        "short_name": null,
+        "official_website": "https:\/\/www.kmu.edu.tw\/",
+        "aliases": [
+            "KMU",
+            "Kaohsiung Medical College"
+        ],
+        "latitude": 22.64752,
+        "longitude": 120.31043,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013986",
+        "name": "Kaohsiung Medical University Department of Physiology and Master's Programme",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013990",
+        "name": "Kaohsiung Medical University Department of Renal Care",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013992",
+        "name": "Kaohsiung Medical University School of Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11053261",
+        "name": "Kun Shan University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ksu.edu.tw",
+        "aliases": [
+            "Kūnshān Kējì Dàxué"
+        ],
+        "latitude": 22.9977882,
+        "longitude": 120.2530722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11625264",
+        "name": "Lan Yang Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.fit.edu.tw\/",
+        "aliases": [
+            "LYIT"
+        ],
+        "latitude": 24.8686,
+        "longitude": 121.818,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q11086700",
+        "name": "Lee-Ming Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.lit.edu.tw\/",
+        "aliases": [
+            "LIT"
+        ],
+        "latitude": 25.0653,
+        "longitude": 121.419,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6553710",
+        "name": "Ling Tung University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ltu.edu.tw\/bin\/home.php",
+        "aliases": null,
+        "latitude": 24.1378,
+        "longitude": 120.609,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6704331",
+        "name": "Lunghwa University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.lhu.edu.tw\/",
+        "aliases": [
+            "LHU"
+        ],
+        "latitude": 25.019525,
+        "longitude": 121.400975,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11667813",
+        "name": "MacKay Junior College of Medicine, Nursing and Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.mkc.edu.tw",
+        "aliases": [
+            "Mackay Medicine, Nursing and Management College",
+            "MKC"
+        ],
+        "latitude": 25.2519656,
+        "longitude": 121.4975683,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q14469027",
+        "name": "Mackay Medical College",
+        "short_name": null,
+        "official_website": "http:\/\/www.mmc.edu.tw",
+        "aliases": null,
+        "latitude": 25.2544,
+        "longitude": 121.495,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11608853",
+        "name": "Meiho University",
+        "short_name": null,
+        "official_website": "http:\/\/www.meiho.edu.tw\/",
+        "aliases": [
+            "Měihé Kējì Dàxué"
+        ],
+        "latitude": 22.6051,
+        "longitude": 120.561,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014025",
+        "name": "Meiho University Department of Beauty Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15920007",
+        "name": "Metal Industries Research and Development Centre",
+        "short_name": null,
+        "official_website": "https:\/\/www.mirdc.org.tw",
+        "aliases": [
+            "Metal Industries Research & Development Center",
+            "Metal Industries Research & Development Centre",
+            "Metal Industries Research and Development Center",
+            "MIRDC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q11079070",
+        "name": "Min-Hwei College of Health Care Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.mhchcm.edu.tw\/bin\/home.php",
+        "aliases": [
+            "Minhui Health Care Management College"
+        ],
+        "latitude": 23.280061,
+        "longitude": 120.329449,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q11087869",
+        "name": "Ming Chi University of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.mcut.edu.tw",
+        "aliases": null,
+        "latitude": 25.0410047,
+        "longitude": 121.4222792,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6864633",
+        "name": "Ming Chuan University",
+        "short_name": null,
+        "official_website": "http:\/\/www.mcu.edu.tw\/",
+        "aliases": [
+            "MCU"
+        ],
+        "latitude": 25.0882,
+        "longitude": 121.528,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11088217",
+        "name": "Mingdao University",
+        "short_name": null,
+        "official_website": "https:\/\/mdu.edu.tw\/",
+        "aliases": null,
+        "latitude": 23.8705,
+        "longitude": 120.495,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6864736",
+        "name": "Minghsin University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.must.edu.tw\/index_en.aspx",
+        "aliases": null,
+        "latitude": 24.8628,
+        "longitude": 120.989,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10937802",
+        "name": "Minth University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.tust.edu.tw\/bin\/home.php",
+        "aliases": [
+            "Ta Hwa University of Science and Technology"
+        ],
+        "latitude": 24.7775247,
+        "longitude": 121.0900718,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74543249",
+        "name": "Naitonal Taiwan Normal University, Department of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10908234",
+        "name": "Nan Jeon University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.nju.edu.tw\/",
+        "aliases": null,
+        "latitude": 23.3242,
+        "longitude": 120.275,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10909176",
+        "name": "Nan Kai University of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.nkut.edu.tw\/",
+        "aliases": [
+            "Nan Kai Institute of Technology",
+            "Nan Kai Junior College",
+            "Nan Kai Junior College of Technology and Commerce",
+            "NKUT"
+        ],
+        "latitude": 23.9798,
+        "longitude": 120.697,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6963583",
+        "name": "Nanhua University",
+        "short_name": null,
+        "official_website": "http:\/\/www.nhu.edu.tw",
+        "aliases": null,
+        "latitude": 23.5693,
+        "longitude": 120.494,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11111978",
+        "name": "Nanya Institute of Technology",
+        "short_name": null,
+        "official_website": "https:\/\/web.nanya.edu.tw\/english\/style01\/index.html",
+        "aliases": [
+            "Nanya Polytechnic",
+            "Taoyuan Innovation Institute of Technology"
+        ],
+        "latitude": 24.9386,
+        "longitude": 121.252,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q20687735",
+        "name": "National Academy of Marine Research",
+        "short_name": null,
+        "official_website": "http:\/\/www.namr.gov.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6971340",
+        "name": "National Center for High-Performance Computing",
+        "short_name": "NCHC",
+        "official_website": "https:\/\/www.nchc.org.tw\/",
+        "aliases": [
+            "NCHC",
+            "nchc.org.tw",
+            "Taiwanese NREN",
+            "TWAREN"
+        ],
+        "latitude": 24.782538,
+        "longitude": 120.995705,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10867778",
+        "name": "National Center for theoretical Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.cts.nthu.edu.tw",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q714891",
+        "name": "National Central University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ncu.edu.tw\/tw\/index.html",
+        "aliases": [
+            "NCU"
+        ],
+        "latitude": 24.9682806,
+        "longitude": 121.1928889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014210",
+        "name": "National Central University Department of Life Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014213",
+        "name": "National Central University Department of Mathematics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10739157",
+        "name": "National Changhua University of Education",
+        "short_name": null,
+        "official_website": "https:\/\/www.ncue.edu.tw\/",
+        "aliases": [
+            "Guólì Zhānghuà Shīfàn Dàxué",
+            "NCUE"
+        ],
+        "latitude": 24.08272,
+        "longitude": 120.55838,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013920",
+        "name": "National Changhua University of Education Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014096",
+        "name": "National Cheng Kung University Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014097",
+        "name": "National Cheng Kung University Department of Earth Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107027553",
+        "name": "National Cheng Kung University Department of History",
+        "short_name": null,
+        "official_website": "https:\/\/his.ncku.edu.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014087",
+        "name": "National Cheng Kung University Department of Mathematics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014099",
+        "name": "National Cheng Kung University Department of Physics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q712849",
+        "name": "National Chengchi University",
+        "short_name": "NCCU",
+        "official_website": "https:\/\/www.nccu.edu.tw\/index.php?Lang=en",
+        "aliases": [
+            "Universitas Nationalis Chengchi",
+            "NCCU",
+            "Chengda",
+            "Chengchi"
+        ],
+        "latitude": 24.9869917,
+        "longitude": 121.5752222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014111",
+        "name": "National Chengchi University Department of Arabic Language and Literature",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014113",
+        "name": "National Chengchi University Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014115",
+        "name": "National Chengchi University Department of Ethnology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74543327",
+        "name": "National Chengchi University, Department of Journalism",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q707653",
+        "name": "National Chi Nan University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ncnu.edu.tw\/",
+        "aliases": [
+            "NCNU"
+        ],
+        "latitude": 23.953,
+        "longitude": 120.935,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6971460",
+        "name": "National Chiayi University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ncyu.edu.tw",
+        "aliases": null,
+        "latitude": 23.4636833,
+        "longitude": 120.4836056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014015",
+        "name": "National Chung Cheng University Department and Graduate Institute of Political Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014017",
+        "name": "National Chung Cheng University Department of Chemistry and Biochemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014019",
+        "name": "National Chung Cheng University Department of Finance",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014020",
+        "name": "National Chung Cheng University Department of Mathematics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014024",
+        "name": "National Chung Cheng University Department of Psychology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014022",
+        "name": "National Chung Cheng University Department of Social Welfare",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q707573",
+        "name": "National Chung Hsing University",
+        "short_name": null,
+        "official_website": "https:\/\/www.nchu.edu.tw\/",
+        "aliases": null,
+        "latitude": 24.123552,
+        "longitude": 120.675326,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014120",
+        "name": "National Defense University Department of Political Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11194540",
+        "name": "National Dong Hwa University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ndhu.edu.tw",
+        "aliases": [
+            "Dong Hwa University",
+            "Dōnghuá Dàxué",
+            "Guólì Dōnghuá Dàxué",
+            "NDHU"
+        ],
+        "latitude": 23.8939056,
+        "longitude": 121.5435778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013968",
+        "name": "National Dong Hwa University Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q43402",
+        "name": "National Formosa University",
+        "short_name": null,
+        "official_website": "http:\/\/www.nfu.edu.tw\/main.php",
+        "aliases": [
+            "NFU",
+            "NHIT"
+        ],
+        "latitude": 23.703108,
+        "longitude": 120.430151,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10927040",
+        "name": "National Ilan University",
+        "short_name": null,
+        "official_website": "http:\/\/niu-en.niu.edu.tw\/",
+        "aliases": [
+            "NIU",
+            "Guólì Yilán Dàxué",
+            "National Yilan University"
+        ],
+        "latitude": 24.7486111,
+        "longitude": 121.7455556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q707265",
+        "name": "National Kaohsiung First University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.nkfust.edu.tw\/",
+        "aliases": [
+            "National Institute of Technology at Kaohsiung"
+        ],
+        "latitude": 22.589955,
+        "longitude": 120.397547,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6973904",
+        "name": "National Kaohsiung Marine University",
+        "short_name": null,
+        "official_website": "http:\/\/www.nkmu.edu.tw\/",
+        "aliases": [
+            "Guólì Gāoxióng Hǎiyáng Kējì Dàxué"
+        ],
+        "latitude": 22.6085394,
+        "longitude": 120.2726776,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6973907",
+        "name": "National Kaohsiung University of Applied Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.kuas.edu.tw",
+        "aliases": null,
+        "latitude": 22.6515556,
+        "longitude": 120.3283333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6973910",
+        "name": "National Kaohsiung University of Hospitality and Tourism",
+        "short_name": null,
+        "official_website": "http:\/\/www.nkuht.edu.tw\/",
+        "aliases": [
+            "NKUHT"
+        ],
+        "latitude": 22.5655556,
+        "longitude": 120.3713889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q47285400",
+        "name": "National Kaohsiung University of Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.nkust.edu.tw\/",
+        "aliases": [
+            "NKUST",
+            "高雄科技"
+        ],
+        "latitude": 22.7246559,
+        "longitude": 120.3146027,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15912116",
+        "name": "National Nano Device Laboratories",
+        "short_name": null,
+        "official_website": "http:\/\/www.ndl.org.tw",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6135045",
+        "name": "National Open University",
+        "short_name": null,
+        "official_website": "http:\/\/www.nou.edu.tw\/",
+        "aliases": [
+            "NOU"
+        ],
+        "latitude": 25.0882,
+        "longitude": 121.468,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6974858",
+        "name": "National Penghu University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.npu.edu.tw\/",
+        "aliases": null,
+        "latitude": 23.5756389,
+        "longitude": 119.5808333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15900615",
+        "name": "National Pingtung University",
+        "short_name": null,
+        "official_website": "http:\/\/www.nptu.edu.tw\/",
+        "aliases": null,
+        "latitude": 22.6698,
+        "longitude": 120.499,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014039",
+        "name": "National PingTung University Department of Educational Psychology and Counseling",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6974924",
+        "name": "National Pingtung University of Education",
+        "short_name": null,
+        "official_website": "http:\/\/b001.npue.edu.tw\/front\/bin\/home.phtml",
+        "aliases": null,
+        "latitude": 22.6698,
+        "longitude": 120.499,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6974928",
+        "name": "National Pingtung University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.npust.edu.tw\/",
+        "aliases": [
+            "NPUST"
+        ],
+        "latitude": 22.6408333,
+        "longitude": 120.5955556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014042",
+        "name": "National Pingtung University of Science and Technology Department of Biological Science and Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014043",
+        "name": "National Pingtung University of Science and Technology Department of Plant Industry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014026",
+        "name": "National Pingtung University of Science and Technology Department of Plant Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6975161",
+        "name": "National Quemoy University",
+        "short_name": null,
+        "official_website": "http:\/\/www.nqu.edu.tw\/",
+        "aliases": [
+            "National Kaohsiung University of Applied Sciences",
+            "National Kinmen Institute of Technology",
+            "NQU"
+        ],
+        "latitude": 24.4488889,
+        "longitude": 118.3219444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10926818",
+        "name": "National Science and Technology Center for Disaster Reduction",
+        "short_name": null,
+        "official_website": "https:\/\/www.ncdr.nat.gov.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q32751",
+        "name": "National Sun Yat-sen University",
+        "short_name": null,
+        "official_website": "https:\/\/www.nsysu.edu.tw\/",
+        "aliases": [
+            "NSYSU"
+        ],
+        "latitude": 22.6166667,
+        "longitude": 120.2666667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q99287727",
+        "name": "National Sun Yat-sen University Department of Business Management",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6978803",
+        "name": "National Synchrotron Radiation Research Center",
+        "short_name": null,
+        "official_website": "http:\/\/www.nsrrc.org.tw\/",
+        "aliases": [
+            "NSRRC"
+        ],
+        "latitude": 24.781091,
+        "longitude": 120.993378,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10927162",
+        "name": "National Taichung University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.nutc.edu.tw",
+        "aliases": [
+            "Guólì Táizhōng Kējì Dàxué",
+            "National Taichung Institute of Technology"
+        ],
+        "latitude": 24.1498546,
+        "longitude": 120.6836597,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10927180",
+        "name": "National Tainan Institute of Nursing",
+        "short_name": null,
+        "official_website": "https:\/\/www2.ntin.edu.tw\/English\/IntroIndex.htm",
+        "aliases": [
+            "National Tainan Junior College of Nursing",
+            "Taiwan Provincial Tainan Vocational High School of Nursing",
+            "Training Preparation Class of Medical Workers in Southern Taiwan"
+        ],
+        "latitude": 22.995401,
+        "longitude": 120.207348,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q707456",
+        "name": "National Taipei University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ntpu.edu.tw",
+        "aliases": [
+            "College of Law and Business, National Chung Hsing University",
+            "NTPU",
+            "Taiwan Provincial Chung Hsing University",
+            "Taiwan Provincial College of Law and Business"
+        ],
+        "latitude": 24.9463,
+        "longitude": 121.373,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116979983",
+        "name": "National Taipei University Department of Law",
+        "short_name": null,
+        "official_website": "https:\/\/www.law.ntpu.edu.tw\/",
+        "aliases": [
+            "Department of Law, National Taipei University",
+            "Department of Law, NTPU",
+            "NTPU Department of Law"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014124",
+        "name": "National Taipei University Department of Sociology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6978823",
+        "name": "National Taipei University of Business",
+        "short_name": null,
+        "official_website": "http:\/\/www.ntub.edu.tw\/",
+        "aliases": [
+            "National Taipei College of Business"
+        ],
+        "latitude": 25.0422222,
+        "longitude": 121.5252778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6978824",
+        "name": "National Taipei University of Education",
+        "short_name": null,
+        "official_website": "http:\/\/www.ntue.edu.tw\/",
+        "aliases": [
+            "NTUE"
+        ],
+        "latitude": 25.0253,
+        "longitude": 121.541,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10927172",
+        "name": "National Taipei University of Nursing and Health Science",
+        "short_name": null,
+        "official_website": "https:\/\/www.ntunhs.edu.tw\/",
+        "aliases": [
+            "National Taipei College of Nursing",
+            "Taiwan Provincial Junior College of Nursing"
+        ],
+        "latitude": 25.1178,
+        "longitude": 121.52,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014127",
+        "name": "National Taipei University of Nursing and Health Sciences Department of Health Care Management",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6978828",
+        "name": "National Taipei University of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.ntut.edu.tw\/",
+        "aliases": [
+            "National Taipei Institute of Technology",
+            "NTIT",
+            "NTUT",
+            "Provincial Taipei Institute of Technology",
+            "PTIT"
+        ],
+        "latitude": 25.0422329,
+        "longitude": 121.5354974,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10927189",
+        "name": "National Taitung Junior College",
+        "short_name": null,
+        "official_website": "http:\/\/www.ntc.edu.tw\/web_edit\/edit_show.asp?ClassID=351",
+        "aliases": null,
+        "latitude": 22.756972,
+        "longitude": 121.122333,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q10927184",
+        "name": "National Taitung University",
+        "short_name": null,
+        "official_website": "http:\/\/www.nttu.edu.tw\/",
+        "aliases": [
+            "NTTU",
+            "Guólì Táidōng Dàxué"
+        ],
+        "latitude": 22.745,
+        "longitude": 121.1477778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10927241",
+        "name": "National Taiwan College of Performing Arts",
+        "short_name": null,
+        "official_website": "http:\/\/www.tcpa.edu.tw\/",
+        "aliases": [
+            "NTCPA",
+            "Taiwan College of Performing Arts"
+        ],
+        "latitude": 25.0819,
+        "longitude": 121.587,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q706712",
+        "name": "National Taiwan Normal University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ntnu.edu.tw",
+        "aliases": [
+            "NTNU",
+            "Naitonal Taiwan Normal University"
+        ],
+        "latitude": 25.02591,
+        "longitude": 121.52749,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q101014161",
+        "name": "National Taiwan Normal University - Department of Health Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136504803",
+        "name": "National Taiwan Normal University Department of Adult and Continuing Education",
+        "short_name": null,
+        "official_website": "https:\/\/www.ace.ntnu.edu.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014146",
+        "name": "National Taiwan Normal University Department of Chemistry",
+        "short_name": null,
+        "official_website": "https:\/\/www.chem.ntnu.edu.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014149",
+        "name": "National Taiwan Normal University Department of Chinese",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014152",
+        "name": "National Taiwan Normal University Department of Earth Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014155",
+        "name": "National Taiwan Normal University Department of Educational Psychology and Counselling",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014158",
+        "name": "National Taiwan Normal University Department of English",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10927237",
+        "name": "National Taiwan Normal University Department of Graphic and Arts Communication",
+        "short_name": null,
+        "official_website": "https:\/\/www.gac.ntnu.edu.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q32746",
+        "name": "National Taiwan University",
+        "short_name": "NTU",
+        "official_website": "https:\/\/www.ntu.edu.tw",
+        "aliases": [
+            "NTU",
+            "NATAU"
+        ],
+        "latitude": 25.016,
+        "longitude": 121.536,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10927211",
+        "name": "National Taiwan University Mechanical Engineering building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Former NTU Mechanical Engineering building"
+        ],
+        "latitude": 25.0186667,
+        "longitude": 121.5398278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6978838",
+        "name": "National Taiwan University of Arts",
+        "short_name": null,
+        "official_website": "https:\/\/www.ntua.edu.tw",
+        "aliases": null,
+        "latitude": 25.0067,
+        "longitude": 121.449,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q699543",
+        "name": "National Taiwan University of Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www-i.ntust.edu.tw\/home.php",
+        "aliases": [
+            "Taiwan Tech",
+            "Taiwantech"
+        ],
+        "latitude": 25.013686,
+        "longitude": 121.540535,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74548665",
+        "name": "National Taiwan University, Dept. of Library & Information Science",
+        "short_name": null,
+        "official_website": "http:\/\/www.lis.ntu.edu.tw",
+        "aliases": [
+            "Department and Graduate Institute of Library and Information Science, National Taiwan University",
+            "Department of Library and Information Science, National Taiwan University",
+            "lis.ntu.edu.tw",
+            "National Taiwan University Department and Graduate Institute of Library and Information Science",
+            "National Taiwan University Department of Library and Information Science",
+            "NTULIS",
+            "國立臺灣大學圖書資訊學系"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q101013955",
+        "name": "National Tsing-Hua University Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013956",
+        "name": "National Tsing-Hua University Department of Computer Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013957",
+        "name": "National Tsing-Hua University Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013958",
+        "name": "National Tsing-Hua University Department of Electrical Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013959",
+        "name": "National Tsing-Hua University Department of Life Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013961",
+        "name": "National Tsing-Hua University Department of Mathematics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013963",
+        "name": "National Tsing-Hua University Department of Physics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6145842",
+        "name": "National United University",
+        "short_name": null,
+        "official_website": "http:\/\/www.nuu.edu.tw\/",
+        "aliases": [
+            "Guólì Liánhé Dàxué"
+        ],
+        "latitude": 24.5384,
+        "longitude": 120.79,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q697367",
+        "name": "National University of Kaohsiung",
+        "short_name": null,
+        "official_website": "http:\/\/www.nuk.edu.tw\/",
+        "aliases": [
+            "NUK"
+        ],
+        "latitude": 22.7333028,
+        "longitude": 120.284675,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013947",
+        "name": "National Yang Ming Chiao Tung University Department of Applied Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "National Chiao Tung University Department of Applied Chemistry"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014163",
+        "name": "National Yang-ming Chiao Tung University Department of Life Sciences and Institute of Genome Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "National Yang-ming University Department of Life Sciences and Institute of Genome Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014164",
+        "name": "National Yang-Ming Chiao Tung University School of Humanities and Social Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "National Yang-Ming University School of Humanities and Social Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014166",
+        "name": "National Yang-Ming Chiao Tung University School of Life Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "National Yang-Ming University School of Life Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q718328",
+        "name": "National Yang-Ming University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ym.edu.tw",
+        "aliases": null,
+        "latitude": 25.1216,
+        "longitude": 121.51381,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10927278",
+        "name": "National Yunlin University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.yuntech.edu.tw\/",
+        "aliases": [
+            "Guólì Yúnlín Kējì Dàxué",
+            "YunTech"
+        ],
+        "latitude": 23.6952778,
+        "longitude": 120.5341667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113962110",
+        "name": "NDHU College of Huilan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "National Dong Hwa University College of Huilan"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q30950718",
+        "name": "NDHU College of Humanities and Social Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/chass.ndhu.edu.tw",
+        "aliases": [
+            "College of Humanities and Social Sciences, National Dong Hwa University",
+            "National Dong Hwa University College of Humanities and Social Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q86728197",
+        "name": "NDHU College of Indigenous Studies",
+        "short_name": null,
+        "official_website": "https:\/\/cis.ndhu.edu.tw",
+        "aliases": [
+            "College of Indigenous Studies, National Dong Hwa University",
+            "National Dong Hwa University College of Indigenous Studies"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q97348429",
+        "name": "NDHU College of Science and Engineering",
+        "short_name": null,
+        "official_website": "https:\/\/csae.ndhu.edu.tw",
+        "aliases": [
+            "National Dong Hwa University College of Science and Engineering"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q28418303",
+        "name": "NDHU College of The Arts",
+        "short_name": null,
+        "official_website": "https:\/\/arts.ndhu.edu.tw",
+        "aliases": [
+            "College of The Arts, National Dong Hwa University",
+            "National Dong Hwa University College of The Arts"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q19852195",
+        "name": "NDHU Department of Computer Science and Information Engineering",
+        "short_name": null,
+        "official_website": "https:\/\/www.csie.ndhu.edu.tw\/",
+        "aliases": [
+            "National Dong Hwa University Department of Computer Science and Information Engineering",
+            "NDHU Computer Science and Information Engineering",
+            "NDHU CSIE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20962501",
+        "name": "NDHU Department of Natural Resources and Environmental Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.ces.ndhu.edu.tw",
+        "aliases": [
+            "Department of Natural Resources and Environmental Studies, National Dong Hwa University",
+            "National Dong Hwa University Department of Natural Resources and Environmental Studies"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109342988",
+        "name": "NDHU Department of Sinophone Literatures",
+        "short_name": null,
+        "official_website": "https:\/\/sili.ndhu.edu.tw",
+        "aliases": [
+            "National Dong Hwa University Department of Sinophone Literatures",
+            "NDHU Sinophone Literatures",
+            "NDHU SL"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q110106522",
+        "name": "NDHU Graduate Institute of Marine Biology",
+        "short_name": null,
+        "official_website": "https:\/\/imb.ndhu.edu.tw\/",
+        "aliases": [
+            "Graduate Institute of Marine Biology",
+            "Graduate Institute of Marine Biology, National Dong Hwa University",
+            "National Dong Hwa University Graduate Institute of Marine Biology",
+            "NDHU IMB"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107089592",
+        "name": "NDHU Hua-Shih College of Education",
+        "short_name": null,
+        "official_website": "https:\/\/education.ndhu.edu.tw",
+        "aliases": [
+            "Hua-Shih College of Education, National Dong Hwa University",
+            "National Dong Hwa University Hua-Shih College of Education"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5926073",
+        "name": "Open University of Kaohsiung",
+        "short_name": null,
+        "official_website": "http:\/\/www.ouk.edu.tw\/",
+        "aliases": null,
+        "latitude": 22.5662,
+        "longitude": 120.346,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10889350",
+        "name": "Overseas Chinese University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ocu.edu.tw",
+        "aliases": null,
+        "latitude": 24.189172,
+        "longitude": 120.6441258,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60992977",
+        "name": "Plastics Industry Development Center",
+        "short_name": null,
+        "official_website": "https:\/\/www.pidc.org.tw\/",
+        "aliases": [
+            "PIDC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7252506",
+        "name": "Providence University",
+        "short_name": null,
+        "official_website": "http:\/\/www.pu.edu.tw\/",
+        "aliases": [
+            "Providence College",
+            "Jingyi Daxue",
+            "Jìngyí Dàxué"
+        ],
+        "latitude": 24.2333333,
+        "longitude": 120.5833333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10927192",
+        "name": "Q10927192",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 25.0181828,
+        "longitude": 121.5435028,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10927194",
+        "name": "Q10927194",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 25.017805,
+        "longitude": 121.534183,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113448399",
+        "name": "Q113448399",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113668552",
+        "name": "Q113668552",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q113953735",
+        "name": "Q113953735",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q119400288",
+        "name": "Q119400288",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q126574425",
+        "name": "Q126574425",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q136116887",
+        "name": "Q136116887",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15907782",
+        "name": "Q15907782",
+        "short_name": null,
+        "official_website": "http:\/\/www.tss.gov.tw",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q28415906",
+        "name": "Q28415906",
+        "short_name": null,
+        "official_website": "http:\/\/www.kdais.gov.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q28415907",
+        "name": "Q28415907",
+        "short_name": null,
+        "official_website": "http:\/\/www.hdares.gov.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q28415908",
+        "name": "Q28415908",
+        "short_name": null,
+        "official_website": "http:\/\/www.ttdares.gov.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q52944794",
+        "name": "Q52944794",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65706287",
+        "name": "Q65706287",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65706476",
+        "name": "Q65706476",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 25.0259769,
+        "longitude": 121.5275294,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65706664",
+        "name": "Q65706664",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 25.0186381,
+        "longitude": 121.5398364,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q86725996",
+        "name": "Q86725996",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q11065252",
+        "name": "Red Building of Taipei Municipal Chien Kuo High School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Red Building of Taipei Municipal Jianguo High School"
+        ],
+        "latitude": 25.0309616,
+        "longitude": 121.5122621,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q700829",
+        "name": "Republic of China National Defense Medical Center",
+        "short_name": null,
+        "official_website": "https:\/\/www.ndmctsgh.edu.tw\/english",
+        "aliases": [
+            "NDMC",
+            "National Defense Medical Center"
+        ],
+        "latitude": 25.070883,
+        "longitude": 121.5960386,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q130404721",
+        "name": "School of Forestry and Resource Conservation, National Taiwan University",
+        "short_name": null,
+        "official_website": "https:\/\/www.fo.ntu.edu.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q642310",
+        "name": "Shih Chien University",
+        "short_name": null,
+        "official_website": "http:\/\/www.usc.edu.tw\/",
+        "aliases": null,
+        "latitude": 25.0892,
+        "longitude": 121.546,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7496457",
+        "name": "Shih Hsin University",
+        "short_name": "SHU",
+        "official_website": "http:\/\/www.shu.edu.tw\/",
+        "aliases": [
+            "SHU"
+        ],
+        "latitude": 24.9899,
+        "longitude": 121.545,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11121766",
+        "name": "Shu-te University",
+        "short_name": null,
+        "official_website": "http:\/\/www.stu.edu.tw\/",
+        "aliases": [
+            "STU"
+        ],
+        "latitude": 22.7642,
+        "longitude": 120.376,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11121762",
+        "name": "Shu-Zen Junior College of Medicine and Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.szmc.edu.tw\/",
+        "aliases": null,
+        "latitude": 22.881015,
+        "longitude": 120.260634,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q495911",
+        "name": "Soochow University",
+        "short_name": null,
+        "official_website": "http:\/\/www.scu.edu.tw",
+        "aliases": [
+            "Suzhou University"
+        ],
+        "latitude": 25.0952778,
+        "longitude": 121.5455556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014173",
+        "name": "Soochow University Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014176",
+        "name": "Soochow University Department of Computer Science and Information Management",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014177",
+        "name": "Soochow University Department of English Language and Literature",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65052158",
+        "name": "Soochow University School of Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7570538",
+        "name": "Southern Taiwan University of Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.stust.edu.tw\/",
+        "aliases": [
+            "Nántái Kējì Dàxu"
+        ],
+        "latitude": 23.025487,
+        "longitude": 120.226358,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7588852",
+        "name": "St. John's University",
+        "short_name": null,
+        "official_website": "http:\/\/www.sju.edu.tw\/",
+        "aliases": null,
+        "latitude": 25.227,
+        "longitude": 121.451,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15909002",
+        "name": "Taichung Municipal Sheeng-San Elementary School",
+        "short_name": null,
+        "official_website": "http:\/\/www.sses.tc.edu.tw",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7676198",
+        "name": "Tainan National University of the Arts",
+        "short_name": null,
+        "official_website": "https:\/\/www.tnnua.edu.tw\/",
+        "aliases": [
+            "Tainan National College of the Arts",
+            "TNNUA"
+        ],
+        "latitude": 23.1899,
+        "longitude": 120.373,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7676204",
+        "name": "Tainan University of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.tut.edu.tw\/",
+        "aliases": null,
+        "latitude": 23.0389,
+        "longitude": 120.239,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6424882",
+        "name": "Taipei City University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.tpcu.edu.tw",
+        "aliases": [
+            "Taipei Chengshih University of Science and Technology"
+        ],
+        "latitude": 25.133859,
+        "longitude": 121.468892,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q701818",
+        "name": "Taipei Medical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.tmu.edu.tw\/",
+        "aliases": [
+            "Taipei Medical College"
+        ],
+        "latitude": 25.025,
+        "longitude": 121.561,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014194",
+        "name": "Taipei Medical University Department of Respiratory Therapy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014189",
+        "name": "Taipei Medical University Department of Surgery",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014190",
+        "name": "Taipei Medical University School of Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014192",
+        "name": "Taipei Medical University School of Nutrition and Health Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11411904",
+        "name": "Taipei Municipal University of Education",
+        "short_name": null,
+        "official_website": "http:\/\/w3.tmue.edu.tw\/",
+        "aliases": [
+            "Bo'ai Campus, University of Taipei"
+        ],
+        "latitude": 25.0363759,
+        "longitude": 121.5138007,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7676308",
+        "name": "Taipei National University of the Arts",
+        "short_name": null,
+        "official_website": "https:\/\/www.tnua.edu.tw\/?lang=en",
+        "aliases": [
+            "National Institute of the Arts, Taiwan"
+        ],
+        "latitude": 25.13406,
+        "longitude": 121.47038,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97737665",
+        "name": "Taipei Physical Education College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 25.1159258,
+        "longitude": 121.5361787,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5099770",
+        "name": "Taipei University of Marine Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.tcmt.edu.tw\/",
+        "aliases": [
+            "China Junior College of Maritime and Commerce",
+            "China Maritime College",
+            "Taipei College of Maritime Technology",
+            "TUMT"
+        ],
+        "latitude": 25.1914528,
+        "longitude": 121.4272083,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74546143",
+        "name": "Taiwan Association of Obstetrics and Gynecology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q86754683",
+        "name": "Taiwan Banana Research Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.banana.org.tw",
+        "aliases": [
+            "TBRI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q11412027",
+        "name": "Taiwan Hospitality and Tourism University",
+        "short_name": null,
+        "official_website": "http:\/\/www.tht.edu.tw\/",
+        "aliases": [
+            "The Culinary Institute of Taiwan"
+        ],
+        "latitude": 23.857,
+        "longitude": 121.48601,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7676546",
+        "name": "Taiwan Institute of Economic Research",
+        "short_name": null,
+        "official_website": "https:\/\/www.tier.org.tw\/",
+        "aliases": [
+            "TIER"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q15908679",
+        "name": "Taiwan Livestock Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.tlri.gov.tw\/",
+        "aliases": [
+            "Xùchǎn Shìyàn Suǒ"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q113864444",
+        "name": "Taiwan Provincial College of Law and Commerce",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q15931503",
+        "name": "Taiwan Research Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.tri.org.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q96407625",
+        "name": "Taiwan Semiconductor Research Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.tsri.org.tw\/",
+        "aliases": [
+            "TSRI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5955110",
+        "name": "Taiwan Shoufu University",
+        "short_name": null,
+        "official_website": "https:\/\/web.tsu.edu.tw\/",
+        "aliases": null,
+        "latitude": 23.1933,
+        "longitude": 120.268,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74527450",
+        "name": "Taiwan Technology Law Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q15927615",
+        "name": "Taiwan Textile Research Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.ttri.org.tw\/econtent\/news\/news04.aspx",
+        "aliases": [
+            "TTRI"
+        ],
+        "latitude": 24.970178,
+        "longitude": 121.435941,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7676802",
+        "name": "Tajen University",
+        "short_name": null,
+        "official_website": "http:\/\/www.tajen.edu.tw\/",
+        "aliases": [
+            "Dàrén Kējì Dàxué"
+        ],
+        "latitude": 22.7269,
+        "longitude": 120.5435,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11071713",
+        "name": "Takming University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.takming.edu.tw",
+        "aliases": null,
+        "latitude": 25.0865,
+        "longitude": 121.566,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5952880",
+        "name": "Tamkang University",
+        "short_name": null,
+        "official_website": "https:\/\/english.tku.edu.tw\/",
+        "aliases": [
+            "TKU",
+            "Tamkang Junior College"
+        ],
+        "latitude": 24.8218611,
+        "longitude": 121.7290833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131607105",
+        "name": "Tamkang University Department of Aerospace Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "DAE",
+            "Department of Aerospace Engineering",
+            "TKUCEDAE",
+            "TKUDAE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131607102",
+        "name": "Tamkang University Department of Chemical and Materials Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "DCME",
+            "Department of Chemical and Materials Engineering",
+            "TKUCEDCME",
+            "TKUDCME"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014200",
+        "name": "Tamkang University Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131605581",
+        "name": "Tamkang University Department of Chinese Literature",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "DCL",
+            "Department of Chinese Literature",
+            "TKUCLADCL",
+            "TKUDCL"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131607095",
+        "name": "Tamkang University Department of Civil Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "DCE",
+            "Department of Civil Engineering",
+            "TKUCEDCE",
+            "TKUDCE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131607104",
+        "name": "Tamkang University Department of Computer Science and Information Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "DCSIE",
+            "Department of Computer Science and Information Engineering",
+            "TKUCEDCSIE",
+            "TKUDCSIE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131607103",
+        "name": "Tamkang University Department of Electrical and Computer Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "DEE",
+            "DECE",
+            "Department of Electrical and Computer Engineering",
+            "Department of Electrical Engineering",
+            "TKUCEDECE",
+            "TKUDECE",
+            "TKUDEE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131607255",
+        "name": "Tamkang University Department of English",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Department of English",
+            "DE",
+            "DELL",
+            "Department of English Language and Literature",
+            "TKUCFLLDE",
+            "TKUCFLLDELL",
+            "TKUDE",
+            "TKUDELL"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131607263",
+        "name": "Tamkang University Department of French",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "DF",
+            "Department of French",
+            "Department of French Language and Literature",
+            "DFLL",
+            "TKUCFLLDF",
+            "TKUCFLLDFLL",
+            "TKUDF",
+            "TKUDFLL"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131607266",
+        "name": "Tamkang University Department of German",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "DG",
+            "Department of German",
+            "Department of German Language and Literature",
+            "DGLL",
+            "TKUCFLLDG",
+            "TKUCFLLDGLL",
+            "TKUDG",
+            "TKUDGLL"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131605582",
+        "name": "Tamkang University Department of History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "TKUCLADH",
+            "TKUDH",
+            "Department of History, Tamkang University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131605623",
+        "name": "Tamkang University Department of Information and Communication",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "DIC",
+            "Department of Information and Communication",
+            "TKUCLADIC",
+            "TKUDIC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014034",
+        "name": "Tamkang University Department of Information and Library Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Department of Information and Library Science",
+            "DILS",
+            "DLIS",
+            "Tamkang University Department and Graduate Institute of Library and Information Science",
+            "TKUCLADILS",
+            "TKUDILS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131607268",
+        "name": "Tamkang University Department of Japanese",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "DJ",
+            "Department of Japanese",
+            "Department of Japanese Language and Literature",
+            "DJLL",
+            "TKUCFLLDJ",
+            "TKUCFLLDJLL",
+            "TKUDJ",
+            "TKUDJLL"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131605619",
+        "name": "Tamkang University Department of Mass Communication",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "DMC",
+            "Department of Mass Communication",
+            "TKUCLADMC",
+            "TKUDMC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014036",
+        "name": "Tamkang University Department of Mathematics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131607099",
+        "name": "Tamkang University Department of Mechanical and Electromechanical Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "DME",
+            "Department of Mechanical and Electromechanical Engineering",
+            "DMEME",
+            "Mechanical and Electro-mechanical Engineering",
+            "TKUCEDMEME",
+            "TKUDME",
+            "TKUDMEME"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131605693",
+        "name": "Tamkang University Department of Physics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Department of Physics",
+            "DP",
+            "TKUCSDP",
+            "TKUDP"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131607269",
+        "name": "Tamkang University Department of Russian",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "DR",
+            "Department of Russian",
+            "Department of Russian Language and Literature",
+            "DRLL",
+            "TKUCFLLDR",
+            "TKUCFLLDRLL",
+            "TKUDR",
+            "TKUDRLL"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131607097",
+        "name": "Tamkang University Department of Water Resources and Environmental Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Department of Water Resources and Environmental Engineering",
+            "DWRE",
+            "TKUCEDWRE",
+            "TKUDWRE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7688518",
+        "name": "Tatung Institute of Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.ttc.edu.tw\/",
+        "aliases": [
+            "TTC",
+            "Tatung Institute of Commerce and Technology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7688520",
+        "name": "Tatung University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ttu.edu.tw\/",
+        "aliases": null,
+        "latitude": 25.0667278,
+        "longitude": 121.5222222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7691093",
+        "name": "Tea and Beverage Research Station, Ministry of Agriculture",
+        "short_name": null,
+        "official_website": "http:\/\/www.tres.gov.tw",
+        "aliases": [
+            "Tea Research and Extension Station"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q121434657",
+        "name": "Tea Research and Extension Station Taitung Substation, MOA",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Tea Research and Extension Station Taitung Substation, COA"
+        ],
+        "latitude": 22.9075556,
+        "longitude": 121.1311111,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74558099",
+        "name": "The Chinese Oncology Society",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q110761121",
+        "name": "The Old School Building of Si Bei Elementary School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 22.4957615,
+        "longitude": 120.5110253,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11596694",
+        "name": "Toko University",
+        "short_name": null,
+        "official_website": "http:\/\/www.toko.edu.tw\/",
+        "aliases": null,
+        "latitude": 23.4488,
+        "longitude": 120.29,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11574133",
+        "name": "TransWorld University",
+        "short_name": null,
+        "official_website": "https:\/\/www.twu.edu.tw\/",
+        "aliases": null,
+        "latitude": 23.6809,
+        "longitude": 120.554,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11103504",
+        "name": "Tung Fang Design University",
+        "short_name": null,
+        "official_website": "https:\/\/www.tf.edu.tw\/",
+        "aliases": [
+            "Tung Fang Design Institute"
+        ],
+        "latitude": 22.8799,
+        "longitude": 120.247,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q707948",
+        "name": "Tunghai University",
+        "short_name": "THU",
+        "official_website": "http:\/\/www.thu.edu.tw\/",
+        "aliases": [
+            "THU",
+            "Dōnghǎi Dàxué",
+            "Tunghai University Institutional Repository"
+        ],
+        "latitude": 24.179527,
+        "longitude": 120.598769,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014073",
+        "name": "Tunghai University Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014077",
+        "name": "Tunghai University Department of Philosophy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101014078",
+        "name": "Tunghai University Department of Public Management and Policy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11103146",
+        "name": "Tungnan University",
+        "short_name": null,
+        "official_website": "http:\/\/www.tnu.edu.tw\/",
+        "aliases": null,
+        "latitude": 25.0086111,
+        "longitude": 121.6027778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q717899",
+        "name": "Tzu Chi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Buddhist Compassion Relief Tzu Chi Foundation",
+            "Buddhist Tzu Chi Charity Foundation",
+            "Tzu Chi (Ciji) Foundation (Buddhist Compassion Relief)"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q11074044",
+        "name": "Tzu Chi College of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.tcust.edu.tw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q709296",
+        "name": "Tzu Chi University",
+        "short_name": null,
+        "official_website": "http:\/\/www.tcu.edu.tw\/",
+        "aliases": [
+            "Tzu Chi College of Medicine and Humanities",
+            "Tzu Chi Medical College"
+        ],
+        "latitude": 23.9935,
+        "longitude": 121.589,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11074018",
+        "name": "Tzu Hui Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.tzuhui.edu.tw\/",
+        "aliases": null,
+        "latitude": 22.4860556,
+        "longitude": 120.4894167,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q11672753",
+        "name": "Tàiwan Steel University of Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.tsust.edu.tw\/app\/index.php?Lang=en",
+        "aliases": [
+            "Kao Yuan Institute of Technology",
+            "Kao Yuan Junior College of Technology and Commerce",
+            "Kao Yuan University",
+            "KYU",
+            "Private Kao Yuan Junior College of Technology"
+        ],
+        "latitude": 22.8383333,
+        "longitude": 120.265,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11063787",
+        "name": "University of Kang Ning",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 23.0589,
+        "longitude": 120.154,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q14415444",
+        "name": "University of Taipei",
+        "short_name": null,
+        "official_website": "http:\/\/www.utaipei.edu.tw\/",
+        "aliases": [
+            "Táiběi Shìlì Dàxué"
+        ],
+        "latitude": 25.0361111,
+        "longitude": 121.5136111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q13577806",
+        "name": "Vanung University",
+        "short_name": null,
+        "official_website": "http:\/\/www.vnu.edu.tw",
+        "aliases": null,
+        "latitude": 24.9916,
+        "longitude": 121.231,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q706940",
+        "name": "Wenzao Ursuline University of Languages",
+        "short_name": null,
+        "official_website": "http:\/\/www.wzu.edu.tw\/",
+        "aliases": null,
+        "latitude": 22.6703,
+        "longitude": 120.319,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q370230",
+        "name": "Wufeng University",
+        "short_name": null,
+        "official_website": "https:\/\/www.wfu.edu.tw",
+        "aliases": null,
+        "latitude": 23.5364,
+        "longitude": 120.434,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66020496",
+        "name": "Xuejia public school building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 23.23685,
+        "longitude": 120.17935,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11611655",
+        "name": "Yu Da University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.ydu.edu.tw\/",
+        "aliases": [
+            "Yu Da College of Business",
+            "Yu Da University"
+        ],
+        "latitude": 24.6473,
+        "longitude": 120.845,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8060057",
+        "name": "Yuan Ze University",
+        "short_name": "YZU",
+        "official_website": "http:\/\/www.yzu.edu.tw",
+        "aliases": [
+            "YZU"
+        ],
+        "latitude": 24.9697,
+        "longitude": 121.267,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10889598",
+        "name": "Yuanpei University of Medical Technology",
+        "short_name": null,
+        "official_website": "https:\/\/eng.ypu.edu.tw\/",
+        "aliases": [
+            "Yuanpei University"
+        ],
+        "latitude": 24.7824,
+        "longitude": 120.9405,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15930213",
+        "name": "Yuh-Ing Junior College of Health Care and Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.yuhing.edu.tw\/",
+        "aliases": null,
+        "latitude": 22.650296,
+        "longitude": 120.332904,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q11132781",
+        "name": "Yung Ta Institute of Technology and Commerce",
+        "short_name": null,
+        "official_website": "http:\/\/www.ytit.edu.tw\/",
+        "aliases": null,
+        "latitude": 22.6545,
+        "longitude": 120.5235,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109345544",
+        "name": "Yunsyu Classroom Building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 23.6955556,
+        "longitude": 120.5375,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10911250",
+        "name": "Zhongxiao Building, Tainan Municipal Liren Elementary School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 23.0008621,
+        "longitude": 120.201666,
+        "type": "university"
+    }
+]

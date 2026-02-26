@@ -1,0 +1,26 @@
+[
+    {
+        "wikidata_id": "Q131692629",
+        "name": "Midocean University",
+        "short_name": null,
+        "official_website": "https:\/\/midocean.ae\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551727",
+        "name": "University of the Comoros",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-comores.km",
+        "aliases": [
+            "UDC",
+            "Université des Comores",
+            "University of the Comores"
+        ],
+        "latitude": -11.7325,
+        "longitude": 43.2779626,
+        "type": "university"
+    }
+]

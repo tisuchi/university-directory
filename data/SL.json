@@ -1,0 +1,103 @@
+[
+    {
+        "wikidata_id": "Q4931177",
+        "name": "Bo Teacher's College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1278215",
+        "name": "Eastern Polytechnic",
+        "short_name": null,
+        "official_website": "http:\/\/www.easternpolytechnic.com\/",
+        "aliases": [
+            "Eastern Technical University"
+        ],
+        "latitude": 7.876,
+        "longitude": -11.1822,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1506926",
+        "name": "Fourah Bay College",
+        "short_name": null,
+        "official_website": "http:\/\/fourahbaycollege.net\/",
+        "aliases": null,
+        "latitude": 8.47719,
+        "longitude": -13.2212,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6729779",
+        "name": "Magburaka Technical Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6739256",
+        "name": "Makeni Teacher's College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7042386",
+        "name": "Njala University",
+        "short_name": null,
+        "official_website": "http:\/\/www.njalauniversity.net\/",
+        "aliases": [
+            "NU",
+            "njala.edu.sl"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7230761",
+        "name": "Port Loko Teacher's College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895660",
+        "name": "University of Makeni",
+        "short_name": null,
+        "official_website": "https:\/\/unimak.edu.sl\/",
+        "aliases": [
+            "Fatima Institute",
+            "UNIMAK"
+        ],
+        "latitude": 8.887413,
+        "longitude": -12.056168,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15045868",
+        "name": "University of Sierra Leone",
+        "short_name": null,
+        "official_website": "http:\/\/www.usl.edu.sl\/",
+        "aliases": [
+            "USL",
+            "usl.edu.sl"
+        ],
+        "latitude": 8.49222,
+        "longitude": -13.2094,
+        "type": "university"
+    }
+]

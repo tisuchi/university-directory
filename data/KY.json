@@ -1,0 +1,44 @@
+[
+    {
+        "wikidata_id": "Q6049373",
+        "name": "International College of the Cayman Islands",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ICCI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q648674",
+        "name": "St. Matthew's University",
+        "short_name": null,
+        "official_website": "https:\/\/www.stmatthews.edu\/",
+        "aliases": null,
+        "latitude": 19.3397,
+        "longitude": -81.3789,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7721798",
+        "name": "The Cayman Islands Civil Service College",
+        "short_name": null,
+        "official_website": "http:\/\/www.csc.gov.ky",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q648661",
+        "name": "University College of the Cayman Islands",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucci.edu.ky\/",
+        "aliases": null,
+        "latitude": 19.2792,
+        "longitude": -81.3838,
+        "type": "university"
+    }
+]
