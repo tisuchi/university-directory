@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
   <defs>
     <linearGradient id="icon" x1="256" y1="120" x2="256" y2="400" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#6366F1"/>
-      <stop offset="100%" stop-color="#4F46E5"/>
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#0284C7"/>
     </linearGradient>
   </defs>
 
   <!-- Light background (Tailwind slate-50) -->
   <rect width="512" height="512" rx="80" fill="#F8FAFC"/>
 
-  <!-- Subtle border (Tailwind indigo-200) -->
-  <rect x="2.5" y="2.5" width="507" height="507" rx="78" fill="none" stroke="#C7D2FE" stroke-width="2.5"/>
+  <!-- Subtle border (Tailwind sky-200) -->
+  <rect x="2.5" y="2.5" width="507" height="507" rx="78" fill="none" stroke="#BAE6FD" stroke-width="2.5"/>
 
   <!-- University icon centered -->
   <g transform="translate(256, 260)">
