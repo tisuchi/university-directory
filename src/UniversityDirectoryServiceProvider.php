@@ -3,6 +3,9 @@
 namespace Tisuchi\UniversityDirectory;
 
 use Illuminate\Support\ServiceProvider;
+use Tisuchi\UniversityDirectory\Console\ImportCommand;
+use Tisuchi\UniversityDirectory\Console\ListCommand;
+use Tisuchi\UniversityDirectory\Console\StatsCommand;
 
 class UniversityDirectoryServiceProvider extends ServiceProvider
 {
@@ -13,8 +16,18 @@ class UniversityDirectoryServiceProvider extends ServiceProvider
 
     public function boot(): void
     {
-        // TODO: Load migrations (US-027)
-        // TODO: Register commands (US-028)
-        // TODO: Add publishable migrations (US-029)
+        $this->loadMigrationsFrom(__DIR__.'/../database/migrations');
+
+        if ($this->app->runningInConsole()) {
+            $this->commands([
+                ImportCommand::class,
+                ListCommand::class,
+                StatsCommand::class,
+            ]);
+
+            $this->publishes([
+                __DIR__.'/../database/migrations' => database_path('migrations'),
+            ], 'university-directory-migrations');
+        }
     }
 }
