@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="art/logo.svg" width="128" alt="University Directory">
+</p>
+
 # University Directory
 
 A lightweight, structured university registry for Laravel applications. Built for scholarship platforms, education portals, and any app that needs clean university data with search, autocomplete, and URL-friendly slugs.
