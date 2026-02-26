@@ -1,0 +1,117 @@
+[
+    {
+        "wikidata_id": "Q104629321",
+        "name": "Adi-Keih College of Arts and Social Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IAU-003001"
+        ],
+        "latitude": 14.8588333,
+        "longitude": 39.367,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30674326",
+        "name": "Asmara College of Health Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ACH",
+            "IAU-001153"
+        ],
+        "latitude": 15.3426944,
+        "longitude": 38.9273611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5389588",
+        "name": "Eritrea Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.eit.edu.er\/",
+        "aliases": [
+            "EIT",
+            "IAU-004515",
+            "Mai-Nefhi College"
+        ],
+        "latitude": 15.243,
+        "longitude": 38.775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104629323",
+        "name": "Halhale College of Business and Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "HCBE",
+            "IAU-003004"
+        ],
+        "latitude": 15.0563611,
+        "longitude": 38.8344167,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102228321",
+        "name": "Hamelmalo Agricultural College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "HAC",
+            "Hamelmalo College of Agriculture",
+            "IAU-006961"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104629318",
+        "name": "Massawa College of Marine Science and Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "MCMST"
+        ],
+        "latitude": 15.60275,
+        "longitude": 39.4366111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23948496",
+        "name": "Orota Hospital",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 15.33444,
+        "longitude": 38.92444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104629320",
+        "name": "Orota School of Medicine and Dental Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IAU-013134",
+            "Orotta School of Medicine and Dental Medicine",
+            "OSDM"
+        ],
+        "latitude": 15.3366111,
+        "longitude": 38.9250833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1707483",
+        "name": "University of Asmara",
+        "short_name": null,
+        "official_website": "http:\/\/www.uoa.edu.er",
+        "aliases": [
+            "Asmara University",
+            "UoA"
+        ],
+        "latitude": 15.3425,
+        "longitude": 38.9275,
+        "type": "university"
+    }
+]

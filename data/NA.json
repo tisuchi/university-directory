@@ -1,0 +1,116 @@
+[
+    {
+        "wikidata_id": "Q5146879",
+        "name": "College of the Arts, Windhoek",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "College of the Arts"
+        ],
+        "latitude": -22.569,
+        "longitude": 17.083,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1667019",
+        "name": "International University of Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.ium.edu.na\/",
+        "aliases": [
+            "IUM",
+            "ium.edu.na"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q488696",
+        "name": "Namibia University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.nust.na",
+        "aliases": [
+            "nust.na",
+            "Polytechnic of Namibia"
+        ],
+        "latitude": -22.5652778,
+        "longitude": 17.0769444,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2016224",
+        "name": "Ogongo Agricultural College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -17.47,
+        "longitude": 15.33,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42313826",
+        "name": "Old German School Building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -22.5742,
+        "longitude": 17.11,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q220226",
+        "name": "University of Namibia",
+        "short_name": null,
+        "official_website": "https:\/\/www.unam.edu.na\/",
+        "aliases": [
+            "UNAM",
+            "unam.edu.na",
+            "University of Namibia (UNAM)"
+        ],
+        "latitude": -22.6111111,
+        "longitude": 17.0575,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946768",
+        "name": "University of Namibia Department of Chemistry and Biochemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946769",
+        "name": "University of Namibia Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946770",
+        "name": "University of Namibia Department of Geography History and Environmental Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113074741",
+        "name": "Welwitchia Health Training Centre",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Welwitchia University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

@@ -1,0 +1,6016 @@
+[
+    {
+        "wikidata_id": "Q106916019",
+        "name": "42",
+        "short_name": null,
+        "official_website": "https:\/\/42.us.org",
+        "aliases": [
+            "42",
+            "42 school",
+            "School 42"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q305507",
+        "name": "Abant Izzet Baysal University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ibu.edu.tr\/",
+        "aliases": [
+            "Abant Izzet Baysal Universitesi",
+            "Abant İzzet Baysal Üniversitesi",
+            "Abant İzzet Baysal University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74536834",
+        "name": "Abant Izzet Baysal University, Faculty of Economics and Administrative Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74548273",
+        "name": "Abant İzzet Baysal University, Faculty of Agriculture and Natural Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6083428",
+        "name": "Abdullah Gül University",
+        "short_name": null,
+        "official_website": "http:\/\/www.agu.edu.tr",
+        "aliases": [
+            "AGU"
+        ],
+        "latitude": 38.737034,
+        "longitude": 35.473555,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4678047",
+        "name": "Acıbadem University",
+        "short_name": null,
+        "official_website": "https:\/\/www.acibadem.edu.tr\/",
+        "aliases": [
+            "Acıbadem Mehmet Ali Aydınlar University",
+            "Acıbadem Üniversitesi"
+        ],
+        "latitude": 40.9785,
+        "longitude": 29.1103,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6074590",
+        "name": "Adana Alparslan Türkeş Science and Technology University",
+        "short_name": null,
+        "official_website": "http:\/\/www.atu.edu.tr\/",
+        "aliases": [
+            "ATU",
+            "Adana Science and Technology University"
+        ],
+        "latitude": 37.0391944,
+        "longitude": 35.3850833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74549238",
+        "name": "Adnan Menderes University, Faculty of Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527444",
+        "name": "Adıyaman Scientific Research Association (ABADER)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q380454",
+        "name": "Adıyaman University",
+        "short_name": null,
+        "official_website": "http:\/\/www.adiyaman.edu.tr\/",
+        "aliases": [
+            "Adýyaman Üniversitesi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106459767",
+        "name": "Aegean Agricultural research Institute",
+        "short_name": null,
+        "official_website": "https:\/\/arastirma.tarimorman.gov.tr\/",
+        "aliases": [
+            "AARI",
+            "IZ",
+            "Plant Genetic Resources Centre",
+            "Plant Research and Introduction Centre"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4690863",
+        "name": "Afyon Kocatepe University",
+        "short_name": null,
+        "official_website": "http:\/\/www.aku.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74535439",
+        "name": "Afyon Kocatepe University, Faculty of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q52162254",
+        "name": "Afyonkarahisar Health Sciences University",
+        "short_name": null,
+        "official_website": "http:\/\/afsu.edu.tr\/",
+        "aliases": [
+            "Afyonkarahisar University of Health Sciences"
+        ],
+        "latitude": 38.784906,
+        "longitude": 30.465949,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6088997",
+        "name": "Ahi Evran University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ahievran.edu.tr\/",
+        "aliases": [
+            "Ahi Evran Üniversitesi"
+        ],
+        "latitude": 39.1427,
+        "longitude": 34.1204,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q169939",
+        "name": "Akdeniz University",
+        "short_name": null,
+        "official_website": "http:\/\/www.akdeniz.edu.tr\/",
+        "aliases": [
+            "Akdeniz Üniversitesi"
+        ],
+        "latitude": 36.895,
+        "longitude": 30.6511,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74528450",
+        "name": "Akdeniz University, Research Centre for Mediterranean Languages and Cultures",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4701750",
+        "name": "Aksaray University",
+        "short_name": null,
+        "official_website": "http:\/\/www.aksaray.edu.tr\/",
+        "aliases": [
+            "Aksaray Üniversitesi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21523975",
+        "name": "Alanya Alaaddin Keykubat University",
+        "short_name": null,
+        "official_website": "https:\/\/www.alanya.edu.tr\/",
+        "aliases": null,
+        "latitude": 36.525224,
+        "longitude": 32.082342,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6048745",
+        "name": "Alanya University",
+        "short_name": null,
+        "official_website": "https:\/\/www.alanyauniversity.edu.tr\/",
+        "aliases": [
+            "HEP",
+            "AHEP",
+            "Alanya Hamdullah Emin Pasa University",
+            "Alanya HEP Üniversitesi",
+            "Alanya HEP University"
+        ],
+        "latitude": 36.5480823,
+        "longitude": 32.0321266,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q48743144",
+        "name": "Alata Research Institute of Horticulture",
+        "short_name": null,
+        "official_website": "https:\/\/arastirma.tarimorman.gov.tr\/alata",
+        "aliases": [
+            "ALATA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q21524500",
+        "name": "Albert Long Hall",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.0829914,
+        "longitude": 29.0525186,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135429830",
+        "name": "Ali Ülker Middle School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.030432,
+        "longitude": 28.9153377,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2756518",
+        "name": "Altınbaş University",
+        "short_name": null,
+        "official_website": "http:\/\/www.altinbas.edu.tr",
+        "aliases": [
+            "Istanbul Kemerburgaz University"
+        ],
+        "latitude": 41.0569444,
+        "longitude": 28.8202778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6073794",
+        "name": "Amasya University",
+        "short_name": null,
+        "official_website": "http:\/\/www.amasya.edu.tr\/",
+        "aliases": [
+            "Amasya Üniversitesi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530288",
+        "name": "Amasya University, Faculty of Theology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q97118980",
+        "name": "American College for Girls",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ACG",
+            "American High School",
+            "Constantinople Woman's College",
+            "The Home School"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q483758",
+        "name": "Anadolu University",
+        "short_name": null,
+        "official_website": "http:\/\/www.anadolu.edu.tr\/",
+        "aliases": [
+            "Anadolu Üniversitesi",
+            "Anadolu University, Eskisehir"
+        ],
+        "latitude": 39.7914,
+        "longitude": 30.4997,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4652898",
+        "name": "ANAEM",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 39.93647,
+        "longitude": 32.83075,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q19610519",
+        "name": "Anka University of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.anka.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74526698",
+        "name": "Ankara Düşünce ve Araştırma Merkezi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q52236613",
+        "name": "Ankara Hacı Bayram Veli University",
+        "short_name": null,
+        "official_website": "https:\/\/www.hacibayram.edu.tr\/",
+        "aliases": null,
+        "latitude": 39.9418611,
+        "longitude": 32.8188889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52162252",
+        "name": "Ankara Medipol University",
+        "short_name": null,
+        "official_website": "https:\/\/ankaramedipol.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97204373",
+        "name": "Ankara Science University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ankarabilim.edu.tr\/",
+        "aliases": [
+            "Ankara Bilim University"
+        ],
+        "latitude": 39.952305,
+        "longitude": 32.771901,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1060621",
+        "name": "Ankara University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ankara.edu.tr\/",
+        "aliases": [
+            "Ankara Üniversitesi",
+            "University of Ankara"
+        ],
+        "latitude": 39.9366667,
+        "longitude": 32.8302778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74528706",
+        "name": "Ankara University European, Union Research Centre",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30312585",
+        "name": "Ankara University of Music and Fine Arts",
+        "short_name": null,
+        "official_website": "http:\/\/mgu.edu.tr",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74539005",
+        "name": "Ankara University, Faculty of Communication",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q28159581",
+        "name": "Antalya Belek University",
+        "short_name": null,
+        "official_website": "http:\/\/akev.edu.tr\/",
+        "aliases": [
+            "Antalya AKEV University"
+        ],
+        "latitude": 36.8565,
+        "longitude": 31.0344,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6081675",
+        "name": "Antalya Bilim University",
+        "short_name": null,
+        "official_website": "http:\/\/www.antalya.edu.tr",
+        "aliases": [
+            "Antalya International University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12808547",
+        "name": "Ardahan University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ardahan.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125959011",
+        "name": "Arhavi high school",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.3405583,
+        "longitude": 41.2998306,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q134701146",
+        "name": "Arion Music School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.7395096,
+        "longitude": 27.2223358,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6051541",
+        "name": "ARMERKOM",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6103980",
+        "name": "Artvin Çoruh University",
+        "short_name": null,
+        "official_website": "http:\/\/www.artvin.edu.tr\/",
+        "aliases": null,
+        "latitude": 41.185249,
+        "longitude": 41.8336519,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74535508",
+        "name": "Association of Urological Surgery",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q753778",
+        "name": "Atatürk University",
+        "short_name": null,
+        "official_website": "http:\/\/www.atauni.edu.tr\/",
+        "aliases": [
+            "Atatürk Üniversitesi"
+        ],
+        "latitude": 39.8988,
+        "longitude": 41.2486,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74557419",
+        "name": "Atatürk University School of Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529292",
+        "name": "Atatürk Üniversitesi, İlahiyat Fakültesi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q52162250",
+        "name": "Atlas University",
+        "short_name": null,
+        "official_website": "http:\/\/www.atlas.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3321507",
+        "name": "Atılım University",
+        "short_name": null,
+        "official_website": "http:\/\/www.atilim.edu.tr\/",
+        "aliases": [
+            "Atılım Üniversitesi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6091376",
+        "name": "Avrasya University",
+        "short_name": null,
+        "official_website": "http:\/\/www.avrasya.edu.tr",
+        "aliases": null,
+        "latitude": 40.9924,
+        "longitude": 39.7684,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q359735",
+        "name": "Aydın Adnan Menderes University",
+        "short_name": null,
+        "official_website": "http:\/\/www.adu.edu.tr\/",
+        "aliases": [
+            "Adnan Menderes Üniversitesi",
+            "Adnan Menderes University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3674354",
+        "name": "Ağrı İbrahim Çeçen University",
+        "short_name": null,
+        "official_website": "http:\/\/www.agri.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103803804",
+        "name": "Aşık Veysel Vocational College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 39.34972,
+        "longitude": 36.42837,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q3409570",
+        "name": "Bahçeşehir University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bahcesehir.edu.tr\/",
+        "aliases": [
+            "Bahçeşehir Üniversitesi"
+        ],
+        "latitude": 41.041667,
+        "longitude": 29.009444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4853224",
+        "name": "Balıkesir University",
+        "short_name": null,
+        "official_website": "http:\/\/www.balikesir.edu.tr\/",
+        "aliases": [
+            "Balikesir University",
+            "Balıkesir Üniversitesi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20757715",
+        "name": "Bandırma Onyedi Eylül University",
+        "short_name": null,
+        "official_website": "http:\/\/bandirma.edu.tr",
+        "aliases": [
+            "Bandırma Onyedi Eylül Üniversitesi"
+        ],
+        "latitude": 40.3374,
+        "longitude": 27.936,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q59591155",
+        "name": "Bandırma Onyedi Eylül University Gönen Geothermal Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6089196",
+        "name": "Bartın University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bartin.edu.tr\/",
+        "aliases": [
+            "Bartin University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6859802",
+        "name": "Batman University",
+        "short_name": null,
+        "official_website": "http:\/\/www.batman.edu.tr\/",
+        "aliases": [
+            "Batman Üniversitesi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6088135",
+        "name": "Bayburt University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bayburt.edu.tr\/",
+        "aliases": null,
+        "latitude": 40.2501389,
+        "longitude": 40.2307222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q170171",
+        "name": "Başkent University",
+        "short_name": null,
+        "official_website": "https:\/\/www.baskent.edu.tr\/tr\/",
+        "aliases": [
+            "Başkent Üniversitesi"
+        ],
+        "latitude": 39.8875,
+        "longitude": 32.653889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4899874",
+        "name": "Beykent Educational Institutions",
+        "short_name": null,
+        "official_website": "http:\/\/www.beykent.k12.tr",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28159696",
+        "name": "Beykoz University",
+        "short_name": null,
+        "official_website": "http:\/\/beykoz.edu.tr\/",
+        "aliases": null,
+        "latitude": 41.09573,
+        "longitude": 29.091554,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6082806",
+        "name": "Bezmiâlem Foundation University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bezmialem.edu.tr",
+        "aliases": [
+            "Bezmialem Foundation University",
+            "Bezmialem Vakıf University"
+        ],
+        "latitude": 41.0183333,
+        "longitude": 28.9361111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131902826",
+        "name": "Beşinci Vakıf Han",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.0142326,
+        "longitude": 28.9584808,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6096546",
+        "name": "Bilecik Şeyh Edebali University",
+        "short_name": null,
+        "official_website": "https:\/\/www.bilecik.edu.tr\/",
+        "aliases": null,
+        "latitude": 40.1893,
+        "longitude": 29.9691,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4907815",
+        "name": "Bilkent Laboratory and International School",
+        "short_name": null,
+        "official_website": "http:\/\/blisankara.org",
+        "aliases": [
+            "BLIS"
+        ],
+        "latitude": 39.8675,
+        "longitude": 32.7646,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q861904",
+        "name": "Bilkent University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bilkent.edu.tr",
+        "aliases": [
+            "Bilkent",
+            "Bilkent Üniversitesi",
+            "İhsan Doğramacı Bilkent Üniversitesi"
+        ],
+        "latitude": 39.8673469,
+        "longitude": 32.7507706,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q863852",
+        "name": "Bingöl University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bingol.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19610800",
+        "name": "Biruni University",
+        "short_name": null,
+        "official_website": "http:\/\/biruni.edu.tr",
+        "aliases": null,
+        "latitude": 41.0178922,
+        "longitude": 28.9164256,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16827443",
+        "name": "Bitlis Eren University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bitliseren.edu.tr\/",
+        "aliases": [
+            "BEU"
+        ],
+        "latitude": 38.478938,
+        "longitude": 42.163548,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q896267",
+        "name": "Boğaziçi University",
+        "short_name": null,
+        "official_website": "https:\/\/bogazici.edu.tr\/",
+        "aliases": [
+            "Boğaziçi Üniversitesi",
+            "Bogazici University",
+            "Bosphorus University"
+        ],
+        "latitude": 41.0835556,
+        "longitude": 29.0505972,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28405751",
+        "name": "British Institute at Ankara",
+        "short_name": null,
+        "official_website": "http:\/\/biaa.ac.uk\/",
+        "aliases": [
+            "BIAA",
+            "British Institute of Archaeology at Ankara"
+        ],
+        "latitude": 39.8985097,
+        "longitude": 32.860695,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q924465",
+        "name": "Burdur Mehmet Akif Ersoy University",
+        "short_name": null,
+        "official_website": "https:\/\/www.mehmetakif.edu.tr\/",
+        "aliases": [
+            "Mehmet Akif Ersoy Üniversitesi",
+            "Mehmet Akif Ersoy University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12808964",
+        "name": "Bursa American Girls College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.1888008,
+        "longitude": 29.0436077,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5000549",
+        "name": "Bursa Orhangazi University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bou.edu.tr",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5000560",
+        "name": "Bursa Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.btu.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3247377",
+        "name": "Bursa Uludağ University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uludag.edu.tr",
+        "aliases": [
+            "Bursa Uludag University",
+            "Uludağ Üniversitesi"
+        ],
+        "latitude": 40.2189131,
+        "longitude": 28.8699561,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q13573451",
+        "name": "Canik Başarı University",
+        "short_name": null,
+        "official_website": "http:\/\/www.basari.edu.tr\/",
+        "aliases": null,
+        "latitude": 41.2298,
+        "longitude": 36.3681,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6015903",
+        "name": "Cappadocia University",
+        "short_name": null,
+        "official_website": "http:\/\/www.kapadokya.edu.tr\/",
+        "aliases": [
+            "Cappadocia Vocational College"
+        ],
+        "latitude": 40.9062479,
+        "longitude": 29.2876246,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74557157",
+        "name": "Center for Strategic Studies in Business and Finance",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q580829",
+        "name": "Central Bank of the Republic of Turkey",
+        "short_name": null,
+        "official_website": "http:\/\/www.tcmb.gov.tr",
+        "aliases": [
+            "CBRT",
+            "Central Bank of the Republic of Türkiye",
+            "Central Bank of Turkey",
+            "Republican Central Bank of Turkey"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552612",
+        "name": "Centre of Political Economical and Social Research (PESA)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6076696",
+        "name": "College of Fine Arts",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Sanayi-i Nefise Mektebi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136402741",
+        "name": "College of Fine Arts Building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Museum of the Ancient Orient Building"
+        ],
+        "latitude": 41.0113889,
+        "longitude": 28.9803889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5149695",
+        "name": "Columbia Global Centers",
+        "short_name": null,
+        "official_website": "https:\/\/globalcenters.columbia.edu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q28158677",
+        "name": "Cost Guard Academy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1622290",
+        "name": "Council of Higher Education",
+        "short_name": null,
+        "official_website": "https:\/\/www.yok.gov.tr\/",
+        "aliases": [
+            "Turkish Higher Education Council",
+            "YÖK"
+        ],
+        "latitude": 39.876841,
+        "longitude": 32.761087,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5186592",
+        "name": "Critical-Creative Thinking and Behavioral Research Laboratory",
+        "short_name": null,
+        "official_website": "http:\/\/www.elyadal.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529053",
+        "name": "Cukurova University, Faculty of Economics And Administrative Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74551246",
+        "name": "Cumhuriyet University, Faculty of Dentistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552616",
+        "name": "Cumhuriyet University, Faculty of Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q55627945",
+        "name": "Cyprus Social Sciences University",
+        "short_name": null,
+        "official_website": "http:\/\/www.kisbu.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74528155",
+        "name": "DAKAM",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1167080",
+        "name": "Darülfünun",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "İstanbul Darülfünunu"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530700",
+        "name": "Degerler Egitimi Merkezi\/Center for Values Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q130499",
+        "name": "Dicle University",
+        "short_name": null,
+        "official_website": "http:\/\/www.dicle.edu.tr\/",
+        "aliases": [
+            "Dicle Üniversitesi",
+            "Zanîngeha Dîcleyê"
+        ],
+        "latitude": 37.919208,
+        "longitude": 40.268056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1235258",
+        "name": "Dokuz Eylül University",
+        "short_name": "DEU",
+        "official_website": "http:\/\/www.deu.edu.tr\/",
+        "aliases": [
+            "DEU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74541280",
+        "name": "Dokuz Eylül University Faculty of Economics and Administrative Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/iibf.deu.edu.tr",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2254240",
+        "name": "Doğuş University",
+        "short_name": null,
+        "official_website": "http:\/\/www.dogus.edu.tr\/",
+        "aliases": null,
+        "latitude": 41.0018154,
+        "longitude": 29.1759114,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530041",
+        "name": "Duzce University, Medical Faculty",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6081316",
+        "name": "Düzce University",
+        "short_name": null,
+        "official_website": "http:\/\/www.duzce.edu.tr\/",
+        "aliases": [
+            "Duzce University"
+        ],
+        "latitude": 40.9044,
+        "longitude": 31.1809,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130311739",
+        "name": "Düzce University Department of Mathematics",
+        "short_name": null,
+        "official_website": "https:\/\/w3.api.duzce.edu.tr\/akademik\/fakulte\/fef\/matematik",
+        "aliases": [
+            "Department of Mathematics, Düzce University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74536756",
+        "name": "Düzce University, Instutitute of Natural and Applied Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1297001",
+        "name": "Ege University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ege.edu.tr\/",
+        "aliases": null,
+        "latitude": 38.4538889,
+        "longitude": 27.2116667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6038643",
+        "name": "Ege University Faculty of Agriculture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Ege University, Faculty of Agriculture"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527127",
+        "name": "Ege University Faculty of Medicine",
+        "short_name": null,
+        "official_website": "https:\/\/med.ege.edu.tr\/eng-\/Homepage.html",
+        "aliases": [
+            "Ege University Medical School",
+            "Faculty of Medicine of Ege University",
+            "Faculty of Medicine, Ege University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74545622",
+        "name": "Ege University, Faculty of Fisheries",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529713",
+        "name": "Ege University, Faculty of Letters",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74544956",
+        "name": "Ege University, Faculty of Medicine, Department of Pediatrics and Ege Children Foundation",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74557805",
+        "name": "Emergency Medicine Physicians’ Association of Turkey",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q135429831",
+        "name": "Emirgan Greek School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.1016187,
+        "longitude": 29.0528111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135429832",
+        "name": "Emirgan Primary School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.1040694,
+        "longitude": 29.0549331,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530304",
+        "name": "Erciyes Universitesi, Medya ve Din Araştırmaları Uygulama ve Araştırma Merkezi (MEDİAM)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4810943",
+        "name": "Erciyes University",
+        "short_name": null,
+        "official_website": "http:\/\/www.erciyes.edu.tr\/",
+        "aliases": [
+            "Erciyes Üniversitesi"
+        ],
+        "latitude": 38.7058,
+        "longitude": 35.536,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74529706",
+        "name": "Erciyes University, Faculty of Economics and Administrative Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530634",
+        "name": "Erciyes University, Faculty of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74556317",
+        "name": "Erciyes Üniversitesi İlahiyat Fakültesi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3674310",
+        "name": "Erzincan Binali Yıldırım University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ebyu.edu.tr\/",
+        "aliases": [
+            "Erzincan Üniversitesi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97567682",
+        "name": "Erzincan University Faculty of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q97567687",
+        "name": "Erzincan University Faculty of Law",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6065828",
+        "name": "Erzurum Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.erzurum.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530055",
+        "name": "Eskişehir Osmangazi University Faculty of Theology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530659",
+        "name": "Eskişehir Osmangazi University, Engineering and Architecture Faculty",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529754",
+        "name": "Eskişehir Osmangazi University, Faculty of Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q52162261",
+        "name": "Eskişehir Technical University",
+        "short_name": null,
+        "official_website": "https:\/\/www.eskisehir.edu.tr\/",
+        "aliases": null,
+        "latitude": 39.8159,
+        "longitude": 30.53155,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74528426",
+        "name": "Eurasian Applied Linguistics Society",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528449",
+        "name": "Eğirdir Fisheries Faculty",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74535835",
+        "name": "Faculty of Dentistry, Gazi University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q136323261",
+        "name": "Faculty of History, Language and Geography",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74551847",
+        "name": "Faculty of Islamic Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6066818",
+        "name": "Fatih Sultan Mehmet Vakif University",
+        "short_name": null,
+        "official_website": "https:\/\/www.fsm.edu.tr\/",
+        "aliases": [
+            "fsm.edu.tr",
+            "FSMVU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5437801",
+        "name": "Fatih University",
+        "short_name": null,
+        "official_website": "http:\/\/www.fatih.edu.tr\/",
+        "aliases": [
+            "Fatih Üniversitesi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q133685416",
+        "name": "Fenerbahçe Rüştiye Konağı",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.9823265,
+        "longitude": 29.0389519,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5443327",
+        "name": "Fenerbahçe University",
+        "short_name": null,
+        "official_website": "http:\/\/fbu.edu.tr",
+        "aliases": [
+            "FBU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5446182",
+        "name": "Feza Gürsey Institute",
+        "short_name": null,
+        "official_website": "http:\/\/fezagursey.boun.edu.tr\/eskisite\/about.php@m=about.html",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74544467",
+        "name": "Foundation for the Education, Health, Social Cooperation and Solidarity of the People of Gülhane",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1142874",
+        "name": "Fırat University",
+        "short_name": null,
+        "official_website": "https:\/\/www.firat.edu.tr",
+        "aliases": [
+            "Elazığ State Academy of Engineering and Architecture",
+            "Elazığ Technical College"
+        ],
+        "latitude": 38.679722,
+        "longitude": 39.201667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131902781",
+        "name": "Galata Greek School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.0258904,
+        "longitude": 28.9780655,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1491731",
+        "name": "Galatasaray University",
+        "short_name": null,
+        "official_website": "https:\/\/gsu.edu.tr\/",
+        "aliases": [
+            "Enderun School",
+            "Galata Sarayı",
+            "Université Galatasaray"
+        ],
+        "latitude": 41.0452,
+        "longitude": 29.0191,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6089948",
+        "name": "Galatasaray Üniversitesi. İletişim Fakültesi",
+        "short_name": null,
+        "official_website": "http:\/\/iletisim.gsu.edu.tr\/",
+        "aliases": [
+            "Galatasaray University, Faculty of Communication"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6097677",
+        "name": "Gazi Eğitim Enstitüsü",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Gazi Terbiye"
+        ],
+        "latitude": 39.9394444,
+        "longitude": 32.8222222,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5998548",
+        "name": "Gazi Middle School",
+        "short_name": null,
+        "official_website": "https:\/\/konakgaziortaokulu.meb.k12.tr",
+        "aliases": [
+            "Gazi Ortaokulu"
+        ],
+        "latitude": 38.4336111,
+        "longitude": 27.1411111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1496662",
+        "name": "Gazi University",
+        "short_name": null,
+        "official_website": "http:\/\/www.gazi.edu.tr\/",
+        "aliases": [
+            "Gazi Üniversitesi"
+        ],
+        "latitude": 39.93944,
+        "longitude": 32.8201,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60673567",
+        "name": "Gaziantep Islam Science and Technology University",
+        "short_name": null,
+        "official_website": "http:\/\/www.gibtu.net",
+        "aliases": null,
+        "latitude": 36.979,
+        "longitude": 37.3,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1496654",
+        "name": "Gaziantep University",
+        "short_name": null,
+        "official_website": "http:\/\/www.gaziantep.edu.tr\/en\/",
+        "aliases": null,
+        "latitude": 37.0353041,
+        "longitude": 37.3124246,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135582859",
+        "name": "Gazipaşa Primary School (Mardin)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 37.3137245,
+        "longitude": 40.7395248,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q281155",
+        "name": "Gebze Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.gtu.edu.tr",
+        "aliases": [
+            "Gebze Institute of Technology"
+        ],
+        "latitude": 40.8080556,
+        "longitude": 29.3566667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30263518",
+        "name": "Gedik University",
+        "short_name": null,
+        "official_website": "https:\/\/www.gedik.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6099023",
+        "name": "Gediz University",
+        "short_name": null,
+        "official_website": "http:\/\/www.gediz.edu.tr\/index_en.php",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12809694",
+        "name": "Giresun University",
+        "short_name": null,
+        "official_website": "https:\/\/www.giresun.edu.tr\/",
+        "aliases": [
+            "Giresun Üniversitesi"
+        ],
+        "latitude": 40.9140278,
+        "longitude": 38.3234167,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74527463",
+        "name": "Graduate School of Natural and Applied Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Gazi University, Graduate School Of Natural And Applied Sciences",
+            "Graduate School of Natural and Applied Science"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74536801",
+        "name": "Graduate School of Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74546132",
+        "name": "Graduate School of Social Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30555593",
+        "name": "Gönen Geothermic Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.balikesir.edu.tr\/index.php\/baun\/birim\/gonen_jeotermal_enstitusu",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5626894",
+        "name": "Gümüşhane University",
+        "short_name": null,
+        "official_website": "http:\/\/www.gumushane.edu.tr\/",
+        "aliases": null,
+        "latitude": 40.4380278,
+        "longitude": 39.517,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1567050",
+        "name": "Hacettepe University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hacettepe.edu.tr\/",
+        "aliases": null,
+        "latitude": 39.8672222,
+        "longitude": 32.7344444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4386612",
+        "name": "Hacettepe University Ankara State Conservatory",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Ankara State Conservatory"
+        ],
+        "latitude": 39.9334,
+        "longitude": 32.8255,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61073288",
+        "name": "Hacettepe University School of Foreign Languages",
+        "short_name": null,
+        "official_website": "http:\/\/www.ydyo.hacettepe.edu.tr\/",
+        "aliases": null,
+        "latitude": 39.8649444,
+        "longitude": 32.7353333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74529729",
+        "name": "Hacettepe University, Faculty of Communication",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74548115",
+        "name": "Hacettepe University, Faculty of Education, English Language Teaching Department",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74557087",
+        "name": "Hacettepe University, Faculty of Health Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74539648",
+        "name": "Hacettepe University, Faculty of Letters",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q135582784",
+        "name": "Hacı Kemal Gürler House",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 39.9145927,
+        "longitude": 41.2803802,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5640536",
+        "name": "Hakkari University",
+        "short_name": null,
+        "official_website": "http:\/\/en.hu.edu.tr\/Default.aspx",
+        "aliases": null,
+        "latitude": 37.5609722,
+        "longitude": 43.7230833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5642495",
+        "name": "Haliç University",
+        "short_name": null,
+        "official_website": "http:\/\/www.halic.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6076206",
+        "name": "Halkalı Ziraat Mekteb-i Âlisi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.0335197,
+        "longitude": 28.7882671,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113946888",
+        "name": "Harran University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 36.8641363,
+        "longitude": 39.0303109,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5663864",
+        "name": "Harran University",
+        "short_name": null,
+        "official_website": "http:\/\/www.harran.edu.tr\/",
+        "aliases": [
+            "Harran Üniversitesi"
+        ],
+        "latitude": 37.16825,
+        "longitude": 38.9946667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6669345",
+        "name": "Hasan Kalyoncu University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hku.edu.tr",
+        "aliases": null,
+        "latitude": 37.0073086,
+        "longitude": 37.4361374,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74546590",
+        "name": "Haseki Training and Research Hospital",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q135429840",
+        "name": "Hasköy Greek School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.0411186,
+        "longitude": 28.951725,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10952014",
+        "name": "Hatay Mustafa Kemal University",
+        "short_name": null,
+        "official_website": "http:\/\/www.mku.edu.tr\/",
+        "aliases": [
+            "HMKU",
+            "MKU",
+            "Mustafa Kemal University"
+        ],
+        "latitude": 36.3358,
+        "longitude": 36.19899,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6103572",
+        "name": "Hitit University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hitit.edu.tr",
+        "aliases": [
+            "Hitit Ünivertesi",
+            "Hittite University"
+        ],
+        "latitude": 40.5706667,
+        "longitude": 34.981,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130308151",
+        "name": "Hitit University Department of Computer Engineering",
+        "short_name": null,
+        "official_website": "https:\/\/mf.hitit.edu.tr\/en\/bilgisayar\/",
+        "aliases": [
+            "Department of Computer Engineering, Hitit University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6024125",
+        "name": "Imperial School of Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Mekteb-i Tıbbiye",
+            "Mekteb-i Tıbbiyye"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74547858",
+        "name": "Infectious Diseases and Clinical Microbiology Specialty Society of Turkey",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1246531",
+        "name": "Institut français d'études anatoliennes",
+        "short_name": null,
+        "official_website": "https:\/\/www.ifea-istanbul.net\/index.php\/tr\/",
+        "aliases": [
+            "Institut français d'études anatoliennes d'Istanbul",
+            "French Institute of Anatolian Studies"
+        ],
+        "latitude": 41.0315199,
+        "longitude": 28.9772934,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112629175",
+        "name": "Institute for Research on Turkish Culture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530290",
+        "name": "Institute of Health Sciences of Kocaeli University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6086295",
+        "name": "Institute of Marine Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.ims.metu.edu.tr\/",
+        "aliases": null,
+        "latitude": 36.4001,
+        "longitude": 34.1518,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528442",
+        "name": "Instutite of Social Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527120",
+        "name": "International Engineering Science & Education Group",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q124412132",
+        "name": "International Suleiman University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ISU International Suleiman Universty"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16331008",
+        "name": "Ioakeimeion Girls' High School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.0299568,
+        "longitude": 28.9491138,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21523789",
+        "name": "Iskenderun Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.iste.edu.tr",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52162257",
+        "name": "Isparta University of Applied Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/www.isparta.edu.tr\/",
+        "aliases": null,
+        "latitude": 37.7791111,
+        "longitude": 30.5468889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30263524",
+        "name": "Istanbul 29 Mayis University",
+        "short_name": null,
+        "official_website": "https:\/\/www.29mayis.edu.tr\/tr\/",
+        "aliases": [
+            "İstanbul 29 Mayıs University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6088573",
+        "name": "Istanbul Arel University",
+        "short_name": null,
+        "official_website": "http:\/\/www.arel.edu.tr\/",
+        "aliases": [
+            "Arel University"
+        ],
+        "latitude": 40.9998128,
+        "longitude": 28.7961997,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6088582",
+        "name": "Istanbul Aydın University",
+        "short_name": null,
+        "official_website": "http:\/\/www.aydin.edu.tr",
+        "aliases": null,
+        "latitude": 40.99061,
+        "longitude": 28.7972317,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q853151",
+        "name": "Istanbul Beykent University",
+        "short_name": null,
+        "official_website": "http:\/\/www.beykent.edu.tr\/",
+        "aliases": null,
+        "latitude": 41.1172784,
+        "longitude": 29.0036883,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q344262",
+        "name": "Istanbul Bilgi University",
+        "short_name": null,
+        "official_website": "https:\/\/www.bilgi.edu.tr\/",
+        "aliases": [
+            "BİLGİ",
+            "İstanbul Bilgi Üniversitesi"
+        ],
+        "latitude": 41.0667968,
+        "longitude": 28.9458705,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6088590",
+        "name": "Istanbul Bilim University",
+        "short_name": null,
+        "official_website": "http:\/\/www.istanbulbilim.edu.tr",
+        "aliases": [
+            "Bilim University",
+            "Istanbul Bilim Üniversitesi"
+        ],
+        "latitude": 41.0691667,
+        "longitude": 29.0122222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3073363",
+        "name": "Istanbul Commerce University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ticaret.edu.tr",
+        "aliases": null,
+        "latitude": 41.0188389,
+        "longitude": 28.9668111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19613824",
+        "name": "Istanbul Esenyurt University",
+        "short_name": null,
+        "official_website": "http:\/\/esenyurt.edu.tr\/",
+        "aliases": [
+            "Esenyurt University"
+        ],
+        "latitude": 41.0203855,
+        "longitude": 28.6871457,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6078998",
+        "name": "Istanbul Gelisim University",
+        "short_name": null,
+        "official_website": "http:\/\/www.gelisim.edu.tr\/",
+        "aliases": [
+            "Gelisim University"
+        ],
+        "latitude": 40.9981931,
+        "longitude": 28.698805,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97320401",
+        "name": "Istanbul Health and Technology University",
+        "short_name": null,
+        "official_website": "https:\/\/www.istun.edu.tr",
+        "aliases": [
+            "ISTUN",
+            "Istün",
+            "ISTÜN",
+            "İstün",
+            "İSTÜN"
+        ],
+        "latitude": 41.0564788,
+        "longitude": 28.9515536,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30312829",
+        "name": "Istanbul Kent University",
+        "short_name": null,
+        "official_website": "https:\/\/www.kent.edu.tr\/",
+        "aliases": [
+            "Kent University"
+        ],
+        "latitude": 41.0335833,
+        "longitude": 28.9843056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6088633",
+        "name": "Istanbul Kültür University",
+        "short_name": null,
+        "official_website": "https:\/\/www.iku.edu.tr\/",
+        "aliases": [
+            "Kültür University"
+        ],
+        "latitude": 40.9911111,
+        "longitude": 28.8316667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11158752",
+        "name": "Istanbul Medeniyet University",
+        "short_name": null,
+        "official_website": "https:\/\/www.medeniyet.edu.tr\/tr",
+        "aliases": [
+            "IMU",
+            "Istanbul Civilization University",
+            "İstanbul Medeniyet Üniversitesi"
+        ],
+        "latitude": 40.9952823,
+        "longitude": 29.0646536,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30253989",
+        "name": "Istanbul Medipol University",
+        "short_name": null,
+        "official_website": "http:\/\/www.medipol.edu.tr\/",
+        "aliases": [
+            "İstanbul Medipol Üniversitesi"
+        ],
+        "latitude": 41.0880556,
+        "longitude": 29.0883333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6069457",
+        "name": "Istanbul Nişantaşı University",
+        "short_name": null,
+        "official_website": "http:\/\/www.nisantasi.edu.tr\/",
+        "aliases": [
+            "Nişantaşı University"
+        ],
+        "latitude": 41.1194264,
+        "longitude": 29.009045,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74537944",
+        "name": "Istanbul Northern Anatolian Association of Public Hospitals",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25477809",
+        "name": "Istanbul Rumeli University",
+        "short_name": null,
+        "official_website": "http:\/\/rumeli.edu.tr\/",
+        "aliases": [
+            "Rumeli University"
+        ],
+        "latitude": 41.0786748,
+        "longitude": 28.2701323,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6073295",
+        "name": "Istanbul Sabahattin Zaim University",
+        "short_name": null,
+        "official_website": "http:\/\/www.izu.edu.tr\/",
+        "aliases": [
+            "Sabahattin Zaim University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q344334",
+        "name": "Istanbul Technical University",
+        "short_name": null,
+        "official_website": "https:\/\/www.itu.edu.tr\/",
+        "aliases": [
+            "ITU",
+            "İstanbul Teknik Üniversitesi",
+            "İTÜ",
+            "Technical University of Istanbul"
+        ],
+        "latitude": 41.105,
+        "longitude": 29.025,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q26884321",
+        "name": "Istanbul Technical University Polar Research Center",
+        "short_name": null,
+        "official_website": "http:\/\/www.polarresearch.center\/en\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529285",
+        "name": "Istanbul Umut Hareketi Dernegi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q192964",
+        "name": "Istanbul University",
+        "short_name": null,
+        "official_website": "https:\/\/www.istanbul.edu.tr",
+        "aliases": [
+            "İstanbul Üniversitesi",
+            "University of Istanbul"
+        ],
+        "latitude": 41.0130361,
+        "longitude": 28.963875,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6064608",
+        "name": "Istanbul University Faculty of Dentistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Istanbul University, Faculty of Dentistry"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q133284945",
+        "name": "Istanbul University Institute of Social Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/sosyalbilimler.istanbul.edu.tr",
+        "aliases": [
+            "Istanbul University Social Sciences Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3018624",
+        "name": "Istanbul University State Conservatory",
+        "short_name": null,
+        "official_website": "http:\/\/konservatuvar.istanbul.edu.tr\/tr\/index.asp",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74558092",
+        "name": "Istanbul University, Department of the History of Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530299",
+        "name": "Istanbul University, Faculty of Fisheries",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530089",
+        "name": "Istanbul University, Faculty of Forestry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6079964",
+        "name": "Istanbul University-Cerrahpaşa",
+        "short_name": null,
+        "official_website": "https:\/\/www.iuc.edu.tr",
+        "aliases": null,
+        "latitude": 40.9859444,
+        "longitude": 28.7270556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530654",
+        "name": "Istanbul University-Cerrahpaşa, Hasan Ali Yücel School of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6088707",
+        "name": "Istanbul Şehir University",
+        "short_name": null,
+        "official_website": "http:\/\/www.sehir.edu.tr\/",
+        "aliases": [
+            "İstanbul Şehir Üniversitesi",
+            "Şehir University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74542164",
+        "name": "Izmir Katip Celebi University, Faculty of Social Sciences and Humanities",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529264",
+        "name": "Izmir Katip Celebi University, Faculty of Tourism",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6103376",
+        "name": "Iğdır University",
+        "short_name": null,
+        "official_website": "http:\/\/www.igdir.edu.tr\/",
+        "aliases": null,
+        "latitude": 39.8150278,
+        "longitude": 44.0768889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q819402",
+        "name": "Işık University",
+        "short_name": null,
+        "official_website": "http:\/\/www.isikun.edu.tr\/en",
+        "aliases": [
+            "Işık Üniversitesi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3242620",
+        "name": "Kadir Has University",
+        "short_name": null,
+        "official_website": "https:\/\/www.khas.edu.tr\/",
+        "aliases": [
+            "Kadir Has Üniversitesi",
+            "KHAS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3674409",
+        "name": "Kafkas University",
+        "short_name": null,
+        "official_website": "https:\/\/www.kafkas.edu.tr\/",
+        "aliases": [
+            "Kafkas Üniversitesi"
+        ],
+        "latitude": 40.5845,
+        "longitude": 43.0715556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3674402",
+        "name": "Kahramanmaraş Sütçü İmam University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ksu.edu.tr",
+        "aliases": [
+            "Kahramanmaraş Sütçü İmam Üniversitesi",
+            "Kahramanmaras Sutcu Imam University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74528760",
+        "name": "Kahramanmaraş Sütçü İmam Üniversitesi, Orman Fakültesi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q52162263",
+        "name": "Kahramanmaraş İstiklal University",
+        "short_name": null,
+        "official_website": "http:\/\/www.istiklal.edu.tr\/",
+        "aliases": [
+            "İstiklal University"
+        ],
+        "latitude": 37.5734,
+        "longitude": 36.9337,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19611605",
+        "name": "Kanuni University",
+        "short_name": null,
+        "official_website": "http:\/\/kanuni.edu.tr",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11136363",
+        "name": "Karabük University",
+        "short_name": null,
+        "official_website": "http:\/\/www.karabuk.edu.tr\/",
+        "aliases": null,
+        "latitude": 41.2134444,
+        "longitude": 32.6536111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4823749",
+        "name": "Karadeniz Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ktu.edu.tr\/",
+        "aliases": [
+            "KATO",
+            "Karadeniz Teknik Üniversitesi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74556339",
+        "name": "Karadeniz Technical University, Institute of Black Sea Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6368296",
+        "name": "Karamanoğlu Mehmetbey University",
+        "short_name": null,
+        "official_website": "http:\/\/www.kmu.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q595840",
+        "name": "Kastamonu University",
+        "short_name": null,
+        "official_website": "http:\/\/www.kastamonu.edu.tr",
+        "aliases": [
+            "Kastamonu Üniversitesi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74557124",
+        "name": "Kastamonu University, Faculty of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74557412",
+        "name": "Kastamonu University, Faculty of Fisheries",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529029",
+        "name": "Kastamonu University, Faculty of Forestry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q52162273",
+        "name": "Kayseri University",
+        "short_name": null,
+        "official_website": "http:\/\/www.kayseri.edu.tr\/",
+        "aliases": null,
+        "latitude": 38.71301,
+        "longitude": 35.55376,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6407000",
+        "name": "Kilis 7 Aralık University",
+        "short_name": null,
+        "official_website": "http:\/\/www.kilis.edu.tr\/",
+        "aliases": [
+            "7 Aralık University",
+            "Kilis 7 Aralık Üniversitesi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97208050",
+        "name": "Kocaeli Health and Technology University",
+        "short_name": null,
+        "official_website": "https:\/\/www.kocaelisaglik.edu.tr",
+        "aliases": null,
+        "latitude": 40.6994444,
+        "longitude": 29.8838889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1550686",
+        "name": "Kocaeli University",
+        "short_name": null,
+        "official_website": "http:\/\/www.kocaeli.edu.tr\/",
+        "aliases": [
+            "Kocaeli Üniversitesi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131903108",
+        "name": "Kocahıdır Primary School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.7347069,
+        "longitude": 27.2264328,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19611734",
+        "name": "Konya Food and Agriculture University",
+        "short_name": null,
+        "official_website": "http:\/\/www.gidatarim.edu.tr",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52236385",
+        "name": "Konya Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/ktun.edu.tr\/",
+        "aliases": null,
+        "latitude": 38.02685,
+        "longitude": 32.50986,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1193155",
+        "name": "Koç University",
+        "short_name": null,
+        "official_website": "https:\/\/www.kocuniversity.cn\/",
+        "aliases": null,
+        "latitude": 41.1977778,
+        "longitude": 29.065,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6095550",
+        "name": "KTO Karatay University",
+        "short_name": null,
+        "official_website": "http:\/\/www.karatay.edu.tr",
+        "aliases": null,
+        "latitude": 37.8643,
+        "longitude": 32.5369,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6454207",
+        "name": "Kütahya Dumlupınar University",
+        "short_name": null,
+        "official_website": "https:\/\/www.dpu.edu.tr\/",
+        "aliases": null,
+        "latitude": 39.4800286,
+        "longitude": 29.8992058,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52236454",
+        "name": "Kütahya Health Sciences University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ksbu.edu.tr\/",
+        "aliases": [
+            "Kütahya University of Health Sciences"
+        ],
+        "latitude": 39.4876804,
+        "longitude": 29.8857552,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q603581",
+        "name": "Kırklareli University",
+        "short_name": null,
+        "official_website": "http:\/\/www.kirklareli.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6454746",
+        "name": "Kırıkkale University",
+        "short_name": null,
+        "official_website": "http:\/\/www.kku.edu.tr\/",
+        "aliases": [
+            "Kırıkkale Üniversitesi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q45841562",
+        "name": "Lokman Hekim University",
+        "short_name": null,
+        "official_website": "http:\/\/www.lokmanhekim.edu.tr",
+        "aliases": null,
+        "latitude": 39.91122,
+        "longitude": 32.78746,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52236553",
+        "name": "Malatya Turgut Özal University",
+        "short_name": null,
+        "official_website": "http:\/\/ozal.edu.tr\/",
+        "aliases": [
+            "Turgut Özal University"
+        ],
+        "latitude": 38.465029,
+        "longitude": 38.35472,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1697376",
+        "name": "Maltepe University",
+        "short_name": null,
+        "official_website": "http:\/\/www.maltepe.edu.tr\/",
+        "aliases": [
+            "Maltepe Üniversitesi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5057509",
+        "name": "Manisa Celal Bayar University",
+        "short_name": null,
+        "official_website": "http:\/\/cbu.edu.tr\/",
+        "aliases": [
+            "Celal Bayar University"
+        ],
+        "latitude": 38.6775087,
+        "longitude": 27.3079163,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6586561",
+        "name": "Mardin Artuklu University",
+        "short_name": null,
+        "official_website": "http:\/\/www.artuklu.edu.tr",
+        "aliases": null,
+        "latitude": 37.3351638,
+        "longitude": 40.7066348,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74535804",
+        "name": "Mardin Artuklu University, Institute of Social Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q131903176",
+        "name": "Mardin Girls' Vocational High School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Mardin Girls' Vocational High School",
+            "Mardin Girls' Vocational Lyceum",
+            "Mardin Girls' Vocational Secondary School"
+        ],
+        "latitude": 37.3136177,
+        "longitude": 40.7390404,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1424081",
+        "name": "Marmara University",
+        "short_name": null,
+        "official_website": "https:\/\/www.marmara.edu.tr",
+        "aliases": [
+            "Marmara Üniversitesi"
+        ],
+        "latitude": 40.9861111,
+        "longitude": 29.0536111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74529024",
+        "name": "Marmara University, Faculty of Communication",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74557440",
+        "name": "Marmara Üniversitesi  Sosyal Bilimler Enstitüsü",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q169913",
+        "name": "McGhee Center for Eastern Mediterranean Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www11.georgetown.edu\/oip\/os\/sites\/mideast\/McGhee",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6009283",
+        "name": "Medresetü'z-Zehra",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16951274",
+        "name": "MEF University",
+        "short_name": null,
+        "official_website": "http:\/\/mef.edu.tr",
+        "aliases": null,
+        "latitude": 41.1087746,
+        "longitude": 29.0085455,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74529026",
+        "name": "Mehmet Akif Ersoy University, Health Sciences Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6084681",
+        "name": "Melikşah University",
+        "short_name": null,
+        "official_website": "http:\/\/www.meliksah.edu.tr\/",
+        "aliases": [
+            "Melikşah Üniversitesi"
+        ],
+        "latitude": 38.7130111,
+        "longitude": 35.5537611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1922090",
+        "name": "Mersin University",
+        "short_name": null,
+        "official_website": "http:\/\/www.mersin.edu.tr\/",
+        "aliases": null,
+        "latitude": 36.7861111,
+        "longitude": 34.5258333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530681",
+        "name": "Mersin University, Institute of Medical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6085143",
+        "name": "Mevlana University",
+        "short_name": null,
+        "official_website": "http:\/\/www.mevlana.edu.tr\/",
+        "aliases": [
+            "Mevlana Üniversitesi"
+        ],
+        "latitude": 38.0066667,
+        "longitude": 32.5161111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q756126",
+        "name": "Middle East Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.metu.edu.tr",
+        "aliases": [
+            "Orta Doğu Teknik Üniversitesi",
+            "METU"
+        ],
+        "latitude": 39.8856678,
+        "longitude": 32.7840273,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1936057",
+        "name": "Mimar Sinan Fine Arts University",
+        "short_name": null,
+        "official_website": "http:\/\/www.msgsu.edu.tr\/",
+        "aliases": [
+            "Academy of Fine Arts, Istanbul",
+            "Mimar Sinan University of Fine Arts"
+        ],
+        "latitude": 41.03,
+        "longitude": 28.9892,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6552441",
+        "name": "Munzur University",
+        "short_name": null,
+        "official_website": "http:\/\/www.munzur.edu.tr",
+        "aliases": [
+            "Tunceli Üniversitesi",
+            "Tunceli University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19612027",
+        "name": "Murat Hüdavendigar University",
+        "short_name": null,
+        "official_website": "http:\/\/mhu.edu.tr",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131903170",
+        "name": "Mustafa Necati Primary School Building (Edirne)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.6557961,
+        "longitude": 26.5206909,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6944541",
+        "name": "Muğla University",
+        "short_name": null,
+        "official_website": "http:\/\/www.mu.edu.tr",
+        "aliases": [
+            "Muğla Sıtkı Koçman University",
+            "Sıtkı Koçman University"
+        ],
+        "latitude": 37.16475,
+        "longitude": 28.3740556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6944545",
+        "name": "Muş Alparslan University",
+        "short_name": null,
+        "official_website": "http:\/\/www.alparslan.edu.tr",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1964403",
+        "name": "Namık Kemal University",
+        "short_name": null,
+        "official_website": "http:\/\/www.nku.edu.tr\/",
+        "aliases": [
+            "Namık Kemal Üniversitesi",
+            "Tekirdag Namık Kemal University"
+        ],
+        "latitude": 40.9935,
+        "longitude": 27.5834722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28846425",
+        "name": "National Defense University",
+        "short_name": null,
+        "official_website": "http:\/\/msu.edu.tr",
+        "aliases": null,
+        "latitude": 41.101,
+        "longitude": 29.0135,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6014895",
+        "name": "National Defense University Air NCO Higher Vocational School",
+        "short_name": null,
+        "official_website": "http:\/\/www.havamyo.edu.tr\/EN\/Default.aspx",
+        "aliases": [
+            "Air NCO Higher Vocational School"
+        ],
+        "latitude": 38.3098889,
+        "longitude": 27.1568056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124253204",
+        "name": "National Intelligence Academy",
+        "short_name": null,
+        "official_website": "https:\/\/www.mit.gov.tr\/akademi.html",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6079494",
+        "name": "Necatibey Faculty of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 39.6390035,
+        "longitude": 27.8797347,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6089124",
+        "name": "Necmettin Erbakan University",
+        "short_name": null,
+        "official_website": "http:\/\/www.konya.edu.tr\/",
+        "aliases": [
+            "Konya Üniversitesi",
+            "Necmettin Erbakan Üniversitesi"
+        ],
+        "latitude": 37.8797681,
+        "longitude": 32.4851789,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6096373",
+        "name": "Nesin Mathematics Village",
+        "short_name": null,
+        "official_website": "http:\/\/www.nesinkoyleri.org\/",
+        "aliases": null,
+        "latitude": 37.951238,
+        "longitude": 27.430858,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6059990",
+        "name": "Nevşehir Hacı Bektaş Veli University",
+        "short_name": null,
+        "official_website": "http:\/\/www.nevsehir.edu.tr",
+        "aliases": [
+            "Hacı Bektaş Veli University",
+            "Nevşehir University"
+        ],
+        "latitude": 38.6752,
+        "longitude": 34.7422,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7042323",
+        "name": "Niğde Ömer Halisdemir University",
+        "short_name": null,
+        "official_website": "http:\/\/www.nigde.edu.tr\/",
+        "aliases": [
+            "Niğde Üniversitesi",
+            "Niğde University",
+            "Ömer Halisdemir University"
+        ],
+        "latitude": 37.9412872,
+        "longitude": 34.6244246,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12811176",
+        "name": "Nişantaşı Anadolu Lisesi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.0536111,
+        "longitude": 28.9938889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20988491",
+        "name": "Nuh Naci Yazgan University",
+        "short_name": null,
+        "official_website": "http:\/\/www.nny.edu.tr\/",
+        "aliases": null,
+        "latitude": 38.7861,
+        "longitude": 35.4069,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6100694",
+        "name": "Okan University",
+        "short_name": null,
+        "official_website": "http:\/\/www.okan.edu.tr\/en",
+        "aliases": null,
+        "latitude": 40.9519444,
+        "longitude": 29.3925,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106802301",
+        "name": "Okyanus Koleji",
+        "short_name": null,
+        "official_website": "https:\/\/www.okyanuskoleji.k12.tr\/",
+        "aliases": [
+            "Okyanus College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7092215",
+        "name": "Ondokuz Mayıs University",
+        "short_name": null,
+        "official_website": "http:\/\/www.omu.edu.tr\/tr",
+        "aliases": [
+            "Ondokuz Mayıs Üniversitesi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q126373366",
+        "name": "Or Yehuda Agriculture School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 38.88517,
+        "longitude": 27.7668,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6100422",
+        "name": "Ordu University",
+        "short_name": null,
+        "official_website": "http:\/\/www.odu.edu.tr",
+        "aliases": [
+            "Ordu Üniversitesi"
+        ],
+        "latitude": 40.9763333,
+        "longitude": 37.96975,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74552277",
+        "name": "Ordu Üniversitesi, Fatsa Deniz Bilimleri Fakültesi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q15837722",
+        "name": "Orient-Institut Istanbul",
+        "short_name": null,
+        "official_website": "http:\/\/www.oiist.org\/",
+        "aliases": [
+            "OII"
+        ],
+        "latitude": 41.027077,
+        "longitude": 28.9745944,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3306835",
+        "name": "Osmangazi University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ogu.edu.tr\/",
+        "aliases": [
+            "Eskişehir Osmangazi Üniversitesi",
+            "Eskişehir Osmangazi University"
+        ],
+        "latitude": 39.7502778,
+        "longitude": 30.4901111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6081936",
+        "name": "Osmaniye Korkut Ata University",
+        "short_name": null,
+        "official_website": "http:\/\/www.osmaniye.edu.tr",
+        "aliases": null,
+        "latitude": 37.0409818,
+        "longitude": 36.220798,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30312588",
+        "name": "OSTIM Technical University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ostimteknik.edu.tr\/",
+        "aliases": null,
+        "latitude": 39.972641,
+        "longitude": 32.745423,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131902663",
+        "name": "Ottoman Elementary School of Bilecik",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.1373711,
+        "longitude": 29.9824581,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135429841",
+        "name": "Ottoman School of Atpazarı",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.0172348,
+        "longitude": 28.9538708,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131903138",
+        "name": "Ottoman School of Keşan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.8569717,
+        "longitude": 26.6299171,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1278023",
+        "name": "Pamukkale University",
+        "short_name": null,
+        "official_website": "http:\/\/pau.edu.tr\/pau\/",
+        "aliases": null,
+        "latitude": 37.7391667,
+        "longitude": 29.1027778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74544464",
+        "name": "PAU Engineering Faculty",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6100801",
+        "name": "Pertevniyal High School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.010809,
+        "longitude": 28.952918,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74539736",
+        "name": "PESA",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530073",
+        "name": "Phaselis Project",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1186326",
+        "name": "Piri Reis University",
+        "short_name": null,
+        "official_website": "http:\/\/www.pirireis.edu.tr",
+        "aliases": null,
+        "latitude": 40.8261111,
+        "longitude": 29.3222222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q133484511",
+        "name": "Polak Mektep",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.674633,
+        "longitude": 26.5480881,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74527791",
+        "name": "Psychiatric Nurses Association",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118957282",
+        "name": "Q118957282",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.008007,
+        "longitude": 29.0206337,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q120417388",
+        "name": "Q120417388",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125702909",
+        "name": "Q125702909",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q131902708",
+        "name": "Q131902708",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 37.8754921,
+        "longitude": 32.4941139,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131903133",
+        "name": "Q131903133",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.7389832,
+        "longitude": 27.2244759,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131903140",
+        "name": "Q131903140",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.850605,
+        "longitude": 26.6314907,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131903153",
+        "name": "Q131903153",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.673233,
+        "longitude": 26.5588131,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131903154",
+        "name": "Q131903154",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.6808548,
+        "longitude": 26.5599403,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q133967840",
+        "name": "Q133967840",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 38.9191856,
+        "longitude": 27.8422318,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134701148",
+        "name": "Q134701148",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.738648,
+        "longitude": 27.22279,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134706657",
+        "name": "Q134706657",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.7396011,
+        "longitude": 27.2256584,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135429121",
+        "name": "Q135429121",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.045002,
+        "longitude": 29.0186253,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135429833",
+        "name": "Q135429833",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.8752656,
+        "longitude": 29.0862479,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135429834",
+        "name": "Q135429834",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.0130621,
+        "longitude": 28.9363993,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135429837",
+        "name": "Q135429837",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.0736732,
+        "longitude": 28.2484989,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135429838",
+        "name": "Q135429838",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.020649,
+        "longitude": 29.0290394,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135429839",
+        "name": "Q135429839",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.0073853,
+        "longitude": 28.9372444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135429842",
+        "name": "Q135429842",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.9712868,
+        "longitude": 29.0406742,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135581762",
+        "name": "Q135581762",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 38.6701584,
+        "longitude": 26.7552681,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135583280",
+        "name": "Q135583280",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.6711121,
+        "longitude": 29.9206352,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19610858",
+        "name": "Q19610858",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19613872",
+        "name": "Q19613872",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19737686",
+        "name": "Q19737686",
+        "short_name": null,
+        "official_website": "http:\/\/myo.karabuk.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21526367",
+        "name": "Q21526367",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.3757778,
+        "longitude": 33.7776944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25477187",
+        "name": "Q25477187",
+        "short_name": null,
+        "official_website": "http:\/\/www.eab.org.tr",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q43281113",
+        "name": "Q43281113",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q56196467",
+        "name": "Q56196467",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6012436",
+        "name": "Q6012436",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6021837",
+        "name": "Q6021837",
+        "short_name": null,
+        "official_website": "http:\/\/ataum.ankara.edu.tr",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6045476",
+        "name": "Q6045476",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6080683",
+        "name": "Q6080683",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.0090866,
+        "longitude": 28.9747601,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6082665",
+        "name": "Q6082665",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 39.9904709,
+        "longitude": 33.1720581,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6096949",
+        "name": "Q6096949",
+        "short_name": null,
+        "official_website": "http:\/\/tmyo.dumlupinar.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6101065",
+        "name": "Q6101065",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q653070",
+        "name": "Q653070",
+        "short_name": null,
+        "official_website": "http:\/\/www.sp.k12.tr",
+        "aliases": null,
+        "latitude": 41.0341,
+        "longitude": 28.983,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4276748",
+        "name": "Recep Tayyip Erdoğan University",
+        "short_name": null,
+        "official_website": "http:\/\/www.erdogan.edu.tr\/",
+        "aliases": [
+            "Recep Tayyip Erdoğan Üniversitesi",
+            "Rize University"
+        ],
+        "latitude": 41.03825,
+        "longitude": 40.4937778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6100910",
+        "name": "ROTAM",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "İTÜ Rotorlu Hava Araçları Tasarım ve Mükemmeliyet Merkezi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7395882",
+        "name": "Sabancı University",
+        "short_name": null,
+        "official_website": "http:\/\/www.sabanciuniv.edu\/",
+        "aliases": null,
+        "latitude": 40.8905472,
+        "longitude": 29.3783861,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1718685",
+        "name": "Sakarya University",
+        "short_name": null,
+        "official_website": "https:\/\/www.sakarya.edu.tr\/",
+        "aliases": [
+            "Sakarya Üniversitesi",
+            "Sakarya University, Sakarya",
+            "SAKU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52236336",
+        "name": "Sakarya University of Applied Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.subu.edu.tr\/",
+        "aliases": null,
+        "latitude": 40.73967,
+        "longitude": 30.332857,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74557485",
+        "name": "Sakarya University, Faculty of Theology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q52236662",
+        "name": "Samsun University",
+        "short_name": null,
+        "official_website": "https:\/\/samsun.edu.tr\/",
+        "aliases": [
+            "University of Samsun"
+        ],
+        "latitude": 41.5149167,
+        "longitude": 36.1097222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7388650",
+        "name": "SANAEM",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.06269,
+        "longitude": 32.6068,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q19612419",
+        "name": "Sanko University",
+        "short_name": null,
+        "official_website": "http:\/\/www.sanko.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136537166",
+        "name": "School of Zurel",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74549557",
+        "name": "Science Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6076107",
+        "name": "Selahaddin Eyyubi University",
+        "short_name": null,
+        "official_website": "http:\/\/www.seu.edu.tr",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74538057",
+        "name": "Selcuk University, Faculty of Architecture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74538082",
+        "name": "Selcuk University, Faculty of Economics and Administrative Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1627814",
+        "name": "Selçuk University",
+        "short_name": null,
+        "official_website": "http:\/\/www.selcuk.edu.tr",
+        "aliases": [
+            "Selçuk Üniversitesi"
+        ],
+        "latitude": 38.0263,
+        "longitude": 32.5101,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52162245",
+        "name": "Semerkand University of Science and Civilization",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30330396",
+        "name": "Sheep Breeding Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/arastirma.tarim.gov.tr\/koyunculuk\/",
+        "aliases": [
+            "Bandırma Sheep Breeding Research Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7513486",
+        "name": "Siirt University",
+        "short_name": null,
+        "official_website": "http:\/\/www.siirt.edu.tr\/",
+        "aliases": null,
+        "latitude": 37.9361122,
+        "longitude": 41.9403559,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74526704",
+        "name": "Siirt University, Faculty of Agriculture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6103200",
+        "name": "Sinop University",
+        "short_name": null,
+        "official_website": "http:\/\/www.sinop.edu.tr\/",
+        "aliases": null,
+        "latitude": 42.0080231,
+        "longitude": 35.0903953,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5194072",
+        "name": "Sivas Cumhuriyet University",
+        "short_name": null,
+        "official_website": "http:\/\/www.cumhuriyet.edu.tr\/",
+        "aliases": [
+            "Cumhuriyet Üniversitesi"
+        ],
+        "latitude": 39.7069,
+        "longitude": 37.0295,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52162282",
+        "name": "Sivas University of Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.sivas.edu.tr\/",
+        "aliases": null,
+        "latitude": 39.7258056,
+        "longitude": 36.9890278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74553261",
+        "name": "Social Science Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q19610523",
+        "name": "Social Sciences University of Ankara",
+        "short_name": null,
+        "official_website": "http:\/\/www.asbu.edu.tr\/",
+        "aliases": [
+            "SSUA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74542656",
+        "name": "Society for the Study of Business and Finance",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74548197",
+        "name": "Society of Pediatric Emergency and Intensive Care Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20988519",
+        "name": "Statistical, Economic and Social Research and Training Centre for Islamic Countries",
+        "short_name": "SESRIC",
+        "official_website": "http:\/\/www.sesric.org\/",
+        "aliases": [
+            "SESRIC",
+            "SESRIC-OIC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527442",
+        "name": "Suleyman Demirel University, Faculty of Arts and Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74540790",
+        "name": "Suleyman Demirel University, Faculty of Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10685016",
+        "name": "Swedish Research Institute in Istanbul",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1509957",
+        "name": "Süleyman Demirel University",
+        "short_name": null,
+        "official_website": "http:\/\/www.sdu.edu.tr",
+        "aliases": [
+            "Süleyman Demirel Üniversitesi",
+            "Suleyman Demirel University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74538585",
+        "name": "Süleyman Demirel University, Egirdir Fisheries Faculty",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6098740",
+        "name": "T C Saglık Bakanlığı İstanbul Eğitim ve Araştırma Hastanesi",
+        "short_name": null,
+        "official_website": "http:\/\/en.istanbuleah.saglik.gov.tr\/",
+        "aliases": [
+            "İstanbul Training and Research Hospital"
+        ],
+        "latitude": 41.003311,
+        "longitude": 28.937733,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q135429836",
+        "name": "Taksim Greek School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.0358609,
+        "longitude": 28.9842534,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2389886",
+        "name": "Talas American College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 38.6846237,
+        "longitude": 35.5674629,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3515831",
+        "name": "Tarsus American College",
+        "short_name": null,
+        "official_website": "https:\/\/www.tac.k12.tr\/",
+        "aliases": null,
+        "latitude": 36.9139,
+        "longitude": 34.8944,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q52162280",
+        "name": "Tarsus University",
+        "short_name": null,
+        "official_website": "http:\/\/www.tarsus.edu.tr\/",
+        "aliases": null,
+        "latitude": 36.95493,
+        "longitude": 34.8494,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7669956",
+        "name": "TED Ankara College Foundation Schools",
+        "short_name": null,
+        "official_website": "https:\/\/www.tedankara.k12.tr\/",
+        "aliases": [
+            "Ted Ankara Koleji",
+            "TED Ankara Koleji"
+        ],
+        "latitude": 39.8412,
+        "longitude": 32.8189,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6070524",
+        "name": "TED University",
+        "short_name": null,
+        "official_website": "http:\/\/www.tedu.edu.tr\/",
+        "aliases": [
+            "TED Üniversitesi",
+            "TEDU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74529354",
+        "name": "Tekirdag Namık Kemal University, Faculty of Theology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q131903132",
+        "name": "Tevfik Fikret Middle School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.7395172,
+        "longitude": 27.2242794,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74526789",
+        "name": "The Association of Measurement and Evaluation in Education and Psychology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74544455",
+        "name": "The Atatürk and Gallipoli Campaign Research Centre",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3021766",
+        "name": "TOBB University of Economics and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.etu.edu.tr\/en",
+        "aliases": [
+            "TOBB Ekonomi ve Teknoloji Üniversitesi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5529157",
+        "name": "Tokat Gaziosmanpaşa University",
+        "short_name": null,
+        "official_website": "http:\/\/www.gop.edu.tr",
+        "aliases": [
+            "Gaziosmanpaşa Üniversitesi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7826705",
+        "name": "Toros University",
+        "short_name": null,
+        "official_website": "https:\/\/toros.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52162277",
+        "name": "Trabzon University",
+        "short_name": null,
+        "official_website": "https:\/\/trabzon.edu.tr\/",
+        "aliases": null,
+        "latitude": 41.0103,
+        "longitude": 39.6098,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q845682",
+        "name": "Trakya University",
+        "short_name": null,
+        "official_website": "http:\/\/www.trakya.edu.tr",
+        "aliases": [
+            "Trakya Üniversitesi",
+            "Universitetet i Thrakien"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74553737",
+        "name": "Trakya University School of Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528079",
+        "name": "Trakya University, Faculty of Letters",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552940",
+        "name": "Trakya University, Institute of Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530298",
+        "name": "Trakya University, Institute of Social Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q111453239",
+        "name": "TUBITAK Research Institute for Fundamental Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/tbae.tubitak.gov.tr\/",
+        "aliases": [
+            "TBAE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6087663",
+        "name": "Turgut Özal University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30312790",
+        "name": "Turkey International Islam, Science and Technology University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7855223",
+        "name": "Turkish Air Force Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.hho.edu.tr\/",
+        "aliases": [
+            "Air Warfare School",
+            "National Defense University Air Force Academy"
+        ],
+        "latitude": 40.9682,
+        "longitude": 28.8404,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530610",
+        "name": "Turkish Association For Child And Adolescent Psychiatry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74526736",
+        "name": "Turkish Epilepsy Society",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q124354671",
+        "name": "Turkish Institute of Archaeology",
+        "short_name": null,
+        "official_website": "http:\/\/www.turkinst.org",
+        "aliases": [
+            "Institutum Turcicum Scientiae Antiquitatis",
+            "Türk Eskiçağ Bilimleri Enstitüsü",
+            "turkinst.org"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7855292",
+        "name": "Turkish National Police Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.pa.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7855294",
+        "name": "Turkish National Research Institute of Electronics and Cryptology",
+        "short_name": null,
+        "official_website": "http:\/\/uekae.bilgem.tubitak.gov.tr",
+        "aliases": null,
+        "latitude": 40.785833,
+        "longitude": 29.446944,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7855295",
+        "name": "Turkish Naval Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.dho.edu.tr",
+        "aliases": [
+            "Deniz Harp Okulu"
+        ],
+        "latitude": 40.8103,
+        "longitude": 29.2633,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74537598",
+        "name": "Turkish Ophthalmology Society",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528976",
+        "name": "Turkish Otorhinolaryngology Head and Neck Surgery Society",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74557494",
+        "name": "Turkish Society for Parasitology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529266",
+        "name": "Turkish Society of Clinical Neurophysiology EEG-EMG",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74543967",
+        "name": "Turkish Society of Colon and Rectal Surgery",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547122",
+        "name": "Turkish Society of Dermatology and Venerology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74553799",
+        "name": "Turkish Society of Intensive Care",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74541689",
+        "name": "Turkish Society of Nuclear Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74556320",
+        "name": "Turkish Society of Osteoporosis",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1304582",
+        "name": "Turkish-German University",
+        "short_name": null,
+        "official_website": "http:\/\/www.tau.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q31211727",
+        "name": "Turkish-Japanese University of Science and Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.9207,
+        "longitude": 29.3196,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1449952",
+        "name": "TÜBİTAK Space Technologies Research Institute",
+        "short_name": null,
+        "official_website": "https:\/\/uzay.tubitak.gov.tr\/",
+        "aliases": [
+            "TÜBİTAK UZAY"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q126898697",
+        "name": "TÜBİTAK TÜSSİDE",
+        "short_name": null,
+        "official_website": "https:\/\/tusside.tubitak.gov.tr\/",
+        "aliases": [
+            "Turkish Management Sciences Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74549591",
+        "name": "UCTEA The Chamber of Marine Engineers",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5299037",
+        "name": "Ufuk University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ufuk.edu.tr\/",
+        "aliases": [
+            "Ufuk Üniversitesi"
+        ],
+        "latitude": 39.8268003,
+        "longitude": 32.7297667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19612850",
+        "name": "University of Health Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/www.sbu.edu.tr",
+        "aliases": [
+            "Health Sciences University",
+            "Turkey Health Sciences University"
+        ],
+        "latitude": 41.0040278,
+        "longitude": 29.0198611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74526759",
+        "name": "University of Kafkas, Faculty of Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6092476",
+        "name": "University of Turkish Aeronautical Association",
+        "short_name": null,
+        "official_website": "http:\/\/www.thk.edu.tr\/",
+        "aliases": [
+            "UTAA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74545541",
+        "name": "Urooncology Association",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7905547",
+        "name": "Uşak University",
+        "short_name": null,
+        "official_website": "http:\/\/www.usak.edu.tr\/",
+        "aliases": null,
+        "latitude": 38.6743611,
+        "longitude": 29.3307222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5995605",
+        "name": "Uşakizade Mansion",
+        "short_name": null,
+        "official_website": "http:\/\/www.usakizadekosku.com",
+        "aliases": null,
+        "latitude": 38.4031111,
+        "longitude": 27.0986944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3671573",
+        "name": "Van Yüzüncü Yıl University",
+        "short_name": null,
+        "official_website": "http:\/\/www.yyu.edu.tr",
+        "aliases": [
+            "Yuzuncu Yil University",
+            "Yüzüncü Yıl University"
+        ],
+        "latitude": 38.5663611,
+        "longitude": 43.2881667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6098789",
+        "name": "Vefa High School",
+        "short_name": null,
+        "official_website": "http:\/\/vefalisesi.k12.tr\/en\/",
+        "aliases": null,
+        "latitude": 41.014337,
+        "longitude": 28.958404,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122840338",
+        "name": "Washburn Hall",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.0836143,
+        "longitude": 29.0533276,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8047517",
+        "name": "Yalova University",
+        "short_name": null,
+        "official_website": "http:\/\/www.yalova.edu.tr",
+        "aliases": null,
+        "latitude": 40.6526667,
+        "longitude": 29.2196667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8050681",
+        "name": "Yaşar University",
+        "short_name": null,
+        "official_website": "http:\/\/www.yasar.edu.tr\/",
+        "aliases": [
+            "Yaşar Üniversitesi"
+        ],
+        "latitude": 38.4544444,
+        "longitude": 27.2025,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q478948",
+        "name": "Yeditepe University",
+        "short_name": null,
+        "official_website": "https:\/\/yeditepe.edu.tr\/en",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8052280",
+        "name": "Yeni Yüzyıl University",
+        "short_name": null,
+        "official_website": "https:\/\/www.yeniyuzyil.edu.tr\/",
+        "aliases": null,
+        "latitude": 41.016263,
+        "longitude": 28.906906,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6075350",
+        "name": "Yeni Yüzyıl University",
+        "short_name": null,
+        "official_website": "http:\/\/www.yeniyuzyil.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74557787",
+        "name": "Yildirim Beyazit University, Faculty of Medicine, Family Medicine Department",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6085866",
+        "name": "Yozgat Bozok University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bozok.edu.tr\/",
+        "aliases": [
+            "Yozgat Bozok University"
+        ],
+        "latitude": 39.7749,
+        "longitude": 34.7979,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6051343",
+        "name": "Yüksek Mühendis Mektebi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6053801",
+        "name": "Yüksek İhtisas University",
+        "short_name": null,
+        "official_website": "http:\/\/www.yuksekihtisasuniversitesi.edu.tr\/tr",
+        "aliases": [
+            "Ankara Bilge University",
+            "Higher Specialization University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6084324",
+        "name": "Yıldırım Beyazıt University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ybu.edu.tr",
+        "aliases": [
+            "Ankara Yildirim Beyazit University",
+            "Yildirim Beyazit University"
+        ],
+        "latitude": 39.9710278,
+        "longitude": 32.8182778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1093258",
+        "name": "Yıldız Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.yildiz.edu.tr\/",
+        "aliases": [
+            "Yildiz Technical University",
+            "Yildiz Teknik University",
+            "Yıldız Teknik Üniversitesi"
+        ],
+        "latitude": 41.0517,
+        "longitude": 29.0104,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74547885",
+        "name": "Yıldız Technical University, Faculty of Architecture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6499731",
+        "name": "Zirve University",
+        "short_name": null,
+        "official_website": "http:\/\/www.zirve.edu.tr\/en\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5005278",
+        "name": "Zonguldak Bülent Ecevit University",
+        "short_name": null,
+        "official_website": "http:\/\/www.beun.edu.tr\/",
+        "aliases": [
+            "Bülent Ecevit Üniversitesi",
+            "Zonguldak Karaelmas University"
+        ],
+        "latitude": 41.4513889,
+        "longitude": 31.7622222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q272576",
+        "name": "Çanakkale Onsekiz Mart University",
+        "short_name": null,
+        "official_website": "http:\/\/www.comu.edu.tr",
+        "aliases": [
+            "COMU",
+            "Canakkale Onsekiz Mart University",
+            "Canakkale University",
+            "The European University Association",
+            "ÇOMÜ"
+        ],
+        "latitude": 40.1137,
+        "longitude": 26.4087,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q272614",
+        "name": "Çankaya University",
+        "short_name": null,
+        "official_website": "http:\/\/www.cankaya.edu.tr",
+        "aliases": [
+            "Cankaya Universitesi",
+            "Çankaya Üniversitesi",
+            "Cankaya University",
+            "Çankaya University Faculty of Architecture",
+            "Çankaya University Faculty of Arts and Sciences",
+            "Çankaya University Faculty of Economics and Administrative Sciences",
+            "Çankaya University Faculty of Engineering",
+            "Çankaya University Faculty of Law",
+            "Çankaya University Vocational High School of Justice",
+            "Çankaya Vocational Training School"
+        ],
+        "latitude": 39.8191389,
+        "longitude": 32.5643889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6098422",
+        "name": "Çankırı Karatekin University",
+        "short_name": null,
+        "official_website": "http:\/\/www.karatekin.edu.tr",
+        "aliases": [
+            "University of Karatekin"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74542669",
+        "name": "Çankırı Karatekin University, Faculty of Forestry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6035202",
+        "name": "Çağ University",
+        "short_name": null,
+        "official_website": "http:\/\/www.cag.edu.tr\/",
+        "aliases": null,
+        "latitude": 36.977,
+        "longitude": 35.076,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q272951",
+        "name": "Çukurova University",
+        "short_name": null,
+        "official_website": "http:\/\/www.cu.edu.tr",
+        "aliases": [
+            "Cukurova University",
+            "Cukurova Universitesi",
+            "Çukurova Üniversitesi"
+        ],
+        "latitude": 37.0513,
+        "longitude": 35.3587,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q133846080",
+        "name": "Özel Etkin Koleji",
+        "short_name": null,
+        "official_website": "https:\/\/etkinkolej.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8079161",
+        "name": "Özyeğin University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ozyegin.edu.tr\/",
+        "aliases": [
+            "Özyeğin",
+            "Özyeğin Üniversitesi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6063394",
+        "name": "Üsküdar University",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442667",
+        "name": "Üsküdar University Department of  Advertising",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/iletisim-fakultesi\/en\/advertising",
+        "aliases": null,
+        "latitude": 41.0232672,
+        "longitude": 29.0405985,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442711",
+        "name": "Üsküdar University Department of  Anesthesia",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/anesthesia",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442698",
+        "name": "Üsküdar University Department of  Audiology",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/sbf\/en\/audiology",
+        "aliases": null,
+        "latitude": 41.0278172,
+        "longitude": 29.1157775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442712",
+        "name": "Üsküdar University Department of  Audiometry",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/audiometry",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442713",
+        "name": "Üsküdar University Department of  Autopsy Assistantship",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/autopsy-assistantship",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442688",
+        "name": "Üsküdar University Department of  Bioengineering (English)",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/mdbf\/en\/bioengineering",
+        "aliases": null,
+        "latitude": 41.0249716,
+        "longitude": 29.0389307,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442714",
+        "name": "Üsküdar University Department of  Biomedical Device Technology",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/biomedical-device-technology",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442715",
+        "name": "Üsküdar University Department of  Care and Rehabilitation of People with Disabilities",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/care-and-rehabilitation-of-people-with-disabilities",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442668",
+        "name": "Üsküdar University Department of  Cartoon and Animation",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/iletisim-fakultesi\/en\/cartoon-and-animation",
+        "aliases": null,
+        "latitude": 41.0232672,
+        "longitude": 29.0405985,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442690",
+        "name": "Üsküdar University Department of  Chemical Engineering (English)",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/mdbf\/en\/chemical-engineering",
+        "aliases": null,
+        "latitude": 41.0249716,
+        "longitude": 29.0389307,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442699",
+        "name": "Üsküdar University Department of  Child Development",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/sbf\/en\/child-development",
+        "aliases": null,
+        "latitude": 41.0278172,
+        "longitude": 29.1157775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442717",
+        "name": "Üsküdar University Department of  Child Protection and Care Services",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/child-protection-and-care-services",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442691",
+        "name": "Üsküdar University Department of  Computer Engineering (English)",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/mdbf\/en\/computer-engineering",
+        "aliases": null,
+        "latitude": 41.0249716,
+        "longitude": 29.0389307,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442718",
+        "name": "Üsküdar University Department of  Dental Technology",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/dental-technology",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442719",
+        "name": "Üsküdar University Department of  Dialysis",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/dialysis",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442669",
+        "name": "Üsküdar University Department of  Digital Game Design",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/iletisim-fakultesi\/en\/digital-game-design",
+        "aliases": null,
+        "latitude": 41.0232672,
+        "longitude": 29.0405985,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442720",
+        "name": "Üsküdar University Department of  Elderly Care Services",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/elderly-care-services",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442692",
+        "name": "Üsküdar University Department of  Electrical-Electronics Engineering (English)",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/mdbf\/en\/electrical-and-electronics-engineering",
+        "aliases": null,
+        "latitude": 41.0249716,
+        "longitude": 29.0389307,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442721",
+        "name": "Üsküdar University Department of  Electroneurophysiology",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/electroneurophysiology",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442722",
+        "name": "Üsküdar University Department of  Emergency and Disaster Management",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/emergency-and-disaster-management",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442723",
+        "name": "Üsküdar University Department of  Emergency and First Aid",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/emergency-and-first-aid",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442679",
+        "name": "Üsküdar University Department of  English Translation and Interpreting",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/itbf\/en\/english-translation-and-interpreting",
+        "aliases": null,
+        "latitude": 41.0222294,
+        "longitude": 29.0402348,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442724",
+        "name": "Üsküdar University Department of  Environmental Health",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/environmental-health",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442725",
+        "name": "Üsküdar University Department of  Food Technology",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/food-technology",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442693",
+        "name": "Üsküdar University Department of  Forensic Science (Turkish)",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/mdbf\/en\/forensic-science",
+        "aliases": null,
+        "latitude": 41.0249716,
+        "longitude": 29.0389307,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442726",
+        "name": "Üsküdar University Department of  Hair Care and Beauty Services",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/hair-care-and-beauty-services",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442727",
+        "name": "Üsküdar University Department of  Health Information System Technics",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/health-information-system-technics",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442700",
+        "name": "Üsküdar University Department of  Health Management",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/sbf\/en\/health-management",
+        "aliases": null,
+        "latitude": 41.0278172,
+        "longitude": 29.1157775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442680",
+        "name": "Üsküdar University Department of  History",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/itbf\/en\/history",
+        "aliases": null,
+        "latitude": 41.0222294,
+        "longitude": 29.0402348,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442728",
+        "name": "Üsküdar University Department of  Home Healthcare Service",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/home-care-service",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442694",
+        "name": "Üsküdar University Department of  Industrial Engineering (English)",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/mdbf\/en\/industrial-engineering",
+        "aliases": null,
+        "latitude": 41.0249716,
+        "longitude": 29.0389307,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442670",
+        "name": "Üsküdar University Department of  Journalism",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/iletisim-fakultesi\/en\/journalism",
+        "aliases": null,
+        "latitude": 41.0232672,
+        "longitude": 29.0405985,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442729",
+        "name": "Üsküdar University Department of  Laboratory Technology",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/laboratory-technology",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442730",
+        "name": "Üsküdar University Department of  Management of health institutions",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/management-of-health-institutions",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442731",
+        "name": "Üsküdar University Department of  Medical Documentation and Secretarial",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/medical-documentation-and-secretarial",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442732",
+        "name": "Üsküdar University Department of  Medical Imaging Techniques",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/medical-imaging-techniques",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442733",
+        "name": "Üsküdar University Department of  Medical Laboratory",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/medical-laboratory",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442734",
+        "name": "Üsküdar University Department of  Medical Promotion and Marketing",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/medical-promotion-and-marketing",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442735",
+        "name": "Üsküdar University Department of  Medicinal and Aromatic Plants",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/medicinal-and-aromatic-plants",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442701",
+        "name": "Üsküdar University Department of  Midwifery",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/sbf\/en\/midwifery",
+        "aliases": null,
+        "latitude": 41.0278172,
+        "longitude": 29.1157775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442695",
+        "name": "Üsküdar University Department of  Molecular Biology and Genetics (English)",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/mdbf\/en\/molecular-biology-and-genetics-english",
+        "aliases": null,
+        "latitude": 41.0249716,
+        "longitude": 29.0389307,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442696",
+        "name": "Üsküdar University Department of  Molecular Biology and Genetics (Turkish)",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/mdbf\/en\/molecular-biology-and-genetics-turkish",
+        "aliases": null,
+        "latitude": 41.0249716,
+        "longitude": 29.0389307,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442672",
+        "name": "Üsküdar University Department of  New Media and Communication",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/iletisim-fakultesi\/en\/media-and-communication",
+        "aliases": null,
+        "latitude": 41.0232672,
+        "longitude": 29.0405985,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442673",
+        "name": "Üsküdar University Department of  New Media and Communication (English)",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/iletisim-fakultesi\/en\/new-media-and-communication-english",
+        "aliases": null,
+        "latitude": 41.0232672,
+        "longitude": 29.0405985,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442675",
+        "name": "Üsküdar University Department of  New Media and Journalism",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/iletisim-fakultesi\/en\/new-media-and-journalism",
+        "aliases": null,
+        "latitude": 41.0232672,
+        "longitude": 29.0405985,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442736",
+        "name": "Üsküdar University Department of  Nuclear Technology and Radiation Safety",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/nuclear-technology-and-radiation-safety",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442702",
+        "name": "Üsküdar University Department of  Nursing",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/sbf\/en\/nursing",
+        "aliases": null,
+        "latitude": 41.0278172,
+        "longitude": 29.1157775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442703",
+        "name": "Üsküdar University Department of  Nutrition and Dietetics",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/sbf\/en\/nutrition-and-dietetics",
+        "aliases": null,
+        "latitude": 41.0278172,
+        "longitude": 29.1157775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442704",
+        "name": "Üsküdar University Department of  Occupational Health and Safety",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/sbf\/en\/occupational-health-and-safety",
+        "aliases": null,
+        "latitude": 41.0278172,
+        "longitude": 29.1157775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442737",
+        "name": "Üsküdar University Department of  Occupational Health and Safety Program",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/occupational-health-and-safety-program",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442705",
+        "name": "Üsküdar University Department of  Occupational Therapy",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/sbf\/en\/occupational-therapy",
+        "aliases": null,
+        "latitude": 41.0278172,
+        "longitude": 29.1157775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442738",
+        "name": "Üsküdar University Department of  Operating Room Services",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/operating-room-services",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442739",
+        "name": "Üsküdar University Department of  Opticianry",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/opticianry",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442740",
+        "name": "Üsküdar University Department of  Oral and Dental health",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/oral-and-dental-health",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442741",
+        "name": "Üsküdar University Department of  Orthopedic Prosthetics and Orthotics",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/orthopedic-prosthetics-and-orthotics",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442706",
+        "name": "Üsküdar University Department of  Orthosis and Prosthesis",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/sbf\/en\/orthosis-and-prosthesis",
+        "aliases": null,
+        "latitude": 41.0278172,
+        "longitude": 29.1157775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442742",
+        "name": "Üsküdar University Department of  Pathology Laboratory",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/pathology-laboratory",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442707",
+        "name": "Üsküdar University Department of  Perfusion",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/sbf\/en\/perfusion",
+        "aliases": null,
+        "latitude": 41.0278172,
+        "longitude": 29.1157775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442743",
+        "name": "Üsküdar University Department of  Perfusion Techniques",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/perfusion-techniques",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442744",
+        "name": "Üsküdar University Department of  Pharmacy Services",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/pharmacy-services",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442681",
+        "name": "Üsküdar University Department of  Philosophy",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/itbf\/en\/philosophy",
+        "aliases": null,
+        "latitude": 41.0222294,
+        "longitude": 29.0402348,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442745",
+        "name": "Üsküdar University Department of  Physiotherapy",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/physiotherapy",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442708",
+        "name": "Üsküdar University Department of  Physiotherapy and Rehabilitation",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/sbf\/en\/physiotherapy-and-rehabilitation",
+        "aliases": null,
+        "latitude": 41.0278172,
+        "longitude": 29.1157775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442746",
+        "name": "Üsküdar University Department of  Podology",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/podology",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442682",
+        "name": "Üsküdar University Department of  Political Science and International Relations",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/itbf\/en\/political-science-and-international-relations-turkish",
+        "aliases": null,
+        "latitude": 41.0222294,
+        "longitude": 29.0402348,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442683",
+        "name": "Üsküdar University Department of  Political Science and International Relations (English)",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/itbf\/en\/political-science-and-international-relations",
+        "aliases": null,
+        "latitude": 41.0222294,
+        "longitude": 29.0402348,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442684",
+        "name": "Üsküdar University Department of  Psychology",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/itbf\/en\/psychology",
+        "aliases": null,
+        "latitude": 41.0222294,
+        "longitude": 29.0402348,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442685",
+        "name": "Üsküdar University Department of  Psychology (English)",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/itbf\/en\/psychology-english",
+        "aliases": null,
+        "latitude": 41.0222294,
+        "longitude": 29.0402348,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442676",
+        "name": "Üsküdar University Department of  Public Relations and Publicity",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/iletisim-fakultesi\/en\/public-relations-and-publicity",
+        "aliases": null,
+        "latitude": 41.0232672,
+        "longitude": 29.0405985,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442677",
+        "name": "Üsküdar University Department of  Radio Television and Cinema",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/iletisim-fakultesi\/en\/radio-television-and-cinema",
+        "aliases": null,
+        "latitude": 41.0232672,
+        "longitude": 29.0405985,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442747",
+        "name": "Üsküdar University Department of  Radiotherapy",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/radiotherapy",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442748",
+        "name": "Üsküdar University Department of  Social Safety",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/shmyo\/en\/page\/social-safety",
+        "aliases": null,
+        "latitude": 41.024452,
+        "longitude": 29.0192525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442709",
+        "name": "Üsküdar University Department of  Social Work",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/sbf\/en\/social-work",
+        "aliases": null,
+        "latitude": 41.0278172,
+        "longitude": 29.1157775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442686",
+        "name": "Üsküdar University Department of  Sociology",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/itbf\/en\/sociology",
+        "aliases": null,
+        "latitude": 41.0222294,
+        "longitude": 29.0402348,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442697",
+        "name": "Üsküdar University Department of  Software Engineering (English)",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/mdbf\/en\/software-engineering",
+        "aliases": null,
+        "latitude": 41.0249716,
+        "longitude": 29.0389307,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442710",
+        "name": "Üsküdar University Department of  Speech and Language Therapy",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/sbf\/en\/speech-and-language-therapy",
+        "aliases": null,
+        "latitude": 41.0278172,
+        "longitude": 29.1157775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442678",
+        "name": "Üsküdar University Department of  Visual Communication Design",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/iletisim-fakultesi\/en\/visual-communication-design",
+        "aliases": null,
+        "latitude": 41.0232672,
+        "longitude": 29.0405985,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442750",
+        "name": "Üsküdar University Faculty of Medicine, Department of Basic Medical Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/tip-fakultesi\/en\/basic-sciences",
+        "aliases": null,
+        "latitude": 41.03002,
+        "longitude": 29.1143821,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442751",
+        "name": "Üsküdar University Faculty of Medicine, Department of Internal Medical Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/tip-fakultesi\/en\/medical-sciences",
+        "aliases": null,
+        "latitude": 41.03002,
+        "longitude": 29.1143821,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134442752",
+        "name": "Üsküdar University Faculty of Medicine, Department of Surgical Medical Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/uskudar.edu.tr\/tip-fakultesi\/en\/surgical-sciences",
+        "aliases": null,
+        "latitude": 41.03002,
+        "longitude": 29.1143821,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25477770",
+        "name": "İbn Haldun University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ibnhaldun.edu.tr",
+        "aliases": [
+            "İbn Haldun Üniversitesi",
+            "Ibn Haldun University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q343987",
+        "name": "İnönü University",
+        "short_name": null,
+        "official_website": "http:\/\/inonu.edu.tr",
+        "aliases": [
+            "Inonu University"
+        ],
+        "latitude": 38.3330556,
+        "longitude": 38.4388889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12812964",
+        "name": "İpek University",
+        "short_name": null,
+        "official_website": "http:\/\/ipek.edu.tr\/en\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131903156",
+        "name": "İskoliye School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.7570648,
+        "longitude": 29.3860779,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135582161",
+        "name": "İsmail Bey School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 39.0684433,
+        "longitude": 26.891655,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6082132",
+        "name": "İstanbul Topkapı University",
+        "short_name": null,
+        "official_website": "http:\/\/topkapi.edu.tr\/",
+        "aliases": [
+            "İstanbul Ayvansaray University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q118929813",
+        "name": "İstanbul University Department of Geography",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6092499",
+        "name": "İstanbul İktisadî ve Ticarî İlimler Akademisi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19613837",
+        "name": "İstanbul Şişli Vocational School",
+        "short_name": null,
+        "official_website": "http:\/\/www.sisli.edu.tr\/",
+        "aliases": [
+            "İstanbul Şişli Meslek Yüksekokulu"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12813003",
+        "name": "İstasyon Academy of Fine Arts",
+        "short_name": null,
+        "official_website": "http:\/\/www.istasyonsanat.com\/english.php",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28160625",
+        "name": "İstinye University",
+        "short_name": null,
+        "official_website": "http:\/\/istinye.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28054180",
+        "name": "İzmir Bakırçay University",
+        "short_name": null,
+        "official_website": "http:\/\/bakircay.edu.tr\/",
+        "aliases": [
+            "Bakırçay University"
+        ],
+        "latitude": 38.5817778,
+        "longitude": 26.9641111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28221720",
+        "name": "İzmir Democracy University",
+        "short_name": null,
+        "official_website": "http:\/\/www.idu.edu.tr\/",
+        "aliases": null,
+        "latitude": 38.39357,
+        "longitude": 27.07377,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q344405",
+        "name": "İzmir Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.iyte.edu.tr",
+        "aliases": [
+            "Izmir Institute of Technology",
+            "İzmir Yüksek Teknoloji Enstitüsü"
+        ],
+        "latitude": 38.3191667,
+        "longitude": 26.6425,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19613831",
+        "name": "İzmir Kavram Vocational School",
+        "short_name": null,
+        "official_website": "http:\/\/www.kavram.edu.tr\/",
+        "aliases": [
+            "İzmir Kavram Meslek Yüksekokulu"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16850737",
+        "name": "İzmir Kâtip Çelebi University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ikc.edu.tr\/",
+        "aliases": [
+            "İzmir Kâtip Çelebi Üniversitesi",
+            "Izmir Katip Celebi University"
+        ],
+        "latitude": 38.5154167,
+        "longitude": 27.0310278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52162244",
+        "name": "İzmir Tınaztepe University",
+        "short_name": null,
+        "official_website": "https:\/\/tinaztepe.edu.tr",
+        "aliases": [
+            "Izmir Tinaztepe University"
+        ],
+        "latitude": 38.407515,
+        "longitude": 27.195457,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11271520",
+        "name": "İzmir University",
+        "short_name": null,
+        "official_website": "http:\/\/www.izmir.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4822444",
+        "name": "İzmir University of Economics",
+        "short_name": "IUE",
+        "official_website": "https:\/\/www.ieu.edu.tr\/",
+        "aliases": [
+            "IUE",
+            "İEÜ",
+            "İzmir Ekonomi Üniversitesi",
+            "Izmir University of Economics"
+        ],
+        "latitude": 38.3883333,
+        "longitude": 27.0447222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109383747",
+        "name": "İzmir University of Economics Department of Political Science and International Relations",
+        "short_name": null,
+        "official_website": "https:\/\/ireu.ieu.edu.tr",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136146983",
+        "name": "Şarkiyat Araştırma Merkezi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q8082518",
+        "name": "Şifa University",
+        "short_name": null,
+        "official_website": "http:\/\/www.sifa.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25474090",
+        "name": "Şirinyer American College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 38.3913383,
+        "longitude": 27.1450443,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8082628",
+        "name": "Şırnak University",
+        "short_name": null,
+        "official_website": "https:\/\/sirnak.edu.tr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

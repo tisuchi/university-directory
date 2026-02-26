@@ -1,0 +1,343 @@
+[
+    {
+        "wikidata_id": "Q104631938",
+        "name": "Académie Franco-Américaine de Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.aframschool.com\/",
+        "aliases": [
+            "AFRAM",
+            "Franco-American Academy of Management",
+            "IAU-024590"
+        ],
+        "latitude": 0.4201111,
+        "longitude": 9.4273056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104631932",
+        "name": "African University of Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.aumgroupga.com\/",
+        "aliases": [
+            "AUM"
+        ],
+        "latitude": 0.4210278,
+        "longitude": 9.4416111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104631948",
+        "name": "BBS School of Management",
+        "short_name": null,
+        "official_website": "https:\/\/www.bbs-school.com\/",
+        "aliases": [
+            "BBS",
+            "BGFI Business School",
+            "IAU-024589"
+        ],
+        "latitude": 0.3863056,
+        "longitude": 9.4480833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30296089",
+        "name": "Centre de Recherche Médicales de Lambaréné",
+        "short_name": null,
+        "official_website": "http:\/\/www.cermel.org\/",
+        "aliases": [
+            "CERMEL"
+        ],
+        "latitude": -0.700023,
+        "longitude": 10.237466,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q104631936",
+        "name": "Institut de Technologies d’Owendo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Institute of Technology of Owendo",
+            "ITO"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104631929",
+        "name": "Institut des Techniques Avancées",
+        "short_name": null,
+        "official_website": "https:\/\/ita-gabon.com",
+        "aliases": [
+            "Institute of Advanced Technologies",
+            "ITA"
+        ],
+        "latitude": 0.3906667,
+        "longitude": 9.4491111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104631931",
+        "name": "Institut National de la Poste des Technologies de l'Information et de la Communication",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "INPTIC",
+            "National Institute of Information Technology and Communication"
+        ],
+        "latitude": 0.5179444,
+        "longitude": 9.3948333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104631940",
+        "name": "Institut National des Sciences de Gestion",
+        "short_name": null,
+        "official_website": "http:\/\/insggabon.com\/",
+        "aliases": [
+            "INSG",
+            "National Institute of Management Sciences"
+        ],
+        "latitude": 0.4193056,
+        "longitude": 9.4329722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104631946",
+        "name": "Institut Supérieur de Technologie",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Higher Institute of Technology",
+            "IST"
+        ],
+        "latitude": 0.3728333,
+        "longitude": 9.4638611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104631941",
+        "name": "Institut Universitaire des Sciences de l'Organisation",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IUSO",
+            "University Institute of Organisational Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104631944",
+        "name": "Libreville International Business School",
+        "short_name": null,
+        "official_website": "http:\/\/esm-libs.com\/",
+        "aliases": [
+            "LIBS"
+        ],
+        "latitude": 0.3899444,
+        "longitude": 9.4798333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116419633",
+        "name": "Q116419633",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16643774",
+        "name": "Q16643774",
+        "short_name": null,
+        "official_website": "http:\/\/www.ista-cemac.org",
+        "aliases": null,
+        "latitude": 0.5106356,
+        "longitude": 9.3821005,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104631947",
+        "name": "Université Africaine des Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "African University of Sciences",
+            "UAS"
+        ],
+        "latitude": 0.3471944,
+        "longitude": 9.4744444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104631939",
+        "name": "Université des Sciences d'Informatique Appliquée",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IAU-024595",
+            "University of Applied Computer Sciences",
+            "USIA-ESSIG"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551737",
+        "name": "Université des Sciences et Techniques de Masuku",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-masuku.ga",
+        "aliases": [
+            "USTM",
+            "IAU-019682",
+            "univ-masuku.org",
+            "University of Science and Technology of Masuku University of Science and Technology of Masuku"
+        ],
+        "latitude": -1.63039,
+        "longitude": 13.5523,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q55280985",
+        "name": "Université Franco-Gabonaise Saint-Exupéry",
+        "short_name": null,
+        "official_website": "http:\/\/ufgse.org\/",
+        "aliases": [
+            "Franco-Gabonese University Saint-Exupéry",
+            "IAU-024593",
+            "UFGSE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551470",
+        "name": "Université Omar Bongo",
+        "short_name": null,
+        "official_website": "http:\/\/www.uob.ga\/",
+        "aliases": [
+            "UOB",
+            "IAU-019792",
+            "National University of Gabon",
+            "Omar Bongo University",
+            "Omar-Bongo University"
+        ],
+        "latitude": 0.423211,
+        "longitude": 9.445244,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104631933",
+        "name": "École de Management du Gabon",
+        "short_name": null,
+        "official_website": "http:\/\/www.em-gabon.com\/",
+        "aliases": [
+            "EMG",
+            "School of Management of Gabon"
+        ],
+        "latitude": 0.3793056,
+        "longitude": 9.4993056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104631949",
+        "name": "École des Mines et de la Métallurgie de Moanda",
+        "short_name": null,
+        "official_website": "http:\/\/e3mg.ga\/",
+        "aliases": [
+            "E3MG",
+            "School of Mines and Metallurgy of Moanda"
+        ],
+        "latitude": -1.5370833,
+        "longitude": 13.24325,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104631930",
+        "name": "École Nationale des Eaux et Forêts",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ENEF",
+            "IAU-004114",
+            "National School of Water and Forests"
+        ],
+        "latitude": 0.6086322,
+        "longitude": 9.3285541,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104631935",
+        "name": "École Normale Supérieure de l'Enseignement Technique",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ENSET",
+            "IAU-024587",
+            "Normal Superior School for Technical Teaching",
+            "Technical Teachers Training School"
+        ],
+        "latitude": 0.4233889,
+        "longitude": 9.4455278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q50361417",
+        "name": "École Normale Supérieure de Libreville",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ENS Libreville",
+            "IAU-024584",
+            "Normal Superior School of Libreville",
+            "Teacher Training School of Libreville"
+        ],
+        "latitude": 0.4253611,
+        "longitude": 9.4430278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104631934",
+        "name": "École Supérieure de Gestion et d'Expertise Comptable",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104631942",
+        "name": "École Supérieure de Gestion, d'Informatique et des Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.esgis.org",
+        "aliases": [
+            "ESGIS Gabon",
+            "IAU-024594",
+            "School of Informatics Management and Computer Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104631945",
+        "name": "École Supérieure de la Mer",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ESM",
+            "School of the Sea"
+        ],
+        "latitude": 0.3515833,
+        "longitude": 9.4728333,
+        "type": "university"
+    }
+]

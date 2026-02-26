@@ -1,0 +1,1153 @@
+[
+    {
+        "wikidata_id": "Q105004245",
+        "name": "American University in North Africa",
+        "short_name": null,
+        "official_website": "http:\/\/auna.com.tn\/",
+        "aliases": [
+            "AUNA"
+        ],
+        "latitude": 36.8233206,
+        "longitude": 10.18135,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551799",
+        "name": "Bouebdelli University",
+        "short_name": null,
+        "official_website": "https:\/\/bouebdelli-university.com\/",
+        "aliases": [
+            "BU",
+            "ULT",
+            "Tunisia Private University",
+            "Tunisia Private University (ULT)",
+            "Bouebdelli University (BU)"
+        ],
+        "latitude": 36.820585,
+        "longitude": 10.186978,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q852223",
+        "name": "Carthage University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucar.rnu.tn\/",
+        "aliases": [
+            "UCAR",
+            "University of Carthage"
+        ],
+        "latitude": 36.8705556,
+        "longitude": 10.3344444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30261696",
+        "name": "Center of Arab Woman for Training and Research",
+        "short_name": null,
+        "official_website": "http:\/\/www.cawtar.org\/",
+        "aliases": [
+            "CAWTAR"
+        ],
+        "latitude": 36.839789,
+        "longitude": 10.197308,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30261707",
+        "name": "Center of Biotechnology of Borj Cédria",
+        "short_name": null,
+        "official_website": "http:\/\/www.cbbc.rnrt.tn\/",
+        "aliases": [
+            "CBBC",
+            "Centre de Biotechnologie de Borj Cédria"
+        ],
+        "latitude": 36.70922,
+        "longitude": 10.426818,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3551531",
+        "name": "Central University",
+        "short_name": null,
+        "official_website": "https:\/\/www.universitecentrale.net\/",
+        "aliases": [
+            "UC",
+            "universitecentrale.net"
+        ],
+        "latitude": 36.8178,
+        "longitude": 10.1829,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30284479",
+        "name": "Centre de Recherches et des Technologies des Eaux",
+        "short_name": null,
+        "official_website": "http:\/\/www.certe.rnrt.tn\/",
+        "aliases": [
+            "Center for Research and Water Technologies",
+            "CERTE"
+        ],
+        "latitude": 36.456498,
+        "longitude": 10.714995,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30282076",
+        "name": "Centre National de la Medecine et des Sciences Des Sports",
+        "short_name": null,
+        "official_website": "http:\/\/www.cnms.nat.tn\/",
+        "aliases": [
+            "CNMS",
+            "National Center For Medicine And Science Des Sports",
+            "National Center of Sports Medicine and Sciences"
+        ],
+        "latitude": 36.839957,
+        "longitude": 10.191697,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30261437",
+        "name": "Centre National des Sciences et Technologies Nucléaires",
+        "short_name": null,
+        "official_website": "http:\/\/www.cnstn.rnrt.tn\/",
+        "aliases": [
+            "CNSTN"
+        ],
+        "latitude": 36.919289,
+        "longitude": 10.079495,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30281513",
+        "name": "Centre of Biotechnology of Sfax",
+        "short_name": null,
+        "official_website": "http:\/\/www.cbs.rnrt.tn\/",
+        "aliases": [
+            "CBS"
+        ],
+        "latitude": 34.773596,
+        "longitude": 10.803273,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5149695",
+        "name": "Columbia Global Centers",
+        "short_name": null,
+        "official_website": "https:\/\/globalcenters.columbia.edu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q59535245",
+        "name": "Digital Research Centre of Sfax",
+        "short_name": null,
+        "official_website": "http:\/\/www.crns.rnrt.tn\/",
+        "aliases": [
+            "CRNS"
+        ],
+        "latitude": 34.838991,
+        "longitude": 10.756543,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q428136",
+        "name": "Ez-Zitouna University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uz.rnu.tn\/",
+        "aliases": [
+            "UZ",
+            "University of Ez-Zitouna",
+            "az-Zaytūnah University",
+            "University of az-Zaytūnah"
+        ],
+        "latitude": 36.7944667,
+        "longitude": 10.1641194,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105004248",
+        "name": "Faculté des Sciences de la Santé",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "SUPSAT"
+        ],
+        "latitude": 36.8142522,
+        "longitude": 10.178096,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105004249",
+        "name": "Faculté Privée de Management et des Sciences de l’Administration de Sousse",
+        "short_name": null,
+        "official_website": "http:\/\/fmsa.ens.tn\/",
+        "aliases": [
+            "FMSA"
+        ],
+        "latitude": 35.8452338,
+        "longitude": 10.5903899,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12237991",
+        "name": "Fondation Temimi pour la recherche scientifique et l'information",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30294290",
+        "name": "Health International Private University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hipu.com.tn\/",
+        "aliases": [
+            "HIPU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18086063",
+        "name": "Ibn Khaldoun University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uik.ens.tn\/",
+        "aliases": [
+            "UIK"
+        ],
+        "latitude": 36.8173,
+        "longitude": 10.1849,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294263",
+        "name": "Institut des Hautes Etudes de Tunis",
+        "short_name": null,
+        "official_website": "http:\/\/www.ihet.ens.tn\/",
+        "aliases": [
+            "IHET",
+            "ihet.ens.tn",
+            "Institut Privée des Hautes Etudes à Tunis",
+            "Institute of Advanced Studies of Tunis"
+        ],
+        "latitude": 36.823287,
+        "longitude": 10.17741,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3152179",
+        "name": "Institut des Régions Arides",
+        "short_name": null,
+        "official_website": "http:\/\/www.ira.agrinet.tn\/",
+        "aliases": [
+            "IRA"
+        ],
+        "latitude": 33.501324,
+        "longitude": 10.642576,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q105094211",
+        "name": "Institut International du Numérique et de l'Audiovisuel",
+        "short_name": null,
+        "official_website": "http:\/\/www.iina.tn\/",
+        "aliases": [
+            "IINA"
+        ],
+        "latitude": 36.7958109,
+        "longitude": 10.0985553,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113995889",
+        "name": "Institut maghrébin des sciences économiques et technologiques",
+        "short_name": null,
+        "official_website": "https:\/\/www.imset.ens.tn\/",
+        "aliases": null,
+        "latitude": 36.80062,
+        "longitude": 10.18263,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30254553",
+        "name": "Institut National de la Recherche Agronomique de Tunisie",
+        "short_name": null,
+        "official_website": "http:\/\/www.inrat.agrinet.tn\/",
+        "aliases": [
+            "INRAT"
+        ],
+        "latitude": 36.84566,
+        "longitude": 10.190607,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30261859",
+        "name": "Institut National de Santé Publique",
+        "short_name": null,
+        "official_website": "http:\/\/www.insp.rns.tn\/",
+        "aliases": [
+            "INSP"
+        ],
+        "latitude": 36.816368,
+        "longitude": 10.176565,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30256990",
+        "name": "Institut National des Sciences et Technologies de la Mer",
+        "short_name": null,
+        "official_website": "http:\/\/www.instm.agrinet.tn\/",
+        "aliases": [
+            "INSTM",
+            "National Institute of Marine Sciences and Technologies"
+        ],
+        "latitude": 36.843799,
+        "longitude": 10.325486,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q105094216",
+        "name": "Institut Privée des Hautes Etudes à Sousse",
+        "short_name": null,
+        "official_website": "http:\/\/www.ihes.ens.tn\/",
+        "aliases": [
+            "IHES"
+        ],
+        "latitude": 35.8099924,
+        "longitude": 10.6092874,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105094215",
+        "name": "Institut Supérieur des Etudes Paramédicales et Sciences Infirmières",
+        "short_name": null,
+        "official_website": "http:\/\/www.etoile-formation.com\/isepsi.html",
+        "aliases": [
+            "ISEPSI"
+        ],
+        "latitude": 35.8355304,
+        "longitude": 10.612799,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105094214",
+        "name": "Institut Supérieur Privé d'Administration des Entreprises",
+        "short_name": null,
+        "official_website": "https:\/\/iaetunis.com\/",
+        "aliases": [
+            "IAE Tunis"
+        ],
+        "latitude": 36.8194102,
+        "longitude": 10.1794239,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12193459",
+        "name": "Institut Supérieur Privé des Sciences de la Santé de Sousse",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 35.8246147,
+        "longitude": 10.6295509,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105094207",
+        "name": "Institut Supérieur Privé des Sciences Infirmières de Kairouan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 35.6746479,
+        "longitude": 10.1008417,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105425271",
+        "name": "Institut Supérieur Privé des Sciences Infirmières de Sousse",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 35.8667991,
+        "longitude": 10.6066715,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105094210",
+        "name": "Institut Supérieur Privé des Sciences Infirmières El Amed",
+        "short_name": null,
+        "official_website": "http:\/\/universite-amed.com\/",
+        "aliases": [
+            "Université EL AMED"
+        ],
+        "latitude": 35.839718,
+        "longitude": 10.5983693,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105094208",
+        "name": "Institut Supérieur Privé des Sciences, de la Technologie et des Affaires du Centre",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105094205",
+        "name": "Institut Supérieur Privé Méditerranéen de Technologie",
+        "short_name": null,
+        "official_website": "https:\/\/www.smu.tn\/medtech",
+        "aliases": [
+            "MedTech"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30254816",
+        "name": "Institution de la Recherche et de l’Enseignement Supérieur Agricoles",
+        "short_name": null,
+        "official_website": "http:\/\/www.iresa.agrinet.tn\/",
+        "aliases": [
+            "Institution of the Agricultural Research and Higher Education",
+            "IRESA",
+            "IRESA, Tunisia"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17005849",
+        "name": "International Institute of Technology",
+        "short_name": null,
+        "official_website": "https:\/\/iit.tn\/",
+        "aliases": [
+            "IIT"
+        ],
+        "latitude": 34.7423367,
+        "longitude": 10.7358001,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105004244",
+        "name": "International School of Business",
+        "short_name": null,
+        "official_website": "https:\/\/isb.ens.tn\/",
+        "aliases": [
+            "ISB"
+        ],
+        "latitude": 34.7291018,
+        "longitude": 10.7378992,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551783",
+        "name": "International University of Tunis",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-internationale.com\/",
+        "aliases": [
+            "UIT",
+            "University International de Tunis"
+        ],
+        "latitude": 36.8410174,
+        "longitude": 10.2059606,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105004247",
+        "name": "Leaders University",
+        "short_name": null,
+        "official_website": "https:\/\/www.leaders-university.net\/",
+        "aliases": [
+            "LU"
+        ],
+        "latitude": 36.4548316,
+        "longitude": 10.7411046,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16682082",
+        "name": "Mahmoud el Materi University",
+        "short_name": null,
+        "official_website": "http:\/\/www.umm-tunisie.com\/",
+        "aliases": [
+            "UMM"
+        ],
+        "latitude": 36.8164043,
+        "longitude": 10.1847707,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551710",
+        "name": "Manouba University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uma.rnu.tn\/",
+        "aliases": [
+            "UM",
+            "University of Manouba"
+        ],
+        "latitude": 36.8160304,
+        "longitude": 10.0593571,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136090565",
+        "name": "Mediterranean Institute of Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.medtech.tn\/",
+        "aliases": [
+            "MedTech"
+        ],
+        "latitude": 36.845798,
+        "longitude": 10.269064,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q96272025",
+        "name": "National Center for Research in Materials Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.cnrsm.rnrt.tn\/",
+        "aliases": null,
+        "latitude": 36.711356,
+        "longitude": 10.427883,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q96272016",
+        "name": "National Institute of Research and Physico and Chemical Analysis",
+        "short_name": null,
+        "official_website": "http:\/\/www.inrap.rnrt.tn\/",
+        "aliases": null,
+        "latitude": 36.917304,
+        "longitude": 10.076188,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3152426",
+        "name": "National Institute of Scientific and Technical Research",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12193536",
+        "name": "National Research Institute of Rural Engineering, Water and Forests",
+        "short_name": null,
+        "official_website": "http:\/\/www.inrgref.agrinet.tn\/",
+        "aliases": [
+            "INRGREF"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25451774",
+        "name": "Q25451774",
+        "short_name": null,
+        "official_website": "http:\/\/www.ites.tn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2945213",
+        "name": "Q2945213",
+        "short_name": null,
+        "official_website": "http:\/\/www.ceres.rnrt.tn\/",
+        "aliases": null,
+        "latitude": 36.8332,
+        "longitude": 10.1886,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2945458",
+        "name": "Q2945458",
+        "short_name": null,
+        "official_website": "http:\/\/www.credif.org.tn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q96271988",
+        "name": "Q96271988",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 36.708603,
+        "longitude": 10.426112,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q96272005",
+        "name": "Q96272005",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 36.716822,
+        "longitude": 10.427143,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q96272040",
+        "name": "Q96272040",
+        "short_name": null,
+        "official_website": "http:\/\/www.crmn.rnrt.tn\/",
+        "aliases": null,
+        "latitude": 35.818259,
+        "longitude": 10.595983,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q96272610",
+        "name": "Q96272610",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30261701",
+        "name": "Research and Studies Telecommunications Centre",
+        "short_name": null,
+        "official_website": "http:\/\/www.cert.nat.tn\/",
+        "aliases": [
+            "CERT",
+            "Centre d'Etudes et de Recherche des Télécommunications"
+        ],
+        "latitude": 36.893588,
+        "longitude": 10.188878,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30261714",
+        "name": "Research and Technology Center of Energy",
+        "short_name": null,
+        "official_website": "http:\/\/www.crten.rnrt.tn\/",
+        "aliases": [
+            "CRTEn"
+        ],
+        "latitude": 36.723521,
+        "longitude": 10.343935,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30294297",
+        "name": "South Mediterranean University",
+        "short_name": null,
+        "official_website": "https:\/\/www.smu.tn\/",
+        "aliases": null,
+        "latitude": 36.845798,
+        "longitude": 10.269064,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551719",
+        "name": "SUPTECH University",
+        "short_name": null,
+        "official_website": "https:\/\/www.suptech.tn\/",
+        "aliases": [
+            "SUPTECH"
+        ],
+        "latitude": 36.8078,
+        "longitude": 10.1778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294265",
+        "name": "Time Université",
+        "short_name": null,
+        "official_website": "http:\/\/www.time.ens.tn\/",
+        "aliases": [
+            "TU",
+            "TIME Private Higher School"
+        ],
+        "latitude": 36.8976693,
+        "longitude": 10.1935019,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16511675",
+        "name": "Tunis Carthage University",
+        "short_name": null,
+        "official_website": "http:\/\/www.utctunisie.com",
+        "aliases": [
+            "UTC"
+        ],
+        "latitude": 36.8781,
+        "longitude": 10.2646,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551684",
+        "name": "Tunis El Manar University",
+        "short_name": null,
+        "official_website": "http:\/\/www.utm.rnu.tn\/",
+        "aliases": [
+            "UTM",
+            "Université Tunis El Manar",
+            "University of Tunis-El Manar",
+            "utm.rnu.tn"
+        ],
+        "latitude": 36.8292,
+        "longitude": 10.1463,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551686",
+        "name": "Tunis University",
+        "short_name": null,
+        "official_website": "http:\/\/www.utunis.rnu.tn\/",
+        "aliases": [
+            "UT",
+            "University of Tunis"
+        ],
+        "latitude": 36.7975965,
+        "longitude": 10.1620454,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105094223",
+        "name": "Tunisia Tech University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "TTU"
+        ],
+        "latitude": 36.844522,
+        "longitude": 10.286983,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30261883",
+        "name": "Tunisian Institute of Competitiveness and Quantitative Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.itceq.tn\/",
+        "aliases": [
+            "Institute of Economy Quantitative - Ali Bach Hamba"
+        ],
+        "latitude": 36.808882,
+        "longitude": 10.178637,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30294270",
+        "name": "University College of Aviation and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.esat.ens.tn\/",
+        "aliases": [
+            "ESAT",
+            "École Supérieure Privée de l'Aéronautique et des Technologies"
+        ],
+        "latitude": 36.8535781,
+        "longitude": 10.2082299,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q649578",
+        "name": "University of Gabès",
+        "short_name": null,
+        "official_website": "http:\/\/www.univgb.rnu.tn\/",
+        "aliases": [
+            "UG",
+            "University of Gabes"
+        ],
+        "latitude": 33.8533,
+        "longitude": 10.1018,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551586",
+        "name": "University of Gafsa",
+        "short_name": null,
+        "official_website": "http:\/\/www.ugaf.rnu.tn\/",
+        "aliases": [
+            "UG"
+        ],
+        "latitude": 34.4232502,
+        "longitude": 8.7471305,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551596",
+        "name": "University of Jendouba",
+        "short_name": null,
+        "official_website": "http:\/\/www.uj.rnu.tn\/",
+        "aliases": [
+            "UJ"
+        ],
+        "latitude": 36.5115238,
+        "longitude": 8.7581192,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551602",
+        "name": "University of Kairouan",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-k.rnu.tn\/",
+        "aliases": [
+            "UnivK"
+        ],
+        "latitude": 35.6767,
+        "longitude": 10.1053,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551637",
+        "name": "University of Monastir",
+        "short_name": null,
+        "official_website": "http:\/\/www.um.rnu.tn\/",
+        "aliases": [
+            "UM"
+        ],
+        "latitude": 35.7633611,
+        "longitude": 10.8290278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q540341",
+        "name": "University of Sfax",
+        "short_name": null,
+        "official_website": "https:\/\/www.uss.rnu.tn\/",
+        "aliases": [
+            "US"
+        ],
+        "latitude": 34.7371,
+        "longitude": 10.7436,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551673",
+        "name": "University of Sousse",
+        "short_name": null,
+        "official_website": "http:\/\/www.uc.rnu.tn\/",
+        "aliases": [
+            "USo"
+        ],
+        "latitude": 35.8348207,
+        "longitude": 10.6276692,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294267",
+        "name": "Université Arabe des Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/uas.ens.tn\/",
+        "aliases": [
+            "UAS"
+        ],
+        "latitude": 36.80831,
+        "longitude": 10.181711,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q26709157",
+        "name": "Université Européenne de Tunis",
+        "short_name": null,
+        "official_website": "http:\/\/www.uetunis.com\/",
+        "aliases": [
+            "UET"
+        ],
+        "latitude": 36.8312772,
+        "longitude": 10.302461,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294292",
+        "name": "Université Montplaisir Tunis",
+        "short_name": null,
+        "official_website": "http:\/\/www.umt.ens.tn\/",
+        "aliases": [
+            "UMT"
+        ],
+        "latitude": 36.820476,
+        "longitude": 10.189712,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294258",
+        "name": "Université Méditerranéenne Libre de Tunis",
+        "short_name": null,
+        "official_website": "http:\/\/www.umlt.ens.tn\/gr\/",
+        "aliases": [
+            "UM"
+        ],
+        "latitude": 36.8223975,
+        "longitude": 10.1906834,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3151817",
+        "name": "Université Paris-Dauphine Tunis",
+        "short_name": null,
+        "official_website": "https:\/\/tunis.dauphine.psl.eu\/",
+        "aliases": [
+            "Dauphine Tunis"
+        ],
+        "latitude": 36.8169,
+        "longitude": 10.1702,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294253",
+        "name": "Université Privée d'Enseignement Supérieur El Amel",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551828",
+        "name": "Université Privée de Sousse",
+        "short_name": null,
+        "official_website": "http:\/\/www.ups.ens.tn",
+        "aliases": [
+            "UPS"
+        ],
+        "latitude": 35.8080905,
+        "longitude": 10.610487,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105094206",
+        "name": "Université Privée des Etudes Scientifiques et Technologiques de Mégrine",
+        "short_name": null,
+        "official_website": "http:\/\/www.upes-megrine.com\/",
+        "aliases": [
+            "UPES"
+        ],
+        "latitude": 36.7686096,
+        "longitude": 10.2451534,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294262",
+        "name": "Université Privée du Sud",
+        "short_name": null,
+        "official_website": "https:\/\/ipsas-ens.net\/",
+        "aliases": [
+            "ULS"
+        ],
+        "latitude": 34.7463286,
+        "longitude": 10.7617028,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105094213",
+        "name": "Université SESAME",
+        "short_name": null,
+        "official_website": "https:\/\/universitesesame.com\/",
+        "aliases": [
+            "SESAME"
+        ],
+        "latitude": 36.8984003,
+        "longitude": 10.1922589,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97368337",
+        "name": "UPSAT",
+        "short_name": null,
+        "official_website": "https:\/\/upsat.tn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551862",
+        "name": "Virtual University of Tunis",
+        "short_name": null,
+        "official_website": "http:\/\/www.uvt.rnu.tn\/",
+        "aliases": [
+            "Virtual University of Tunisia"
+        ],
+        "latitude": 36.8175194,
+        "longitude": 10.1849667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105094224",
+        "name": "École Centrale Supérieure Privée de Technologie",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105004252",
+        "name": "École Internationale Supérieure Privée de Droit et des Affaires",
+        "short_name": null,
+        "official_website": "http:\/\/lbs.tn\/",
+        "aliases": [
+            "LBS"
+        ],
+        "latitude": 36.8368897,
+        "longitude": 10.2315651,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105094220",
+        "name": "École Polytechnique Internationale Privée de Tunis",
+        "short_name": null,
+        "official_website": "http:\/\/pi.tn\/",
+        "aliases": [
+            "PI"
+        ],
+        "latitude": 36.8372207,
+        "longitude": 10.2315867,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105004253",
+        "name": "École Supérieure Polytechnique Internationale Privée de Sfax",
+        "short_name": null,
+        "official_website": "https:\/\/www.espin.ens.tn\/fra\/home",
+        "aliases": [
+            "ESPIN"
+        ],
+        "latitude": 34.8353891,
+        "longitude": 10.7517163,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105094209",
+        "name": "École Supérieure Polytechnique Privée de Monastir",
+        "short_name": null,
+        "official_website": "http:\/\/www.polytechmonastir.tn\/",
+        "aliases": [
+            "Monastir Polytech"
+        ],
+        "latitude": 35.6462506,
+        "longitude": 10.96295,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105094218",
+        "name": "École Supérieure Polytechnique Privée de Sousse",
+        "short_name": null,
+        "official_website": "https:\/\/polytecsousse.tn\/",
+        "aliases": [
+            "Polytechnique Sousse"
+        ],
+        "latitude": 35.8264623,
+        "longitude": 10.5890239,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105094217",
+        "name": "École Supérieure Privée d'Administration des Affaires et de Droit Avicenne",
+        "short_name": null,
+        "official_website": "https:\/\/apbstunisia.tn\/?lang=fr",
+        "aliases": [
+            "APBS"
+        ],
+        "latitude": 36.8207855,
+        "longitude": 10.1807519,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105004251",
+        "name": "École Supérieure Privée d'Assurance et de Finance",
+        "short_name": null,
+        "official_website": "http:\/\/www.espaf.tn\/",
+        "aliases": [
+            "ESPAF"
+        ],
+        "latitude": 36.8407099,
+        "longitude": 10.2442009,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105094219",
+        "name": "École Supérieure Privée d'Informatique et d'Administration des Affaires",
+        "short_name": null,
+        "official_website": "https:\/\/www.ebs.tn\/",
+        "aliases": [
+            "EBS"
+        ],
+        "latitude": 36.8316882,
+        "longitude": 10.3058432,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105094222",
+        "name": "École Supérieure Privée d'Ingénierie et de Technologie Appliquée",
+        "short_name": null,
+        "official_website": "https:\/\/www.espita.ens.tn\/",
+        "aliases": [
+            "ESPITA"
+        ],
+        "latitude": 35.8105852,
+        "longitude": 10.6092736,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105094212",
+        "name": "École Supérieure Privée d'Ingénieurs de Monastir",
+        "short_name": null,
+        "official_website": "https:\/\/www.esprims.ens.tn\/",
+        "aliases": [
+            "ESPRIMS"
+        ],
+        "latitude": 35.7655017,
+        "longitude": 10.8088087,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65145744",
+        "name": "École Supérieure Privée des Technologies d'Informatique et de Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.estim.tn\/",
+        "aliases": [
+            "ESTIM"
+        ],
+        "latitude": 35.8948139,
+        "longitude": 10.5815739,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105094204",
+        "name": "École Supérieure Privée des Technologies de l'Information et de Management de Nabeul",
+        "short_name": null,
+        "official_website": "https:\/\/itbs.tn\/",
+        "aliases": [
+            "ITBS"
+        ],
+        "latitude": 36.4429701,
+        "longitude": 10.7103972,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105004246",
+        "name": "École Supérieure Privée des Technologies et Ingénierie",
+        "short_name": null,
+        "official_website": "https:\/\/tek-up.de\/",
+        "aliases": [
+            "TEK-UP"
+        ],
+        "latitude": 36.8542473,
+        "longitude": 10.2003323,
+        "type": "university"
+    }
+]

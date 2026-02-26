@@ -1,0 +1,1218 @@
+[
+    {
+        "wikidata_id": "Q4680095",
+        "name": "Adama Science and Technology University",
+        "short_name": null,
+        "official_website": "http:\/\/www.astu.edu.net",
+        "aliases": [
+            "ASTU",
+            "IAU-000101",
+            "ቴክኖሎጂ ዩኒቨርሲቲ, አዳማ ሳይንስና ቴክኖሎጂ ዩኒቨርሲቲ"
+        ],
+        "latitude": 8.5644743,
+        "longitude": 39.29208,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946200",
+        "name": "Adama Science and Technology University School of Agriculture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946176",
+        "name": "Adama Science and Technology University School of Educational Science and Technology Teachers Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946179",
+        "name": "Adama Science and Technology University School of Humanities and Law",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74568479",
+        "name": "Addis Ababa Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.aau.edu.et\/aait\/",
+        "aliases": [
+            "AAiT",
+            "አዲስ አበባ ቴክኖሎጂ ኢንስቲትዩት"
+        ],
+        "latitude": 9.040262,
+        "longitude": 38.7622541,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30266442",
+        "name": "Addis Ababa Science and Technology University",
+        "short_name": null,
+        "official_website": "http:\/\/www.aastu.edu.et\/",
+        "aliases": [
+            "AASTU",
+            "aastu.edu.et",
+            "IAU-024023",
+            "አዲስ አበባ ሳይንስና ቴክኖሎጂ ዩኒቨርስቲ"
+        ],
+        "latitude": 8.892447,
+        "longitude": 38.809865,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1238770",
+        "name": "Addis Ababa University",
+        "short_name": null,
+        "official_website": "http:\/\/aau.edu.et\/",
+        "aliases": [
+            "AAU",
+            "aau.edu.et",
+            "Haile Selassie I University",
+            "IAU-000106",
+            "University College of Addis Ababa",
+            "አዲስ አበባ ዩኒቨርሲቲ"
+        ],
+        "latitude": 9.046613,
+        "longitude": 38.7587357,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946178",
+        "name": "Addis Ababa University Academy of Ethiopian Languages and Cultures",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946185",
+        "name": "Addis Ababa University Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946189",
+        "name": "Addis Ababa University Institute for Peace and Security Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100946188",
+        "name": "Addis Ababa University Institute of African Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100946190",
+        "name": "Addis Ababa University Institute of Gender Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100946191",
+        "name": "Addis Ababa University Institute of Governance Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100946192",
+        "name": "Addis Ababa University School of Journalism and Communications",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946193",
+        "name": "Addis Ababa University School of Public Health",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946194",
+        "name": "Addis Ababa University School of Social Work",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4681202",
+        "name": "Addis Continental Institute of Public Health",
+        "short_name": null,
+        "official_website": "http:\/\/www.addiscontinental.edu.et\/",
+        "aliases": null,
+        "latitude": 9.02855,
+        "longitude": 38.87741,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28223078",
+        "name": "Adigrat University",
+        "short_name": null,
+        "official_website": "http:\/\/www.#.edu.et\/",
+        "aliases": [
+            "AGU",
+            "AdU",
+            "IAU-024620",
+            "ዓዲ-ግራት ዩኒቨርሲቲ"
+        ],
+        "latitude": 14.302034,
+        "longitude": 39.462183,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4683339",
+        "name": "Admas College",
+        "short_name": null,
+        "official_website": "http:\/\/www.admasuniversity.edu.et",
+        "aliases": [
+            "Admas University College–Addis Ababa"
+        ],
+        "latitude": 9.0235557,
+        "longitude": 38.7864765,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q4689543",
+        "name": "Africa Beza College",
+        "short_name": null,
+        "official_website": "http:\/\/www.africabezauc.edu.et\/",
+        "aliases": [
+            "ABUC",
+            "Africa Beza University College"
+        ],
+        "latitude": 7.047875,
+        "longitude": 38.477917,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4701848",
+        "name": "Aksum University",
+        "short_name": null,
+        "official_website": "https:\/\/aku.edu.et\/",
+        "aliases": [
+            "AKU",
+            "IAU-000734",
+            "አክሱም ዩኒቨርሲቲ"
+        ],
+        "latitude": 14.106,
+        "longitude": 38.707,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74519081",
+        "name": "Alpha University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.alphareg.net\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q29569926",
+        "name": "Ambo University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ambou.edu.et\/",
+        "aliases": [
+            "AU",
+            "IAU-000888",
+            "የአምቦ ዩኒቨርሲቲ"
+        ],
+        "latitude": 8.984,
+        "longitude": 37.843,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4784581",
+        "name": "Arba Minch University",
+        "short_name": null,
+        "official_website": "http:\/\/www.amu.edu.et\/",
+        "aliases": [
+            "AMU",
+            "IAU-001048",
+            "በአርባ ምንጭ ዩኒቨርሲቲ"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25106087",
+        "name": "Arsi University",
+        "short_name": null,
+        "official_website": "https:\/\/arsiun.edu.et\/",
+        "aliases": null,
+        "latitude": 7.987,
+        "longitude": 39.14,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30266446",
+        "name": "Asossa University",
+        "short_name": null,
+        "official_website": "http:\/\/www.asu.edu.et\/",
+        "aliases": [
+            "ASU",
+            "Assosa University",
+            "IAU-024621",
+            "አሶሳ ዩኒቨርሲቲ"
+        ],
+        "latitude": 10.061993,
+        "longitude": 34.546895,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4842597",
+        "name": "Bahir Dar University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bdu.edu.et\/",
+        "aliases": [
+            "BDU",
+            "IAU-001372",
+            "ባህር ዳር ዩኒቨርስቲ"
+        ],
+        "latitude": 11.59722,
+        "longitude": 37.39583,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946205",
+        "name": "Bahir Dar University Department of Biology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946208",
+        "name": "Bahir Dar University Department of Mathematics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946215",
+        "name": "Bahir Dar University Institute of Land Administration",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100946214",
+        "name": "Bahir Dar University Institute of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100946217",
+        "name": "Bahir Dar University Institute of Technology for Textile Garment and Fashion Design",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30266538",
+        "name": "Bule Hora University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bhu.edu.et\/",
+        "aliases": [
+            "BHU",
+            "bhu.edu.et",
+            "IAU-024622",
+            "ቡሌ ሆራ ዩኒቨርስቲ"
+        ],
+        "latitude": 5.636827,
+        "longitude": 38.237314,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q57524381",
+        "name": "Dambi Dolo University",
+        "short_name": null,
+        "official_website": "http:\/\/www.dadu.edu.et\/",
+        "aliases": [
+            "Dembi Dolo University"
+        ],
+        "latitude": 8.551259,
+        "longitude": 39.840737,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5215721",
+        "name": "Dandii Boruu University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.dbuc-ethiopia.org\/index.html",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q77583759",
+        "name": "Debark University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18350858",
+        "name": "Debre Berhan University",
+        "short_name": null,
+        "official_website": "http:\/\/www.dbu.edu.et\/",
+        "aliases": [
+            "DBU",
+            "Debre Birhan University",
+            "IAU-003613",
+            "ደብረ ብርሃን ዩኒቨርሲቲ"
+        ],
+        "latitude": 9.6572222,
+        "longitude": 39.5213889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5248546",
+        "name": "Debre Markos University",
+        "short_name": null,
+        "official_website": "http:\/\/www.dmu.edu.et\/",
+        "aliases": [
+            "DMU",
+            "IAU-003614",
+            "ደብረ ማርቆስ ዩኒቨርሲቲ"
+        ],
+        "latitude": 10.3325,
+        "longitude": 37.7412778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q77583268",
+        "name": "Debre Tabor University",
+        "short_name": null,
+        "official_website": "http:\/\/www.dtu.edu.et\/",
+        "aliases": [
+            "DTU",
+            "IAU-024623",
+            "ደብረ ታቦር ዩኒቨርስቲ"
+        ],
+        "latitude": 11.8537222,
+        "longitude": 38.0428056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61984428",
+        "name": "Defence University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.dec.edu.et\/",
+        "aliases": [
+            "Defence Engineering College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20629650",
+        "name": "Dilla University",
+        "short_name": null,
+        "official_website": "http:\/\/www.du.edu.et\/",
+        "aliases": [
+            "DU",
+            "IAU-003733",
+            "University of the Greenland",
+            "ዲላ ዩኒቨርስቲ"
+        ],
+        "latitude": 6.423998,
+        "longitude": 38.278994,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5280195",
+        "name": "Dire Dawa University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ddu.edu.et",
+        "aliases": [
+            "DDU",
+            "ddu.edu.et",
+            "IAU-003743",
+            "የድሬዳዋ ዩኒቨርሲቲ"
+        ],
+        "latitude": 9.6209167,
+        "longitude": 41.8415,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5318909",
+        "name": "Dynamic International University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.aiuc2010.com",
+        "aliases": null,
+        "latitude": 8.98059,
+        "longitude": 38.75801,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28223081",
+        "name": "Ethiopian Adventist College",
+        "short_name": null,
+        "official_website": "http:\/\/ethiopiaadventistcollege.com",
+        "aliases": [
+            "EAC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q100942459",
+        "name": "Ethiopian Catholic University of Saint Thomas Aquinas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5403540",
+        "name": "Ethiopian Civil Service University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ecsc.edu.et\/",
+        "aliases": [
+            "ECSU",
+            "ecsu.edu.et",
+            "IAU-004834",
+            "የኢትዮጵያ ሲቪል ሰርቪስ ዩኒቨርሲቲ"
+        ],
+        "latitude": 9.0222,
+        "longitude": 38.8344,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30261775",
+        "name": "Ethiopian Development Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.edri.org.et\/",
+        "aliases": [
+            "EDRI"
+        ],
+        "latitude": 9.012858,
+        "longitude": 38.755087,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30261777",
+        "name": "Ethiopian Economic Association",
+        "short_name": null,
+        "official_website": "http:\/\/www.eeaecon.org\/",
+        "aliases": [
+            "EEA",
+            "Ethiopian Economics Association"
+        ],
+        "latitude": 9.022638,
+        "longitude": 38.838978,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5403550",
+        "name": "Ethiopian Institute of Agricultural Research",
+        "short_name": null,
+        "official_website": "http:\/\/www.eiar.gov.et\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5403572",
+        "name": "Ethiopian Police College",
+        "short_name": null,
+        "official_website": "http:\/\/www.epuc.edu.et\/index.php\/en\/component\/content",
+        "aliases": null,
+        "latitude": 9.1555,
+        "longitude": 39.0244,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q53564732",
+        "name": "Ethiopian Space Science & Technology Institute",
+        "short_name": "ESSTI",
+        "official_website": "http:\/\/etssti.org",
+        "aliases": [
+            "ESSTI",
+            "Ethiopia Space Science and Technology Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74634800",
+        "name": "Gondar University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uog.edu.et\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5591060",
+        "name": "Grace College of Business and Computer Science",
+        "short_name": null,
+        "official_website": "http:\/\/www.gracecollege.edu.et",
+        "aliases": [
+            "GCBC"
+        ],
+        "latitude": 9.0172,
+        "longitude": 38.7541,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5654075",
+        "name": "Haramaya University",
+        "short_name": null,
+        "official_website": "http:\/\/www.haramaya.edu.et\/",
+        "aliases": [
+            "ሀረማያ ዩኒቨርሲቲ",
+            "HU",
+            "HRU",
+            "Alemaya University",
+            "haramaya.edu.et",
+            "IAU-007003"
+        ],
+        "latitude": 9.425,
+        "longitude": 42.0333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74823456",
+        "name": "Haramaya University College of Agriculture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Alemaya College of Agriculture"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946233",
+        "name": "Haramaya University Department of Environmental Health",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946234",
+        "name": "Haramaya University Department of Public Health",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5684692",
+        "name": "Hawassa University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hu.edu.et",
+        "aliases": [
+            "HWU",
+            "hu.edu.et",
+            "IAU-007103",
+            "ሀዋሳ ዩኒቨርስቲ"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16969470",
+        "name": "HiLCoE College",
+        "short_name": null,
+        "official_website": "http:\/\/www.hilcoe.net",
+        "aliases": [
+            "Higher Learning Center of Excellence",
+            "HiLCoE School of Computer Science and Technology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136694890",
+        "name": "iCog Labs",
+        "short_name": null,
+        "official_website": "https:\/\/icog-labs.com\/about-us\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6030507",
+        "name": "Infonet College",
+        "short_name": null,
+        "official_website": "http:\/\/www.infonetcollege.edu.et",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6051731",
+        "name": "International Leadership Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.ili.edu.et",
+        "aliases": [
+            "ILI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q50376942",
+        "name": "International Livestock Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.ilri.org\/",
+        "aliases": [
+            "ILRI"
+        ],
+        "latitude": 9.044586,
+        "longitude": 38.785973,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1666743",
+        "name": "International Livestock Research Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.ilri.org",
+        "aliases": [
+            "ILRI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6189023",
+        "name": "Jethro Leadership Management Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.jethrolmi.com",
+        "aliases": [
+            "Jethro-lmi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6192552",
+        "name": "Jijiga University",
+        "short_name": null,
+        "official_website": "https:\/\/www.jju.edu.et\/",
+        "aliases": [
+            "JJU",
+            "IAU-009914",
+            "Jigjiga University",
+            "ጅጅጋ ዩኒቨርሲቲ"
+        ],
+        "latitude": 9.3613611,
+        "longitude": 42.83075,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6199299",
+        "name": "Jimma University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ju.edu.et\/",
+        "aliases": [
+            "JU",
+            "IAU-009932",
+            "ju.edu.et",
+            "ጅማ ዩኒቨርስቲ"
+        ],
+        "latitude": 7.685,
+        "longitude": 36.8313889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946258",
+        "name": "Jimma University Institute of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16959367",
+        "name": "Kunuz College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20982433",
+        "name": "Madda Walabu University",
+        "short_name": null,
+        "official_website": "http:\/\/www.mwu.edu.et\/",
+        "aliases": [
+            "MWU",
+            "IAU-011140",
+            "Madawalabu University",
+            "መደ ወላቡ ዩኒቨርሲቲ"
+        ],
+        "latitude": 7.143,
+        "longitude": 39.999,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104243349",
+        "name": "Mattu University",
+        "short_name": null,
+        "official_website": "http:\/\/www.meu.edu.et\/",
+        "aliases": [
+            "MaU",
+            "መቱ ዩኒቨርሲቲ"
+        ],
+        "latitude": 8.3178333,
+        "longitude": 35.5582222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q119285478",
+        "name": "Mekdela Amba University",
+        "short_name": null,
+        "official_website": "https:\/\/www.mkau.edu.et\/",
+        "aliases": [
+            "MAU"
+        ],
+        "latitude": 10.986,
+        "longitude": 39.263,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16951314",
+        "name": "Mekelle Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.mitethiopia.edu.et",
+        "aliases": [
+            "MIT",
+            "መቀሌ የቴክኖሎጂ ተቋም"
+        ],
+        "latitude": 13.4573333,
+        "longitude": 39.4899722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6810561",
+        "name": "Mekelle University",
+        "short_name": null,
+        "official_website": "http:\/\/www.mu.edu.et\/",
+        "aliases": [
+            "MU",
+            "IAU-011555",
+            "infomekelle.com",
+            "መቐለ ዩኒቨርስቲ"
+        ],
+        "latitude": 13.48,
+        "longitude": 39.485,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946270",
+        "name": "Mekelle University Department of Physics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943432",
+        "name": "Mekelle University Ethiopian Institution of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6884590",
+        "name": "Mizan Tepi University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "MTU",
+            "IAU-011976",
+            "የሚዛን-ቴፒ ዩኒቨርስቲ"
+        ],
+        "latitude": 7.1966667,
+        "longitude": 35.4288611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17071332",
+        "name": "New Generation University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.nguc.edu.et\/",
+        "aliases": [
+            "National University College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100942460",
+        "name": "New Global Vision University College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q47526619",
+        "name": "Oda Bultum University",
+        "short_name": null,
+        "official_website": "http:\/\/www.obu.edu.et",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100267111",
+        "name": "Organization for Social Science Research in Eastern and Southern Africa",
+        "short_name": "OSSREA",
+        "official_website": "http:\/\/www.ossrea.net\/",
+        "aliases": [
+            "OSSREA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q104243342",
+        "name": "Oromia State University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "OSU",
+            "የኦሮሚያ ክልል ዩኒቨርሲቲ"
+        ],
+        "latitude": 7.9352778,
+        "longitude": 38.72475,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7333290",
+        "name": "Rift Valley University College",
+        "short_name": null,
+        "official_website": "http:\/\/riftvalleyuniversity.net\/",
+        "aliases": [
+            "RVU",
+            "IAU-024626",
+            "Rift Valley College",
+            "Rift Valley University",
+            "ሪፍት ቫሊ ዩኒቨርስቲ"
+        ],
+        "latitude": 8.9900278,
+        "longitude": 38.7926667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7373959",
+        "name": "Royal College, Addis Abeba",
+        "short_name": null,
+        "official_website": "http:\/\/istudentcanada.ca\/ethiopia\/",
+        "aliases": null,
+        "latitude": 9.037582,
+        "longitude": 38.74378,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27963036",
+        "name": "Samara University",
+        "short_name": null,
+        "official_website": "http:\/\/www.su.edu.et\/",
+        "aliases": [
+            "SU",
+            "IAU-014351",
+            "Semera University",
+            "ሠመራ ዩኒቨርሲቲን"
+        ],
+        "latitude": 11.798,
+        "longitude": 40.999,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115843094",
+        "name": "St. Francis Institute of Philosophy and Theology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Franciscan Institute of Philosophy and Theology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7590447",
+        "name": "St. Mary's University",
+        "short_name": null,
+        "official_website": "https:\/\/www.smuc.edu.et\/",
+        "aliases": [
+            "smuc.edu.et",
+            "St. Mary's University Addis Ababa",
+            "St. Mary's University College",
+            "St. Mary's University Ethiopia",
+            "St. Mary's University, Ethiopia",
+            "ቅድስት ማርያም ዩኒቨርስቲ"
+        ],
+        "latitude": 9.01306,
+        "longitude": 38.7472,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1625352",
+        "name": "Theological College of the Holy Trinity",
+        "short_name": null,
+        "official_website": "http:\/\/www.httc.edu.et",
+        "aliases": null,
+        "latitude": 9.03167,
+        "longitude": 38.765,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7893827",
+        "name": "Unity University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uu.edu.et\/",
+        "aliases": [
+            "UU",
+            "IAU-017103",
+            "ዩኒቲ ዩኒቨርስቲ"
+        ],
+        "latitude": 9.00341,
+        "longitude": 38.8032,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2690553",
+        "name": "University of Gondar",
+        "short_name": null,
+        "official_website": "http:\/\/www.uog.edu.et\/en\/",
+        "aliases": [
+            "Gondar College of Medical Sciences",
+            "IAU-020167",
+            "UoG",
+            "ጎንደር ዩኒቨርስቲ"
+        ],
+        "latitude": 12.6147,
+        "longitude": 37.4522,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946243",
+        "name": "University of Gondar School of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946244",
+        "name": "University of Gondar School of Law",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104243322",
+        "name": "Wachamo University",
+        "short_name": null,
+        "official_website": "http:\/\/www.wcu.edu.et\/",
+        "aliases": [
+            "WCU",
+            "ዋቸሞ ዩኒቨርሲቲ"
+        ],
+        "latitude": 7.5526667,
+        "longitude": 37.8830556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100942461",
+        "name": "Wachemo University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42272504",
+        "name": "Wolaita Sodo University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "WSU",
+            "IAU-021322",
+            "ወላይታ ሶዶ ዩኒቨርሲቲ"
+        ],
+        "latitude": 6.831,
+        "longitude": 37.751,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q75022460",
+        "name": "Woldia University",
+        "short_name": null,
+        "official_website": "https:\/\/www.wldu.edu.et\/",
+        "aliases": [
+            "WDU",
+            "IAU-024454",
+            "የወልድያ ዩኒቨርሲቲ"
+        ],
+        "latitude": 11.8047222,
+        "longitude": 39.6002778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30266555",
+        "name": "Wolkite University",
+        "short_name": null,
+        "official_website": "http:\/\/www.wku.edu.et\/",
+        "aliases": [
+            "WKU",
+            "IAU-024624",
+            "ወልቂጤ ዩኒቨርሲቲ"
+        ],
+        "latitude": 8.290231,
+        "longitude": 37.780523,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8030333",
+        "name": "Wollega University",
+        "short_name": null,
+        "official_website": "http:\/\/www.wollegauniversity.edu.et\/",
+        "aliases": [
+            "WOU",
+            "IAU-021323",
+            "wollegalibrary.com",
+            "ወለጋ ዩኒቨርሲቲ"
+        ],
+        "latitude": 9.0809722,
+        "longitude": 36.5826389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30263976",
+        "name": "Wollo University",
+        "short_name": null,
+        "official_website": "https:\/\/wu.edu.et\/",
+        "aliases": [
+            "WU",
+            "IAU-021324",
+            "ወሎ ዩኒቨርስቲ"
+        ],
+        "latitude": 11.184067,
+        "longitude": 39.616959,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8068501",
+        "name": "Zega Business College",
+        "short_name": null,
+        "official_website": "http:\/\/www.cuc.edu.et",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

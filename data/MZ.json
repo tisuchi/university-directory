@@ -1,0 +1,354 @@
+[
+    {
+        "wikidata_id": "Q21485202",
+        "name": "Boane Agricultural Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -26.0469,
+        "longitude": 32.33247,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q650358",
+        "name": "Catholic University of Mozambique",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucm.ac.mz\/",
+        "aliases": [
+            "ucm.ac.mz"
+        ],
+        "latitude": -19.8473,
+        "longitude": 34.8654,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q890884",
+        "name": "Eduardo Mondlane University",
+        "short_name": null,
+        "official_website": "https:\/\/uem.mz\/",
+        "aliases": [
+            "UEM",
+            "uem.mz",
+            "Universidade Eduardo Mondlane"
+        ],
+        "latitude": -25.949357,
+        "longitude": 32.598775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q34067758",
+        "name": "Escola Comercial e Industrial 1 de Maio",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -17.8743509,
+        "longitude": 36.888974,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q55264635",
+        "name": "Escola de Artes e Ofícios (Beira)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -19.839497,
+        "longitude": 34.842458,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10317942",
+        "name": "Escola Secundária Francisco Manyanga",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -25.96266,
+        "longitude": 32.56477,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q33138007",
+        "name": "Escola Técnica Elementar de Inhambane",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q34004168",
+        "name": "Escola-Instituto Industrial e Comercial 3 de Fevereiro",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -15.12122,
+        "longitude": 39.2668,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100955845",
+        "name": "Instituto Superior de Ciências de Educação à Distância",
+        "short_name": null,
+        "official_website": "https:\/\/isced.co\/",
+        "aliases": [
+            "ISCED",
+            "isced.co"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294207",
+        "name": "Instituto Superior de Ciências e Tecnologia de Moçambique",
+        "short_name": null,
+        "official_website": "http:\/\/isctem.ac.mz\/",
+        "aliases": [
+            "Higher Institute of Science and Technology of Mozambique",
+            "ISCTEM",
+            "isctem.ac.mz"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294237",
+        "name": "Instituto Superior Politecnico de Tete",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ISPT"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30294199",
+        "name": "Instituto Superior Politécnico de Gaza",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ISPG"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302679",
+        "name": "Instituto Superior Politécnico de Manica",
+        "short_name": null,
+        "official_website": "http:\/\/www.ispm.ac.mz\/",
+        "aliases": [
+            "ISPM"
+        ],
+        "latitude": -19.0435694,
+        "longitude": 33.4012222,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30294236",
+        "name": "Instituto Superior Politécnico de Tecnologia e Humanidades Ekuikui II",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ISPS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20968825",
+        "name": "Joaquim Chissano University",
+        "short_name": null,
+        "official_website": "http:\/\/isri3.ix.co.mz",
+        "aliases": [
+            "Instituto Superior de Relações Internacionais",
+            "UJC",
+            "Universidade Joaquim Chissano"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q76735919",
+        "name": "Licungo University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UniLicungo"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10387849",
+        "name": "Lúrio University",
+        "short_name": null,
+        "official_website": "http:\/\/www.unilurio.ac.mz",
+        "aliases": [
+            "UniLúrio"
+        ],
+        "latitude": -15.1277,
+        "longitude": 39.2225,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q290662",
+        "name": "Maputo University",
+        "short_name": null,
+        "official_website": "http:\/\/www.up.ac.mz",
+        "aliases": [
+            "UM",
+            "Maputo Pedagogical University",
+            "Pedagogical University",
+            "UniMaputo",
+            "up.ac.mz"
+        ],
+        "latitude": -25.97352,
+        "longitude": 32.58513,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q34000155",
+        "name": "Nampula secondary school",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -15.12052,
+        "longitude": 39.26815,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7093426",
+        "name": "One World University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125852224",
+        "name": "Pemba Secondary School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -12.9619876,
+        "longitude": 40.498462,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125922025",
+        "name": "Polana Secondary School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -25.9636177,
+        "longitude": 32.5955948,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q76737826",
+        "name": "Púnguè University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UniPúnguè"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q56354503",
+        "name": "Q56354503",
+        "short_name": null,
+        "official_website": "http:\/\/www.iese.ac.mz\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20058950",
+        "name": "Samora Machel secundary school",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Pêro de Anaia High School"
+        ],
+        "latitude": -19.831374,
+        "longitude": 34.854417,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20060561",
+        "name": "Save University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UniSave",
+            "Universidade Save"
+        ],
+        "latitude": -25.0195556,
+        "longitude": 33.7971667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116948645",
+        "name": "Universidade Alberto Chipande",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Alberto Chipande University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q76737841",
+        "name": "Universidade Rovuma",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Rovuma University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294228",
+        "name": "Universidade Técnica de Moçambique",
+        "short_name": null,
+        "official_website": "https:\/\/udm.ac.mz\/",
+        "aliases": [
+            "UDM",
+            "Technical University of Mozambique"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18467864",
+        "name": "Zambezi University",
+        "short_name": null,
+        "official_website": "http:\/\/www.unizambeze.ac.mz\/",
+        "aliases": [
+            "gfar.net",
+            "UniZambeze"
+        ],
+        "latitude": -19.83219,
+        "longitude": 34.862772,
+        "type": "university"
+    }
+]

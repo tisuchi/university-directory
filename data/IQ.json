@@ -1,0 +1,1629 @@
+[
+    {
+        "wikidata_id": "Q4695210",
+        "name": "Ahlulbait University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.ahlulbaitonline.com\/karbala\/",
+        "aliases": null,
+        "latitude": 32.6415217,
+        "longitude": 43.9945133,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q26856065",
+        "name": "Al Mamoon",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 33.29949,
+        "longitude": 44.32561,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4704378",
+        "name": "Al Mansour University College",
+        "short_name": null,
+        "official_website": "https:\/\/www.muc.edu.iq",
+        "aliases": null,
+        "latitude": 33.315,
+        "longitude": 44.4283333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4704691",
+        "name": "Al Rasheed University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.alrasheed-uc.net\/",
+        "aliases": null,
+        "latitude": 33.2847222,
+        "longitude": 44.3094444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4705001",
+        "name": "Al Yarmouk University College",
+        "short_name": null,
+        "official_website": "http:\/\/al-yarmok.com",
+        "aliases": null,
+        "latitude": 33.3,
+        "longitude": 44.4444444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q54874667",
+        "name": "Al-Ameen University",
+        "short_name": null,
+        "official_website": "https:\/\/alameen.edu.iq\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q54874669",
+        "name": "Al-Ayen University",
+        "short_name": null,
+        "official_website": "https:\/\/www.alayen.edu.iq",
+        "aliases": null,
+        "latitude": 31.0676023,
+        "longitude": 46.2608494,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130478447",
+        "name": "Al-Esraa University College",
+        "short_name": null,
+        "official_website": "https:\/\/www.esraa.edu.iq\/",
+        "aliases": [
+            "Al-Esraa University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450402",
+        "name": "Al-Farabi University College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 33.2589247,
+        "longitude": 44.4055264,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450401",
+        "name": "al-Farahidi University",
+        "short_name": null,
+        "official_website": "https:\/\/uoalfarahidi.edu.iq\/",
+        "aliases": null,
+        "latitude": 33.27035,
+        "longitude": 44.360969,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4702441",
+        "name": "Al-Hadba University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Al Hadbaa University"
+        ],
+        "latitude": 36.34456,
+        "longitude": 43.14462,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450690",
+        "name": "Al-Hadi University College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 33.2261716,
+        "longitude": 44.406284,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4702513",
+        "name": "Al-Hikma University",
+        "short_name": null,
+        "official_website": "http:\/\/alhikma-iq.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450394",
+        "name": "Al-Kitab University",
+        "short_name": null,
+        "official_website": "https:\/\/www.uoalkitab.edu.iq\/",
+        "aliases": null,
+        "latitude": 35.7600806,
+        "longitude": 44.1553121,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450403",
+        "name": "Al-Kunooze University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Al-Kunooze University College"
+        ],
+        "latitude": 30.5331369,
+        "longitude": 47.8076409,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q114756495",
+        "name": "Al-Maaqal University",
+        "short_name": null,
+        "official_website": "https:\/\/almaaqal.edu.iq\/",
+        "aliases": null,
+        "latitude": 30.5571044,
+        "longitude": 47.7965301,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130543674",
+        "name": "al-Mirbad University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.410556,
+        "longitude": 47.722875,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q310842",
+        "name": "Al-Mustansiriya University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uomustansiriyah.edu.iq",
+        "aliases": [
+            "Mustansiriya University"
+        ],
+        "latitude": 33.3669473,
+        "longitude": 44.3996353,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450310",
+        "name": "Al-Mustaqbal University",
+        "short_name": null,
+        "official_website": "https:\/\/www.uomus.edu.iq\/",
+        "aliases": null,
+        "latitude": 32.396567,
+        "longitude": 44.4042888,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4702996",
+        "name": "Al-Muthana University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uoalmuthana.edu.iq",
+        "aliases": null,
+        "latitude": 31.3386111,
+        "longitude": 45.2888889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450407",
+        "name": "Al-Nisour University",
+        "short_name": null,
+        "official_website": "https:\/\/nuc.edu.iq\/en\/",
+        "aliases": [
+            "Al-Nisour University College",
+            "Nisour University",
+            "University of Nisour"
+        ],
+        "latitude": 33.304367,
+        "longitude": 44.35539,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450382",
+        "name": "Al-Qalam University College",
+        "short_name": null,
+        "official_website": "https:\/\/alqalam.edu.iq",
+        "aliases": null,
+        "latitude": 35.4824739,
+        "longitude": 44.465766,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16121188",
+        "name": "Al-Qasim Green University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130478582",
+        "name": "Al-Safwa University College",
+        "short_name": null,
+        "official_website": "https:\/\/www.alsafwa.edu.iq\/",
+        "aliases": [
+            "Al Safwa University College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4704901",
+        "name": "Al-Turath University",
+        "short_name": null,
+        "official_website": "https:\/\/uoturath.edu.iq\/",
+        "aliases": null,
+        "latitude": 33.3184627,
+        "longitude": 44.3607596,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q79468205",
+        "name": "Al-Zahraa University for Women",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450349",
+        "name": "Al-Zahrawi University",
+        "short_name": null,
+        "official_website": "https:\/\/www.alzahu.edu.iq\/",
+        "aliases": null,
+        "latitude": 32.5192325,
+        "longitude": 44.1192925,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28715338",
+        "name": "Albayan University",
+        "short_name": null,
+        "official_website": "https:\/\/albayan.edu.iq\/",
+        "aliases": [
+            "Al-bayan University",
+            "Al-Bayan University"
+        ],
+        "latitude": 33.2844746,
+        "longitude": 44.2819447,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42332086",
+        "name": "AlManara University",
+        "short_name": null,
+        "official_website": "https:\/\/uomanara.edu.iq\/",
+        "aliases": [
+            "University of Manara"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450337",
+        "name": "Alnoor University",
+        "short_name": null,
+        "official_website": "https:\/\/alnoor.edu.iq\/",
+        "aliases": [
+            "Al-Noor University",
+            "Al noor University"
+        ],
+        "latitude": 36.3507739,
+        "longitude": 43.3663946,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4735687",
+        "name": "Alrafidain University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.coalrafidain.edu.iq",
+        "aliases": null,
+        "latitude": 33.3641667,
+        "longitude": 44.4072222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107675529",
+        "name": "American University of Iraq - Baghdad",
+        "short_name": null,
+        "official_website": "https:\/\/auib.edu.iq\/",
+        "aliases": null,
+        "latitude": 33.284564,
+        "longitude": 44.2564836,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18162019",
+        "name": "American University of Kurdistan",
+        "short_name": null,
+        "official_website": "http:\/\/audk.edu.krd\/",
+        "aliases": [
+            "American University - Duhok",
+            "AUK"
+        ],
+        "latitude": 36.8614389,
+        "longitude": 42.861675,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130473927",
+        "name": "Ashur University",
+        "short_name": null,
+        "official_website": "https:\/\/au.edu.iq\/",
+        "aliases": [
+            "AU",
+            "Ashur University College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4841812",
+        "name": "Baghdad College for Economic Sciences University",
+        "short_name": null,
+        "official_website": "http:\/\/baghdadcollege.edu.iq\/",
+        "aliases": null,
+        "latitude": 33.3408333,
+        "longitude": 44.3347222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1448977",
+        "name": "Baghdad Pharmacy College",
+        "short_name": null,
+        "official_website": "http:\/\/www.bpc.edu.iq\/pharmacy\/index.php?lang=en",
+        "aliases": null,
+        "latitude": 33.3497143,
+        "longitude": 44.382707,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q26856062",
+        "name": "Basrah Technical College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.45567,
+        "longitude": 47.77166,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450518",
+        "name": "Bayan University",
+        "short_name": null,
+        "official_website": "https:\/\/bnu.edu.iq",
+        "aliases": [
+            "Bayan University-Erbil",
+            "BNU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450410",
+        "name": "Bilad Alrafidain University College",
+        "short_name": null,
+        "official_website": "https:\/\/bauc14.edu.iq",
+        "aliases": [
+            "BAUC",
+            "Bilad Alrafidain University"
+        ],
+        "latitude": 33.7790458,
+        "longitude": 44.6028479,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28221491",
+        "name": "Catholic University in Erbil",
+        "short_name": "CUE",
+        "official_website": "http:\/\/www.cue.edu.krd",
+        "aliases": [
+            "CUE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450431",
+        "name": "Charmo University",
+        "short_name": null,
+        "official_website": "https:\/\/chu.edu.iq",
+        "aliases": [
+            "ChU",
+            "زانکۆی چەرموو"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106916672",
+        "name": "Cihan University-Duhok",
+        "short_name": null,
+        "official_website": "http:\/\/duhokcihan.edu.krd\/",
+        "aliases": [
+            "Cihan University"
+        ],
+        "latitude": 36.8784211,
+        "longitude": 42.8868742,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18347698",
+        "name": "Cihan University-Erbil",
+        "short_name": null,
+        "official_website": "http:\/\/www.cihanuniversity.edu.iq\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74551479",
+        "name": "College of Agriculture – University of Baghdad.",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528117",
+        "name": "college of agriculture-University of Al-Qadisiya",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74550123",
+        "name": "college of Education for pure Science Ibn Al Haitham",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552579",
+        "name": "College of Engineering, Al-Nahrain University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12235873",
+        "name": "College of Imam Al-Adham Abu Hanifa A -Nu'man",
+        "short_name": null,
+        "official_website": "http:\/\/www.imamaladham.edu.iq",
+        "aliases": [
+            "The Great imam university College"
+        ],
+        "latitude": 33.3722771,
+        "longitude": 44.357446,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q22689357",
+        "name": "College of Imam Al-Kadhim",
+        "short_name": null,
+        "official_website": "http:\/\/www.alkadhum-col.edu.iq\/",
+        "aliases": null,
+        "latitude": 33.3779399,
+        "longitude": 44.4228469,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q4120429",
+        "name": "Dijla University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.duc.edu.iq\/",
+        "aliases": null,
+        "latitude": 33.2613667,
+        "longitude": 44.4129565,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20181523",
+        "name": "Dohuk Polytechnic University",
+        "short_name": null,
+        "official_website": "http:\/\/dpu.edu.krd\/",
+        "aliases": [
+            "DPU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q26856052",
+        "name": "Duhok Technical Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 36.86137,
+        "longitude": 42.98034,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q114756355",
+        "name": "Gilgamesh University",
+        "short_name": null,
+        "official_website": "https:\/\/www.gau.edu.iq\/index.html",
+        "aliases": [
+            "https:\/\/gau.edu.iq\/"
+        ],
+        "latitude": 33.2224223,
+        "longitude": 44.3888203,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3666590",
+        "name": "Hawler Medical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hmu.edu.krd",
+        "aliases": [
+            "HMU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125055038",
+        "name": "Hayat Private University for Science & Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450384",
+        "name": "Hilla University College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.3234136,
+        "longitude": 44.3867591,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204403",
+        "name": "Imam Ja'afar Al-Sadiq University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 33.3768166,
+        "longitude": 44.3961627,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23308948",
+        "name": "International University of Erbil",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111937424",
+        "name": "International University of Erbil",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204410",
+        "name": "Iraqi Defense University for Military Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12235872",
+        "name": "Iraqi staff college",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6068104",
+        "name": "Iraqi University",
+        "short_name": null,
+        "official_website": "http:\/\/www.iubaghdad.edu.iq",
+        "aliases": null,
+        "latitude": 33.4011111,
+        "longitude": 44.3583333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6082651",
+        "name": "Islamic University of Najaf",
+        "short_name": null,
+        "official_website": "https:\/\/iunajaf.edu.iq",
+        "aliases": [
+            "Islamic University College"
+        ],
+        "latitude": 32.013272,
+        "longitude": 44.360216,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q26856078",
+        "name": "Karbala Technical Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.5754,
+        "longitude": 44.1732,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q38916258",
+        "name": "Knowledge University",
+        "short_name": null,
+        "official_website": "https:\/\/knu.edu.iq",
+        "aliases": [
+            "knu"
+        ],
+        "latitude": 36.113511,
+        "longitude": 44.045642,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23308978",
+        "name": "knowledge university",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22081778",
+        "name": "Komar University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.komar.edu.iq\/",
+        "aliases": [
+            "KUST"
+        ],
+        "latitude": 35.5921863,
+        "longitude": 45.3619602,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1450490",
+        "name": "Koya University",
+        "short_name": null,
+        "official_website": "http:\/\/www.koyauniversity.org",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450393",
+        "name": "Kullīyat al-Isrāʼ al-Jāmiʻah",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 33.3166431,
+        "longitude": 44.4267993,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12236072",
+        "name": "Kut University College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.4197649,
+        "longitude": 45.9293408,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4836010",
+        "name": "Lebanese French University",
+        "short_name": null,
+        "official_website": "https:\/\/lfu.edu.krd\/",
+        "aliases": [
+            "LFU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6727119",
+        "name": "Madenat Alelem University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.madenatalelem.com",
+        "aliases": [
+            "Science City University College"
+        ],
+        "latitude": 33.3942932,
+        "longitude": 44.3082036,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q110499462",
+        "name": "Mashreq University",
+        "short_name": null,
+        "official_website": "https:\/\/www.uom.edu.iq\/",
+        "aliases": null,
+        "latitude": 33.2744708,
+        "longitude": 44.2709889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23048583",
+        "name": "Middle Technical University",
+        "short_name": null,
+        "official_website": "https:\/\/www.mtu.edu.iq\/",
+        "aliases": [
+            "MTU"
+        ],
+        "latitude": 33.3195317,
+        "longitude": 44.3654852,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q37765",
+        "name": "Nahrain University",
+        "short_name": null,
+        "official_website": "https:\/\/nahrainuniv.edu.iq\/",
+        "aliases": [
+            "Al-Nahrain University",
+            "Saddam University"
+        ],
+        "latitude": 33.278,
+        "longitude": 44.376,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450689",
+        "name": "National University of Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/nust.edu.iq",
+        "aliases": [
+            "National University of Science and Technology, Iraq",
+            "NUST"
+        ],
+        "latitude": 31.0439984,
+        "longitude": 46.2706724,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204548",
+        "name": "Nawroz University",
+        "short_name": null,
+        "official_website": "http:\/\/web.nawroz.edu.krd",
+        "aliases": [
+            "University Of Nawroz"
+        ],
+        "latitude": 36.860566,
+        "longitude": 42.896437,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450390",
+        "name": "Osol Aldeen University College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 33.3546045,
+        "longitude": 44.3873937,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109840266",
+        "name": "Q109840266",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q114757071",
+        "name": "Q114757071",
+        "short_name": null,
+        "official_website": "https:\/\/www.meuc.edu.iq\/",
+        "aliases": null,
+        "latitude": 33.3085184,
+        "longitude": 44.2025198,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115012701",
+        "name": "Q115012701",
+        "short_name": null,
+        "official_website": "https:\/\/coagri.uobaghdad.edu.iq\/",
+        "aliases": null,
+        "latitude": 33.268799,
+        "longitude": 44.379015,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12211271",
+        "name": "Q12211271",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12236028",
+        "name": "Q12236028",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.5145374,
+        "longitude": 47.8434029,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12236151",
+        "name": "Q12236151",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q16123213",
+        "name": "Q16123213",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 33.3009052,
+        "longitude": 44.3385281,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16123227",
+        "name": "Q16123227",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.4977202,
+        "longitude": 47.8288691,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22689359",
+        "name": "Q22689359",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22689360",
+        "name": "Q22689360",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450302",
+        "name": "Q25450302",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 33.298357,
+        "longitude": 44.3421869,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450311",
+        "name": "Q25450311",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.6238744,
+        "longitude": 44.0065784,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450385",
+        "name": "Q25450385",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.5069353,
+        "longitude": 44.1327979,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450392",
+        "name": "Q25450392",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 33.3616081,
+        "longitude": 44.3998655,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450404",
+        "name": "Q25450404",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.6026286,
+        "longitude": 44.0461509,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450405",
+        "name": "Q25450405",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 33.3131427,
+        "longitude": 44.3581577,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450406",
+        "name": "Q25450406",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.9998958,
+        "longitude": 44.3285556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450680",
+        "name": "Q25450680",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 33.2933511,
+        "longitude": 44.4034616,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q26856070",
+        "name": "Q26856070",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 33.37028,
+        "longitude": 44.38151,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q26856076",
+        "name": "Q26856076",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.568,
+        "longitude": 47.749,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q40378891",
+        "name": "Q40378891",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5942573",
+        "name": "Q5942573",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.616367,
+        "longitude": 44.032303,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6862113",
+        "name": "Q6862113",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7184253",
+        "name": "Q7184253",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q369629",
+        "name": "Salahaddin University-Erbil",
+        "short_name": null,
+        "official_website": "https:\/\/su.edu.krd\/",
+        "aliases": [
+            "SUE",
+            "Salahaddin University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125497428",
+        "name": "Sawa University",
+        "short_name": null,
+        "official_website": "https:\/\/www.sawauniversity.edu.iq\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7490673",
+        "name": "Shatt Al-Arab University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.sa-cu.net\/",
+        "aliases": null,
+        "latitude": 30.5441667,
+        "longitude": 47.7883333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7492948",
+        "name": "Sheikh Mohammed Al Kasinzan University College",
+        "short_name": null,
+        "official_website": "https:\/\/alsalam.edu.iq",
+        "aliases": null,
+        "latitude": 33.2287083,
+        "longitude": 44.3696594,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15261242",
+        "name": "Slemani Polytechnic University",
+        "short_name": null,
+        "official_website": "http:\/\/www.spu.edu.iq\/ku\/",
+        "aliases": [
+            "Sulaimani Polytechnic University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7563285",
+        "name": "Soran University",
+        "short_name": null,
+        "official_website": "http:\/\/www.soran.edu.iq\/",
+        "aliases": null,
+        "latitude": 36.6968,
+        "longitude": 44.5289,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450428",
+        "name": "Southern Technical University",
+        "short_name": null,
+        "official_website": "https:\/\/www.stu.edu.iq\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22687006",
+        "name": "Sumer University",
+        "short_name": null,
+        "official_website": "https:\/\/uos.edu.iq\/",
+        "aliases": [
+            "University of Sumer"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124363130",
+        "name": "Sumerian Scriptum Synthesis Publisher",
+        "short_name": null,
+        "official_website": "https:\/\/www.sss-publisher.com\/",
+        "aliases": [
+            "SSSP"
+        ],
+        "latitude": 33.7516667,
+        "longitude": 44.6444444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4115450",
+        "name": "The American University of Iraq, Sulaimani",
+        "short_name": null,
+        "official_website": "http:\/\/auis.edu.iq\/",
+        "aliases": [
+            "AUIS",
+            "American University of Iraq slemani",
+            "American University of Iraq, Sulaimani"
+        ],
+        "latitude": 35.573149,
+        "longitude": 45.3534492,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6080223",
+        "name": "Tishk International University",
+        "short_name": null,
+        "official_website": "https:\/\/tiu.edu.iq\/",
+        "aliases": [
+            "Ishik University",
+            "Tishk University"
+        ],
+        "latitude": 36.169547,
+        "longitude": 43.95729,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q54874671",
+        "name": "University of Al-Ameed",
+        "short_name": null,
+        "official_website": "https:\/\/alameed.edu.iq\/",
+        "aliases": [
+            "Al-Ameed University"
+        ],
+        "latitude": 32.5582421,
+        "longitude": 44.0739446,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450318",
+        "name": "University of Al-Hamdaniya",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12236075",
+        "name": "University of Al-Ma'mun",
+        "short_name": null,
+        "official_website": "http:\/\/www.almamonuc.org\/",
+        "aliases": [
+            "Al Mamon University College",
+            "Al-Ma'moon College",
+            "Al-Mamoon University"
+        ],
+        "latitude": 33.337733,
+        "longitude": 44.339853,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4704329",
+        "name": "University of AL-Maarif",
+        "short_name": null,
+        "official_website": "http:\/\/www.auc-edu.org\/",
+        "aliases": null,
+        "latitude": 33.4310097,
+        "longitude": 43.3372472,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4120068",
+        "name": "University of Al-Qadisiyah",
+        "short_name": null,
+        "official_website": "http:\/\/www.qadissuni.edu.iq\/",
+        "aliases": [
+            "University of Al-Qadisiya"
+        ],
+        "latitude": 32.0006,
+        "longitude": 44.8786,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5939496",
+        "name": "University of Alkafeel",
+        "short_name": null,
+        "official_website": "http:\/\/en.uch.edu.iq\/",
+        "aliases": [
+            "Humanitarian Studies University College"
+        ],
+        "latitude": 32.0686344,
+        "longitude": 44.2901682,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7492970",
+        "name": "University of Altoosi",
+        "short_name": null,
+        "official_website": "https:\/\/altoosi.edu.iq\/ar\/",
+        "aliases": [
+            "Altoosi University College",
+            "Sheikh Tusi University College",
+            "Altoosi University"
+        ],
+        "latitude": 31.998097,
+        "longitude": 44.3368766,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895053",
+        "name": "University of Anbar",
+        "short_name": null,
+        "official_website": "http:\/\/www.uoanbar.edu.iq\/",
+        "aliases": null,
+        "latitude": 33.4027,
+        "longitude": 43.2623,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895102",
+        "name": "University of Babylon",
+        "short_name": null,
+        "official_website": "https:\/\/www.uobabylon.edu.iq\/",
+        "aliases": null,
+        "latitude": 32.3927,
+        "longitude": 44.4013,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q550376",
+        "name": "University of Baghdad",
+        "short_name": null,
+        "official_website": "http:\/\/www.uobaghdad.edu.iq",
+        "aliases": [
+            "Baghdad University"
+        ],
+        "latitude": 33.2701111,
+        "longitude": 44.3817194,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1477607",
+        "name": "University of Basrah",
+        "short_name": null,
+        "official_website": "http:\/\/www.uobasrah.edu.iq",
+        "aliases": [
+            "Jāmi'at Al Basrah"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4120041",
+        "name": "University of Diyala",
+        "short_name": null,
+        "official_website": "http:\/\/www.uodiyala.edu.iq",
+        "aliases": null,
+        "latitude": 33.6789,
+        "longitude": 44.5983,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3666468",
+        "name": "University of Duhok",
+        "short_name": null,
+        "official_website": "http:\/\/uod.ac",
+        "aliases": [
+            "UoD",
+            "University of Dohuk",
+            "UoD Malta Campus"
+        ],
+        "latitude": 36.8592422,
+        "longitude": 42.9216828,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012635",
+        "name": "University of Duhok School of Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22686995",
+        "name": "University of Fallujah",
+        "short_name": null,
+        "official_website": "http:\/\/uofallujah.edu.iq\/",
+        "aliases": null,
+        "latitude": 33.357192,
+        "longitude": 43.793413,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21714634",
+        "name": "University of Halabja",
+        "short_name": null,
+        "official_website": "http:\/\/uoh.edu.iq",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5989870",
+        "name": "University of Human Development",
+        "short_name": null,
+        "official_website": "http:\/\/uhd.edu.iq\/en\/",
+        "aliases": [
+            "UHD"
+        ],
+        "latitude": 35.52931,
+        "longitude": 45.495838,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22933983",
+        "name": "University of Information Technology and Communication",
+        "short_name": null,
+        "official_website": "http:\/\/uoitc.edu.iq\/",
+        "aliases": [
+            "UOITC",
+            "University of Information Technology and Communications"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4120426",
+        "name": "University of Karbala",
+        "short_name": null,
+        "official_website": "http:\/\/www.uokerbala.edu.iq",
+        "aliases": null,
+        "latitude": 32.6092,
+        "longitude": 44.0031,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4115996",
+        "name": "University of Kirkuk",
+        "short_name": null,
+        "official_website": "http:\/\/uokirkuk.edu.iq",
+        "aliases": null,
+        "latitude": 35.44607,
+        "longitude": 44.3796,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4120419",
+        "name": "University of Kufa",
+        "short_name": null,
+        "official_website": "https:\/\/uokufa.edu.iq\/?lang=en",
+        "aliases": null,
+        "latitude": 32.0196,
+        "longitude": 44.3761,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3668446",
+        "name": "University of Kurdistan Hewler",
+        "short_name": null,
+        "official_website": "https:\/\/www.ukh.edu.krd\/",
+        "aliases": [
+            "University of Kurdistan – Hawler"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012638",
+        "name": "University of Kurdistan Hewler School of Science and Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012639",
+        "name": "University of Kurdistan Hewler School of Social Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895817",
+        "name": "University of Misan",
+        "short_name": null,
+        "official_website": "http:\/\/www.uomisan.edu.iq",
+        "aliases": null,
+        "latitude": 31.8108,
+        "longitude": 47.1758,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2743336",
+        "name": "University of Mosul",
+        "short_name": null,
+        "official_website": "http:\/\/www.uomosul.edu.iq\/",
+        "aliases": null,
+        "latitude": 36.3764806,
+        "longitude": 43.1421889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012653",
+        "name": "University of Mosul Department of Geology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5990205",
+        "name": "University of Raparin",
+        "short_name": null,
+        "official_website": "http:\/\/www.raparinuni.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204493",
+        "name": "University of Samarra",
+        "short_name": null,
+        "official_website": "http:\/\/uosamarra.edu.iq\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3666593",
+        "name": "University of Sulaymaniyah",
+        "short_name": null,
+        "official_website": "http:\/\/univsul.edu.iq",
+        "aliases": [
+            "University of Sulaimani",
+            "University_of_Sulaymaniyah"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4120423",
+        "name": "University of Technology, Iraq",
+        "short_name": null,
+        "official_website": "http:\/\/www.uotechnology.edu.iq",
+        "aliases": [
+            "University of Technology, Baghdad"
+        ],
+        "latitude": 33.31132,
+        "longitude": 44.4475,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1532864",
+        "name": "University of Thi Qar",
+        "short_name": null,
+        "official_website": "https:\/\/utq.edu.iq",
+        "aliases": null,
+        "latitude": 31.0506,
+        "longitude": 46.2208,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896464",
+        "name": "University of Tikrit",
+        "short_name": null,
+        "official_website": "http:\/\/www.tu.edu.iq\/en\/",
+        "aliases": null,
+        "latitude": 34.6808,
+        "longitude": 43.6548,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q40378878",
+        "name": "University of Warith Al-Anbiyaa",
+        "short_name": null,
+        "official_website": "https:\/\/uowa.edu.iq\/",
+        "aliases": [
+            "University of Warith Alanbiyaa",
+            "UOWA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4120037",
+        "name": "University of Wasit",
+        "short_name": null,
+        "official_website": "http:\/\/www.uowasit.edu.iq\/",
+        "aliases": [
+            "Wassit University"
+        ],
+        "latitude": 32.5002,
+        "longitude": 45.8385,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896677",
+        "name": "University of Zakho",
+        "short_name": null,
+        "official_website": "http:\/\/www.uoz.edu.krd",
+        "aliases": [
+            "UoZ",
+            "Zakho University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25450682",
+        "name": "Uruk University",
+        "short_name": null,
+        "official_website": "https:\/\/uruk.edu.iq\/",
+        "aliases": null,
+        "latitude": 33.3088022,
+        "longitude": 44.4396216,
+        "type": "university"
+    }
+]

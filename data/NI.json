@@ -1,0 +1,312 @@
+[
+    {
+        "wikidata_id": "Q4827946",
+        "name": "Ave Maria University-Latin American Campus",
+        "short_name": null,
+        "official_website": "http:\/\/www.keiseruniversity.edu.ni",
+        "aliases": null,
+        "latitude": 11.907165,
+        "longitude": -86.204817,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18358754",
+        "name": "Bluefields Indian and Caribbean University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bicu.edu.ni",
+        "aliases": [
+            "BICU",
+            "bicu.edu.ni"
+        ],
+        "latitude": 12.006446,
+        "longitude": -83.770908,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q121768158",
+        "name": "Casimiro Sotelo Montenegro National University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Universidad Nacional Casimiro Sotelo Montenegro"
+        ],
+        "latitude": 12.1252778,
+        "longitude": -86.2719444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156405",
+        "name": "Catholic University of Dry Tropic Farming and Livestock",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucatse.edu.ni",
+        "aliases": null,
+        "latitude": 13.2475417,
+        "longitude": -86.3731306,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16256657",
+        "name": "Catholic University Redemptoris Mater",
+        "short_name": null,
+        "official_website": "http:\/\/www.unica.edu.ni",
+        "aliases": null,
+        "latitude": 12.08277,
+        "longitude": -86.23039,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74556017",
+        "name": "Centro de Investigación en Ciencias Agrarias y Economia Aplicada",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q117188210",
+        "name": "CUUN",
+        "short_name": null,
+        "official_website": "https:\/\/cuun.unanleon.edu.ni\/",
+        "aliases": [
+            "CUUN - UNEN"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7090129",
+        "name": "Estación Biológica",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Estación Biológica Ometepe",
+            "Ometepe Biological Field School"
+        ],
+        "latitude": 11.4162999,
+        "longitude": -85.5398165,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2537246",
+        "name": "Institute of History of Nicaragua and Central America",
+        "short_name": null,
+        "official_website": "http:\/\/www.ihnca.edu.ni",
+        "aliases": null,
+        "latitude": 12.129444,
+        "longitude": -86.268889,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6465575",
+        "name": "La Universidad Americana",
+        "short_name": null,
+        "official_website": "http:\/\/www.uam.edu.ni",
+        "aliases": null,
+        "latitude": 12.1086,
+        "longitude": -86.257,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q495504",
+        "name": "National Autonomous University of Nicaragua",
+        "short_name": null,
+        "official_website": "https:\/\/www.unan.edu.ni\/",
+        "aliases": [
+            "UNAN-M",
+            "unan.edu.ni",
+            "Universidad Nacional Autónoma de Nicaragua-Managua",
+            "Universidad Nacional Autónoma de Nicaragua, Managua"
+        ],
+        "latitude": 12.4368303,
+        "longitude": -86.8790283,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6155017",
+        "name": "National Autonomous University of Nicaragua at León",
+        "short_name": null,
+        "official_website": "https:\/\/www.unanleon.edu.ni\/",
+        "aliases": [
+            "National Autonomous University of Nicaragua-León",
+            "UNAN-L",
+            "unanleon.edu.ni"
+        ],
+        "latitude": 12.4368361,
+        "longitude": -86.879025,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6448639",
+        "name": "Nicaraguan Institute for Territorial Studies",
+        "short_name": null,
+        "official_website": "https:\/\/www.ineter.gob.ni\/",
+        "aliases": [
+            "INETER"
+        ],
+        "latitude": 12.1491056,
+        "longitude": -86.2479417,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17042706",
+        "name": "Nicaraguan University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucyt.edu.ni",
+        "aliases": [
+            "Universidad Nicaragüense de Ciencia y Tecnologia"
+        ],
+        "latitude": 12.13602,
+        "longitude": -86.22924,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7227040",
+        "name": "Polytechnic University of Nicaragua",
+        "short_name": null,
+        "official_website": "http:\/\/www.upoli.edu.ni\/",
+        "aliases": null,
+        "latitude": 12.1377854,
+        "longitude": -86.2207728,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17085960",
+        "name": "Popular University of Nicaragua",
+        "short_name": null,
+        "official_website": "http:\/\/www.uponic.edu.ni",
+        "aliases": null,
+        "latitude": 12.12812,
+        "longitude": -86.22946,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16968756",
+        "name": "Thomas More Universitas",
+        "short_name": null,
+        "official_website": "http:\/\/www.unithomasmore.edu.ni",
+        "aliases": null,
+        "latitude": 12.10154,
+        "longitude": -86.26508,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894291",
+        "name": "UNAN",
+        "short_name": null,
+        "official_website": "http:\/\/www.una.edu.ni",
+        "aliases": [
+            "UNA",
+            "una.edu.ni",
+            "UNAN Matagalpa",
+            "Universidad Nacional Agraria",
+            "Universidad Nacional Agraria Nicaragua"
+        ],
+        "latitude": 12.9235749,
+        "longitude": -85.9222955,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894255",
+        "name": "Universidad Central de Nicaragua",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucn.edu.ni\/",
+        "aliases": null,
+        "latitude": 12.1268673,
+        "longitude": -86.303594,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21054815",
+        "name": "Universidad Centro Americana",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 12.12566,
+        "longitude": -86.27126,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894322",
+        "name": "Universidad de Ciencias Comerciales",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucc.edu.ni",
+        "aliases": null,
+        "latitude": 12.1232,
+        "longitude": -86.25246,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894299",
+        "name": "Universidad Nacional Autónoma de Nicaragua",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UNAN",
+            "UNAN Managua",
+            "Universidad Nacional Autónoma de Nicaragua de Managua"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3847544",
+        "name": "Universidad Nacional de Ingeniería",
+        "short_name": null,
+        "official_website": "http:\/\/www.uni.edu.ni",
+        "aliases": [
+            "UNI",
+            "uni.edu.ni",
+            "Universidad Nacional de Ingenieria"
+        ],
+        "latitude": 12.13182,
+        "longitude": -86.26982,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894304",
+        "name": "Universidad Paulo Freire",
+        "short_name": null,
+        "official_website": "http:\/\/www.upf.edu.ni",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17088221",
+        "name": "Universidad Politécnica de Nicaragua Internacional",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896692",
+        "name": "University of the Autonomous Regions of the Nicaraguan Caribbean Coast",
+        "short_name": null,
+        "official_website": "https:\/\/www.uraccan.edu.ni",
+        "aliases": [
+            "URACCAN",
+            "uraccan.edu.ni"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17632387",
+        "name": "University of the Valley Nicaragua",
+        "short_name": null,
+        "official_website": "http:\/\/www.univalle.edu.ni\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

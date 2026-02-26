@@ -1,0 +1,3235 @@
+[
+    {
+        "wikidata_id": "Q130802517",
+        "name": "Aaron Institute for Economic Policy",
+        "short_name": null,
+        "official_website": "https:\/\/www.runi.ac.il\/research-institutes\/economics\/aiep\/policy-papers\/",
+        "aliases": null,
+        "latitude": 32.175558,
+        "longitude": 34.8350691,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q55649500",
+        "name": "Abba Eban Institute for Diplomacy and Foreign Relations",
+        "short_name": null,
+        "official_website": "https:\/\/www.abbaeban.idc.ac.il\/",
+        "aliases": null,
+        "latitude": 32.1753868,
+        "longitude": 34.8354394,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q138005831",
+        "name": "Acc Grannot",
+        "short_name": null,
+        "official_website": "https:\/\/www.acc-grannot.com\/",
+        "aliases": null,
+        "latitude": 32.0744561,
+        "longitude": 34.795623,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q2909288",
+        "name": "Achva Academic College",
+        "short_name": null,
+        "official_website": "https:\/\/www.achva.ac.il\/",
+        "aliases": null,
+        "latitude": 31.744245,
+        "longitude": 34.774046,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q4686016",
+        "name": "Adva Center",
+        "short_name": null,
+        "official_website": "http:\/\/www.adva.org\/",
+        "aliases": null,
+        "latitude": 32.0621667,
+        "longitude": 34.7746389,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2904100",
+        "name": "Afeka College of Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/www.afeka.ac.il\/",
+        "aliases": [
+            "Afeka Tel Aviv Academic College of Engineering"
+        ],
+        "latitude": 32.115046,
+        "longitude": 34.817779,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12236066",
+        "name": "Al-Qasemi Academic College",
+        "short_name": null,
+        "official_website": "https:\/\/www.qsm.ac.il",
+        "aliases": [
+            "Al-Qasemi Academic College of Education",
+            "Institute of Sharia and Islamic studies"
+        ],
+        "latitude": 32.4217222,
+        "longitude": 35.034,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q4712692",
+        "name": "Albright Institute of Archaeological Research",
+        "short_name": "AIAR",
+        "official_website": "http:\/\/www.aiar.org\/",
+        "aliases": null,
+        "latitude": 31.7865005,
+        "longitude": 35.2310689,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q55649755",
+        "name": "Alexander Silberman Institute of Life Science",
+        "short_name": null,
+        "official_website": "http:\/\/www.bio.huji.ac.il",
+        "aliases": [
+            "The Alexander Silberman Institute of Life Science"
+        ],
+        "latitude": 31.7725231,
+        "longitude": 35.1967876,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q130356552",
+        "name": "Alma Center",
+        "short_name": null,
+        "official_website": "https:\/\/israel-alma.org\/",
+        "aliases": null,
+        "latitude": 32.9729687,
+        "longitude": 35.2795176,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4784481",
+        "name": "Arava Institute for Environmental Studies",
+        "short_name": null,
+        "official_website": "https:\/\/arava.org\/he",
+        "aliases": null,
+        "latitude": 29.9676,
+        "longitude": 35.0709,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q114836180",
+        "name": "Argaman Institute",
+        "short_name": null,
+        "official_website": "https:\/\/argaman.institute\/",
+        "aliases": null,
+        "latitude": 31.7916371,
+        "longitude": 35.2005311,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q201325",
+        "name": "Ariel University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ariel.ac.il\/",
+        "aliases": [
+            "Ariel University Center"
+        ],
+        "latitude": 32.1038889,
+        "longitude": 35.2078056,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q101012488",
+        "name": "Ariel University Department of Biological Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012491",
+        "name": "Ariel University School of Communication",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123909868",
+        "name": "Ashdod Academic Campus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Academic Campus of Ashdod",
+            "Academy of Ashdod",
+            "Ashdod Academic Center",
+            "Ashdod Academic Centre",
+            "Ashdod Academy",
+            "Ashdod College",
+            "College of Ashdod",
+            "Sami Shamoon University",
+            "University of Ashdod"
+        ],
+        "latitude": 31.7778279,
+        "longitude": 34.6582172,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6982862",
+        "name": "Asher Space Research Institute",
+        "short_name": "ASRI",
+        "official_website": "https:\/\/asri.institute\/",
+        "aliases": null,
+        "latitude": 32.7738194,
+        "longitude": 35.0205111,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4584790",
+        "name": "Ashkelon Academic College",
+        "short_name": null,
+        "official_website": "http:\/\/www.ash-college.ac.il",
+        "aliases": null,
+        "latitude": 31.6690528,
+        "longitude": 34.5716583,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q117536118",
+        "name": "Astrophysics Research Center of the Open University",
+        "short_name": null,
+        "official_website": "https:\/\/www.arco.org.il\/",
+        "aliases": [
+            "ARCO"
+        ],
+        "latitude": 32.1884821,
+        "longitude": 34.8878081,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q13639277",
+        "name": "Azrieli College of Engineering Jerusalem",
+        "short_name": null,
+        "official_website": "http:\/\/english.jce.ac.il",
+        "aliases": [
+            "Jerusalem College of Engineering"
+        ],
+        "latitude": 31.7687667,
+        "longitude": 35.1938444,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q101012575",
+        "name": "Bar Ilan University Department of Jewish Art",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012582",
+        "name": "Bar-Ilan University Department of Chemistry",
+        "short_name": null,
+        "official_website": "https:\/\/ch.biu.ac.il\/he",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012570",
+        "name": "Bar-Ilan University Department of Computer Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012571",
+        "name": "Bar-Ilan University Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012572",
+        "name": "Bar-Ilan University Department of English Literature and Linguistics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012584",
+        "name": "Bar-Ilan University Department of French Language and Culture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012586",
+        "name": "Bar-Ilan University Department of Jewish History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012588",
+        "name": "Bar-Ilan University Department of Political Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012576",
+        "name": "Bar-Ilan University Department of Psychology",
+        "short_name": null,
+        "official_website": "https:\/\/psychology.biu.ac.il\/en",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012585",
+        "name": "Bar-Ilan University, Department of Information Science and Applied Artificial Intelligence",
+        "short_name": null,
+        "official_website": "https:\/\/is.biu.ac.il\/",
+        "aliases": [
+            "is.biu.ac.il"
+        ],
+        "latitude": 32.0675919,
+        "longitude": 34.8428389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4880478",
+        "name": "Begin-Sadat Center for Strategic Studies",
+        "short_name": null,
+        "official_website": "http:\/\/besacenter.org\/",
+        "aliases": null,
+        "latitude": 32.0677778,
+        "longitude": 34.8425,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2890642",
+        "name": "Beit Berl College",
+        "short_name": null,
+        "official_website": "https:\/\/www.beitberl.ac.il\/",
+        "aliases": [
+            "Beit Berl Academic College",
+            "Mikhlalah ha-Aḳademit Bet Berl"
+        ],
+        "latitude": 32.2011444,
+        "longitude": 34.9262528,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q61125370",
+        "name": "Ben-Gurion Institute for the Study of Israel and Zionism",
+        "short_name": null,
+        "official_website": "http:\/\/in.bgu.ac.il\/bgi\/Pages\/default.aspx",
+        "aliases": null,
+        "latitude": 30.8558862,
+        "longitude": 34.7815764,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2620416",
+        "name": "Ben-Gurion National Solar Energy Center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.8534944,
+        "longitude": 34.7834861,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q101012498",
+        "name": "Ben-Gurion University Department of Mathematics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012500",
+        "name": "Ben-Gurion University Department of Virology and Developmental Genetics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q737332",
+        "name": "Ben-Gurion University of the Negev",
+        "short_name": null,
+        "official_website": "http:\/\/www.bgu.ac.il",
+        "aliases": [
+            "Universitat Ben Gurion Banegev",
+            "Universiṭat Ben-Guryon ba-Negev"
+        ],
+        "latitude": 31.2621917,
+        "longitude": 34.8015111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012503",
+        "name": "Ben-Gurion University of the Negev Department of Biotechnology Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012505",
+        "name": "Ben-Gurion University of the Negev Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012506",
+        "name": "Ben-Gurion University of the Negev Department of General History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012492",
+        "name": "Ben-Gurion University of the Negev Department of Geography and Environmental Development",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012507",
+        "name": "Ben-Gurion University of the Negev Department of Jewish History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012510",
+        "name": "Ben-Gurion University of the Negev Department of Life Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/in.bgu.ac.il\/teva\/LifeSciences\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012493",
+        "name": "Ben-Gurion University of the Negev Department of Middle East Studies",
+        "short_name": null,
+        "official_website": "https:\/\/in.bgu.ac.il\/humsos\/mideast\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012495",
+        "name": "Ben-Gurion University of the Negev Department of Politics and Government",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012511",
+        "name": "Ben-Gurion University of the Negev Department of Sociology and Anthropology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012512",
+        "name": "Ben-Gurion University of the Negev Department of Sociology of Health",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012513",
+        "name": "Ben-Gurion University of the Negev Department of the Arts",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4902449",
+        "name": "Bialik Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.bialik-publishing.co.il\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q44515640",
+        "name": "BPM College",
+        "short_name": null,
+        "official_website": "http:\/\/www.bpm-music.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q112241120",
+        "name": "Branco Weiss Institute",
+        "short_name": null,
+        "official_website": "https:\/\/brancoweiss.org.il\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136203782",
+        "name": "Broshim School",
+        "short_name": null,
+        "official_website": "https:\/\/sites.google.com\/tikshuv4sn.org.il\/broshim\/%D7%91%D7%99%D7%AA",
+        "aliases": null,
+        "latitude": 32.1276263,
+        "longitude": 34.8040133,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q182867",
+        "name": "Bucerius Institute for Research of Contemporary German History and Society",
+        "short_name": null,
+        "official_website": "http:\/\/bucerius.haifa.ac.il",
+        "aliases": null,
+        "latitude": 32.7626272,
+        "longitude": 35.0181587,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7054016",
+        "name": "Camera Obscura School of Art",
+        "short_name": null,
+        "official_website": "http:\/\/www.camera.org.il",
+        "aliases": [
+            "Camera Obscura School of Art (Tel Aviv, Israel)",
+            "Ḳamerah obsḳurah, bet ha-sefer le-omanut (Tel Aviv, Israel)"
+        ],
+        "latitude": 32.0629722,
+        "longitude": 34.7814444,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q110618545",
+        "name": "CAMERI",
+        "short_name": null,
+        "official_website": "https:\/\/www.cameri-eng.com\/",
+        "aliases": [
+            "THE COASTAL AND MARINE ENGINEERING RESEARCH INSTITUTE"
+        ],
+        "latitude": 32.7798233,
+        "longitude": 35.0229807,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6662698",
+        "name": "Carmel academic center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.8183333,
+        "longitude": 35.0015,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6588031",
+        "name": "Casali Institute for Applied Chemistry",
+        "short_name": null,
+        "official_website": "http:\/\/chem.ch.huji.ac.il\/casali\/index.htm",
+        "aliases": [
+            "Casali Institute for Applied Chemistry"
+        ],
+        "latitude": 31.77429,
+        "longitude": 35.196445,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20502101",
+        "name": "Center for International Communication",
+        "short_name": null,
+        "official_website": "https:\/\/communication.biu.ac.il\/CIC",
+        "aliases": null,
+        "latitude": 32.0665268,
+        "longitude": 34.8418751,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q19892171",
+        "name": "Center for Jewish Art",
+        "short_name": null,
+        "official_website": "http:\/\/cja.huji.ac.il",
+        "aliases": null,
+        "latitude": 31.7758333,
+        "longitude": 35.2,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108761847",
+        "name": "Center for research and study of aging",
+        "short_name": null,
+        "official_website": "https:\/\/gerontresearch.haifa.ac.il\/he\/",
+        "aliases": [
+            "CRSA"
+        ],
+        "latitude": 32.8156707,
+        "longitude": 34.9659916,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q115728031",
+        "name": "Center for Sustainable Agriculture",
+        "short_name": null,
+        "official_website": "https:\/\/arava.org\/arava-research-centers\/arava-center-for-sustainable-agriculture\/",
+        "aliases": [
+            "CSA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16128744",
+        "name": "Cohn Institute for the History and Philosophy of Science and Ideas",
+        "short_name": null,
+        "official_website": "https:\/\/en-humanities.tau.ac.il\/cohn",
+        "aliases": [
+            "Tel Aviv University Cohn Institute for the History and Philosophy of Science and Ideas"
+        ],
+        "latitude": 32.1129167,
+        "longitude": 34.8045556,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2904541",
+        "name": "College of Management Academic Studies",
+        "short_name": null,
+        "official_website": "https:\/\/www.colman.ac.il",
+        "aliases": null,
+        "latitude": 31.97035,
+        "longitude": 34.772104,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12406725",
+        "name": "David Yellin Academic College of Education",
+        "short_name": null,
+        "official_website": "http:\/\/www.dyellin.ac.il",
+        "aliases": [
+            "David Yellin College of Education"
+        ],
+        "latitude": 31.7819,
+        "longitude": 35.1906,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q135787684",
+        "name": "Department of Computer Science, Bar Ilan",
+        "short_name": null,
+        "official_website": "https:\/\/cs.biu.ac.il\/he",
+        "aliases": null,
+        "latitude": 32.067592,
+        "longitude": 34.842839,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q55649262",
+        "name": "Department of Land of Israel Studies and Archaeology",
+        "short_name": null,
+        "official_website": "http:\/\/lisa.biu.ac.il",
+        "aliases": [
+            "Department of Land of Israel studies",
+            "Martin (Szusz) Department of Land of Israel Studies"
+        ],
+        "latitude": 32.0691667,
+        "longitude": 34.8436111,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q60628264",
+        "name": "Department of Pathology, Sackler School of Medicine, Tel Aviv University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20502074",
+        "name": "Department of Physics, Bar-Ilan University",
+        "short_name": null,
+        "official_website": "http:\/\/physics.biu.ac.il\/",
+        "aliases": null,
+        "latitude": 32.066764,
+        "longitude": 34.8421239,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42873271",
+        "name": "Einstein Institute of Mathematics",
+        "short_name": null,
+        "official_website": "https:\/\/mathematics.huji.ac.il\/",
+        "aliases": [
+            "Einstein Institute of Mathematics, Hebrew University of Jerusalem",
+            "Hebrew University of Jerusalem, Einstein Institute of Mathematics"
+        ],
+        "latitude": 31.7746944,
+        "longitude": 35.1979167,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20502032",
+        "name": "Elima",
+        "short_name": null,
+        "official_website": "https:\/\/elima.org.il\/",
+        "aliases": null,
+        "latitude": 33.0060194,
+        "longitude": 35.4417111,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q105602327",
+        "name": "Ella Lemelbaum Institute for Immuno-Oncology in Sheba Medical Center",
+        "short_name": null,
+        "official_website": "https:\/\/eng.sheba.co.il\/The_Ella_Institute",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6540452",
+        "name": "Emunah College",
+        "short_name": null,
+        "official_website": "http:\/\/www.emuna.ac.il\/",
+        "aliases": null,
+        "latitude": 31.7545556,
+        "longitude": 35.2193611,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6622840",
+        "name": "Feinberg Graduate School, Weizmann Institute of Science",
+        "short_name": null,
+        "official_website": "https:\/\/www.weizmann.ac.il\/feinberg",
+        "aliases": null,
+        "latitude": 31.9083333,
+        "longitude": 34.8118889,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q55650750",
+        "name": "Feminanci - Finance College For Women",
+        "short_name": null,
+        "official_website": "https:\/\/www.anatnir.co.il\/%D7%A4%D7%9E%D7%99%D7%A0%D7%A0%D7%A1%D7%99",
+        "aliases": null,
+        "latitude": 32.0668568,
+        "longitude": 34.775196,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q16128754",
+        "name": "Galilee Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.migal.org.il\/",
+        "aliases": [
+            "MIGAL",
+            "Migal - Galilee Technology Center"
+        ],
+        "latitude": 33.196098,
+        "longitude": 35.575847,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q111395820",
+        "name": "Gazit Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.gazitinst.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5512991",
+        "name": "GCI Universal Gemological Laboratories",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137785722",
+        "name": "Gender Studies Program at Bar-Ilan University",
+        "short_name": null,
+        "official_website": "https:\/\/gender.biu.ac.il\/",
+        "aliases": null,
+        "latitude": 32.0675919,
+        "longitude": 34.8428389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7065244",
+        "name": "Geological Survey of Israel",
+        "short_name": null,
+        "official_website": "http:\/\/www.gsi.gov.il\/eng\/",
+        "aliases": [
+            "GSI",
+            "The Geological Survey of Israel"
+        ],
+        "latitude": 31.772049,
+        "longitude": 35.224812,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1205614",
+        "name": "German Protestant Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.deiahl.de\/",
+        "aliases": [
+            "DEIAHL",
+            "Deutsches Evangelisches Institut für Altertumswissenschaft des Heiligen Landes",
+            "German Protestant Institute of Archaeology"
+        ],
+        "latitude": 31.7861944,
+        "longitude": 35.2505556,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q90814624",
+        "name": "Gertner Institute for Epidemiology and Health Policy Research",
+        "short_name": null,
+        "official_website": "http:\/\/www.gertnerinst.org.il\/",
+        "aliases": [
+            "Gertner Institute",
+            "Gertner Institute for Health Policy and Epidemiology",
+            "The Gertner Institute"
+        ],
+        "latitude": 32.0489509,
+        "longitude": 34.8442428,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2920231",
+        "name": "Givat Washington",
+        "short_name": null,
+        "official_website": "http:\/\/www.washington.ac.il",
+        "aliases": null,
+        "latitude": 31.8174972,
+        "longitude": 34.7289,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q138005956",
+        "name": "Givat Washington College",
+        "short_name": null,
+        "official_website": "https:\/\/www.washington.ac.il\/michlala\/",
+        "aliases": null,
+        "latitude": 31.8169318,
+        "longitude": 34.7286021,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7001462",
+        "name": "Gordon College of Education, Haifa",
+        "short_name": null,
+        "official_website": "http:\/\/www.gordon.ac.il\/",
+        "aliases": [
+            "Gordon College of Education"
+        ],
+        "latitude": 32.8249589,
+        "longitude": 34.9691861,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1569179",
+        "name": "Haifa Center for German and European Studies",
+        "short_name": null,
+        "official_website": "http:\/\/hcges.haifa.ac.il\/index.php?option=com_content&view=article&id=11&Itemid=6",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q61126994",
+        "name": "Harry S. Truman Research Institute",
+        "short_name": null,
+        "official_website": "https:\/\/truman.huji.ac.il",
+        "aliases": [
+            "The Harry S. Truman Research Institute for the Advancement of Peace",
+            "The Harry S. Truman Research Institute for The Advancement of Peace"
+        ],
+        "latitude": 31.7917178,
+        "longitude": 35.2464349,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30272113",
+        "name": "Haruv Institute",
+        "short_name": null,
+        "official_website": "http:\/\/haruv.org.il\/",
+        "aliases": [
+            "Makhon Kharuv"
+        ],
+        "latitude": 31.793173,
+        "longitude": 35.24806,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q174158",
+        "name": "Hebrew University of Jerusalem",
+        "short_name": null,
+        "official_website": "https:\/\/new.huji.ac.il\/",
+        "aliases": [
+            "ha-Universiṭah ha-ʻIvrit bi-Yerushalayim",
+            "Al-Jami'ah al-Ibriyyah fi al-Quds",
+            "Ha-Universita ha-Ivrit bi-Yerushalayim",
+            "Hebrew University",
+            "HUJI",
+            "The Hebrew University of Jerusalem"
+        ],
+        "latitude": 31.7758333,
+        "longitude": 35.2,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012541",
+        "name": "Hebrew University of Jerusalem Department of Biochemistry and Molecular Biology",
+        "short_name": null,
+        "official_website": "https:\/\/medicine.ekmd.huji.ac.il\/en\/IMRIC\/biochemistry\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012542",
+        "name": "Hebrew University of Jerusalem Department of Biological Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012543",
+        "name": "Hebrew University of Jerusalem Department of Classical Studies",
+        "short_name": null,
+        "official_website": "https:\/\/classics.huji.ac.il\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012545",
+        "name": "Hebrew University of Jerusalem Department of Comparative Religion",
+        "short_name": null,
+        "official_website": "https:\/\/religion.huji.ac.il\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012623",
+        "name": "Hebrew University of Jerusalem Department of Economics",
+        "short_name": null,
+        "official_website": "https:\/\/economics.huji.ac.il\/",
+        "aliases": [
+            "The Bogen Family Department of Economics"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012626",
+        "name": "Hebrew University of Jerusalem Department of Genetics",
+        "short_name": null,
+        "official_website": "https:\/\/www.bio.huji.ac.il\/en\/departments_genetics_en",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012565",
+        "name": "Hebrew University of Jerusalem Department of History",
+        "short_name": null,
+        "official_website": "https:\/\/history.huji.ac.il\/",
+        "aliases": [
+            "Hebrew University of Jerusalem The Department of History"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012548",
+        "name": "Hebrew University of Jerusalem Department of Jewish Thought",
+        "short_name": null,
+        "official_website": "https:\/\/jewishthought.huji.ac.il\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012549",
+        "name": "Hebrew University of Jerusalem Department of Linguistics",
+        "short_name": null,
+        "official_website": "https:\/\/ling.huji.ac.il\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012550",
+        "name": "Hebrew University of Jerusalem Department of Medical Neurobiology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012551",
+        "name": "Hebrew University of Jerusalem Department of Microbiology and Molecular Genetics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012552",
+        "name": "Hebrew University of Jerusalem Department of Neurobiology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012554",
+        "name": "Hebrew University of Jerusalem Department of Political Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012627",
+        "name": "Hebrew University of Jerusalem Department of Psychology",
+        "short_name": null,
+        "official_website": "https:\/\/psychology.huji.ac.il\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012555",
+        "name": "Hebrew University of Jerusalem Department of Sociology and Anthropology",
+        "short_name": null,
+        "official_website": "https:\/\/sociology.huji.ac.il\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7038131",
+        "name": "Hebrew University of Jerusalem Institute of Earth Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Hebrew University of Jerusalem Faculty of Science Institute of Earth Science"
+        ],
+        "latitude": 31.7702778,
+        "longitude": 35.1972222,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q101012562",
+        "name": "Hebrew University of Jerusalem School of Education",
+        "short_name": null,
+        "official_website": "https:\/\/education.huji.ac.il\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012563",
+        "name": "Hebrew University of Jerusalem School of Philosophy and Religions",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012564",
+        "name": "Hebrew University of Jerusalem School of Philosophy and Religions Philosophy",
+        "short_name": null,
+        "official_website": "https:\/\/philosophy.huji.ac.il\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6749105",
+        "name": "Heksherim Institute for Jewish and Israeli Literature and Culture",
+        "short_name": null,
+        "official_website": "https:\/\/in.bgu.ac.il\/heksherim\/Pages\/default.aspx",
+        "aliases": [
+            "heksherim Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q22668350",
+        "name": "Hemdat haDarom",
+        "short_name": null,
+        "official_website": "https:\/\/hemdat.ac.il",
+        "aliases": [
+            "Hemdat haDarom - college for education in Jewish studies, science and humanities"
+        ],
+        "latitude": 31.4314722,
+        "longitude": 34.5926667,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6771011",
+        "name": "Henrietta Szold Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.szold.org.il\/",
+        "aliases": null,
+        "latitude": 31.7586364,
+        "longitude": 35.1642871,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5884192",
+        "name": "Holon Institute of Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.hit.ac.il\/",
+        "aliases": [
+            "Center for Technological Education Holon",
+            "Holon Academic Institute of Technology"
+        ],
+        "latitude": 32.0143222,
+        "longitude": 34.7738194,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5968840",
+        "name": "IBM Haifa Research Laboratory",
+        "short_name": null,
+        "official_website": "http:\/\/research.ibm.com\/labs\/haifa\/index.shtml",
+        "aliases": [
+            "IBM Haifa Research Lab"
+        ],
+        "latitude": 32.7652,
+        "longitude": 35.0156,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5972026",
+        "name": "IMI TAMI Institute for Research and Development Ltd.",
+        "short_name": null,
+        "official_website": "http:\/\/www.tami-imi.co.il\/",
+        "aliases": [
+            "TAMI",
+            "IMI TAMI Institute for Research and Development"
+        ],
+        "latitude": 32.788304,
+        "longitude": 35.039288,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6849585",
+        "name": "Institute for Contemporary Jewry at the Hebrew University of Jerusalem",
+        "short_name": null,
+        "official_website": "https:\/\/jewish-history.huji.ac.il\/%D7%94%D7%9E%D7%9B%D7%95%D7%9F-%D7%9C%D7%99%D7%94%D7%93%D7%95%D7%AA-%D7%96%D7%9E%D7%A0%D7%A0%D7%95",
+        "aliases": [
+            "Institute for Contemporary Jewry"
+        ],
+        "latitude": 31.7924722,
+        "longitude": 35.2461667,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q131378467",
+        "name": "Institute for Maritime Policy and Strategy",
+        "short_name": null,
+        "official_website": "https:\/\/mps.blueconomy-il.com\/",
+        "aliases": null,
+        "latitude": 32.8182055,
+        "longitude": 35.0012294,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q24910793",
+        "name": "Institute For Medical Research, Israel-Canada",
+        "short_name": null,
+        "official_website": "https:\/\/medicine.ekmd.huji.ac.il\/en\/imric\/Pages\/default.aspx",
+        "aliases": null,
+        "latitude": 31.7641667,
+        "longitude": 35.15,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4630508",
+        "name": "Institute for National Security Studies",
+        "short_name": null,
+        "official_website": "https:\/\/www.inss.org.il\/",
+        "aliases": [
+            "INSS",
+            "Center for Strategic Studies",
+            "I.N.S.S.",
+            "Jaffee Center for Strategic Studies",
+            "JCSS",
+            "Makhon lemehqere bitahon leummi",
+            "Merkaz le-meḥḳarim asṭraṭegiyim ʻal shem Yafeh",
+            "Merkaz lemehqarim astrategiyyim"
+        ],
+        "latitude": 32.1083333,
+        "longitude": 34.8019444,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12406717",
+        "name": "Institute for Policy and Strategy, Reichman University",
+        "short_name": null,
+        "official_website": "https:\/\/www.runi.ac.il\/en\/research-institutes\/government\/ips\/",
+        "aliases": [
+            "IPS",
+            "Institute for Policy and Strategy",
+            "Reichman University Institute for Policy and Strategy"
+        ],
+        "latitude": 32.1754444,
+        "longitude": 34.8353333,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q55649134",
+        "name": "Institute of Applied Social Research",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6807019",
+        "name": "Institute of Microfilmed Hebrew Manuscripts",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IMHM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6046099",
+        "name": "Interdisciplinary Center for Neural Computation",
+        "short_name": null,
+        "official_website": "http:\/\/icnc.huji.ac.il\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124680837",
+        "name": "Interdisciplinary Center Hertseliyah",
+        "short_name": null,
+        "official_website": "http:\/\/www.idc.ac.il",
+        "aliases": null,
+        "latitude": 32.176575,
+        "longitude": 34.835625,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q138007545",
+        "name": "International Burke Institute",
+        "short_name": null,
+        "official_website": "https:\/\/ibi.institute\/",
+        "aliases": [
+            "IBI",
+            "Burke Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q731328",
+        "name": "International Institute for Counter-Terrorism",
+        "short_name": "ICT",
+        "official_website": "https:\/\/ict.org.il\/",
+        "aliases": [
+            "ICT",
+            "International Institute for Terrorism Research"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q63284228",
+        "name": "International institute for the investigation of Ladino",
+        "short_name": null,
+        "official_website": "http:\/\/www.ladinobiu.co.il\/site\/index.asp?depart_id=344199",
+        "aliases": [
+            "Salti Center for Ladino Research"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25495003",
+        "name": "Israel Cave Research Center",
+        "short_name": null,
+        "official_website": "http:\/\/www.malham.info",
+        "aliases": null,
+        "latitude": 31.7730556,
+        "longitude": 35.1963889,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18639767",
+        "name": "Israel College of the Bible",
+        "short_name": null,
+        "official_website": "http:\/\/www.biblecollege.co.il\/",
+        "aliases": null,
+        "latitude": 32.3145556,
+        "longitude": 34.8739722,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1674700",
+        "name": "Israel Institute for Biological Research",
+        "short_name": null,
+        "official_website": "https:\/\/iibr.gov.il\/Pages\/home.aspx",
+        "aliases": null,
+        "latitude": 31.924681,
+        "longitude": 34.791658,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q136747766",
+        "name": "Israel National Institute for Energy Storage",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30296508",
+        "name": "Israel National Institute for Health Policy Research",
+        "short_name": null,
+        "official_website": "http:\/\/israelhpr.org.il\/",
+        "aliases": [
+            "NIHP"
+        ],
+        "latitude": 32.026826,
+        "longitude": 34.778127,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18191685",
+        "name": "Israeli Center for Qualitative Research of People and Societies",
+        "short_name": null,
+        "official_website": "http:\/\/in.bgu.ac.il\/icqm\/",
+        "aliases": null,
+        "latitude": 31.2618606,
+        "longitude": 34.7997476,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118383935",
+        "name": "IYAR",
+        "short_name": null,
+        "official_website": "http:\/\/www.iyar.org.il",
+        "aliases": [
+            "The Israeli Institute for Advanced Research"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2906825",
+        "name": "Jabotinsky Institute in Israel",
+        "short_name": null,
+        "official_website": "https:\/\/www.jabotinsky.org\/%D7%90%D7%A8%D7%9B%D7%99%D7%95%D7%9F\/%D7%97%D7%99%D7%A4%D7%95%D7%A9-%D7%A4%D7%A9%D7%95%D7%98\/",
+        "aliases": null,
+        "latitude": 32.0731,
+        "longitude": 34.775,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6118385",
+        "name": "Jacob Blaustein Institutes for Desert Research",
+        "short_name": null,
+        "official_website": "http:\/\/in.bgu.ac.il\/en\/bidr\/Pages\/default.aspx",
+        "aliases": [
+            "BIDR"
+        ],
+        "latitude": 30.8541583,
+        "longitude": 34.7824778,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q261894",
+        "name": "Jerusalem College of Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.jct.ac.il\/",
+        "aliases": [
+            "Bet ha-sefer ha-gavoha le-ṭekhnologyah bi-Yerushalayim",
+            "JCT - Lev Academic Center",
+            "Jerusalem College of Technology - Lev Academic Center",
+            "Jerusalem College of Technology Lev Academic Center",
+            "Lev Academic Center"
+        ],
+        "latitude": 31.7647222,
+        "longitude": 35.1911111,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6185149",
+        "name": "Jerusalem Institute for Market Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.jims-israel.org",
+        "aliases": [
+            "Jerusalem Institute For Market Studies"
+        ],
+        "latitude": 31.7512652,
+        "longitude": 35.2270444,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6980444",
+        "name": "Jerusalem Multidisciplinary College",
+        "short_name": null,
+        "official_website": "http:\/\/www.hadassah.ac.il\/en",
+        "aliases": null,
+        "latitude": 31.7834167,
+        "longitude": 35.2211944,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q137361413",
+        "name": "Jerusalem Torah College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Beit Midrash L'Torah",
+            "Jerusalem Torah College (BMT)"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6185200",
+        "name": "Jerusalem University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.juc.edu\/",
+        "aliases": [
+            "JUC",
+            "American Institute of Holy Land Studies",
+            "American Institute of Holy Land Studies (Jerusalem)"
+        ],
+        "latitude": 31.7711389,
+        "longitude": 35.2273972,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q104858711",
+        "name": "JISS",
+        "short_name": null,
+        "official_website": "https:\/\/jiss.org.il\/",
+        "aliases": [
+            "JISS",
+            "The Jerusalem Institute for Strategy and Security"
+        ],
+        "latitude": 31.76835,
+        "longitude": 35.2189557,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q137010925",
+        "name": "Jonathan Institute for Terror Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6380511",
+        "name": "Kaye Academic College of Education",
+        "short_name": null,
+        "official_website": "http:\/\/www.kaye.ac.il\/",
+        "aliases": null,
+        "latitude": 31.2709356,
+        "longitude": 34.7809287,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q4971000",
+        "name": "Kenyon Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.kenyon-institute.org.uk\/index.html",
+        "aliases": [
+            "British School of Archaeology in Jerusalem"
+        ],
+        "latitude": 31.7928889,
+        "longitude": 35.2314444,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q55084666",
+        "name": "Kesher-Cham",
+        "short_name": null,
+        "official_website": "https:\/\/edu.faculty-ms.technion.ac.il\/%D7%9E%D7%99%D7%93%D7%A2-%D7%9C%D7%9E%D7%95%D7%A8%D7%99%D7%9D\/keshercham\/",
+        "aliases": [
+            "Kesher-Cham – the Technion’s R&D center for improving, advancing, and refreshing mathematics education"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6414075",
+        "name": "Kinneret Academic College",
+        "short_name": null,
+        "official_website": "https:\/\/www.kinneret.ac.il\/ar\/",
+        "aliases": null,
+        "latitude": 32.7053917,
+        "longitude": 35.5909833,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6834573",
+        "name": "Knesset Research and Information Center",
+        "short_name": null,
+        "official_website": "https:\/\/main.knesset.gov.il\/activity\/info\/research\/pages\/default.aspx",
+        "aliases": null,
+        "latitude": 31.7767157,
+        "longitude": 35.205482,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6591629",
+        "name": "Lander Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.lander.ac.il",
+        "aliases": null,
+        "latitude": 31.7893333,
+        "longitude": 35.1862778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6720613",
+        "name": "Ma'ayan HaChinuch HaTorani",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.7874392,
+        "longitude": 35.1876769,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16132249",
+        "name": "Machon Shilo",
+        "short_name": null,
+        "official_website": "https:\/\/www.mshilo.co.il\/",
+        "aliases": [
+            "Mekhon Shiloh"
+        ],
+        "latitude": 32.0747841,
+        "longitude": 34.8452514,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q124151072",
+        "name": "Mandel Institute of Jewish Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q31197546",
+        "name": "Max Pine School",
+        "short_name": null,
+        "official_website": "https:\/\/mf.amalnet.k12.il\/",
+        "aliases": null,
+        "latitude": 32.0730556,
+        "longitude": 34.7909722,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q794566",
+        "name": "Max Stern Yezreel Valley College",
+        "short_name": null,
+        "official_website": "http:\/\/www.yvc.ac.il\/",
+        "aliases": [
+            "Emek Yezreel Academic College",
+            "Emek Yezreel College",
+            "Max Stern Academic College of Emek Yezreel",
+            "Yezreel Valley College"
+        ],
+        "latitude": 32.6511722,
+        "longitude": 35.2935139,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6688704",
+        "name": "Maśuʼah",
+        "short_name": null,
+        "official_website": "http:\/\/www.massuah.org.il",
+        "aliases": null,
+        "latitude": 32.25485,
+        "longitude": 34.86968,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12409168",
+        "name": "Mekhon Ben-Tsevi le-ḥeḳer ḳehilot Yiśraʼel ba-Mizraḥ",
+        "short_name": null,
+        "official_website": "https:\/\/ybz.org.il\/%D7%9E%D7%9B%D7%95%D7%9F-%D7%91%D7%9F-%D7%A6%D7%91%D7%99-%D7%9C%D7%97%D7%A7%D7%A8-%D7%A7%D7%94%D7%99%D7%9C%D7%95%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%91%D7%9E%D7%96%D7%A8%D7%97\/",
+        "aliases": [
+            "Institute for the Research of the Jewish Communities in the Middle East"
+        ],
+        "latitude": 31.7756457,
+        "longitude": 35.2147871,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30527198",
+        "name": "Mekhon Haberman le-meḥḳere sifrut",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.1366389,
+        "longitude": 34.7973333,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6758047",
+        "name": "Michlalah Jerusalem College",
+        "short_name": null,
+        "official_website": "http:\/\/www.michlalah.edu",
+        "aliases": null,
+        "latitude": 31.7605556,
+        "longitude": 35.1922222,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q16130926",
+        "name": "Moreshet",
+        "short_name": null,
+        "official_website": "http:\/\/www.moreshet.org",
+        "aliases": [
+            "Mordechai Anielevich Memorial",
+            "Mordechai Anielevich Memorial Holocaust Study and Research center",
+            "Mordekhai Anilevits'  Moreshet"
+        ],
+        "latitude": 32.4582876,
+        "longitude": 35.0217211,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q116266056",
+        "name": "Moreshet Yaʻaḳov",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Bet midrash mam. d. le-morim \"Moreshet Yaʻaḳov\"",
+            "Moreshet Yaakov, Academic College of Education (Reḥovot, Israel)",
+            "Moreshet Yaʻaḳov, Mikhlalah aḳademit datit le-ḥinukh ṿi-Yeshivat hesder (Reḥovot, Israel)"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q138161521",
+        "name": "National Institute for Energy",
+        "short_name": null,
+        "official_website": "https:\/\/inies.org.il\/",
+        "aliases": [
+            "National Institute for Energy (Israel)"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20502082",
+        "name": "National Police Academy in Bet Shemesh",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.73975,
+        "longitude": 34.9497222,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q111846884",
+        "name": "Negev Institute for Arid Zone Research",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ha-Makhon le-ḥeḳer ha-Negev",
+            "Moʻatsah ha-leʼumit le-meḥḳar ule-fituaḥ",
+            "The Negev Institute for Arid Zone Research"
+        ],
+        "latitude": 31.2500526,
+        "longitude": 34.7988402,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2905352",
+        "name": "Netanya Academic College",
+        "short_name": null,
+        "official_website": "https:\/\/www.netanya.ac.il\/Pages\/default.aspx",
+        "aliases": [
+            "Ha'mikhlala ha'akademit Netanya",
+            "Miklelet Ntanyah"
+        ],
+        "latitude": 32.3072278,
+        "longitude": 34.8798111,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6659751",
+        "name": "Ofakim Seminary",
+        "short_name": null,
+        "official_website": "https:\/\/ofakimsem.co.il\/",
+        "aliases": null,
+        "latitude": 31.3127778,
+        "longitude": 34.62,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7094417",
+        "name": "Ono Academic College",
+        "short_name": null,
+        "official_website": "http:\/\/www.ono.ac.il\/?lang=en",
+        "aliases": null,
+        "latitude": 32.0491972,
+        "longitude": 34.8620556,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1423960",
+        "name": "Open University of Israel",
+        "short_name": null,
+        "official_website": "https:\/\/www.openu.ac.il",
+        "aliases": [
+            "HaUniversita HaPtukha",
+            "Universitah ha-petuhah",
+            "The Open University of Israel"
+        ],
+        "latitude": 32.1886694,
+        "longitude": 34.8878028,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012567",
+        "name": "Open University of Israel Department of Mathematics and Computer Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012568",
+        "name": "Open University of Israel Department of Sociology Political Science and Communication",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294423",
+        "name": "Orot Israel College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6839159",
+        "name": "Orot Israel college",
+        "short_name": null,
+        "official_website": "https:\/\/www.orot.ac.il",
+        "aliases": null,
+        "latitude": 32.1151046,
+        "longitude": 35.0321915,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q3655709",
+        "name": "ORT Braude College of Engineering",
+        "short_name": null,
+        "official_website": "https:\/\/w3.braude.ac.il\/",
+        "aliases": null,
+        "latitude": 32.9143778,
+        "longitude": 35.2825917,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7072953",
+        "name": "ORT Israel",
+        "short_name": null,
+        "official_website": "http:\/\/www.ort.org.il",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12409185",
+        "name": "ORT Syngalowsky college",
+        "short_name": null,
+        "official_website": "http:\/\/s.ort.org.il",
+        "aliases": null,
+        "latitude": 32.0560833,
+        "longitude": 34.8039444,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7127302",
+        "name": "Palestine Institute of Folklore and Ethnology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7021584",
+        "name": "Peres Academic Center",
+        "short_name": null,
+        "official_website": "http:\/\/www.pac.ac.il\/",
+        "aliases": null,
+        "latitude": 31.9006111,
+        "longitude": 34.7898611,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7209798",
+        "name": "Polis Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.polisjerusalem.org\/",
+        "aliases": [
+            "Polis – The Jerusalem Institute of Languages and Humanities"
+        ],
+        "latitude": 31.7831111,
+        "longitude": 35.2265556,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q55955575",
+        "name": "Pontifical Biblical Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.biblico.it\/jerusalem.html",
+        "aliases": null,
+        "latitude": 31.7752778,
+        "longitude": 35.2230556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18192107",
+        "name": "Prog",
+        "short_name": null,
+        "official_website": "http:\/\/www.prog-school.co.il",
+        "aliases": [
+            "Prog school"
+        ],
+        "latitude": 32.0923611,
+        "longitude": 34.8390278,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q107204070",
+        "name": "Q107204070",
+        "short_name": null,
+        "official_website": "https:\/\/www.autismisrael.org.il\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q110559351",
+        "name": "Q110559351",
+        "short_name": null,
+        "official_website": "https:\/\/iim.technion.ac.il\/he\/",
+        "aliases": null,
+        "latitude": 32.7753316,
+        "longitude": 35.0253643,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q110581993",
+        "name": "Q110581993",
+        "short_name": null,
+        "official_website": "https:\/\/mastermoreno.co.il",
+        "aliases": null,
+        "latitude": 31.9839864,
+        "longitude": 34.7761598,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q117358033",
+        "name": "Q117358033",
+        "short_name": null,
+        "official_website": "https:\/\/chemistry.huji.ac.il\/",
+        "aliases": null,
+        "latitude": 31.774467,
+        "longitude": 35.1974077,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12406722",
+        "name": "Q12406722",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.2913391,
+        "longitude": 34.8641777,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q131781603",
+        "name": "Q131781603",
+        "short_name": null,
+        "official_website": "https:\/\/www.ani-mator.com\/",
+        "aliases": null,
+        "latitude": 32.0703122,
+        "longitude": 34.78305,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q135472699",
+        "name": "Q135472699",
+        "short_name": null,
+        "official_website": "https:\/\/designarchive.shenkar.ac.il\/",
+        "aliases": null,
+        "latitude": 32.0885616,
+        "longitude": 34.80253,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16128736",
+        "name": "Q16128736",
+        "short_name": null,
+        "official_website": "https:\/\/www.kinneret.ac.il\/%D7%A8%D7%A9%D7%95%D7%AA-%D7%94%D7%9E%D7%97%D7%A7%D7%A8\/%D7%9E%D7%9B%D7%95%D7%A0%D7%99-%D7%9E%D7%97%D7%A7%D7%A8\/%D7%9E%D7%9B%D7%95%D7%9F-%D7%9B%D7%A0%D7%A8%D7%AA-%D7%9C%D7%90%D7%A8%D7%9B%D7%99%D7%90%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94-%D7%92%D7%9C%D7%99%D7%9C%D7%99%D7%AA-2\/",
+        "aliases": null,
+        "latitude": 32.7052581,
+        "longitude": 35.5914721,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16128918",
+        "name": "Q16128918",
+        "short_name": null,
+        "official_website": "https:\/\/www.colman.ac.il\/teaching\/our-centers\/institute-for-ethics\/",
+        "aliases": null,
+        "latitude": 31.9705672,
+        "longitude": 34.7724045,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16132969",
+        "name": "Q16132969",
+        "short_name": null,
+        "official_website": "https:\/\/social-sciences.tau.ac.il\/comm",
+        "aliases": null,
+        "latitude": 32.1112289,
+        "longitude": 34.8025546,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18191675",
+        "name": "Q18191675",
+        "short_name": null,
+        "official_website": "https:\/\/urbanstudies.huji.ac.il\/",
+        "aliases": null,
+        "latitude": 31.7943346,
+        "longitude": 35.2424687,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2087255",
+        "name": "Q2087255",
+        "short_name": null,
+        "official_website": "https:\/\/www.gov.il\/he\/departments\/Units\/mamad",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25493406",
+        "name": "Q25493406",
+        "short_name": null,
+        "official_website": "https:\/\/curs.net.technion.ac.il\/",
+        "aliases": null,
+        "latitude": 32.7781479,
+        "longitude": 35.0226686,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q54554024",
+        "name": "Q54554024",
+        "short_name": null,
+        "official_website": "https:\/\/handesaim.ariel.ac.il\/",
+        "aliases": null,
+        "latitude": 32.1034259,
+        "longitude": 35.2077719,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6570597",
+        "name": "Q6570597",
+        "short_name": null,
+        "official_website": "https:\/\/www.raanana.muni.il\/RaananaMunicipalCollege\/pages\/default.aspx",
+        "aliases": null,
+        "latitude": 32.1919,
+        "longitude": 34.874,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6574220",
+        "name": "Q6574220",
+        "short_name": null,
+        "official_website": "http:\/\/shasha-center.huji.ac.il\/",
+        "aliases": null,
+        "latitude": 31.794497,
+        "longitude": 35.2427144,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6576567",
+        "name": "Q6576567",
+        "short_name": null,
+        "official_website": "https:\/\/www.netanya.ac.il\/%d7%94%d7%9e%d7%a8%d7%9b%d7%96-%d7%9c%d7%93%d7%99%d7%90%d7%9c%d7%95%d7%92-%d7%90%d7%a1%d7%98%d7%a8%d7%98%d7%92%d7%99\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6595009",
+        "name": "Q6595009",
+        "short_name": null,
+        "official_website": "http:\/\/www.dintora.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6760845",
+        "name": "Q6760845",
+        "short_name": null,
+        "official_website": "https:\/\/nbri.net.technion.ac.il\/",
+        "aliases": null,
+        "latitude": 32.7793473,
+        "longitude": 35.021346,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6851671",
+        "name": "Q6851671",
+        "short_name": null,
+        "official_website": "https:\/\/llud.sites.tau.ac.il\/",
+        "aliases": null,
+        "latitude": 32.1193179,
+        "longitude": 34.8049134,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6852974",
+        "name": "Q6852974",
+        "short_name": null,
+        "official_website": "http:\/\/www.mcy.org.il\/",
+        "aliases": null,
+        "latitude": 31.7497778,
+        "longitude": 35.1867222,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6924254",
+        "name": "Q6924254",
+        "short_name": null,
+        "official_website": "http:\/\/www.avshalom-inst.co.il\/",
+        "aliases": null,
+        "latitude": 32.1357735,
+        "longitude": 34.7969131,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6964205",
+        "name": "Q6964205",
+        "short_name": null,
+        "official_website": "https:\/\/amlat.tau.ac.il\/",
+        "aliases": null,
+        "latitude": 32.1125833,
+        "longitude": 34.8046111,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7006174",
+        "name": "Q7006174",
+        "short_name": null,
+        "official_website": "http:\/\/www.johnbryce.co.il",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q73989374",
+        "name": "Q73989374",
+        "short_name": null,
+        "official_website": "http:\/\/www.rivka.org.il\/",
+        "aliases": null,
+        "latitude": 31.9928889,
+        "longitude": 34.8657222,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6770696",
+        "name": "Ramat Gan College",
+        "short_name": null,
+        "official_website": "http:\/\/www.rgc.co.il\/",
+        "aliases": null,
+        "latitude": 32.0647778,
+        "longitude": 34.8320278,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q2908845",
+        "name": "Reichman University",
+        "short_name": null,
+        "official_website": "http:\/\/www.runi.ac.il\/",
+        "aliases": [
+            "HaMerkaz HaBeinTkhumi Herzliya",
+            "IDC Herzliya",
+            "IDC Herzliya college",
+            "Interdisciplinary Center Herzliya",
+            "Interdisciplinary Center Herzliya colleeg",
+            "Interdisciplinary Center, Herzliya",
+            "Michlelet HaMerkaz HaBeinTkhumi Herzliya"
+        ],
+        "latitude": 32.176575,
+        "longitude": 34.835625,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q64799593",
+        "name": "Reuven Chaikin Institute in Geostrategy",
+        "short_name": null,
+        "official_website": "https:\/\/isren.haifa.ac.il\/the-chaikin-chair-for-geo-strategy",
+        "aliases": [
+            "University of Haifa Reuven Chaikin chair in geostrategy"
+        ],
+        "latitude": 32.7616667,
+        "longitude": 35.0188889,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q108888150",
+        "name": "Rothberg International School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.7928611,
+        "longitude": 35.2461111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7067243",
+        "name": "Ruppin Academic Center",
+        "short_name": null,
+        "official_website": "http:\/\/www.ruppin.ac.il\/",
+        "aliases": [
+            "Ruppin College"
+        ],
+        "latitude": 32.3425,
+        "longitude": 34.9122222,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7381357",
+        "name": "Russell Berrie Nanotechnology Institute",
+        "short_name": null,
+        "official_website": "http:\/\/rbni.technion.ac.il\/",
+        "aliases": [
+            "RBNI"
+        ],
+        "latitude": 32.7775,
+        "longitude": 35.0216667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q45137547",
+        "name": "Russell Berrie Nanotechnology Institute, Technion-Israel Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/rbni.technion.ac.il\/",
+        "aliases": [
+            "RBNI - Nanotechnology Research",
+            "Technion - Israel Institute of Technology, RBNI - Russell Berrie Nanotechnology Institute"
+        ],
+        "latitude": 32.7776801,
+        "longitude": 35.0215799,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q136093039",
+        "name": "Sacher Institute",
+        "short_name": null,
+        "official_website": "https:\/\/sacherinstitute.huji.ac.il\/",
+        "aliases": [
+            "The Harry and Michael Sacher Institute for Legislative Research and Comparative Law"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118524226",
+        "name": "Sakhnin College",
+        "short_name": null,
+        "official_website": "https:\/\/sakhnin.ac.il\/",
+        "aliases": [
+            "Sakhnin College for Teacher Education"
+        ],
+        "latitude": 32.8596431,
+        "longitude": 35.3105691,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q56612468",
+        "name": "Sakhnin College for Teacher Training",
+        "short_name": null,
+        "official_website": "http:\/\/sakhnin.ac.il\/",
+        "aliases": [
+            "College of Sakhnin - Academic College for Teacher Education"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q905937",
+        "name": "Sapir Academic College",
+        "short_name": null,
+        "official_website": "http:\/\/www.sapir.ac.il\/",
+        "aliases": null,
+        "latitude": 31.5092593,
+        "longitude": 34.5955278,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7431023",
+        "name": "Schechter Institute of Jewish Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.schechter.edu\/",
+        "aliases": null,
+        "latitude": 31.7703611,
+        "longitude": 35.2043889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6770485",
+        "name": "School of Law and Economics (Tel Aviv)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.1117222,
+        "longitude": 34.8038333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6595739",
+        "name": "Sha'arei Mishpat College",
+        "short_name": null,
+        "official_website": "http:\/\/www.mishpat.ac.il",
+        "aliases": [
+            "Miklelet Sha'arei Mishpat"
+        ],
+        "latitude": 32.1556583,
+        "longitude": 34.9007,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q16129483",
+        "name": "Shaanan College",
+        "short_name": null,
+        "official_website": "https:\/\/www.shaanan.ac.il\/",
+        "aliases": [
+            "Shaanan - Academic religious teachers' college"
+        ],
+        "latitude": 32.8358389,
+        "longitude": 35.0692817,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7487171",
+        "name": "Shalem College",
+        "short_name": null,
+        "official_website": "http:\/\/www.shalem.ac.il\/en",
+        "aliases": [
+            "ha-Merkaz ha-Akademi Shalem"
+        ],
+        "latitude": 31.7519722,
+        "longitude": 35.2280583,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q115782067",
+        "name": "Shamir Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.sri.org.il\/",
+        "aliases": null,
+        "latitude": 32.98984,
+        "longitude": 35.6964912,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5176480",
+        "name": "Shenkar College of Engineering and Design",
+        "short_name": null,
+        "official_website": "http:\/\/www.shenkar.ac.il\/",
+        "aliases": [
+            "Shenkar"
+        ],
+        "latitude": 32.0901472,
+        "longitude": 34.8031528,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q30100857",
+        "name": "Shoresh Institute",
+        "short_name": null,
+        "official_website": "http:\/\/shoresh.institute",
+        "aliases": [
+            "Shoresh"
+        ],
+        "latitude": 32.1112295,
+        "longitude": 34.8024947,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q47492546",
+        "name": "Sivan College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6577918",
+        "name": "Society for Judaeo-Arabic Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.ybz.org.il\/?CategoryID=279",
+        "aliases": null,
+        "latitude": 31.7759189,
+        "longitude": 35.2146081,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6958492",
+        "name": "Solid State Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.7760676,
+        "longitude": 35.0258952,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1434936",
+        "name": "Stephen Roth Institute",
+        "short_name": null,
+        "official_website": "https:\/\/en-humanities.tau.ac.il\/roth\/",
+        "aliases": null,
+        "latitude": 32.1121,
+        "longitude": 34.8048,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7680319",
+        "name": "Talpiot College of Education",
+        "short_name": null,
+        "official_website": "https:\/\/www.talpiot.ac.il\/",
+        "aliases": [
+            "Talpiot College",
+            "Talpiyot College"
+        ],
+        "latitude": 32.0094487,
+        "longitude": 34.7633173,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q22096376",
+        "name": "Tantur Ecumenical Institute",
+        "short_name": null,
+        "official_website": "http:\/\/tantur.org\/",
+        "aliases": null,
+        "latitude": 31.7272222,
+        "longitude": 35.2019444,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6603600",
+        "name": "Taub Center",
+        "short_name": null,
+        "official_website": "https:\/\/www.taubcenter.org.il\/",
+        "aliases": null,
+        "latitude": 31.7710278,
+        "longitude": 35.2133056,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q333705",
+        "name": "Technion – Israel Institute of Technology",
+        "short_name": null,
+        "official_website": "https:\/\/technion.ac.il",
+        "aliases": [
+            "Technion",
+            "Technion Israel Institute of Technology",
+            "Ṭekhniyon, Makhon ṭekhnologi le-Yiśraʼel"
+        ],
+        "latitude": 32.7775,
+        "longitude": 35.0216667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q319239",
+        "name": "Tel Aviv University",
+        "short_name": null,
+        "official_website": "https:\/\/www.tau.ac.il\/",
+        "aliases": [
+            "TAU",
+            "Univ. Tel Aviv",
+            "Universiṭat Tel-Aviv"
+        ],
+        "latitude": 32.1125,
+        "longitude": 34.805,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012589",
+        "name": "Tel Aviv University Department of Cell and Developmental Biology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012610",
+        "name": "Tel Aviv University Department of Epidemiology and Preventive Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012590",
+        "name": "Tel Aviv University Department of History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012591",
+        "name": "Tel Aviv University Department of History Moshe Dayan Center for Middle Eastern and African Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012616",
+        "name": "Tel Aviv University Department of Human Molecular Genetics and Biochemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012569",
+        "name": "Tel Aviv University Department of Jewish History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012617",
+        "name": "Tel Aviv University Department of Molecular Microbiology and Biotechnology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012593",
+        "name": "Tel Aviv University Department Of Organic Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012594",
+        "name": "Tel Aviv University Department of Philosophy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012595",
+        "name": "Tel Aviv University Department of Physical Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012599",
+        "name": "Tel Aviv University Department of Political Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012600",
+        "name": "Tel Aviv University Department of Sociology and Anthropology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012601",
+        "name": "Tel Aviv University Department of Theatre Arts",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012602",
+        "name": "Tel Aviv University Department of Zoology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012606",
+        "name": "Tel Aviv University School of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100998795",
+        "name": "Tel Aviv University School of Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116270279",
+        "name": "Tel Aviv University School of zoology",
+        "short_name": null,
+        "official_website": "https:\/\/lifesci.tau.ac.il\/zoology",
+        "aliases": null,
+        "latitude": 32.1152938,
+        "longitude": 34.8059503,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012608",
+        "name": "Tel-Aviv University Department of Biochemistry and Molecular Biology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012609",
+        "name": "Tel-Aviv University Department of Cell Research and Immunology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012598",
+        "name": "Tel-Aviv University Department of Plant Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012618",
+        "name": "Tel-Aviv University Department of Psychology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7695526",
+        "name": "Tel-Hai Academic College",
+        "short_name": null,
+        "official_website": "http:\/\/english.telhai.ac.il\/",
+        "aliases": [
+            "Tel-Hai College"
+        ],
+        "latitude": 33.2356,
+        "longitude": 35.5789,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6556129",
+        "name": "The Academic College of Society and the Arts",
+        "short_name": null,
+        "official_website": "http:\/\/www.asa.ac.il\/",
+        "aliases": [
+            "ASA"
+        ],
+        "latitude": 32.3195,
+        "longitude": 34.871,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6975176",
+        "name": "The Academic College of Tel Aviv-Yaffo",
+        "short_name": null,
+        "official_website": "https:\/\/www.mta.ac.il",
+        "aliases": [
+            "MTA",
+            "Academic College of Tel Aviv-Yafo",
+            "ha-Mikhlalah ha-aḳademit shel Tel Aviv-Yafo",
+            "Tel Aviv Academic College"
+        ],
+        "latitude": 32.0469722,
+        "longitude": 34.7603056,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6652842",
+        "name": "The Arab Academic College for Education in Israel - Haifa",
+        "short_name": null,
+        "official_website": "http:\/\/www.arabcol.ac.il\/",
+        "aliases": [
+            "Arab Academic College of Education in Israel - Haifa",
+            "The Arab College for Education in Israel - Haifa"
+        ],
+        "latitude": 32.7980833,
+        "longitude": 35.0163333,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6613293",
+        "name": "The Ben Gurion Heritage Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.bgh.org.il\/",
+        "aliases": null,
+        "latitude": 30.8486111,
+        "longitude": 34.7819444,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q62560120",
+        "name": "The Center for Policy and Strategy Studies",
+        "short_name": null,
+        "official_website": "http:\/\/hms.haifa.ac.il\/index.php\/he",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6579575",
+        "name": "The College of Management Academic Studies",
+        "short_name": null,
+        "official_website": "https:\/\/www.college.org.il\/",
+        "aliases": null,
+        "latitude": 32.0628571,
+        "longitude": 34.7778913,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16133537",
+        "name": "The Dado Center for Interdisciplinary Military Studies",
+        "short_name": null,
+        "official_website": "https:\/\/www.idf.il\/%D7%90%D7%AA%D7%A8%D7%99%D7%9D\/%D7%9E%D7%A8%D7%9B%D7%96-%D7%93%D7%93%D7%95\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16132934",
+        "name": "The Department of Labor Studies",
+        "short_name": null,
+        "official_website": "https:\/\/social-sciences.tau.ac.il\/labor-studies",
+        "aliases": null,
+        "latitude": 32.1112683,
+        "longitude": 34.8025352,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111803084",
+        "name": "The Diaspora Research Center",
+        "short_name": null,
+        "official_website": "https:\/\/humanities.tau.ac.il\/diaspora",
+        "aliases": [
+            "Goldstein-Goren Diaspora Research Center",
+            "The Goldstein-Goren Diaspora Research Center"
+        ],
+        "latitude": 32.1133944,
+        "longitude": 34.8054498,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16128936",
+        "name": "The Federmann Center for the Study of Rationality",
+        "short_name": null,
+        "official_website": "https:\/\/ratio.huji.ac.il\/",
+        "aliases": null,
+        "latitude": 31.7782792,
+        "longitude": 35.1960879,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q124814195",
+        "name": "The Herzl Institute",
+        "short_name": null,
+        "official_website": "https:\/\/herzlinstitute.org\/en\/",
+        "aliases": [
+            "Machon Herzl"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7742175",
+        "name": "The Institute for Advanced Studies at The Hebrew University of Jerusalem",
+        "short_name": null,
+        "official_website": "https:\/\/iias.huji.ac.il",
+        "aliases": [
+            "Израильский институт перспективных исследований",
+            "ИИАС"
+        ],
+        "latitude": 31.7781,
+        "longitude": 35.1961,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6561470",
+        "name": "The Institute for Research in Jewish Law",
+        "short_name": null,
+        "official_website": "https:\/\/en.hebrewlaw.huji.ac.il",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6696247",
+        "name": "The Interuniversity Institute for Marine Sciences in Eilat",
+        "short_name": null,
+        "official_website": "https:\/\/iui-eilat.huji.ac.il",
+        "aliases": [
+            "IUI"
+        ],
+        "latitude": 29.5016667,
+        "longitude": 34.9166667,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16128761",
+        "name": "The Jewish Statesmanship Center",
+        "short_name": null,
+        "official_website": "http:\/\/www.statesmanship.org.il\/",
+        "aliases": null,
+        "latitude": 31.7719722,
+        "longitude": 35.1678611,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q30527163",
+        "name": "The Leon Recanati Institute for Maritime Studies",
+        "short_name": null,
+        "official_website": "http:\/\/maritime.haifa.ac.il\/",
+        "aliases": null,
+        "latitude": 32.7622919,
+        "longitude": 35.0193577,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q102211578",
+        "name": "The National Institute for Biotechnology in the Negev Ltd.",
+        "short_name": null,
+        "official_website": "http:\/\/nibn.co.il\/",
+        "aliases": null,
+        "latitude": 31.2614003,
+        "longitude": 34.8049704,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6622194",
+        "name": "The Partner Institute for Internet Studie",
+        "short_name": null,
+        "official_website": "https:\/\/niis.tau.ac.il\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6912272",
+        "name": "The Racah Institute of Physics",
+        "short_name": null,
+        "official_website": "http:\/\/phys.huji.ac.il\/",
+        "aliases": null,
+        "latitude": 31.7751241,
+        "longitude": 35.1981392,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q126132990",
+        "name": "The Shmunis School of Biomedicine and Cancer Research",
+        "short_name": null,
+        "official_website": "https:\/\/en-lifesci.tau.ac.il\/sbcr",
+        "aliases": null,
+        "latitude": 32.1145512,
+        "longitude": 34.8059141,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6847055",
+        "name": "The Sonia and Marco Nadler Institute of Archaeology",
+        "short_name": null,
+        "official_website": "https:\/\/en-humanities.tau.ac.il\/Archaeology-institute",
+        "aliases": [
+            "Institute of Archaeology, University of Tel Aviv",
+            "Tel Aviv University Institute of Archaeology"
+        ],
+        "latitude": 32.1119922,
+        "longitude": 34.8048411,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6602763",
+        "name": "The William Davidson Faculty of Industrial Engineering & Management",
+        "short_name": null,
+        "official_website": "http:\/\/ie.technion.ac.il\/",
+        "aliases": [
+            "The William Davidson Faculty of Industrial Engineering & Management at the Technion"
+        ],
+        "latitude": 32.774,
+        "longitude": 35.0243,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6546716",
+        "name": "The Yemenite Jewry Heritage Center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "The Yemenite Jewry Heritage Center and Jewish Communities"
+        ],
+        "latitude": 32.0950556,
+        "longitude": 34.9452222,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q101012518",
+        "name": "University of Haifa Department of Arabic Language and Literature",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012620",
+        "name": "University of Haifa Department of Biology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012519",
+        "name": "University of Haifa Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012521",
+        "name": "University of Haifa Department of Evolutionary and Environmental Biology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012523",
+        "name": "University of Haifa Department of General History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012525",
+        "name": "University of Haifa Department of Israel Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012526",
+        "name": "University of Haifa Department of Library Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012527",
+        "name": "University of Haifa Department of Middle Eastern History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012529",
+        "name": "University of Haifa Department of Psychology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012530",
+        "name": "University of Haifa Department of Sociology and Anthropology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012537",
+        "name": "University of Haifa School of Political Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012538",
+        "name": "University of Haifa School of Public Health",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7913486",
+        "name": "Van Leer Jerusalem Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.vanleer.org.il\/",
+        "aliases": [
+            "Mekhon Ṿan Lir bi-Yerushalayim"
+        ],
+        "latitude": 31.77,
+        "longitude": 35.2153,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7927676",
+        "name": "Vidal Sassoon International Center for the Study of Antisemitism",
+        "short_name": null,
+        "official_website": "https:\/\/sicsa.huji.ac.il\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4182",
+        "name": "Weizmann Institute of Science",
+        "short_name": null,
+        "official_website": "http:\/\/www.weizmann.ac.il\/",
+        "aliases": [
+            "Koffler Accelerator",
+            "Bessie F. Lawrence International Summer Science Institute",
+            "Clore Garden",
+            "davidson.weizmann.ac.il",
+            "Machon Weizmann",
+            "Machon Weizmann LeMada",
+            "Weitzman Institute",
+            "Weitzmann Institute",
+            "Weizman Institute",
+            "Weizman Institute of Science",
+            "Weizmann Institute"
+        ],
+        "latitude": 31.9075,
+        "longitude": 34.8091667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3334689",
+        "name": "Western Galilee College",
+        "short_name": null,
+        "official_website": "https:\/\/www.wgalil.ac.il\/",
+        "aliases": null,
+        "latitude": 32.9367,
+        "longitude": 35.0864,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q156591",
+        "name": "Yad Vashem",
+        "short_name": null,
+        "official_website": "https:\/\/www.yadvashem.org\/",
+        "aliases": [
+            "The Holocaust Martyrs' and Heroes' Remembrance Authority"
+        ],
+        "latitude": 31.7744237,
+        "longitude": 35.1772481,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12022215",
+        "name": "Yad Yaari",
+        "short_name": null,
+        "official_website": "https:\/\/www.yad-yaari.org.il\/",
+        "aliases": [
+            "Yad Ya'ari",
+            "Yad Yari"
+        ],
+        "latitude": 32.4577778,
+        "longitude": 35.0208333,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3571277",
+        "name": "Yad Yitzhak Ben-Zvi",
+        "short_name": null,
+        "official_website": "http:\/\/ybz.org.il",
+        "aliases": [
+            "Ben-Zvi Institute",
+            "Yad Ben Zvi",
+            "Yad Yitsḥaḳ Ben-Tevi",
+            "Yad Yitsḥaḳ Ben-Tsevi",
+            "Yad Yizhaq Ben-Zevi"
+        ],
+        "latitude": 31.7759194,
+        "longitude": 35.2146083,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q113515108",
+        "name": "Zulat Institute for Equality and Human Rights",
+        "short_name": null,
+        "official_website": "https:\/\/en.zulat.org.il\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    }
+]

@@ -1,0 +1,958 @@
+[
+    {
+        "wikidata_id": "Q19460085",
+        "name": "Academy of Engineering and Medical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Academy of Engineering Sciences",
+            "Academy of Engineering Sciences (Sudan)",
+            "AEMS"
+        ],
+        "latitude": 15.557115,
+        "longitude": 32.509956,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q400222",
+        "name": "Ahfad University for Women",
+        "short_name": null,
+        "official_website": "http:\/\/www.ahfad.edu.sd",
+        "aliases": [
+            "AUW",
+            "ahfad.net",
+            "جامعة الأحفاد للبنات"
+        ],
+        "latitude": 15.6447855,
+        "longitude": 32.4715197,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100947841",
+        "name": "Ahfad University for Women School of Health Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100947842",
+        "name": "Ahfad University for Women School of Psychology and Pre-School Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100947843",
+        "name": "Ahfad University for Women School of Rural Extension Education and Development",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943697",
+        "name": "Ahfad University Regional Institute of Gender Diversity Peace and Rights",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q130408985",
+        "name": "Al Fajr College of Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/fajr.edu.sd\/",
+        "aliases": [
+            "Al-Fajr College",
+            "Alfajr College for Sciences & Technology",
+            "Fajr College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100942493",
+        "name": "Al Manhal University Academy of Science",
+        "short_name": null,
+        "official_website": "http:\/\/manhalacademy.edu.sd\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15648560",
+        "name": "AlMughtaribeen University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "MU",
+            "Expatriate University",
+            "جامعة المغتربين"
+        ],
+        "latitude": 15.5281667,
+        "longitude": 32.5326111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102317100",
+        "name": "Alsalam University",
+        "short_name": null,
+        "official_website": "http:\/\/alsalam.edu.sd\/index.php\/en\/",
+        "aliases": [
+            "AU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4738816",
+        "name": "Alzaiem Alazhari University",
+        "short_name": null,
+        "official_website": "http:\/\/aau.edu.sd\/aauedu\/",
+        "aliases": [
+            "AAU",
+            "aau.edu.sd",
+            "جامعة الزعيم الأزهري"
+        ],
+        "latitude": 15.6378889,
+        "longitude": 32.5267778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3679860",
+        "name": "Arab Open University",
+        "short_name": null,
+        "official_website": "https:\/\/www.arabou.edu.kw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4874272",
+        "name": "Bayan University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bayantech.edu.sd\/en\/index.php",
+        "aliases": [
+            "Bayan College of Science and Technology"
+        ],
+        "latitude": 15.5992,
+        "longitude": 32.5094,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q4929571",
+        "name": "Blue Nile University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bnu.edu.sd\/",
+        "aliases": [
+            "UOBN",
+            "جامعة النيل الازرق"
+        ],
+        "latitude": 11.7851389,
+        "longitude": 34.3471667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5030603",
+        "name": "Canadian Sudanese College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "CSC"
+        ],
+        "latitude": 15.5782,
+        "longitude": 32.5744,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q133328966",
+        "name": "Center for Economic, Legal and Social Studies and Documentation",
+        "short_name": null,
+        "official_website": "https:\/\/cedejsudan.hypotheses.org\/",
+        "aliases": [
+            "CEDEJ Khartoum",
+            "French Centre for Economic, Legal and Social Studies in Sudan"
+        ],
+        "latitude": 15.587734,
+        "longitude": 32.535195,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q115927566",
+        "name": "College of Fine and Applied Art (Khartoum)",
+        "short_name": null,
+        "official_website": "https:\/\/art.sustech.edu\/",
+        "aliases": [
+            "College of Fine and Applied Art",
+            "Khartoum Polytechnic",
+            "School of Design"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5210213",
+        "name": "Dalanj University",
+        "short_name": null,
+        "official_website": "http:\/\/www.dalanjuniversity.edu.sd\/",
+        "aliases": [
+            "dalanjuniversity.edu.sd",
+            "جامعة الدلنج"
+        ],
+        "latitude": 12.06055,
+        "longitude": 29.663032,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q76822227",
+        "name": "El-Nasr University",
+        "short_name": null,
+        "official_website": "http:\/\/elnasrtech.edu.sd\/wordpress\/",
+        "aliases": null,
+        "latitude": 15.6652778,
+        "longitude": 32.4986111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60572517",
+        "name": "Eldaein University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 11.4528801,
+        "longitude": 26.1325243,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q24388511",
+        "name": "Elrazi University",
+        "short_name": null,
+        "official_website": "http:\/\/www.elrazi.edu.sd\/",
+        "aliases": [
+            "Elrazi University (Sudan)",
+            "جامعة الرازي"
+        ],
+        "latitude": 15.5122,
+        "longitude": 32.5927,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16121178",
+        "name": "Elsheikh Abdallah Elbadri University",
+        "short_name": null,
+        "official_website": "https:\/\/eaeu.edu.sd\/",
+        "aliases": [
+            "EAEU",
+            "جامعة الشيخ عبد الله البدري"
+        ],
+        "latitude": 18.0569167,
+        "longitude": 33.9938056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137572127",
+        "name": "Higher Teacher Training Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "HTTI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12235964",
+        "name": "Ibn Sina University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ISU",
+            "Khartoum college of medical sciences",
+            "جامعة ابن سيناء"
+        ],
+        "latitude": 15.5345556,
+        "longitude": 32.5961944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1667493",
+        "name": "International University of Africa",
+        "short_name": null,
+        "official_website": "http:\/\/www.iua.edu.sd",
+        "aliases": [
+            "IUA",
+            "iua.edu.sd",
+            "جامعة أفريقيا العالمية"
+        ],
+        "latitude": 15.5326,
+        "longitude": 32.568,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6368619",
+        "name": "Karary University",
+        "short_name": null,
+        "official_website": "http:\/\/www.karary.edu.sd",
+        "aliases": [
+            "KU",
+            "جامعة كرري"
+        ],
+        "latitude": 15.6158889,
+        "longitude": 32.4780278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q736962",
+        "name": "Kassala University",
+        "short_name": null,
+        "official_website": "http:\/\/kassalauni.edu.sd\/en\/",
+        "aliases": [
+            "Jām'iat Kassala",
+            "Jameat Kassala",
+            "University of Kassala",
+            "جامعة كسلا"
+        ],
+        "latitude": 15.458133,
+        "longitude": 36.403963,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q79467947",
+        "name": "Managil University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.must.edu.sd\/",
+        "aliases": [
+            "MUST",
+            "جامعة المناقل للعلوم والتكنولوجيا"
+        ],
+        "latitude": 14.254942,
+        "longitude": 33.000084,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12236083",
+        "name": "Mashreq University",
+        "short_name": null,
+        "official_website": "http:\/\/ar.mashreq.edu.sd\/",
+        "aliases": [
+            "MU",
+            "جامعة المشرق"
+        ],
+        "latitude": 15.673869,
+        "longitude": 32.551744,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22929403",
+        "name": "Merowe University of Technology - Abdulatif Alhamad",
+        "short_name": null,
+        "official_website": "http:\/\/merowe.edu.sd\/",
+        "aliases": [
+            "MUT",
+            "جامعة مروي التكنولوجية"
+        ],
+        "latitude": 18.453,
+        "longitude": 31.8150278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101421511",
+        "name": "Ministry of Minerals",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Ministry of Mineralsم",
+            "sas.edu.sd"
+        ],
+        "latitude": 15.5869444,
+        "longitude": 32.5361667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17068763",
+        "name": "Nahda College",
+        "short_name": null,
+        "official_website": "http:\/\/nahda.edu.sd\/ar",
+        "aliases": null,
+        "latitude": 15.544394,
+        "longitude": 32.543419,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116789844",
+        "name": "Napata College",
+        "short_name": null,
+        "official_website": "https:\/\/napata.edu.sd",
+        "aliases": [
+            "كلية نبتة"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6978113",
+        "name": "National Ribat University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "NRU",
+            "جامعة الرباط الوطني"
+        ],
+        "latitude": 15.6130556,
+        "longitude": 32.5597222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6971594",
+        "name": "National University - Sudan",
+        "short_name": null,
+        "official_website": "https:\/\/nu.edu.sd\/",
+        "aliases": [
+            "NUSU",
+            "National College for Medical & Technical Studies",
+            "nu.edu.sd",
+            "الجامعة الوطنية - السودان"
+        ],
+        "latitude": 15.5264,
+        "longitude": 32.5889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4121165",
+        "name": "Neelain University",
+        "short_name": null,
+        "official_website": "https:\/\/www.neelain.edu.sd\/",
+        "aliases": [
+            "Al Neelain University",
+            "Al-Neelain University",
+            "Cairo university - Khartoum branch",
+            "neelain.edu.sd",
+            "جامعة النيلين"
+        ],
+        "latitude": 15.6019444,
+        "longitude": 32.515,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7036988",
+        "name": "Nile Valley University",
+        "short_name": null,
+        "official_website": "http:\/\/www.nilevalley.edu.sd\/",
+        "aliases": [
+            "NVU",
+            "nilevalley.edu.sd",
+            "جامعة وادي النيل"
+        ],
+        "latitude": 17.6984167,
+        "longitude": 33.9807222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7070817",
+        "name": "Nyala University",
+        "short_name": null,
+        "official_website": "http:\/\/nyalau.edu.sd\/",
+        "aliases": [
+            "nyalau.edu.sd",
+            "University of Nyala",
+            "جامعة نيالا"
+        ],
+        "latitude": 12.0579722,
+        "longitude": 24.8927778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7089954",
+        "name": "Omdurman Ahlia University",
+        "short_name": null,
+        "official_website": "http:\/\/www.oau.edu.sd\/",
+        "aliases": [
+            "OAU",
+            "oau.edu.sd"
+        ],
+        "latitude": 15.6294,
+        "longitude": 32.4651,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7096264",
+        "name": "Open University of Sudan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "OUS",
+            "جامعة السودان المفتوحة"
+        ],
+        "latitude": 15.5651,
+        "longitude": 32.5626,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7257405",
+        "name": "Public Health Institute, Sudan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "PHI"
+        ],
+        "latitude": 15.5288333,
+        "longitude": 32.5365278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125495689",
+        "name": "Q125495689",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12204407",
+        "name": "Red Sea University",
+        "short_name": null,
+        "official_website": "http:\/\/www.rsu.edu.sd\/",
+        "aliases": [
+            "RSU",
+            "Jām'ah al-Baḥr al-aḥmar",
+            "rsu.edu.sd",
+            "جامعة البحر الاحمر"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137119462",
+        "name": "Salman Al-Farisee Khor Allabd School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7494219",
+        "name": "Shendi University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ush.sd\/",
+        "aliases": [
+            "USH",
+            "جامعة شندي"
+        ],
+        "latitude": 16.7001,
+        "longitude": 33.4293,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7524660",
+        "name": "Sinnar University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uofs.edu.sd\/",
+        "aliases": [
+            "Sennar University",
+            "University of Sennar",
+            "University of Sinnar",
+            "جامعة سنار"
+        ],
+        "latitude": 13.5508,
+        "longitude": 33.6067,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q51954470",
+        "name": "Sudan Institute for Natural Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204430",
+        "name": "Sudan International University",
+        "short_name": null,
+        "official_website": "http:\/\/www.siu-sd.com\/",
+        "aliases": [
+            "SIU",
+            "siu-sd.com",
+            "جامعة السودان العالمية"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101438802",
+        "name": "Sudan Technological University",
+        "short_name": null,
+        "official_website": "http:\/\/stu.edu.sd\/",
+        "aliases": [
+            "STU"
+        ],
+        "latitude": 15.6388056,
+        "longitude": 32.4917222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100942488",
+        "name": "Sudan University College for Women",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q458467",
+        "name": "Sudan University of Science and Technology",
+        "short_name": "SUST",
+        "official_website": "http:\/\/www.sustech.edu\/",
+        "aliases": [
+            "SUST",
+            "Khartoum Polytechnique",
+            "Khartoum Technical Institute",
+            "sustech.edu",
+            "جامعة السودان للعلوم والتكنولوجيا"
+        ],
+        "latitude": 15.599167,
+        "longitude": 32.513333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3013290",
+        "name": "The Future University",
+        "short_name": null,
+        "official_website": "http:\/\/fu.edu.sd\/",
+        "aliases": [
+            "FU",
+            "Computer Man College",
+            "fu.edu.sd",
+            "Future University",
+            "The Future University (Sudan)",
+            "جامعة المستقبل في السودان"
+        ],
+        "latitude": 15.5488,
+        "longitude": 32.5541,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4703811",
+        "name": "University of Alfashir",
+        "short_name": null,
+        "official_website": "http:\/\/www.fashir.edu.sd",
+        "aliases": [
+            "Al Fashir University",
+            "fashir.edu.sd",
+            "جامعة الفاشر"
+        ],
+        "latitude": 13.6283056,
+        "longitude": 25.3219722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895104",
+        "name": "University of Bakhtalruda",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UofB",
+            "جامعة بخت الرضا"
+        ],
+        "latitude": 14.0174,
+        "longitude": 32.3095,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895343",
+        "name": "University of Dongola",
+        "short_name": null,
+        "official_website": "http:\/\/uofd.edu.sd\/",
+        "aliases": [
+            "UofD",
+            "جامعة دنقلا"
+        ],
+        "latitude": 19.1748889,
+        "longitude": 30.4552222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60572518",
+        "name": "University of East Kordofan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UEK",
+            "جامعة شرق كردفان"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61358386",
+        "name": "University of El Geneina",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "جامعة الجنينة"
+        ],
+        "latitude": 13.474431,
+        "longitude": 22.457726,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5351420",
+        "name": "University of El Imam El Mahdi",
+        "short_name": null,
+        "official_website": "http:\/\/www.mahdi.edu.sd\/",
+        "aliases": [
+            "El Imam El Mahdi University",
+            "mahdi.edu.sd",
+            "جامعة الامام المهدي"
+        ],
+        "latitude": 13.3112222,
+        "longitude": 32.6120278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16121205",
+        "name": "University of Gadarif",
+        "short_name": null,
+        "official_website": "http:\/\/gaduniv.edu.sd",
+        "aliases": [
+            "University of El Gadarif",
+            "University of Gedaref",
+            "University of Gedarif",
+            "جامعة القضارف"
+        ],
+        "latitude": 14.0661,
+        "longitude": 35.3329,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16839639",
+        "name": "University of Garden City",
+        "short_name": null,
+        "official_website": "http:\/\/gcst.edu.sd\/arabic\/",
+        "aliases": [
+            "UGC",
+            "Garden City College for Science and Technology",
+            "جامعة قاردن سيتي"
+        ],
+        "latitude": 15.5903601,
+        "longitude": 32.5718527,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7896681",
+        "name": "University of Gezira",
+        "short_name": null,
+        "official_website": "http:\/\/www.uofg.edu.sd",
+        "aliases": [
+            "U of G",
+            "University of al-Jazirah",
+            "UofG",
+            "uofg.edu.sd",
+            "جامعة الجزيرة"
+        ],
+        "latitude": 14.3858611,
+        "longitude": 33.5294722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q656871",
+        "name": "University of Khartoum",
+        "short_name": null,
+        "official_website": "http:\/\/www.uofk.edu\/",
+        "aliases": [
+            "U of K",
+            "UofK",
+            "uofk.edu",
+            "جامعة الخرطوم"
+        ],
+        "latitude": 15.6120889,
+        "longitude": 32.5421,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100947832",
+        "name": "University of Khartoum Department of English Language",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100947833",
+        "name": "University of Khartoum Department of Obstetrics and Gynecology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943695",
+        "name": "University of Khartoum Development Studies and Research Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100947840",
+        "name": "University of Khartoum Institute of African and Asian Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7895609",
+        "name": "University of Kordofan",
+        "short_name": null,
+        "official_website": "http:\/\/www.kordofan.edu.sd",
+        "aliases": [
+            "Kordofan University",
+            "kordofan.edu.sd",
+            "UOFKORD",
+            "جامعة كردفان"
+        ],
+        "latitude": 13.205,
+        "longitude": 30.2379,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895723",
+        "name": "University of Medical Sciences and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.umst-edu.org\/",
+        "aliases": [
+            "UMST",
+            "جامعة العلوم الطبية والتكنلوجيا"
+        ],
+        "latitude": 15.577,
+        "longitude": 32.5575,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896286",
+        "name": "University of Science and Technology – Omdurman",
+        "short_name": null,
+        "official_website": "https:\/\/ust.edu.sd\/",
+        "aliases": [
+            "UST",
+            "University of Science and Technology (Sudan)",
+            "جامعة العلوم والتقانة"
+        ],
+        "latitude": 15.6719,
+        "longitude": 32.4791,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102317098",
+        "name": "University of Technology Khartoum",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896706",
+        "name": "University of the Holy Quran and Islamic Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.quran-unv.edu.sd",
+        "aliases": [
+            "quran-unv.edu.sd",
+            "جامعة القرآن الكريم والعلوم الاسلامية"
+        ],
+        "latitude": 15.6343,
+        "longitude": 32.4914,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896602",
+        "name": "University of West Kordofan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "WKU",
+            "West Kordofan University",
+            "Jameat Gareb Kordofan",
+            "جامعة غرب كردفان"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16121271",
+        "name": "University of Zalingei",
+        "short_name": null,
+        "official_website": "http:\/\/zalingei.edu.sd\/",
+        "aliases": [
+            "zalingei.edu.sd",
+            "جامعة زالنجي"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7958917",
+        "name": "Wad Medani Ahlia University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "جامعة ود مدني الأهلية"
+        ],
+        "latitude": 14.38225,
+        "longitude": 33.5183889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25452881",
+        "name": "White Nile University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "WNU",
+            "جامعة النيل الابيض"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

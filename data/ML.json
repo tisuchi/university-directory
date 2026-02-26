@@ -1,0 +1,199 @@
+[
+    {
+        "wikidata_id": "Q61931717",
+        "name": "Conservatoire des Arts et Métiers Multimédia",
+        "short_name": null,
+        "official_website": "https:\/\/conservatoireartsmali.wordpress.com\/",
+        "aliases": [
+            "Conservatoire Arts et Metiers Multimedia Balla Fasséke Kouyaté",
+            "Conservatoire des Arts et Métiers Multimédia Balla Fasséké Kouyaté"
+        ],
+        "latitude": 12.67236,
+        "longitude": -7.999286,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5333193",
+        "name": "Ecole Normale Supérieure of Bamako",
+        "short_name": null,
+        "official_website": "http:\/\/www.ensupbamako.edu.ml",
+        "aliases": [
+            "Ecole Normale Superieure of Bamako"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130470358",
+        "name": "Institut des sciences humaines",
+        "short_name": null,
+        "official_website": "https:\/\/www.ish-mali.ml\/",
+        "aliases": [
+            "ISH",
+            "I.S.H.",
+            "I.S.H.M.",
+            "Institut des sciences humaines (Bamako, Mali)",
+            "Institut des sciences humaines (Mali)",
+            "Institut des sciences humaines de Bamako",
+            "Institut des sciences humaines du Mali",
+            "Institut des sciences humaines du Mali, Bamako",
+            "Institute of 'Human Sciences'",
+            "ISH Mali",
+            "ISHM",
+            "Mali. Institut des sciences humaines"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q9086948",
+        "name": "Malaria Research and Training Center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "MRTC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100267113",
+        "name": "Point Sud Center for Research on Local Knowledge",
+        "short_name": null,
+        "official_website": "https:\/\/pointsud.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q110663757",
+        "name": "Q110663757",
+        "short_name": null,
+        "official_website": "http:\/\/iglam-mali.com\/",
+        "aliases": null,
+        "latitude": 12.5646558,
+        "longitude": -8.0117889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111582462",
+        "name": "Q111582462",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16643761",
+        "name": "Q16643761",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipr-ifra.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1265294",
+        "name": "Sankore Madrasah",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Sankoré Madrasah",
+            "Sankore Masjid",
+            "Sankoré Masjid",
+            "University of Sankore",
+            "University of Sankoré"
+        ],
+        "latitude": 16.7758333,
+        "longitude": -3.0055556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551674",
+        "name": "Ségou University",
+        "short_name": null,
+        "official_website": "https:\/\/univ-segou.ml",
+        "aliases": null,
+        "latitude": 13.4246538,
+        "longitude": -6.3032921,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1442778",
+        "name": "University of Bamako",
+        "short_name": null,
+        "official_website": "http:\/\/www.ml.refer.org\/u-bamako\/index.php",
+        "aliases": [
+            "University of Mali"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551742",
+        "name": "University of Legal and Political Sciences of Bamako",
+        "short_name": null,
+        "official_website": "http:\/\/www.usjpb.edu.ml\/",
+        "aliases": [
+            "université des sciences juridiques et politiques de Bamako"
+        ],
+        "latitude": 12.6115373,
+        "longitude": -7.9912274,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896465",
+        "name": "University of Timbuktu",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551732",
+        "name": "Université des lettres et des sciences humaines de Bamako",
+        "short_name": null,
+        "official_website": "http:\/\/www.ulshb.edu.ml",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551743",
+        "name": "Université des sciences sociales et de gestion de Bamako",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Université des sciences sociales et de gestion Bamako",
+            "Université des SSG, Bamako",
+            "USSGB"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551733",
+        "name": "Université des Sciences, des Techniques et des Technologies de Bamako",
+        "short_name": null,
+        "official_website": "http:\/\/www.usttb.edu.ml\/",
+        "aliases": [
+            "USTTB",
+            "University of Science, Techniques and Technology of Bamako"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

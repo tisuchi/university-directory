@@ -1,0 +1,411 @@
+[
+    {
+        "wikidata_id": "Q30266822",
+        "name": "Academia Nacional de Ciencias de Bolivia",
+        "short_name": null,
+        "official_website": "http:\/\/www.aciencias.org.bo\/",
+        "aliases": [
+            "National Academy of Sciences of Bolivia",
+            "aciencias.org.bo",
+            "ANCB",
+            "Bolivian National Academy of Sciences",
+            "National Academy of Sciences (Bolivia)"
+        ],
+        "latitude": -16.501561,
+        "longitude": -68.132522,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4939511",
+        "name": "Bolivia Adventist University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uab.edu.bo\/",
+        "aliases": null,
+        "latitude": -17.385901,
+        "longitude": -66.315465,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104836551",
+        "name": "Colegio Porvenir",
+        "short_name": null,
+        "official_website": "http:\/\/wikimapia.org\/40695515\/es\/Colegio-Porvenir",
+        "aliases": [
+            "Colegio Villa Porvenir"
+        ],
+        "latitude": -16.8258991,
+        "longitude": -65.3471909,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q27830758",
+        "name": "Domingo Savio Private University",
+        "short_name": null,
+        "official_website": "http:\/\/www.upds.edu.bo\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3290454",
+        "name": "Higher University of San Andrés",
+        "short_name": null,
+        "official_website": "https:\/\/www.umsa.bo",
+        "aliases": [
+            "UMSA",
+            "Higher University of San Andres"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6041419",
+        "name": "Instituto Normal Superior",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q196101",
+        "name": "Ismael Montes Teacher Training College",
+        "short_name": null,
+        "official_website": "http:\/\/www.normalvacas.edu.bo\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294055",
+        "name": "Juan Misael Saracho University",
+        "short_name": null,
+        "official_website": "https:\/\/www.uajms.edu.bo",
+        "aliases": null,
+        "latitude": -21.546187,
+        "longitude": -64.7229092,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28221022",
+        "name": "Luis Espinal Higher Institute of Philosophy and Humanities",
+        "short_name": null,
+        "official_website": "http:\/\/www.panoramio.com\/photo\/16617236",
+        "aliases": null,
+        "latitude": -17.3822361,
+        "longitude": -66.1561889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q98458371",
+        "name": "Mariscal Sucre Teacher Training College",
+        "short_name": null,
+        "official_website": "https:\/\/www.mariscalsucre.edu.bo\/",
+        "aliases": [
+            "Marshal Sucre Normal School"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7069999",
+        "name": "Núr University",
+        "short_name": null,
+        "official_website": "http:\/\/www.nur.edu",
+        "aliases": [
+            "Nur University",
+            "NUR University",
+            "Nur University Cochabamba",
+            "Nur University La Paz",
+            "Nur University of Santa Cruz de la Sierra",
+            "Nur University Santa Cruz"
+        ],
+        "latitude": -17.7689801,
+        "longitude": -63.1828398,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10968607",
+        "name": "Public University of El Alto",
+        "short_name": null,
+        "official_website": "https:\/\/www.upea.edu.bo\/",
+        "aliases": null,
+        "latitude": -16.4917115,
+        "longitude": -68.1936322,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131312152",
+        "name": "Q131312152",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135985433",
+        "name": "Q135985433",
+        "short_name": null,
+        "official_website": "https:\/\/sociest.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q57636929",
+        "name": "Q57636929",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -15.9722,
+        "longitude": -68.66196,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q930279",
+        "name": "Royal and Pontifical Higher University of San Francisco Xavier of Chuquisaca",
+        "short_name": null,
+        "official_website": "https:\/\/www.usfx.bo\/",
+        "aliases": [
+            "Universidad Mayor, Real y Pontificia de San Francisco Xavier de Chuquisaca"
+        ],
+        "latitude": -19.0471667,
+        "longitude": -65.2611111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q56525054",
+        "name": "Taller de Historia Oral Andina",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q21663334",
+        "name": "Technological University of Bolivia",
+        "short_name": null,
+        "official_website": "http:\/\/utb.edu.bo\/",
+        "aliases": [
+            "UTB"
+        ],
+        "latitude": -16.500656,
+        "longitude": -68.134299,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134122",
+        "name": "Tomás Frías Autonomous University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uatf.edu.bo",
+        "aliases": [
+            "Tomas Frias Autonomous University"
+        ],
+        "latitude": -19.5839,
+        "longitude": -65.7572,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7884816",
+        "name": "Unidad Académica Campesina-Carmen Pampa",
+        "short_name": null,
+        "official_website": "http:\/\/www.uac-cp.edu.bo",
+        "aliases": [
+            "Unidad Academica Campesina-Carmen Pampa"
+        ],
+        "latitude": -16.2582,
+        "longitude": -67.6917,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2495648",
+        "name": "Universidad Andina Simón Bolívar",
+        "short_name": null,
+        "official_website": "http:\/\/uasb.edu.bo\/",
+        "aliases": null,
+        "latitude": -19.049856,
+        "longitude": -65.260108,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30293598",
+        "name": "Universidad Autónoma del Beni",
+        "short_name": null,
+        "official_website": "https:\/\/uabjb.edu.bo\/",
+        "aliases": [
+            "Technical University of Beni"
+        ],
+        "latitude": -14.8125556,
+        "longitude": -64.8946389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894237",
+        "name": "Universidad Autónoma Gabriel René Moreno",
+        "short_name": null,
+        "official_website": "http:\/\/www.uagrm.edu.bo",
+        "aliases": [
+            "Universidad Autonoma Gabriel Rene Moreno"
+        ],
+        "latitude": -17.6967,
+        "longitude": -63.1458,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2495675",
+        "name": "Universidad Católica Boliviana San Pablo",
+        "short_name": null,
+        "official_website": "https:\/\/www.ucb.edu.bo\/",
+        "aliases": [
+            "Universidad Católica Boliviana \"San Pablo\"",
+            "Universidad Catolica Boliviana San Pablo"
+        ],
+        "latitude": -16.5226944,
+        "longitude": -68.1118056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130395818",
+        "name": "Universidad de Los Andes",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25100420",
+        "name": "Universidad Nuestra Señora de La Paz",
+        "short_name": null,
+        "official_website": "http:\/\/www.unslp.edu.bo\/",
+        "aliases": [
+            "UNSLP"
+        ],
+        "latitude": -16.511765,
+        "longitude": -68.12815,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30293988",
+        "name": "Universidad Privada Abierta Latinoamericana",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q9091601",
+        "name": "Universidad Privada de Santa Cruz de la Sierra",
+        "short_name": null,
+        "official_website": "http:\/\/www.upsa.edu.bo",
+        "aliases": [
+            "UPSA"
+        ],
+        "latitude": -17.7608667,
+        "longitude": -63.1475389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q9091606",
+        "name": "Universidad Privada del Valle",
+        "short_name": null,
+        "official_website": "https:\/\/www.univalle.edu\/",
+        "aliases": null,
+        "latitude": -17.3306858,
+        "longitude": -66.225933,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q9091593",
+        "name": "Universidad Privada Franz Tamayo",
+        "short_name": null,
+        "official_website": "http:\/\/www.unifranz.edu.bo\/",
+        "aliases": null,
+        "latitude": -17.7739535,
+        "longitude": -63.1924443,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16644547",
+        "name": "Universidad Santiago del Granado",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109591682",
+        "name": "Universidad Simón I. Patiño",
+        "short_name": null,
+        "official_website": "http:\/\/usip.edu.bo",
+        "aliases": [
+            "USIP"
+        ],
+        "latitude": -17.3753611,
+        "longitude": -66.1348333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894325",
+        "name": "Universidad Técnica de Oruro",
+        "short_name": null,
+        "official_website": "https:\/\/www.uto.edu.bo\/",
+        "aliases": [
+            "Universidad Tecnica de Oruro"
+        ],
+        "latitude": -17.9919,
+        "longitude": -67.1364,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10387889",
+        "name": "University of Aquino Bolivia",
+        "short_name": null,
+        "official_website": "http:\/\/www.udabol.edu.bo",
+        "aliases": [
+            "UDABOL"
+        ],
+        "latitude": -17.7683333,
+        "longitude": -63.2016667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1767912",
+        "name": "University of San Simón",
+        "short_name": null,
+        "official_website": "http:\/\/www.umss.edu.bo",
+        "aliases": [
+            "Universidad Mayor de San Simón",
+            "University of Cochabamba",
+            "University of San Simon"
+        ],
+        "latitude": -17.3933727,
+        "longitude": -66.1449641,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q114457320",
+        "name": "Zacarias Benavides Art Academy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

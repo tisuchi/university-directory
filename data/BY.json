@@ -1,0 +1,2294 @@
+[
+    {
+        "wikidata_id": "Q4201754",
+        "name": "A.V. Luikov Heat and Mass Transfer Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.itmo.by",
+        "aliases": [
+            "A.V. Luikov Heat and Mass Transfer Institute of NAS of Belarus",
+            "ASC HMTI"
+        ],
+        "latitude": 53.91332,
+        "longitude": 27.60242,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2005698",
+        "name": "Academy of Public Administration",
+        "short_name": null,
+        "official_website": "https:\/\/www.pac.by",
+        "aliases": [
+            "Academy of Public Administration (Belarus)",
+            "Belusian Academy of Public Administration"
+        ],
+        "latitude": 53.8866667,
+        "longitude": 27.5388889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q260368",
+        "name": "B.I. Stepanov Institute of Physics",
+        "short_name": null,
+        "official_website": "http:\/\/ifanbel.basnet.by\/",
+        "aliases": null,
+        "latitude": 53.92149,
+        "longitude": 27.600026,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q946573",
+        "name": "Baranavichy State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.barsu.by",
+        "aliases": [
+            "BarSU"
+        ],
+        "latitude": 53.124642,
+        "longitude": 26.039899,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116730946",
+        "name": "Barysaŭ state pedagogical college",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q42298278",
+        "name": "Belarusian College of Arts named Ivan Akhremchik",
+        "short_name": null,
+        "official_website": "http:\/\/gki.by\/",
+        "aliases": null,
+        "latitude": 53.92025,
+        "longitude": 27.62555,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q815268",
+        "name": "Belarusian National Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bntu.by\/",
+        "aliases": [
+            "Belarus National Technical University",
+            "Belarusian State Polytechnic Academy",
+            "Belarusian State Polytechnic Institute"
+        ],
+        "latitude": 53.9208333,
+        "longitude": 27.5927778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1975956",
+        "name": "Belarusian State Academy of Arts",
+        "short_name": null,
+        "official_website": "http:\/\/www.bdam.by",
+        "aliases": null,
+        "latitude": 53.9227778,
+        "longitude": 27.6011111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2032304",
+        "name": "Belarusian State Academy of Music",
+        "short_name": null,
+        "official_website": "https:\/\/www.bgam.by\/",
+        "aliases": null,
+        "latitude": 53.9027778,
+        "longitude": 27.5577778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4082743",
+        "name": "Belarusian State Agrarian Technical University",
+        "short_name": null,
+        "official_website": "https:\/\/www.bsatu.by\/",
+        "aliases": [
+            "Belarusian State University of Agricultural Technology",
+            "BSATU"
+        ],
+        "latitude": 53.92732,
+        "longitude": 27.62244,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2385041",
+        "name": "Belarusian State Agricultural Academy",
+        "short_name": null,
+        "official_website": "http:\/\/baa.by",
+        "aliases": [
+            "Belarusian Agricultural Academy",
+            "Belarusian State Academy of Agriculture"
+        ],
+        "latitude": 54.2963889,
+        "longitude": 30.9891667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2628140",
+        "name": "Belarusian State Economic University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bseu.by\/",
+        "aliases": [
+            "Belarus State Economic University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2510885",
+        "name": "Belarusian State Medical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bsmu.by",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4082750",
+        "name": "Belarusian State Technological University",
+        "short_name": null,
+        "official_website": "https:\/\/www.belstu.by\/",
+        "aliases": [
+            "Belarus Devlet Teknoloji Üniversitesi",
+            "Belorussiýanyň Döwlet Tehnologiki Uniwersiteti",
+            "Universidad Estatal Tecnológica Bielorrusa",
+            "Université Technologique Biélorusse"
+        ],
+        "latitude": 53.8916667,
+        "longitude": 27.56,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2418908",
+        "name": "Belarusian State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bsu.by",
+        "aliases": [
+            "BSU"
+        ],
+        "latitude": 53.893889,
+        "longitude": 27.546944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3646646",
+        "name": "Belarusian State University of Culture and Arts",
+        "short_name": null,
+        "official_website": "http:\/\/www.buk.by",
+        "aliases": null,
+        "latitude": 53.8869444,
+        "longitude": 27.5416667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6510229",
+        "name": "Belarusian State University of Food and Chemical Technologies",
+        "short_name": null,
+        "official_website": "https:\/\/bgut.by",
+        "aliases": [
+            "Mogilev State University of Food Technologies",
+            "Mogilevskii Gosudarstvennyi Universitet Prodovol'Stvija UO"
+        ],
+        "latitude": 53.874,
+        "longitude": 30.3165,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2992066",
+        "name": "Belarusian State University of Foreign Languages",
+        "short_name": null,
+        "official_website": "https:\/\/bsufl.by\/",
+        "aliases": [
+            "MSLU",
+            "Minsk State Linguistic University",
+            "BSUFL Belarus",
+            "MSLU Belarus",
+            "MSLU Minsk"
+        ],
+        "latitude": 53.907111,
+        "longitude": 27.578077,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q816145",
+        "name": "Belarusian State University of Informatics and Radioelectronics",
+        "short_name": null,
+        "official_website": "http:\/\/www.bsuir.by\/",
+        "aliases": [
+            "Minsk Radio Engineering Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3919998",
+        "name": "Belarusian State University of Physical Culture",
+        "short_name": null,
+        "official_website": "http:\/\/www.sportedu.by",
+        "aliases": [
+            "Belarusian State University of Physical Education",
+            "Belarusian State University of Physical Training"
+        ],
+        "latitude": 53.9355556,
+        "longitude": 27.4897222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1964941",
+        "name": "Belarusian State University of Transport",
+        "short_name": null,
+        "official_website": "http:\/\/bsut.by\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4881948",
+        "name": "Belarusian Trade-Economic University of Consumer Cooperation",
+        "short_name": null,
+        "official_website": "http:\/\/i-bteu.by\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3918587",
+        "name": "Belarusian-Russian University",
+        "short_name": null,
+        "official_website": "http:\/\/bru.by\/",
+        "aliases": null,
+        "latitude": 53.907753,
+        "longitude": 30.34395,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17270007",
+        "name": "BIP — Institute of Law",
+        "short_name": null,
+        "official_website": "http:\/\/bip-ip.by\/",
+        "aliases": [
+            "Minsk Law School",
+            "The Belarusian Institute of Law"
+        ],
+        "latitude": 53.90118,
+        "longitude": 27.54424,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4201651",
+        "name": "Border Guard Service Institute of Belarus",
+        "short_name": null,
+        "official_website": "http:\/\/ips.gpk.gov.by",
+        "aliases": null,
+        "latitude": 53.9432227,
+        "longitude": 27.6303918,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2638914",
+        "name": "Brest State A.S. Pushkin University",
+        "short_name": null,
+        "official_website": "http:\/\/www.brsu.by",
+        "aliases": [
+            "A.S. Pushkin Brest State University",
+            "Brest State A. Pushkin University",
+            "Brest State University named after A.S. Pushkin"
+        ],
+        "latitude": 52.09833,
+        "longitude": 23.6941,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1790193",
+        "name": "Brest State Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bstu.by",
+        "aliases": null,
+        "latitude": 52.0966107,
+        "longitude": 23.7586524,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106069813",
+        "name": "Central Research Institute for the Integrated Use of Water Resources",
+        "short_name": null,
+        "official_website": "http:\/\/www.cricuwr.by",
+        "aliases": [
+            "RUE \"TsNIIKIVR\"",
+            "TsNIIKIVR"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17046383",
+        "name": "Department of Agrarian Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17046386",
+        "name": "Department of Biological Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17046396",
+        "name": "Department of Medical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17560657",
+        "name": "Department of Physical and Technical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q98217145",
+        "name": "Department of Physics, Mathematics and Informatics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q138035308",
+        "name": "Department of Political Economy of BSU",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "BSU Department of Political Economy"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2496026",
+        "name": "Euphrosyne Polotskaya State University of Polotsk",
+        "short_name": null,
+        "official_website": "https:\/\/www.psu.by",
+        "aliases": [
+            "Euphrosyne Polotskaya State University of Polotsk"
+        ],
+        "latitude": 55.5287,
+        "longitude": 28.6467,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1377393",
+        "name": "European Humanities University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ehu.lt",
+        "aliases": null,
+        "latitude": 54.6825,
+        "longitude": 25.2872222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2630637",
+        "name": "Francišak Skaryna Gomel State University",
+        "short_name": null,
+        "official_website": "http:\/\/gsu.by",
+        "aliases": [
+            "Francisk Scorina Gomel State University"
+        ],
+        "latitude": 52.4430556,
+        "longitude": 31.0011111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4142924",
+        "name": "Gomel Engineering Institute",
+        "short_name": null,
+        "official_website": "http:\/\/gii.by",
+        "aliases": null,
+        "latitude": 52.414,
+        "longitude": 30.94,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q47002446",
+        "name": "Gomel State Agrarian and Economics College",
+        "short_name": null,
+        "official_website": "http:\/\/ggaek.by",
+        "aliases": null,
+        "latitude": 52.419424,
+        "longitude": 31.008726,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q36278415",
+        "name": "Gomel State Engineering College",
+        "short_name": null,
+        "official_website": "http:\/\/uoggmk.by",
+        "aliases": null,
+        "latitude": 52.4067,
+        "longitude": 30.90853,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1969692",
+        "name": "Gomel State Medical University",
+        "short_name": null,
+        "official_website": "http:\/\/gsmu.by\/",
+        "aliases": [
+            "Homiel State Medical University"
+        ],
+        "latitude": 52.4280556,
+        "longitude": 31.0158333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q55719803",
+        "name": "Gomel State Road-Building College",
+        "short_name": null,
+        "official_website": "http:\/\/ggdst.gomel.by\/",
+        "aliases": null,
+        "latitude": 52.42599,
+        "longitude": 31.00858,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q104713677",
+        "name": "Grodno State College of Arts",
+        "short_name": null,
+        "official_website": "https:\/\/gumcol.grsu.by\/",
+        "aliases": [
+            "Grodno Humanitarian College"
+        ],
+        "latitude": 53.677773,
+        "longitude": 23.8406155,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q2067552",
+        "name": "Grodno State Medical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.grsmu.by\/",
+        "aliases": [
+            "GrDMU",
+            "GrSMU"
+        ],
+        "latitude": 53.7007,
+        "longitude": 23.8172,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3917904",
+        "name": "Hrodna State Agricultural University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ggau.by\/",
+        "aliases": null,
+        "latitude": 53.6962,
+        "longitude": 23.84828,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108864413",
+        "name": "Institute for the Meat and Dairy Industry",
+        "short_name": null,
+        "official_website": "http:\/\/www.instmmp.by\/",
+        "aliases": null,
+        "latitude": 53.8461111,
+        "longitude": 27.5108333,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q106766788",
+        "name": "Institute for Vegetable Growing",
+        "short_name": null,
+        "official_website": "https:\/\/belniio.by\/",
+        "aliases": [
+            "Belarusian Scientific and Research Institute for Vegetable Growing"
+        ],
+        "latitude": 53.737347,
+        "longitude": 27.5120996,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30274104",
+        "name": "Institute of Applied Physics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IAPH",
+            "Institute of Applied Physics of the National Academy of Sciences of Belarus"
+        ],
+        "latitude": 53.91325,
+        "longitude": 27.60539,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4201835",
+        "name": "Institute of Economics of the National Academy of Sciences of Belarus",
+        "short_name": null,
+        "official_website": "http:\/\/economics.basnet.by\/",
+        "aliases": null,
+        "latitude": 53.916717,
+        "longitude": 27.603279,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18907623",
+        "name": "Institute of Entrepreneurial Activity",
+        "short_name": null,
+        "official_website": "http:\/\/www.uoipd.by\/",
+        "aliases": null,
+        "latitude": 53.8898061,
+        "longitude": 27.58725,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q41798458",
+        "name": "Institute of Experimental Veterinary Medicine",
+        "short_name": null,
+        "official_website": "http:\/\/bievm.by\/",
+        "aliases": [
+            "S.N.Vyshelessky Institute of Experimental Veterinary Medicine"
+        ],
+        "latitude": 53.906944,
+        "longitude": 27.413333,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4201566",
+        "name": "Institute of Flax",
+        "short_name": null,
+        "official_website": "http:\/\/institut-lna.by",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q42565743",
+        "name": "Institute of General and Inorganic Chemistry of the National Academy of Sciences of Belarus",
+        "short_name": null,
+        "official_website": "http:\/\/www.igic.bas-net.by\/",
+        "aliases": [
+            "Institute of General and Inorganic Chemistry",
+            "IGIC"
+        ],
+        "latitude": 53.9188228,
+        "longitude": 27.6023851,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q109924184",
+        "name": "Institute of Housing and Communal Services",
+        "short_name": null,
+        "official_website": "https:\/\/institut-gkh.by\/",
+        "aliases": [
+            "IHCS"
+        ],
+        "latitude": 53.926616,
+        "longitude": 27.689203,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16677223",
+        "name": "Institute of Mahilioŭ Ministry of Internal Affairs of the Republic of Belarus",
+        "short_name": null,
+        "official_website": "https:\/\/institutemvd.by\/",
+        "aliases": null,
+        "latitude": 53.938368,
+        "longitude": 30.355313,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q77077280",
+        "name": "Institute of Microbiology",
+        "short_name": null,
+        "official_website": "http:\/\/mbio.bas-net.by\/",
+        "aliases": null,
+        "latitude": 53.927696,
+        "longitude": 27.684909,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16655757",
+        "name": "Institute of Philosophy of the National Academy of Sciences of Belarus",
+        "short_name": null,
+        "official_website": "http:\/\/philosophy.by\/",
+        "aliases": null,
+        "latitude": 53.91661,
+        "longitude": 27.60329,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q105425406",
+        "name": "Institute of Power Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipe.by\/",
+        "aliases": [
+            "IPE",
+            "BelIKO"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q40886197",
+        "name": "Institute of Sociology of the National Academy of Sciences of Belarus",
+        "short_name": null,
+        "official_website": "http:\/\/socio.bas-net.by\/",
+        "aliases": [
+            "Institute of Sociology of the National Academy of Sciences of Belarus"
+        ],
+        "latitude": 53.9166558,
+        "longitude": 27.6011223,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q108507365",
+        "name": "Institute of System Researches in Agroindustrial Complex of of the National Academy of Sciences of Belarus",
+        "short_name": null,
+        "official_website": "https:\/\/refor.by\/be",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30257297",
+        "name": "International Humanitarian and Economic Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.mgei.org\/",
+        "aliases": null,
+        "latitude": 53.860725,
+        "longitude": 27.576097,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29388735",
+        "name": "International Institute of Management and Business",
+        "short_name": null,
+        "official_website": "https:\/\/imb.by\/",
+        "aliases": null,
+        "latitude": 53.94188,
+        "longitude": 27.63356,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1503368",
+        "name": "International Sakharov Environmental University",
+        "short_name": null,
+        "official_website": "https:\/\/www.iseu.bsu.by\/ru",
+        "aliases": null,
+        "latitude": 53.8930556,
+        "longitude": 27.6144444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4288587",
+        "name": "International University MITSO",
+        "short_name": null,
+        "official_website": "http:\/\/mitso.by",
+        "aliases": [
+            "International Institute of Labour and Social Relations"
+        ],
+        "latitude": 53.861365,
+        "longitude": 27.520536,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3919264",
+        "name": "Jesuit Academy of Polotsk",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 55.4862945,
+        "longitude": 28.7646111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4330438",
+        "name": "Joint Institute for Power and Nuclear Research",
+        "short_name": null,
+        "official_website": "http:\/\/sosny.bas-net.by\/",
+        "aliases": [
+            "JIPNR \"Sosny\"",
+            "Joint Institute for Power and Nuclear Research – Sosny of the National Academy of Sciences of Belarus",
+            "State Scientific Institution “The Joint Institute for Power and Nuclear Research – Sosny”"
+        ],
+        "latitude": 53.83415,
+        "longitude": 27.78909,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4070890",
+        "name": "Mahilioŭ Architecture and Civil Engineering College",
+        "short_name": null,
+        "official_website": "http:\/\/ask-bru.by",
+        "aliases": null,
+        "latitude": 53.909875,
+        "longitude": 30.312458,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q2858236",
+        "name": "Mahilow State A. Kulašow University",
+        "short_name": null,
+        "official_website": "https:\/\/www.msu.by",
+        "aliases": [
+            "Arkadź Kulašow Mogilev State University",
+            "Mahilow State University",
+            "Mahilow State University named after Arkadź Kulašow",
+            "Mahilowski dziaržaŭny univiersitet imia Arkadzia Kulašova"
+        ],
+        "latitude": 53.91221,
+        "longitude": 30.31643,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29113417",
+        "name": "Marjina Horka Agrarian Technical College",
+        "short_name": null,
+        "official_website": "http:\/\/mgatk.by\/",
+        "aliases": null,
+        "latitude": 53.53303,
+        "longitude": 28.12504,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q2027201",
+        "name": "Maxim Tank Belarusian State Pedagogical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bspu.by",
+        "aliases": [
+            "Belarusian State Pedagogical University",
+            "BSPU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4059211",
+        "name": "Ministry of the Interior Academy of the Republic of Belarus",
+        "short_name": null,
+        "official_website": "http:\/\/academy.mia.by",
+        "aliases": [
+            "Academy of the Interior Ministry of the Republic of Belarus"
+        ],
+        "latitude": 53.9125,
+        "longitude": 27.5769445,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q31213141",
+        "name": "Minsk Financial-Economic College",
+        "short_name": null,
+        "official_website": "http:\/\/mfec.by\/",
+        "aliases": null,
+        "latitude": 53.9148,
+        "longitude": 27.577,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1631204",
+        "name": "Minsk Innovation University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Minsk Institute of Management"
+        ],
+        "latitude": 53.8699,
+        "longitude": 27.6602,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4295216",
+        "name": "Minsk Radioengineering College",
+        "short_name": null,
+        "official_website": "http:\/\/mrk-bsuir.by\/",
+        "aliases": [
+            "Belarusian State Academy of Telecommunications",
+            "Minsk State Higher Radioengineering College",
+            "UO Belarusian State Academy of Telecommunications"
+        ],
+        "latitude": 53.919178,
+        "longitude": 27.59279,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q110876497",
+        "name": "Minsk Research Institute of Radiomaterials",
+        "short_name": null,
+        "official_website": "https:\/\/mniirm.by\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1964452",
+        "name": "Minsk State Art College",
+        "short_name": null,
+        "official_website": "http:\/\/glebovka.by",
+        "aliases": [
+            "Glebov Minsk Art School",
+            "Glebov Minsk State Art College",
+            "Minsk Art School"
+        ],
+        "latitude": 53.922383,
+        "longitude": 27.595274,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q102014248",
+        "name": "Minsk State Energy College",
+        "short_name": null,
+        "official_website": "http:\/\/mgek.by\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q14659850",
+        "name": "Minsk State Musical College name after Mikhail Glinka",
+        "short_name": null,
+        "official_website": "http:\/\/glinka-edu.by",
+        "aliases": [
+            "Minsk State Musical College name after Michail Glinka"
+        ],
+        "latitude": 53.91558,
+        "longitude": 27.52849,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q26897675",
+        "name": "Minsk State Polytechnic College",
+        "short_name": null,
+        "official_website": "https:\/\/mgpk.bntu.by\/",
+        "aliases": null,
+        "latitude": 53.92333,
+        "longitude": 27.60278,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q100981927",
+        "name": "Mogilev State Music College M. A. Rimsky-Korsakov",
+        "short_name": null,
+        "official_website": "http:\/\/www.muzic.mogilev.by\/",
+        "aliases": null,
+        "latitude": 53.9033333,
+        "longitude": 30.3421667,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q2026214",
+        "name": "Mozyr State Pedagogical University named after I.P. Shamyakin",
+        "short_name": null,
+        "official_website": "http:\/\/mspu.by",
+        "aliases": null,
+        "latitude": 52.05062,
+        "longitude": 29.25956,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27929469",
+        "name": "Musical college, Maladzechna",
+        "short_name": null,
+        "official_website": "https:\/\/molmk.by",
+        "aliases": null,
+        "latitude": 54.30776,
+        "longitude": 26.82883,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q17046389",
+        "name": "National Academy of Sciences of Belarus Department of Humanities and Arts",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Belarus National Academy of Sciences Department of Humanities and Arts"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q42415980",
+        "name": "National Security Academy of the Republic of Belarus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Institute of National Security of the Republic of Belarus",
+            "National Security Academy of Belarus",
+            "National Security Institute of Belarus",
+            "National Security Institute of the Republic of Belarus",
+            "NSA of Belarus",
+            "NSI of Belarus"
+        ],
+        "latitude": 53.9077,
+        "longitude": 27.58226,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136094210",
+        "name": "Navahrudak College of Trade and Economics",
+        "short_name": null,
+        "official_website": "http:\/\/ntek.by\/",
+        "aliases": null,
+        "latitude": 53.592565,
+        "longitude": 25.820879,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q136172948",
+        "name": "Navahrudak State College",
+        "short_name": null,
+        "official_website": "https:\/\/ngspl.by\/",
+        "aliases": [
+            "Navahrudak State Agricultural Professional Lyceum"
+        ],
+        "latitude": 53.5982737,
+        "longitude": 25.841898,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q50403842",
+        "name": "Nil Hilevich University",
+        "short_name": null,
+        "official_website": "http:\/\/nhu.by\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q31203646",
+        "name": "Novopolotsk State Musical College",
+        "short_name": null,
+        "official_website": "http:\/\/www.ngmk.by\/en\/index.htm",
+        "aliases": null,
+        "latitude": 55.5346903,
+        "longitude": 28.6396761,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q47007463",
+        "name": "Orshan College of the Belarusian State University of Transport",
+        "short_name": null,
+        "official_website": "http:\/\/ogkjt.bsut.by\/",
+        "aliases": null,
+        "latitude": 54.5118,
+        "longitude": 30.35868,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q86445001",
+        "name": "Orša State Mechanical-Economic College",
+        "short_name": null,
+        "official_website": "http:\/\/www.osmec.by\/",
+        "aliases": [
+            "Orsha State Mechanical-Economic College"
+        ],
+        "latitude": 54.4993333,
+        "longitude": 30.4020278,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q2026860",
+        "name": "Pavel Sukhoi State Technical University of Gomel",
+        "short_name": null,
+        "official_website": "https:\/\/www.gstu.by\/",
+        "aliases": [
+            "P.O. Sukhoy Homiel State Technical University"
+        ],
+        "latitude": 52.4069444,
+        "longitude": 30.9383333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30274094",
+        "name": "Physical Technical Institute",
+        "short_name": null,
+        "official_website": "http:\/\/phti.by\/",
+        "aliases": [
+            "PTI",
+            "Physico-Technical Institute",
+            "Physico-Technical Institute, National Academy of Sciences of Belarus"
+        ],
+        "latitude": 53.92651,
+        "longitude": 27.68917,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q113612068",
+        "name": "Pinsk State Agrarian and Technical College",
+        "short_name": null,
+        "official_website": "http:\/\/pgatkk.by\/",
+        "aliases": null,
+        "latitude": 52.119879,
+        "longitude": 26.118022,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q2025592",
+        "name": "Polessky State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.psunbrb.by\/",
+        "aliases": null,
+        "latitude": 52.113654,
+        "longitude": 26.113048,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q13634468",
+        "name": "Polish People's University in Brest",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 52.097778,
+        "longitude": 23.6975,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1250804",
+        "name": "Polish People's University in Minsk",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 53.906944,
+        "longitude": 27.576944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4370729",
+        "name": "Polotsk State Forestry College",
+        "short_name": null,
+        "official_website": "http:\/\/pglk.belstu.by\/",
+        "aliases": null,
+        "latitude": 55.50293,
+        "longitude": 28.77555,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q30274131",
+        "name": "Powder Metallurgy Institute",
+        "short_name": null,
+        "official_website": "http:\/\/pminstitute.by\/",
+        "aliases": [
+            "IPM"
+        ],
+        "latitude": 53.91197,
+        "longitude": 27.59669,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100534698",
+        "name": "Q100534698",
+        "short_name": null,
+        "official_website": "http:\/\/musicollege.by\/",
+        "aliases": null,
+        "latitude": 53.889843,
+        "longitude": 25.302339,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q100741618",
+        "name": "Q100741618",
+        "short_name": null,
+        "official_website": "https:\/\/artcollege-gomel.by",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q100805152",
+        "name": "Q100805152",
+        "short_name": null,
+        "official_website": "http:\/\/mgke.minsk.edu.by\/be\/main.aspx",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q102252910",
+        "name": "Q102252910",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q102253079",
+        "name": "Q102253079",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q102253356",
+        "name": "Q102253356",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q102253494",
+        "name": "Q102253494",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q104713269",
+        "name": "Q104713269",
+        "short_name": null,
+        "official_website": "https:\/\/ltk.grsu.by\/",
+        "aliases": null,
+        "latitude": 53.8931817,
+        "longitude": 25.3034264,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q104713841",
+        "name": "Q104713841",
+        "short_name": null,
+        "official_website": "http:\/\/tk.grsu.by\/",
+        "aliases": null,
+        "latitude": 53.7029925,
+        "longitude": 23.8159737,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q104717218",
+        "name": "Q104717218",
+        "short_name": null,
+        "official_website": "http:\/\/lenino-gpk.by\/",
+        "aliases": null,
+        "latitude": 54.4072575,
+        "longitude": 31.1260558,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q105207562",
+        "name": "Q105207562",
+        "short_name": null,
+        "official_website": "http:\/\/www.krichev-college.by",
+        "aliases": null,
+        "latitude": 53.692318,
+        "longitude": 31.69882,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q105207937",
+        "name": "Q105207937",
+        "short_name": null,
+        "official_website": "https:\/\/bgkpsm.belstu.by",
+        "aliases": null,
+        "latitude": 53.881346,
+        "longitude": 27.491762,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q105971755",
+        "name": "Q105971755",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q108296812",
+        "name": "Q108296812",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109558648",
+        "name": "Q109558648",
+        "short_name": null,
+        "official_website": "http:\/\/www.ngaek.by",
+        "aliases": null,
+        "latitude": 53.974524,
+        "longitude": 27.130794,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q110560445",
+        "name": "Q110560445",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q114797573",
+        "name": "Q114797573",
+        "short_name": null,
+        "official_website": "https:\/\/vgik.by",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q114797734",
+        "name": "Q114797734",
+        "short_name": null,
+        "official_website": "https:\/\/vgitk.by",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q115863819",
+        "name": "Q115863819",
+        "short_name": null,
+        "official_website": "http:\/\/www.bobruisk.belstu.by\/",
+        "aliases": null,
+        "latitude": 53.162861,
+        "longitude": 29.230211,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q116449040",
+        "name": "Q116449040",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q120199169",
+        "name": "Q120199169",
+        "short_name": null,
+        "official_website": "https:\/\/ptu65.brest.by\/",
+        "aliases": null,
+        "latitude": 52.09854,
+        "longitude": 23.652201,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q124032444",
+        "name": "Q124032444",
+        "short_name": null,
+        "official_website": "https:\/\/cniitu.by\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q125379586",
+        "name": "Q125379586",
+        "short_name": null,
+        "official_website": "http:\/\/novgpl.brest.by\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q130258699",
+        "name": "Q130258699",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q13032831",
+        "name": "Q13032831",
+        "short_name": null,
+        "official_website": "http:\/\/saec.by\/",
+        "aliases": null,
+        "latitude": 51.89782,
+        "longitude": 26.86578,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q134974479",
+        "name": "Q134974479",
+        "short_name": null,
+        "official_website": "https:\/\/muzcolleg.by\/",
+        "aliases": null,
+        "latitude": 52.036317,
+        "longitude": 29.237863,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q137294566",
+        "name": "Q137294566",
+        "short_name": null,
+        "official_website": "https:\/\/kedyshko-college.by\/",
+        "aliases": null,
+        "latitude": 53.926625,
+        "longitude": 27.588218,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q137697873",
+        "name": "Q137697873",
+        "short_name": null,
+        "official_website": "https:\/\/groiro.by\/",
+        "aliases": null,
+        "latitude": 53.670692,
+        "longitude": 23.821076,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17043639",
+        "name": "Q17043639",
+        "short_name": null,
+        "official_website": "http:\/\/www.agrokoledj.vitebsk.by\/",
+        "aliases": null,
+        "latitude": 55.2538,
+        "longitude": 30.13967,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q18147416",
+        "name": "Q18147416",
+        "short_name": null,
+        "official_website": "https:\/\/nesko.by",
+        "aliases": null,
+        "latitude": 53.21596,
+        "longitude": 26.68088,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q18665955",
+        "name": "Q18665955",
+        "short_name": null,
+        "official_website": "http:\/\/mgak.ripo.unibel.by",
+        "aliases": null,
+        "latitude": 53.86298,
+        "longitude": 27.65541,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q18907647",
+        "name": "Q18907647",
+        "short_name": null,
+        "official_website": "http:\/\/lgatk.edu.by",
+        "aliases": null,
+        "latitude": 54.88231,
+        "longitude": 28.70266,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q24071259",
+        "name": "Q24071259",
+        "short_name": null,
+        "official_website": "https:\/\/bghgk.by",
+        "aliases": null,
+        "latitude": 53.90784,
+        "longitude": 27.482369,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q29896468",
+        "name": "Q29896468",
+        "short_name": null,
+        "official_website": "http:\/\/pedcol.vsu.by\/",
+        "aliases": null,
+        "latitude": 55.4922222,
+        "longitude": 28.7691667,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q29899173",
+        "name": "Q29899173",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 54.08895,
+        "longitude": 28.31353,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q29905689",
+        "name": "Q29905689",
+        "short_name": null,
+        "official_website": "http:\/\/www.ngpk.by\/ru\/",
+        "aliases": null,
+        "latitude": 55.5351667,
+        "longitude": 28.6289722,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q29951263",
+        "name": "Q29951263",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q30095297",
+        "name": "Q30095297",
+        "short_name": null,
+        "official_website": "http:\/\/ggkjt.bsut.by\/",
+        "aliases": null,
+        "latitude": 52.4400278,
+        "longitude": 31.0049722,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q30095928",
+        "name": "Q30095928",
+        "short_name": null,
+        "official_website": "https:\/\/med1.by",
+        "aliases": null,
+        "latitude": 53.896907,
+        "longitude": 30.340829,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q30098455",
+        "name": "Q30098455",
+        "short_name": null,
+        "official_website": "https:\/\/sgk.msu.by\/",
+        "aliases": null,
+        "latitude": 53.89615,
+        "longitude": 30.33779,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q30333205",
+        "name": "Q30333205",
+        "short_name": null,
+        "official_website": "http:\/\/www.mgbk.mogilev.by\/",
+        "aliases": null,
+        "latitude": 53.91186,
+        "longitude": 30.31376,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q30337102",
+        "name": "Q30337102",
+        "short_name": null,
+        "official_website": "https:\/\/rgpk.by\/",
+        "aliases": null,
+        "latitude": 52.3577648,
+        "longitude": 30.4098127,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q30337108",
+        "name": "Q30337108",
+        "short_name": null,
+        "official_website": "https:\/\/moggki.by\/",
+        "aliases": null,
+        "latitude": 53.896883,
+        "longitude": 30.336063,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q30595091",
+        "name": "Q30595091",
+        "short_name": null,
+        "official_website": "http:\/\/ggki.by\/",
+        "aliases": null,
+        "latitude": 52.42884,
+        "longitude": 31.01198,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q31033164",
+        "name": "Q31033164",
+        "short_name": null,
+        "official_website": "https:\/\/pinskcol.brsu.by\/be",
+        "aliases": null,
+        "latitude": 52.1367107,
+        "longitude": 26.1102084,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q31202650",
+        "name": "Q31202650",
+        "short_name": null,
+        "official_website": "https:\/\/mgpk.by\/",
+        "aliases": null,
+        "latitude": 54.30808,
+        "longitude": 26.83926,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q31213277",
+        "name": "Q31213277",
+        "short_name": null,
+        "official_website": "http:\/\/agrocollege.brest.by\/",
+        "aliases": null,
+        "latitude": 53.0331,
+        "longitude": 26.26613,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q31273795",
+        "name": "Q31273795",
+        "short_name": null,
+        "official_website": "http:\/\/www.mtec.by",
+        "aliases": null,
+        "latitude": 54.30597,
+        "longitude": 26.83983,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q33141147",
+        "name": "Q33141147",
+        "short_name": null,
+        "official_website": "http:\/\/www.gpk.by",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q33292128",
+        "name": "Q33292128",
+        "short_name": null,
+        "official_website": "http:\/\/lawcollege.bsu.by",
+        "aliases": null,
+        "latitude": 53.90025,
+        "longitude": 27.55536,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q36277819",
+        "name": "Q36277819",
+        "short_name": null,
+        "official_website": "https:\/\/kbp.by",
+        "aliases": null,
+        "latitude": 53.91807,
+        "longitude": 27.43574,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q36277836",
+        "name": "Q36277836",
+        "short_name": null,
+        "official_website": "http:\/\/sgik.of.by",
+        "aliases": null,
+        "latitude": 52.62154,
+        "longitude": 29.71755,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q37493636",
+        "name": "Q37493636",
+        "short_name": null,
+        "official_website": "http:\/\/www.vgak.by",
+        "aliases": null,
+        "latitude": 53.17117,
+        "longitude": 24.47472,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q41794604",
+        "name": "Q41794604",
+        "short_name": null,
+        "official_website": "https:\/\/okvgu.vsu.by",
+        "aliases": null,
+        "latitude": 54.50899,
+        "longitude": 30.41461,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q41796789",
+        "name": "Q41796789",
+        "short_name": null,
+        "official_website": "http:\/\/www.mstc.by",
+        "aliases": null,
+        "latitude": 53.91557,
+        "longitude": 27.57782,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q42302244",
+        "name": "Q42302244",
+        "short_name": null,
+        "official_website": "http:\/\/www.msmc.by",
+        "aliases": null,
+        "latitude": 53.88617,
+        "longitude": 27.61984,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q42317548",
+        "name": "Q42317548",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 53.140888,
+        "longitude": 29.227556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q43012405",
+        "name": "Q43012405",
+        "short_name": null,
+        "official_website": "http:\/\/ggpk.by\/",
+        "aliases": null,
+        "latitude": 53.667354,
+        "longitude": 23.827859,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q4370728",
+        "name": "Q4370728",
+        "short_name": null,
+        "official_website": "http:\/\/pgaek.by\/",
+        "aliases": null,
+        "latitude": 55.49369,
+        "longitude": 28.76724,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q45208746",
+        "name": "Q45208746",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q50653155",
+        "name": "Q50653155",
+        "short_name": null,
+        "official_website": "https:\/\/ipk.bstu.by\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q51543388",
+        "name": "Q51543388",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q51802406",
+        "name": "Q51802406",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q51802467",
+        "name": "Q51802467",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q51802473",
+        "name": "Q51802473",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q51802476",
+        "name": "Q51802476",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 53.8703707,
+        "longitude": 27.6230031,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q51802487",
+        "name": "Q51802487",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 53.13671,
+        "longitude": 29.22438,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q55657602",
+        "name": "Q55657602",
+        "short_name": null,
+        "official_website": "http:\/\/www.ggmc.info",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q55693831",
+        "name": "Q55693831",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 53.13987,
+        "longitude": 29.20979,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q55849239",
+        "name": "Q55849239",
+        "short_name": null,
+        "official_website": "https:\/\/niptis.by\/",
+        "aliases": null,
+        "latitude": 53.927904,
+        "longitude": 27.662297,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q56475612",
+        "name": "Q56475612",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 53.860029,
+        "longitude": 27.499448,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q58149831",
+        "name": "Q58149831",
+        "short_name": null,
+        "official_website": "http:\/\/www.rmcollege.by\/",
+        "aliases": null,
+        "latitude": 53.9030833,
+        "longitude": 27.5552222,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q59348194",
+        "name": "Q59348194",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q61640691",
+        "name": "Q61640691",
+        "short_name": null,
+        "official_website": "https:\/\/vk.grsu.by\/",
+        "aliases": null,
+        "latitude": 53.15994,
+        "longitude": 24.44945,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q63114474",
+        "name": "Q63114474",
+        "short_name": null,
+        "official_website": "https:\/\/vitgmk.by",
+        "aliases": null,
+        "latitude": 55.1893,
+        "longitude": 30.21038,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q63826087",
+        "name": "Q63826087",
+        "short_name": null,
+        "official_website": "http:\/\/ogmk.by\/",
+        "aliases": null,
+        "latitude": 54.53343,
+        "longitude": 30.44497,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q63858684",
+        "name": "Q63858684",
+        "short_name": null,
+        "official_website": "http:\/\/www.bobrmedcollege.by",
+        "aliases": null,
+        "latitude": 53.14,
+        "longitude": 29.20714,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q63860399",
+        "name": "Q63860399",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 55.48323,
+        "longitude": 28.7811,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q64348979",
+        "name": "Q64348979",
+        "short_name": null,
+        "official_website": "http:\/\/www.mcb.by\/",
+        "aliases": null,
+        "latitude": 53.8892778,
+        "longitude": 27.6500556,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q65098887",
+        "name": "Q65098887",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 53.887559,
+        "longitude": 27.5893383,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6527697",
+        "name": "Q6527697",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q65591052",
+        "name": "Q65591052",
+        "short_name": null,
+        "official_website": "http:\/\/www.gzir.by\/",
+        "aliases": null,
+        "latitude": 53.60201,
+        "longitude": 24.75031,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q83629711",
+        "name": "Q83629711",
+        "short_name": null,
+        "official_website": "http:\/\/catcollege.by\/",
+        "aliases": null,
+        "latitude": 53.1438611,
+        "longitude": 26.005,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q86364620",
+        "name": "Q86364620",
+        "short_name": null,
+        "official_website": "http:\/\/gptk.vitebsk.by\/",
+        "aliases": null,
+        "latitude": 55.4848333,
+        "longitude": 28.7710833,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q86423017",
+        "name": "Q86423017",
+        "short_name": null,
+        "official_website": "https:\/\/ogak.by\/",
+        "aliases": null,
+        "latitude": 54.6038333,
+        "longitude": 30.0500556,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q86435860",
+        "name": "Q86435860",
+        "short_name": null,
+        "official_website": "http:\/\/gptk.by\/index.html",
+        "aliases": null,
+        "latitude": 55.1172222,
+        "longitude": 26.82475,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q86437818",
+        "name": "Q86437818",
+        "short_name": null,
+        "official_website": "http:\/\/www.ogkp.by\/index.php",
+        "aliases": null,
+        "latitude": 54.4876111,
+        "longitude": 30.3767778,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q86860461",
+        "name": "Q86860461",
+        "short_name": null,
+        "official_website": "http:\/\/www.beldornii.by\/",
+        "aliases": null,
+        "latitude": 53.90746,
+        "longitude": 27.50913,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q89523566",
+        "name": "Q89523566",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q93290695",
+        "name": "Q93290695",
+        "short_name": null,
+        "official_website": "http:\/\/www.instlab.by\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q93332202",
+        "name": "Q93332202",
+        "short_name": null,
+        "official_website": "http:\/\/cmt.brest.by\/",
+        "aliases": null,
+        "latitude": 52.09007,
+        "longitude": 23.73023,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q94643489",
+        "name": "Q94643489",
+        "short_name": null,
+        "official_website": "http:\/\/www.niism.by\/",
+        "aliases": null,
+        "latitude": 53.870129,
+        "longitude": 27.506917,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q96613412",
+        "name": "Q96613412",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 54.21491,
+        "longitude": 28.4865,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q22250117",
+        "name": "Rechitsa State Agrarian College",
+        "short_name": null,
+        "official_website": "http:\/\/rgak.gomel.by\/",
+        "aliases": null,
+        "latitude": 52.36247,
+        "longitude": 30.41403,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1963759",
+        "name": "Republican Institute for Vocational Education",
+        "short_name": null,
+        "official_website": "http:\/\/ripo.unibel.by\/",
+        "aliases": null,
+        "latitude": 53.8983333,
+        "longitude": 27.5394444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q381376",
+        "name": "Research Institute for Nuclear Problems of Belarusian State University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "INP BSU"
+        ],
+        "latitude": 53.89272,
+        "longitude": 27.54711,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7263712",
+        "name": "School of Business BSU",
+        "short_name": null,
+        "official_website": "http:\/\/www.sbmt.bsu.by\/eng\/",
+        "aliases": null,
+        "latitude": 53.889831,
+        "longitude": 27.540397,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q41798395",
+        "name": "Scientific and Practical Center of the National Academy of Sciences of Belarus on Animal Husbandry",
+        "short_name": null,
+        "official_website": "http:\/\/belniig.by\/",
+        "aliases": null,
+        "latitude": 54.103701,
+        "longitude": 28.366352,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q38904888",
+        "name": "Scientific-Practical Center National Academy of Sciences of Belarus on bioresources",
+        "short_name": null,
+        "official_website": "https:\/\/www.biobel.by",
+        "aliases": [
+            "Institute of Zoology of the Academy of Sciences of the BSSR",
+            "SPC NAS of Belarus for Bioresources"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q28110637",
+        "name": "Shirokov Institute of Modern Knowledge",
+        "short_name": null,
+        "official_website": "http:\/\/www.isz.minsk.by",
+        "aliases": [
+            "A. M. Shirokov Institute of Modern Knowledge",
+            "Institute of Modern Knowledge",
+            "Shyrokau Institute of Modern Knowledge"
+        ],
+        "latitude": 53.93314,
+        "longitude": 27.6369,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q63968357",
+        "name": "Slutsk State Medical College",
+        "short_name": null,
+        "official_website": "http:\/\/www.slutskmedkol.by\/",
+        "aliases": null,
+        "latitude": 53.016535,
+        "longitude": 27.54426,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q65969895",
+        "name": "Smilavičy State Agrarian College",
+        "short_name": null,
+        "official_website": "http:\/\/sgak.edu.by\/",
+        "aliases": [
+            "Smilovichi State Agrarian College"
+        ],
+        "latitude": 53.752,
+        "longitude": 28.015163,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q13766180",
+        "name": "Tadeusz Kosciuszko Polish Open University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q31877311",
+        "name": "The Piarist Fathers College in Szczuczyn",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q30263818",
+        "name": "The Scientific and Practical Materials Research Center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IFTTP",
+            "Institute of Solid State and Semiconductor Physics",
+            "Scientific-Practical Materials Research Centre of NAS of Belarus"
+        ],
+        "latitude": 53.91159,
+        "longitude": 27.60342,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4330437",
+        "name": "United Institute of Informatics Problems of the National Academy of Sciences of Belarus",
+        "short_name": null,
+        "official_website": "http:\/\/uiip.bas-net.by\/",
+        "aliases": [
+            "Institute of Engineering Cybernetics",
+            "State Scientific Enterprise \"United Institute of Informatics Problems of the National Academy of Sciences of Belarus\"",
+            "UIIP",
+            "UIIP NASB",
+            "United Institute of Informatics Problems"
+        ],
+        "latitude": 53.92007,
+        "longitude": 27.60353,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17043284",
+        "name": "V. F. Kuprevich Institute of Experimental Botany",
+        "short_name": null,
+        "official_website": "https:\/\/botany.by\/",
+        "aliases": [
+            "V. F. Kuprevich Institute of Experimental Botany of the National Academy of Sciences of Belarus"
+        ],
+        "latitude": 53.915833,
+        "longitude": 27.602778,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3919286",
+        "name": "Viciebsk State Medical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.vsmu.by",
+        "aliases": [
+            "Витебский государственный медицинский университет"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2043205",
+        "name": "Viciebsk State University",
+        "short_name": null,
+        "official_website": "https:\/\/vsu.by\/",
+        "aliases": null,
+        "latitude": 55.17781,
+        "longitude": 30.22548,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4112332",
+        "name": "Vitebsk State Academy of Veterinary Medicine",
+        "short_name": null,
+        "official_website": "http:\/\/www.vsavm.by\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q63845203",
+        "name": "Vitebsk State College of Culture and Arts",
+        "short_name": null,
+        "official_website": "http:\/\/vgkki.by\/",
+        "aliases": null,
+        "latitude": 55.17298,
+        "longitude": 30.15035,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q4112349",
+        "name": "Vitebsk State Machine and Tool College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 55.19644,
+        "longitude": 30.20231,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1985003",
+        "name": "Vitebsk State Technological University",
+        "short_name": null,
+        "official_website": "http:\/\/www.vstu.by",
+        "aliases": [
+            "Витебский государственнный технологический университет",
+            "Витебский государственный технологический университет"
+        ],
+        "latitude": 55.178191,
+        "longitude": 30.23524,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q13028089",
+        "name": "Yakub Kolas Institute of Linguistics",
+        "short_name": null,
+        "official_website": "http:\/\/iml.belcentre.by\/",
+        "aliases": null,
+        "latitude": 53.916944,
+        "longitude": 27.603056,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2986673",
+        "name": "Yanka Kupala State University of Grodno",
+        "short_name": null,
+        "official_website": "https:\/\/en.grsu.by\/index.php?lang=en",
+        "aliases": [
+            "Grodno State University",
+            "Hrodna State (Yanka Kupala) University",
+            "Hrodna State University"
+        ],
+        "latitude": 53.6847993,
+        "longitude": 23.8401808,
+        "type": "university"
+    }
+]

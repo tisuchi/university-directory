@@ -1,0 +1,146 @@
+[
+    {
+        "wikidata_id": "Q4744188",
+        "name": "American International School of Medicine",
+        "short_name": null,
+        "official_website": "http:\/\/www.aism.edu",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q47001906",
+        "name": "CBDG",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Center for Biological Diversity, University of Guyana"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5200848",
+        "name": "Cyril Potter College of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 6.817481,
+        "longitude": -58.114577,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q31878131",
+        "name": "Ebini Experimental Station",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 5.5666667,
+        "longitude": -57.7833333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25053183",
+        "name": "Gemsville Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.gtech.university\/",
+        "aliases": null,
+        "latitude": 6.80517,
+        "longitude": -58.16404,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23807974",
+        "name": "Georgetown American University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 6.8066667,
+        "longitude": -58.155,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5622745",
+        "name": "Guyana School of Agriculture",
+        "short_name": null,
+        "official_website": "http:\/\/www.gsa.edu.gy\/",
+        "aliases": null,
+        "latitude": 6.79027,
+        "longitude": -58.05938,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q48816231",
+        "name": "Lincoln American University",
+        "short_name": null,
+        "official_website": "https:\/\/www.laumed.org\/",
+        "aliases": [
+            "LAUMED"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17111408",
+        "name": "Texila American University",
+        "short_name": null,
+        "official_website": "http:\/\/www.tauedu.org",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1502975",
+        "name": "University of Guyana",
+        "short_name": null,
+        "official_website": "https:\/\/www.uog.edu.gy\/",
+        "aliases": null,
+        "latitude": 6.812254,
+        "longitude": -58.117064,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946428",
+        "name": "University of Guyana Department of Biology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946430",
+        "name": "University of Guyana Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946431",
+        "name": "University of Guyana Department of Government and International Affairs",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946434",
+        "name": "University of Guyana Institute of Development Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    }
+]

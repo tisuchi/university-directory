@@ -1,0 +1,27 @@
+[
+    {
+        "wikidata_id": "Q91013694",
+        "name": "Institut National de Santé Publique de Djibouti",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "INSPD",
+            "National Public Health Institute of Djibouti"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3551582",
+        "name": "University of Djibouti",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ.edu.dj\/",
+        "aliases": [
+            "IAU-019576"
+        ],
+        "latitude": 11.5380556,
+        "longitude": 43.117,
+        "type": "university"
+    }
+]

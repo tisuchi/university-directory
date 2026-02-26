@@ -1,0 +1,62 @@
+[
+    {
+        "wikidata_id": "Q54425405",
+        "name": "Centro de Formação Pesqueira de Bolama",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 11.5786,
+        "longitude": -15.47266,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10274361",
+        "name": "Q10274361",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1654110",
+        "name": "Universidade Amílcar Cabral",
+        "short_name": null,
+        "official_website": "http:\/\/uac.gw\/",
+        "aliases": [
+            "UAC",
+            "Amílcar Cabral University",
+            "Universidade Amilcar Cabral",
+            "University Amilcar Cabral",
+            "University Amílcar Cabral"
+        ],
+        "latitude": 11.8559,
+        "longitude": -15.611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1654102",
+        "name": "Universidade Colinas de Boé",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UCB",
+            "Colinas University Of Boé",
+            "Universidade Colinas de Boe"
+        ],
+        "latitude": 11.8815,
+        "longitude": -15.6407,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294233",
+        "name": "Universidade Lusófona da Guiné",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

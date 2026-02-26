@@ -1,0 +1,3246 @@
+[
+    {
+        "wikidata_id": "Q100267052",
+        "name": "Africa Institute of South Africa",
+        "short_name": null,
+        "official_website": "http:\/\/www.ai.org.za\/",
+        "aliases": [
+            "AISA"
+        ],
+        "latitude": -25.74774,
+        "longitude": 28.18467,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4689771",
+        "name": "African Gender Institute",
+        "short_name": null,
+        "official_website": "http:\/\/agi.ac.za",
+        "aliases": [
+            "AGI"
+        ],
+        "latitude": -33.9596944,
+        "longitude": 18.4595,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2826172",
+        "name": "African Institute for Mathematical Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.aims.ac.za\/",
+        "aliases": [
+            "AIMS South Africa"
+        ],
+        "latitude": -34.1072,
+        "longitude": 18.4706,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q97482632",
+        "name": "Akademia",
+        "short_name": null,
+        "official_website": "http:\/\/akademia.ac.za\/",
+        "aliases": null,
+        "latitude": -25.8513395,
+        "longitude": 28.2006623,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74541826",
+        "name": "Arab Society for Forensic Sciences and Forensic Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q42116192",
+        "name": "Aros",
+        "short_name": null,
+        "official_website": "https:\/\/www.aros.ac.za",
+        "aliases": [
+            "AROS",
+            "Academy Reformational Training and Studies",
+            "Akademie Reformatoriese Opleiding en Studies",
+            "Akademie Reformatoriese Opleiding en Studies (Aros)"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74549678",
+        "name": "Association for Mathematics Education of South Africa",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4809932",
+        "name": "Association of Muslim Schools",
+        "short_name": null,
+        "official_website": "http:\/\/www.ams-sa.org.za\/",
+        "aliases": [
+            "The Association of Muslim Schools (SA)"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61357565",
+        "name": "Bloemfontein Teachers' Training College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q2694118",
+        "name": "Border Technikon",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4997932",
+        "name": "Bunting Road Campus Auckland Park",
+        "short_name": null,
+        "official_website": "http:\/\/www.uj.ac.za\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5001756",
+        "name": "Business Management Training College",
+        "short_name": null,
+        "official_website": "http:\/\/www.businesscollege.co.za\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1034468",
+        "name": "Cape Peninsula University of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.cput.ac.za\/",
+        "aliases": [
+            "Cape Technikon",
+            "CPUT",
+            "cput.ac.za",
+            "Peninsula Technikon"
+        ],
+        "latitude": -33.932222,
+        "longitude": 18.640278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948129",
+        "name": "Cape Peninsula University of Technology Department of Mathematics and Physics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5056947",
+        "name": "Cedara College of Agriculture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -29.5333333,
+        "longitude": 30.2833333,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q56512191",
+        "name": "Cefups Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.cefups.co.za\/",
+        "aliases": null,
+        "latitude": -25.4063,
+        "longitude": 30.99056,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1054047",
+        "name": "Central University of Technology, Free State",
+        "short_name": null,
+        "official_website": "http:\/\/www.cut.ac.za\/",
+        "aliases": [
+            "Central University of Technology Free State",
+            "cut.ac.za",
+            "Technikon Free State"
+        ],
+        "latitude": -29.121389,
+        "longitude": 26.213611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100267075",
+        "name": "Centre for Advanced Studies of African Societies",
+        "short_name": null,
+        "official_website": "http:\/\/www.casas.co.za\/",
+        "aliases": [
+            "CASAS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5062405",
+        "name": "Centre for Development and Enterprise",
+        "short_name": null,
+        "official_website": "http:\/\/www.cde.org.za\/",
+        "aliases": [
+            "CDE",
+            "CDE, South Africa"
+        ],
+        "latitude": -26.179105,
+        "longitude": 28.030602,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5062463",
+        "name": "Centre for Human Rights",
+        "short_name": null,
+        "official_website": "http:\/\/www.chr.up.ac.za\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109609635",
+        "name": "CityVarsity",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q63368322",
+        "name": "CityVarsity",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q105561064",
+        "name": "College Of Cape Town",
+        "short_name": null,
+        "official_website": "http:\/\/www.cct.edu.za\/index.php\/en",
+        "aliases": [
+            "carttar"
+        ],
+        "latitude": -33.9732889,
+        "longitude": 18.5121306,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5146753",
+        "name": "College of Magic",
+        "short_name": null,
+        "official_website": "https:\/\/www.collegeofmagic.com\/",
+        "aliases": null,
+        "latitude": -33.98348,
+        "longitude": 18.481387,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74550059",
+        "name": "Council of the KwaZulu-Natal Museum",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5014573",
+        "name": "CTI Education Group",
+        "short_name": null,
+        "official_website": "http:\/\/www.cti.co.za",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q43662119",
+        "name": "Curro Independent Schools",
+        "short_name": null,
+        "official_website": "https:\/\/curro.co.za\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5212152",
+        "name": "Damelin",
+        "short_name": null,
+        "official_website": "http:\/\/www.damelin.co.za",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q16954016",
+        "name": "Damelin Correspondence College",
+        "short_name": null,
+        "official_website": "https:\/\/www.dcc.edu.za",
+        "aliases": null,
+        "latitude": -33.89215,
+        "longitude": 18.51754,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5225794",
+        "name": "Darul Uloom Zakariyya",
+        "short_name": null,
+        "official_website": "http:\/\/duz.co.za",
+        "aliases": null,
+        "latitude": -26.35942,
+        "longitude": 27.89726,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131179269",
+        "name": "Desmond Tutu Health Foundation",
+        "short_name": null,
+        "official_website": "https:\/\/desmondtutuhealthfoundation.org.za\/",
+        "aliases": null,
+        "latitude": -33.9287911,
+        "longitude": 18.4446481,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100267085",
+        "name": "Development Policy Research Unit",
+        "short_name": null,
+        "official_website": "http:\/\/www.dpru.uct.ac.za\/",
+        "aliases": [
+            "DPRU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q116865363",
+        "name": "Dictionary Unit for South African English",
+        "short_name": null,
+        "official_website": "https:\/\/www.ru.ac.za\/dsae\/",
+        "aliases": [
+            "DSAE",
+            "Rhodes University Dictionary Unit for South African English"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74557707",
+        "name": "Die Suid-Afrikaanse Akademie vir Wetenskap en Kuns",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q60792038",
+        "name": "DITSELA",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Development Institute for Training, Support and Education for Labour",
+            "DITSELA",
+            "DITSELA Workers' Education Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q926710",
+        "name": "Durban University of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.dut.ac.za\/",
+        "aliases": [
+            "DUT",
+            "Durban Institute of Technology",
+            "dut.ac.za"
+        ],
+        "latitude": -29.8513889,
+        "longitude": 31.0072222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948169",
+        "name": "Durban University of Technology Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2236456",
+        "name": "Eastern Cape Technikon",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61933628",
+        "name": "Economic Policy Research Institute",
+        "short_name": null,
+        "official_website": "https:\/\/epri.org.za\/",
+        "aliases": [
+            "EPRI",
+            "ERI, South Africa"
+        ],
+        "latitude": -33.920694,
+        "longitude": 18.38315,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4893546",
+        "name": "Evolutionary Studies Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.wits.ac.za\/esi\/",
+        "aliases": [
+            "Bernard Price Institute for Palaeontological Research"
+        ],
+        "latitude": -26.193,
+        "longitude": 28.0291,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5428964",
+        "name": "Faculty of Engineering and the Built Environment",
+        "short_name": null,
+        "official_website": "http:\/\/www.wits.ac.za\/ebe",
+        "aliases": null,
+        "latitude": -26.1916,
+        "longitude": 28.027,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74550031",
+        "name": "Faculty of Law, North-West University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5432623",
+        "name": "False Bay College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -34.1072222,
+        "longitude": 18.4686111,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q2070244",
+        "name": "FitzPatrick Institute of African Ornithology",
+        "short_name": null,
+        "official_website": "http:\/\/www.fitzpatrick.uct.ac.za\/",
+        "aliases": null,
+        "latitude": -33.9564113,
+        "longitude": 18.4611377,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q129514110",
+        "name": "Genadendal Training School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Teachers' Training College",
+            "Moravian Training School"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q112085397",
+        "name": "Global Change Institute, University of the Witwatersrand, Johannesburg",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "GCI",
+            "Global Change Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3129583",
+        "name": "Helderberg College",
+        "short_name": null,
+        "official_website": "http:\/\/www.hbc.ac.za\/",
+        "aliases": null,
+        "latitude": -34.05,
+        "longitude": 18.8430556,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q112315559",
+        "name": "Hiddingh Campus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -33.9300276,
+        "longitude": 18.4137704,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q385450",
+        "name": "Hugenote-Kollege",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Hugenote-Kollege van die Nederduitse Gereformeerde Kerk van Suid-Afrika",
+            "Huguenot College (1951- )"
+        ],
+        "latitude": -33.6380556,
+        "longitude": 19.0108333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11020151",
+        "name": "Human Sciences Research Council",
+        "short_name": "HSRC",
+        "official_website": "http:\/\/www.hsrc.ac.za\/en",
+        "aliases": [
+            "HSRC",
+            "hsrc.ac.za",
+            "Human Sciences Research Council of South Africa"
+        ],
+        "latitude": -25.7477418,
+        "longitude": 28.1843504,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q176667",
+        "name": "IIE MSA",
+        "short_name": null,
+        "official_website": "http:\/\/www.msa.ac.za\/",
+        "aliases": [
+            "Monash University - South Africa Campus",
+            "Monash University, South Africa campus"
+        ],
+        "latitude": -26.0833333,
+        "longitude": 27.8769444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18575815",
+        "name": "Industrial and Mining Water Research Unit",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -26.1931,
+        "longitude": 28.0297,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6037157",
+        "name": "Inscape Design College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q100267096",
+        "name": "Institute for African Alternatives",
+        "short_name": null,
+        "official_website": "http:\/\/new.ifaanet.org\/",
+        "aliases": [
+            "IFAA"
+        ],
+        "latitude": -33.9299727,
+        "longitude": 18.4576492,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74546628",
+        "name": "Institute for Development Assistance Management",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18126017",
+        "name": "Institute for Security Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.issafrica.org",
+        "aliases": [
+            "ISS",
+            "Africa Institute for Security Studies",
+            "African Institute for Security Studies",
+            "Institute for Security Studies (ISS)"
+        ],
+        "latitude": -25.773393,
+        "longitude": 28.2349012,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74535543",
+        "name": "Institution of Chemical Engineers (IChemE)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25613931",
+        "name": "IThemba LABS",
+        "short_name": null,
+        "official_website": "http:\/\/tlabs.ac.za\/",
+        "aliases": [
+            "NAC",
+            "iThemba Laboratory",
+            "National Accelerator Centre"
+        ],
+        "latitude": -34.026984,
+        "longitude": 18.747289,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74535445",
+        "name": "Koers Association",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6496842",
+        "name": "Latitude Varsity",
+        "short_name": null,
+        "official_website": "http:\/\/www.latitudevarsity.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q57736299",
+        "name": "Lemana Training Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Lemana College,  Lemana Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q74547862",
+        "name": "LIASA",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Library and Information Association of South Africa"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74546620",
+        "name": "Literacy Association of South Africa",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6707245",
+        "name": "Lyceum College",
+        "short_name": null,
+        "official_website": "http:\/\/www.lyceum.co.za\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6588080",
+        "name": "Mangosuthu University of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.mut.ac.za\/",
+        "aliases": [
+            "Mangosuthu Technikon",
+            "mut.ac.za"
+        ],
+        "latitude": -29.9701,
+        "longitude": 30.9137,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6842964",
+        "name": "Midrand Graduate Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.mgi.ac.za",
+        "aliases": null,
+        "latitude": -26.02058,
+        "longitude": 28.1340556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2307926",
+        "name": "ML Sultan Technikon",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q47486748",
+        "name": "National Institute for Theoretical and Computational Science",
+        "short_name": null,
+        "official_website": "https:\/\/nithecs.ac.za",
+        "aliases": [
+            "National Institute for Theoretical Physics",
+            "NITheCS",
+            "NITheP"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q38911300",
+        "name": "National Metrology Institute of South Africa",
+        "short_name": null,
+        "official_website": "http:\/\/www.nmisa.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6978050",
+        "name": "National Research Foundation",
+        "short_name": "NRF",
+        "official_website": "https:\/\/www.nrf.ac.za\/",
+        "aliases": [
+            "NRF",
+            "National Research Foundation of South Africa",
+            "National Research Foundation, South Africa",
+            "nrf.ac.za"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q110952922",
+        "name": "National School of Government",
+        "short_name": null,
+        "official_website": "https:\/\/www.thensg.gov.za\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948409",
+        "name": "Nelson Mandela Metropolitan University Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530661",
+        "name": "Nelson Mandela Metropolitan University – Faculty of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1331614",
+        "name": "Nelson Mandela University",
+        "short_name": null,
+        "official_website": "https:\/\/www.mandela.ac.za\/",
+        "aliases": [
+            "mandela.ac.za",
+            "Nelson Mandela Metropolitan University",
+            "nmmu.ac.za"
+        ],
+        "latitude": -34.00842,
+        "longitude": 25.67778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135820626",
+        "name": "Non-European Section of Natal University College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -29.8514011,
+        "longitude": 31.0100316,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1998811",
+        "name": "North-West University",
+        "short_name": null,
+        "official_website": "https:\/\/www.nwu.ac.za\/",
+        "aliases": [
+            "NWU",
+            "North West University",
+            "nwu.ac.za",
+            "University of Bophuthatswana"
+        ],
+        "latitude": -26.693492,
+        "longitude": 27.093062,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948414",
+        "name": "North-West University Department of Agriculture Conservation and Environment",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948415",
+        "name": "North-West University Department of English",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943857",
+        "name": "North-West University Research Institute for Industrial Pharmacy Incorporating the Centre for Quality Assurance of Medicines",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100943880",
+        "name": "North-West University School for Basic Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q55625471",
+        "name": "Northlink College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -33.902,
+        "longitude": 18.6383,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q111589520",
+        "name": "Oceanographic Research Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.saambr.org.za\/research-2\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q97671062",
+        "name": "Old St. George's Grammar School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -33.92503,
+        "longitude": 18.41912,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74540301",
+        "name": "Old Testament Society of South Africa",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30296412",
+        "name": "Onderstepoort Veterinary Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.arc.agric.za\/arc-ovi\/Pages\/ARC-OVI-Homepage.aspx",
+        "aliases": [
+            "OVI",
+            "ARC-Onderstepoort Veterinary Institute",
+            "ARC-OVI"
+        ],
+        "latitude": -25.651158,
+        "longitude": 28.184399,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527846",
+        "name": "Patriarchate of Alexandria and All Africa",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2059560",
+        "name": "Port Elizabeth Technikon",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "P.E. Technikon",
+            "PE Technikon",
+            "Port Elizabethse Technikon",
+            "Technikon Port Elizabeth"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7234783",
+        "name": "Potchefstroom University for Christian Higher Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74546139",
+        "name": "Radiological Society of South Africa",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2285622",
+        "name": "Rand Afrikaans University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uj.ac.za\/",
+        "aliases": [
+            "Rand Afrikaanse University",
+            "Randse Afrikaanse Universiteit"
+        ],
+        "latitude": -26.1833333,
+        "longitude": 27.9988889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q114456880",
+        "name": "Red and Yellow Creative School of Business",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -33.933446,
+        "longitude": 18.460598,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74546617",
+        "name": "Reformed Theological College of the Netherdutch Reformed Church of Africa, at the Faculty of Theology of the University of Pretoria, Pretoria (South Africa)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q377757",
+        "name": "Rhodes University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ru.ac.za\/",
+        "aliases": [
+            "RU",
+            "Rhodes University College",
+            "ru.ac.za"
+        ],
+        "latitude": -33.3136111,
+        "longitude": 26.5197222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948200",
+        "name": "Rhodes University Department of Botany",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948202",
+        "name": "Rhodes University Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948203",
+        "name": "Rhodes University Department of Economics and Economic History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948204",
+        "name": "Rhodes University Department of English",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948208",
+        "name": "Rhodes University Department of Ichthyology and Fisheries Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948210",
+        "name": "Rhodes University Department of Music and Musicology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948213",
+        "name": "Rhodes University Department of Philosophy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948215",
+        "name": "Rhodes University Department of Zoology and Entomology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943814",
+        "name": "Rhodes University Education Department",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943816",
+        "name": "Rhodes University Environmental Education and Sustainability Unit",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943822",
+        "name": "Rhodes University Institute for the Study of English in Africa",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100943824",
+        "name": "Rhodes University Psychology Clinic",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948330",
+        "name": "Rhodes University School of Languages",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74557466",
+        "name": "SAICSIT",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q114968137",
+        "name": "Sastri College",
+        "short_name": null,
+        "official_website": "https:\/\/sastricollege.co.za\/",
+        "aliases": null,
+        "latitude": -29.8509335,
+        "longitude": 31.0088501,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18378064",
+        "name": "School of Chemical and Metallurgical Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -26.1931,
+        "longitude": 28.0297,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19843419",
+        "name": "Sefako Makgatho Health Sciences University",
+        "short_name": null,
+        "official_website": "http:\/\/www.smu.ac.za\/",
+        "aliases": [
+            "SMU",
+            "purerims.smu.ac.za",
+            "smu.ac.za"
+        ],
+        "latitude": -25.6172667,
+        "longitude": 28.0165111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7507387",
+        "name": "Sicambeni Rural University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530720",
+        "name": "Society for Medicinal Plants and Economic Development",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17090884",
+        "name": "Sol Plaatje University",
+        "short_name": null,
+        "official_website": "http:\/\/www.spu.ac.za\/",
+        "aliases": [
+            "SPU",
+            "spu.ac.za"
+        ],
+        "latitude": -28.7451182,
+        "longitude": 24.764276,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q13036063",
+        "name": "Sol-Tech",
+        "short_name": null,
+        "official_website": "https:\/\/sol-tech.co.za\/",
+        "aliases": [
+            "Sol-Tech Beroepsopleiding Kollege"
+        ],
+        "latitude": -25.8146052,
+        "longitude": 28.2274475,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q227807",
+        "name": "South African Astronomical Observatory",
+        "short_name": "SAAO",
+        "official_website": "https:\/\/www.saao.ac.za\/",
+        "aliases": [
+            "SAAO"
+        ],
+        "latitude": -33.9343611,
+        "longitude": 18.4773889,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7565676",
+        "name": "South African College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7565708",
+        "name": "South African Institute of Aquatic Biodiversity",
+        "short_name": null,
+        "official_website": "https:\/\/www.saiab.ac.za",
+        "aliases": [
+            "J.L.B. Smith Institute of Ichthyology",
+            "The South African Institute for Aquatic Biodiversity"
+        ],
+        "latitude": -33.3105556,
+        "longitude": 26.5197222,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7565710",
+        "name": "South African Institute of International Affairs",
+        "short_name": null,
+        "official_website": "https:\/\/saiia.org.za\/",
+        "aliases": [
+            "SAIIA"
+        ],
+        "latitude": -26.1905,
+        "longitude": 28.0319,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30296386",
+        "name": "South African National Biodiversity Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.sanbi.org\/",
+        "aliases": [
+            "SANBI",
+            "Botanical Research Institute",
+            "Division of Botany, Department of Agriculture",
+            "Herbarium PRE",
+            "National Botanical Institute"
+        ],
+        "latitude": -25.737216,
+        "longitude": 28.275968,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74546618",
+        "name": "South African Optometric Association, African Vision Research Institute, African Ophthalmology Council and Brien Holden Vision Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528434",
+        "name": "South African Society of Clinical and Radiation Oncology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74546623",
+        "name": "South African Society of Physiotherapy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74543396",
+        "name": "South African Society of Psychiatrists ( SASOP)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74549682",
+        "name": "South African Speech-Language-Hearing Association",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552170",
+        "name": "South African Veterinary Association",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100267117",
+        "name": "Southern Africa Labour and Development Research Unit",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "University of Cape Town SALDRU"
+        ],
+        "latitude": -33.9570101,
+        "longitude": 18.4658608,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74543978",
+        "name": "Southern Africa Society for Disaster Reduction (South Africa) and Department of Cooperative Governance (South Africa).",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74541770",
+        "name": "Southern African HIV Clinicians Society",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74542806",
+        "name": "Southern African Missiological Society",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q136450274",
+        "name": "Springfield College of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121591104",
+        "name": "St John Vianney Seminary, Pretoria",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -25.7768159,
+        "longitude": 28.2270295,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q55829926",
+        "name": "Stellenbosch Institute for Advanced Study",
+        "short_name": null,
+        "official_website": "http:\/\/stias.ac.za",
+        "aliases": [
+            "STIAS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1066492",
+        "name": "Stellenbosch University",
+        "short_name": null,
+        "official_website": "https:\/\/www.su.ac.za",
+        "aliases": [
+            "Victoria College",
+            "Maties",
+            "Stellenbosch College",
+            "SU",
+            "sun.ac.za",
+            "Universiteit van Stellenbosch",
+            "University of Stellenbosch"
+        ],
+        "latitude": -33.9327778,
+        "longitude": 18.8641667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948367",
+        "name": "Stellenbosch University Computer Science Division",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q133896104",
+        "name": "Stellenbosch University Conservatorium and Music Department",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -33.9344,
+        "longitude": 18.8662,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948368",
+        "name": "Stellenbosch University Department of Ancient Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948369",
+        "name": "Stellenbosch University Department of Botany and Zoology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948370",
+        "name": "Stellenbosch University Department of Chemistry and Polymer science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948371",
+        "name": "Stellenbosch University Department of Journalism",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948372",
+        "name": "Stellenbosch University Department of Philosophy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948157",
+        "name": "Stellenbosch University Department of Psychiatry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74526673",
+        "name": "Stellenbosch University, Department of Curriculum Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74555956",
+        "name": "Stellenbosch University, Department of General Linguistics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74542832",
+        "name": "Stellenbosch University, Department of Industrial Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528367",
+        "name": "Stellenbosch University, Faculty of Military",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7607517",
+        "name": "Stenden University South Africa",
+        "short_name": null,
+        "official_website": "http:\/\/www.stenden.ac.za\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106154248",
+        "name": "Steve Biko Centre for Bioethics",
+        "short_name": null,
+        "official_website": "https:\/\/www.wits.ac.za\/bioethics\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2799475",
+        "name": "Technikon Natal",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2929441",
+        "name": "Technikon Witwatersrand",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Witwatersrand College for Advanced Technical Education",
+            "Witwatersrand Technical College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2554086",
+        "name": "Teologiese Kweekskool",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74545061",
+        "name": "The Literator Society",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74536795",
+        "name": "The Natal Society Foundation Trust",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17111350",
+        "name": "The Open Window School Of Visual Communication",
+        "short_name": null,
+        "official_website": "http:\/\/www.openwindow.co.za\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7835396",
+        "name": "Transvaal University College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1147874",
+        "name": "Tshwane University of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.tut.ac.za\/",
+        "aliases": [
+            "TUT",
+            "tut.ac.za"
+        ],
+        "latitude": -25.7322,
+        "longitude": 28.1617,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q951305",
+        "name": "University of Cape Town",
+        "short_name": null,
+        "official_website": "https:\/\/www.uct.ac.za\/",
+        "aliases": [
+            "South African College",
+            "Cape Town University",
+            "uct.ac.za"
+        ],
+        "latitude": -33.9575,
+        "longitude": 18.4605556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948511",
+        "name": "University of Cape Town African Gender Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100948515",
+        "name": "University of Cape Town Centre for Information Literacy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948516",
+        "name": "University of Cape Town Computational Biology Group",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948517",
+        "name": "University of Cape Town Department of Archaeology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948518",
+        "name": "University of Cape Town Department of Biological Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100945346",
+        "name": "University Of Cape Town Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948159",
+        "name": "University of Cape Town Department of Clinical Laboratory Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948519",
+        "name": "University of Cape Town Department of English Language and Literature",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948520",
+        "name": "University of Cape Town Department of Geological Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948399",
+        "name": "University of Cape Town Department of Human Biology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q99290798",
+        "name": "University of Cape Town Department of Linguistics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948160",
+        "name": "University of Cape Town Department of Mathematics and Applied Mathematics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948398",
+        "name": "University of Cape Town Department of Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948397",
+        "name": "University of Cape Town Department of Obstetrics and Gynaecology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948521",
+        "name": "University of Cape Town Department of Paediatrics and Child Health",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948522",
+        "name": "University of Cape Town Department of Religious Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948523",
+        "name": "University of Cape Town Department of Statistical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948161",
+        "name": "University of Cape Town Division of Chemical Pathology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948162",
+        "name": "University of Cape Town Division of Immunology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948400",
+        "name": "University of Cape Town Lung Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100948401",
+        "name": "University of Cape Town School of Public Health and Family Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4355025",
+        "name": "University of Durban-Westville",
+        "short_name": null,
+        "official_website": "http:\/\/www.udw.ac.za\/",
+        "aliases": null,
+        "latitude": -29.82,
+        "longitude": 30.946,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2005511",
+        "name": "University of Fort Hare",
+        "short_name": null,
+        "official_website": "https:\/\/www.ufh.ac.za\/",
+        "aliases": [
+            "Fort Hare University",
+            "UFH",
+            "ufh.ac.za"
+        ],
+        "latitude": -32.7875,
+        "longitude": 26.8475,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948040",
+        "name": "University of Fort Hare Department of Sociology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948044",
+        "name": "University of Fort Hare School of Theology and Religion",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1972050",
+        "name": "University of Johannesburg",
+        "short_name": null,
+        "official_website": "http:\/\/www.uj.ac.za\/",
+        "aliases": [
+            "UJ",
+            "uj.ac.za"
+        ],
+        "latitude": -26.1833333,
+        "longitude": 27.9988889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948045",
+        "name": "University of Johannesburg Department of Biochemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948046",
+        "name": "University Of Johannesburg Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948331",
+        "name": "University of Johannesburg Department of Mathematics and Applied Mathematics",
+        "short_name": null,
+        "official_website": "https:\/\/www.uj.ac.za\/faculties\/science\/departments-2\/mathematics-and-applied-mathematics\/",
+        "aliases": [
+            "Department of Mathematics and Applied Mathematics, University of Johannesburg",
+            "University of Johannesburg Department of Pure and Applied Mathematics"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948048",
+        "name": "University of Johannesburg Department of Sport and Movement Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106606004",
+        "name": "University of Johannesburg Department of Zoology",
+        "short_name": null,
+        "official_website": "https:\/\/www.uj.ac.za\/faculties\/science\/zoology",
+        "aliases": [
+            "Department of Zoology, University of Johannesburg"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74543429",
+        "name": "University of Johannesburg, Institute of Childhood Education, Faculty of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q727516",
+        "name": "University of KwaZulu-Natal",
+        "short_name": null,
+        "official_website": "https:\/\/www.ukzn.ac.za\/",
+        "aliases": [
+            "UKZN",
+            "ukzn.ac.za"
+        ],
+        "latitude": -29.8675,
+        "longitude": 30.9808,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100945348",
+        "name": "University of KwaZulu-Natal Centre for Adult Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948175",
+        "name": "University of KwaZulu-Natal Department of Chemical Pathology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948176",
+        "name": "University of Kwazulu-Natal Department of History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100945319",
+        "name": "University of Kwazulu-Natal Department of Pulmonary and Critical Care",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948404",
+        "name": "University of KwaZulu-Natal Discipline of Geography",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948179",
+        "name": "University of KwaZulu-Natal Discipline of Music",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948180",
+        "name": "University of KwaZulu-Natal Discipline of Psychology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q39910516",
+        "name": "University of KwaZulu-Natal Pietermaritzburg",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948406",
+        "name": "University of KwaZulu-Natal School of Agricultural Earth and Environmental Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948181",
+        "name": "University of KwaZulu-Natal School of Applied Human Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948182",
+        "name": "University of KwaZulu-Natal School of Arts",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948183",
+        "name": "University of KwaZulu-Natal School of Built Environment and Development Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100945351",
+        "name": "University of KwaZulu-Natal School of Chemistry and Physics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948184",
+        "name": "University of KwaZulu-Natal School of Chemistry and Physics Westville",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948186",
+        "name": "University of KwaZulu-Natal School of Clinical Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948188",
+        "name": "University of KwaZulu-Natal School of Health Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948191",
+        "name": "University of KwaZulu-Natal School of Laboratory Medicine and Medical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948408",
+        "name": "University of KwaZulu-Natal School of Life Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948192",
+        "name": "University of KwaZulu-Natal School of Religion Philosophy and Classics",
+        "short_name": null,
+        "official_website": "https:\/\/srpc.ukzn.ac.za\/",
+        "aliases": [
+            "School of Religion, Philosophy and Classics"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948194",
+        "name": "University of KwaZulu-Natal School of Social Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q45612",
+        "name": "University of Limpopo",
+        "short_name": null,
+        "official_website": "http:\/\/www.ul.ac.za\/",
+        "aliases": [
+            "UL",
+            "ul.ac.za"
+        ],
+        "latitude": -23.8861111,
+        "longitude": 29.7380556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100945338",
+        "name": "University of Limpopo Department of Public Health",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100945343",
+        "name": "University of Limpopo School of Health Care Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q14979352",
+        "name": "University of Mpumalanga",
+        "short_name": null,
+        "official_website": "http:\/\/www.ump.ac.za\/",
+        "aliases": [
+            "UMP",
+            "ump.ac.za"
+        ],
+        "latitude": -25.4365196,
+        "longitude": 30.9818024,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2021166",
+        "name": "University of Natal",
+        "short_name": null,
+        "official_website": "http:\/\/www.nu.ac.za\/",
+        "aliases": [
+            "NU",
+            "Natal University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2680908",
+        "name": "University of Port Elizabeth",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UPE",
+            "iNyuvesi yaseBhayi",
+            "Port Elizabeth University",
+            "Universiteit van Port Elizabeth"
+        ],
+        "latitude": -34.0084,
+        "longitude": 25.6706,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q604444",
+        "name": "University of Pretoria",
+        "short_name": null,
+        "official_website": "https:\/\/www.up.ac.za\/",
+        "aliases": [
+            "Pretoria",
+            "UP",
+            "Pret",
+            "Tuks",
+            "Pretoria University",
+            "Universiteit van Pretoria",
+            "up.ac.za"
+        ],
+        "latitude": -25.7536,
+        "longitude": 28.2297,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948491",
+        "name": "University of Pretoria Department of Afrikaans",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948492",
+        "name": "University of Pretoria Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948493",
+        "name": "University of Pretoria Department of Geology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948495",
+        "name": "University of Pretoria Department of Information Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948496",
+        "name": "University of Pretoria Department of Sociology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948497",
+        "name": "University of Pretoria Department of Zoology and Entomology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896157",
+        "name": "University of Pretoria Faculty of Veterinary Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -25.6506195,
+        "longitude": 28.1824741,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948505",
+        "name": "University of Pretoria Forestry and Agricultural Biotechnology Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100948504",
+        "name": "University of Pretoria Mammal Research Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100948506",
+        "name": "University of Pretoria School of Biological Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948507",
+        "name": "University of Pretoria School of Health Systems and Public Health",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948509",
+        "name": "University of Pretoria School of Information Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UP School of IT"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948510",
+        "name": "University of Pretoria School of Languages",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948333",
+        "name": "University of Pretoria Water Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552168",
+        "name": "University of Pretoria, Centre for Ministerial Development of the Dutch Reformed Church (Exelsus)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q677993",
+        "name": "University of South Africa",
+        "short_name": null,
+        "official_website": "https:\/\/www.unisa.ac.za\/",
+        "aliases": [
+            "UNISA",
+            "UNISA Library",
+            "unisa.ac.za"
+        ],
+        "latitude": -25.7672222,
+        "longitude": 28.1994444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943866",
+        "name": "University of South Africa Department of Art History Visual Arts and Musicology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943868",
+        "name": "University of South Africa Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100942505",
+        "name": "University of South Africa Department of English",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943870",
+        "name": "University of South Africa Department of Health Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943871",
+        "name": "University of South Africa Department of Psychology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943833",
+        "name": "University of South Africa Institute for Social and Health Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100943872",
+        "name": "University of South Africa Old Testament and Ancient Near Eastern Studies Unit",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943874",
+        "name": "University of South Africa Research Institute for Theology and Religion",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100943876",
+        "name": "University of South Africa School of Social Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100945360",
+        "name": "University of Stellenbosch Department of Genetics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948381",
+        "name": "University of Stellenbosch Department of History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948537",
+        "name": "University of Stellenbosch Department of Interdisciplinary Health Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948383",
+        "name": "University of Stellenbosch Department of Mathematical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948164",
+        "name": "University of Stellenbosch Department of Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948384",
+        "name": "University of Stellenbosch Department of Physics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948385",
+        "name": "University of Stellenbosch Department of Plant Pathology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948165",
+        "name": "University of Stellenbosch Division of Medical Physiology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100945362",
+        "name": "University of Stellenbosch Ecumenical Center for Leadership Development and Congregational Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896694",
+        "name": "University of the Cape of Good Hope",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "University of South Africa"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1678733",
+        "name": "University of the Free State",
+        "short_name": null,
+        "official_website": "https:\/\/www.ufs.ac.za\/",
+        "aliases": [
+            "UFS",
+            "Grey University College",
+            "University College of the Orange Free State",
+            "University of the Orange Free State"
+        ],
+        "latitude": -29.1044,
+        "longitude": 26.1752,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948133",
+        "name": "University of the Free State Department of Agricultural Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q475700",
+        "name": "University of the Western Cape",
+        "short_name": null,
+        "official_website": "http:\/\/www.uwc.ac.za\/",
+        "aliases": [
+            "Bush",
+            "UWC",
+            "uDubs",
+            "Universiteit van Wes-Kaapland",
+            "University of Western Cape",
+            "uwc.ac.za",
+            "UWK"
+        ],
+        "latitude": -33.9333,
+        "longitude": 18.6333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131002189",
+        "name": "University of the Western Cape African Language Studies Department",
+        "short_name": null,
+        "official_website": "https:\/\/www.uwc.ac.za\/study\/all-areas-of-study\/departments\/department-of-african-language-studies\/overview",
+        "aliases": [
+            "African Language Studies (University of the Western Cape)",
+            "University of the Western Cape Department of African Language Studies",
+            "University of the Western Cape Dept. of African Language Studies",
+            "University of the Western Cape, African Language Studies Department"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948053",
+        "name": "University of the Western Cape Department of English",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948540",
+        "name": "University of the Western Cape Department of Physics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948056",
+        "name": "University of the Western Cape Programme for Land and Agrarian Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948127",
+        "name": "University Of The Western Cape School of Government",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948126",
+        "name": "University of the Western Cape School of Public Health",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q534643",
+        "name": "University of the Witwatersrand",
+        "short_name": null,
+        "official_website": "https:\/\/www.wits.ac.za\/",
+        "aliases": [
+            "Wits",
+            "Wits University",
+            "University of the Witwatersrand, Johannesburg",
+            "University of Witwatersrand",
+            "wits.ac.za",
+            "Witwatersrand University"
+        ],
+        "latitude": -26.1908333,
+        "longitude": 28.0302778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948334",
+        "name": "University of the Witwatersrand Department of Botany and Zoology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948402",
+        "name": "University of the Witwatersrand Department of Chemical Pathology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948337",
+        "name": "University of the Witwatersrand Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948340",
+        "name": "University of the Witwatersrand Department of International Relations",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100945365",
+        "name": "University of the Witwatersrand Department of Philosophy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948343",
+        "name": "University of the Witwatersrand Department of Political Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948344",
+        "name": "University of the Witwatersrand Department of Radiology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948345",
+        "name": "University of the Witwatersrand Department of Sociology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5428988",
+        "name": "University of the Witwatersrand Faculty of Humanities",
+        "short_name": null,
+        "official_website": "http:\/\/www.wits.ac.za\/humanities",
+        "aliases": null,
+        "latitude": -26.1919,
+        "longitude": 28.0294,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948347",
+        "name": "University of the Witwatersrand Graduate School of Public and Development Management",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948195",
+        "name": "University of the Witwatersrand Maternal Adolescent and Child Health",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948403",
+        "name": "University of the Witwatersrand School of Anatomical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948348",
+        "name": "University of the Witwatersrand School of Clinical Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948350",
+        "name": "University of the Witwatersrand School of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100945368",
+        "name": "University of the Witwatersrand School of Geography Archaeology and Environmental Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948352",
+        "name": "University of the Witwatersrand School of Geosciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948353",
+        "name": "University of the Witwatersrand School of Human and Community Development",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948357",
+        "name": "University of the Witwatersrand School of Oral Health Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948358",
+        "name": "University of the Witwatersrand School of Public Health",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948359",
+        "name": "University of the Witwatersrand School of Social Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948361",
+        "name": "University of the Witwatersrand School of Statistics and Actuarial Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948362",
+        "name": "University of the Witwatersrand School of Therapeutic Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q263265",
+        "name": "University of Transkei",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q892543",
+        "name": "University of Venda",
+        "short_name": null,
+        "official_website": "https:\/\/www.univen.ac.za\/",
+        "aliases": [
+            "Minngoni - (a place of mango trees)",
+            "Univen",
+            "univen.ac.za"
+        ],
+        "latitude": -22.9755556,
+        "longitude": 30.4444444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948528",
+        "name": "University of Venda School of Agriculture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948529",
+        "name": "University of Venda School of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948530",
+        "name": "University of Venda School of Environmental Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948531",
+        "name": "University of Venda School of Health Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948532",
+        "name": "University of Venda School of Human and Social Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948533",
+        "name": "University of Venda School of Mathematical and Natural Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948364",
+        "name": "University of Witwatersrand Department of Obstetrics and Gynaecology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948365",
+        "name": "University of Witwatersrand Sociology of Work Unit",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2496192",
+        "name": "University of Zululand",
+        "short_name": null,
+        "official_website": "https:\/\/www.unizulu.ac.za\/",
+        "aliases": [
+            "UniZulu",
+            "unizulu.ac.za"
+        ],
+        "latitude": -28.858018,
+        "longitude": 31.841082,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2399345",
+        "name": "Vaal University of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.vut.ac.za",
+        "aliases": [
+            "VUT",
+            "vut.ac.za"
+        ],
+        "latitude": -26.71058,
+        "longitude": 27.8609,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25212582",
+        "name": "Vega",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1860280",
+        "name": "Vista University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q248919",
+        "name": "Walter Sisulu University",
+        "short_name": null,
+        "official_website": "http:\/\/www.wsu.ac.za\/",
+        "aliases": [
+            "WSU",
+            "wsu.ac.za"
+        ],
+        "latitude": -32.3002196,
+        "longitude": 28.2047474,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948391",
+        "name": "Walter Sisulu University Department of Medical Biochemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q138036253",
+        "name": "Wits MIND institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.wits.ac.za\/mind\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    }
+]

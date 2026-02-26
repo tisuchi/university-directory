@@ -1,0 +1,662 @@
+[
+    {
+        "wikidata_id": "Q4689062",
+        "name": "Afghan Defense University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 34.5542,
+        "longitude": 69.0315,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4689068",
+        "name": "Afghan Geodesy and Cartography Head Office",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4689082",
+        "name": "Afghan National Security University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 34.54,
+        "longitude": 69.07,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18350367",
+        "name": "Afghanistan Institute Of Higher Education",
+        "short_name": null,
+        "official_website": "http:\/\/www.dis.af\/",
+        "aliases": null,
+        "latitude": 34.5644111,
+        "longitude": 69.1521222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21825734",
+        "name": "Afghanistan Institute of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 34.50942,
+        "longitude": 69.12916,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4689160",
+        "name": "Afghanistan Public Policy Research Organization",
+        "short_name": null,
+        "official_website": "http:\/\/www.appro.org.af\/",
+        "aliases": [
+            "Afghanistan Public Policy Research Organization (APPRO)"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22979334",
+        "name": "Afghanistan Technical Vocational Institute",
+        "short_name": null,
+        "official_website": "http:\/\/atvi.edu.af",
+        "aliases": [
+            "Afghanistan Technical Vocational Institute (ATVI)",
+            "ATVI-ATVI Afghanistan-Afghanistan ATVI-Afghanistan Technical Institute-Afghanistan Technical Vocational Institute-Kabul Institute",
+            "د افغانستان د تخنیکي مسلکي زده کړو انسټیټوټ"
+        ],
+        "latitude": 34.5143863,
+        "longitude": 69.1394312,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4702295",
+        "name": "Al-Beroni University",
+        "short_name": null,
+        "official_website": "http:\/\/au.afghanistan.af\/en",
+        "aliases": null,
+        "latitude": 35.12804,
+        "longitude": 69.32257,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3918332",
+        "name": "American University of Afghanistan",
+        "short_name": null,
+        "official_website": "http:\/\/www.auaf.edu.af\/",
+        "aliases": null,
+        "latitude": 34.4755556,
+        "longitude": 69.1263889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18844652",
+        "name": "Badakhshan University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 37.10088,
+        "longitude": 70.5562,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18914765",
+        "name": "Badghis University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4841885",
+        "name": "Baghlan University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4849402",
+        "name": "Bakhtar Institute of Higher Education",
+        "short_name": null,
+        "official_website": "http:\/\/www.bakhtar.edu.af\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1070930",
+        "name": "Balkh University",
+        "short_name": null,
+        "official_website": "http:\/\/ba.edu.af\/en",
+        "aliases": null,
+        "latitude": 36.71007,
+        "longitude": 67.12726,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4853503",
+        "name": "Bamiyan University",
+        "short_name": null,
+        "official_website": "http:\/\/bu.edu.af",
+        "aliases": null,
+        "latitude": 34.82971,
+        "longitude": 67.83588,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4947639",
+        "name": "Bost University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.8566666,
+        "longitude": 64.2208328,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18914745",
+        "name": "Burhanuddin Rabbani University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5242285",
+        "name": "Dawat University",
+        "short_name": null,
+        "official_website": "http:\/\/www.dawat.edu.af\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28223855",
+        "name": "Dunya University of Afghanistan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18914774",
+        "name": "Farah University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5436558",
+        "name": "Faryab Higher Education Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5524542",
+        "name": "Garwhashad Institute of Higher Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q110413188",
+        "name": "Gharjistan University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3918307",
+        "name": "Ghazni University",
+        "short_name": null,
+        "official_website": "http:\/\/gu.edu.af\/en",
+        "aliases": null,
+        "latitude": 33.530303,
+        "longitude": 68.47418,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18914759",
+        "name": "Ghor University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 34.5195833,
+        "longitude": 65.3167222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11159738",
+        "name": "Hara University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20650278",
+        "name": "Helmand University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.581312,
+        "longitude": 64.366724,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2620139",
+        "name": "Herat University",
+        "short_name": null,
+        "official_website": "http:\/\/hu.edu.af",
+        "aliases": null,
+        "latitude": 34.367914,
+        "longitude": 62.2112398,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10976828",
+        "name": "Higher Education Institute of Karwan",
+        "short_name": null,
+        "official_website": "http:\/\/www.karwan.edu.af\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21825728",
+        "name": "Jawzjan University",
+        "short_name": null,
+        "official_website": "https:\/\/ju.edu.af",
+        "aliases": null,
+        "latitude": 36.67291,
+        "longitude": 65.74191,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18914714",
+        "name": "Jowzjan University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 36.67291,
+        "longitude": 65.74191,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6344322",
+        "name": "Kaboora Institute of Higher Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17068335",
+        "name": "Kabul Education University",
+        "short_name": null,
+        "official_website": "http:\/\/keu.edu.af\/",
+        "aliases": null,
+        "latitude": 34.53237,
+        "longitude": 69.11274,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21825729",
+        "name": "Kabul Polytechnic",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 34.535,
+        "longitude": 69.11972,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2358317",
+        "name": "Kabul Polytechnic University",
+        "short_name": null,
+        "official_website": "http:\/\/kpu.edu.af\/en",
+        "aliases": [
+            "Polytechnical University of Kabul"
+        ],
+        "latitude": 34.535,
+        "longitude": 69.11972,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1354097",
+        "name": "Kabul University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ku.edu.af\/dr",
+        "aliases": [
+            "University of Kabul"
+        ],
+        "latitude": 34.5177778,
+        "longitude": 69.1280556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1814136",
+        "name": "Kabul University of Medical Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.kmu.edu.af\/",
+        "aliases": [
+            "Kabul Medical Faculty",
+            "Kabul Medical University",
+            "Kabul University of Medical Science Abu Ali Ibn Sina"
+        ],
+        "latitude": 34.5166667,
+        "longitude": 69.1297222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3752161",
+        "name": "Kandahar University",
+        "short_name": null,
+        "official_website": "https:\/\/kdru.edu.af",
+        "aliases": null,
+        "latitude": 31.63815,
+        "longitude": 65.69693,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2596662",
+        "name": "Kardan Institute of Higher Education",
+        "short_name": null,
+        "official_website": "http:\/\/www.kardan.edu.af\/",
+        "aliases": null,
+        "latitude": 34.5494,
+        "longitude": 69.1526,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16053180",
+        "name": "Khatam Al-Nabieen University",
+        "short_name": null,
+        "official_website": "http:\/\/khu.edu.af\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6403066",
+        "name": "Khurasan University",
+        "short_name": null,
+        "official_website": "http:\/\/www.khurasan.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18914781",
+        "name": "Kunduz University",
+        "short_name": null,
+        "official_website": "http:\/\/kundoz.edu.af",
+        "aliases": null,
+        "latitude": 36.71166,
+        "longitude": 68.86343,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137655176",
+        "name": "Logar University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18844612",
+        "name": "Loghman University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6963500",
+        "name": "Nangarhar University",
+        "short_name": null,
+        "official_website": "https:\/\/nu.edu.af\/",
+        "aliases": null,
+        "latitude": 34.4725,
+        "longitude": 70.36917,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2822437",
+        "name": "National Military Academy of Afghanistan",
+        "short_name": null,
+        "official_website": "http:\/\/www.nmaa.edu.af",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21825715",
+        "name": "National Technical Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 34.50942,
+        "longitude": 69.12916,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7126068",
+        "name": "Paktia University",
+        "short_name": null,
+        "official_website": "http:\/\/www.pu.edu.af\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7129320",
+        "name": "Pamir University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 33.337106,
+        "longitude": 69.917411,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18907568",
+        "name": "Panjshir University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7141388",
+        "name": "Parwan University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25110718",
+        "name": "Qalam institute of higher education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7290634",
+        "name": "Rana University",
+        "short_name": null,
+        "official_website": "http:\/\/ru.edu.af",
+        "aliases": [
+            "Rana Institute of Higher Education"
+        ],
+        "latitude": 34.5367,
+        "longitude": 69.144,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7660353",
+        "name": "Said Jamaluddin Afghani University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "SJAU"
+        ],
+        "latitude": 34.859308,
+        "longitude": 71.141036,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16961106",
+        "name": "Salam University",
+        "short_name": null,
+        "official_website": "http:\/\/www.salam.edu.af\/",
+        "aliases": null,
+        "latitude": 34.5438,
+        "longitude": 69.1481,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18914717",
+        "name": "Samangan University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3918348",
+        "name": "Shaikh Zayed University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "SZU",
+            "Afghan University Peshawar",
+            "Khost University"
+        ],
+        "latitude": 33.34893,
+        "longitude": 69.86908,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q73460729",
+        "name": "Sharq University",
+        "short_name": null,
+        "official_website": "http:\/\/sharq.edu.af\/",
+        "aliases": [
+            "Sharq Institute of Higher Education"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7577547",
+        "name": "Spinghar Institute of Higher Education",
+        "short_name": null,
+        "official_website": "https:\/\/spingharuniversity.edu.af\/",
+        "aliases": [
+            "Spinghar Higher Education Centre",
+            "Spinghar Institute of Higher Education, Nangarhar",
+            "Spinghar University"
+        ],
+        "latitude": 34.4328,
+        "longitude": 70.4692,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135396483",
+        "name": "Spinghar Institute of Higher Education, Kabul",
+        "short_name": null,
+        "official_website": "https:\/\/spingharkabul.edu.af\/",
+        "aliases": [
+            "Spinghar University (Kabul Campus)"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135489760",
+        "name": "Tabesh University",
+        "short_name": null,
+        "official_website": "https:\/\/tabesh.edu.af",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7678191",
+        "name": "Takhar University",
+        "short_name": null,
+        "official_website": "http:\/\/www.tu.edu.af\/",
+        "aliases": null,
+        "latitude": 36.73135,
+        "longitude": 69.54015,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7901068",
+        "name": "Urozgan University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

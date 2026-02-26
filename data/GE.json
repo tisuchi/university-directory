@@ -1,0 +1,762 @@
+[
+    {
+        "wikidata_id": "Q307065",
+        "name": "Abkhazian State University",
+        "short_name": null,
+        "official_website": "http:\/\/agu.site\/abh\/",
+        "aliases": [
+            "Sukhumi State University"
+        ],
+        "latitude": 42.9761111,
+        "longitude": 41.0663889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16375275",
+        "name": "Agricultural University of Georgia",
+        "short_name": null,
+        "official_website": "http:\/\/agruni.edu.ge\/",
+        "aliases": null,
+        "latitude": 41.8056,
+        "longitude": 44.7682,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4700199",
+        "name": "Akaki Tsereteli State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.atsu.edu.ge",
+        "aliases": [
+            "Kutaisi University"
+        ],
+        "latitude": 42.2645536,
+        "longitude": 42.710592,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q118262830",
+        "name": "Alexandre Janelidze Institute of Geology",
+        "short_name": null,
+        "official_website": "https:\/\/ajig.ge\/",
+        "aliases": [
+            "AJIG",
+            "Janelidze Institute of Geology"
+        ],
+        "latitude": 41.721303,
+        "longitude": 44.709528,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q28916391",
+        "name": "American University for Humanities",
+        "short_name": null,
+        "official_website": "http:\/\/www.auhtc.edu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q58038359",
+        "name": "Andrea Razmadze Mathematical Institute",
+        "short_name": null,
+        "official_website": "http:\/\/rmi.tsu.ge",
+        "aliases": [
+            "A. Razmadze Mathematical Institute",
+            "Razmadze Mathematical Institute"
+        ],
+        "latitude": 41.720756,
+        "longitude": 44.744851,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12864143",
+        "name": "Arnold Chikobava Institute of Linguistics",
+        "short_name": null,
+        "official_website": "https:\/\/ice.ge\/",
+        "aliases": [
+            "Chikobava Institute of Linguistics"
+        ],
+        "latitude": 41.693446,
+        "longitude": 44.797582,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1155788",
+        "name": "Batumi State Maritime Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.bsma.edu.ge\/",
+        "aliases": null,
+        "latitude": 41.646983,
+        "longitude": 41.621786,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115756250",
+        "name": "Caucasian Institute of Mineral Resources",
+        "short_name": null,
+        "official_website": "http:\/\/www.caumineral.org.ge\/",
+        "aliases": [
+            "Caucasian Alexander Tvalchrelidze Institute of Mineral Resources",
+            "CIMR",
+            "Tvalchrelidze Caucasian Institute of Mineral Resources"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5054305",
+        "name": "Caucasus University",
+        "short_name": null,
+        "official_website": "http:\/\/www.cu.edu.ge\/",
+        "aliases": [
+            "CU"
+        ],
+        "latitude": 41.725,
+        "longitude": 44.7783333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136564985",
+        "name": "Central University of Europe",
+        "short_name": null,
+        "official_website": "https:\/\/cue.edu.ge\/",
+        "aliases": [
+            "CUE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5230631",
+        "name": "David Aghmashenebeli University of Georgia",
+        "short_name": null,
+        "official_website": "https:\/\/sdasu.edu.ge\/en",
+        "aliases": null,
+        "latitude": 41.7102778,
+        "longitude": 44.7672222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65284733",
+        "name": "East European University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20073496",
+        "name": "Elephter Andronikashvili Institute of Physics",
+        "short_name": null,
+        "official_website": "https:\/\/www.aiphysics.tsu.ge\/",
+        "aliases": [
+            "AIP",
+            "Andronikashvili Institute of Physics",
+            "Elevter Andronikashvili Institute of Physics"
+        ],
+        "latitude": 41.720756,
+        "longitude": 44.744851,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q110900351",
+        "name": "European University",
+        "short_name": null,
+        "official_website": "https:\/\/eu.edu.ge\/en",
+        "aliases": [
+            "EU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3648053",
+        "name": "Free University of Tbilisi",
+        "short_name": null,
+        "official_website": "http:\/\/www.freeuni.ge\/",
+        "aliases": null,
+        "latitude": 41.8057275,
+        "longitude": 44.7657262,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1329245",
+        "name": "George Eliava Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.eliava-institute.org",
+        "aliases": [
+            "aka Tbilisi Institute",
+            "George Eliava Institute of Bacteriophage, Microbiology and Virology",
+            "Giorgi Eliava Institute"
+        ],
+        "latitude": 41.7340833,
+        "longitude": 44.772,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17067534",
+        "name": "Georgian Aviation University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5548027",
+        "name": "Georgian Institute of Public Affairs",
+        "short_name": null,
+        "official_website": "http:\/\/www.gipa.ge",
+        "aliases": null,
+        "latitude": 41.7019444,
+        "longitude": 44.7980556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4150543",
+        "name": "Georgian State University of Subtropical Agriculture",
+        "short_name": null,
+        "official_website": "http:\/\/www.eng.ssmsu.edu.ge\/",
+        "aliases": null,
+        "latitude": 42.24917,
+        "longitude": 42.68927,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1425119",
+        "name": "Georgian Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/gtu.ge\/",
+        "aliases": [
+            "GTU",
+            "V.I. Lenin Georgian Polytechnical Institute"
+        ],
+        "latitude": 41.7169444,
+        "longitude": 44.7780556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5586426",
+        "name": "Gori State Teaching University",
+        "short_name": null,
+        "official_website": "http:\/\/www.gu.edu.ge\/",
+        "aliases": null,
+        "latitude": 41.9823889,
+        "longitude": 44.1136111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1546661",
+        "name": "Grigol Robakidze University",
+        "short_name": null,
+        "official_website": "http:\/\/www.gruni.edu.ge",
+        "aliases": null,
+        "latitude": 41.7918889,
+        "longitude": 44.77575,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q120165620",
+        "name": "Grigol Tsulukidze Mining Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.mining.org.ge\/",
+        "aliases": [
+            "G.Tsulukidze Mining Institute",
+            "TMI",
+            "Tsulukidze Mining Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2324420",
+        "name": "Ilia State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.iliauni.edu.ge\/",
+        "aliases": null,
+        "latitude": 41.7098333,
+        "longitude": 44.7855,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q118255821",
+        "name": "Ilia Vekua Institute of Applied Mathematics",
+        "short_name": null,
+        "official_website": "http:\/\/www.viam.science.tsu.ge\/",
+        "aliases": [
+            "Vekua Institute of Applied Mathematics",
+            "VIAM"
+        ],
+        "latitude": 41.7190818,
+        "longitude": 44.7416784,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q15056005",
+        "name": "Institute of Applied Physics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q97251988",
+        "name": "Institute of Zoology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2905589",
+        "name": "International Black Sea University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ibsu.edu.ge\/",
+        "aliases": null,
+        "latitude": 41.7973611,
+        "longitude": 44.7739444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6052951",
+        "name": "International School of Economics at Tbilisi State University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.71,
+        "longitude": 44.778333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25112373",
+        "name": "International Teaching University of Georgia",
+        "short_name": null,
+        "official_website": "https:\/\/unigeo.edu.ge\/",
+        "aliases": [
+            "Tbilisi Teaching University Gorgasali",
+            "UNIGEORGIA"
+        ],
+        "latitude": 41.7666667,
+        "longitude": 44.7897222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4891912",
+        "name": "Ivane Beritashvili Center of Experimental Biomedicine",
+        "short_name": null,
+        "official_website": "https:\/\/lifescience.org.ge\/",
+        "aliases": [
+            "Beritashvili Institute of Physiology",
+            "Life Sciences Research Center"
+        ],
+        "latitude": 41.7288889,
+        "longitude": 44.7727778,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16370763",
+        "name": "Ivane Javakhishvili Institute of History and Ethnology",
+        "short_name": null,
+        "official_website": "https:\/\/ihe.tsu.ge\/",
+        "aliases": [
+            "Javakhishvili Institute of History and Ethnology",
+            "Javakhishvili Institute of History, Archeology and Ethnography"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6448317",
+        "name": "Kutaisi Institute of Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28220884",
+        "name": "Kutaisi University",
+        "short_name": null,
+        "official_website": "http:\/\/unik.edu.ge\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30004952",
+        "name": "Mikheil Nodia Institute of Geophysics",
+        "short_name": null,
+        "official_website": "https:\/\/ig-geophysics.ge\/",
+        "aliases": [
+            "Institute of Geophysics",
+            "M. Nodia Institute of Geophysics"
+        ],
+        "latitude": 41.717377,
+        "longitude": 44.782146,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q21042417",
+        "name": "N. Muskhelishvili Kutaisi State Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.kstu.ge\/",
+        "aliases": [
+            "KSTU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61137634",
+        "name": "National University of Georgia SEU",
+        "short_name": null,
+        "official_website": "http:\/\/www.seu.edu.ge",
+        "aliases": [
+            "SEU National University of Georgia"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q126898812",
+        "name": "New Vision University",
+        "short_name": null,
+        "official_website": "https:\/\/newvision.ge\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7120548",
+        "name": "PR School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125246158",
+        "name": "Q125246158",
+        "short_name": null,
+        "official_website": "https:\/\/iset.tsu.ge\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12868931",
+        "name": "Q12868931",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16612895",
+        "name": "Q16612895",
+        "short_name": null,
+        "official_website": "http:\/\/en.hippocrates.edu.ge\/",
+        "aliases": null,
+        "latitude": 41.714,
+        "longitude": 44.7441,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21051402",
+        "name": "Q21051402",
+        "short_name": null,
+        "official_website": "http:\/\/www.sportuni.edu.ge\/",
+        "aliases": null,
+        "latitude": 41.7119001,
+        "longitude": 44.746836,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q31355170",
+        "name": "Q31355170",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q31355191",
+        "name": "Q31355191",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5702006",
+        "name": "Q5702006",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65289580",
+        "name": "Savle Tsereteli Institute of Philosophy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Tsereteli Institute of Philosophy"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12870115",
+        "name": "Shota Rustaveli Institute of Georgian Literature",
+        "short_name": null,
+        "official_website": "https:\/\/www.litinstituti.ge\/",
+        "aliases": [
+            "Rustaveli Institute of Georgian Literature"
+        ],
+        "latitude": 41.7048005,
+        "longitude": 44.7900552,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q773986",
+        "name": "Shota Rustaveli State University",
+        "short_name": null,
+        "official_website": "http:\/\/bsu.edu.ge\/",
+        "aliases": [
+            "Batumi Shota Rustaveli State University"
+        ],
+        "latitude": 41.6497222,
+        "longitude": 41.6269444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4453142",
+        "name": "Shota Rustaveli Theatre and Film University",
+        "short_name": null,
+        "official_website": "http:\/\/tafu.edu.ge\/",
+        "aliases": [
+            "TAFU"
+        ],
+        "latitude": 41.705,
+        "longitude": 44.8008333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17067248",
+        "name": "Sokhumi State University",
+        "short_name": null,
+        "official_website": "http:\/\/sou.edu.ge",
+        "aliases": null,
+        "latitude": 41.7205722,
+        "longitude": 44.7088306,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q955439",
+        "name": "South Ossetian State University",
+        "short_name": null,
+        "official_website": "http:\/\/xipu.ru\/",
+        "aliases": null,
+        "latitude": 42.2286111,
+        "longitude": 43.9672222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16377048",
+        "name": "St. Andrews Georgian University",
+        "short_name": null,
+        "official_website": "http:\/\/www.sangu.edu.ge\/",
+        "aliases": [
+            "Georgian University",
+            "Kʻartʻuli universitet",
+            "Saint Andrew The First-Called Georgian University",
+            "Saint Andrew the First-Called Georgian University of the Patriarchate of Georgia",
+            "Sakʻartʻvelos Sapatriarkʻos Cmida Andria Pirvelcodebulis saxelobis kʻartʻuli universiteti",
+            "SANGU"
+        ],
+        "latitude": 41.7108333,
+        "longitude": 44.7413889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4475825",
+        "name": "Sukhishvili University",
+        "short_name": null,
+        "official_website": "http:\/\/www.sukhishvilebi.edu.ge",
+        "aliases": null,
+        "latitude": 41.9925,
+        "longitude": 44.11,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61697054",
+        "name": "Sulkhan-Saba Orbeliani University",
+        "short_name": null,
+        "official_website": "http:\/\/sabauni.edu.ge\/en\/",
+        "aliases": [
+            "Sabauni"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16369943",
+        "name": "Tbilisi Humanitarian Teaching University",
+        "short_name": null,
+        "official_website": "http:\/\/www.thu.edu.ge\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124386829",
+        "name": "Tbilisi International University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q619600",
+        "name": "Tbilisi State Academy of Arts",
+        "short_name": null,
+        "official_website": "http:\/\/www.art.edu.ge",
+        "aliases": null,
+        "latitude": 41.7014167,
+        "longitude": 44.7926389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7690579",
+        "name": "Tbilisi State Institute of Economic Relations",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.7325,
+        "longitude": 44.8216667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2905597",
+        "name": "Tbilisi State Medical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.tsmu.edu",
+        "aliases": [
+            "Tbilisi Medical Institute"
+        ],
+        "latitude": 41.7273889,
+        "longitude": 44.7539722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q37008",
+        "name": "Tbilisi State University",
+        "short_name": null,
+        "official_website": "https:\/\/www.tsu.ge\/en",
+        "aliases": [
+            "TSU",
+            "Ivane Javakhishvili Tbilisi State University",
+            "Ivane Javaxishvilis saxelobis Tbilisis saxelmts'ipo universit'et'i",
+            "Tbilisi Secular University"
+        ],
+        "latitude": 41.71,
+        "longitude": 44.7783333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12865028",
+        "name": "Telavi Iakob Gogebashvili State University",
+        "short_name": null,
+        "official_website": "http:\/\/tesau.edu.ge\/",
+        "aliases": null,
+        "latitude": 41.91,
+        "longitude": 45.4680556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109290726",
+        "name": "The G. Chubinashvili National Research Centre for Georgian Art History and Heritage Preservation",
+        "short_name": null,
+        "official_website": "http:\/\/www.gch-centre.ge\/",
+        "aliases": [
+            "The G. Chubinashvili Institute of History of Georgian Art"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1509484",
+        "name": "The University of Georgia",
+        "short_name": null,
+        "official_website": "http:\/\/www.ug.edu.ge\/",
+        "aliases": [
+            "University of Georgia",
+            "University Sakartvelo"
+        ],
+        "latitude": 41.7238889,
+        "longitude": 44.7777778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16369106",
+        "name": "Vakhushti Bagrationi Institute of Geography",
+        "short_name": null,
+        "official_website": "https:\/\/vbig.ge\/",
+        "aliases": [
+            "Bagrationi Institute of Geography",
+            "VBIG"
+        ],
+        "latitude": 41.7203005,
+        "longitude": 44.7439375,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q136565011",
+        "name": "World University of Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/wust.ge\/",
+        "aliases": [
+            "WUST"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

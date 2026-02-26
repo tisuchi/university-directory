@@ -1,0 +1,708 @@
+[
+    {
+        "wikidata_id": "Q6777890",
+        "name": "Academy of Film and Multimedia Marubi",
+        "short_name": null,
+        "official_website": "http:\/\/www.afmm.edu.al",
+        "aliases": [
+            "Marubi Film School"
+        ],
+        "latitude": 41.3464,
+        "longitude": 19.8473,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1738772",
+        "name": "Agricultural University of Tirana",
+        "short_name": null,
+        "official_website": "http:\/\/ubt.edu.al\/",
+        "aliases": [
+            "UBT"
+        ],
+        "latitude": 41.3622996,
+        "longitude": 19.7710562,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16348168",
+        "name": "Albanian University",
+        "short_name": null,
+        "official_website": "http:\/\/www.albanianuniversity.al\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108044059",
+        "name": "Aldent University",
+        "short_name": null,
+        "official_website": "https:\/\/ual.edu.al\/ual.edu.al\/",
+        "aliases": null,
+        "latitude": 41.2813778,
+        "longitude": 19.8599028,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3302123",
+        "name": "Aleksandër Moisiu University of Durrës",
+        "short_name": null,
+        "official_website": "http:\/\/www.uamd.edu.al\/",
+        "aliases": [
+            "University of Durrës",
+            "Aleksandër Moisiu University"
+        ],
+        "latitude": 41.313534,
+        "longitude": 19.434216,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1334412",
+        "name": "Aleksandër Xhuvani University in Elbasan",
+        "short_name": null,
+        "official_website": "https:\/\/www.uniel.edu.al\/",
+        "aliases": [
+            "Elbasan's university"
+        ],
+        "latitude": 41.1220549,
+        "longitude": 20.0793386,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4745319",
+        "name": "American University of Tirana",
+        "short_name": null,
+        "official_website": "http:\/\/www.uat.edu.al",
+        "aliases": null,
+        "latitude": 41.2799917,
+        "longitude": 19.8626472,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4879479",
+        "name": "Bedër University",
+        "short_name": null,
+        "official_website": "http:\/\/www.beder.edu.al\/",
+        "aliases": null,
+        "latitude": 41.33921,
+        "longitude": 19.81103,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15040999",
+        "name": "Canadian Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.cit.edu.al",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4005885",
+        "name": "Catholic University \"Our Lady of Good Counsel\"",
+        "short_name": null,
+        "official_website": "https:\/\/www.unizkm.al",
+        "aliases": null,
+        "latitude": 41.3336,
+        "longitude": 19.79771,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1347511",
+        "name": "Epoka University",
+        "short_name": null,
+        "official_website": "http:\/\/www.epoka.edu.al",
+        "aliases": null,
+        "latitude": 41.3167694,
+        "longitude": 19.8216639,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1347773",
+        "name": "Eqrem Çabej University of Gjirokastër",
+        "short_name": null,
+        "official_website": "http:\/\/www.uogj.edu.al",
+        "aliases": null,
+        "latitude": 40.0825,
+        "longitude": 20.1369444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1377564",
+        "name": "European University of Tirana",
+        "short_name": null,
+        "official_website": "http:\/\/www.uet.edu.al\/",
+        "aliases": [
+            "Universiteti Europian i Tiranës"
+        ],
+        "latitude": 41.3216667,
+        "longitude": 19.8025,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1637768",
+        "name": "Fan S. Noli University",
+        "short_name": null,
+        "official_website": "https:\/\/unkorce.edu.al\/",
+        "aliases": null,
+        "latitude": 40.6275,
+        "longitude": 20.7852778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5972324",
+        "name": "INIMA",
+        "short_name": null,
+        "official_website": "http:\/\/itc.upt.al\/qkzh.html",
+        "aliases": [
+            "Centre for Research and Development on Information Technology and Telecommunication"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25567328",
+        "name": "Institute of Geosciences, Energy, Water and Environment",
+        "short_name": null,
+        "official_website": "https:\/\/geo.edu.al\/",
+        "aliases": [
+            "IGEO",
+            "Institute of GeoSciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q56547213",
+        "name": "Institute of Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q13040195",
+        "name": "Instituti i Lartë Pedagogjik",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q110234334",
+        "name": "Ivodent Academy",
+        "short_name": null,
+        "official_website": "https:\/\/ivodent.edu.al\/",
+        "aliases": null,
+        "latitude": 41.33182,
+        "longitude": 19.8138397,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3303491",
+        "name": "Kristal University",
+        "short_name": null,
+        "official_website": "http:\/\/kristal.edu.al",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6695035",
+        "name": "Luarasi University",
+        "short_name": null,
+        "official_website": "https:\/\/luarasi-univ.edu.al\/",
+        "aliases": null,
+        "latitude": 41.3194,
+        "longitude": 19.8285,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6763692",
+        "name": "Marin Barleti University",
+        "short_name": null,
+        "official_website": "http:\/\/www.umb.edu.al",
+        "aliases": [
+            "Barleti University"
+        ],
+        "latitude": 41.3158194,
+        "longitude": 19.7970817,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109594179",
+        "name": "Mediterranean University of Albania",
+        "short_name": null,
+        "official_website": "https:\/\/www.umsh.edu.al\/",
+        "aliases": [
+            "Universiteti Mesdhetar"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7200168",
+        "name": "Pjeter Meshkalla High School",
+        "short_name": null,
+        "official_website": "http:\/\/www.schoolius.com\/school\/534433076690492\/Shkolla",
+        "aliases": [
+            "Shkodër Jesuit College"
+        ],
+        "latitude": 42.0658333,
+        "longitude": 19.52,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7209801",
+        "name": "Polis University",
+        "short_name": null,
+        "official_website": "http:\/\/www.universitetipolis.edu.al",
+        "aliases": null,
+        "latitude": 41.3535,
+        "longitude": 19.7494,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3302185",
+        "name": "Political Academy of the Socialist Party of Albania",
+        "short_name": null,
+        "official_website": "http:\/\/www.akademiapolitike.com",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q821042",
+        "name": "Polytechnic University of Tirana",
+        "short_name": null,
+        "official_website": "https:\/\/upt.edu.al\/",
+        "aliases": [
+            "Universiteti Politeknik i Tiranës"
+        ],
+        "latitude": 41.3166667,
+        "longitude": 19.8216667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135951139",
+        "name": "Q135951139",
+        "short_name": null,
+        "official_website": "http:\/\/www.artacademy.al\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2812024",
+        "name": "Skanderbeg Military University",
+        "short_name": null,
+        "official_website": "http:\/\/www.tradoc.mil.al\/index.php\/akademia-e-fa",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16359696",
+        "name": "Tirana Business University",
+        "short_name": null,
+        "official_website": "https:\/\/tbu.edu.al\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101424667",
+        "name": "Universiteti Bujqësor i Tiranës Fakultet i Ekonomisë dhe Agrobiznesit",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101424668",
+        "name": "Universiteti Bujqësor i Tiranës Fakulteti i Bioteknologjisë dhe Ushqimit",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101424669",
+        "name": "Universiteti Bujqësor i Tiranës Fakulteti i Bujqësisë dhe Mjedisit",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101424671",
+        "name": "Universiteti Bujqësor i Tiranës Fakulteti i Shkencave Pyjore",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101424673",
+        "name": "Universiteti Europian i Tiranës Fakulteti i Shkencave Sociale dhe të Edukimit",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101424674",
+        "name": "Universiteti Europian i Tiranës Marrëdhënie me Publikun dhe Komunikim",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101424675",
+        "name": "Universiteti i Arteve Fakulteti i Arteve të Bukura",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101424676",
+        "name": "Universiteti i Arteve Fakulteti i Artit Skenik",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101424677",
+        "name": "Universiteti i Arteve Fakulteti i Muzikës",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101424678",
+        "name": "Universiteti i Tiranës Departamenti i Fizikës",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101424682",
+        "name": "Universiteti i Tiranës Fakulteti i Historisë dhe Filologjisë",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101424684",
+        "name": "Universiteti i Tiranës Fakulteti i Shkencave Natyrore",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101424685",
+        "name": "Universiteti i Tiranës Fakulteti i Shkencave Sociale",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894424",
+        "name": "Universiteti Pavarësia Vlorë",
+        "short_name": null,
+        "official_website": "http:\/\/www.unipavaresia.edu.al",
+        "aliases": null,
+        "latitude": 40.463,
+        "longitude": 19.4891,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101424693",
+        "name": "Universiteti Politeknik i Tiranes Instituti i Gjeoshkencave Energjisë Ujit dhe Mjedisit",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101424687",
+        "name": "Universiteti Politeknik i Tiranës Fakulteti i Gjeologjisë dhe i Minierave",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101424689",
+        "name": "Universiteti Politeknik i Tiranës Fakulteti i Inxhinierise Matematike dhe Inxhinierise Fizike",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101424692",
+        "name": "Universiteti Politeknik i Tiranës Fakulteti i Teknologjisë së Informacionit",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101424694",
+        "name": "Universiteti te Elbasan Aleksander Xhuvani Fakulteti ekonomik",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101424695",
+        "name": "Universiteti Wisdom",
+        "short_name": null,
+        "official_website": "https:\/\/wisdom.edu.al\/",
+        "aliases": [
+            "Kolegji Universitar Wisdom"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6825303",
+        "name": "University Metropolitan Tirana",
+        "short_name": null,
+        "official_website": "http:\/\/www.umt.edu.al",
+        "aliases": [
+            "Metropolitan University of Tirana"
+        ],
+        "latitude": 41.3202,
+        "longitude": 19.8301,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1148613",
+        "name": "University of Arts (Albania)",
+        "short_name": null,
+        "official_website": "http:\/\/www.uart.edu.al\/",
+        "aliases": [
+            "Academy of Arts in Tirana",
+            "University of Arts in Tirana"
+        ],
+        "latitude": 41.3177944,
+        "longitude": 19.8201806,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q24914434",
+        "name": "University of Dyrrhachium",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Universitas Studiorum Dyrrhachium",
+            "University of Dyrrachium"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15279421",
+        "name": "University of Medicine, Tirana",
+        "short_name": null,
+        "official_website": "http:\/\/www.umed.edu.al",
+        "aliases": null,
+        "latitude": 41.3167,
+        "longitude": 19.8217,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895928",
+        "name": "University of New York Tirana",
+        "short_name": null,
+        "official_website": "http:\/\/www.unyt.edu.al",
+        "aliases": null,
+        "latitude": 41.315,
+        "longitude": 19.8062,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1142368",
+        "name": "University of Shkodra",
+        "short_name": null,
+        "official_website": "https:\/\/www.unishk.edu.al\/",
+        "aliases": [
+            "University of Shkodër",
+            "University of Shkodra"
+        ],
+        "latitude": 42.0702944,
+        "longitude": 19.5165361,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4671520",
+        "name": "University of Sports",
+        "short_name": null,
+        "official_website": "http:\/\/www.ust.edu.al\/",
+        "aliases": [
+            "Academy of Physical and Sports Education Vojo Kushi",
+            "University of Sports (Tirana)"
+        ],
+        "latitude": 41.3305556,
+        "longitude": 19.8019444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q428520",
+        "name": "University of Tirana",
+        "short_name": null,
+        "official_website": "https:\/\/unitir.edu.al\/en\/",
+        "aliases": [
+            "Universiteti i Tiranës",
+            "Tirana University"
+        ],
+        "latitude": 41.3177778,
+        "longitude": 19.8219444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1472179",
+        "name": "University of Vlorë",
+        "short_name": null,
+        "official_website": "http:\/\/www.univlora.edu.al\/",
+        "aliases": [
+            "University of Vlora Ismail Qemali"
+        ],
+        "latitude": 40.4541667,
+        "longitude": 19.4852778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7905963",
+        "name": "V.I. Lenin Higher Party School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2528770",
+        "name": "Vitrina University",
+        "short_name": null,
+        "official_website": "http:\/\/www.vitrina.edu.al\/",
+        "aliases": null,
+        "latitude": 41.3217,
+        "longitude": 19.819,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3302133",
+        "name": "Vëllezërit Kajtazi Educational Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136565010",
+        "name": "Western Balkans University",
+        "short_name": null,
+        "official_website": "https:\/\/wbu.edu.al\/",
+        "aliases": [
+            "WBU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1756635",
+        "name": "École pour l'informatique et les nouvelles technologies",
+        "short_name": null,
+        "official_website": "http:\/\/www.epitech.eu\/",
+        "aliases": [
+            "Ecole pour l'informatique et les nouvelles technologies",
+            "EPITECH"
+        ],
+        "latitude": 48.8153436,
+        "longitude": 2.363061,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q117260442",
+        "name": "️Tirana European University of Tourism",
+        "short_name": null,
+        "official_website": "http:\/\/www.euft.eu\/",
+        "aliases": [
+            "EUFT",
+            "European University for Tourism",
+            "European University of Tourism",
+            "Foundation of European University for Tourism",
+            "️Tirana European University of Tourism (EUFT)"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

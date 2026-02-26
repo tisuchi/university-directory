@@ -1,0 +1,1237 @@
+[
+    {
+        "wikidata_id": "Q25516631",
+        "name": "Centre of Estonian Rural Research and Knowledge",
+        "short_name": null,
+        "official_website": "http:\/\/www.etki.ee\/",
+        "aliases": [
+            "Estonian Crop Research Institute",
+            "Estonian Plant Breeding Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5158965",
+        "name": "Concordia International University Estonia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18625938",
+        "name": "Department of Cybernetics at the Tallinn University of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Institute of Cybernetics of the Estonian Academy of Sciences",
+            "Institute of Cybernetics of the Tallinn University of Technology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18626500",
+        "name": "Department of Geology at the Tallinn University of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Institute of Geology of the Estonian Academy of Sciences",
+            "Institute of Geology of the Tallinn University of Technology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12361331",
+        "name": "Eesti Metsamajanduse ja Looduskaitse Teadusliku Uurimise Instituut",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18623058",
+        "name": "Eesti Teadus- ja Tehnikainformatsiooni ning Majandusuuringute Instituut",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12361772",
+        "name": "Ehituse Teadusliku Uurimise Instituut",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1370318",
+        "name": "Estonian Academy of Arts",
+        "short_name": null,
+        "official_website": "http:\/\/www.artun.ee",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1370342",
+        "name": "Estonian Academy of Music and Theatre",
+        "short_name": null,
+        "official_website": "https:\/\/eamt.ee\/",
+        "aliases": [
+            "Eesti Muusika- ja Teatriakadeemia",
+            "Tallinn State Conservatory"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5401535",
+        "name": "Estonian Biocentre",
+        "short_name": null,
+        "official_website": "https:\/\/genomics.ut.ee\/et\/eesti-biokeskus",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3741208",
+        "name": "Estonian Business School",
+        "short_name": null,
+        "official_website": "https:\/\/www.ebs.ee",
+        "aliases": [
+            "EBS",
+            "Eesti Kõrgem Kommertskool"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16412957",
+        "name": "Estonian Genome Foundation",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5401558",
+        "name": "Estonian Genome Project",
+        "short_name": null,
+        "official_website": "https:\/\/genomics.ut.ee\/en\/content\/estonian-biobank",
+        "aliases": [
+            "Estonian Biobank"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12361234",
+        "name": "Estonian Institute of Cardiology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16413032",
+        "name": "Estonian Institute of Economic Research",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12361454",
+        "name": "Estonian Institute of Energetics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Institute of Energetics of the Estonian Academy of Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16409300",
+        "name": "Estonian Institute of Humanities",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5401565",
+        "name": "Estonian Institute of Zoology and Botany",
+        "short_name": null,
+        "official_website": "http:\/\/www.zbi.ee",
+        "aliases": [
+            "ZBI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q823031",
+        "name": "Estonian Literary Museum",
+        "short_name": null,
+        "official_website": "https:\/\/www.kirmus.ee\/",
+        "aliases": [
+            "ELM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12361423",
+        "name": "Estonian National Committee for Mechanics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12361309",
+        "name": "Estonian Research Institute of Agriculture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12361434",
+        "name": "Estonian State Theatre Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Estonian State Theater Institute",
+            "State Theater Institute of the Estonian SSR"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q655542",
+        "name": "Estonian University of Life Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.emu.ee\/",
+        "aliases": [
+            "Estonian Agricultural Academy",
+            "Estonian Agricultural University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12361314",
+        "name": "Estonian University of Life Sciences, Institute of Forestry and Rural Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12362641",
+        "name": "Financial College",
+        "short_name": null,
+        "official_website": "https:\/\/www.sisekaitse.ee\/et\/FK",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116739422",
+        "name": "Hariduse 3",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 59.431,
+        "longitude": 24.7417,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12361313",
+        "name": "Institute of Agricultural and Environmental Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16409976",
+        "name": "Institute of Chemistry of the Estonian Academy of Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12379487",
+        "name": "Institute of Ecology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16411238",
+        "name": "Institute of Experimental and Clinical Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16411226",
+        "name": "Institute of Experimental Biology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12358497",
+        "name": "Institute of History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Estonian History Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16412915",
+        "name": "Institute of Language and Literature",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16411070",
+        "name": "Institute of Party History of the Central Committee of the Communist Party of Estonia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16409121",
+        "name": "Institute of Research and Design",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q387634",
+        "name": "Institute of the Estonian Language",
+        "short_name": null,
+        "official_website": "https:\/\/eki.ee\/en\/",
+        "aliases": [
+            "EKI",
+            "Eesti Keele Instituut"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1518505",
+        "name": "International University Audentes",
+        "short_name": null,
+        "official_website": "http:\/\/www.audentes.eu",
+        "aliases": [
+            "International University Concordia Audentes"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5401562",
+        "name": "IT College of the Tallinn University of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.itcollege.ee",
+        "aliases": [
+            "Estonian Information Technology College",
+            "School of Information Technologies of the Tallinn University of Technology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131787391",
+        "name": "Kassari school – house of culture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20531129",
+        "name": "Keila elementary school building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 59.3108819,
+        "longitude": 24.4130732,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61402557",
+        "name": "Kooli 9",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 58.4063539,
+        "longitude": 24.657817,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12373038",
+        "name": "Kuninga 29",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "building of Pärnu Gymnasium for Boys"
+        ],
+        "latitude": 58.3833318,
+        "longitude": 24.5057966,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18119686",
+        "name": "Kuri schoolhouse",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 58.954361,
+        "longitude": 22.926301,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16408972",
+        "name": "Kõpu Orthodox church",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 58.915091,
+        "longitude": 22.211183,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q43752471",
+        "name": "Laekvere school building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 59.0672955,
+        "longitude": 26.561004,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25517901",
+        "name": "Narva gymnasium building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 59.380813,
+        "longitude": 28.1983956,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12376787",
+        "name": "National Institute for Health Development",
+        "short_name": null,
+        "official_website": "http:\/\/www.tai.ee\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6973622",
+        "name": "National Institute of Chemical Physics and Biophysics",
+        "short_name": null,
+        "official_website": "http:\/\/www.kbfi.ee\/",
+        "aliases": [
+            "National Institute for Chemical Physics and Biophysics",
+            "NICPB"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16411212",
+        "name": "Nikolai 26",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 58.3827153,
+        "longitude": 24.5004545,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16412526",
+        "name": "Obinitsa School-Church",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 57.8114,
+        "longitude": 27.4475,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12373159",
+        "name": "Oil Shale Institute of the Tallinn University of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q21777204",
+        "name": "Puski Orthodox schoolhouse",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 58.9071525,
+        "longitude": 22.4102487,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q43536201",
+        "name": "Püssi school building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 59.3726322,
+        "longitude": 27.0454108,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12358982",
+        "name": "Q12358982",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12359065",
+        "name": "Q12359065",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12360995",
+        "name": "Q12360995",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12361317",
+        "name": "Q12361317",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12361466",
+        "name": "Q12361466",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12361848",
+        "name": "Q12361848",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12361859",
+        "name": "Q12361859",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12366724",
+        "name": "Q12366724",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12366857",
+        "name": "Q12366857",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12367724",
+        "name": "Q12367724",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12367835",
+        "name": "Q12367835",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12370435",
+        "name": "Q12370435",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12370653",
+        "name": "Q12370653",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12374021",
+        "name": "Q12374021",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12374523",
+        "name": "Q12374523",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12376000",
+        "name": "Q12376000",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12377073",
+        "name": "Q12377073",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12377593",
+        "name": "Q12377593",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12379126",
+        "name": "Q12379126",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16408974",
+        "name": "Q16408974",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16409696",
+        "name": "Q16409696",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16409730",
+        "name": "Q16409730",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16409825",
+        "name": "Q16409825",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16409880",
+        "name": "Q16409880",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16409886",
+        "name": "Q16409886",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16410513",
+        "name": "Q16410513",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16410774",
+        "name": "Q16410774",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16410872",
+        "name": "Q16410872",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16411186",
+        "name": "Q16411186",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16411258",
+        "name": "Q16411258",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16411479",
+        "name": "Q16411479",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16411535",
+        "name": "Q16411535",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 58.042101,
+        "longitude": 27.072547,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16411576",
+        "name": "Q16411576",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16411810",
+        "name": "Q16411810",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16412374",
+        "name": "Q16412374",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18625755",
+        "name": "Q18625755",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18626497",
+        "name": "Q18626497",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18626542",
+        "name": "Q18626542",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 57.7405193,
+        "longitude": 26.7076886,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20529306",
+        "name": "Q20529306",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q43550740",
+        "name": "Q43550740",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 58.6320606,
+        "longitude": 25.9821641,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q44122485",
+        "name": "Q44122485",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 59.1808011,
+        "longitude": 25.1079161,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18627090",
+        "name": "Seminari 1",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 57.8487455,
+        "longitude": 26.9961,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530642",
+        "name": "Society of Balkan and Baltic Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q43535552",
+        "name": "Spordi 2",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 59.3941779,
+        "longitude": 27.2600331,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4450516",
+        "name": "Tallinn School of Law",
+        "short_name": null,
+        "official_website": "http:\/\/www.ttu.ee\/tallinn-law-school",
+        "aliases": null,
+        "latitude": 59.3966,
+        "longitude": 24.6697,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12376207",
+        "name": "Tallinn Technical School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1257946",
+        "name": "Tallinn University",
+        "short_name": null,
+        "official_website": "https:\/\/www.tlu.ee\/",
+        "aliases": [
+            "Tallinna Ülikool",
+            "TU",
+            "Tallinn Pedagogical Institute",
+            "Tallinn Pedagogical University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q604487",
+        "name": "Tallinn University of Technology",
+        "short_name": null,
+        "official_website": "https:\/\/taltech.ee\/",
+        "aliases": [
+            "Tallinn Technical University",
+            "Tallinna Tehnikaülikool",
+            "TalTech",
+            "TTÜ"
+        ],
+        "latitude": 59.3952861,
+        "longitude": 24.6717944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16411255",
+        "name": "Tallinna Tehnikaülikool. Elektriajamite ja jõuelektroonika instituut",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7686864",
+        "name": "Tartu Academy of Theology",
+        "short_name": null,
+        "official_website": "http:\/\/teoloogia.ee\/wb\/pages\/en\/home.php",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q91068780",
+        "name": "Tartu Observatory",
+        "short_name": null,
+        "official_website": "https:\/\/kosmos.ut.ee\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q131758573",
+        "name": "Tartu State University Faculty of History and Languages",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18625048",
+        "name": "Tartu University Physics Institute",
+        "short_name": null,
+        "official_website": "https:\/\/fi.ut.ee\/et\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12376678",
+        "name": "Tehnopol",
+        "short_name": null,
+        "official_website": "https:\/\/www.tehnopol.ee",
+        "aliases": [
+            "Tallinn Science Park Tehnopol"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16410217",
+        "name": "Termofüüsika ja Elektrofüüsika Instituut",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12377754",
+        "name": "Under and Tuglas Literature Centre",
+        "short_name": null,
+        "official_website": "https:\/\/www.utkk.ee\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q105223200",
+        "name": "University Nord",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q204181",
+        "name": "University of Tartu",
+        "short_name": "UT",
+        "official_website": "https:\/\/ut.ee",
+        "aliases": [
+            "UT",
+            "Tartu Ülikool",
+            "Tartu University",
+            "ut.ee"
+        ],
+        "latitude": 58.3811111,
+        "longitude": 26.7202778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12376505",
+        "name": "University of Tartu Estonian Marine Institute",
+        "short_name": null,
+        "official_website": "https:\/\/mereinstituut.ut.ee\/en\/",
+        "aliases": [
+            "Estonian Marine Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18625110",
+        "name": "University of Tartu Institute of Molecular and Cell Biology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q42888504",
+        "name": "Vadi schoolhouse",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 58.9889635,
+        "longitude": 26.9702699,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18625538",
+        "name": "Veritas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q501367",
+        "name": "Võro Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.wi.ee\/",
+        "aliases": [
+            "Võro Instituut"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16410727",
+        "name": "Ökoloogia ja Mereuuringute Instituut",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    }
+]

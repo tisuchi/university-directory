@@ -1,0 +1,965 @@
+[
+    {
+        "wikidata_id": "Q5157501",
+        "name": "Computer University, Loikaw",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucsy.edu.mm\/loikawcu\/index.php",
+        "aliases": null,
+        "latitude": 19.6965,
+        "longitude": 97.221,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5157505",
+        "name": "Computer University, Monywa",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucsy.edu.mm\/monywacu\/",
+        "aliases": null,
+        "latitude": 22.1917003,
+        "longitude": 95.0607109,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5157509",
+        "name": "Computer University, Pyay",
+        "short_name": null,
+        "official_website": "http:\/\/cupyay.moe-st.gov.mm",
+        "aliases": null,
+        "latitude": 18.822857,
+        "longitude": 95.2555333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5157510",
+        "name": "Computer University, Sittwe",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Computer University in Sittwe",
+            "UCSS"
+        ],
+        "latitude": 20.1325557,
+        "longitude": 92.8904901,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5208638",
+        "name": "Dagon University",
+        "short_name": null,
+        "official_website": "http:\/\/www.dagonuniversity.com\/",
+        "aliases": null,
+        "latitude": 16.9130556,
+        "longitude": 96.2122222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5251268",
+        "name": "Defence Services Technological Academy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 22.0486785,
+        "longitude": 96.500881,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100418692",
+        "name": "Dhammaduta Chekinda University",
+        "short_name": null,
+        "official_website": "https:\/\/www.dcumyanmar.com",
+        "aliases": null,
+        "latitude": 17.14224,
+        "longitude": 96.05099,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895354",
+        "name": "East Yangon University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "University of East Yangon"
+        ],
+        "latitude": 16.7356,
+        "longitude": 96.2864,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19894945",
+        "name": "Faith Baptist Bible College & Theological Seminary",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Faith Baptist Bible College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q35998434",
+        "name": "Government Technical Institute (Mawlamyine)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 16.4876339,
+        "longitude": 97.6754658,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65938426",
+        "name": "Government Technical Institute (Thandwe)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q135917614",
+        "name": "GTI Pyin Oo Lwin",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Government Technical Institute (Pyin Oo Lwin)"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q43736907",
+        "name": "Hpa-An Education College",
+        "short_name": null,
+        "official_website": "http:\/\/www.kayinstate.gov.mm\/photogallery\/kayin-beautiful-places",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q44609570",
+        "name": "Hpa-An University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122922491",
+        "name": "Indochina Research",
+        "short_name": null,
+        "official_website": "https:\/\/indochina-research.com\/",
+        "aliases": [
+            "IRC",
+            "IRL",
+            "Indochina Research and Consulting",
+            "Indochina Research, Ltd."
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74480977",
+        "name": "Info Myanmar University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 16.823639,
+        "longitude": 96.130306,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6053947",
+        "name": "International Theravāda Buddhist Missionary University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Buddhist University",
+            "ITBMU"
+        ],
+        "latitude": 16.8727,
+        "longitude": 96.1486,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6369505",
+        "name": "Karen Baptist Convention",
+        "short_name": null,
+        "official_website": "http:\/\/www.kbcm1913.org",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q59821447",
+        "name": "Lashio University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 22.9552,
+        "longitude": 97.7387,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6747771",
+        "name": "Mandalay Technological University",
+        "short_name": null,
+        "official_website": "http:\/\/mtu.moe-st.gov.mm\/",
+        "aliases": null,
+        "latitude": 21.9725,
+        "longitude": 96.1861111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6747773",
+        "name": "Mandalay University",
+        "short_name": null,
+        "official_website": "http:\/\/www.mu.edu.mm",
+        "aliases": [
+            "University of Mandalay"
+        ],
+        "latitude": 21.9583333,
+        "longitude": 96.0916667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6794427",
+        "name": "Mawlamyine University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 16.4394444,
+        "longitude": 97.6505556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18209231",
+        "name": "McNeilus Maranatha Christian College",
+        "short_name": null,
+        "official_website": "https:\/\/www.facebook.com\/groups\/MMCCMyanmar\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6906986",
+        "name": "Monywa Institute of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 22.1324353,
+        "longitude": 95.1797753,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q13072889",
+        "name": "Myanmar Aerospace Engineering University",
+        "short_name": null,
+        "official_website": "http:\/\/www.most.gov.mm\/maeu\/index.php",
+        "aliases": null,
+        "latitude": 20.894721,
+        "longitude": 95.8948061,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q114494446",
+        "name": "Myanmar Imperial University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 16.7894251,
+        "longitude": 96.1514123,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25619621",
+        "name": "Myanmar Institute of Information Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "MIIT"
+        ],
+        "latitude": 21.9378862,
+        "longitude": 96.0923395,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6946749",
+        "name": "Myanmar Maritime University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 16.7030556,
+        "longitude": 96.2641667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6946763",
+        "name": "Myanmar Noble University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Myanmar Noble College"
+        ],
+        "latitude": 16.7906285,
+        "longitude": 96.1632559,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6947498",
+        "name": "Myitkyina University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 25.4172222,
+        "longitude": 97.4111111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895316",
+        "name": "National University of Arts and Culture",
+        "short_name": null,
+        "official_website": "http:\/\/www.culture.gov.mm\/Universities\/NUAC_YGN\/default.asp",
+        "aliases": [
+            "University of Culture",
+            "NUAC"
+        ],
+        "latitude": 16.8564,
+        "longitude": 96.2194,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895313",
+        "name": "National University of Arts and Culture, Mandalay",
+        "short_name": null,
+        "official_website": "http:\/\/www.culture.gov.mm\/Universities\/NUAC_MDY\/default.asp",
+        "aliases": [
+            "National University of Art and Culture, Mandalay",
+            "University of Culture, Mandalay"
+        ],
+        "latitude": 21.966667,
+        "longitude": 96.183333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q117468481",
+        "name": "Naypyitaw State Academy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 19.76,
+        "longitude": 96.045,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134005760",
+        "name": "Naypyitaw State Polytechnic University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7126071",
+        "name": "Paku Karen Baptist Association",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 18.9334195,
+        "longitude": 96.4572375,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20992045",
+        "name": "Panglong University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 21.0169,
+        "longitude": 97.533,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135451195",
+        "name": "Pathein University",
+        "short_name": null,
+        "official_website": "http:\/\/www.patheinuniversity.edu.mm\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7262886",
+        "name": "Pyay Technological University",
+        "short_name": null,
+        "official_website": "http:\/\/www.most.gov.mm\/ptu\/index.php",
+        "aliases": null,
+        "latitude": 18.8382,
+        "longitude": 95.3327,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q39050516",
+        "name": "Pyay University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 18.8265061,
+        "longitude": 95.2265796,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7398940",
+        "name": "Sagaing Institute of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 21.9322146,
+        "longitude": 95.9770068,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134776985",
+        "name": "Shan Community College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 12.34,
+        "longitude": 98.76,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25100914",
+        "name": "Shwebo University",
+        "short_name": null,
+        "official_website": "http:\/\/shwebouni.moe-st.gov.mm",
+        "aliases": null,
+        "latitude": 22.5916667,
+        "longitude": 95.725,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q57865983",
+        "name": "State Pariyatti Sasana University, Mandalay",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 22.001094,
+        "longitude": 96.115394,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q57866749",
+        "name": "State Pariyatti Sasana University, Yangon",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7688746",
+        "name": "Taunggyi University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 20.7553,
+        "longitude": 97.0508,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7688756",
+        "name": "Taungoo Technological University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 19.089853,
+        "longitude": 96.3733607,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7688758",
+        "name": "Taungoo University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 18.9511017,
+        "longitude": 96.364608,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28085929",
+        "name": "Technological University Yamethin",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 20.4128655,
+        "longitude": 96.1414136,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17069523",
+        "name": "Technological University(Hmawbi)",
+        "short_name": null,
+        "official_website": "http:\/\/www.most.gov.mm\/hmawbitu\/",
+        "aliases": [
+            "GTU"
+        ],
+        "latitude": 17.1294,
+        "longitude": 96.0064,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7692485",
+        "name": "Technological University, Bhamo",
+        "short_name": null,
+        "official_website": "http:\/\/tubanmaw.moe-st.gov.mm",
+        "aliases": null,
+        "latitude": 24.2259841,
+        "longitude": 97.2652425,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7692486",
+        "name": "Technological University, Dawei",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7692487",
+        "name": "Technological University, Hinthada",
+        "short_name": null,
+        "official_website": "http:\/\/tuhinthata.moe-st.gov.mm",
+        "aliases": [
+            "Technological University"
+        ],
+        "latitude": 17.5843304,
+        "longitude": 95.4115481,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7692488",
+        "name": "Technological University, Hpa-An",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 16.8515,
+        "longitude": 97.6442,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7692489",
+        "name": "Technological University, Kyaingtong",
+        "short_name": null,
+        "official_website": "http:\/\/tukyaingtong.moe-st.gov.mm\/",
+        "aliases": null,
+        "latitude": 21.2619325,
+        "longitude": 99.6581622,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7692491",
+        "name": "Technological University, Kyaukse",
+        "short_name": null,
+        "official_website": "http:\/\/tukse.moe-st.gov.mm\/",
+        "aliases": null,
+        "latitude": 21.6043,
+        "longitude": 96.1255,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25619375",
+        "name": "Technological University, Lashio",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 23.0313257,
+        "longitude": 97.7734452,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7692493",
+        "name": "Technological University, Loikaw",
+        "short_name": null,
+        "official_website": "http:\/\/tuloikaw.moe-st.gov.mm",
+        "aliases": null,
+        "latitude": 19.6545233,
+        "longitude": 97.2074949,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7692494",
+        "name": "Technological University, Magway",
+        "short_name": null,
+        "official_website": "http:\/\/tumgy.moe-st.gov.mm",
+        "aliases": null,
+        "latitude": 20.1990337,
+        "longitude": 95.0079102,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7692496",
+        "name": "Technological University, Maubin",
+        "short_name": null,
+        "official_website": "http:\/\/tumaubin.moe-st.gov.mm",
+        "aliases": null,
+        "latitude": 16.732647,
+        "longitude": 95.607386,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7692497",
+        "name": "Technological University, Mawlamyaing",
+        "short_name": null,
+        "official_website": "http:\/\/www.most.gov.mm\/mawlamyaingtu",
+        "aliases": null,
+        "latitude": 16.3648,
+        "longitude": 97.6686,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7692498",
+        "name": "Technological University, Meiktila",
+        "short_name": null,
+        "official_website": "http:\/\/tumtla.moe-st.gov.mm\/",
+        "aliases": null,
+        "latitude": 20.9131458,
+        "longitude": 95.8592174,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7692499",
+        "name": "Technological University, Monywa",
+        "short_name": null,
+        "official_website": "http:\/\/tumonywa.moe-st.gov.mm",
+        "aliases": null,
+        "latitude": 22.0688931,
+        "longitude": 95.2237988,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7692500",
+        "name": "Technological University, Myeik",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 12.531342,
+        "longitude": 98.7011513,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16901375",
+        "name": "Technological University, Myitkyina",
+        "short_name": null,
+        "official_website": "http:\/\/tumka.moe-st.gov.mm\/",
+        "aliases": null,
+        "latitude": 25.3889,
+        "longitude": 97.3077,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7692502",
+        "name": "Technological University, Pakokku",
+        "short_name": null,
+        "official_website": "http:\/\/tupku.moe-st.gov.mm",
+        "aliases": null,
+        "latitude": 21.4330997,
+        "longitude": 95.1358543,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7692503",
+        "name": "Technological University, Panglong",
+        "short_name": null,
+        "official_website": "http:\/\/tupln.moe-st.gov.mm\/",
+        "aliases": null,
+        "latitude": 20.9133393,
+        "longitude": 97.5787181,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7692504",
+        "name": "Technological University, Pathein",
+        "short_name": null,
+        "official_website": "http:\/\/patheintu.edu.mm",
+        "aliases": null,
+        "latitude": 16.8375723,
+        "longitude": 94.8196931,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28085949",
+        "name": "Technological University, Sagaing",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "TU (Sagaing)"
+        ],
+        "latitude": 21.9236612,
+        "longitude": 95.9544304,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7692505",
+        "name": "Technological University, Sittwe",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 20.1444,
+        "longitude": 92.8969,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7692506",
+        "name": "Technological University, Taunggyi",
+        "short_name": null,
+        "official_website": "http:\/\/tutgi.moe-st.gov.mm\/",
+        "aliases": null,
+        "latitude": 20.7640717,
+        "longitude": 97.0029457,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7692507",
+        "name": "Technological University, Thanlyin",
+        "short_name": null,
+        "official_website": "http:\/\/www.ttu.edu.mm",
+        "aliases": null,
+        "latitude": 16.691166,
+        "longitude": 96.3025,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103021075",
+        "name": "University of Computer Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q31757805",
+        "name": "University of Computer Studies, Hinthada",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895292",
+        "name": "University of Computer Studies, Mandalay",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucsm.edu.mm",
+        "aliases": null,
+        "latitude": 21.9667,
+        "longitude": 96.1833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16959509",
+        "name": "University of Computer Studies, Yangon",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucsy.edu.mm\/",
+        "aliases": [
+            "Institute of Computer Science and Technology"
+        ],
+        "latitude": 16.83,
+        "longitude": 96.1354,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895329",
+        "name": "University of Dental Medicine, Yangon",
+        "short_name": null,
+        "official_website": "http:\/\/www.udmyangon-edu.com",
+        "aliases": null,
+        "latitude": 16.8342,
+        "longitude": 96.209,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895341",
+        "name": "University of Distance Education, Mandalay",
+        "short_name": null,
+        "official_website": "http:\/\/www.mude.edu.mm",
+        "aliases": null,
+        "latitude": 21.9705798,
+        "longitude": 96.0835337,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895342",
+        "name": "University of Distance Education, Yangon",
+        "short_name": null,
+        "official_website": "http:\/\/www.yude.edu.mm\/",
+        "aliases": [
+            "Yangon University Of Distance Education"
+        ],
+        "latitude": 16.8204664,
+        "longitude": 96.1363809,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895436",
+        "name": "University of Forestry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 19.8361526,
+        "longitude": 96.2772445,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101004554",
+        "name": "University of Mandalay Department of Geology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10963733",
+        "name": "University of Medicine 1, Yangon",
+        "short_name": null,
+        "official_website": "http:\/\/www.um1ygn.edu.mm\/",
+        "aliases": [
+            "Institute of Medicine 1"
+        ],
+        "latitude": 16.819167,
+        "longitude": 96.133889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895727",
+        "name": "University of Medicine 2",
+        "short_name": null,
+        "official_website": "http:\/\/www.um2ygn.gov.mm",
+        "aliases": [
+            "Institute of Medicine 2"
+        ],
+        "latitude": 16.9026,
+        "longitude": 96.155,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10532898",
+        "name": "University of Medicine, Mandalay",
+        "short_name": null,
+        "official_website": "http:\/\/www.ummdy.org\/",
+        "aliases": [
+            "Institute of Medicine, Mandalay"
+        ],
+        "latitude": 21.9755556,
+        "longitude": 96.0941667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896604",
+        "name": "University of West Yangon",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 16.9472,
+        "longitude": 96.015,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1185947",
+        "name": "University of Yangon",
+        "short_name": null,
+        "official_website": "https:\/\/www.uy.edu.mm\/",
+        "aliases": [
+            "Rangoon Arts and Sciences University",
+            "Rangoon University",
+            "University of Rangoon"
+        ],
+        "latitude": 16.83,
+        "longitude": 96.135,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16977868",
+        "name": "West Yangon Technological University",
+        "short_name": null,
+        "official_website": "http:\/\/wytu.moe-st.gov.mm\/",
+        "aliases": null,
+        "latitude": 16.8763,
+        "longitude": 96.1171,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8046517",
+        "name": "Yadanabon University",
+        "short_name": null,
+        "official_website": "http:\/\/www.yadanabonuniversity.com",
+        "aliases": null,
+        "latitude": 21.8914,
+        "longitude": 96.0719,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8048623",
+        "name": "Yangon International Educare Center",
+        "short_name": null,
+        "official_website": "http:\/\/www.ismyanmar.com",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8048626",
+        "name": "Yangon Technological University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Rangoon Institute of Technology"
+        ],
+        "latitude": 16.8758,
+        "longitude": 96.1172,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17070286",
+        "name": "Yangon University of Education",
+        "short_name": null,
+        "official_website": "http:\/\/yioe.edu.mm",
+        "aliases": [
+            "Yangon Institute of Education"
+        ],
+        "latitude": 16.8167081,
+        "longitude": 96.1344744,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8053355",
+        "name": "Yezin Agricultural University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 19.8332,
+        "longitude": 96.2751,
+        "type": "university"
+    }
+]

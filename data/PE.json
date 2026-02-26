@@ -1,0 +1,1794 @@
+[
+    {
+        "wikidata_id": "Q27044883",
+        "name": "Amazon National University of Madre de Dios",
+        "short_name": null,
+        "official_website": "http:\/\/www.unamad.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1117071",
+        "name": "Antenor Orrego Private University",
+        "short_name": null,
+        "official_website": "http:\/\/www.upao.edu.pe\/",
+        "aliases": [
+            "Universidad Privada Antenor Orrego"
+        ],
+        "latitude": -8.127258,
+        "longitude": -79.031669,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q58332915",
+        "name": "Asian Studies Center of the National University of San Marcos",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5053268",
+        "name": "Catholic University of Santa María",
+        "short_name": null,
+        "official_website": "https:\/\/www.ucsm.edu.pe\/",
+        "aliases": [
+            "Catholic University of Santa Maria"
+        ],
+        "latitude": -16.4061786,
+        "longitude": -71.5476298,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1033788",
+        "name": "Catholic University of Trujillo",
+        "short_name": null,
+        "official_website": "http:\/\/www.uct.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5055311",
+        "name": "Cayetano Heredia University",
+        "short_name": null,
+        "official_website": "http:\/\/www.cayetano.edu.pe\/",
+        "aliases": [
+            "Universidad Peruana Cayetano Heredia",
+            "UPCH"
+        ],
+        "latitude": -12.023552,
+        "longitude": -77.0563689,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2340018",
+        "name": "Cesar Vallejo University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ucv.edu.pe",
+        "aliases": [
+            "Universidad Cesar Vallejo",
+            "Universidad César Vallejo"
+        ],
+        "latitude": -8.12945,
+        "longitude": -79.0436389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5116125",
+        "name": "Chuluncayani Adventist University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5202300",
+        "name": "Científica del Sur University",
+        "short_name": null,
+        "official_website": "http:\/\/www.cientifica.edu.pe\/",
+        "aliases": [
+            "UCSUR"
+        ],
+        "latitude": -12.2208,
+        "longitude": -76.9784,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124094423",
+        "name": "Colegio Inmaculado Corazón",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "EIC"
+        ],
+        "latitude": -12.1136232,
+        "longitude": -77.0389375,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112620604",
+        "name": "Columbia Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22110503",
+        "name": "CORBIDI",
+        "short_name": null,
+        "official_website": "https:\/\/www.corbidi.org\/",
+        "aliases": [
+            "Centro de Ornitología y Biodiversidad"
+        ],
+        "latitude": -12.1119978,
+        "longitude": -76.972063,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q667748",
+        "name": "Daniel Alcides Carrión National University",
+        "short_name": null,
+        "official_website": "http:\/\/undac.edu.pe",
+        "aliases": [
+            "Daniel Alcides Carrion National University"
+        ],
+        "latitude": -10.668205,
+        "longitude": -76.253137,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156439",
+        "name": "ESAN University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ue.edu.pe\/",
+        "aliases": null,
+        "latitude": -12.105,
+        "longitude": -76.961,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30841075",
+        "name": "Facultad de Ciencias Forestales de la Universidad Nacional Agraria La Molina",
+        "short_name": null,
+        "official_website": "http:\/\/www.lamolina.edu.pe\/facultad\/forestales\/web2007\/default.php",
+        "aliases": null,
+        "latitude": -12.078815,
+        "longitude": -76.947244,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5855032",
+        "name": "Faculty of Letters and Human Sciences, National University of San Marcos",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Universidad Nacional Mayor de San Marcos, Facultad de Letras y Ciencias Humanas"
+        ],
+        "latitude": -12.0572222,
+        "longitude": -77.0813889,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74539532",
+        "name": "Federación Latinoamericana de Sociedades Científicas de Estudiantes de Medicina",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q28791047",
+        "name": "Glaciers and Ecosystems Research National Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.inaigem.gob.pe\/",
+        "aliases": [
+            "INAIGEM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q51735914",
+        "name": "Huanta National Autonomous University",
+        "short_name": null,
+        "official_website": "http:\/\/www.unah.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5650493",
+        "name": "Instituto de Estudios Peruanos",
+        "short_name": null,
+        "official_website": "https:\/\/iep.org.pe\/",
+        "aliases": [
+            "IEP"
+        ],
+        "latitude": -12.0678229,
+        "longitude": -77.0464487,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74557497",
+        "name": "Instituto de Investigaciones Museológicas y Artísticas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16579253",
+        "name": "Instituto de Investigación de la Amazonía Peruana",
+        "short_name": null,
+        "official_website": "https:\/\/www.gob.pe\/iiap",
+        "aliases": null,
+        "latitude": -3.817266,
+        "longitude": -73.320837,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5487987",
+        "name": "Instituto Riva Agüero",
+        "short_name": null,
+        "official_website": "https:\/\/ira.pucp.edu.pe\/",
+        "aliases": [
+            "Pontificia Universidad Católica del Perú, Instituto Riva-Agüero"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q96201348",
+        "name": "Instituto San Ignacio de Loyola",
+        "short_name": null,
+        "official_website": "https:\/\/isil.pe\/",
+        "aliases": [
+            "ISIL"
+        ],
+        "latitude": -12.1254167,
+        "longitude": -77.0248056,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q74434752",
+        "name": "Instituto Universitario de Innovación Ciencia y Tecnología Inudi Perú",
+        "short_name": null,
+        "official_website": "https:\/\/inudi.edu.pe",
+        "aliases": [
+            "Instituto Universitario de Investigación Inudi Perú"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1054322",
+        "name": "International Potato Center",
+        "short_name": null,
+        "official_website": "http:\/\/cipotato.org\/",
+        "aliases": null,
+        "latitude": -12.0769444,
+        "longitude": -76.9461111,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q56377773",
+        "name": "Jaime Bausate y Meza University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bausate.edu.pe\/",
+        "aliases": null,
+        "latitude": -12.08504,
+        "longitude": -77.05483,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156567",
+        "name": "Jorge Basadre Grohmann National University",
+        "short_name": null,
+        "official_website": "http:\/\/www.unjbg.edu.pe",
+        "aliases": null,
+        "latitude": -18.02502,
+        "longitude": -70.24959,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294035",
+        "name": "Jose Carlos Mariategui University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ujcm.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1106363",
+        "name": "Leonardo Da Vinci University",
+        "short_name": null,
+        "official_website": "http:\/\/www.upd.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q961303",
+        "name": "Los Andes Peruvian University",
+        "short_name": null,
+        "official_website": "http:\/\/www.upla.edu.pe\/",
+        "aliases": null,
+        "latitude": -12.041284,
+        "longitude": -75.191486,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74540266",
+        "name": "Museo de Historia Natural y Cultural",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3551806",
+        "name": "National Agrarian University",
+        "short_name": null,
+        "official_website": "http:\/\/www.lamolina.edu.pe\/",
+        "aliases": [
+            "National Agrarian University - La Molina",
+            "UNALM"
+        ],
+        "latitude": -12.082,
+        "longitude": -76.948,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16644493",
+        "name": "National Agrarian university of the Jungle",
+        "short_name": null,
+        "official_website": "http:\/\/www.unas.edu.pe\/",
+        "aliases": null,
+        "latitude": -9.3176005,
+        "longitude": -75.9965933,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q57987898",
+        "name": "National Autonomous University of Alto Amazonas",
+        "short_name": null,
+        "official_website": "http:\/\/www.unaaa.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27139634",
+        "name": "National Autonomous University of Chota",
+        "short_name": null,
+        "official_website": "http:\/\/www.unach.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q57987734",
+        "name": "National Intercultural University \"Fabiola Salazar LeguÍa\" of Bagua",
+        "short_name": null,
+        "official_website": "http:\/\/unibagua.edu.pe\/2\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q51736099",
+        "name": "National Intercultural University of the Central Jungle Juan Santos Atahualpa",
+        "short_name": null,
+        "official_website": "http:\/\/www.uniscjsa.edu.pe\/",
+        "aliases": [
+            "UNISCJSA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5202236",
+        "name": "National Superior Autonomous School of Fine Arts, Lima",
+        "short_name": null,
+        "official_website": "http:\/\/www.ensabap.edu.pe",
+        "aliases": [
+            "Escuela Nacional Superior Autónoma de Bellas Artes",
+            "Escuela Nacional Superior Autonoma de Bellas Artes de Lima"
+        ],
+        "latitude": -12.0463889,
+        "longitude": -77.0238889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156576",
+        "name": "National Technological University of South Lima",
+        "short_name": null,
+        "official_website": "http:\/\/www.untels.edu.pe\/",
+        "aliases": [
+            "UNTELS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156603",
+        "name": "National University of Altiplano, Puno",
+        "short_name": null,
+        "official_website": "https:\/\/www.gob.pe\/unap",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q57987995",
+        "name": "National University of Barranca",
+        "short_name": null,
+        "official_website": "http:\/\/www.unab.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979226",
+        "name": "National University of Cajamarca",
+        "short_name": null,
+        "official_website": "http:\/\/www.unitru.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q442106",
+        "name": "National University of Callao",
+        "short_name": null,
+        "official_website": "http:\/\/www.unac.edu.pe\/",
+        "aliases": null,
+        "latitude": -12.06114,
+        "longitude": -77.117308,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q57987212",
+        "name": "National University of Cañete",
+        "short_name": null,
+        "official_website": "http:\/\/undc.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979244",
+        "name": "National University of Education Enrique Guzmán y Valle",
+        "short_name": null,
+        "official_website": "http:\/\/www.une.edu.pe\/",
+        "aliases": [
+            "National University of Education Enrique Guzman y Valle"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5202403",
+        "name": "National University of Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/www.uni.edu.pe\/",
+        "aliases": null,
+        "latitude": -12.0197222,
+        "longitude": -77.0486111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27139633",
+        "name": "National University of Frontera",
+        "short_name": null,
+        "official_website": "http:\/\/unfs.edu.pe\/unfs\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27139631",
+        "name": "National University of Jaén",
+        "short_name": null,
+        "official_website": "http:\/\/www.unj.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156585",
+        "name": "National University of Juliaca",
+        "short_name": null,
+        "official_website": "http:\/\/unaj.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5479494",
+        "name": "National University of Moquegua",
+        "short_name": null,
+        "official_website": "http:\/\/www.unam.edu.pe",
+        "aliases": [
+            "UNAM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5784190",
+        "name": "National University of Music",
+        "short_name": null,
+        "official_website": "http:\/\/www.unm.edu.pe",
+        "aliases": [
+            "National Conservatory of Music",
+            "CNM",
+            "UNM"
+        ],
+        "latitude": -12.048088,
+        "longitude": -77.0312529,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q916367",
+        "name": "National University of San Antonio Abad in Cusco",
+        "short_name": null,
+        "official_website": "http:\/\/www.unsaac.edu.pe",
+        "aliases": [
+            "National University of Saint Anthony the Abbot in Cusco",
+            "Universidad Nacional de San Antonio Abad del Cusco"
+        ],
+        "latitude": -13.5216667,
+        "longitude": -71.9586111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q24236924",
+        "name": "National University of San Martin",
+        "short_name": null,
+        "official_website": "http:\/\/www.unsm.edu.pe",
+        "aliases": [
+            "UNSM",
+            "UNSM-T"
+        ],
+        "latitude": -6.4848428,
+        "longitude": -76.3777414,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5576631",
+        "name": "National University of St Augustin of Arequipa",
+        "short_name": null,
+        "official_website": "http:\/\/www.unsa.edu.pe\/",
+        "aliases": [
+            "University of San Agustín, Arequipa"
+        ],
+        "latitude": -16.40446,
+        "longitude": -71.52454,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5391928",
+        "name": "National University of the Center of Peru",
+        "short_name": null,
+        "official_website": "http:\/\/uncp.edu.pe",
+        "aliases": null,
+        "latitude": -12.0330464,
+        "longitude": -75.237332,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156601",
+        "name": "National University of the Peruvian Amazon",
+        "short_name": null,
+        "official_website": "https:\/\/enlinea.unapiquitos.edu.pe\/",
+        "aliases": [
+            "UNAP",
+            "Universidad Nacional de la Amazonía Peruana"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1634051",
+        "name": "National University of Trujillo",
+        "short_name": null,
+        "official_website": "https:\/\/www.unitru.edu.pe\/",
+        "aliases": [
+            "Universidad Nacional de Trujillo"
+        ],
+        "latitude": -8.114656,
+        "longitude": -79.038595,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q9091571",
+        "name": "National University Toribio Rodríguez de Mendoza",
+        "short_name": null,
+        "official_website": "https:\/\/www.untrm.edu.pe\/es\/",
+        "aliases": [
+            "Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas"
+        ],
+        "latitude": -6.2329682,
+        "longitude": -77.8531624,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124282965",
+        "name": "Nuestra Señora del Prado",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -12.0515599,
+        "longitude": -77.0152684,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156570",
+        "name": "Pedro Ruiz Gallo National University",
+        "short_name": null,
+        "official_website": "http:\/\/www.unprg.edu.pe\/",
+        "aliases": null,
+        "latitude": -6.707215,
+        "longitude": -79.90792,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12176521",
+        "name": "Peruvian Institute of Nuclear Energy",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipen.gob.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3551703",
+        "name": "Peruvian Union University",
+        "short_name": null,
+        "official_website": "http:\/\/www.upeu.edu.pe\/",
+        "aliases": null,
+        "latitude": -11.9899167,
+        "longitude": -76.8413056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5202363",
+        "name": "Peruvian University of Applied Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/www.upc.edu.pe\/",
+        "aliases": null,
+        "latitude": -12.1035139,
+        "longitude": -76.9631051,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q200601",
+        "name": "Pontifical Catholic University of Peru",
+        "short_name": null,
+        "official_website": "https:\/\/www.pucp.edu.pe",
+        "aliases": [
+            "Catholic University of Peru",
+            "Pontificia Universidad Católica del Peru",
+            "Pontificia Universidad Católica del Perú",
+            "PUCP"
+        ],
+        "latitude": -12.0694444,
+        "longitude": -77.0794444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74556346",
+        "name": "Pontificia Universidad Católica del Perú, Departamento de Psicología",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q9091600",
+        "name": "Private University of Tacna",
+        "short_name": null,
+        "official_website": "http:\/\/www.upt.edu.pe\/",
+        "aliases": null,
+        "latitude": -18.0058389,
+        "longitude": -70.2254838,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551837",
+        "name": "Private University of the North",
+        "short_name": null,
+        "official_website": "http:\/\/www.upn.edu.pe",
+        "aliases": [
+            "Universidad Privada del Norte"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1107277",
+        "name": "Private University of Trujillo",
+        "short_name": null,
+        "official_website": "http:\/\/www.uptrujillo.edu.pe\/v3\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100146689",
+        "name": "Q100146689",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q122961093",
+        "name": "Q122961093",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -12.057013,
+        "longitude": -77.08729,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125199867",
+        "name": "Q125199867",
+        "short_name": null,
+        "official_website": "http:\/\/imca.edu.pe",
+        "aliases": null,
+        "latitude": -12.06969,
+        "longitude": -76.95477,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125210630",
+        "name": "Q125210630",
+        "short_name": null,
+        "official_website": "https:\/\/iestphuaycan.edu.pe\/",
+        "aliases": null,
+        "latitude": -12.016147,
+        "longitude": -76.827909,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125388903",
+        "name": "Q125388903",
+        "short_name": null,
+        "official_website": "https:\/\/www.escuelafolklore.edu.pe\/",
+        "aliases": null,
+        "latitude": -12.07579,
+        "longitude": -77.03146,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137945754",
+        "name": "Q137945754",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q137945876",
+        "name": "Q137945876",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20016896",
+        "name": "Q20016896",
+        "short_name": null,
+        "official_website": "https:\/\/medicina.unmsm.edu.pe\/categoria\/instituto-de-medicina-tropical\/",
+        "aliases": null,
+        "latitude": -12.0541983,
+        "longitude": -77.0872143,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q42761455",
+        "name": "Q42761455",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -9.5764421,
+        "longitude": -77.1775016,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5917554",
+        "name": "Q5917554",
+        "short_name": null,
+        "official_website": "https:\/\/www.gob.pe\/inictel-uni\/",
+        "aliases": null,
+        "latitude": -12.0841283,
+        "longitude": -76.9966115,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2067204",
+        "name": "Ricardo Palma University",
+        "short_name": null,
+        "official_website": "http:\/\/www.urp.edu.pe",
+        "aliases": [
+            "Universidad Ricardo Palma"
+        ],
+        "latitude": -12.1331,
+        "longitude": -76.9805,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7413580",
+        "name": "San Cristóbal of Huamanga University",
+        "short_name": null,
+        "official_website": "http:\/\/www.unsch.edu.pe\/",
+        "aliases": [
+            "San Cristobal of Huamanga University"
+        ],
+        "latitude": -13.148,
+        "longitude": -74.22,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2884868",
+        "name": "San Francisco Autonomous University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uasf.edu.pe\/",
+        "aliases": null,
+        "latitude": -16.4495719,
+        "longitude": -71.600257,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7414732",
+        "name": "San Luis Gonzaga National University",
+        "short_name": null,
+        "official_website": "http:\/\/www.unica.edu.pe\/",
+        "aliases": [
+            "UNICA",
+            "Universidad Nacional San Luis Gonzaga"
+        ],
+        "latitude": -14.087,
+        "longitude": -75.733,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124094411",
+        "name": "Santa María Marianistas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -12.1135066,
+        "longitude": -76.9883707,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156327",
+        "name": "Universidad Alas Peruanas",
+        "short_name": null,
+        "official_website": "http:\/\/www.uap.edu.pe\/",
+        "aliases": [
+            "UAP"
+        ],
+        "latitude": -12.0693482,
+        "longitude": -77.0513295,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156333",
+        "name": "Universidad Andina del Cusco",
+        "short_name": null,
+        "official_website": "http:\/\/www.uandina.edu.pe\/",
+        "aliases": null,
+        "latitude": -13.5375735,
+        "longitude": -71.9038466,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11046083",
+        "name": "Universidad Andina Néstor Cáceres Velásquez",
+        "short_name": null,
+        "official_website": "http:\/\/www.uancv.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156337",
+        "name": "Universidad Antonio Ruiz de Montoya",
+        "short_name": null,
+        "official_website": "http:\/\/www.uarm.edu.pe\/",
+        "aliases": [
+            "Antonio Ruiz de Montoya University"
+        ],
+        "latitude": -12.07012,
+        "longitude": -77.058695,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111411243",
+        "name": "Universidad Autónoma de Ica",
+        "short_name": null,
+        "official_website": "https:\/\/autonomadeica.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q24960158",
+        "name": "Universidad Autónoma del Perú",
+        "short_name": null,
+        "official_website": "http:\/\/www.autonoma.pe\/",
+        "aliases": [
+            "Autonomous University of Peru"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156384",
+        "name": "Universidad Católica San Pablo",
+        "short_name": null,
+        "official_website": "https:\/\/ucsp.edu.pe\/",
+        "aliases": null,
+        "latitude": -16.3897524,
+        "longitude": -71.5356732,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5792136",
+        "name": "Universidad Católica Santo Toribio de Mogrovejo",
+        "short_name": null,
+        "official_website": "http:\/\/www.usat.edu.pe\/",
+        "aliases": null,
+        "latitude": -6.760456,
+        "longitude": -79.863203,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5839556",
+        "name": "Universidad Católica Sedes Sapientiae",
+        "short_name": null,
+        "official_website": "https:\/\/www.ucss.edu.pe\/",
+        "aliases": [
+            "UCSS"
+        ],
+        "latitude": -12.0002632,
+        "longitude": -77.0639117,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156418",
+        "name": "Universidad Científica del Perú",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucp.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156429",
+        "name": "Universidad Continental",
+        "short_name": null,
+        "official_website": "https:\/\/ucontinental.edu.pe",
+        "aliases": null,
+        "latitude": -12.0474264,
+        "longitude": -75.1986533,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74550118",
+        "name": "Universidad César Vallejo, Facultad de Educación e Idiomas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17632382",
+        "name": "Universidad de Ayacucho Federico Froebel",
+        "short_name": null,
+        "official_website": "http:\/\/www.udaff.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29054166",
+        "name": "Universidad de Chiclayo",
+        "short_name": null,
+        "official_website": "https:\/\/www.udch.edu.pe\/web\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30266525",
+        "name": "Universidad de Ciencias y Humanidades",
+        "short_name": null,
+        "official_website": "https:\/\/www.uch.edu.pe\/",
+        "aliases": [
+            "UCH"
+        ],
+        "latitude": -11.961328,
+        "longitude": -77.065695,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156769",
+        "name": "Universidad de Huánuco",
+        "short_name": null,
+        "official_website": "http:\/\/www.udh.edu.pe\/",
+        "aliases": null,
+        "latitude": -9.8900907,
+        "longitude": -76.2198475,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74528678",
+        "name": "Universidad de Piura, Facultad de Comunicación",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74554913",
+        "name": "Universidad de San Martín de Porres, Escuela Profesional de Psicología",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530263",
+        "name": "Universidad de San Martín de Porres, Facultad de Ingeniería y Arquitectura",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74548765",
+        "name": "Universidad de San Martín de Porres, Facultad Derecho",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2636927",
+        "name": "Universidad del Pacifico",
+        "short_name": null,
+        "official_website": "http:\/\/www.up.edu.pe\/",
+        "aliases": null,
+        "latitude": -12.0839,
+        "longitude": -77.0483,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29054169",
+        "name": "Universidad Femenina del Sagrado Corazón",
+        "short_name": null,
+        "official_website": "http:\/\/www.unife.edu.pe\/",
+        "aliases": null,
+        "latitude": -12.0716389,
+        "longitude": -76.9650778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156474",
+        "name": "Universidad Inca Garcilaso de la Vega",
+        "short_name": null,
+        "official_website": "http:\/\/www.uigv.edu.pe",
+        "aliases": null,
+        "latitude": -12.0828363,
+        "longitude": -77.1046225,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111423680",
+        "name": "Universidad La Salle",
+        "short_name": null,
+        "official_website": "https:\/\/www.ulasalle.edu.pe\/",
+        "aliases": [
+            "La Salle University",
+            "ULASALLE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111468303",
+        "name": "Universidad Latinoamericana CIMA",
+        "short_name": null,
+        "official_website": "https:\/\/ulc.edu.pe\/ulcWeb\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111423631",
+        "name": "Universidad Le Cordon Bleu",
+        "short_name": null,
+        "official_website": "https:\/\/www.ulcb.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294002",
+        "name": "Universidad Marcelino Champagnat",
+        "short_name": null,
+        "official_website": "https:\/\/umch.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65973058",
+        "name": "Universidad María Auxiliadora",
+        "short_name": null,
+        "official_website": "https:\/\/uma.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156552",
+        "name": "Universidad Nacional Autónoma Altoandina de Tarma",
+        "short_name": null,
+        "official_website": "http:\/\/www.unaat.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111423517",
+        "name": "Universidad Nacional Autónoma de Tayacaja Daniel Hernández Morillo",
+        "short_name": null,
+        "official_website": "https:\/\/unat.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111423810",
+        "name": "Universidad Nacional Ciro Alegría",
+        "short_name": null,
+        "official_website": "https:\/\/www.unca.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156575",
+        "name": "Universidad Nacional de Ancash \"Santiago Antunez de Mayolo\"",
+        "short_name": null,
+        "official_website": "http:\/\/www.unasam.edu.pe\/inicio\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q118744854",
+        "name": "Universidad Nacional de Arte Diego Quispe Tito del Cusco",
+        "short_name": null,
+        "official_website": "https:\/\/unadqtc.edu.pe\/",
+        "aliases": [
+            "UNDQTC"
+        ],
+        "latitude": -13.5190145,
+        "longitude": -71.9827008,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5845222",
+        "name": "Universidad Nacional de Huancavelica",
+        "short_name": null,
+        "official_website": "http:\/\/www.unh.edu.pe\/",
+        "aliases": null,
+        "latitude": -12.7785256,
+        "longitude": -74.9608594,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20022058",
+        "name": "Universidad Nacional de Piura",
+        "short_name": null,
+        "official_website": "http:\/\/www.unp.edu.pe\/",
+        "aliases": [
+            "UNP"
+        ],
+        "latitude": -5.1819691,
+        "longitude": -80.6190151,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74555965",
+        "name": "Universidad Nacional de Trujillo, Departamento de Matemáticas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530725",
+        "name": "Universidad Nacional de Trujillo, Escuela Académico Profesional de Ingeniería Agroindustrial, Facultad de Ciencias Agropecuarias",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74557161",
+        "name": "Universidad Nacional de Trujillo, Facultad de Ciencias Agropecuarias",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156594",
+        "name": "Universidad Nacional de Tumbes",
+        "short_name": null,
+        "official_website": "http:\/\/www.untumbes.edu.pe\/",
+        "aliases": [
+            "UNTUMBES"
+        ],
+        "latitude": -3.582867,
+        "longitude": -80.444137,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156595",
+        "name": "Universidad Nacional de Ucayali",
+        "short_name": null,
+        "official_website": "http:\/\/www.unu.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74535494",
+        "name": "Universidad Nacional del Altiplano, Oficina Universitaria de Investigación",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5646483",
+        "name": "Universidad Nacional del Santa",
+        "short_name": null,
+        "official_website": "http:\/\/www.uns.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5202383",
+        "name": "Universidad Nacional Federico Villarreal",
+        "short_name": null,
+        "official_website": "http:\/\/www.unfv.edu.pe\/",
+        "aliases": null,
+        "latitude": -12.075382,
+        "longitude": -77.091943,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156563",
+        "name": "Universidad Nacional Hermilio Valdizán",
+        "short_name": null,
+        "official_website": "http:\/\/www.unheval.edu.pe",
+        "aliases": [
+            "Universidad Nacional Hermilio Valdizán de Huánuco"
+        ],
+        "latitude": -9.948099,
+        "longitude": -76.2500844,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156565",
+        "name": "Universidad Nacional Intercultural de la Amazonía",
+        "short_name": null,
+        "official_website": "http:\/\/www.unia.edu.pe",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111423326",
+        "name": "Universidad Nacional Intercultural de Quillabamba",
+        "short_name": null,
+        "official_website": "https:\/\/www.uniq.edu.pe\/",
+        "aliases": null,
+        "latitude": -12.8567222,
+        "longitude": -72.6917778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156569",
+        "name": "Universidad Nacional José Faustino Sánchez Carrión",
+        "short_name": null,
+        "official_website": "http:\/\/www.unjfsc.edu.pe",
+        "aliases": null,
+        "latitude": -11.1238889,
+        "longitude": -77.6088889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18590697",
+        "name": "Universidad Nacional José María Arguedas",
+        "short_name": null,
+        "official_website": "http:\/\/www.unajma.edu.pe\/",
+        "aliases": null,
+        "latitude": -13.657192,
+        "longitude": -73.387937,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894295",
+        "name": "Universidad Nacional Micaela Bastidas de Apurimac",
+        "short_name": null,
+        "official_website": "http:\/\/www.unamba.edu.pe\/",
+        "aliases": [
+            "UNAMBA",
+            "Universidad Nacional Micaela Bastidas de Apurímac"
+        ],
+        "latitude": -13.617037,
+        "longitude": -72.868011,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74528120",
+        "name": "Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas, Instituto de Investigación para el Desarrollo Sustentable de Ceja de Selva",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q29054205",
+        "name": "Universidad Particular de Iquitos",
+        "short_name": null,
+        "official_website": "http:\/\/upi.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5396521",
+        "name": "Universidad Peruana de Ciencias e Informática",
+        "short_name": null,
+        "official_website": "http:\/\/www.upci.edu.pe\/",
+        "aliases": null,
+        "latitude": -12.072111,
+        "longitude": -77.0419639,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156620",
+        "name": "Universidad Peruana de las Américas",
+        "short_name": null,
+        "official_website": "https:\/\/www.ulasamericas.edu.pe\/",
+        "aliases": null,
+        "latitude": -12.0632379,
+        "longitude": -77.0377636,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111423887",
+        "name": "Universidad Peruana del Centro",
+        "short_name": null,
+        "official_website": "https:\/\/www.upecen.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294023",
+        "name": "Universidad Peruana Simón Bolívar",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111468315",
+        "name": "Universidad Politécnica Amazónica",
+        "short_name": null,
+        "official_website": "https:\/\/www.upa.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29054165",
+        "name": "Universidad Privada Antonio Guillermo Urrelo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16644538",
+        "name": "Universidad Privada Autónoma del Sur",
+        "short_name": null,
+        "official_website": "http:\/\/www.upads.edu.pe",
+        "aliases": null,
+        "latitude": -16.4074783,
+        "longitude": -71.5271182,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16644541",
+        "name": "Universidad Privada de Ciencias de la Salud",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -16.4037582,
+        "longitude": -71.5342454,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111423393",
+        "name": "Universidad Privada de Huancayo Franklin Roosevelt",
+        "short_name": null,
+        "official_website": "https:\/\/uroosevelt.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111902587",
+        "name": "Universidad Privada de Ica",
+        "short_name": null,
+        "official_website": "https:\/\/upica.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294043",
+        "name": "Universidad Privada de Pucallpa",
+        "short_name": null,
+        "official_website": "https:\/\/upp.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111468338",
+        "name": "Universidad Privada Líder Peruana",
+        "short_name": null,
+        "official_website": "http:\/\/ulp.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111411411",
+        "name": "Universidad Privada Peruano Alemana",
+        "short_name": null,
+        "official_website": "https:\/\/upal.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894308",
+        "name": "Universidad Privada San Juan Bautista S.A.C.",
+        "short_name": null,
+        "official_website": "https:\/\/www.upsjb.edu.pe\/",
+        "aliases": null,
+        "latitude": -12.1964814,
+        "longitude": -77.0075561,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294051",
+        "name": "Universidad Privada Sergio Bernales",
+        "short_name": null,
+        "official_website": "https:\/\/upsb.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101500273",
+        "name": "Universidad Privada Telesup",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74554481",
+        "name": "Universidad Ricardo Palma, Instituto de Investigación en Ciencias Biomédicas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7894314",
+        "name": "Universidad San Ignacio de Loyola",
+        "short_name": null,
+        "official_website": "https:\/\/usil.edu.pe",
+        "aliases": [
+            "USIL"
+        ],
+        "latitude": -12.0725,
+        "longitude": -76.9517,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74547767",
+        "name": "Universidad San Ignacio de Loyola, Vicerrectorado de Investigación",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156676",
+        "name": "Universidad San Pedro",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111468371",
+        "name": "Universidad Santo Domingo de Guzmán",
+        "short_name": null,
+        "official_website": "https:\/\/usdg.edu.pe\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66809733",
+        "name": "Universidad Seminario Evangélico de Lima",
+        "short_name": null,
+        "official_website": "https:\/\/sel.edu",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156685",
+        "name": "Universidad Señor de Sipán",
+        "short_name": null,
+        "official_website": "http:\/\/www.uss.edu.pe\/",
+        "aliases": null,
+        "latitude": -6.7948812,
+        "longitude": -79.8853325,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q9366787",
+        "name": "Universidad Tecnológica de los Andes",
+        "short_name": null,
+        "official_website": "http:\/\/www.utea.edu.pe\/web2015\/",
+        "aliases": [
+            "Universidad Tecnologica de los Andes"
+        ],
+        "latitude": -13.6333,
+        "longitude": -72.8833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156715",
+        "name": "Universidad Tecnológica del Perú",
+        "short_name": null,
+        "official_website": "https:\/\/www.utp.edu.pe",
+        "aliases": null,
+        "latitude": -12.064799,
+        "longitude": -77.036626,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28858107",
+        "name": "University for Andean Development",
+        "short_name": null,
+        "official_website": "http:\/\/www.udea.edu.pe",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156772",
+        "name": "University of Engineering and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.utec.edu.pe\/",
+        "aliases": [
+            "UTEC",
+            "University of Engineering & Technology"
+        ],
+        "latitude": -12.1349312,
+        "longitude": -77.021722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29675",
+        "name": "University of Lima",
+        "short_name": null,
+        "official_website": "https:\/\/www.ulima.edu.pe\/",
+        "aliases": [
+            "UL",
+            "ULIMA"
+        ],
+        "latitude": -12.084761,
+        "longitude": -76.970816,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5202348",
+        "name": "University of Piura",
+        "short_name": null,
+        "official_website": "http:\/\/udep.edu.pe\/",
+        "aliases": [
+            "Universidad de Piura"
+        ],
+        "latitude": -5.1766923,
+        "longitude": -80.6346434,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3438435",
+        "name": "University of San Martín de Porres",
+        "short_name": null,
+        "official_website": "http:\/\/www.usmp.edu.pe\/",
+        "aliases": [
+            "Universidad de San Martín de Porres",
+            "USMP"
+        ],
+        "latitude": -12.0453812,
+        "longitude": -76.9700475,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294029",
+        "name": "Wiener University",
+        "short_name": null,
+        "official_website": "https:\/\/www.uwiener.edu.pe",
+        "aliases": [
+            "Universidad Norbert Wiener",
+            "Universidad Privada Norbert Wiener",
+            "UWIENER"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17226734",
+        "name": "Yamagata University Institute of Nasca",
+        "short_name": null,
+        "official_website": "https:\/\/www-hs.yamagata-u.ac.jp\/en\/institute\/nasca\/",
+        "aliases": [
+            "The Yamagata University Institute of Nasca"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    }
+]

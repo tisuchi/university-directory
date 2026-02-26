@@ -1,0 +1,137 @@
+[
+    {
+        "wikidata_id": "Q136431348",
+        "name": "African Bible College",
+        "short_name": null,
+        "official_website": "https:\/\/www.africanbiblecolleges.com\/malawi",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1844482",
+        "name": "African Bible Colleges",
+        "short_name": null,
+        "official_website": "http:\/\/africanbiblecolleges.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1029596",
+        "name": "Catholic University of Malawi",
+        "short_name": null,
+        "official_website": "https:\/\/www.cunima.ac.mw\/",
+        "aliases": [
+            "CUNIMA"
+        ],
+        "latitude": -15.826314,
+        "longitude": 35.176493,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100955848",
+        "name": "DMI-St. John the Baptist University",
+        "short_name": "DMISJBU",
+        "official_website": "https:\/\/www.dmisjbu.edu.mw\/",
+        "aliases": [
+            "DMISJBU",
+            "dmisjbu.edu.mw"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135778554",
+        "name": "Domasi College Of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Domasi Teachers Training College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q100942477",
+        "name": "Exploits University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6741451",
+        "name": "Malawi Adventist University",
+        "short_name": null,
+        "official_website": "http:\/\/mau.ac.mw\/index.html",
+        "aliases": null,
+        "latitude": -13.9488889,
+        "longitude": 33.7013889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6741464",
+        "name": "Malawi Liverpool Wellcome Trust",
+        "short_name": null,
+        "official_website": "http:\/\/www.mlw.medcol.mw\/",
+        "aliases": [
+            "Malawi Liverpool Wellcome Trust"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25104234",
+        "name": "Malawi University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.must.ac.mw\/",
+        "aliases": [
+            "must.ac.mw"
+        ],
+        "latitude": -15.90264,
+        "longitude": 35.21693,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q477625",
+        "name": "Mzuzu University",
+        "short_name": null,
+        "official_website": "http:\/\/www.mzuni.ac.mw\/",
+        "aliases": null,
+        "latitude": -11.421996,
+        "longitude": 33.993231,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q671642",
+        "name": "University of Malawi",
+        "short_name": null,
+        "official_website": "https:\/\/unima.ecampus.ac.mw\/",
+        "aliases": [
+            "UNIMA",
+            "Chancellor College",
+            "unima.mw"
+        ],
+        "latitude": -15.3791,
+        "longitude": 35.32563,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123739146",
+        "name": "Zomba Theological College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -15.38142,
+        "longitude": 35.3246,
+        "type": "university"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "wikidata_id": "Q122909985",
+        "name": "Champasak University",
+        "short_name": null,
+        "official_website": "http:\/\/www.cu.edu.la",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122922491",
+        "name": "Indochina Research",
+        "short_name": null,
+        "official_website": "https:\/\/indochina-research.com\/",
+        "aliases": [
+            "IRC",
+            "IRL",
+            "Indochina Research and Consulting",
+            "Indochina Research, Ltd."
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q103018894",
+        "name": "Lao University of Health Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q536280",
+        "name": "National University of Laos",
+        "short_name": null,
+        "official_website": "http:\/\/www.nuol.edu.la",
+        "aliases": [
+            "NUOL",
+            "Lao National University"
+        ],
+        "latitude": 18.0365,
+        "longitude": 102.6366,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123137542",
+        "name": "Q123137542",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1289092",
+        "name": "Sisavangvong University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1584919",
+        "name": "Souphanouvong University",
+        "short_name": null,
+        "official_website": "https:\/\/www.souphanouvong.la.com",
+        "aliases": null,
+        "latitude": 19.9216,
+        "longitude": 102.1881,
+        "type": "university"
+    }
+]

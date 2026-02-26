@@ -1,0 +1,361 @@
+[
+    {
+        "wikidata_id": "Q16827955",
+        "name": "American University of Phnom Penh",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 11.5771,
+        "longitude": 104.893,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4763326",
+        "name": "Angkor University",
+        "short_name": null,
+        "official_website": "https:\/\/www.angkor.edu.kh\/",
+        "aliases": null,
+        "latitude": 13.350539,
+        "longitude": 103.892415,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16834536",
+        "name": "Asia Euro University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100956882",
+        "name": "Build Bright University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4986394",
+        "name": "Build Bright University, Siem Reap",
+        "short_name": null,
+        "official_website": "http:\/\/www.bbu.edu.kh\/sr\/index.html",
+        "aliases": null,
+        "latitude": 13.3485,
+        "longitude": 103.846,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16256278",
+        "name": "Cambodia University Of Specialties",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 11.59126,
+        "longitude": 104.899587,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5025158",
+        "name": "Cambodian Mekong University",
+        "short_name": null,
+        "official_website": "http:\/\/www.mekong.edu.kh\/",
+        "aliases": [
+            "Cambodian Mekong University (CMU)"
+        ],
+        "latitude": 11.5575,
+        "longitude": 104.887,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17063745",
+        "name": "IIC University of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122922491",
+        "name": "Indochina Research",
+        "short_name": null,
+        "official_website": "https:\/\/indochina-research.com\/",
+        "aliases": [
+            "IRC",
+            "IRL",
+            "Indochina Research and Consulting",
+            "Indochina Research, Ltd."
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q11812055",
+        "name": "Institute of Technology of Cambodia",
+        "short_name": null,
+        "official_website": "http:\/\/www.itc.edu.kh\/",
+        "aliases": [
+            "ITC",
+            "Institut de Technologie du Cambodge",
+            "Sala Techno"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6051143",
+        "name": "International Institute of Cambodia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 11.574755,
+        "longitude": 104.878986,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3545832",
+        "name": "International University",
+        "short_name": null,
+        "official_website": "http:\/\/www.iu.edu.kh\/",
+        "aliases": null,
+        "latitude": 11.5761056,
+        "longitude": 104.8969861,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q63348401",
+        "name": "Kirirom Institute of Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.kirirom.info\/",
+        "aliases": null,
+        "latitude": 11.3150556,
+        "longitude": 104.0675278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116686439",
+        "name": "National Institute of Education",
+        "short_name": null,
+        "official_website": "http:\/\/www.nie.edu.kh\/en\/",
+        "aliases": [
+            "NIE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979258",
+        "name": "National University of Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.num.edu.kh\/",
+        "aliases": null,
+        "latitude": 11.5746,
+        "longitude": 104.919,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3812404",
+        "name": "Norton University",
+        "short_name": null,
+        "official_website": "http:\/\/www.norton-u.com\/",
+        "aliases": null,
+        "latitude": 11.5547222,
+        "longitude": 104.9283333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15987680",
+        "name": "Paragon International University",
+        "short_name": null,
+        "official_website": "https:\/\/www.paragoniu.edu.kh\/",
+        "aliases": [
+            "Zaman University"
+        ],
+        "latitude": 11.58253,
+        "longitude": 104.89818,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30281766",
+        "name": "Pasteur Institute in Cambodia",
+        "short_name": null,
+        "official_website": "http:\/\/www.pasteur-kh.org\/",
+        "aliases": [
+            "IPC",
+            "Institut Pasteur Cambodia",
+            "Institut Pasteur du Cambodge"
+        ],
+        "latitude": 11.581131,
+        "longitude": 104.916944,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q15988169",
+        "name": "Paññāsāstra University of Cambodia",
+        "short_name": null,
+        "official_website": "http:\/\/www.puc.edu.kh\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17064187",
+        "name": "Phnom Penh Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.ppit-edu.com\/",
+        "aliases": [
+            "PPIT",
+            "Phnom Penh Tech"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25679951",
+        "name": "Phnom Penh International University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ppiu.edu.kh\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108888192",
+        "name": "Preah Sihanouk Raja Buddhist University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 11.5635082,
+        "longitude": 104.9341696,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130532920",
+        "name": "PSB University",
+        "short_name": null,
+        "official_website": "https:\/\/inter.psbu.edu.kh\/",
+        "aliases": [
+            "Preah Sihamoniraja Buddhist University",
+            "PSBU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7373572",
+        "name": "Royal Academy of Cambodia",
+        "short_name": null,
+        "official_website": "http:\/\/www.rac.gov.kh\/",
+        "aliases": [
+            "RAC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7374951",
+        "name": "Royal University of Agriculture, Cambodia",
+        "short_name": null,
+        "official_website": "http:\/\/rua.edu.kh\/",
+        "aliases": null,
+        "latitude": 11.5132,
+        "longitude": 104.9017,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7374953",
+        "name": "Royal University of Fine Arts",
+        "short_name": null,
+        "official_website": "http:\/\/rufa.edu.kh\/",
+        "aliases": null,
+        "latitude": 11.565119,
+        "longitude": 104.928131,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7374954",
+        "name": "Royal University of Law and Economics",
+        "short_name": null,
+        "official_website": "http:\/\/www.rule.edu.kh\/",
+        "aliases": null,
+        "latitude": 11.5357856,
+        "longitude": 104.9251218,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1709572",
+        "name": "Royal University of Phnom Penh",
+        "short_name": null,
+        "official_website": "http:\/\/www.rupp.edu.kh\/",
+        "aliases": [
+            "RUPP"
+        ],
+        "latitude": 11.569,
+        "longitude": 104.8914,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100956886",
+        "name": "Royal University of Phnom Penh Department of Environmental Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1707654",
+        "name": "University of Cambodia",
+        "short_name": null,
+        "official_website": "http:\/\/www.uc.edu.kh\/",
+        "aliases": null,
+        "latitude": 11.5547,
+        "longitude": 104.928,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895484",
+        "name": "University of Health Sciences – Cambodia",
+        "short_name": null,
+        "official_website": "http:\/\/www.uhs.edu.kh\/",
+        "aliases": null,
+        "latitude": 11.5741,
+        "longitude": 104.917,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896182",
+        "name": "University of Puthisastra and Norton University",
+        "short_name": null,
+        "official_website": "http:\/\/www.puthisastra.edu.kh",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100956880",
+        "name": "University of South-East Asia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

@@ -1,0 +1,2797 @@
+[
+    {
+        "wikidata_id": "Q4702165",
+        "name": "Ahram Canadian University",
+        "short_name": null,
+        "official_website": "http:\/\/www.acu.edu.eg\/",
+        "aliases": [
+            "ACU"
+        ],
+        "latitude": 29.9352778,
+        "longitude": 30.8827778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108268463",
+        "name": "Ain Shams National University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 29.9066244,
+        "longitude": 31.6482936,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2723670",
+        "name": "Ain Shams University",
+        "short_name": null,
+        "official_website": "https:\/\/www.asu.edu.eg\/",
+        "aliases": [
+            "ASU",
+            "asu.edu.eg",
+            "Ayn Shams University"
+        ],
+        "latitude": 30.0770222,
+        "longitude": 31.2850167,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002038",
+        "name": "Ain Shams University Center for Developing English Language Teaching",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002039",
+        "name": "Ain Shams University Department of Geology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002040",
+        "name": "Ain Shams University Department of History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002041",
+        "name": "Ain Shams University Department of Oncology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002045",
+        "name": "Ain Shams University Womens College for Arts, Science, and Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q79403381",
+        "name": "Al Hayah University In Cairo",
+        "short_name": null,
+        "official_website": "https:\/\/ahuc.edu.eg\/",
+        "aliases": [
+            "AHUC"
+        ],
+        "latitude": 29.9750312,
+        "longitude": 31.5245538,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115616935",
+        "name": "Al Salam Technological University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.0196944,
+        "longitude": 32.6219722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4702245",
+        "name": "Al-Azhar English Training Centre",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "AAETC",
+            "Al Azhar English Language Resource Center"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q120429346",
+        "name": "Al-Azhar Girls College, Al-Azhar University - Hayat Abu Ghali Colleges Complex",
+        "short_name": null,
+        "official_website": "http:\/\/www.azhar.edu.eg\/islamicsforfemales-10ramadan\/",
+        "aliases": null,
+        "latitude": 30.29105,
+        "longitude": 31.73409,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q173959",
+        "name": "Al-Azhar University",
+        "short_name": null,
+        "official_website": "http:\/\/www.azhar.edu.eg",
+        "aliases": [
+            "azhar.edu.eg\/en",
+            "Egyptian University",
+            "University of (the honorable) Al-Azhar"
+        ],
+        "latitude": 30.0583,
+        "longitude": 31.3126,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108828204",
+        "name": "Al-Riyadah University for Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/rst.edu.eg",
+        "aliases": [
+            "RST",
+            "RUST",
+            "Al-Ryada University for Science and Technology",
+            "Alryada University for Science and Technology"
+        ],
+        "latitude": 30.3873201,
+        "longitude": 30.4902216,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4705896",
+        "name": "Alamein International University",
+        "short_name": null,
+        "official_website": "https:\/\/aiu.edu.eg\/",
+        "aliases": [
+            "AIU"
+        ],
+        "latitude": 30.8168296,
+        "longitude": 28.9322977,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111307163",
+        "name": "Alexandria National University",
+        "short_name": null,
+        "official_website": "https:\/\/anu.edu.eg\/ar\/home",
+        "aliases": null,
+        "latitude": 31.2140278,
+        "longitude": 29.9761111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1424632",
+        "name": "Alexandria University",
+        "short_name": null,
+        "official_website": "https:\/\/alexu.edu.eg",
+        "aliases": [
+            "AU",
+            "alexu.edu.eg",
+            "University of Alexandria"
+        ],
+        "latitude": 31.20194,
+        "longitude": 29.90528,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101001990",
+        "name": "Alexandria University Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101001991",
+        "name": "Alexandria University Department of Environmental Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101001992",
+        "name": "Alexandria University Department of Epidemiology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101001993",
+        "name": "Alexandria University Department of Geology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101001994",
+        "name": "Alexandria University Department of Oncology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101001995",
+        "name": "Alexandria University Department of Ophthalmology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002001",
+        "name": "Alexandria University High Institute of Public Health",
+        "short_name": null,
+        "official_website": "https:\/\/mri.alexu.edu.eg\/index.php\/ar\/",
+        "aliases": [
+            "High Institute of Public Health, Alexandria University"
+        ],
+        "latitude": 31.2055833,
+        "longitude": 29.9270278,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q101002046",
+        "name": "American University in Cairo Center for Migration and Refugee Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002047",
+        "name": "American University in Cairo Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002048",
+        "name": "American University in Cairo Department of English and Comparative Literature",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002049",
+        "name": "American University in Cairo Department of Journalism and Mass Communication",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002050",
+        "name": "American University in Cairo Department of Sociology Anthropology Psychology and Egyptology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002051",
+        "name": "American University in Cairo English Language Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q101002052",
+        "name": "American University in Cairo Graduate School of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002053",
+        "name": "American University in Cairo School of Continuing Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002054",
+        "name": "American University in Cairo School of Global Affairs and Public Policy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002055",
+        "name": "American University in Cairo School of Humanities and Social Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12183553",
+        "name": "Arab Academy for Management, Banking and Financial Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/www.aambfs.org\/",
+        "aliases": [
+            "(Former name Arab Academy for Management, Banking and Financial Sciences AABFS - Amman, Jordan)",
+            "AAMBFS"
+        ],
+        "latitude": 30.0512371,
+        "longitude": 31.18511,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4116239",
+        "name": "Arab Academy for Science and Technology and Maritime Transport",
+        "short_name": null,
+        "official_website": "https:\/\/aast.edu\/",
+        "aliases": [
+            "AASTMT",
+            "Arab Academy for Science, Technology and Maritime Transport"
+        ],
+        "latitude": 31.26448,
+        "longitude": 29.9989,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74555315",
+        "name": "Arab Association of Urology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3679860",
+        "name": "Arab Open University",
+        "short_name": null,
+        "official_website": "https:\/\/www.arabou.edu.kw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16119690",
+        "name": "Arab Open University Egypt Branch",
+        "short_name": null,
+        "official_website": "https:\/\/www.aou.edu.eg\/ar\/Pages\/default.aspx",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28714635",
+        "name": "Arish University",
+        "short_name": null,
+        "official_website": "http:\/\/aru.edu.eg\/",
+        "aliases": null,
+        "latitude": 31.1369653,
+        "longitude": 33.8289294,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105557042",
+        "name": "Assiut National University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 27.2750226,
+        "longitude": 31.2742557,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q246534",
+        "name": "Assiut University",
+        "short_name": null,
+        "official_website": "https:\/\/www.aun.edu.eg",
+        "aliases": [
+            "Assiut College",
+            "Assuit College",
+            "Assuit University",
+            "aun.edu.eg"
+        ],
+        "latitude": 27.1877778,
+        "longitude": 31.1702778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115616436",
+        "name": "Assiut University of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 27.2561389,
+        "longitude": 31.3293611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105556146",
+        "name": "Aswan National University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4811978",
+        "name": "Aswan University",
+        "short_name": null,
+        "official_website": "http:\/\/www.aswu.edu.eg",
+        "aliases": [
+            "ASWU",
+            "aswu.edu.eg"
+        ],
+        "latitude": 23.9989,
+        "longitude": 32.8599,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20411399",
+        "name": "Badr University in Cairo",
+        "short_name": null,
+        "official_website": "https:\/\/www.buc.edu.eg\/",
+        "aliases": [
+            "BUC"
+        ],
+        "latitude": 30.1282848,
+        "longitude": 31.703324,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108828285",
+        "name": "Badr University, Assiut",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 27.0854446,
+        "longitude": 31.0702047,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123201190",
+        "name": "Badya University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105576298",
+        "name": "Benha National University",
+        "short_name": null,
+        "official_website": "https:\/\/bnu.edu.eg\/",
+        "aliases": null,
+        "latitude": 30.2441591,
+        "longitude": 31.4574508,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1042722",
+        "name": "Benha University",
+        "short_name": null,
+        "official_website": "https:\/\/www.bu.edu.eg",
+        "aliases": [
+            "BU",
+            "bu.edu.eg"
+        ],
+        "latitude": 30.471111,
+        "longitude": 31.181667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002021",
+        "name": "Benha University Department of Internal Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105576291",
+        "name": "Beni Suef National University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 29.0347093,
+        "longitude": 31.1218821,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4887885",
+        "name": "Beni-Suef University",
+        "short_name": null,
+        "official_website": "https:\/\/www.bsu.edu.eg\/",
+        "aliases": [
+            "BSU"
+        ],
+        "latitude": 29.0813889,
+        "longitude": 31.1005556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109968653",
+        "name": "Borg El Arab Technological University",
+        "short_name": null,
+        "official_website": "https:\/\/batechu.com\/",
+        "aliases": null,
+        "latitude": 30.8577778,
+        "longitude": 29.5717222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3087723",
+        "name": "British University in Egypt",
+        "short_name": null,
+        "official_website": "https:\/\/www.bue.edu.eg\/",
+        "aliases": [
+            "BUE",
+            "bue.edu.eg"
+        ],
+        "latitude": 30.1177778,
+        "longitude": 31.6063889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134031100",
+        "name": "Cairo National University",
+        "short_name": null,
+        "official_website": "https:\/\/cnu.cu.edu.eg\/Contact_US",
+        "aliases": null,
+        "latitude": 30.024526,
+        "longitude": 30.966295,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q194445",
+        "name": "Cairo University",
+        "short_name": null,
+        "official_website": "http:\/\/www.cu.edu.eg",
+        "aliases": [
+            "cu.edu.eg",
+            "Fuad I University",
+            "King Fuad I University",
+            "University of Cairo",
+            "CU",
+            "Egyptian University"
+        ],
+        "latitude": 30.0276,
+        "longitude": 31.21014,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002059",
+        "name": "Cairo University Botany Department",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002061",
+        "name": "Cairo University Department of Clinical Oncology and Nuclear Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002088",
+        "name": "Cairo University Information System Department",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q99298664",
+        "name": "Cairo University Kasr Alainy  Faculty of Medicine",
+        "short_name": null,
+        "official_website": "https:\/\/www.medicine.cu.edu.eg",
+        "aliases": [
+            "Faculty of Medicine Kasr Al-Ainy, Cairo University",
+            "Faculty of Medicine, Cairo University"
+        ],
+        "latitude": 30.0276,
+        "longitude": 31.21014,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002065",
+        "name": "Cairo University KasrAlainy Center of Radiation Oncology and Nuclear Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5030197",
+        "name": "Canadian International College",
+        "short_name": null,
+        "official_website": "https:\/\/www.cic-cairo.edu.eg\/",
+        "aliases": [
+            "Cape Breton University Canadian International College"
+        ],
+        "latitude": 30.0347,
+        "longitude": 31.4295,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q132860578",
+        "name": "Capital University (Egypt)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 29.98258,
+        "longitude": 31.79089,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1364550",
+        "name": "Capital University (Egypt)",
+        "short_name": null,
+        "official_website": "https:\/\/www.helwan.edu.eg\/",
+        "aliases": null,
+        "latitude": 29.8666667,
+        "longitude": 31.3166667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2945197",
+        "name": "Center for Economic, Legal and Social Studies and Documentation",
+        "short_name": null,
+        "official_website": "https:\/\/cedej-eg.org\/",
+        "aliases": [
+            "CEDEJ",
+            "CEDEJ Egypt",
+            "Centre d'études et de documentation économiques, juridiques et sociales",
+            "Centre d'Études et de Documentation Juridique, Économique et Sociale"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q64744487",
+        "name": "Central Metallurgical Research & Development",
+        "short_name": null,
+        "official_website": "https:\/\/www.cmrdi.sci.eg",
+        "aliases": null,
+        "latitude": 29.785737,
+        "longitude": 31.306924,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q68169554",
+        "name": "Coventry University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6855224",
+        "name": "Culture & Science City",
+        "short_name": null,
+        "official_website": "http:\/\/www.csi.edu.eg\/\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3699436",
+        "name": "Damanhour University",
+        "short_name": null,
+        "official_website": "https:\/\/damanhour.edu.eg\/",
+        "aliases": [
+            "DU"
+        ],
+        "latitude": 31.0372222,
+        "longitude": 30.4594444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5212540",
+        "name": "Damietta University",
+        "short_name": null,
+        "official_website": "http:\/\/www.du.edu.eg\/en",
+        "aliases": [
+            "DU"
+        ],
+        "latitude": 31.424,
+        "longitude": 31.65,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23975202",
+        "name": "Danish Egyptian Dialogue Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.0574,
+        "longitude": 31.22038,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130223097",
+        "name": "Delta Technological University",
+        "short_name": null,
+        "official_website": "https:\/\/dtu.edu.eg\/",
+        "aliases": null,
+        "latitude": 30.5407778,
+        "longitude": 31.1701389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204426",
+        "name": "Delta University for Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.deltauniv.edu.eg",
+        "aliases": [
+            "Delta University"
+        ],
+        "latitude": 31.442,
+        "longitude": 31.494,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22929389",
+        "name": "Deraya University",
+        "short_name": null,
+        "official_website": "https:\/\/www.deraya.edu.eg",
+        "aliases": null,
+        "latitude": 28.0764275,
+        "longitude": 30.8329783,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12242279",
+        "name": "Desert Research Center",
+        "short_name": null,
+        "official_website": "http:\/\/www.drc.gov.eg\/",
+        "aliases": null,
+        "latitude": 30.121688,
+        "longitude": 31.315081,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q126919163",
+        "name": "Don Bosco Italian Technical Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.0825,
+        "longitude": 31.237,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105576331",
+        "name": "East Port Said National University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.0216598,
+        "longitude": 32.6269693,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107722017",
+        "name": "Egypt University of Informatics",
+        "short_name": null,
+        "official_website": "https:\/\/eui.edu.eg",
+        "aliases": null,
+        "latitude": 30.0235556,
+        "longitude": 31.7078333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4115744",
+        "name": "Egypt-Japan University of Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/ejust.edu.eg\/",
+        "aliases": [
+            "E-JUST",
+            "Egypt Japan University of Science and Technology",
+            "Egypt-Japan University of Science & Technology",
+            "EJUST",
+            "ejust.edu.eg"
+        ],
+        "latitude": 30.86,
+        "longitude": 29.5635833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29513905",
+        "name": "Egyptian Chinese University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ecu.edu.eg\/",
+        "aliases": [
+            "ECU"
+        ],
+        "latitude": 30.111097,
+        "longitude": 31.3274854,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12185355",
+        "name": "Egyptian e-Learning University",
+        "short_name": null,
+        "official_website": "http:\/\/www.eelu.edu.eg\/",
+        "aliases": [
+            "EELU",
+            "eelu.edu.eg",
+            "National Egyptian E-Learning University"
+        ],
+        "latitude": 30.0378,
+        "longitude": 31.2168,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q45136373",
+        "name": "Egyptian Mathematical Society",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74558060",
+        "name": "Egyptian Pediatric Association",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2597842",
+        "name": "Egyptian Russian University",
+        "short_name": null,
+        "official_website": "https:\/\/www.eru.edu.eg",
+        "aliases": [
+            "ERU",
+            "Egyptian - Russian University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74527890",
+        "name": "Egyptian Society of Pharmacology and Experimental Therapeutics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74535866",
+        "name": "Egyptian Society of Rheumatic Diseases",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q22929364",
+        "name": "El Asher University",
+        "short_name": null,
+        "official_website": "http:\/\/eau.edu.eg\/",
+        "aliases": null,
+        "latitude": 30.3064,
+        "longitude": 31.7591,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5352442",
+        "name": "El homaydat",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12180089",
+        "name": "El Shorouk Academy",
+        "short_name": null,
+        "official_website": "https:\/\/sha.edu.eg\/",
+        "aliases": null,
+        "latitude": 30.1236,
+        "longitude": 31.6053,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60914744",
+        "name": "El-Salam University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.8100366,
+        "longitude": 30.8721589,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30261765",
+        "name": "Electronics Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.eri.sci.eg\/",
+        "aliases": [
+            "ERI"
+        ],
+        "latitude": 30.03608,
+        "longitude": 31.20585,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q122186974",
+        "name": "Elsewedy University of Technology",
+        "short_name": null,
+        "official_website": "https:\/\/sut.edu.eg",
+        "aliases": [
+            "Elsewedy University of Technology",
+            "SU Tech Elsewedy University",
+            "SUT"
+        ],
+        "latitude": 30.2328575,
+        "longitude": 31.7024623,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136441416",
+        "name": "Elysium University",
+        "short_name": null,
+        "official_website": "https:\/\/elysiumuniversity.net\/",
+        "aliases": [
+            "EU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136564991",
+        "name": "ESLSCA University",
+        "short_name": null,
+        "official_website": "https:\/\/eslsca.edu.eg\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116030425",
+        "name": "European Universities in Egypt",
+        "short_name": null,
+        "official_website": "https:\/\/eue.edu.eg\/",
+        "aliases": null,
+        "latitude": 30.0408,
+        "longitude": 31.7092,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12244299",
+        "name": "Faculty of African Postgraduate Studies",
+        "short_name": null,
+        "official_website": "https:\/\/faps.cu.edu.eg\/",
+        "aliases": [
+            "Cairo University Institute of African Researches and Studies"
+        ],
+        "latitude": 30.0280645,
+        "longitude": 31.2028241,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q96736517",
+        "name": "Faculty of Arabic Language Al-Azhar University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.5699,
+        "longitude": 31.4715,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121223797",
+        "name": "Faculty of Arabic Language Al-Azhar University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 26.3441,
+        "longitude": 31.8916,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q31077247",
+        "name": "Faculty of Arabic Language Al-Azhar University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.04567,
+        "longitude": 31.26489,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121224176",
+        "name": "Faculty of Arabic Language Al-Azhar University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.88769,
+        "longitude": 30.66431,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121223848",
+        "name": "Faculty of Arabic Language Al-Azhar University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 27.20577,
+        "longitude": 31.16477,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121223701",
+        "name": "Faculty of Arabic Language Al-Azhar University Mansoura Branch",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.03168,
+        "longitude": 31.38722,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121222255",
+        "name": "Faculty of Arabic Language Al-Azhar University Menoufia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.581591,
+        "longitude": 31.0141,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121462055",
+        "name": "Faculty of Archeology, Fayoum University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 29.32172,
+        "longitude": 30.83579,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q20412573",
+        "name": "Faculty of Architecture Al-Azhar University Cairo Branch",
+        "short_name": null,
+        "official_website": "http:\/\/www.azhar.edu.eg\/agri-cairo",
+        "aliases": null,
+        "latitude": 30.05375,
+        "longitude": 31.31773,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q20949323",
+        "name": "Faculty of Arts Cairo University",
+        "short_name": null,
+        "official_website": "http:\/\/arts.cu.edu.eg\/",
+        "aliases": [
+            "Cairo University Department of Japanese Language and Literature",
+            "Faculty of Arts at Cairo University"
+        ],
+        "latitude": 30.0294299,
+        "longitude": 31.2089097,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122905431",
+        "name": "Faculty of Arts, Helwan University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 29.86588,
+        "longitude": 31.3172,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q74530698",
+        "name": "Faculty of Commerce and Business Administration, Future University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q60576997",
+        "name": "Faculty of Commerce, Ain Shams University)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Ain Shams University Faculty of Commerce"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q31077250",
+        "name": "Faculty of Dentistry Al-Azhar University Girls Branch Cairo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.0536,
+        "longitude": 31.32381,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q4720963",
+        "name": "Faculty of Dentistry, Alexandria University",
+        "short_name": null,
+        "official_website": "http:\/\/www.dent.alex.edu.eg\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q67210496",
+        "name": "Faculty of Education Al-Azhar University Tafhna Ashra",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.673936,
+        "longitude": 31.345899,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5428948",
+        "name": "Faculty of Electronic Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/mnfwebportal.dyndns-server.com\/fee1\/",
+        "aliases": null,
+        "latitude": 30.4734722,
+        "longitude": 30.9279167,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q121052766",
+        "name": "Faculty of Engineering Al-Azhar University Qena Branch",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 26.18468,
+        "longitude": 32.75007,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121273568",
+        "name": "Faculty of Fundamentals of Religion and Da’wah, Al-Azhar University in Assiut",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 27.20587,
+        "longitude": 31.16639,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6040893",
+        "name": "Faculty of Graduate Studies and Statisitical Research",
+        "short_name": null,
+        "official_website": "http:\/\/issr.cu.edu.eg\/ar\/",
+        "aliases": [
+            "Cairo University Department of Statistics",
+            "ISSR",
+            "FSSR",
+            "FGSSR",
+            "Institute of Statistical Studies and Research"
+        ],
+        "latitude": 30.0313611,
+        "longitude": 31.2104722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q121144744",
+        "name": "Faculty of Home Economic Al-Azhar University Girls Branch Tanta",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.87073,
+        "longitude": 31.00437,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121202429",
+        "name": "faculty of humanities Al-Azhar University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.6691,
+        "longitude": 31.3447,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121205262",
+        "name": "Faculty of Humanities Al-Azhar University Girls Branch Cairo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.05364,
+        "longitude": 31.32393,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121216035",
+        "name": "Faculty of Islamic and Arab Studies, Al-Azhar University in Qena",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 26.1313,
+        "longitude": 32.7493,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121221806",
+        "name": "Faculty of Islamic and Arab Studies, Al-Azhar University, Beni Suef",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 29.045,
+        "longitude": 31.1254,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121224645",
+        "name": "Faculty of Islamic and Arab Studies, Al-Azhar University, Damanhour",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.03397,
+        "longitude": 30.47384,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121215815",
+        "name": "Faculty of Islamic and Arab Studies, Al-Azhar University, Damietta",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.4411,
+        "longitude": 31.6868,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121221896",
+        "name": "Faculty of Islamic and Arab Studies, Al-Azhar University, Zagazig",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.5718,
+        "longitude": 31.4755,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121216559",
+        "name": "Faculty of Islamic And Arabic Studies Al-Azhar University Boy's Branch Aswan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 24.0931,
+        "longitude": 32.9078,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q20412537",
+        "name": "Faculty of Islamic And Arabic Studies Al-Azhar University Boy's Branch Dosqa",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.12634,
+        "longitude": 30.65094,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121222029",
+        "name": "Faculty of Islamic And Arabic Studies Al-Azhar University Girls Branch Alexandria",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.2716,
+        "longitude": 30.0246,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121207197",
+        "name": "Faculty of Islamic And Arabic Studies Al-Azhar University Girls Branch Kafrelsheikh",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.11662,
+        "longitude": 30.92978,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121202085",
+        "name": "Faculty of Islamic And Arabic Studies Al-Azhar University Girls Branch Mansoura",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.04397,
+        "longitude": 31.39931,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121297144",
+        "name": "Faculty of Islamic And Arabic Studies Al-Azhar University Girls Fayoum",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 29.322833,
+        "longitude": 30.850607,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121033183",
+        "name": "Faculty of Islamic Dawa Al-Azhar University Cairo Branch",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.0624,
+        "longitude": 31.312,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121148777",
+        "name": "Faculty of Islamic Sciences for Foreigners, Al-Azhar University",
+        "short_name": null,
+        "official_website": "http:\/\/www.azhar.edu.eg\/islamicforforeigners",
+        "aliases": null,
+        "latitude": 30.06234,
+        "longitude": 31.312,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121219740",
+        "name": "Faculty of Islamic Studies Al-Azhar University Boy's Branch Baldadamon",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.7564,
+        "longitude": 31.8041,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121148116",
+        "name": "Faculty of Languages and Translation, Al-Azhar University Branch, Cairo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.0617,
+        "longitude": 31.3104,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121010521",
+        "name": "Faculty of Mass Communication Al-Azhar University Boy's Branch Cairo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.06098,
+        "longitude": 31.31292,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q120454198",
+        "name": "Faculty of Medicine Al-Azhar University Boy's Branch Assiut",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 27.20015,
+        "longitude": 31.16806,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5429026",
+        "name": "Faculty of Medicine Al-Azhar University Girls Branch Cairo",
+        "short_name": null,
+        "official_website": "http:\/\/www.azhar.edu.eg\/fmgazhar\/en\/",
+        "aliases": [
+            "Al-Azhar University Faculty of Medicine for Girls",
+            "Faculty of Medicine Al-Azhar University in Cairo"
+        ],
+        "latitude": 30.05865,
+        "longitude": 31.31294,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q121027611",
+        "name": "Faculty of Nursing Al-Azhar University Girls Branch Cairo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.05424,
+        "longitude": 31.31424,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q74530286",
+        "name": "Faculty of Pharmacy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6508638",
+        "name": "Faculty of Science, Cairo University",
+        "short_name": null,
+        "official_website": "https:\/\/www.science-cairo.com",
+        "aliases": [
+            "Cairo University Department of Zoology",
+            "Cairo University Faculty of Science",
+            "Faculty of Science Cairo University"
+        ],
+        "latitude": 30.0275376,
+        "longitude": 31.206892,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q121224528",
+        "name": "Faculty of Sharia and Law, Al-Azhar University, Damanhour",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.05842,
+        "longitude": 30.4574,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q63122654",
+        "name": "Faculty of Sharia and Law, Al-Azhar University, Tafhana Al-Ashraf Branch",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121296194",
+        "name": "Faculty of Theology and Dawa, Al-Azhar University Tanta",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.8166,
+        "longitude": 31.00683,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q121296159",
+        "name": "Faculty of Theology and Dawa, Al-Azhar University Zagazig",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.5714,
+        "longitude": 31.4754,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12236012",
+        "name": "Faculty of Veterinary Medicine Cairo University",
+        "short_name": null,
+        "official_website": "https:\/\/vet.cu.edu.eg\/new-web\/Home\/",
+        "aliases": [
+            "Cairo University, Faculty of Veterinary Medicine",
+            "Faculty of Veterinary Medicine, Cairo University"
+        ],
+        "latitude": 30.015329,
+        "longitude": 31.206193,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4119550",
+        "name": "Fayoum University",
+        "short_name": null,
+        "official_website": "http:\/\/www.fayoum.edu.eg\/English\/",
+        "aliases": [
+            "FU",
+            "FYM"
+        ],
+        "latitude": 29.3211,
+        "longitude": 30.8356,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107075514",
+        "name": "Franciscan Center of Christian Oriental Studies",
+        "short_name": "FCCOS",
+        "official_website": "http:\/\/fccosl.linkpc.net",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4492438",
+        "name": "Franciscan Centre for Oriental Christian Studies",
+        "short_name": null,
+        "official_website": "https:\/\/custodia.org\/en\/news\/franciscan-centre-oriental-studies-cairo",
+        "aliases": null,
+        "latitude": 30.0507333,
+        "longitude": 31.2557,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3183238",
+        "name": "French University of Egypt",
+        "short_name": null,
+        "official_website": "http:\/\/www.ufe.edu.eg\/",
+        "aliases": [
+            "UFE"
+        ],
+        "latitude": 30.1502778,
+        "longitude": 31.6063889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3013175",
+        "name": "Future University in Egypt",
+        "short_name": null,
+        "official_website": "http:\/\/www.fue.edu.eg\/",
+        "aliases": [
+            "FUE"
+        ],
+        "latitude": 30.026,
+        "longitude": 31.4911,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q96757061",
+        "name": "Galala University",
+        "short_name": null,
+        "official_website": "https:\/\/www.gu.edu.eg",
+        "aliases": [
+            "GU",
+            "Al-Galala University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q691097",
+        "name": "German University in Cairo",
+        "short_name": null,
+        "official_website": "https:\/\/guc.edu.eg\/",
+        "aliases": [
+            "GUC"
+        ],
+        "latitude": 29.988,
+        "longitude": 31.442,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q126678682",
+        "name": "Giza Higher Institute for Islamic Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.iiss-egypt.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135428350",
+        "name": "Global Research Labs",
+        "short_name": null,
+        "official_website": "http:\/\/www.globalresearchlabs.com\/",
+        "aliases": [
+            "Global Labs"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12204553",
+        "name": "Heliopolis University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hu.edu.eg\/",
+        "aliases": [
+            "HU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105600196",
+        "name": "Helwan National University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 29.8705328,
+        "longitude": 31.3169758,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002091",
+        "name": "Helwan University Department of Physics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5629629",
+        "name": "HICIT in Shorouk Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.sha.edu.eg",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17004556",
+        "name": "Higher Institute of Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/www.csi.edu.eg\/\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6862164",
+        "name": "Higher Institute of Theatrical Arts",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q59050599",
+        "name": "Horus University",
+        "short_name": null,
+        "official_website": "https:\/\/new.horus.edu.eg\/",
+        "aliases": null,
+        "latitude": 31.4493087,
+        "longitude": 31.6573144,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1590853",
+        "name": "House of Knowledge",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Dār al-ʿIlm"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105535675",
+        "name": "Hurghada University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hurghada.edu.eg",
+        "aliases": null,
+        "latitude": 27.2970723,
+        "longitude": 33.7016576,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74558073",
+        "name": "IEREK Press",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12244326",
+        "name": "Institute of Arab Manuscripts",
+        "short_name": null,
+        "official_website": "https:\/\/www.malecso.org",
+        "aliases": [
+            "Maʻhad al-Makhṭūṭāt al-ʻArabīyah"
+        ],
+        "latitude": 30.048311,
+        "longitude": 31.198412,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12244302",
+        "name": "Institute of Arab Research and Studies",
+        "short_name": "IARS",
+        "official_website": "https:\/\/iarsedu.net\/",
+        "aliases": null,
+        "latitude": 30.0338699,
+        "longitude": 31.2330951,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6862317",
+        "name": "Institute of Aviation Engineering and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.iaet-eg.org\/wp",
+        "aliases": null,
+        "latitude": 30.069983,
+        "longitude": 31.188737,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6040160",
+        "name": "Institute of Coptic Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q109264429",
+        "name": "Institute of Graduate Studies and Research, Alexandria University",
+        "short_name": null,
+        "official_website": "https:\/\/igsr.alexu.edu.eg",
+        "aliases": [
+            "IGSR-Alexandria University",
+            "Institute of Graduate Studies & Research",
+            "Institute of Graduate Studies and Research"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q109257795",
+        "name": "International Branch of Cairo University",
+        "short_name": null,
+        "official_website": "https:\/\/ibcu.cu.edu.eg\/",
+        "aliases": null,
+        "latitude": 30.0245556,
+        "longitude": 30.9661389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4115998",
+        "name": "Kafr El-Sheikh University",
+        "short_name": null,
+        "official_website": "http:\/\/www.kfs.edu.eg\/",
+        "aliases": [
+            "KFS",
+            "Kafrelsheikh University"
+        ],
+        "latitude": 31.0983333,
+        "longitude": 30.95,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60573538",
+        "name": "King Salman International University",
+        "short_name": null,
+        "official_website": "https:\/\/ksiu.edu.eg\/",
+        "aliases": [
+            "KSIU"
+        ],
+        "latitude": 29.588991,
+        "longitude": 32.7736399,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116962885",
+        "name": "Lotus University",
+        "short_name": null,
+        "official_website": "https:\/\/lum.edu.eg",
+        "aliases": null,
+        "latitude": 28.1246703,
+        "longitude": 30.8462199,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q68167558",
+        "name": "Luxor University",
+        "short_name": null,
+        "official_website": "http:\/\/www.luxor.edu.eg\/",
+        "aliases": null,
+        "latitude": 25.6763012,
+        "longitude": 32.6335111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q114817413",
+        "name": "Mansoura National University",
+        "short_name": null,
+        "official_website": "https:\/\/www.mansnu.edu.eg\/",
+        "aliases": [
+            "MNU"
+        ],
+        "latitude": 31.4493507,
+        "longitude": 31.4791087,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4116236",
+        "name": "Mansoura University",
+        "short_name": null,
+        "official_website": "https:\/\/www.mans.edu.eg",
+        "aliases": [
+            "Gāmaʿat al-Mansoura",
+            "mans.eun.eg"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002106",
+        "name": "Mansoura University Department of Clinical Oncology and Nuclear Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002112",
+        "name": "Mansoura University Gastroenterology Surgical Center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002113",
+        "name": "Mansoura University Oncology Centre",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002114",
+        "name": "Mansoura University Ophthalmic Center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002115",
+        "name": "Mansoura University Urology and Nephrology Center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204540",
+        "name": "Matrouh University",
+        "short_name": null,
+        "official_website": "http:\/\/www.mau.edu.eg",
+        "aliases": [
+            "mau.edu.eg"
+        ],
+        "latitude": 31.3451666,
+        "longitude": 27.3125751,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q119576062",
+        "name": "May University",
+        "short_name": null,
+        "official_website": "https:\/\/muc.edu.eg\/",
+        "aliases": [
+            "MUC"
+        ],
+        "latitude": 29.8437427,
+        "longitude": 31.362002,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002002",
+        "name": "Medical Research Institute Alexandria University",
+        "short_name": null,
+        "official_website": "https:\/\/mri.alexu.edu.eg",
+        "aliases": [
+            "Medical Research Institute, Alexandria University"
+        ],
+        "latitude": 31.2055833,
+        "longitude": 29.9270278,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12192627",
+        "name": "Medical school in Egypt",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q125287862",
+        "name": "Memphis University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108837435",
+        "name": "Menoufia National University",
+        "short_name": null,
+        "official_website": "https:\/\/www.menofia.edu.eg\/",
+        "aliases": null,
+        "latitude": 30.6101314,
+        "longitude": 31.1098865,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1163280",
+        "name": "Menoufia University",
+        "short_name": null,
+        "official_website": "http:\/\/mu.menofia.edu.eg",
+        "aliases": [
+            "mu.menofia.edu.eg"
+        ],
+        "latitude": 30.5655556,
+        "longitude": 31.0127778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002127",
+        "name": "Menoufia University Department of Clinical Oncology and Nuclear Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002130",
+        "name": "Menoufia University National Liver Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q60914663",
+        "name": "Merit University",
+        "short_name": null,
+        "official_website": "http:\/\/www.merit.edu.eg\/",
+        "aliases": null,
+        "latitude": 26.4451005,
+        "longitude": 31.6630806,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105557328",
+        "name": "Minia National University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 28.0803216,
+        "longitude": 30.8337137,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6865113",
+        "name": "Minia University",
+        "short_name": null,
+        "official_website": "https:\/\/www.minia.edu.eg\/Minia\/",
+        "aliases": [
+            "Al-Minya University",
+            "minia.edu.eg",
+            "Minya University"
+        ],
+        "latitude": 28.1244444,
+        "longitude": 30.7341667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6875934",
+        "name": "Misr International University",
+        "short_name": null,
+        "official_website": "http:\/\/www.miuegypt.edu.eg\/",
+        "aliases": [
+            "MIU"
+        ],
+        "latitude": 30.1719,
+        "longitude": 31.4917,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q14565823",
+        "name": "Misr University for Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.must.edu.eg\/",
+        "aliases": [
+            "MUST",
+            "must.edu.eg"
+        ],
+        "latitude": 29.9965643,
+        "longitude": 30.9654322,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6888540",
+        "name": "Modern Academy For Engineering & Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.modern-academy.edu.eg",
+        "aliases": null,
+        "latitude": 29.9931,
+        "longitude": 31.3125,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22929276",
+        "name": "Modern University for Technology and Information",
+        "short_name": null,
+        "official_website": "http:\/\/www.mti.edu.eg\/",
+        "aliases": [
+            "MTI"
+        ],
+        "latitude": 29.9928594,
+        "longitude": 31.3114395,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6888870",
+        "name": "MSA University",
+        "short_name": null,
+        "official_website": "https:\/\/msa.edu.eg\/msauniversity\/",
+        "aliases": [
+            "Modern Sciences and Arts University",
+            "October University for Modern Sciences and Arts"
+        ],
+        "latitude": 29.9566728,
+        "longitude": 30.958153,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204463",
+        "name": "Nahda University",
+        "short_name": null,
+        "official_website": "https:\/\/www.nub.edu.eg\/",
+        "aliases": [
+            "NUB"
+        ],
+        "latitude": 29.0522381,
+        "longitude": 31.1182917,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4314942",
+        "name": "National Authority for Remote Sensing and Space Sciences",
+        "short_name": "NARSS",
+        "official_website": "http:\/\/www.narss.sci.eg\/",
+        "aliases": null,
+        "latitude": 30.1292778,
+        "longitude": 31.3817778,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6971243",
+        "name": "National Cancer Institute Egypt",
+        "short_name": null,
+        "official_website": "http:\/\/www.NCI.cu.edu.eg",
+        "aliases": [
+            "Cairo University Oncology Department",
+            "Cairo University, National Cancer Institute"
+        ],
+        "latitude": 30.0236944,
+        "longitude": 31.2308333,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6978045",
+        "name": "National Research Centre",
+        "short_name": null,
+        "official_website": "http:\/\/www.nrc.sci.eg",
+        "aliases": [
+            "National Research Center"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q594282",
+        "name": "National Research Institute of Astronomy and Geophysics",
+        "short_name": null,
+        "official_website": "https:\/\/www.nriag.sci.eg\/",
+        "aliases": [
+            "Helwan Observatory",
+            "Helwan Khedivial Observatory",
+            "NRIAG"
+        ],
+        "latitude": 29.8625,
+        "longitude": 31.3418,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q120750706",
+        "name": "National University for Science and Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113680378",
+        "name": "Netherlands-Flemish Institute in Cairo",
+        "short_name": null,
+        "official_website": "https:\/\/www.universiteitleiden.nl\/en\/nvic",
+        "aliases": [
+            "Netherlands Institute of Archaeology and Arabic Studies in Cairo (old name)",
+            "NIAASC (old name)",
+            "NVIC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100257877",
+        "name": "New Cairo Technological University",
+        "short_name": null,
+        "official_website": "https:\/\/nctu.edu.eg\/?lang=ar",
+        "aliases": [
+            "NCTU"
+        ],
+        "latitude": 30.0228889,
+        "longitude": 31.5231676,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q54874555",
+        "name": "New Giza University",
+        "short_name": null,
+        "official_website": "https:\/\/ngu.edu.eg\/",
+        "aliases": [
+            "NGU"
+        ],
+        "latitude": 30.01675,
+        "longitude": 31.066,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q64744448",
+        "name": "New Mansoura University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "NMU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109258542",
+        "name": "New Salhiya University",
+        "short_name": null,
+        "official_website": "https:\/\/sgu-edu-eg.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q59050231",
+        "name": "New Valley University",
+        "short_name": null,
+        "official_website": "https:\/\/nvu.edu.eg\/",
+        "aliases": [
+            "NVU"
+        ],
+        "latitude": 25.5233669,
+        "longitude": 30.6093867,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1146856",
+        "name": "Nile University",
+        "short_name": null,
+        "official_website": "https:\/\/www.nu.edu.eg\/index.php",
+        "aliases": [
+            "NU"
+        ],
+        "latitude": 30.0678,
+        "longitude": 31.0203,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108783891",
+        "name": "Nile Valley University (Egypt)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 29.2822111,
+        "longitude": 30.9170216,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4120425",
+        "name": "October 6 University",
+        "short_name": "O6U",
+        "official_website": "http:\/\/o6u.edu.eg",
+        "aliases": [
+            "6th October University",
+            "O6U",
+            "o6u.edu.eg"
+        ],
+        "latitude": 29.9761667,
+        "longitude": 30.9485278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115616219",
+        "name": "October Technological University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 29.9544722,
+        "longitude": 30.9610278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7180855",
+        "name": "Pharos University in Alexandria",
+        "short_name": null,
+        "official_website": "https:\/\/www.pua.edu.eg\/",
+        "aliases": [
+            "PUA",
+            "Pharos University of Alexandria",
+            "pua.edu.eg"
+        ],
+        "latitude": 31.2077,
+        "longitude": 29.9603,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1564902",
+        "name": "Port Said University",
+        "short_name": null,
+        "official_website": "http:\/\/www.psu.edu.eg\/",
+        "aliases": [
+            "PSU"
+        ],
+        "latitude": 31.2414,
+        "longitude": 32.3168,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100257879",
+        "name": "Q100257879",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12192811",
+        "name": "Q12192811",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q31076435",
+        "name": "Q31076435",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7568730",
+        "name": "Qena University",
+        "short_name": null,
+        "official_website": "http:\/\/www.svu.edu.eg",
+        "aliases": [
+            "SVU",
+            "South Valley University",
+            "svu.edu.eg"
+        ],
+        "latitude": 26.19215,
+        "longitude": 32.745231,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108828345",
+        "name": "Royal University of Egypt",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8973195",
+        "name": "Sadat Academy for Management Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.sadatacademy.edu.eg\/",
+        "aliases": [
+            "SAMS",
+            "Akādemyāt ʼal-sādāt lil-ʿoloom al ʼedāriāh",
+            "Sadat Academy"
+        ],
+        "latitude": 29.9594614,
+        "longitude": 31.2488079,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105659399",
+        "name": "Saint Mark Foundation for Coptic Studies",
+        "short_name": null,
+        "official_website": "http:\/\/stmarkfoundation.com\/",
+        "aliases": [
+            "Saint Mark Foundation",
+            "Saint Mark Foundation for Coptic History Studies",
+            "St. Mark Foundation",
+            "St. Mark Foundation for Coptic History Studies",
+            "St. Mark Foundation for Coptic Studies"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7390309",
+        "name": "SIFE UFE",
+        "short_name": null,
+        "official_website": "http:\/\/www.sife-ufe.org",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7521677",
+        "name": "Sinai University",
+        "short_name": null,
+        "official_website": "http:\/\/www.su.edu.eg",
+        "aliases": [
+            "SU"
+        ],
+        "latitude": 31.1138889,
+        "longitude": 33.6902778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105556557",
+        "name": "Sohag National University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 26.455559,
+        "longitude": 31.6629417,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107209412",
+        "name": "Sohag University",
+        "short_name": null,
+        "official_website": "https:\/\/www.sohag-univ.edu.eg",
+        "aliases": null,
+        "latitude": 26.4574698,
+        "longitude": 31.6680299,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002132",
+        "name": "Sohag University Mass Communication Department",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 26.5646404,
+        "longitude": 31.7080295,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108268660",
+        "name": "South Valley National University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 26.2026147,
+        "longitude": 32.7463131,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60914723",
+        "name": "Sphinx University",
+        "short_name": null,
+        "official_website": "https:\/\/sphinx.edu.eg\/",
+        "aliases": null,
+        "latitude": 27.2712438,
+        "longitude": 31.2705437,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q68167777",
+        "name": "Suez Canal National University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1161619",
+        "name": "Suez Canal University",
+        "short_name": null,
+        "official_website": "http:\/\/scuegypt.edu.eg\/",
+        "aliases": [
+            "SCU",
+            "scuegypt.edu.eg"
+        ],
+        "latitude": 30.6227778,
+        "longitude": 32.275,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002093",
+        "name": "Suez Canal University Department of Clinical Pathology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002099",
+        "name": "Suez Canal University Geology Department",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204432",
+        "name": "Suez University",
+        "short_name": null,
+        "official_website": "http:\/\/www.suezuniv.edu.eg",
+        "aliases": [
+            "University of Suez"
+        ],
+        "latitude": 29.9978,
+        "longitude": 32.4984,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122946861",
+        "name": "Suez University, Abourdis branch",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 28.8911746,
+        "longitude": 33.1891055,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115590286",
+        "name": "Taibah University of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 25.76225,
+        "longitude": 32.78375,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109768295",
+        "name": "Tanta National University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2917699",
+        "name": "Tanta University",
+        "short_name": null,
+        "official_website": "https:\/\/www.tanta.edu.eg",
+        "aliases": [
+            "TU",
+            "tanta.edu.eg"
+        ],
+        "latitude": 30.7922,
+        "longitude": 30.9992,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q469476",
+        "name": "The American University in Cairo",
+        "short_name": null,
+        "official_website": "https:\/\/www.aucegypt.edu\/",
+        "aliases": [
+            "AUC",
+            "American University in Cairo",
+            "aucegypt.edu"
+        ],
+        "latitude": 30.0199444,
+        "longitude": 31.5003444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74558048",
+        "name": "The Egyptian Public Health Association",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6740749",
+        "name": "The Israeli Academic Center in Cairo",
+        "short_name": null,
+        "official_website": "http:\/\/cairo.co.il\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12192833",
+        "name": "The National Water Research Center",
+        "short_name": null,
+        "official_website": "https:\/\/www.nwrc.gov.eg\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6888547",
+        "name": "thebes academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.modern-academy.edu\/computer.asp\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6862235",
+        "name": "Theodor Bilharz Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.tbri.sci.eg\/",
+        "aliases": null,
+        "latitude": 30.0939,
+        "longitude": 31.2233,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q64744335",
+        "name": "University of Canada in Egypt",
+        "short_name": null,
+        "official_website": "https:\/\/uofcanada.edu.eg\/",
+        "aliases": [
+            "University of Prince Edward Island",
+            "Canadian University",
+            "Universities of Canada in Egypt"
+        ],
+        "latitude": 30.029097,
+        "longitude": 31.7127635,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204536",
+        "name": "University of Sadat City",
+        "short_name": null,
+        "official_website": "http:\/\/www.usc.edu.eg\/en",
+        "aliases": [
+            "USC",
+            "usc.edu.eg"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115624073",
+        "name": "Western Technological University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.0266944,
+        "longitude": 31.2928056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105411142",
+        "name": "World Laboratory for Cosmology And Particle Physics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "WLCAPP"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q108268149",
+        "name": "Zagazig National University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.2412318,
+        "longitude": 31.7019569,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1078474",
+        "name": "Zagazig University",
+        "short_name": null,
+        "official_website": "http:\/\/www.zu.edu.eg\/",
+        "aliases": [
+            "ZU",
+            "english.zu.edu.eg",
+            "University of Zagazig"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101002138",
+        "name": "Zagazig University Department of Internal Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21062258",
+        "name": "Zewail City of Science, Technology and Innovation",
+        "short_name": null,
+        "official_website": "https:\/\/www.zewailcity.edu.eg\/",
+        "aliases": [
+            "Zewail City of Science and Technology"
+        ],
+        "latitude": 29.9394859,
+        "longitude": 31.065029,
+        "type": "university"
+    }
+]

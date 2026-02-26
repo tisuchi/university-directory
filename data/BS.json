@@ -1,0 +1,43 @@
+[
+    {
+        "wikidata_id": "Q137292985",
+        "name": "College of Tourism, Hospitality, Culinary Arts, and Leisure Management",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UB College of Tourism",
+            "University of The Bahamas College of Tourism"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136470986",
+        "name": "The Bahamas Agriculture & Marine Science Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.bamsibahamas.edu.bs",
+        "aliases": [
+            "BAMSI",
+            "Bahamas Agriculture & Marine Science Institute",
+            "Bahamas Agriculture and Marine Science Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5146860",
+        "name": "University of The Bahamas",
+        "short_name": null,
+        "official_website": "https:\/\/www.ub.edu.bs\/",
+        "aliases": [
+            "UB",
+            "College of The Bahamas",
+            "ub.edu.bs"
+        ],
+        "latitude": 25.061709,
+        "longitude": -77.353251,
+        "type": "college"
+    }
+]

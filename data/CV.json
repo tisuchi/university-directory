@@ -1,0 +1,171 @@
+[
+    {
+        "wikidata_id": "Q137384705",
+        "name": "Atlantic Technical University",
+        "short_name": null,
+        "official_website": "https:\/\/uta.cv",
+        "aliases": [
+            "UTA",
+            "Universidade Técnica do Atlântico"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112266393",
+        "name": "Biosfera",
+        "short_name": null,
+        "official_website": "https:\/\/www.biosfera1.com",
+        "aliases": [
+            "Biosfera I - Associação Ambientalista, Cabo Verde"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q137383821",
+        "name": "Institute of Engineering and Marine Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/uta.cv\/index.php?option=com_content&view=article&id=337&Itemid=247",
+        "aliases": [
+            "ISECMAR"
+        ],
+        "latitude": 16.864114,
+        "longitude": -24.986038,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294358",
+        "name": "Instituto Superior de Ciências Económicas e Empresariais",
+        "short_name": null,
+        "official_website": "http:\/\/www.iscee.edu.cv\/",
+        "aliases": [
+            "Higher Institute of Economics and Management",
+            "ISCEE"
+        ],
+        "latitude": 16.8898056,
+        "longitude": -24.9855556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100706397",
+        "name": "Instituto Superior de Ciências Jurídicas e Sociais",
+        "short_name": null,
+        "official_website": "http:\/\/www.iscjs.edu.cv\/",
+        "aliases": [
+            "Higher Institute of Law and Social Sciences",
+            "ISCJS"
+        ],
+        "latitude": 14.9191389,
+        "longitude": -23.5117222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q47125639",
+        "name": "Liceu Domingos Ramos",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 14.922469,
+        "longitude": -23.5052,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100706395",
+        "name": "M_EIA Instituto Universitário de Arte, Tecnologia e Cultura",
+        "short_name": null,
+        "official_website": "http:\/\/meia.edu.cv\/",
+        "aliases": [
+            "M_EIA",
+            "M_EIA University Institute of Art, Technology and Culture"
+        ],
+        "latitude": 16.8863889,
+        "longitude": -24.9859444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q47254981",
+        "name": "Universidade de Santiago",
+        "short_name": null,
+        "official_website": "http:\/\/us.edu.cv",
+        "aliases": [
+            "US",
+            "University of Santiago"
+        ],
+        "latitude": 15.09,
+        "longitude": -23.67,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100706396",
+        "name": "Universidade Intercontinental de Cabo Verde",
+        "short_name": null,
+        "official_website": "http:\/\/unicauniversidade.cv\/",
+        "aliases": [
+            "Intercontinental University of Cape Verde",
+            "UNICA"
+        ],
+        "latitude": 14.9171667,
+        "longitude": -23.5266389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1707547",
+        "name": "Universidade Jean Piaget de Cabo Verde",
+        "short_name": null,
+        "official_website": "http:\/\/www.unipiaget.cv\/",
+        "aliases": [
+            "Jean Piaget University of Cape Verde",
+            "UniPiaget",
+            "unipiaget.cv"
+        ],
+        "latitude": 14.921792,
+        "longitude": -23.538445,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q38796860",
+        "name": "Universidade Lusófona de Cabo Verde",
+        "short_name": null,
+        "official_website": "http:\/\/www.ulusofona.edu.cv\/",
+        "aliases": [
+            "ULCV",
+            "Lusophone University of Cape Verde"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1707609",
+        "name": "University of Cape Verde",
+        "short_name": null,
+        "official_website": "http:\/\/www.unicv.edu.cv\/",
+        "aliases": [
+            "Uni-CV",
+            "UNICV",
+            "Universidade de Cabo Verde"
+        ],
+        "latitude": 14.9228611,
+        "longitude": -23.5484444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6041675",
+        "name": "University of Mindelo",
+        "short_name": null,
+        "official_website": "https:\/\/um.edu.cv\/",
+        "aliases": [
+            "Mindelo University",
+            "UniMindelo",
+            "Universidade do Mindelo",
+            "Instituto de Estudos Superiores Isidoro da Graça",
+            "University of"
+        ],
+        "latitude": 16.8895,
+        "longitude": -24.9891,
+        "type": "university"
+    }
+]
