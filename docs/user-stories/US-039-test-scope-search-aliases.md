@@ -9,18 +9,18 @@ As a package developer, I want tests that verify the search scope also matches a
 - US-031 (test infrastructure exists)
 
 ## Stack
-- PHPUnit 11
+- Pest PHP 3
 - Orchestra Testbench
 - SQLite in-memory
 
 ## Implementation Checklist
-- [ ] Add tests to `tests/Unit/UniversityTest.php`
-- [ ] Test: `test_search_by_alias()` — create uni with name "Massachusetts Institute of Technology" and aliases `["MIT", "Mass Tech"]`, search "MIT", assert found
-- [ ] Test: `test_search_alias_partial_match()` — search "Mass" finds the uni via alias "Mass Tech"
-- [ ] Test: `test_search_combines_name_and_alias()` — create 2 unis, one with name containing "MIT" and another with alias "MIT", search "MIT" finds both
+- [ ] Add test closures to `tests/Unit/UniversityTest.php`
+- [ ] Add test closure: `test('search by alias', ...)` — create uni with name "Massachusetts Institute of Technology" and aliases `["MIT", "Mass Tech"]`, search "MIT", assert found
+- [ ] Add test closure: `test('search alias partial match', ...)` — search "Mass" finds the uni via alias "Mass Tech"
+- [ ] Add test closure: `test('search combines name and alias', ...)` — create 2 unis, one with name containing "MIT" and another with alias "MIT", search "MIT" finds both
 
 ## Implementation Prompt
-> Add tests to `tests/Unit/UniversityTest.php`. `test_search_by_alias`: create uni with name 'Massachusetts Institute of Technology', aliases ['MIT', 'Mass Tech']. Assert `University::search('MIT')->count()` is 1. `test_search_alias_partial_match`: search 'Mass' finds the uni (via alias 'Mass Tech'). `test_search_combines_name_short_name_and_alias`: create uni A with name 'MIT Academy' (no aliases) and uni B with name 'Some University' aliases ['MIT']. Search 'MIT' should find both (count is 2).
+> Add test closures to `tests/Unit/UniversityTest.php` using Pest syntax. `test('search by alias', function () { University::factory()->create(['name' => 'Massachusetts Institute of Technology', 'aliases' => ['MIT', 'Mass Tech']]); expect(University::search('MIT')->count())->toBe(1); });` — `test('search alias partial match', function () { ... expect(University::search('Mass')->count())->toBe(1); });` — `test('search combines name short name and alias', function () { University::factory()->create(['name' => 'MIT Academy']); University::factory()->create(['name' => 'Some University', 'aliases' => ['MIT']]); expect(University::search('MIT')->count())->toBe(2); });`
 
 ## Acceptance Criteria
 - [ ] Search finds universities by alias value

@@ -8,19 +8,19 @@ As a package developer, I want tests that verify the importer updates existing r
 - US-045 (basic importer tests exist)
 
 ## Stack
-- PHPUnit 11
+- Pest PHP 3
 - Orchestra Testbench
 - SQLite in-memory
 
 ## Implementation Checklist
 - [ ] Add tests to `tests/Unit/UniversityImporterTest.php`
-- [ ] Test: `test_updates_existing_by_wikidata_id()` — Create a university with wikidata_id Q49108, then import a record with same wikidata_id but different name. Assert name is updated, count is still 1.
-- [ ] Test: `test_does_not_duplicate_on_reimport()` — Import same dataset twice, assert count equals dataset size (not doubled)
-- [ ] Test: `test_skips_update_when_no_update_flag()` — Import with updateExisting=false, assert existing records are not modified
-- [ ] Test: `test_never_matches_null_wikidata_id()` — Create record with null wikidata_id, import another with null wikidata_id, assert 2 records exist (no matching)
+- [ ] Test: `test('updates existing by wikidata id', function () { ... })` — Create a university with wikidata_id Q49108, then import a record with same wikidata_id but different name. Assert name is updated, count is still 1.
+- [ ] Test: `test('does not duplicate on reimport', function () { ... })` — Import same dataset twice, assert count equals dataset size (not doubled)
+- [ ] Test: `test('skips update when no update flag', function () { ... })` — Import with updateExisting=false, assert existing records are not modified
+- [ ] Test: `test('never matches null wikidata id', function () { ... })` — Create record with null wikidata_id, import another with null wikidata_id, assert 2 records exist (no matching)
 
 ## Implementation Prompt
-> Add tests to `tests/Unit/UniversityImporterTest.php`. `test_updates_existing_by_wikidata_id`: Create a University via factory with wikidata_id 'Q49108' and name 'Old Name'. Import a record with same wikidata_id and name 'New Name'. Assert `University::count()` is 1 and `University::first()->name` is 'New Name'. `test_does_not_duplicate_on_reimport`: Import 3 records, then import same 3 again, assert count is 3. `test_skips_update_when_no_update_flag`: create a uni, import with same wikidata_id but different name with $updateExisting=false. Assert name unchanged and stats['skipped'] is 1. `test_never_matches_null_wikidata_id`: create uni with null wikidata_id, import another with null wikidata_id, assert count is 2.
+> Add tests to `tests/Unit/UniversityImporterTest.php` using Pest closure syntax. `test('updates existing by wikidata id', function () { ... })`: Create a University via factory with wikidata_id 'Q49108' and name 'Old Name'. Import a record with same wikidata_id and name 'New Name'. Use `expect(University::count())->toBe(1)` and `expect(University::first()->name)->toBe('New Name')`. `test('does not duplicate on reimport', function () { ... })`: Import 3 records, then import same 3 again, use `expect(University::count())->toBe(3)`. `test('skips update when no update flag', function () { ... })`: create a uni, import with same wikidata_id but different name with $updateExisting=false. Use `expect($uni->fresh()->name)->toBe('Old Name')` and `expect($stats['skipped'])->toBe(1)`. `test('never matches null wikidata id', function () { ... })`: create uni with null wikidata_id, import another with null wikidata_id, use `expect(University::count())->toBe(2)`.
 
 ## Acceptance Criteria
 - [ ] Existing records are updated by wikidata_id match

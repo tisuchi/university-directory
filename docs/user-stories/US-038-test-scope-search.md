@@ -9,20 +9,20 @@ As a package developer, I want tests that verify the search scope finds universi
 - US-031 (test infrastructure exists)
 
 ## Stack
-- PHPUnit 11
+- Pest PHP 3
 - Orchestra Testbench
 - SQLite in-memory
 
 ## Implementation Checklist
-- [ ] Add tests to `tests/Unit/UniversityTest.php`
-- [ ] Test: `test_search_by_name()` — create "Technical University of Munich", search "Munich", assert found
-- [ ] Test: `test_search_by_short_name()` — create with short_name "TUM", search "TUM", assert found
-- [ ] Test: `test_search_partial_match()` — search "Tech" finds "Technical University of Munich"
-- [ ] Test: `test_search_returns_empty_for_no_match()` — search "XYZ123" returns empty
-- [ ] Test: `test_search_with_null_term()` — `University::search(null)` returns all records (no filter)
+- [ ] Add test closures to `tests/Unit/UniversityTest.php`
+- [ ] Add test closure: `test('search by name', ...)` — create "Technical University of Munich", search "Munich", assert found
+- [ ] Add test closure: `test('search by short name', ...)` — create with short_name "TUM", search "TUM", assert found
+- [ ] Add test closure: `test('search partial match', ...)` — search "Tech" finds "Technical University of Munich"
+- [ ] Add test closure: `test('search returns empty for no match', ...)` — search "XYZ123" returns empty
+- [ ] Add test closure: `test('search with null term', ...)` — `University::search(null)` returns all records (no filter)
 
 ## Implementation Prompt
-> Add tests to `tests/Unit/UniversityTest.php`. `test_search_by_name`: create uni with name 'Technical University of Munich', assert `University::search('Munich')->count()` is 1. `test_search_by_short_name`: create uni with short_name 'TUM', assert `University::search('TUM')->count()` is 1. `test_search_partial_match`: search 'Tech' finds the Munich uni. `test_search_returns_empty_for_no_match`: search 'XYZ123' count is 0. `test_search_with_null_returns_all`: create 3 unis, assert `University::search(null)->count()` is 3.
+> Add test closures to `tests/Unit/UniversityTest.php` using Pest syntax. `test('search by name', function () { University::factory()->create(['name' => 'Technical University of Munich']); expect(University::search('Munich')->count())->toBe(1); });` — `test('search by short name', function () { University::factory()->create(['short_name' => 'TUM']); expect(University::search('TUM')->count())->toBe(1); });` — `test('search partial match', function () { ... expect(University::search('Tech')->count())->toBe(1); });` — `test('search returns empty for no match', function () { expect(University::search('XYZ123')->count())->toBe(0); });` — `test('search with null returns all', function () { University::factory()->count(3)->create(); expect(University::search(null)->count())->toBe(3); });`
 
 ## Acceptance Criteria
 - [ ] Search by full name works

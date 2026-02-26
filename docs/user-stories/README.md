@@ -98,7 +98,7 @@ Follow the numbered order. Stories within a group can be done in any order as lo
 
 | # | Story | File | Creates/Modifies |
 |---|-------|------|-----------------|
-| [US-031](US-031-setup-test-infrastructure.md) | Set up PHPUnit + Orchestra Testbench | `phpunit.xml`, `tests/TestCase.php` | Create |
+| [US-031](US-031-setup-test-infrastructure.md) | Set up Pest PHP + Orchestra Testbench | `phpunit.xml`, `tests/TestCase.php`, `tests/Pest.php` | Create |
 | [US-032](US-032-create-university-factory.md) | Create University model factory | `database/factories/UniversityFactory.php`, `src/Models/University.php` | Create + Modify |
 
 ---

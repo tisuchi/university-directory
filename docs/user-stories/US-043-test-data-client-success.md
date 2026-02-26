@@ -8,19 +8,18 @@ As a package developer, I want tests that verify the DataClient correctly fetche
 - US-031 (test infrastructure exists)
 
 ## Stack
-- PHPUnit 11
+- Pest PHP 3
 - Laravel HTTP Client fake/mock
 - PHP 8.2+
 
 ## Implementation Checklist
 - [ ] Create `tests/Unit/DataClientTest.php`
-- [ ] Extend base TestCase
-- [ ] Test: `test_fetches_country_data_successfully()` — Mock HTTP response with sample JSON, assert `fetch('DE')` returns expected array
-- [ ] Test: `test_constructs_correct_url()` — Verify the URL is built correctly from base URL + country code
-- [ ] Test: `test_returns_array_from_json()` — Mock response with array of universities, assert result is a PHP array
+- [ ] Test: `test('fetches country data successfully', function () { ... })` — Mock HTTP response with sample JSON, assert `fetch('DE')` returns expected array
+- [ ] Test: `test('constructs correct url', function () { ... })` — Verify the URL is built correctly from base URL + country code
+- [ ] Test: `test('returns array from json', function () { ... })` — Mock response with array of universities, assert result is a PHP array
 
 ## Implementation Prompt
-> Create `tests/Unit/DataClientTest.php` in namespace `Tisuchi\UniversityDirectory\Tests\Unit`. Extend base TestCase. Use `Http::fake()` to mock responses. `test_fetches_country_data_successfully`: Fake `Http::fake(['*/DE.json' => Http::response([['name' => 'TU Munich', 'wikidata_id' => 'Q49108']], 200)])`. Create DataClient, call `fetch('DE')`, assert result is an array with one item and name is 'TU Munich'. `test_returns_parsed_json_array`: similar but verify the result is a PHP array (not a string or object). `test_constructs_correct_url`: use Http::fake with wildcard, call fetch('US'), assert Http::assertSent() was called with URL containing 'US.json'.
+> Create `tests/Unit/DataClientTest.php` using Pest closure syntax. The TestCase is bound via `tests/Pest.php` — no class or extends needed. Use `Http::fake()` to mock responses. `test('fetches country data successfully', function () { ... })`: Fake `Http::fake(['*/DE.json' => Http::response([['name' => 'TU Munich', 'wikidata_id' => 'Q49108']], 200)])`. Create DataClient, call `fetch('DE')`, use `expect($result)->toBeArray()->toHaveCount(1)` and `expect($result[0]['name'])->toBe('TU Munich')`. `test('returns parsed json array', function () { ... })`: similar but use `expect($result)->toBeArray()` to verify the result is a PHP array (not a string or object). `test('constructs correct url', function () { ... })`: use Http::fake with wildcard, call fetch('US'), assert Http::assertSent() was called with URL containing 'US.json'.
 
 ## Acceptance Criteria
 - [ ] Test file exists at `tests/Unit/DataClientTest.php`

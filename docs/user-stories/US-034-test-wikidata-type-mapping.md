@@ -8,20 +8,20 @@ As a package developer, I want tests that verify Wikidata type strings map corre
 - US-031 (test infrastructure exists)
 
 ## Stack
-- PHPUnit 11
+- Pest PHP 3
 - PHP 8.2+
 
 ## Implementation Checklist
 - [ ] Open `tests/Unit/UniversityTypeTest.php` (or create if not yet existing)
-- [ ] Add test: `test_maps_university_variants()` — 'public university', 'research university', 'technical university' all map to University
-- [ ] Add test: `test_maps_college_variants()` — 'college', 'community college', 'liberal arts college' map to College
-- [ ] Add test: `test_maps_institute_variants()` — 'institute', 'institute of technology' map to Institute
-- [ ] Add test: `test_maps_academy_variants()` — 'academy', 'military academy' map to Academy
-- [ ] Add test: `test_unknown_type_defaults_to_university()` — 'random string' maps to University
-- [ ] Add test: `test_mapping_is_case_insensitive()` — 'PUBLIC UNIVERSITY' maps to University
+- [ ] Add test closure: `test('maps university variants', ...)` — 'public university', 'research university', 'technical university' all map to University
+- [ ] Add test closure: `test('maps college variants', ...)` — 'college', 'community college', 'liberal arts college' map to College
+- [ ] Add test closure: `test('maps institute variants', ...)` — 'institute', 'institute of technology' map to Institute
+- [ ] Add test closure: `test('maps academy variants', ...)` — 'academy', 'military academy' map to Academy
+- [ ] Add test closure: `test('unknown type defaults to university', ...)` — 'random string' maps to University
+- [ ] Add test closure: `test('mapping is case insensitive', ...)` — 'PUBLIC UNIVERSITY' maps to University
 
 ## Implementation Prompt
-> Add tests to `tests/Unit/UniversityTypeTest.php` for the `fromWikidata()` static method. Test `test_maps_university_variants`: assert `UniversityType::fromWikidata('research university')` equals `UniversityType::University`. Test multiple variants. `test_maps_college_variants`: 'community college' → College. `test_maps_institute_variants`: 'institute of technology' → Institute. `test_maps_academy_variants`: 'military academy' → Academy. `test_unknown_defaults_to_university`: 'xyz' → University. `test_mapping_is_case_insensitive`: 'PUBLIC UNIVERSITY' → University.
+> Add tests to `tests/Unit/UniversityTypeTest.php` for the `fromWikidata()` static method using Pest closure syntax. `test('maps university variants', function () { expect(UniversityType::fromWikidata('research university'))->toBe(UniversityType::University); });` — test multiple variants. `test('maps college variants', ...)`: 'community college' → College. `test('maps institute variants', ...)`: 'institute of technology' → Institute. `test('maps academy variants', ...)`: 'military academy' → Academy. `test('unknown defaults to university', function () { expect(UniversityType::fromWikidata('xyz'))->toBe(UniversityType::University); });` — `test('mapping is case insensitive', function () { expect(UniversityType::fromWikidata('PUBLIC UNIVERSITY'))->toBe(UniversityType::University); });`
 
 ## Acceptance Criteria
 - [ ] All Wikidata type mapping tests pass

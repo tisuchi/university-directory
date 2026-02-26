@@ -8,27 +8,26 @@ As a package developer, I want tests that verify the UniversityType enum has the
 - US-031 (test infrastructure exists)
 
 ## Stack
-- PHPUnit 11
+- Pest PHP 3
 - PHP 8.2+ Enums
 
 ## Implementation Checklist
 - [ ] Create `tests/Unit/UniversityTypeTest.php`
-- [ ] Extend base TestCase
-- [ ] Test that enum has exactly 4 cases
-- [ ] Test each case has the correct string value:
+- [ ] Add test closure verifying enum has exactly 4 cases
+- [ ] Add test closures verifying each case has the correct string value:
   - `University` → `'university'`
   - `College` → `'college'`
   - `Institute` → `'institute'`
   - `Academy` → `'academy'`
-- [ ] Test `UniversityType::from('university')` returns `University` case
-- [ ] Test `UniversityType::tryFrom('invalid')` returns null
+- [ ] Add test closure verifying `UniversityType::from('university')` returns `University` case
+- [ ] Add test closure verifying `UniversityType::tryFrom('invalid')` returns null
 
 ## Implementation Prompt
-> Create `tests/Unit/UniversityTypeTest.php` in namespace `Tisuchi\UniversityDirectory\Tests\Unit`. Extend the base TestCase. Write tests: `test_has_exactly_four_cases()` — assert count of `UniversityType::cases()` is 4. `test_university_case_value()` — assert `UniversityType::University->value` is `'university'`. Similar for College, Institute, Academy. `test_can_create_from_value()` — assert `UniversityType::from('college')` equals `UniversityType::College`. `test_try_from_invalid_returns_null()` — assert `UniversityType::tryFrom('invalid')` is null.
+> Create `tests/Unit/UniversityTypeTest.php`. Use Pest closure syntax (no class needed — base TestCase is bound via `tests/Pest.php`). Write tests: `test('has exactly four cases', function () { expect(UniversityType::cases())->toHaveCount(4); });` — `test('university case value', function () { expect(UniversityType::University->value)->toBe('university'); });` — similar for College, Institute, Academy. `test('can create from value', function () { expect(UniversityType::from('college'))->toBe(UniversityType::College); });` — `test('tryFrom invalid returns null', function () { expect(UniversityType::tryFrom('invalid'))->toBeNull(); });`
 
 ## Acceptance Criteria
 - [ ] Test file exists at `tests/Unit/UniversityTypeTest.php`
-- [ ] Tests pass when run with `./vendor/bin/phpunit tests/Unit/UniversityTypeTest.php`
+- [ ] Tests pass when run with `./vendor/bin/pest tests/Unit/UniversityTypeTest.php`
 - [ ] Verifies exactly 4 enum cases exist
 - [ ] Verifies each case has correct string value
 - [ ] Verifies `from()` works for valid values

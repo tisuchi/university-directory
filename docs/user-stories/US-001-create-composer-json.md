@@ -17,7 +17,7 @@ As a package developer, I want a properly configured composer.json so that the p
 - [ ] Set type to `library`
 - [ ] Set license to `MIT`
 - [ ] Require `php: ^8.2` and `illuminate/support: ^11.0|^12.0`
-- [ ] Require-dev: `orchestra/testbench: ^9.0|^10.0`, `phpunit/phpunit: ^11.0`
+- [ ] Require-dev: `orchestra/testbench: ^9.0|^10.0`, `pestphp/pest: ^3.0`
 - [ ] Configure PSR-4 autoload: `Tisuchi\\UniversityDirectory\\` → `src/`
 - [ ] Configure PSR-4 autoload-dev: `Tisuchi\\UniversityDirectory\\Tests\\` → `tests/`
 - [ ] Add Laravel auto-discovery in `extra.laravel.providers`: `Tisuchi\\UniversityDirectory\\UniversityDirectoryServiceProvider`
@@ -25,7 +25,7 @@ As a package developer, I want a properly configured composer.json so that the p
 - [ ] Set minimum-stability to `dev` and prefer-stable to `true`
 
 ## Implementation Prompt
-> Create the composer.json file for the `tisuchi/university-directory` Laravel package. PHP 8.2+, Laravel 11/12 support. Namespace: `Tisuchi\UniversityDirectory` mapped to `src/`. Include orchestra/testbench and phpunit as dev dependencies. Enable Laravel auto-discovery for the service provider.
+> Create the composer.json file for the `tisuchi/university-directory` Laravel package. PHP 8.2+, Laravel 11/12 support. Namespace: `Tisuchi\UniversityDirectory` mapped to `src/`. Include orchestra/testbench and pest as dev dependencies. Enable Laravel auto-discovery for the service provider.
 
 ## Acceptance Criteria
 - [ ] `composer validate` passes without errors
@@ -34,7 +34,7 @@ As a package developer, I want a properly configured composer.json so that the p
 - [ ] Laravel support covers both 11.x and 12.x
 - [ ] PSR-4 autoload maps `Tisuchi\\UniversityDirectory\\` to `src/`
 - [ ] Laravel auto-discovery is configured for `UniversityDirectoryServiceProvider`
-- [ ] Dev dependencies include orchestra/testbench and phpunit
+- [ ] Dev dependencies include orchestra/testbench and pest
 
 ## File(s) to Create/Modify
 - `composer.json` (create)
