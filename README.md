@@ -156,21 +156,87 @@ Route::get('/universities/search', function (Request $request) {
 
 ## Artisan Commands
 
+### Import Universities
+
 ```bash
-# Import universities into the database
 php artisan university-directory:import DE US GB
+```
+
+```text
+ 3/3 [============================] 100%
+
++---------+---------+---------+---------+--------+
+| Country | Created | Updated | Skipped | Status |
++---------+---------+---------+---------+--------+
+| DE      | 428     | 0       | 0       | OK     |
+| US      | 7,236   | 0       | 0       | OK     |
+| GB      | 164     | 0       | 0       | OK     |
++---------+---------+---------+---------+--------+
+
+Done. Total: 7,828 created, 0 updated, 0 skipped. Time: 4.2s
+```
+
+You can also import by region or everything at once:
+
+```bash
+php artisan university-directory:import --region=europe
 php artisan university-directory:import --all
+```
 
-# List universities with filters
-php artisan university-directory:list
-php artisan university-directory:list --country=DE --type=university --search=Munich --limit=10
+### List Universities
 
-# Show database statistics
+```bash
+php artisan university-directory:list --country=DE --type=university --search=Munich --limit=5
+```
+
+```text
++----+--------------------------------------+------------+---------+------------+------------------------------------------+
+| ID | Name                                 | Short Name | Country | Type       | Slug                                     |
++----+--------------------------------------+------------+---------+------------+------------------------------------------+
+| 12 | Technical University of Munich        | TUM        | DE      | university | technical-university-of-munich            |
+| 45 | Ludwig Maximilian University of Munich| LMU        | DE      | university | ludwig-maximilian-university-of-munich    |
+| 78 | Munich University of Applied Sciences | MUAS       | DE      | university | munich-university-of-applied-sciences     |
++----+--------------------------------------+------------+---------+------------+------------------------------------------+
+
+Showing 3 of 3 universities.
+```
+
+### Show Statistics
+
+```bash
 php artisan university-directory:stats
+```
 
-# Sync fresh data from remote source into local files (maintainers)
-php artisan university-directory:sync --all
+```text
+University Directory Stats
+--------------------------
+Total universities: 60,312
+Countries: 183
+Types: university (45,210), college (8,430), institute (4,512), academy (2,160)
+Top countries: US (7,236), IN (5,018), JP (3,412), GB (164), DE (428)
+Last updated: 2026-02-27 10:15:00
+```
+
+### Sync Remote Data
+
+For maintainers — fetch fresh data from the remote source into local bundled files:
+
+```bash
 php artisan university-directory:sync DE US --retries=5
+php artisan university-directory:sync --all
+```
+
+```text
+ 2/2 [============================] 100%
+
++---------+--------------+--------+
+| Country | Universities | Status |
++---------+--------------+--------+
+| DE      | 428          | OK     |
+| US      | 7,236        | OK     |
++---------+--------------+--------+
+
+Sync complete. 2 succeeded, 0 failed.
 ```
 
 ## Publishing Migrations
