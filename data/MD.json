@@ -1,0 +1,586 @@
+[
+    {
+        "wikidata_id": "Q20261897",
+        "name": "\"Alexandru cel Bun\" Military Academy",
+        "short_name": null,
+        "official_website": "https:\/\/amfa.army.md\/",
+        "aliases": null,
+        "latitude": 47.0119,
+        "longitude": 28.8659,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4671448",
+        "name": "Academy of Economic Studies of Moldova",
+        "short_name": null,
+        "official_website": "http:\/\/www.ase.md",
+        "aliases": [
+            "ASEM"
+        ],
+        "latitude": 47.031013,
+        "longitude": 28.838392,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20262483",
+        "name": "Academy of Music, Theatre and Fine Arts of Moldova",
+        "short_name": null,
+        "official_website": "http:\/\/www.amtap.md",
+        "aliases": [
+            "Academia de Muzica, Teatru si Arte Plastice",
+            "AMTAP",
+            "Gavriil Musicescu Institute of Arts",
+            "Institutul de Arte \"Gavriil Musicescu\""
+        ],
+        "latitude": 47.0222,
+        "longitude": 28.8172,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20262311",
+        "name": "Academy of Public Administration of Moldova",
+        "short_name": null,
+        "official_website": "http:\/\/www.aap.gov.md",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2501849",
+        "name": "Alecu Russo State University of Bălți",
+        "short_name": null,
+        "official_website": "https:\/\/usarb.md\/",
+        "aliases": [
+            "Alecu Russo State University of Bălţi",
+            "USARB"
+        ],
+        "latitude": 47.7548667,
+        "longitude": 27.9216611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113464155",
+        "name": "Alecu Russo State University of Bălți Department of Mathematics and Computer Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29880977",
+        "name": "Alexandru Plămădeală Arts College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q3624015",
+        "name": "Bogdan Petriceicu Hasdeu State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.usch.md\/",
+        "aliases": null,
+        "latitude": 45.9047,
+        "longitude": 28.1958,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74555994",
+        "name": "Centre of Studies in European Integration",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2496010",
+        "name": "Comrat State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.kdu.md\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113464135",
+        "name": "Department of Agricultural Technologies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 47.755823,
+        "longitude": 27.921102,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113464186",
+        "name": "Department of Economic Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112756509",
+        "name": "Department of Natural Sciences and Agroecology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 47.7536111,
+        "longitude": 27.9211111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113464220",
+        "name": "Department of Physical Sciences and Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4163281",
+        "name": "Dniester Institute of Economics and Law",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 47.7585528,
+        "longitude": 27.9184833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74528765",
+        "name": "Doctoral School of Economic and Social Sciences and IT",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q19709686",
+        "name": "Free International University from Moldova ULIM",
+        "short_name": null,
+        "official_website": "http:\/\/ulim.md\/",
+        "aliases": [
+            "Free International University of Moldova",
+            "ULIM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74535864",
+        "name": "History and Geography Department, „Ion Creangă” State Pedagogical University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6003961",
+        "name": "Imi-Nova International Management Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.imi-nova.md\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74544495",
+        "name": "Institute of Chemistry of Academy of Sciences of Moldova",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74546554",
+        "name": "Institute of Cultural Heritage of the Academy of Sciences of Moldova",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q131370785",
+        "name": "Institute of Ecology and Geography of Moldova",
+        "short_name": null,
+        "official_website": "https:\/\/ieg.md\/",
+        "aliases": [
+            "Institutul de Ecologie şi Geografie"
+        ],
+        "latitude": 46.9988889,
+        "longitude": 28.8183333,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4201573",
+        "name": "Institute of Mathematics and Computer Science",
+        "short_name": null,
+        "official_website": "http:\/\/www.math.md",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q112252075",
+        "name": "Institute of Zoology",
+        "short_name": null,
+        "official_website": "https:\/\/zoology.md\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4146913",
+        "name": "Ion Creangă Pedagogical State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.upsc.md\/",
+        "aliases": null,
+        "latitude": 47.0361111,
+        "longitude": 28.8119444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4114528",
+        "name": "Military Institute of the Ministry of Defence of the Transnistrian Moldovan Republic",
+        "short_name": null,
+        "official_website": "http:\/\/militar.spsu.ru",
+        "aliases": null,
+        "latitude": 46.85556,
+        "longitude": 29.63472,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1097810",
+        "name": "Moldova State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.usm.md",
+        "aliases": [
+            "Moldavskiĭ gosudarstvennyĭ universitet",
+            "Moldovan State University",
+            "State University in Chișinău",
+            "State University of Chișinău",
+            "State University of Moldova",
+            "Universitatea de Stat din Moldova",
+            "usm.md"
+        ],
+        "latitude": 47.0186111,
+        "longitude": 28.8236111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74432432",
+        "name": "National Institute of Justice of Moldova",
+        "short_name": null,
+        "official_website": "https:\/\/www.inj.md\/",
+        "aliases": [
+            "National Institute of Justice"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4146986",
+        "name": "Nicolae Testemițanu State University of Medicine and Pharmacy",
+        "short_name": null,
+        "official_website": "http:\/\/usmf.md\/",
+        "aliases": [
+            "USMF",
+            "Universitatea de Stat de Medicină și Farmacie \"Nicolae Testemițanu\""
+        ],
+        "latitude": 47.034,
+        "longitude": 28.8176,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109653565",
+        "name": "Q109653565",
+        "short_name": null,
+        "official_website": "https:\/\/cehta.md\/",
+        "aliases": null,
+        "latitude": 48.2063889,
+        "longitude": 27.6766667,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q112255433",
+        "name": "Q112255433",
+        "short_name": null,
+        "official_website": "https:\/\/ise.md\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q113464092",
+        "name": "Q113464092",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 47.755823,
+        "longitude": 27.921102,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q114785429",
+        "name": "Q114785429",
+        "short_name": null,
+        "official_website": "http:\/\/www.edu.asm.md\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115634308",
+        "name": "Q115634308",
+        "short_name": null,
+        "official_website": "https:\/\/colegiulmeminescusoroca.educ.md\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q115868166",
+        "name": "Q115868166",
+        "short_name": null,
+        "official_website": "http:\/\/cch.md\/",
+        "aliases": null,
+        "latitude": 46.826827,
+        "longitude": 28.581029,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12730501",
+        "name": "Q12730501",
+        "short_name": null,
+        "official_website": "https:\/\/ifr.md\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131386290",
+        "name": "Q131386290",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q135902057",
+        "name": "Q135902057",
+        "short_name": null,
+        "official_website": "https:\/\/historyinstitute.usm.md\/",
+        "aliases": null,
+        "latitude": 46.9993582,
+        "longitude": 28.8163889,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20263487",
+        "name": "Q20263487",
+        "short_name": null,
+        "official_website": "http:\/\/www.aticmd.md\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20431347",
+        "name": "Q20431347",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 47.77,
+        "longitude": 27.89,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q20431597",
+        "name": "RIFC „Selecția”",
+        "short_name": null,
+        "official_website": "https:\/\/selectia.md",
+        "aliases": [
+            "Field Crops Research Institute  „Selecția”"
+        ],
+        "latitude": 47.7633333,
+        "longitude": 27.8961111,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1282309",
+        "name": "Shevchenko Transnistria State University",
+        "short_name": null,
+        "official_website": "http:\/\/spsu.ru",
+        "aliases": [
+            "Transnistria State University"
+        ],
+        "latitude": 46.8375,
+        "longitude": 29.6316667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20432790",
+        "name": "Slavonic University of Moldova",
+        "short_name": null,
+        "official_website": "http:\/\/surm.md\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4693931",
+        "name": "State Agrarian University of Moldova",
+        "short_name": null,
+        "official_website": "http:\/\/www.uasm.md",
+        "aliases": null,
+        "latitude": 47.062,
+        "longitude": 28.809,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74550476",
+        "name": "State Pedagogical University from Chisinau",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18091358",
+        "name": "State University of Physical Education and Sport",
+        "short_name": null,
+        "official_website": "http:\/\/www.usefs.md",
+        "aliases": null,
+        "latitude": 47.035124,
+        "longitude": 28.853167,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7668257",
+        "name": "T. G. Shevchenko University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Taras Shevchenko Transnistria State University"
+        ],
+        "latitude": 46.8375,
+        "longitude": 29.631667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2650619",
+        "name": "Taraclia State University",
+        "short_name": null,
+        "official_website": "http:\/\/tdu-tar.md",
+        "aliases": null,
+        "latitude": 45.913176,
+        "longitude": 28.670765,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1098106",
+        "name": "Technical University of Moldova",
+        "short_name": null,
+        "official_website": "https:\/\/utm.md\/",
+        "aliases": [
+            "TUM",
+            "Universitatea Tehnică a Moldovei"
+        ],
+        "latitude": 47.03072,
+        "longitude": 28.82399,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q110011603",
+        "name": "Technikal University of Moldova",
+        "short_name": null,
+        "official_website": "https:\/\/utm.md\/ru\/",
+        "aliases": [
+            "TUM"
+        ],
+        "latitude": 47.0307194,
+        "longitude": 28.8239889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20432785",
+        "name": "Tiraspol State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ust.md\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20432783",
+        "name": "Trade Co-operative University of Moldova",
+        "short_name": null,
+        "official_website": "http:\/\/www.uccm.md\/",
+        "aliases": [
+            "International University of Moldova",
+            "UCCM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4378148",
+        "name": "Transnistrian Technical Engineering Institute",
+        "short_name": null,
+        "official_website": "http:\/\/iti.spsu.ru\/",
+        "aliases": null,
+        "latitude": 46.83356,
+        "longitude": 29.61738,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20432787",
+        "name": "University of European Studies of Moldova",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "European University of Moldova"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

@@ -1,0 +1,493 @@
+[
+    {
+        "wikidata_id": "Q136776501",
+        "name": "Academic University",
+        "short_name": null,
+        "official_website": "https:\/\/www.acu.edu.ly\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105407601",
+        "name": "Africa University of Humanities and Applied Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/ar.africaun.edu.ly\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3648084",
+        "name": "Al-Arab Medical University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Jamiaat Al-Arab Al-Tibiya"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946746",
+        "name": "Al-Arab Medical University Institute of Medical Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q102347735",
+        "name": "Al-Hadra University of Humanities and Applied Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/alhadera.edu.ly\/",
+        "aliases": [
+            "University of Alhadera  for Humanity Applied Sciencces"
+        ],
+        "latitude": 32.8917522,
+        "longitude": 13.2049624,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105407600",
+        "name": "Al-Jafra University",
+        "short_name": null,
+        "official_website": "https:\/\/ju.edu.ly\/",
+        "aliases": [
+            "Al-Jufra University",
+            "AlJufra University"
+        ],
+        "latitude": 29.065532,
+        "longitude": 15.781668,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102347736",
+        "name": "Al-Tahadi National Medical University",
+        "short_name": null,
+        "official_website": "https:\/\/www.attahadi.edu.ly\/web\/index.php?do=change_lang&lang=ar",
+        "aliases": null,
+        "latitude": 32.8489258,
+        "longitude": 13.201323,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4703503",
+        "name": "Alasmarya Islamic University",
+        "short_name": null,
+        "official_website": "http:\/\/www.asmarya.edu.ly",
+        "aliases": [
+            "asmarya.edu.ly"
+        ],
+        "latitude": 32.4681,
+        "longitude": 14.5672,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102347734",
+        "name": "Alrefak University",
+        "short_name": null,
+        "official_website": "https:\/\/www.alrefak.edu.ly\/",
+        "aliases": [
+            "Al-Rafaq National University",
+            "University of Alrefak"
+        ],
+        "latitude": 32.8882951,
+        "longitude": 13.1966955,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22686987",
+        "name": "Azzaytuna University",
+        "short_name": null,
+        "official_website": "http:\/\/www.azu.edu.ly\/default_en.aspx",
+        "aliases": [
+            "AZU",
+            "Naser University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102347728",
+        "name": "Bani Walid University",
+        "short_name": null,
+        "official_website": "https:\/\/bwu.edu.ly",
+        "aliases": [
+            "Bani Waleed University",
+            "Bani-Waleed University",
+            "BWU"
+        ],
+        "latitude": 31.7555392,
+        "longitude": 14.0254537,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204460",
+        "name": "Bright Star University",
+        "short_name": null,
+        "official_website": "https:\/\/bsu.edu.ly\/En\/Default",
+        "aliases": null,
+        "latitude": 30.4244444,
+        "longitude": 19.6861111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111449458",
+        "name": "Dept. of Architecture & Urban Planning, University of Tripoli",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102347733",
+        "name": "Fezzan University",
+        "short_name": null,
+        "official_website": "https:\/\/fezzanu.edu.ly\/en\/",
+        "aliases": null,
+        "latitude": 26.1441599,
+        "longitude": 13.8676704,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7739632",
+        "name": "Higher Institute of Computer Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.cctt.edu.ly\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136225104",
+        "name": "Higher Institute of Medical Sciences and Technologies",
+        "short_name": null,
+        "official_website": "https:\/\/imst.edu.ly\/",
+        "aliases": [
+            "Higher Institute of Medical Sciences and Technologies, Bani Waleed",
+            "Higher Institute of Medical Sciences and Technologies, Bani Walid",
+            "HIMST - Bani Walid"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12183555",
+        "name": "Libyan Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.alacademia.edu.ly\/Default_EN.aspx",
+        "aliases": [
+            "Institute of Higher Studies for Economic Sciences",
+            "Libyan Academy for Postgraduate Studies"
+        ],
+        "latitude": 32.841432,
+        "longitude": 13.045395,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3648090",
+        "name": "Libyan International University",
+        "short_name": null,
+        "official_website": "http:\/\/www.limu.edu.ly\/",
+        "aliases": [
+            "Libyan International Medical University",
+            "LIMU"
+        ],
+        "latitude": 32.0682743,
+        "longitude": 20.0850302,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105407602",
+        "name": "Libyan University of Humanities and Applied Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/www.libyanuniv.edu.ly\/",
+        "aliases": null,
+        "latitude": 32.89534,
+        "longitude": 13.18105,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q45819",
+        "name": "Misrata University",
+        "short_name": null,
+        "official_website": "http:\/\/www.misuratau.edu.ly\/",
+        "aliases": [
+            "Misurata University",
+            "MisurataU",
+            "misuratau.edu.ly"
+        ],
+        "latitude": 32.3731823,
+        "longitude": 15.078211,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204530",
+        "name": "Mohammed bin Ali Al Sunoussi Islamic University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Islamic University of Mohamed Bin Ali Al Sanussi"
+        ],
+        "latitude": 32.7691417,
+        "longitude": 21.7489389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102347739",
+        "name": "Nalut University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.8877691,
+        "longitude": 10.9835157,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q328423",
+        "name": "Omar Al-Mukhtar University",
+        "short_name": null,
+        "official_website": "http:\/\/www.omu.edu.ly",
+        "aliases": [
+            "OMU"
+        ],
+        "latitude": 32.758297,
+        "longitude": 21.712172,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12185356",
+        "name": "Open University of Libya",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Libya Open University",
+            "Libyan Open University",
+            "LOU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204470",
+        "name": "Q12204470",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28450926",
+        "name": "Sabratha University",
+        "short_name": null,
+        "official_website": "http:\/\/www.sbu.edu.ly\/",
+        "aliases": null,
+        "latitude": 32.7995685,
+        "longitude": 12.4913833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3648100",
+        "name": "Sebha University",
+        "short_name": null,
+        "official_website": "http:\/\/www.sebhau.edu.ly",
+        "aliases": [
+            "SU",
+            "Sabha University",
+            "sebhau.edu.ly"
+        ],
+        "latitude": 27.0350724,
+        "longitude": 14.4343149,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q45817",
+        "name": "Sirte University",
+        "short_name": null,
+        "official_website": "http:\/\/su.edu.ly",
+        "aliases": [
+            "SU"
+        ],
+        "latitude": 31.1754026,
+        "longitude": 16.6014147,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102347729",
+        "name": "Tobruk University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204505",
+        "name": "Tripoli University of Medical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25893967",
+        "name": "University Elmergib",
+        "short_name": null,
+        "official_website": "http:\/\/www.elmergib.edu.ly\/",
+        "aliases": [
+            "EMU",
+            "Al-Mergib University",
+            "Intifada University",
+            "Nasser University"
+        ],
+        "latitude": 32.591537,
+        "longitude": 13.9256415,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102347737",
+        "name": "University of Ajdabia",
+        "short_name": null,
+        "official_website": "http:\/\/uoa.edu.ly\/ar\/page\/6\/",
+        "aliases": null,
+        "latitude": 30.7359155,
+        "longitude": 20.2090288,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3134657",
+        "name": "University of Benghazi",
+        "short_name": null,
+        "official_website": "http:\/\/www.uob.edu.ly\/eng\/",
+        "aliases": [
+            "UoB",
+            "Garyounis University",
+            "garyounis.edu",
+            "Qaryounis University"
+        ],
+        "latitude": 32.1167,
+        "longitude": 20.0667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125496368",
+        "name": "University of Derna",
+        "short_name": null,
+        "official_website": "https:\/\/uod.edu.ly",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204414",
+        "name": "University of Gharyan",
+        "short_name": null,
+        "official_website": "http:\/\/gu.edu.ly\/en\/general-information\/",
+        "aliases": [
+            "GU",
+            "Western Mountain University"
+        ],
+        "latitude": 32.1417882,
+        "longitude": 13.047992,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3646851",
+        "name": "University of Libya",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943573",
+        "name": "University of Libya English Department",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2529518",
+        "name": "University of Tripoli",
+        "short_name": null,
+        "official_website": "https:\/\/uot.edu.ly\/",
+        "aliases": [
+            "UOT",
+            "Tripoli University",
+            "UoT",
+            "uot.edu.ly"
+        ],
+        "latitude": 32.8490371,
+        "longitude": 13.2237014,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204504",
+        "name": "University of Tripoli Al-ahlia",
+        "short_name": null,
+        "official_website": "https:\/\/utripoli.edu.ly\/",
+        "aliases": null,
+        "latitude": 32.841285,
+        "longitude": 13.048074,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943575",
+        "name": "University of Tripoli Language Center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3066997",
+        "name": "University of Zawia",
+        "short_name": null,
+        "official_website": "https:\/\/zu.edu.ly\/en\/university\/",
+        "aliases": [
+            "Al Zawia University",
+            "Al Zawiya University",
+            "al-Zawiya University",
+            "Seventh of April University",
+            "zu.edu.ly"
+        ],
+        "latitude": 32.75,
+        "longitude": 12.7167,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102347732",
+        "name": "Zintan University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

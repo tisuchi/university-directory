@@ -1,0 +1,390 @@
+[
+    {
+        "wikidata_id": "Q383939",
+        "name": "Africa University",
+        "short_name": null,
+        "official_website": "http:\/\/www.africau.edu\/",
+        "aliases": [
+            "africau.edu"
+        ],
+        "latitude": -18.8975,
+        "longitude": 32.6011,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948673",
+        "name": "Africa University Institute of Peace Leadership and Governance",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q22032220",
+        "name": "Arrupe College, Harare",
+        "short_name": null,
+        "official_website": "http:\/\/www.arrupe.ac.zw",
+        "aliases": [
+            "AJU",
+            "Arrupe Jesuit University"
+        ],
+        "latitude": -17.7767417,
+        "longitude": 31.0580306,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q4914065",
+        "name": "Bindura University of Science Education",
+        "short_name": null,
+        "official_website": "https:\/\/www.buse.ac.zw\/",
+        "aliases": [
+            "BUSE",
+            "buse.ac.zw"
+        ],
+        "latitude": -17.3251,
+        "longitude": 31.3326,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5101057",
+        "name": "Chinhoyi University of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.cut.ac.zw\/",
+        "aliases": [
+            "cut.ac.zw"
+        ],
+        "latitude": -17.353,
+        "longitude": 30.206,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943892",
+        "name": "Chinhoyi University of Technology Directorate of Graduate Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948637",
+        "name": "Chinhoyi University of Technology School of Agricultural Science and Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948639",
+        "name": "Chinhoyi University of Technology School of Art and Design",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948640",
+        "name": "Chinhoyi University of Technology School of Hospitality and Tourism",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5600321",
+        "name": "Great Zimbabwe University",
+        "short_name": null,
+        "official_website": "http:\/\/www.gzu.ac.zw",
+        "aliases": [
+            "GZU",
+            "gzu.ac.zw"
+        ],
+        "latitude": -20.103,
+        "longitude": 30.863,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5623285",
+        "name": "Gwanda State University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -20.951631,
+        "longitude": 29.01476,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5654201",
+        "name": "Harare Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.hit.ac.zw\/",
+        "aliases": [
+            "hit.ac.zw"
+        ],
+        "latitude": -17.838,
+        "longitude": 31.008,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6290079",
+        "name": "Joshua Mqabuko Nkomo Polytechnic",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Gwanda Zintec College"
+        ],
+        "latitude": -20.952883,
+        "longitude": 29.012175,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6704659",
+        "name": "Lupane State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.lsu.ac.zw\/",
+        "aliases": [
+            "LSU",
+            "lsu.ac.zw"
+        ],
+        "latitude": -18.9509,
+        "longitude": 27.7608,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6842554",
+        "name": "Midlands State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.msu.ac.zw\/",
+        "aliases": [
+            "ww5.msu.ac.zw"
+        ],
+        "latitude": -19.516,
+        "longitude": 29.833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25103755",
+        "name": "Mkoba Teachers College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -19.46006,
+        "longitude": 29.76653,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q107750591",
+        "name": "Mutare Polytechnic",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979267",
+        "name": "National University of Science and Technology, Zimbabwe",
+        "short_name": null,
+        "official_website": "http:\/\/www.nust.ac.zw\/",
+        "aliases": [
+            "nust.ac.zw"
+        ],
+        "latitude": -20.165,
+        "longitude": 28.642,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20981310",
+        "name": "Reformed Church University",
+        "short_name": null,
+        "official_website": "http:\/\/www.rcu.ac.zw",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5308248",
+        "name": "Solusi University",
+        "short_name": null,
+        "official_website": "http:\/\/solusi.ac.zw\/",
+        "aliases": [
+            "solusi.ac.zw"
+        ],
+        "latitude": -20.2006,
+        "longitude": 28.1578,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100267119",
+        "name": "Southern African Research and Documentation Centre",
+        "short_name": null,
+        "official_website": "https:\/\/www.sardc.net\/en\/",
+        "aliases": [
+            "SARDC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118289598",
+        "name": "Southern Centre for Energy and Environment",
+        "short_name": null,
+        "official_website": "https:\/\/unfccc.int\/resource\/ccsites\/zimbab\/resource\/profiles\/centre.htm",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q581954",
+        "name": "University of Zimbabwe",
+        "short_name": null,
+        "official_website": "http:\/\/www.uz.ac.zw\/",
+        "aliases": [
+            "UZ",
+            "University College of Rhodesia and Nyasaland",
+            "University of Rhodesia",
+            "University Of Zimbabwe",
+            "uz.ac.zw"
+        ],
+        "latitude": -17.7838889,
+        "longitude": 31.0530556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948647",
+        "name": "University of Zimbabwe Department of Agriculture Economics and Extension",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948648",
+        "name": "University of Zimbabwe Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948649",
+        "name": "University of Zimbabwe Department of Community Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948651",
+        "name": "University of Zimbabwe Department of Obstetrics and Gynaecology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948660",
+        "name": "University of Zimbabwe Institute of Development Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100943894",
+        "name": "University of Zimbabwe Medical School Clinical Research Centre",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100942507",
+        "name": "University of Zimbabwe School of Social Work",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8031096",
+        "name": "Women's University in Africa",
+        "short_name": null,
+        "official_website": "http:\/\/www.wua.ac.zw",
+        "aliases": [
+            "wua.ac.zw"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100948661",
+        "name": "Women's University in Africa Department of Agriculture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20981320",
+        "name": "Zimbabwe Ezekiel Guti University",
+        "short_name": null,
+        "official_website": "http:\/\/www.zegu.ac.zw",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8072005",
+        "name": "Zimbabwe Open University",
+        "short_name": null,
+        "official_website": "http:\/\/www.zou.ac.zw\/",
+        "aliases": [
+            "zou.ac.zw"
+        ],
+        "latitude": -17.7832,
+        "longitude": 31.0537,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943895",
+        "name": "Zimbabwe University Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

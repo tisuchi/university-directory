@@ -1,0 +1,2522 @@
+[
+    {
+        "wikidata_id": "Q74549995",
+        "name": "4S go, society",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2822368",
+        "name": "Academy of Arts in Banská Bystrica",
+        "short_name": null,
+        "official_website": "https:\/\/www.aku.sk\/",
+        "aliases": [
+            "Academy of Arts in Banska Bystrica"
+        ],
+        "latitude": 48.7361,
+        "longitude": 19.1461,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3087473",
+        "name": "Academy of Performing Arts in Bratislava",
+        "short_name": null,
+        "official_website": "https:\/\/www.vsmu.sk\/",
+        "aliases": [
+            "VMSU"
+        ],
+        "latitude": 48.1438889,
+        "longitude": 17.1097222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q9366826",
+        "name": "Alexander Dubcek University in Trencin",
+        "short_name": null,
+        "official_website": "http:\/\/tnuni.sk\/",
+        "aliases": null,
+        "latitude": 48.898611,
+        "longitude": 18.047442,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113987352",
+        "name": "Armed Forces Academy of General Milan Rastislav Štefánik",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.066,
+        "longitude": 19.592,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1736408",
+        "name": "Catholic University in Ružomberok",
+        "short_name": null,
+        "official_website": "http:\/\/www.ku.sk",
+        "aliases": null,
+        "latitude": 49.0830306,
+        "longitude": 19.2809278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52633526",
+        "name": "Centre of Social and Psychological Sciences Slovak Academy of Sciences, Institute of Social Sciences, Košice",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q31392",
+        "name": "Comenius University",
+        "short_name": null,
+        "official_website": "https:\/\/uniba.sk\/",
+        "aliases": [
+            "Univerzita Komenského",
+            "Comenius University in Bratislava",
+            "uniba.sk"
+        ],
+        "latitude": 48.1412222,
+        "longitude": 17.1159444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q9379565",
+        "name": "Department of Music and Dance of the Academy of Performing Arts in Bratislava",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74547051",
+        "name": "Dubnica Institute of Technology in Dubnica nad Váhom, Slovakia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q112094320",
+        "name": "Elementary school Krásnohorské Podhradie",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.65558,
+        "longitude": 20.59614,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11755780",
+        "name": "Evangelical Lyceum (Kežmarok)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.13332,
+        "longitude": 20.42778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74550089",
+        "name": "Faculty of Biotechnology and Food Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74536743",
+        "name": "Faculty of Economics and Managemet SUA, Association of Agricultural Economics in Slovakia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74551241",
+        "name": "Faculty of Physical Education and Sports, Comenius University in Bratislava",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q112105258",
+        "name": "Former forestry school in Liptovský Hrádok",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.035138,
+        "longitude": 19.724196,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12766584",
+        "name": "Gymnázium Pavla Országha Hviezdoslava v Kežmarku",
+        "short_name": null,
+        "official_website": "https:\/\/gymnaziumkk.sk\/",
+        "aliases": null,
+        "latitude": 49.132922,
+        "longitude": 20.427256,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112100126",
+        "name": "Historical Urban School in Prešov",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.998458,
+        "longitude": 21.239478,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1299262",
+        "name": "Institute of Archaeology of Slovak Academy of Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/archeol.sav.sk\/index.php\/en\/",
+        "aliases": [
+            "Institute of Archaeology"
+        ],
+        "latitude": 48.306808,
+        "longitude": 18.099056,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q127329178",
+        "name": "Institute of Art History of Slovak Academy of Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.dejum.sav.sk\/",
+        "aliases": null,
+        "latitude": 48.167861,
+        "longitude": 17.073528,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6040094",
+        "name": "Institute of Chemistry, Slovak Academy of Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.chem.sk\/",
+        "aliases": [
+            "Chemický ústav SAV"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q15631117",
+        "name": "Institute of Experimental Physics",
+        "short_name": null,
+        "official_website": "https:\/\/websrv.saske.sk\/uef\/",
+        "aliases": [
+            "Institute of Experimental Physics of the Slovak Academy of Sciences",
+            "Institute of Experimental Physics SAS",
+            "Ústav experimentálnej fyziky SAV"
+        ],
+        "latitude": 48.733802,
+        "longitude": 21.238241,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74551189",
+        "name": "Institute of Experimental Psychology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q132803409",
+        "name": "Institute of Experimental Psychology of the Centre of Social and Psychological Sciences of the Slovak Academy of Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/psychologia.sav.sk",
+        "aliases": [
+            "Institute of Experimental Psychology CSPS SAS",
+            "Institute of Experimental Psychology of the CSPS of the Slovak Academy of Sciences"
+        ],
+        "latitude": 48.1678683,
+        "longitude": 17.073649,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q33121528",
+        "name": "Institute of Hydrology",
+        "short_name": null,
+        "official_website": "http:\/\/www.uh.sav.sk\/en-gb\/",
+        "aliases": null,
+        "latitude": 48.170512,
+        "longitude": 17.069965,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q22914956",
+        "name": "Institute of Inorganic Chemistry Slovak Academy of Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/uach.sav.sk\/",
+        "aliases": null,
+        "latitude": 48.1688741,
+        "longitude": 17.0700497,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q47522668",
+        "name": "Institute of Measurement Science",
+        "short_name": null,
+        "official_website": "http:\/\/www.um.sav.sk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17115324",
+        "name": "Institute of Physics",
+        "short_name": null,
+        "official_website": "http:\/\/www.fu.sav.sk\/",
+        "aliases": [
+            "Fyzikálny ústav"
+        ],
+        "latitude": 48.167861,
+        "longitude": 17.070749,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6040989",
+        "name": "Institute of physics of the University of Pavol Jozef Šafárik",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.72916,
+        "longitude": 21.248261,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27308071",
+        "name": "Josef Vidra School of Applied Arts Bratislva",
+        "short_name": null,
+        "official_website": "http:\/\/www.suvba.eu\/",
+        "aliases": [
+            "SUV",
+            "School of Applied Arts Bratislva"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112094147",
+        "name": "Košice-Grešákova Thalia Theatre Special",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.71732,
+        "longitude": 21.25761,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q55018398",
+        "name": "Lepage Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.lepageri.eu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1908174",
+        "name": "Matej Bel University",
+        "short_name": null,
+        "official_website": "http:\/\/www.umb.sk",
+        "aliases": [
+            "UMB",
+            "Matej Bel",
+            "Univerzita Mateja Bela"
+        ],
+        "latitude": 48.7331,
+        "longitude": 19.1455,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107518168",
+        "name": "Mathematical Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.mat.savba.sk\/index-e.html",
+        "aliases": null,
+        "latitude": 48.154873,
+        "longitude": 17.1036383,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74551856",
+        "name": "National Forest Centre – Forest Research Institute Zvolen",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q21490759",
+        "name": "New Evangelical Lyceum, Bratislava",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.1472,
+        "longitude": 17.1047,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q547138",
+        "name": "Pan-European University",
+        "short_name": null,
+        "official_website": "https:\/\/www.paneurouni.com\/",
+        "aliases": [
+            "PEVŠ"
+        ],
+        "latitude": 48.158986,
+        "longitude": 17.164636,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q178333",
+        "name": "Pavol Jozef Šafárik University in Košice",
+        "short_name": null,
+        "official_website": "https:\/\/upjs.sk",
+        "aliases": [
+            "Pavol Jozef Šafárik University",
+            "University of P.J.Safarik",
+            "University of Pavol Jozef Šafárik",
+            "Univerzita Pavla Jozefa Šafárika v Košiciach",
+            "UPJS"
+        ],
+        "latitude": 48.7194444,
+        "longitude": 21.2511111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q86910758",
+        "name": "Plant Science and Biodiversity Center",
+        "short_name": null,
+        "official_website": "https:\/\/cbrb.sav.sk",
+        "aliases": [
+            "Centre of Plant Biology and Biodiversity SAV",
+            "Centrum biológie rastlín a biodiverzity SAV",
+            "Plant Science and Biodiversity Centre of the Slovak Academy of Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30288360",
+        "name": "Polymer Institute",
+        "short_name": null,
+        "official_website": "https:\/\/polymer.sav.sk\/",
+        "aliases": [
+            "Ústav polymérov"
+        ],
+        "latitude": 48.170819,
+        "longitude": 17.07087,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q112086263",
+        "name": "Q112086263",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.1472,
+        "longitude": 17.1055,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112086264",
+        "name": "Q112086264",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.1441,
+        "longitude": 17.1091,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112086425",
+        "name": "Q112086425",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.1441,
+        "longitude": 17.1162,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112087025",
+        "name": "Q112087025",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.1458,
+        "longitude": 17.1028,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112087027",
+        "name": "Q112087027",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.1458,
+        "longitude": 17.1024,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112087029",
+        "name": "Q112087029",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.1458,
+        "longitude": 17.1021,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112087034",
+        "name": "Q112087034",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.1463,
+        "longitude": 17.0999,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112087055",
+        "name": "Q112087055",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.1458,
+        "longitude": 17.1007,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112087125",
+        "name": "Q112087125",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.1471,
+        "longitude": 17.1044,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112087133",
+        "name": "Q112087133",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.14181,
+        "longitude": 17.110871,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112087136",
+        "name": "Q112087136",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.142431,
+        "longitude": 17.111796,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112087138",
+        "name": "Q112087138",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.142517,
+        "longitude": 17.111718,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112087259",
+        "name": "Q112087259",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.1488,
+        "longitude": 17.1042,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112087293",
+        "name": "Q112087293",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.1491,
+        "longitude": 17.1035,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112087381",
+        "name": "Q112087381",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.1451,
+        "longitude": 17.1169,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112087417",
+        "name": "Q112087417",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.145022,
+        "longitude": 17.099133,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112087511",
+        "name": "Q112087511",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.151214,
+        "longitude": 17.110814,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112087603",
+        "name": "Q112087603",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.15159,
+        "longitude": 17.120811,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112087821",
+        "name": "Q112087821",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.153255,
+        "longitude": 17.093217,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112088758",
+        "name": "Q112088758",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.3319834,
+        "longitude": 17.309556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112089158",
+        "name": "Q112089158",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.22405,
+        "longitude": 17.39614,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112089675",
+        "name": "Q112089675",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.7395,
+        "longitude": 19.1518,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112090139",
+        "name": "Q112090139",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.73636,
+        "longitude": 19.15158,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112090174",
+        "name": "Q112090174",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.73874,
+        "longitude": 19.1429,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112090178",
+        "name": "Q112090178",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.73849,
+        "longitude": 19.15029,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112090194",
+        "name": "Q112090194",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.73336,
+        "longitude": 19.14912,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112090268",
+        "name": "Q112090268",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.73687,
+        "longitude": 19.1444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112090281",
+        "name": "Q112090281",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.73865,
+        "longitude": 19.13745,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112090414",
+        "name": "Q112090414",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.460613,
+        "longitude": 18.891833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112090722",
+        "name": "Q112090722",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.46133,
+        "longitude": 18.89038,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112090746",
+        "name": "Q112090746",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.48175,
+        "longitude": 18.86039,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112090926",
+        "name": "Q112090926",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.66458,
+        "longitude": 20.20163,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112091128",
+        "name": "Q112091128",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.81315,
+        "longitude": 19.31397,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112091385",
+        "name": "Q112091385",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.63035,
+        "longitude": 20.23477,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112091411",
+        "name": "Q112091411",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.57697,
+        "longitude": 20.19191,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112091566",
+        "name": "Q112091566",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.701798,
+        "longitude": 18.917545,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112091602",
+        "name": "Q112091602",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.70527,
+        "longitude": 18.91857,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112091637",
+        "name": "Q112091637",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.70425,
+        "longitude": 18.91877,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112091813",
+        "name": "Q112091813",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.32763,
+        "longitude": 19.66964,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112091824",
+        "name": "Q112091824",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.32613,
+        "longitude": 19.66608,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112091995",
+        "name": "Q112091995",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.8537,
+        "longitude": 19.6357,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112092032",
+        "name": "Q112092032",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.59927,
+        "longitude": 19.28514,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112092213",
+        "name": "Q112092213",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.68076,
+        "longitude": 20.11216,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112092251",
+        "name": "Q112092251",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.38171,
+        "longitude": 20.01895,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112092275",
+        "name": "Q112092275",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.38704,
+        "longitude": 20.01887,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112092278",
+        "name": "Q112092278",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.38167,
+        "longitude": 20.02281,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112092279",
+        "name": "Q112092279",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.38172,
+        "longitude": 20.026,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112092722",
+        "name": "Q112092722",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.43949,
+        "longitude": 18.86861,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093047",
+        "name": "Q112093047",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.57278,
+        "longitude": 19.12159,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093077",
+        "name": "Q112093077",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.55961,
+        "longitude": 19.25871,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093202",
+        "name": "Q112093202",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.72287,
+        "longitude": 20.25042,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093224",
+        "name": "Q112093224",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.82035,
+        "longitude": 20.36968,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093333",
+        "name": "Q112093333",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.85623,
+        "longitude": 20.57069,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093407",
+        "name": "Q112093407",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093532",
+        "name": "Q112093532",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.72787,
+        "longitude": 21.25316,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093533",
+        "name": "Q112093533",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.73877,
+        "longitude": 21.24587,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093534",
+        "name": "Q112093534",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.73842,
+        "longitude": 21.24605,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093535",
+        "name": "Q112093535",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.73821,
+        "longitude": 21.24647,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093545",
+        "name": "Q112093545",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.72937,
+        "longitude": 21.24901,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093546",
+        "name": "Q112093546",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.73306,
+        "longitude": 21.24961,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093626",
+        "name": "Q112093626",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.72264,
+        "longitude": 21.25874,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093677",
+        "name": "Q112093677",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.72063,
+        "longitude": 21.2619,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093689",
+        "name": "Q112093689",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.71798,
+        "longitude": 21.25097,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093703",
+        "name": "Q112093703",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.7269,
+        "longitude": 21.25229,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093704",
+        "name": "Q112093704",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.72796,
+        "longitude": 21.2531,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093766",
+        "name": "Q112093766",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.71879,
+        "longitude": 21.25138,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093843",
+        "name": "Q112093843",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.72239,
+        "longitude": 21.25895,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093845",
+        "name": "Q112093845",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.72293,
+        "longitude": 21.25857,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093855",
+        "name": "Q112093855",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.72484,
+        "longitude": 21.25754,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093950",
+        "name": "Q112093950",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.72109,
+        "longitude": 21.26075,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112093984",
+        "name": "Q112093984",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.72189,
+        "longitude": 21.25528,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112094019",
+        "name": "Q112094019",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.72285,
+        "longitude": 21.25413,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112094052",
+        "name": "Q112094052",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.7174,
+        "longitude": 21.25467,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112094263",
+        "name": "Q112094263",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.71561,
+        "longitude": 21.25054,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112094624",
+        "name": "Q112094624",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.9274,
+        "longitude": 20.91965,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112094659",
+        "name": "Q112094659",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.66371,
+        "longitude": 20.53083,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112094664",
+        "name": "Q112094664",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.66317,
+        "longitude": 20.53067,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112094666",
+        "name": "Q112094666",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.66024,
+        "longitude": 20.53367,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112094677",
+        "name": "Q112094677",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.66081,
+        "longitude": 20.53219,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112094836",
+        "name": "Q112094836",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.9481,
+        "longitude": 20.5651,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112094838",
+        "name": "Q112094838",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.94168,
+        "longitude": 20.57527,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112094856",
+        "name": "Q112094856",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.94716,
+        "longitude": 20.56672,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112094888",
+        "name": "Q112094888",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.94374,
+        "longitude": 20.5695,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112094982",
+        "name": "Q112094982",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.65738,
+        "longitude": 20.36392,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112095849",
+        "name": "Q112095849",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.222737,
+        "longitude": 18.608669,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112095852",
+        "name": "Q112095852",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.22103,
+        "longitude": 18.60391,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112096112",
+        "name": "Q112096112",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.31134,
+        "longitude": 18.09063,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112096114",
+        "name": "Q112096114",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.32158,
+        "longitude": 18.09629,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112096188",
+        "name": "Q112096188",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.30815,
+        "longitude": 18.0821,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112096189",
+        "name": "Q112096189",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.29838,
+        "longitude": 18.0912,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112096210",
+        "name": "Q112096210",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.31382,
+        "longitude": 18.04015,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112096271",
+        "name": "Q112096271",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 47.98593,
+        "longitude": 18.15734,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112096314",
+        "name": "Q112096314",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 47.98795,
+        "longitude": 18.16719,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112096417",
+        "name": "Q112096417",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.35337,
+        "longitude": 18.71956,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112096854",
+        "name": "Q112096854",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.29378,
+        "longitude": 21.27575,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112096868",
+        "name": "Q112096868",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.2922,
+        "longitude": 21.27639,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112096908",
+        "name": "Q112096908",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.29245,
+        "longitude": 21.27259,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112096961",
+        "name": "Q112096961",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112097426",
+        "name": "Q112097426",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.30307,
+        "longitude": 20.63129,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112097877",
+        "name": "Q112097877",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.137477,
+        "longitude": 20.427964,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112097951",
+        "name": "Q112097951",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.138788,
+        "longitude": 20.43322,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112097963",
+        "name": "Q112097963",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.139279,
+        "longitude": 20.43397,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112097964",
+        "name": "Q112097964",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.139453,
+        "longitude": 20.434535,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112097988",
+        "name": "Q112097988",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.133758,
+        "longitude": 20.429351,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112098037",
+        "name": "Q112098037",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.137212,
+        "longitude": 20.43007,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112098038",
+        "name": "Q112098038",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.137303,
+        "longitude": 20.429635,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112098240",
+        "name": "Q112098240",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.136973,
+        "longitude": 20.427102,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112098400",
+        "name": "Q112098400",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.02674,
+        "longitude": 20.58762,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112098413",
+        "name": "Q112098413",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.02562,
+        "longitude": 20.58551,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112098755",
+        "name": "Q112098755",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.02725,
+        "longitude": 20.59517,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112098764",
+        "name": "Q112098764",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.02656,
+        "longitude": 20.59532,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112099682",
+        "name": "Q112099682",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.0662193,
+        "longitude": 20.3181937,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112099822",
+        "name": "Q112099822",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.998275,
+        "longitude": 21.243823,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112100062",
+        "name": "Q112100062",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.997607,
+        "longitude": 21.243973,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112100090",
+        "name": "Q112100090",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.99616,
+        "longitude": 21.23921,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112100095",
+        "name": "Q112100095",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.000324,
+        "longitude": 21.237611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112100098",
+        "name": "Q112100098",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.998831,
+        "longitude": 21.244242,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112100099",
+        "name": "Q112100099",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.999296,
+        "longitude": 21.243866,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112100128",
+        "name": "Q112100128",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.992404,
+        "longitude": 21.244306,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112100132",
+        "name": "Q112100132",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.999345,
+        "longitude": 21.243276,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112100256",
+        "name": "Q112100256",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.103137,
+        "longitude": 21.095883,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112100287",
+        "name": "Q112100287",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.102115,
+        "longitude": 21.100283,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112100442",
+        "name": "Q112100442",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.001409,
+        "longitude": 20.751483,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112100467",
+        "name": "Q112100467",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.30233,
+        "longitude": 20.69005,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112101550",
+        "name": "Q112101550",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.27529,
+        "longitude": 20.24141,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112101982",
+        "name": "Q112101982",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.046751,
+        "longitude": 18.559494,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112102080",
+        "name": "Q112102080",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.997387,
+        "longitude": 18.235509,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112102393",
+        "name": "Q112102393",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.75748,
+        "longitude": 17.82928,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112102946",
+        "name": "Q112102946",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.89436,
+        "longitude": 18.03974,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112102954",
+        "name": "Q112102954",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.8979,
+        "longitude": 18.04833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112102964",
+        "name": "Q112102964",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.89132,
+        "longitude": 18.03739,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112102965",
+        "name": "Q112102965",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112102969",
+        "name": "Q112102969",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112102981",
+        "name": "Q112102981",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112102982",
+        "name": "Q112102982",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112102983",
+        "name": "Q112102983",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112102984",
+        "name": "Q112102984",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112103045",
+        "name": "Q112103045",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.74137,
+        "longitude": 18.33204,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112103077",
+        "name": "Q112103077",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.6085,
+        "longitude": 18.43525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112103526",
+        "name": "Q112103526",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.42885,
+        "longitude": 17.80193,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112103531",
+        "name": "Q112103531",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.42922,
+        "longitude": 17.7994,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112104233",
+        "name": "Q112104233",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.38054,
+        "longitude": 17.58763,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112104235",
+        "name": "Q112104235",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.37992,
+        "longitude": 17.58795,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112104343",
+        "name": "Q112104343",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.3781223,
+        "longitude": 17.589165,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112105012",
+        "name": "Q112105012",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.17582,
+        "longitude": 19.29404,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112105034",
+        "name": "Q112105034",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112105041",
+        "name": "Q112105041",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.97439,
+        "longitude": 18.79931,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112105042",
+        "name": "Q112105042",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.97447,
+        "longitude": 18.80044,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112105066",
+        "name": "Q112105066",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.97268,
+        "longitude": 18.80548,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112105386",
+        "name": "Q112105386",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.05444,
+        "longitude": 19.73599,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112105455",
+        "name": "Q112105455",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.067568,
+        "longitude": 18.921962,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112105479",
+        "name": "Q112105479",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.06665,
+        "longitude": 18.93063,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112105490",
+        "name": "Q112105490",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.061943,
+        "longitude": 18.918191,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112105500",
+        "name": "Q112105500",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.06758,
+        "longitude": 18.92301,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112105576",
+        "name": "Q112105576",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.0647,
+        "longitude": 18.92947,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112105835",
+        "name": "Q112105835",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.30704,
+        "longitude": 19.48462,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112105920",
+        "name": "Q112105920",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.07939,
+        "longitude": 19.29922,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112106023",
+        "name": "Q112106023",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.08456,
+        "longitude": 19.30111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112106039",
+        "name": "Q112106039",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.08108,
+        "longitude": 19.30293,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112106476",
+        "name": "Q112106476",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.225284,
+        "longitude": 18.736099,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130359204",
+        "name": "Q130359204",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.211425,
+        "longitude": 16.977015,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130677946",
+        "name": "Q130677946",
+        "short_name": null,
+        "official_website": "https:\/\/www.litterra.sk\/",
+        "aliases": null,
+        "latitude": 48.6807248,
+        "longitude": 20.112576,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131154972",
+        "name": "Q131154972",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.432332,
+        "longitude": 18.784658,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131154973",
+        "name": "Q131154973",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.432931,
+        "longitude": 18.784749,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131154976",
+        "name": "Q131154976",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.431293,
+        "longitude": 18.783912,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131154977",
+        "name": "Q131154977",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 49.431014,
+        "longitude": 18.784352,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131703749",
+        "name": "Q131703749",
+        "short_name": null,
+        "official_website": "http:\/\/www.uh.sav.sk\/sk-sk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q13408796",
+        "name": "Q13408796",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.15129,
+        "longitude": 17.110844,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66811818",
+        "name": "Q66811818",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.151284,
+        "longitude": 17.120181,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66811832",
+        "name": "Q66811832",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.14932,
+        "longitude": 17.108883,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1093568",
+        "name": "Selye János University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ujs.sk",
+        "aliases": [
+            "Selye Janos University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74549124",
+        "name": "Slovak Academy of Sciences, Institute of Experimental Endocrinology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2384148",
+        "name": "Slovak Hydrometeorological Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.shmu.sk\/en\/?page=1",
+        "aliases": [
+            "SHMI",
+            "Slovenský hydrometeorologický ústav"
+        ],
+        "latitude": 48.167738,
+        "longitude": 17.107286,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1466307",
+        "name": "Slovak Medical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.szu.sk",
+        "aliases": [
+            "Slovenská Zdravotnícka Univerzita v Bratislave",
+            "Sovak University of Health Sciences"
+        ],
+        "latitude": 48.1685,
+        "longitude": 17.0884,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74543872",
+        "name": "Slovak Toxicology Society SETOX (SETOX) and Institute of Experimental Pharmacology and Toxicology, Slovak Academy of Sciences (IEPT SASc.)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1668416",
+        "name": "Slovak University of Agriculture",
+        "short_name": null,
+        "official_website": "http:\/\/www.uniag.sk\/",
+        "aliases": [
+            "Slovak Agricultural University in Nitra",
+            "Slovak University of Agriculture in Nitra",
+            "Slovenská poľnohospodárska univerzita"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74547175",
+        "name": "Slovak University of Agriculture, Faculty of Agrobiology and Food Resources",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1778355",
+        "name": "Slovak University of Technology in Bratislava",
+        "short_name": null,
+        "official_website": "http:\/\/www.stuba.sk",
+        "aliases": [
+            "Slovak Technical University",
+            "Slovak University of Technology Bratislava",
+            "Slovenská Technická Univerzita v Bratislave"
+        ],
+        "latitude": 48.1546706,
+        "longitude": 17.1174395,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74549158",
+        "name": "Slovak University of Technology in Bratislava, Faculty of Civil Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527505",
+        "name": "Society for Aesthetics in Slovakia, Institute of Aesthetics and Art Culture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q112106248",
+        "name": "SOŠ pedagogická Turčianske Teplice",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.85663,
+        "longitude": 18.86317,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q13371858",
+        "name": "State Geological Institute of Dionýz Štúr",
+        "short_name": null,
+        "official_website": "http:\/\/www.geology.sk\/",
+        "aliases": [
+            "Dionýz Štúr State Geological Institute",
+            "Geological Survey of the Slovak Republic",
+            "ŠGÚDŠ",
+            "Štátny Geologický ústav Dionýza Štúra"
+        ],
+        "latitude": 48.166572,
+        "longitude": 17.078047,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q112087187",
+        "name": "stredná priemyselná škola",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.14,
+        "longitude": 17.1146,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q637084",
+        "name": "Technical University in Zvolen",
+        "short_name": null,
+        "official_website": "http:\/\/www.tuzvo.sk",
+        "aliases": [
+            "Technical University of Zvolen"
+        ],
+        "latitude": 48.573,
+        "longitude": 19.1165,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74548742",
+        "name": "Technical University of Kosice, Faculty of Electrical Engineering and Informatics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1719038",
+        "name": "Technical University of Košice",
+        "short_name": null,
+        "official_website": "https:\/\/tuke.sk\/",
+        "aliases": [
+            "Košice Technical University",
+            "Technical university Košice",
+            "Technical University of Kosice",
+            "Technická univerzita v Košiciach",
+            "TUKE"
+        ],
+        "latitude": 48.7314,
+        "longitude": 21.2447,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74551869",
+        "name": "The National Agricultural and Food Centre, Lužianky, Slovak Republic",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5123488",
+        "name": "The School of Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.vsm.sk\/en\/",
+        "aliases": [
+            "School of Management in Trencin",
+            "City University of Seattle in Slovakia"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q481659",
+        "name": "Universitas Istropolitana",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 48.1425,
+        "longitude": 17.1064,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12057014",
+        "name": "University of Central Europe",
+        "short_name": null,
+        "official_website": "http:\/\/www.sevs.sk\/",
+        "aliases": [
+            "Stredoeurópska vysoká škola"
+        ],
+        "latitude": 48.847016,
+        "longitude": 17.232748,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q9366812",
+        "name": "University of Constantine the Philosopher",
+        "short_name": null,
+        "official_website": "https:\/\/www.ukf.sk\/",
+        "aliases": [
+            "Constantine the Philosopher University in Nitra",
+            "University of Constantine the Philosopher in Nitra",
+            "Univerzita Konštantína Filozofa v Nitre"
+        ],
+        "latitude": 48.3085,
+        "longitude": 18.091,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1466108",
+        "name": "University of Economics in Bratislava",
+        "short_name": null,
+        "official_website": "https:\/\/euba.sk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74551914",
+        "name": "University of Economics, Faculty of Commerce",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q963904",
+        "name": "University of Prešov",
+        "short_name": null,
+        "official_website": "http:\/\/www.unipo.sk",
+        "aliases": [
+            "University of Prešov in Prešov"
+        ],
+        "latitude": 49.0017,
+        "longitude": 21.2394,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3578456",
+        "name": "University of Security Management in Košice",
+        "short_name": null,
+        "official_website": "https:\/\/www.vsbm.sk\/",
+        "aliases": null,
+        "latitude": 48.7109365,
+        "longitude": 21.2631662,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3072182",
+        "name": "University of Ss. Cyril and Methodius in Trnava",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucm.sk\/",
+        "aliases": [
+            "UCM"
+        ],
+        "latitude": 48.3833333,
+        "longitude": 17.5891667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2585282",
+        "name": "University of Trnava",
+        "short_name": null,
+        "official_website": "https:\/\/www.truni.sk\/",
+        "aliases": [
+            "Trnavská univerzita v Trnave"
+        ],
+        "latitude": 48.3797181,
+        "longitude": 17.5867669,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1421868",
+        "name": "University of Veterinary Medicine and Pharmacy in Košice",
+        "short_name": null,
+        "official_website": "https:\/\/www.uvlf.sk\/",
+        "aliases": [
+            "University of Veterinary Medicine in Košice",
+            "Univerzita veterinárneho lekárstva v Košiciach",
+            "Veterinary University Medicine in Kosice"
+        ],
+        "latitude": 48.7389,
+        "longitude": 21.2461,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2003858",
+        "name": "University of Žilina",
+        "short_name": null,
+        "official_website": "https:\/\/www.uniza.sk\/",
+        "aliases": [
+            "Žilinská Univerzita v Žiline"
+        ],
+        "latitude": 49.2228,
+        "longitude": 18.74,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30292526",
+        "name": "Water Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.vuvh.sk\/",
+        "aliases": [
+            "WRI",
+            "Výskumný Ustav Vodného Hospodárstva"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q11997311",
+        "name": "Welding Research Institute - Industrial Institute SR",
+        "short_name": null,
+        "official_website": "http:\/\/www.vuz.sk\/",
+        "aliases": [
+            "Výskumný ústav zváračský"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2368451",
+        "name": "Ľudovít Štúr Institute of Linguistics",
+        "short_name": null,
+        "official_website": "http:\/\/www.juls.savba.sk\/",
+        "aliases": [
+            "JÚĽŠ",
+            "Ludovit Stur Institute of Linguistics"
+        ],
+        "latitude": 48.14183,
+        "longitude": 17.10573,
+        "type": "institute"
+    }
+]

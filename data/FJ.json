@@ -1,0 +1,86 @@
+[
+    {
+        "wikidata_id": "Q1707084",
+        "name": "Fiji National University",
+        "short_name": null,
+        "official_website": "https:\/\/www.fnu.ac.fj\/",
+        "aliases": null,
+        "latitude": -18.1416,
+        "longitude": 178.4419,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q64689342",
+        "name": "Pacific Regional Seminary",
+        "short_name": null,
+        "official_website": "https:\/\/www.prsfiji.com",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65425918",
+        "name": "Q65425918",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1707347",
+        "name": "university of Fiji",
+        "short_name": null,
+        "official_website": "http:\/\/www.unifiji.ac.fj\/",
+        "aliases": null,
+        "latitude": -18.12612,
+        "longitude": 178.44806,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1062121",
+        "name": "University of the South Pacific",
+        "short_name": null,
+        "official_website": "https:\/\/www.usp.ac.fj\/",
+        "aliases": [
+            "USP",
+            "The University of South Pacific",
+            "The University of the South Pacific"
+        ],
+        "latitude": -18.14898,
+        "longitude": 178.4445019,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100923972",
+        "name": "University of the South Pacific School of Biological and Chemical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100923973",
+        "name": "University of the South Pacific School of Government Development and International Affairs",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100923974",
+        "name": "University of the South Pacific School of Social Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

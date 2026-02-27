@@ -1,0 +1,147 @@
+[
+    {
+        "wikidata_id": "Q384000",
+        "name": "African Centre for Democracy and Human Rights Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ACDHRS"
+        ],
+        "latitude": 13.442188,
+        "longitude": -16.718831,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16251004",
+        "name": "American International University West Africa",
+        "short_name": null,
+        "official_website": "http:\/\/www.aiu.edu.gm\/",
+        "aliases": [
+            "AIU",
+            "aiu.edu.gm",
+            "AIUWA"
+        ],
+        "latitude": 13.46329,
+        "longitude": -16.673883,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3046238",
+        "name": "EUCLID",
+        "short_name": null,
+        "official_website": "http:\/\/www.euclid.int",
+        "aliases": [
+            "euclid.int",
+            "EUCLIDE",
+            "Pôle Universitaire Euclide"
+        ],
+        "latitude": 13.406532,
+        "longitude": -16.727173,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100267090",
+        "name": "Gambia Economic and Social Development Research",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1492951",
+        "name": "Gambia Technical Training Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "GTTI"
+        ],
+        "latitude": 13.457,
+        "longitude": -16.6638056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16850113",
+        "name": "International Open University",
+        "short_name": null,
+        "official_website": "http:\/\/iou.edu.gm\/",
+        "aliases": [
+            "IOU",
+            "iou.edu.gm",
+            "Islamic Online University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1666998",
+        "name": "International Trypanotolerance Centre",
+        "short_name": null,
+        "official_website": "http:\/\/www.itc.gm\/",
+        "aliases": null,
+        "latitude": 13.4349158,
+        "longitude": -16.7247108,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1703224",
+        "name": "Management Development Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 13.4582266,
+        "longitude": -16.6756536,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30280323",
+        "name": "Medical Research Council The Gambia Unit",
+        "short_name": null,
+        "official_website": "https:\/\/www.mrc.gm",
+        "aliases": [
+            "Medical Research Council Laboratories Fajara",
+            "MRC Unit The Gambia at LSHTM"
+        ],
+        "latitude": 13.474655,
+        "longitude": -16.688735,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30266918",
+        "name": "National Agricultural Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.nari.gm\/",
+        "aliases": [
+            "NARI"
+        ],
+        "latitude": 13.454936,
+        "longitude": -16.579155,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1492903",
+        "name": "The Gambia College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 13.2855556,
+        "longitude": -16.6572222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q597030",
+        "name": "University of the Gambia",
+        "short_name": null,
+        "official_website": "https:\/\/www.utg.edu.gm",
+        "aliases": [
+            "UTG",
+            "IAU-020557",
+            "utg.edu.gm"
+        ],
+        "latitude": 13.4572222,
+        "longitude": -16.6855556,
+        "type": "university"
+    }
+]

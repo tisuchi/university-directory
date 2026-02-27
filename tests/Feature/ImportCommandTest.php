@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Http;
 use Tisuchi\UniversityDirectory\Models\University;
+use Tisuchi\UniversityDirectory\Services\DataClient;
 
 function sampleJsonResponse(int $count = 3): array
 {
@@ -23,36 +24,23 @@ function sampleJsonResponse(int $count = 3): array
     return $data;
 }
 
-// US-047: Basic import command tests
-test('imports single country', function () {
-    Http::fake([
-        '*/DE.json' => Http::response(sampleJsonResponse(3), 200),
-    ]);
+beforeEach(function () {
+    $this->app->singleton(DataClient::class, function () {
+        return new DataClient(dataPath: __DIR__.'/../fixtures/data');
+    });
+});
 
+// ── Local mode (default) ──────────────────────────────────────────
+
+test('imports single country from local files', function () {
     $this->artisan('university-directory:import', ['countries' => ['DE']])
         ->assertExitCode(0);
 
-    expect(University::count())->toBe(3);
-    expect(University::where('country_code', 'DE')->count())->toBe(3);
+    expect(University::count())->toBe(2);
+    expect(University::where('country_code', 'DE')->count())->toBe(2);
 });
 
-test('imports multiple countries', function () {
-    Http::fake([
-        '*/DE.json' => Http::response(sampleJsonResponse(2), 200),
-        '*/US.json' => Http::response([
-            [
-                'wikidata_id' => 'Q100000',
-                'name' => 'American University',
-                'short_name' => 'AU',
-                'official_website' => null,
-                'aliases' => null,
-                'latitude' => null,
-                'longitude' => null,
-                'type' => 'university',
-            ],
-        ], 200),
-    ]);
-
+test('imports multiple countries from local files', function () {
     $this->artisan('university-directory:import', ['countries' => ['DE', 'US']])
         ->assertExitCode(0);
 
@@ -60,11 +48,7 @@ test('imports multiple countries', function () {
     expect(University::where('country_code', 'US')->count())->toBe(1);
 });
 
-test('handles fetch failure gracefully', function () {
-    Http::fake([
-        '*' => Http::response('Server Error', 500),
-    ]);
-
+test('handles missing local file gracefully', function () {
     $this->artisan('university-directory:import', ['countries' => ['XX']])
         ->assertExitCode(0);
 
@@ -72,58 +56,62 @@ test('handles fetch failure gracefully', function () {
 });
 
 test('displays summary output', function () {
-    Http::fake([
-        '*/DE.json' => Http::response(sampleJsonResponse(2), 200),
-    ]);
-
     $this->artisan('university-directory:import', ['countries' => ['DE']])
         ->expectsOutputToContain('created')
         ->assertExitCode(0);
 });
 
-// US-048: Import command options
+// ── Remote mode (--remote flag) ──────────────────────────────────
+
+test('imports from remote with --remote flag', function () {
+    Http::fake([
+        '*/DE.json' => Http::response(sampleJsonResponse(3), 200),
+    ]);
+
+    $this->artisan('university-directory:import', [
+        'countries' => ['DE'],
+        '--remote' => true,
+    ])->assertExitCode(0);
+
+    expect(University::count())->toBe(3);
+});
+
+test('handles remote fetch failure gracefully', function () {
+    Http::fake([
+        '*' => Http::response('Server Error', 500),
+    ]);
+
+    $this->artisan('university-directory:import', [
+        'countries' => ['XX'],
+        '--remote' => true,
+    ])->assertExitCode(0);
+
+    expect(University::count())->toBe(0);
+});
+
+// ── Options (work the same regardless of local/remote) ───────────
+
 test('no-update flag skips existing', function () {
     University::factory()->create([
-        'wikidata_id' => 'Q50000',
+        'wikidata_id' => 'Q49108',
         'name' => 'Old Name',
         'country_code' => 'DE',
     ]);
 
-    Http::fake([
-        '*/DE.json' => Http::response([
-            [
-                'wikidata_id' => 'Q50000',
-                'name' => 'New Name',
-                'short_name' => null,
-                'official_website' => null,
-                'aliases' => null,
-                'latitude' => null,
-                'longitude' => null,
-                'type' => 'university',
-            ],
-        ], 200),
-    ]);
+    $this->artisan('university-directory:import', [
+        'countries' => ['DE'],
+        '--no-update' => true,
+    ])->assertExitCode(0);
 
-    $this->artisan('university-directory:import', ['countries' => ['DE'], '--no-update' => true])
-        ->assertExitCode(0);
-
-    expect(University::where('wikidata_id', 'Q50000')->first()->name)->toBe('Old Name');
+    expect(University::where('wikidata_id', 'Q49108')->first()->name)->toBe('Old Name');
 });
 
 test('region flag imports region', function () {
-    Http::fake([
-        '*' => Http::response([], 200),
-    ]);
-
     $this->artisan('university-directory:import', ['--region' => 'oceania'])
         ->assertExitCode(0);
 });
 
 test('all flag with no-interaction', function () {
-    Http::fake([
-        '*' => Http::response([], 200),
-    ]);
-
     $this->artisan('university-directory:import', ['--all' => true, '--no-interaction' => true])
         ->assertExitCode(0);
 });

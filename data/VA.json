@@ -1,0 +1,47 @@
+[
+    {
+        "wikidata_id": "Q122831936",
+        "name": "Q122831936",
+        "short_name": null,
+        "official_website": "https:\/\/scholasoccurrentes.org\/es\/universidad-del-sentido\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q59772957",
+        "name": "Scuola vaticana di biblioteconomia",
+        "short_name": null,
+        "official_website": "https:\/\/www.vaticanlibrary.va\/it\/scuola-biblioteconomia\/",
+        "aliases": [
+            "school of library science",
+            "Vatican school of library science"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12051107",
+        "name": "Scuola vaticana di paleografia, diplomatica e archivistica",
+        "short_name": null,
+        "official_website": "http:\/\/www.scuolavaticanapaleografia.va",
+        "aliases": null,
+        "latitude": 41.9063889,
+        "longitude": 12.4544444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q50421021",
+        "name": "The Propaganda Fide Historical Archives",
+        "short_name": null,
+        "official_website": "http:\/\/www.archiviostoricopropaganda.va\/content\/archiviostoricopropagandafide\/en.html",
+        "aliases": [
+            "Archivio Storico di Propaganda Fide"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    }
+]

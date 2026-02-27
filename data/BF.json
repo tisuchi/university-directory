@@ -1,0 +1,504 @@
+[
+    {
+        "wikidata_id": "Q121072791",
+        "name": "Burkina Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.bit.bf\/",
+        "aliases": [
+            "BIT"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100267068",
+        "name": "Centre d`études, de documentation, de recherches économique et social",
+        "short_name": null,
+        "official_website": "http:\/\/www.cedres.bf\/",
+        "aliases": [
+            "CEDRES"
+        ],
+        "latitude": 12.3765556,
+        "longitude": -1.5015556,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q103017429",
+        "name": "Centre Hospitalier Universitaire Sanou Souro",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30261334",
+        "name": "Centre Hospitalier Universitaire Yalgado Ouédraogo",
+        "short_name": null,
+        "official_website": "http:\/\/chuyobf.org\/",
+        "aliases": null,
+        "latitude": 12.384496,
+        "longitude": -1.506978,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100452188",
+        "name": "Centre Universitaire Polytechnique de Kaya",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "CUPK",
+            "Polytechnic University Center of Kaya"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136361293",
+        "name": "Higher Institute of Technologies",
+        "short_name": null,
+        "official_website": "https:\/\/istburkina.education\/",
+        "aliases": null,
+        "latitude": 12.3005485,
+        "longitude": -1.5301037,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100452192",
+        "name": "Institut Polytechnique Africain",
+        "short_name": null,
+        "official_website": "http:\/\/ipacfm-edu.org\/",
+        "aliases": [
+            "IPA",
+            "African Polytechnic Institute"
+        ],
+        "latitude": 11.1664444,
+        "longitude": -4.2398611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100452195",
+        "name": "Institut privé des hautes Etudes Cheick Modibo Diarra",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Cheick Modibo Diarra Private Institute of Advanced Studies"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100452194",
+        "name": "Institut Sciences Campus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ISC",
+            "Sciences Campus Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30261877",
+        "name": "Institut Superieur Des Sciences De La Population",
+        "short_name": null,
+        "official_website": "http:\/\/www.issp.bf\/index.php\/en",
+        "aliases": [
+            "ISSP"
+        ],
+        "latitude": 12.376646,
+        "longitude": -1.4987,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100955861",
+        "name": "Institut Supérieur de l'Informatique et de Gestion",
+        "short_name": null,
+        "official_website": "http:\/\/www.isigburkina.org\/",
+        "aliases": [
+            "ISIG",
+            "isigk.rnu.tn"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q117800930",
+        "name": "International Centre for Research and Development on Livestock in Sub-humid Areas",
+        "short_name": null,
+        "official_website": "https:\/\/www.cirdes.org\/",
+        "aliases": null,
+        "latitude": 11.160932,
+        "longitude": -4.289012,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q21774103",
+        "name": "International Institute for Water and Environmental Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "International Institute for Water and Environmental Engineering (2iE)"
+        ],
+        "latitude": 12.37911,
+        "longitude": -1.50386,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3075348",
+        "name": "International Institute for Water and Environmental Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/www.2ie-edu.org",
+        "aliases": [
+            "2ie Foundation",
+            "auf.org",
+            "Institut International d’Ingénierie de l’Eau et de l’Environnement"
+        ],
+        "latitude": 12.3791,
+        "longitude": -1.50372,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q60750442",
+        "name": "L’Université du Faso",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136260464",
+        "name": "Ouagadougou Polytechnic institute",
+        "short_name": "OPI",
+        "official_website": "https:\/\/epo-edu.com\/",
+        "aliases": [
+            "OPI"
+        ],
+        "latitude": 12.29814,
+        "longitude": -1.5338366,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137383315",
+        "name": "Plan International Burkina Faso",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 12.3367961,
+        "longitude": -1.5013113,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136959541",
+        "name": "private higher education live",
+        "short_name": null,
+        "official_website": "https:\/\/www.ecolendirect.fr\/",
+        "aliases": null,
+        "latitude": 12.3173433,
+        "longitude": -1.5028716,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115739829",
+        "name": "Q115739829",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123382554",
+        "name": "Q123382554",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123382565",
+        "name": "Q123382565",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135975395",
+        "name": "Q135975395",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136230561",
+        "name": "Q136230561",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 12.3821424,
+        "longitude": -1.4674902,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136261437",
+        "name": "Q136261437",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 12.3302939,
+        "longitude": -1.5496929,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137649338",
+        "name": "Q137649338",
+        "short_name": null,
+        "official_website": "https:\/\/infts.bf\/formations\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3049329",
+        "name": "Q3049329",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103021008",
+        "name": "Universite de Ouagadougou Unité de Formation et de Recherche en Sciences exactes et appliquées",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1076606",
+        "name": "University Joseph Ki-Zerbo",
+        "short_name": null,
+        "official_website": "https:\/\/www.ujkz.bf\/",
+        "aliases": [
+            "UO",
+            "Université de Ouagadougou",
+            "Université Joseph Ki-Zerbo",
+            "Université Ouaga I",
+            "Université Ouaga I JKZ",
+            "Université Ouaga I Joseph Ki-Zerbo",
+            "University of Ouaga I",
+            "University of Ouagadougou"
+        ],
+        "latitude": 12.37722,
+        "longitude": -1.50083,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q126960902",
+        "name": "University of Fada N'gourma",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UFDG"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100452189",
+        "name": "University of United Popular Nations",
+        "short_name": null,
+        "official_website": "https:\/\/www.uupn-edubf.org\/",
+        "aliases": [
+            "UUPN"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100452197",
+        "name": "Université Aube Nouvelle",
+        "short_name": null,
+        "official_website": "http:\/\/u-auben.com\/",
+        "aliases": [
+            "Aube Nouvelle University",
+            "U-AUBEN",
+            "u-auben.com"
+        ],
+        "latitude": 12.3604444,
+        "longitude": -1.4983889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100452187",
+        "name": "Université Catholique de l'Afrique de l'Ouest, Burkina Faso",
+        "short_name": null,
+        "official_website": "https:\/\/ucao-uub.com",
+        "aliases": [
+            "Catholic University of West Africa, Burkina Faso",
+            "UCAO\/UUB",
+            "Université Catholique de l'Afrique de l'Ouest - Unité Universitaire de Bobo Dioulasso"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q79396645",
+        "name": "Université de Dédougou",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-dedougou.gov.bf\/",
+        "aliases": [
+            "UD",
+            "University of Dédougou"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100452193",
+        "name": "Université de Ouahigouya",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UOHG"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100452185",
+        "name": "Université du Faso",
+        "short_name": null,
+        "official_website": "http:\/\/univ-faso.org\/",
+        "aliases": [
+            "UFA",
+            "University of Faso"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100452190",
+        "name": "Université Libre du Burkina",
+        "short_name": null,
+        "official_website": "http:\/\/ulburkina.org\/",
+        "aliases": [
+            "Free University of Burkina",
+            "ULB"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551817",
+        "name": "Université Nazi Boni",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-bobo.bf\/",
+        "aliases": [
+            "UNB",
+            "Nazi Boni University",
+            "univ-bobo.bf",
+            "univ-bobo.gov.bf"
+        ],
+        "latitude": 11.21,
+        "longitude": -4.419,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551610",
+        "name": "Université Norbert Zongo",
+        "short_name": null,
+        "official_website": "https:\/\/unz.bf\/",
+        "aliases": [
+            "UNZ",
+            "Norbert Zongo University",
+            "Université Norbert-Zongo",
+            "University of Koudougou"
+        ],
+        "latitude": 12.24,
+        "longitude": -2.399,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551467",
+        "name": "Université Ouaga II",
+        "short_name": null,
+        "official_website": "https:\/\/www.uts.bf\/",
+        "aliases": [
+            "UO2",
+            "Université Thomas Sankara",
+            "University of Ouaga II"
+        ],
+        "latitude": 12.4699,
+        "longitude": -1.3464,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100452196",
+        "name": "Université Privée de Ouagadougou",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Private University of Ouagadougou",
+            "UPO"
+        ],
+        "latitude": 12.4123611,
+        "longitude": -1.4625556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551484",
+        "name": "Université Saint Thomas d'Aquin",
+        "short_name": null,
+        "official_website": "http:\/\/www.usta.bf\/",
+        "aliases": [
+            "USTA",
+            "Saint Thomas Aquinas University"
+        ],
+        "latitude": 12.3845,
+        "longitude": -1.4182778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136260240",
+        "name": "Virtual university of Burkina Faso",
+        "short_name": null,
+        "official_website": "https:\/\/uv.bf",
+        "aliases": [
+            "BF-VU"
+        ],
+        "latitude": 12.3085857,
+        "longitude": -1.504798,
+        "type": "university"
+    }
+]

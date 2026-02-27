@@ -1,0 +1,1060 @@
+[
+    {
+        "wikidata_id": "Q16354713",
+        "name": "Alytus College",
+        "short_name": null,
+        "official_website": "http:\/\/www.akolegija.lt\/",
+        "aliases": null,
+        "latitude": 54.399963,
+        "longitude": 24.06759,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q16458989",
+        "name": "Babtai institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 55.0818389,
+        "longitude": 23.7984806,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q21148473",
+        "name": "Baltic-American Biotaxonomy Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30285236",
+        "name": "Center for Physical Sciences and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.ftmc.lt\/en\/",
+        "aliases": [
+            "FTMC"
+        ],
+        "latitude": 54.9172901,
+        "longitude": 23.9064918,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1779338",
+        "name": "College of Social Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.smk.lt\/",
+        "aliases": [
+            "SMK",
+            "SMK University of Applied Social Sciences"
+        ],
+        "latitude": 55.699191,
+        "longitude": 21.135579,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q74538564",
+        "name": "Doctoral Candidates' Association",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16458919",
+        "name": "Ekonomikos institutas (Lietuvos TSR Mokslų akademija)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74537176",
+        "name": "Faculty of Philology, Department of Lithuanian Language",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74541762",
+        "name": "Faculty of Social Sciences at Vytautas Magnus University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12654580",
+        "name": "Fizikos ir matematikos institutas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Lietuvos TSR Mokslų akademija"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1501626",
+        "name": "General Jonas Žemaitis Military Academy of Lithuania",
+        "short_name": null,
+        "official_website": "http:\/\/www.lka.lt\/",
+        "aliases": [
+            "Military Academy of Lithuania"
+        ],
+        "latitude": 54.70234,
+        "longitude": 25.313433,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12655268",
+        "name": "Geologijos ir geografijos institutas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12649082",
+        "name": "Institute of Architecture and Construction",
+        "short_name": null,
+        "official_website": "https:\/\/asi.ktu.edu\/",
+        "aliases": null,
+        "latitude": 54.8969444,
+        "longitude": 23.9558333,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12651278",
+        "name": "Institute of Botany",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "BILAS"
+        ],
+        "latitude": 54.71655,
+        "longitude": 25.184249,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12656737",
+        "name": "Institute of Immunology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 54.7522222,
+        "longitude": 25.2738889,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q15709822",
+        "name": "Institute of Lithuanian Literature and Folklore",
+        "short_name": null,
+        "official_website": "http:\/\/www.llti.lt",
+        "aliases": null,
+        "latitude": 54.695264,
+        "longitude": 25.305689,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q13638216",
+        "name": "Institute of the Lithuanian Language",
+        "short_name": null,
+        "official_website": "http:\/\/www.lki.lt\/",
+        "aliases": null,
+        "latitude": 54.6951,
+        "longitude": 25.3054,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1667287",
+        "name": "International School of Law and Business",
+        "short_name": null,
+        "official_website": "http:\/\/www.islb.eu",
+        "aliases": [
+            "ISLB"
+        ],
+        "latitude": 54.700143,
+        "longitude": 25.220769,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1626754",
+        "name": "ISM University of Management and Economics",
+        "short_name": null,
+        "official_website": "http:\/\/www.ism.lt\/",
+        "aliases": null,
+        "latitude": 54.6752778,
+        "longitude": 25.2875,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16453881",
+        "name": "Joniskelis Ignas Karpis school of agriculture and services",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q13580310",
+        "name": "Kaunas College",
+        "short_name": null,
+        "official_website": "http:\/\/www.kaunokolegija.lt\/",
+        "aliases": [
+            "Kauno Kolegija",
+            "Kauno Kolegija (Kaunas University of Applied Sciences)",
+            "Kauno University of Applied Sciences"
+        ],
+        "latitude": 54.92,
+        "longitude": 23.9844444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12660045",
+        "name": "Kaunas College of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.ktk.lt\/",
+        "aliases": [
+            "KTK",
+            "Kaunas Higher Technical School",
+            "Kaunas University of Applied Engineering",
+            "Kaunas University of Applied Engineering Sciences"
+        ],
+        "latitude": 54.9136111,
+        "longitude": 23.9286111,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1489862",
+        "name": "Kaunas Cultural Centre of Various Nations",
+        "short_name": null,
+        "official_website": "http:\/\/www.minority.lt\/",
+        "aliases": null,
+        "latitude": 54.8988889,
+        "longitude": 23.8930556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15248060",
+        "name": "Kaunas Forestry and Environmental Engineering College",
+        "short_name": null,
+        "official_website": "http:\/\/www.kmaik.lt\/",
+        "aliases": [
+            "Kaunas College of Forestry and Environmental Engineering",
+            "KMAIK"
+        ],
+        "latitude": 54.8561111,
+        "longitude": 24.0458333,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1353563",
+        "name": "Kaunas Priest Seminary",
+        "short_name": null,
+        "official_website": "http:\/\/kks.lcn.lt\/index.php",
+        "aliases": null,
+        "latitude": 54.897,
+        "longitude": 23.884,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q132734684",
+        "name": "Kaunas State Vytautas Magnus University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Kaunas National Vytautas Magnus University",
+            "Kaunas State University",
+            "Kaunas University",
+            "Univeristy of Lithuania",
+            "University of Kaunas",
+            "University of Lithuania in Kaunas",
+            "Vytautas Magnus University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q625158",
+        "name": "Kaunas University of Technology",
+        "short_name": null,
+        "official_website": "https:\/\/ktu.edu\/",
+        "aliases": [
+            "Kaunas Antanas Sniečkus Polytechnic Institute",
+            "Kaunas Polytechnic Institute"
+        ],
+        "latitude": 54.8988889,
+        "longitude": 23.9125,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q565119",
+        "name": "Kauno Meno mokykla",
+        "short_name": null,
+        "official_website": "http:\/\/www.jvmf.lt\/",
+        "aliases": null,
+        "latitude": 54.9008333,
+        "longitude": 23.9005556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1737499",
+        "name": "Kazimieras Simonavičius University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ksu.lt",
+        "aliases": null,
+        "latitude": 54.6702778,
+        "longitude": 25.2627778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103154262",
+        "name": "Kazimiero Simonavičiaus universitetas Ekonomika",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103154270",
+        "name": "Kazimiero Simonavičiaus universitetas Integruota kūrybos komunikacija",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103154279",
+        "name": "Kazimiero Simonavičiaus universitetas Politikos mokslai",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103154286",
+        "name": "Kazimiero Simonavičiaus universitetas Sociologija",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103154311",
+        "name": "Kazimiero Simonavičiaus universitetas Viešasis administravimas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q171932",
+        "name": "Klaipeda State University of Applied Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.kvk.lt\/",
+        "aliases": [
+            "Klaipėdos valstybinė kolegija",
+            "KVK"
+        ],
+        "latitude": 55.72627,
+        "longitude": 21.17135,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q175686",
+        "name": "Klaipėda Pedagogical Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 55.71948,
+        "longitude": 21.13461,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q178200",
+        "name": "Klaipėda University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ku.lt\/",
+        "aliases": [
+            "Klaipėdos Universitetas"
+        ],
+        "latitude": 55.7245833,
+        "longitude": 21.1237778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12661027",
+        "name": "Kolping College",
+        "short_name": null,
+        "official_website": "http:\/\/kolegija.kolping.lt\/",
+        "aliases": [
+            "Kolping University of Applied Sciences",
+            "Kolpingo kolegija"
+        ],
+        "latitude": 54.898088,
+        "longitude": 23.887088,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1584915",
+        "name": "Law Institute of Lithuania",
+        "short_name": null,
+        "official_website": "http:\/\/www.teise.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1667494",
+        "name": "LCC International University",
+        "short_name": null,
+        "official_website": "http:\/\/www.lcc.lt\/",
+        "aliases": null,
+        "latitude": 55.7311111,
+        "longitude": 21.1333333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16458807",
+        "name": "Lietuvos bibliografijos institutas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12663374",
+        "name": "Lietuvos kultūros tyrimų institutas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1787936",
+        "name": "Lithuanian Academy of Music and Theatre",
+        "short_name": null,
+        "official_website": "http:\/\/lmta.lt",
+        "aliases": null,
+        "latitude": 54.6885833,
+        "longitude": 25.26975,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12663298",
+        "name": "Lithuanian Energy Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.lei.lt\/",
+        "aliases": [
+            "LEI",
+            "Lietuvos energetikos institutas"
+        ],
+        "latitude": 54.895,
+        "longitude": 23.9541667,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6648382",
+        "name": "Lithuanian Institute of History",
+        "short_name": null,
+        "official_website": "http:\/\/www.istorija.lt",
+        "aliases": null,
+        "latitude": 54.6902287,
+        "longitude": 25.2661507,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2264750",
+        "name": "Lithuanian Maritime Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.lajm.lt\/",
+        "aliases": [
+            "LAJM",
+            "Lithuanian Maritime College"
+        ],
+        "latitude": 55.71651,
+        "longitude": 21.12456,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q826358",
+        "name": "Lithuanian Sports University",
+        "short_name": null,
+        "official_website": "http:\/\/www.lsu.lt\/",
+        "aliases": [
+            "Lietuvos Sporto Universitetas",
+            "Lithuanian Academy of Physical Education"
+        ],
+        "latitude": 54.8983333,
+        "longitude": 23.9344444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q56860",
+        "name": "Lithuanian University of Educational Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.leu.lt\/",
+        "aliases": [
+            "Lietuvos edukologijos universitetas",
+            "Vilniaus pedagoginis universitetas",
+            "Lithuanian Pedagogical University"
+        ],
+        "latitude": 54.6964167,
+        "longitude": 25.2624444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2092640",
+        "name": "Lithuanian University of Health Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/lsmu.lt\/",
+        "aliases": null,
+        "latitude": 54.8941667,
+        "longitude": 23.9163889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1779334",
+        "name": "Marijampole College",
+        "short_name": null,
+        "official_website": "http:\/\/www.marko.lt\/",
+        "aliases": null,
+        "latitude": 54.53281,
+        "longitude": 23.350255,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12664739",
+        "name": "Matematikos ir informatikos institutas (Lithuania)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1247342",
+        "name": "Mykolas Romeris University",
+        "short_name": null,
+        "official_website": "https:\/\/www.mruni.eu\/",
+        "aliases": [
+            "Mykolo Romerio universitetas"
+        ],
+        "latitude": 54.7338889,
+        "longitude": 25.2588889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15115554",
+        "name": "National Cancer Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.nvi.lt\/",
+        "aliases": [
+            "Institute of Oncology"
+        ],
+        "latitude": 54.751818,
+        "longitude": 25.282175,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16478151",
+        "name": "Northern Lithuania College",
+        "short_name": null,
+        "official_website": "http:\/\/www.slk.lt\/",
+        "aliases": null,
+        "latitude": 55.9108333,
+        "longitude": 23.2741667,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q15859710",
+        "name": "Panevėžys College",
+        "short_name": null,
+        "official_website": "http:\/\/www.panko.lt\/",
+        "aliases": null,
+        "latitude": 55.7275,
+        "longitude": 24.3616667,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q16468849",
+        "name": "Partijos istorijos institutas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 54.6871555,
+        "longitude": 25.2796514,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q9366817",
+        "name": "Polish University in Vilnius",
+        "short_name": null,
+        "official_website": "http:\/\/www.uspv.lt",
+        "aliases": null,
+        "latitude": 54.6741,
+        "longitude": 25.2784,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12653934",
+        "name": "Q12653934",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12654582",
+        "name": "Q12654582",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12654878",
+        "name": "Q12654878",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12656341",
+        "name": "Q12656341",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12663488",
+        "name": "Q12663488",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q135465643",
+        "name": "Q135465643",
+        "short_name": null,
+        "official_website": "https:\/\/www.hi.lt\/",
+        "aliases": null,
+        "latitude": 54.67875,
+        "longitude": 25.285733,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16443137",
+        "name": "Q16443137",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16455766",
+        "name": "Q16455766",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 54.9177778,
+        "longitude": 23.9961111,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16458553",
+        "name": "Q16458553",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16458554",
+        "name": "Q16458554",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16459036",
+        "name": "Q16459036",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16459049",
+        "name": "Q16459049",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16464920",
+        "name": "Q16464920",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18412215",
+        "name": "Q18412215",
+        "short_name": null,
+        "official_website": "http:\/\/www.vtdko.lt\/gtf-naujienos",
+        "aliases": null,
+        "latitude": 54.70581,
+        "longitude": 25.31019,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25494690",
+        "name": "Q25494690",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12663398",
+        "name": "Research Council of Lithuania",
+        "short_name": null,
+        "official_website": "http:\/\/www.lmt.lt\/",
+        "aliases": [
+            "LMT",
+            "Lietuvos Mokslo Taryba",
+            "lmt.lt"
+        ],
+        "latitude": 54.6871555,
+        "longitude": 25.2796514,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12670505",
+        "name": "Semiconductor Physics Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.pfi.lt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16472825",
+        "name": "Socialinių tyrimų institutas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528376",
+        "name": "Taras Shevchenko National University of Kyiv; Vilnius University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1967259",
+        "name": "Tarbut",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q866107",
+        "name": "Telšiai Bishop Vincentas Borisevičius Priest Seminary",
+        "short_name": null,
+        "official_website": "http:\/\/www.tks.lt\/",
+        "aliases": null,
+        "latitude": 55.982694,
+        "longitude": 22.245347,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1431447",
+        "name": "Utenos kolegija Higher Education Institution",
+        "short_name": null,
+        "official_website": "https:\/\/www.utenos-kolegija.lt\/",
+        "aliases": [
+            "Utena College",
+            "Utena University of Applied Sciences"
+        ],
+        "latitude": 55.4991944,
+        "longitude": 25.6013889,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q119132040",
+        "name": "Vilniaus mažasis teatras",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Vilnius Small Theater"
+        ],
+        "latitude": 54.68725,
+        "longitude": 25.27712,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1476319",
+        "name": "Vilnius Academy of Art",
+        "short_name": null,
+        "official_website": "http:\/\/www.vda.lt\/",
+        "aliases": [
+            "Vilnius Academy of Arts"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12677532",
+        "name": "Vilnius College",
+        "short_name": null,
+        "official_website": "https:\/\/www.viko.lt\/",
+        "aliases": [
+            "College of Vilnius"
+        ],
+        "latitude": 54.696111,
+        "longitude": 25.256944,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12677534",
+        "name": "Vilnius Cooperative College",
+        "short_name": null,
+        "official_website": "https:\/\/www.vkk.lt\/",
+        "aliases": null,
+        "latitude": 54.697222,
+        "longitude": 25.275,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q389852",
+        "name": "Vilnius Gediminas Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.vgtu.lt\/",
+        "aliases": [
+            "VGTU",
+            "Vilniaus Gedimino Technikos Universiteta",
+            "Vilnius Tech"
+        ],
+        "latitude": 54.7222222,
+        "longitude": 25.3358333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74544931",
+        "name": "Vilnius Gediminas Technical University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1355626",
+        "name": "Vilnius St. Joseph Seminary",
+        "short_name": null,
+        "official_website": "https:\/\/www.seminarija.lt\/",
+        "aliases": [
+            "Vilniaus šv. Juozapo kunigų seminarija"
+        ],
+        "latitude": 54.7381,
+        "longitude": 25.2786,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q658192",
+        "name": "Vilnius University",
+        "short_name": null,
+        "official_website": "https:\/\/www.vu.lt\/",
+        "aliases": [
+            "Universitas Vilnensis",
+            "Vilniaus universitetas",
+            "Vilniaus Universitetas",
+            "vu.lt"
+        ],
+        "latitude": 54.6825,
+        "longitude": 25.2872222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12677592",
+        "name": "Vilnius University Business School",
+        "short_name": null,
+        "official_website": "https:\/\/www.vm.vu.lt\/",
+        "aliases": null,
+        "latitude": 54.725,
+        "longitude": 25.3364,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q14634723",
+        "name": "Vilnius University Faculty of Philology",
+        "short_name": null,
+        "official_website": "https:\/\/www.flf.vu.lt\/",
+        "aliases": [
+            "Vilnius University, Faculty of Philology"
+        ],
+        "latitude": 54.6830828,
+        "longitude": 25.2871832,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q130745363",
+        "name": "Vilnius University Institute of Data Science and Digital Technologies",
+        "short_name": null,
+        "official_website": "https:\/\/www.mii.lt\/",
+        "aliases": [
+            "Institute of Data Science and Digital Technologies",
+            "Institute of Data Science and Digital technologies, Vilnius University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1756541",
+        "name": "Vytautas Magnus University",
+        "short_name": null,
+        "official_website": "https:\/\/www.vdu.lt",
+        "aliases": [
+            "vdu.lt",
+            "Vytautas Magnus University in Kaunas",
+            "Vytauto Didžiojo Universitetas"
+        ],
+        "latitude": 54.8983333,
+        "longitude": 23.9138889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1479914",
+        "name": "Vytautas Magnus University Agriculture Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.asu.lt\/",
+        "aliases": [
+            "Lithuanian Academy of Agriculture",
+            "Aleksandras Stulginskis University",
+            "Lithuanian University of Agriculture"
+        ],
+        "latitude": 54.8938611,
+        "longitude": 23.8353056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1263211",
+        "name": "Zemaitija College",
+        "short_name": null,
+        "official_website": "http:\/\/www.zemko.lt\/",
+        "aliases": null,
+        "latitude": 55.729644,
+        "longitude": 21.928911,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q2324588",
+        "name": "Šiauliai State College",
+        "short_name": null,
+        "official_website": "http:\/\/www.svako.lt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1784353",
+        "name": "Šiauliai University",
+        "short_name": null,
+        "official_website": "http:\/\/www.su.lt\/en",
+        "aliases": null,
+        "latitude": 55.9264167,
+        "longitude": 23.3244722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25303227",
+        "name": "Žiburėlis",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

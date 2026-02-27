@@ -1,0 +1,3952 @@
+[
+    {
+        "wikidata_id": "Q4663565",
+        "name": "Abasyn University",
+        "short_name": null,
+        "official_website": "http:\/\/www.abasyn.edu.pk\/",
+        "aliases": [
+            "Abasyn University"
+        ],
+        "latitude": 34.0353,
+        "longitude": 71.589,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23020566",
+        "name": "Abbottabad University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.aust.edu.pk\/",
+        "aliases": [
+            "AUST",
+            "Abbottabad University of Science and Technology (AUST)"
+        ],
+        "latitude": 34.06816,
+        "longitude": 73.14945,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16057940",
+        "name": "Abdul Wali Khan University Mardan",
+        "short_name": null,
+        "official_website": "http:\/\/www.awkum.edu.pk",
+        "aliases": [
+            "AWKUM",
+            "Abdul Wali Khan University"
+        ],
+        "latitude": 34.1509,
+        "longitude": 72.0474,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4666322",
+        "name": "Abdus Salam School of Mathematics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.5131,
+        "longitude": 74.3149,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116385893",
+        "name": "ABSA Research Group",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ABSA School for the Deaf"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4690953",
+        "name": "Aga Khan University",
+        "short_name": null,
+        "official_website": "http:\/\/www.aku.edu\/",
+        "aliases": null,
+        "latitude": 24.8928,
+        "longitude": 67.0747,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013808",
+        "name": "Aga Khan University Department of Community Health Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013809",
+        "name": "Aga Khan University Department of Paediatrics and Child Health",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4696343",
+        "name": "Ahsan-Ul-Uloom",
+        "short_name": null,
+        "official_website": "http:\/\/www.ahsanululoom.com",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4698242",
+        "name": "Air University",
+        "short_name": null,
+        "official_website": "https:\/\/au.edu.pk",
+        "aliases": [
+            "Air University Pakistan"
+        ],
+        "latitude": 33.7138,
+        "longitude": 73.0247,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115751568",
+        "name": "Al-Ghazali University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4702454",
+        "name": "Al-Hamd Educational Society",
+        "short_name": null,
+        "official_website": "http:\/\/www.alhamd.org.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q48728123",
+        "name": "Al-Hamd Islamic University",
+        "short_name": null,
+        "official_website": "http:\/\/www.aiu.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16250450",
+        "name": "Al-Khair University",
+        "short_name": null,
+        "official_website": "http:\/\/www.alkhair.edu.pk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q96371650",
+        "name": "Al-Qadir University",
+        "short_name": null,
+        "official_website": "https:\/\/alqadir.edu.pk\/",
+        "aliases": null,
+        "latitude": 33.0960278,
+        "longitude": 73.4441694,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4721857",
+        "name": "Alfalah Institute of Banking & Finance, BZU",
+        "short_name": null,
+        "official_website": "http:\/\/www.ibfbzu.edu.pk",
+        "aliases": null,
+        "latitude": 30.2719,
+        "longitude": 71.5055,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19599644",
+        "name": "Ali Institute of Education",
+        "short_name": null,
+        "official_website": "http:\/\/www.aie.edu.pk\/",
+        "aliases": null,
+        "latitude": 31.4863,
+        "longitude": 74.3386,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3694529",
+        "name": "Allama Iqbal Open University",
+        "short_name": null,
+        "official_website": "https:\/\/www.aiou.edu.pk\/",
+        "aliases": [
+            "AIOU",
+            "Allama iqbal open university"
+        ],
+        "latitude": 33.6828532,
+        "longitude": 73.0572516,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12052930",
+        "name": "Applied Economics Research Centre",
+        "short_name": null,
+        "official_website": "http:\/\/www.aerc.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q96678439",
+        "name": "Arabic Open University",
+        "short_name": null,
+        "official_website": "http:\/\/arabicopenuniversity.com\/",
+        "aliases": [
+            "ALOU",
+            "Arabic Language Open University",
+            "Arabic Open University Pakistan"
+        ],
+        "latitude": 24.8887845,
+        "longitude": 67.0391429,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4790314",
+        "name": "Arid Agriculture University",
+        "short_name": null,
+        "official_website": "http:\/\/uaar.edu.pk\/",
+        "aliases": [
+            "Pir Mehr Ali Shah Arid Agriculture University",
+            "PMAS-Arid University"
+        ],
+        "latitude": 33.647,
+        "longitude": 73.083,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013844",
+        "name": "Arid Agriculture University Department of Economics and Agricultural Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4794214",
+        "name": "Army Public College of Management Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.apcoms.edu.pk\/",
+        "aliases": null,
+        "latitude": 33.57948,
+        "longitude": 73.06106,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4831776",
+        "name": "Ayub School of Nursing",
+        "short_name": null,
+        "official_website": "http:\/\/www.ayubmed.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18385303",
+        "name": "Azad Jammu and Kashmir Medical College",
+        "short_name": null,
+        "official_website": "http:\/\/ajkmc.edu.pk\/",
+        "aliases": null,
+        "latitude": 34.21,
+        "longitude": 73.28,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3696301",
+        "name": "Baba Guru Nanak University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Baba Guru Nanak University, Nankana Sahib"
+        ],
+        "latitude": 31.49403,
+        "longitude": 73.72513,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19456983",
+        "name": "Bacha Khan University",
+        "short_name": null,
+        "official_website": "http:\/\/bkuc.edu.pk\/",
+        "aliases": [
+            "Bacha Khan University Charsadda",
+            "Bacha Khan University, Charsadda",
+            "BKUC"
+        ],
+        "latitude": 34.1369167,
+        "longitude": 71.83825,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4842499",
+        "name": "Bahauddin Zakariya University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bzu.edu.pk",
+        "aliases": null,
+        "latitude": 30.2636111,
+        "longitude": 71.5097222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74553675",
+        "name": "Bahauddin Zakariya University, Institute of Food Science and Nutrition",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529268",
+        "name": "Bahauddin Zakariya University, Islamic Research Centre",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4842887",
+        "name": "Bahria College Islamabad",
+        "short_name": null,
+        "official_website": "http:\/\/bui.edu.pk\/",
+        "aliases": null,
+        "latitude": 33.7211083,
+        "longitude": 73.0334389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19882211",
+        "name": "Bahria College Karsaz",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "BCKK"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q4842886",
+        "name": "Bahria College, Karachi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 24.8843306,
+        "longitude": 67.0988583,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4852450",
+        "name": "Balochistan Agriculture College",
+        "short_name": null,
+        "official_website": "http:\/\/www.bac.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124034490",
+        "name": "Balochistan Study Centre",
+        "short_name": null,
+        "official_website": "http:\/\/web.uob.edu.pk\/uob\/departments\/Balochistan-Study-Centre\/",
+        "aliases": [
+            "University of Balochistan Balochistan Study Centre",
+            "University of Balochistan. Balochistan Study Centre"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4852460",
+        "name": "Balochistan University of Engineering and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.buetk.edu.pk\/",
+        "aliases": [
+            "Balochistan University of Engineering & Technology"
+        ],
+        "latitude": 27.8203,
+        "longitude": 66.6272,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4852459",
+        "name": "Balochistan University of Information Technology, Engineering and Management Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.buitms.edu.pk",
+        "aliases": [
+            "Balochistan University of Information Technology, Engineering & Management Sciences (BUITEMS)"
+        ],
+        "latitude": 30.26886,
+        "longitude": 66.94413,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4857766",
+        "name": "Baqai Medical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.baqai.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q26258554",
+        "name": "Bashir Uddin Adarsha School and College",
+        "short_name": null,
+        "official_website": "http:\/\/buasc.edu.bd",
+        "aliases": null,
+        "latitude": 23.7933,
+        "longitude": 90.3584,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q4876011",
+        "name": "Beaconhouse National University",
+        "short_name": null,
+        "official_website": "https:\/\/www.bnu.edu.pk\/",
+        "aliases": null,
+        "latitude": 31.36477,
+        "longitude": 74.21613,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q64876640",
+        "name": "Begum Nusrat Bhutto Women University",
+        "short_name": null,
+        "official_website": "https:\/\/bnbwu.edu.pk\/",
+        "aliases": null,
+        "latitude": 27.663889,
+        "longitude": 68.924222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135517627",
+        "name": "Benazir Bhutto Shaheed Institute of Management Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4886877",
+        "name": "Benazir Bhutto Shaheed University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bbsul.edu.pk\/",
+        "aliases": [
+            "Benazir Bhutto Shaheed University Lyari"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q50296595",
+        "name": "Bilquis Postgraduate College For Women",
+        "short_name": null,
+        "official_website": "http:\/\/www.bcoew.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4928241",
+        "name": "Bloomfield Hall Schools",
+        "short_name": null,
+        "official_website": "http:\/\/www.bloomfieldhall.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5016403",
+        "name": "Cadet College Fateh Jang",
+        "short_name": null,
+        "official_website": "http:\/\/www.ccf.edu.pk\/",
+        "aliases": null,
+        "latitude": 33.5621,
+        "longitude": 72.5807,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q16965299",
+        "name": "Cadet College Rawalpindi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5010211",
+        "name": "CECOS University of IT and Emerging Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/www.cecos.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5059500",
+        "name": "Center for Applied and Molecular Biology",
+        "short_name": null,
+        "official_website": "http:\/\/www.cemb.edu.pk\/",
+        "aliases": null,
+        "latitude": 31.4778,
+        "longitude": 74.2622,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q113303441",
+        "name": "Center for Language Engineering",
+        "short_name": null,
+        "official_website": "https:\/\/cle.org.pk\/urd",
+        "aliases": [
+            "CLE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527113",
+        "name": "Center for Sustainability Research and Consultancy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.1979793,
+        "longitude": 71.4724978,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5060660",
+        "name": "Central Cotton Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.ccrim.org.pk",
+        "aliases": null,
+        "latitude": 30.1458333,
+        "longitude": 71.4366667,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5062453",
+        "name": "Centre for High Energy Physics",
+        "short_name": null,
+        "official_website": "http:\/\/www.chep-pu.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74539679",
+        "name": "Centre of Excellence in Molecular Biology (CEMB)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5091022",
+        "name": "Chenab College Jhang",
+        "short_name": null,
+        "official_website": "http:\/\/www.chenab.edu.pk",
+        "aliases": [
+            "CCJ"
+        ],
+        "latitude": 31.3377778,
+        "longitude": 72.3725,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q74540122",
+        "name": "Chunian Institute of Management Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q15983181",
+        "name": "City University of Science and Information Technology, Peshawar",
+        "short_name": null,
+        "official_website": "http:\/\/www.cityuniversity.edu.pk\/",
+        "aliases": [
+            "City University of Science and Information Technology"
+        ],
+        "latitude": 34.037,
+        "longitude": 71.619,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5146611",
+        "name": "College of Aeronautical Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/www.nust.edu.pk\/INSTITUTIONS\/Colleges\/CAE",
+        "aliases": [
+            "College of Aeronautical Engineering, Guwahati"
+        ],
+        "latitude": 34.0601,
+        "longitude": 71.9798,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5146800",
+        "name": "College of Physicians & Surgeons Pakistan",
+        "short_name": null,
+        "official_website": "http:\/\/www.cpsp.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5013372",
+        "name": "COMSATS University Islamabad",
+        "short_name": null,
+        "official_website": "https:\/\/www.comsats.edu.pk",
+        "aliases": [
+            "COMSATS Institute of Information Technology",
+            "COMSATS University, Islamabad"
+        ],
+        "latitude": 33.6518,
+        "longitude": 73.1566,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5203665",
+        "name": "D. J. Science College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "D. J. Sindh Government Science College",
+            "Deevan Dayaram Jethamal Sindh Government Science College"
+        ],
+        "latitude": 24.8534961,
+        "longitude": 67.0139455,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5207381",
+        "name": "Daanish Schools",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 33.7211,
+        "longitude": 73.0334,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30674874",
+        "name": "Darul Uloom Amjadia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 24.8871105,
+        "longitude": 67.0620919,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6750952",
+        "name": "Dawood College of Engineering and Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 24.8788,
+        "longitude": 67.0475,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q15983461",
+        "name": "Dawood University of Engineering and Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Dawood University of Engineering & Technology"
+        ],
+        "latitude": 24.8786,
+        "longitude": 67.0474,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530643",
+        "name": "Department of Islamic & Religious Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530597",
+        "name": "department of islamic studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5346065",
+        "name": "Edwardes College Peshawar",
+        "short_name": null,
+        "official_website": "http:\/\/www.edwardes.edu.pk\/",
+        "aliases": [
+            "Edwardes College"
+        ],
+        "latitude": 34.0063889,
+        "longitude": 71.5513889,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q136564989",
+        "name": "Emaan Institute of Management and Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/emaan.edu.pk\/",
+        "aliases": [
+            "EIMS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74539600",
+        "name": "Faculty of Commerce",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5434816",
+        "name": "Faran Model College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5437847",
+        "name": "Fatima Jinnah Medical College",
+        "short_name": null,
+        "official_website": "http:\/\/www.fjmu.edu.pk",
+        "aliases": [
+            "Fatima Jinnah Medical University, Lahore"
+        ],
+        "latitude": 31.555,
+        "longitude": 74.3197,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5437851",
+        "name": "Fatima Jinnah Women University",
+        "short_name": null,
+        "official_website": "http:\/\/fjwu.edu.pk\/",
+        "aliases": [
+            "Fatima Jinnah Women University, Rawalpindi"
+        ],
+        "latitude": 33.5864,
+        "longitude": 73.0645,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5437846",
+        "name": "Fatima Jinnah Women University Sialkot Campus",
+        "short_name": null,
+        "official_website": "http:\/\/www.fjwu.edu.pk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5439139",
+        "name": "Fazaia Inter College, Lahore",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1030191",
+        "name": "Federal Urdu University",
+        "short_name": null,
+        "official_website": "http:\/\/www.fuuast.edu.pk",
+        "aliases": [
+            "Federal Urdu University of Arts, Science and Technology",
+            "FUUAST"
+        ],
+        "latitude": 24.912,
+        "longitude": 67.0907,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3695416",
+        "name": "Forman Christian College",
+        "short_name": null,
+        "official_website": "http:\/\/www.fccollege.edu.pk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5473183",
+        "name": "Forward Degree College",
+        "short_name": null,
+        "official_website": "http:\/\/forwarddegreecollege.tk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5474367",
+        "name": "Foundation University Islamabad",
+        "short_name": null,
+        "official_website": "http:\/\/www.fui.edu.pk\/",
+        "aliases": [
+            "FUI",
+            "Foundation University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112724415",
+        "name": "Gambat Institute of Medical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17053532",
+        "name": "Ghazi University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Ghazi University, Dera Ghazi Khan"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5557604",
+        "name": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.giki.edu.pk\/",
+        "aliases": [
+            "Ghulam Ishaq Khan Institute of Engineering Sciences & Technology"
+        ],
+        "latitude": 34.0697222,
+        "longitude": 72.6438889,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5513480",
+        "name": "GIFT University",
+        "short_name": null,
+        "official_website": "https:\/\/www.gift.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q119821192",
+        "name": "Global Change Impact Studies Centre",
+        "short_name": null,
+        "official_website": "http:\/\/www.gcisc.org.pk\/",
+        "aliases": [
+            "GCISC",
+            "Global Climate-Change Impact Studies Centre"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5513841",
+        "name": "GM College Faisalabad",
+        "short_name": null,
+        "official_website": "http:\/\/gmc.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5585007",
+        "name": "Gordon College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Gordon College Rawalpindi"
+        ],
+        "latitude": 33.609186,
+        "longitude": 73.062292,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5588720",
+        "name": "Government College Asghar Mall Rawalpindi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 33.629159,
+        "longitude": 73.05848,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5588728",
+        "name": "Government College for Men, Nazimabad",
+        "short_name": null,
+        "official_website": "http:\/\/www.gcmnk.edu.pk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5588735",
+        "name": "Government College for Women Dhoke Kala Khan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27963321",
+        "name": "Government College Gujranwala",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5588758",
+        "name": "Government College of Science, Lahore",
+        "short_name": null,
+        "official_website": "http:\/\/www.gcslahore.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5588762",
+        "name": "Government College of Technology, Faisalabad",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.3911,
+        "longitude": 73.0605,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5588763",
+        "name": "Government College of Technology, Rasul",
+        "short_name": null,
+        "official_website": "https:\/\/putrasul.edu.pk\/",
+        "aliases": [
+            "GCT Rasul"
+        ],
+        "latitude": 32.6768,
+        "longitude": 73.5631,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q126726",
+        "name": "Government College University",
+        "short_name": null,
+        "official_website": "http:\/\/www.gcu.edu.pk\/",
+        "aliases": [
+            "GCU",
+            "GC University Lahore",
+            "Government College University, Lahore"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q48733104",
+        "name": "Government College University Hyderabad",
+        "short_name": null,
+        "official_website": "http:\/\/gcuh.edu.pk",
+        "aliases": [
+            "Government College Hyderabad",
+            "GCUH"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5588732",
+        "name": "Government College University, Faisalabad",
+        "short_name": null,
+        "official_website": "http:\/\/gcuf.edu.pk\/",
+        "aliases": null,
+        "latitude": 31.4149167,
+        "longitude": 73.0693778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19892759",
+        "name": "Government College Women University (Faisalabad)",
+        "short_name": null,
+        "official_website": "https:\/\/gcwuf.edu.pk\/",
+        "aliases": [
+            "Government College Women University",
+            "Government College Women University, Faisalabad"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19892756",
+        "name": "Government College Women University (Sialkot)",
+        "short_name": null,
+        "official_website": "http:\/\/www.gcwus.edu.pk",
+        "aliases": [
+            "Government College for Women University, Sialkot"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5588781",
+        "name": "Government Degree College Attock",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5588783",
+        "name": "Government Degree College Jhelum",
+        "short_name": null,
+        "official_website": "https:\/\/pujc.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5588785",
+        "name": "Government Degree College Memon Goth",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5588787",
+        "name": "Government Degree College Shakargarh",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16246841",
+        "name": "Government Degree Girls College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106778650",
+        "name": "Government Islamia Graduate College Sangla Hill",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 31.7062301,
+        "longitude": 73.3845443,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17053835",
+        "name": "Government Khawaja Farid College",
+        "short_name": null,
+        "official_website": "http:\/\/kfgc.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5588964",
+        "name": "Government M.A.O College Lahore",
+        "short_name": null,
+        "official_website": "http:\/\/menn.tk\/maolhr",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5589066",
+        "name": "Government Post Graduate College Sahiwal",
+        "short_name": null,
+        "official_website": "http:\/\/gpgcs.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108607648",
+        "name": "Government Post Graduate College, Abbottabad",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 34.1472,
+        "longitude": 73.2205,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5589062",
+        "name": "Government Post Graduate College, Swabi",
+        "short_name": null,
+        "official_website": "http:\/\/www.admission.hed.gkp.pk\/college.php?college_id=37",
+        "aliases": null,
+        "latitude": 34.1616389,
+        "longitude": 72.4118611,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5589069",
+        "name": "Government Premier College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19892762",
+        "name": "Government Sadiq College Women University",
+        "short_name": null,
+        "official_website": "http:\/\/www.gscwu.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q85764192",
+        "name": "Government Zamindar PG College, Gujrat",
+        "short_name": null,
+        "official_website": "https:\/\/zamindarcollege.edu.pk\/",
+        "aliases": [
+            "Zamindar College",
+            "زمیندار کالج گجرات"
+        ],
+        "latitude": 32.601699,
+        "longitude": 74.077852,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q136399990",
+        "name": "Govt Degree College for Boys, Kharian",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "گورنمنٹ پوسٹ گریجویٹ کالج کھاریاں"
+        ],
+        "latitude": 32.8172222,
+        "longitude": 73.8588889,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q67189845",
+        "name": "Govt Degree College Totalai",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "GDC Totalai",
+            "Govt Degree College Totalai Buner"
+        ],
+        "latitude": 34.1947178,
+        "longitude": 72.4990569,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q108818990",
+        "name": "Govt PG College, Okara",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "GC Okara"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q110942597",
+        "name": "Govt. Degree College Muzaffarabad",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Degree College",
+            "Degree College Muzaffarabad",
+            "Govt. Degree College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5604896",
+        "name": "Greenwich University",
+        "short_name": null,
+        "official_website": "http:\/\/greenwichuniversity.edu.pk\/",
+        "aliases": null,
+        "latitude": 24.7877907,
+        "longitude": 67.0483606,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18712303",
+        "name": "Habib University",
+        "short_name": null,
+        "official_website": "http:\/\/www.habib.edu.pk\/",
+        "aliases": null,
+        "latitude": 24.9051,
+        "longitude": 67.1377,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5640282",
+        "name": "Hajvery University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hup.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3694582",
+        "name": "Hazara University",
+        "short_name": "HU",
+        "official_website": "http:\/\/hu.edu.pk\/",
+        "aliases": [
+            "HU"
+        ],
+        "latitude": 34.42,
+        "longitude": 73.25,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013829",
+        "name": "Hazara University Department of Psychology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5629800",
+        "name": "HITEC University",
+        "short_name": null,
+        "official_website": "https:\/\/www.hitecuni.edu.pk\/",
+        "aliases": null,
+        "latitude": 33.725089,
+        "longitude": 72.819829,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19891756",
+        "name": "Hyderabad Institute of Arts, Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.hiast.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5984333",
+        "name": "Ibn. Imam Degree Science College",
+        "short_name": null,
+        "official_website": "http:\/\/www.isc.edu.pk\/",
+        "aliases": null,
+        "latitude": 32.6305,
+        "longitude": 74.1846,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28834139",
+        "name": "IEEE EMBS-MUET Chapter",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 25.408098,
+        "longitude": 68.260267,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4919440",
+        "name": "ILMA University",
+        "short_name": null,
+        "official_website": "https:\/\/ilmauniversity.edu.pk\/",
+        "aliases": [
+            "IBT",
+            "Ilma University",
+            "Institute of Business and Technology"
+        ],
+        "latitude": 24.8087,
+        "longitude": 67.121,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6006497",
+        "name": "Imperial College of Business Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.imperial.edu.pk\/",
+        "aliases": null,
+        "latitude": 31.3986,
+        "longitude": 74.1696,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15983147",
+        "name": "IMSciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.imsciences.edu.pk\/",
+        "aliases": [
+            "Institute Of Management Sciences, Peshawar, Pakistan"
+        ],
+        "latitude": 33.9581667,
+        "longitude": 71.4166111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6027415",
+        "name": "Indus University",
+        "short_name": null,
+        "official_website": "http:\/\/www.indus.edu.pk\/",
+        "aliases": [
+            "Indus Institute of Higher Education"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6027449",
+        "name": "Indus Valley School of Art and Architecture",
+        "short_name": null,
+        "official_website": "http:\/\/www.indusvalley.edu.pk\/",
+        "aliases": null,
+        "latitude": 24.8118,
+        "longitude": 67.0158,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19892765",
+        "name": "Information Technology University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ITU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6039913",
+        "name": "Institute of Bankers Pakistan",
+        "short_name": null,
+        "official_website": "http:\/\/www.ibp.org.pk\/",
+        "aliases": null,
+        "latitude": 24.8436154,
+        "longitude": 67.0187594,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6040152",
+        "name": "Institute of Corporate Secretaries of Pakistan",
+        "short_name": null,
+        "official_website": "http:\/\/www.icsp.org.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6040293",
+        "name": "Institute of Engineering and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.iet.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17067857",
+        "name": "Institute of Geographical Information Systems",
+        "short_name": null,
+        "official_website": "http:\/\/www.igis.nust.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6040857",
+        "name": "Institute of Sindhology",
+        "short_name": null,
+        "official_website": "http:\/\/www.sindhology.com.pk\/Index.htm",
+        "aliases": [
+            "Sindhi Academy"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74555360",
+        "name": "Institute of Soil & Environmental Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18351696",
+        "name": "Institute of Southern Punjab Multan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q13138872",
+        "name": "Institute of Space Technology",
+        "short_name": "IST",
+        "official_website": "https:\/\/ist.edu.pk",
+        "aliases": [
+            "IST",
+            "Institute of Space Technology (IST)",
+            "Islamabad Institute of Space Technology"
+        ],
+        "latitude": 33.5196908,
+        "longitude": 73.177541,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3918518",
+        "name": "International Islamic University Islamabad",
+        "short_name": "IIUI",
+        "official_website": "http:\/\/www.iiu.edu.pk\/",
+        "aliases": [
+            "IIUI",
+            "IIU Islamabad",
+            "International Islamic University"
+        ],
+        "latitude": 33.6567306,
+        "longitude": 73.0247611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17067883",
+        "name": "IQRA National University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1030866",
+        "name": "Iqra University",
+        "short_name": null,
+        "official_website": "http:\/\/www.iqra.edu.pk\/",
+        "aliases": [
+            "Asian Management Institute"
+        ],
+        "latitude": 33.670559,
+        "longitude": 73.0440866,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q99285580",
+        "name": "Iqra University - Islamabad Campus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6082141",
+        "name": "Islamia College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q3695156",
+        "name": "Islamia College University",
+        "short_name": null,
+        "official_website": "https:\/\/www.icp.edu.pk\/",
+        "aliases": [
+            "ICU",
+            "Islamia College Peshawar"
+        ],
+        "latitude": 33.9995833,
+        "longitude": 71.4759194,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6082168",
+        "name": "Islamia Science College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013799",
+        "name": "Islamia University Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15055136",
+        "name": "Islamia University of Bahawalpur",
+        "short_name": "IUB",
+        "official_website": "http:\/\/www.iub.edu.pk\/",
+        "aliases": [
+            "IUB",
+            "Islamia University",
+            "Jamia Abbasia",
+            "The Islamia University of Bahawalpur Pakistan"
+        ],
+        "latitude": 29.3980556,
+        "longitude": 71.6908333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115978236",
+        "name": "Islamic Research Centre Rawalpindi",
+        "short_name": null,
+        "official_website": "https:\/\/www.ircpk.com\/",
+        "aliases": [
+            "IRCPK",
+            "Islamic Research Centre",
+            "Islamic Research Centre Rawalpindi Pakistan"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q115729800",
+        "name": "Islamic Research Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IRI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17067952",
+        "name": "Isra University",
+        "short_name": null,
+        "official_website": "http:\/\/www.isra.edu.pk",
+        "aliases": [
+            "جامع اسراء"
+        ],
+        "latitude": 25.435,
+        "longitude": 68.3822,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111962869",
+        "name": "Jagannath College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 23.7102778,
+        "longitude": 90.4111111,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7554434",
+        "name": "Jamia al-Dawa al-Islamiyya Markaz Tayyaba",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Jamia al-Dawa al-Islamiyya"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65278353",
+        "name": "Jamia Baitussalam",
+        "short_name": null,
+        "official_website": "http:\/\/jamiabaitussalam.edu.pk",
+        "aliases": [
+            "Bait-us-Salam University"
+        ],
+        "latitude": 24.827515,
+        "longitude": 67.0543714,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104882524",
+        "name": "Jamia Faridia",
+        "short_name": null,
+        "official_website": "https:\/\/www.jamiafaridia.edu.pk",
+        "aliases": null,
+        "latitude": 33.7309722,
+        "longitude": 73.0510556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6734177",
+        "name": "Jamia Islamia Imdadia",
+        "short_name": null,
+        "official_website": "http:\/\/www.imdadia.edu.pk\/",
+        "aliases": [
+            "Jamia Imdadia",
+            "Jamia Islamia Imdadia Faisalabad"
+        ],
+        "latitude": 31.393612,
+        "longitude": 73.109411,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66429779",
+        "name": "Jamia Qasim Ul Uloom",
+        "short_name": null,
+        "official_website": "https:\/\/qasimululoommultan.com\/",
+        "aliases": [
+            "Jamia Qasim Ul Uloom Multan",
+            "Madrasa Qasim-ul-Uloom",
+            "Qasim Ul Uloom Multan",
+            "Qasim Ul Uloom, Multan"
+        ],
+        "latitude": 30.2217961,
+        "longitude": 71.4740294,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6734362",
+        "name": "Jamia Siddiqia",
+        "short_name": null,
+        "official_website": "http:\/\/jamiasiddiqia.com\/",
+        "aliases": [
+            "Jamia Siddiqia Karachi"
+        ],
+        "latitude": 25.0263661,
+        "longitude": 67.1555604,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6146490",
+        "name": "Jamia Tur Rasheed, Karachi",
+        "short_name": null,
+        "official_website": "http:\/\/www.kulyatushariah.edu.pk\/",
+        "aliases": [
+            "JTR",
+            "Jamia Tur Rasheed"
+        ],
+        "latitude": 24.8457611,
+        "longitude": 67.165325,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6202676",
+        "name": "Jinnah University for Women",
+        "short_name": null,
+        "official_website": "http:\/\/www.juw.edu.pk\/index.html",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18712368",
+        "name": "Johar College of Science and Commerce",
+        "short_name": null,
+        "official_website": "http:\/\/www.johar.edu.pk\/",
+        "aliases": null,
+        "latitude": 31.3831,
+        "longitude": 73.0736,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6367760",
+        "name": "Karachi Institute of Economics and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/pafkiet.edu.pk",
+        "aliases": [
+            "KIET",
+            "PAF Karachi Institute of Economics and Technology",
+            "PAF-KIET",
+            "Karachi Institute of Economics & Technology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74548690",
+        "name": "Karachi University, Geology Department",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6368138",
+        "name": "Karakoram International University",
+        "short_name": null,
+        "official_website": "https:\/\/www.kiu.edu.pk\/",
+        "aliases": [
+            "KIU",
+            "Karakoram University",
+            "بین الاقوامی جامعہ قراقرم",
+            "Karakurum International University"
+        ],
+        "latitude": 35.9219444,
+        "longitude": 74.3655556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19892677",
+        "name": "Khadim Ali Shah Bukhari Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.kasbit.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19462759",
+        "name": "Khushal Khan Khattak University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 33.1250278,
+        "longitude": 71.1158611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18388023",
+        "name": "Khwaja Fareed University of Engineering & Information Technology, Rahim Yar Khan",
+        "short_name": null,
+        "official_website": "https:\/\/kfueit.edu.pk\/",
+        "aliases": [
+            "KFUEIT",
+            "Khwaja Fareed UEIT",
+            "Khwaja Fareed University of Engineering & Information Technology",
+            "Khwaja Fareed University of Engineering and Information Technology"
+        ],
+        "latitude": 28.3808,
+        "longitude": 70.3745,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q45312",
+        "name": "King Edward Medical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.kemu.edu.pk\/",
+        "aliases": [
+            "Lahore Medical College",
+            "King Edward Medical College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125623",
+        "name": "Kinnaird College for Women",
+        "short_name": null,
+        "official_website": "http:\/\/www.kinnaird.edu.pk\/",
+        "aliases": [
+            "Kinnaird College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q67194812",
+        "name": "KIPS College",
+        "short_name": null,
+        "official_website": "http:\/\/kips.edu.pk\/",
+        "aliases": [
+            "Knowledge Inn Preparatory School"
+        ],
+        "latitude": 31.5828781,
+        "longitude": 73.1586131,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q74528166",
+        "name": "KMU-Institute of Medical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6425929",
+        "name": "Kohat University of Science and Technology",
+        "short_name": "KUST",
+        "official_website": "http:\/\/www.kust.edu.pk",
+        "aliases": [
+            "KUST"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107675527",
+        "name": "Kohsar University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Kohsar University, Murree"
+        ],
+        "latitude": 33.9158,
+        "longitude": 73.4062,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6336857",
+        "name": "KRL Model College Kahuta",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6473351",
+        "name": "Lahore College for Women University",
+        "short_name": null,
+        "official_website": "http:\/\/www.lcwu.edu.pk\/",
+        "aliases": [
+            "LCWU"
+        ],
+        "latitude": 31.3411111,
+        "longitude": 72.3738889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16911413",
+        "name": "Lahore Garrison University",
+        "short_name": null,
+        "official_website": "http:\/\/lgu.edu.pk\/",
+        "aliases": null,
+        "latitude": 31.4639786,
+        "longitude": 74.4426943,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6473392",
+        "name": "Lahore Leads University",
+        "short_name": null,
+        "official_website": "http:\/\/leads.edu.pk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6473416",
+        "name": "Lahore School of Fashion Design",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "LSFD"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q13139758",
+        "name": "Lahore University of Management Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/lums.edu.pk\/index.php",
+        "aliases": [
+            "LUMS"
+        ],
+        "latitude": 31.47,
+        "longitude": 74.4111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16959870",
+        "name": "Lasbela University of Agriculture, Water and Marine Science",
+        "short_name": null,
+        "official_website": "http:\/\/www.luawms.edu.pk\/",
+        "aliases": [
+            "Lasbela University of Agriculture, Water & Marine Sciences"
+        ],
+        "latitude": 25.84159,
+        "longitude": 66.62302,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6540200",
+        "name": "Liaquat University of Medical and Health Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.lumhs.edu.pk\/",
+        "aliases": [
+            "Liaquat Medical College",
+            "Liaquat University of Medical & Health Sciences"
+        ],
+        "latitude": 25.4305,
+        "longitude": 68.2713,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28169497",
+        "name": "Makran Medical College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 34.2046,
+        "longitude": 73.2332,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6758615",
+        "name": "Mardan Institute of Management Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.mims.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6809808",
+        "name": "Mehran University of Engineering and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.muet.edu.pk\/",
+        "aliases": [
+            "Mehran University of Engineering & Technology"
+        ],
+        "latitude": 25.408098,
+        "longitude": 68.260267,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6851986",
+        "name": "Military College of Signals",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6810280",
+        "name": "Minhaj International University",
+        "short_name": null,
+        "official_website": "http:\/\/mul.edu.pk",
+        "aliases": [
+            "Minhaj University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111972908",
+        "name": "Mir Chakar Khan Rind University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q85785807",
+        "name": "Mir Chakar Khan Rind University of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Mir Chakar Khan Rind University of Technology, Dera Ghazi Khan"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6874487",
+        "name": "Mirpur University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.must.edu.pk\/",
+        "aliases": [
+            "Mirpur University of Science & Technology",
+            "UCET Mirpur",
+            "University College of Engineering & Technology Mirpur"
+        ],
+        "latitude": 33.1502,
+        "longitude": 73.7448694,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1030079",
+        "name": "Mohammad Ali Jinnah University",
+        "short_name": null,
+        "official_website": "http:\/\/www.jinnah.edu\/",
+        "aliases": [
+            "Muhammad Ali Jinnah University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6894141",
+        "name": "Mohi-ud-Din Islamic University",
+        "short_name": null,
+        "official_website": "http:\/\/www.miu.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19894207",
+        "name": "Muhammad Nawaz Sharif University of Agriculture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "MNSUAM",
+            "Muhammad Nawaz Shareef University of Agriculture"
+        ],
+        "latitude": 30.1652,
+        "longitude": 71.4969,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18378045",
+        "name": "Muhammad Nawaz Sharif University of Engineering & Technology, Multan",
+        "short_name": null,
+        "official_website": "https:\/\/mnsuet.edu.pk",
+        "aliases": [
+            "Muhammad Nawaz Sharif University of Engineering & Technology"
+        ],
+        "latitude": 30.1652,
+        "longitude": 71.4969,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6934356",
+        "name": "Multan Public School and College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.25,
+        "longitude": 71.5208333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135675590",
+        "name": "Multan University of Science & Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Multan University of Science & Technology, Multan"
+        ],
+        "latitude": 30.1058,
+        "longitude": 71.4106,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6939172",
+        "name": "Murray College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.4991245,
+        "longitude": 74.5492795,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6961254",
+        "name": "Namal University Mianwali",
+        "short_name": null,
+        "official_website": "https:\/\/www.namal.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6970228",
+        "name": "National Agricultural Research Centre",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6971412",
+        "name": "National Centre for Physics",
+        "short_name": null,
+        "official_website": "http:\/\/www.ncp.edu.pk\/",
+        "aliases": [
+            "Abdus Salam Centre for Physics"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6971428",
+        "name": "National Centre of Excellence in Geology",
+        "short_name": null,
+        "official_website": "http:\/\/nceg.uop.edu.pk\/",
+        "aliases": null,
+        "latitude": 34.0191995,
+        "longitude": 71.4738894,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3249585",
+        "name": "National College of Arts",
+        "short_name": null,
+        "official_website": "http:\/\/www.nca.edu.pk\/",
+        "aliases": [
+            "NCA",
+            "Mayo School of Arts",
+            "National College of Arts, Lahore",
+            "NCA Lahore"
+        ],
+        "latitude": 31.56859,
+        "longitude": 74.30737,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q123478994",
+        "name": "National College of Arts, Gilgit",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "NCA Gilgit",
+            "NCA Gilgit-Baltistan"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116893656",
+        "name": "National College of Arts, Rawalpindi",
+        "short_name": null,
+        "official_website": "https:\/\/nca.edu.pk\/rawalpindi-campus\/",
+        "aliases": [
+            "National College of Arts, Rawalpindi - A Federal Chartered Institute",
+            "NCA Rawalpindi"
+        ],
+        "latitude": 33.6074112,
+        "longitude": 73.0625969,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6971599",
+        "name": "National College of Business Administration and Economics",
+        "short_name": null,
+        "official_website": "http:\/\/www.ncbae.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6973611",
+        "name": "National Institute of Banking and Finance",
+        "short_name": null,
+        "official_website": "http:\/\/www.nibaf.gov.pk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q47463115",
+        "name": "National Institute of Lasers and Optronics",
+        "short_name": null,
+        "official_website": "http:\/\/www.nilop.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q135100075",
+        "name": "National Institute of Technology, Lahore",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97358208",
+        "name": "National Institute of Virology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q107400003",
+        "name": "National Skills University",
+        "short_name": null,
+        "official_website": "http:\/\/nsu.edu.pk\/",
+        "aliases": [
+            "NSU",
+            "National Skills University, Islamabad"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135319698",
+        "name": "National Skills University Islamabad",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6978908",
+        "name": "National Textile University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ntu.edu.pk\/",
+        "aliases": [
+            "National College of Textile Engineering"
+        ],
+        "latitude": 31.4630455,
+        "longitude": 73.1410928,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979241",
+        "name": "National University of Computer and Emerging Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.nu.edu.pk\/",
+        "aliases": [
+            "National University of Computer & Emerging Sciences"
+        ],
+        "latitude": 33.6566895,
+        "longitude": 73.0153446,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1092544",
+        "name": "National University of Modern Languages",
+        "short_name": null,
+        "official_website": "https:\/\/www.numl.edu.pk\/",
+        "aliases": [
+            "National University of Modern Languages (NUML)",
+            "NUML"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q121536439",
+        "name": "National University of Pakistan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3696003",
+        "name": "National University of Sciences and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.nust.edu.pk\/",
+        "aliases": [
+            "NUST"
+        ],
+        "latitude": 33.6447222,
+        "longitude": 72.9894444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013847",
+        "name": "National University of Sciences and Technology School of Electrical Engineering and Computer Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19894718",
+        "name": "Nazeer Hussain University",
+        "short_name": null,
+        "official_website": "http:\/\/www.nhu.edu.pk\/",
+        "aliases": [
+            "The Nazeer Hussain University"
+        ],
+        "latitude": 24.9229,
+        "longitude": 67.0507,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15260719",
+        "name": "NED University of Engineering and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.neduet.edu.pk\/",
+        "aliases": [
+            "NED Engineering College",
+            "NED University of Engineering & Technology"
+        ],
+        "latitude": 24.931792,
+        "longitude": 67.112646,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18353115",
+        "name": "Newports Institute of Communications and Economics",
+        "short_name": null,
+        "official_website": "http:\/\/www.newports.edu.pk\/",
+        "aliases": [
+            "Newport Institute of Communications & Economics"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7040801",
+        "name": "Nishtar Medical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.nmch.edu.pk",
+        "aliases": [
+            "NMC",
+            "NMU",
+            "Nishtar Medical College"
+        ],
+        "latitude": 30.2027778,
+        "longitude": 71.4416667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17078286",
+        "name": "Northern University, Nowshera",
+        "short_name": null,
+        "official_website": "http:\/\/www.northern.edu.pk\/",
+        "aliases": [
+            "Northern University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136450911",
+        "name": "NUR School of Nutritional Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6955638",
+        "name": "NUST Institute of Civil Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/nice.nust.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6955640",
+        "name": "NUST School of Civil and Environmental Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/scee.nust.edu.pk\/",
+        "aliases": [
+            "School of Civil and Environmental Engineering"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6955641",
+        "name": "NUST School of Mechanical and Manufacturing Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/www.smme.nust.edu.pk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3634583",
+        "name": "Oriental College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Punjab University Oriental College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q123422195",
+        "name": "Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/paf-iast.edu.pk\/",
+        "aliases": [
+            "PAF-IAST"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131105257",
+        "name": "Pakistan Air Force Airmen Academy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 24.783,
+        "longitude": 67.1345,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74535459",
+        "name": "Pakistan Army Medical and Dental Corps",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7125593",
+        "name": "Pakistan Institute of Development Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7125592",
+        "name": "Pakistan Institute of Engineering and Applied Sciences",
+        "short_name": "PIEAS",
+        "official_website": "http:\/\/www.pieas.edu.pk\/",
+        "aliases": [
+            "Reactor School",
+            "PIEAS",
+            "Pakistan Institute of Engineering & Applied Sciences"
+        ],
+        "latitude": 33.6563889,
+        "longitude": 73.2597222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7125595",
+        "name": "Pakistan Institute of Fashion and Design",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Pakistan Institute of Fashion & Design"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7125599",
+        "name": "Pakistan Institute of Nuclear Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.pinstech.org.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17013413",
+        "name": "Pakistan Institute of Public Finance Accountants",
+        "short_name": null,
+        "official_website": "http:\/\/www.pipfa.org.pk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q59321",
+        "name": "Pakistan Military Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.pakistanarmy.gov.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15265088",
+        "name": "Pakistan Naval Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.paknavy.gov.pk\/pns-rahbar.htm",
+        "aliases": null,
+        "latitude": 24.8002778,
+        "longitude": 66.9722222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7125652",
+        "name": "Pakistan Navy Engineering College",
+        "short_name": null,
+        "official_website": "http:\/\/www.pnec.nust.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19573661",
+        "name": "People's University of Medical & Health Sciences for Women",
+        "short_name": null,
+        "official_website": "http:\/\/www.pumhs.edu.pk",
+        "aliases": [
+            "People's University of Medical and Health Sciences for Women",
+            "PUMHSW",
+            "Peoples University of Medical & Health Sciences for Women"
+        ],
+        "latitude": 26.2434722,
+        "longitude": 68.4040833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7180812",
+        "name": "Pharmacy Council of Pakistan",
+        "short_name": null,
+        "official_website": "http:\/\/www.pharmacycouncil.org.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66808493",
+        "name": "Planwel University",
+        "short_name": null,
+        "official_website": "http:\/\/planwel.edu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7242006",
+        "name": "Preston University, Pakistan",
+        "short_name": null,
+        "official_website": "http:\/\/www.preston.edu.pk\/",
+        "aliases": [
+            "Preston University of Pakistan"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7248121",
+        "name": "Professionals' Academy of Commerce",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7260262",
+        "name": "Punjab Institute of Cardiology",
+        "short_name": null,
+        "official_website": "http:\/\/www.pic.gop.pk",
+        "aliases": null,
+        "latitude": 31.5387,
+        "longitude": 74.3359,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7260264",
+        "name": "Punjab Institute of Computer Science",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucp.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111961517",
+        "name": "Punjab Institute of Language, Art, and Culture",
+        "short_name": "PILAC",
+        "official_website": "https:\/\/pilac.punjab.gov.pk\/",
+        "aliases": [
+            "PILAC",
+            "Punjab Institute of Language, Arts & Culture",
+            "Punjabi Institute of Language, Art, and Culture",
+            "Punjabi Institute of Pakistan"
+        ],
+        "latitude": 31.514245,
+        "longitude": 74.329543,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q50968648",
+        "name": "Punjab Tianjin University of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Punjab Tianjin University of Technology, Lahore"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7260306",
+        "name": "Punjab University College of Information Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.pucit.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105394852",
+        "name": "Q105394852",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7266880",
+        "name": "Qarshi University",
+        "short_name": null,
+        "official_website": "https:\/\/www.qu.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7268472",
+        "name": "Quaid-e-Awam University of Engineering, Science and Technology",
+        "short_name": "QUEST",
+        "official_website": null,
+        "aliases": [
+            "QUEST",
+            "Mehran Engineering College",
+            "Quaid-e-Awam University of Engineering, Sciences & Technology"
+        ],
+        "latitude": 26.2325,
+        "longitude": 68.3838889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113468494",
+        "name": "Quaid-e-Azam Law College Nawabshah",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 26.2513,
+        "longitude": 68.4135,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2047109",
+        "name": "Quaid-i-Azam University",
+        "short_name": null,
+        "official_website": "http:\/\/www.qau.edu.pk\/",
+        "aliases": [
+            "Islamabad University",
+            "Quaid-e-Azam University"
+        ],
+        "latitude": 33.75,
+        "longitude": 73.1333333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7272968",
+        "name": "Qurtuba University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7290638",
+        "name": "Rana Liaquat Ali Khan Government College of Home Economics",
+        "short_name": null,
+        "official_website": "http:\/\/chek.edu.pk\/",
+        "aliases": null,
+        "latitude": 24.891,
+        "longitude": 67.076,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q85816076",
+        "name": "Rawalpindi Women University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Rawalpindi Women University, Rawalpindi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7335593",
+        "name": "Riphah International University",
+        "short_name": null,
+        "official_website": "http:\/\/www.riphah.edu.pk\/",
+        "aliases": [
+            "RIU"
+        ],
+        "latitude": 33.7147808,
+        "longitude": 73.0825652,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22032289",
+        "name": "Riphah International University Faisalabad",
+        "short_name": null,
+        "official_website": "http:\/\/www.riphahfsd.edu.pk\/",
+        "aliases": [
+            "Faisalabad Campus, Riphah International University",
+            "Riphah International University Faisalabad Campus"
+        ],
+        "latitude": 31.380986,
+        "longitude": 73.127992,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q99298858",
+        "name": "Riphah International University Islamic International Medical College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25102033",
+        "name": "Riphah International University Lahore",
+        "short_name": null,
+        "official_website": "https:\/\/www.riphah.edu.pk\/campuses\/lahore",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16151018",
+        "name": "Roots Ivy International University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q48733057",
+        "name": "Sadiq Dane High School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 29.394184,
+        "longitude": 71.684897,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19462746",
+        "name": "sahiwsl",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.606,
+        "longitude": 73.1252,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113960750",
+        "name": "Saraiki Area Study Centre",
+        "short_name": "SASC",
+        "official_website": "https:\/\/sites.google.com\/site\/saraikistudies\/",
+        "aliases": [
+            "SASC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7423682",
+        "name": "Sardar Bahadur Khan Women's University",
+        "short_name": null,
+        "official_website": "http:\/\/www.sbkwu.edu.pk",
+        "aliases": [
+            "Sardar Bahadur Khan Women University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7423994",
+        "name": "Sarhad University of Science and Information Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.suit.edu.pk\/",
+        "aliases": [
+            "Sarhad University of Science & Information Technology"
+        ],
+        "latitude": 33.9636,
+        "longitude": 71.5292,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013837",
+        "name": "Sarhad University of Science and Information Technology Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7461225",
+        "name": "Shah Abdul Latif University",
+        "short_name": null,
+        "official_website": "http:\/\/www.salu.edu.pk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19898310",
+        "name": "Shaheed Benazir Bhutto City University",
+        "short_name": null,
+        "official_website": "http:\/\/www.sbbcu.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19599885",
+        "name": "Shaheed Benazir Bhutto University",
+        "short_name": null,
+        "official_website": "http:\/\/www.sbbusba.edu.pk\/",
+        "aliases": [
+            "Shaheed Benazir Bhutto University, Shaheed Benazirabad"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19599888",
+        "name": "Shaheed Benazir Bhutto University of Veterinary and Animal Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.sbbuvas.edu.pk\/",
+        "aliases": [
+            "Shaheed Benazir Bhutto University of Veterinary & Animal Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4886879",
+        "name": "Shaheed Benazir Bhutto University, Sheringal",
+        "short_name": null,
+        "official_website": "http:\/\/www.sbbu.edu.pk",
+        "aliases": [
+            "Shaheed Benazir Bhutto University",
+            "SBBU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7461532",
+        "name": "Shaheed Benazir Bhutto Women University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Frontier Women University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7461562",
+        "name": "Shaheed Zulfikar Ali Bhutto Institute of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/szabist.edu.pk\/",
+        "aliases": [
+            "Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology",
+            "SZABIST",
+            "Shaheed Zulfikar Ali Bhutto Institute of Science & Technology"
+        ],
+        "latitude": 24.8187,
+        "longitude": 67.0316,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q48728117",
+        "name": "Shaheed Zulfiqar Ali Bhutto University of Law",
+        "short_name": null,
+        "official_website": "https:\/\/szabul.edu.pk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30314108",
+        "name": "Shifa Tameer-e-Millat University",
+        "short_name": null,
+        "official_website": "http:\/\/www.stmu.edu.pk\/",
+        "aliases": null,
+        "latitude": 33.6777254,
+        "longitude": 73.0660799,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7522140",
+        "name": "Sindh Agriculture University",
+        "short_name": null,
+        "official_website": "https:\/\/sau.edu.pk\/",
+        "aliases": [
+            "Sindh Agriculture University, Tandojam"
+        ],
+        "latitude": 25.4265778,
+        "longitude": 68.5395306,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113635886",
+        "name": "Sir Syed CASE Institute of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5059475",
+        "name": "Sir Syed CASE Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.case.edu.pk\/",
+        "aliases": [
+            "Center for Advanced Studies in Engineering",
+            "Sir Syed (CASE) Institute of Technology, Islamabad"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7519959",
+        "name": "Sir Syed Government Girls College",
+        "short_name": null,
+        "official_website": "http:\/\/www.ssggc.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7529005",
+        "name": "Sir Syed University of Engineering and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.ssuet.edu.pk\/",
+        "aliases": [
+            "Sir Syed University of Engineering & Technology"
+        ],
+        "latitude": 24.9166667,
+        "longitude": 67.0833333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7390581",
+        "name": "SKANS School of Accountancy",
+        "short_name": null,
+        "official_website": "http:\/\/www.skans.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7681121",
+        "name": "Tameer-e-Nau Public College, Quetta",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7708460",
+        "name": "Textile Institute of Pakistan",
+        "short_name": null,
+        "official_website": "http:\/\/www.tip.edu.pk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113265393",
+        "name": "Thal University Bhakkar",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Thal University, Bhakkar"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7742207",
+        "name": "The Institute of Strategic Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Institute of Strategic Studies Islamabad"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q127604178",
+        "name": "The University of Larkano",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109058224",
+        "name": "The University Of Spoken English and Computer Science",
+        "short_name": "USECS",
+        "official_website": "https:\/\/usecs.edu.pk\/en\/",
+        "aliases": [
+            "The University Of Spoken English & Computer Science",
+            "USECS"
+        ],
+        "latitude": 34.0227331,
+        "longitude": 71.5799544,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894626",
+        "name": "University College Lahore",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucl.edu.pk",
+        "aliases": null,
+        "latitude": 31.45608,
+        "longitude": 74.244468,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894655",
+        "name": "University College of Islamabad",
+        "short_name": null,
+        "official_website": "http:\/\/www.uci.edu.pk\/",
+        "aliases": null,
+        "latitude": 33.7126681,
+        "longitude": 73.034781,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895024",
+        "name": "University of Agriculture Faisalabad",
+        "short_name": "UAF",
+        "official_website": "http:\/\/www.uaf.edu.pk\/",
+        "aliases": [
+            "UAF",
+            "Punjab Agricultural College and Research Institute",
+            "University of Agriculture"
+        ],
+        "latitude": 31.4339,
+        "longitude": 73.0649,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42955492",
+        "name": "University of Agriculture, Dera Ismail Khan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4693940",
+        "name": "University of Agriculture, Peshawar",
+        "short_name": "UAP",
+        "official_website": "http:\/\/www.aup.edu.pk\/",
+        "aliases": [
+            "UAP",
+            "AUP",
+            "Agricultural University Peshawar",
+            "Khyber Pakhtunkhwa Agricultural University",
+            "North West Frontier Province Agricultural University",
+            "The University of Agriculture Peshawar"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895100",
+        "name": "University of Azad Jammu and Kashmir",
+        "short_name": null,
+        "official_website": "http:\/\/www.ajku.edu.pk\/",
+        "aliases": [
+            "The University of Azad Jammu and Kashmir",
+            "University of Azad Jammu & Kashmir"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3306049",
+        "name": "University of Balochistan",
+        "short_name": "UoB",
+        "official_website": "http:\/\/www.uob.edu.pk",
+        "aliases": [
+            "UB",
+            "UoB",
+            "Balochistan University",
+            "University of Baluchistan"
+        ],
+        "latitude": 30.166,
+        "longitude": 66.99,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60744098",
+        "name": "University of Baltistan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "University of Baltistan, Skardu"
+        ],
+        "latitude": 35.299167,
+        "longitude": 75.704389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136655606",
+        "name": "University of Biological and Applied Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/ubas.edu.pk\/",
+        "aliases": [
+            "UBAS",
+            "Lahore University of Biological and Applied Sciences",
+            "University of Biological & Applied Sciences",
+            "Lahore UBAS",
+            "Lahore University of Biological and Applied Sciences, Lahore"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3695765",
+        "name": "University of Central Punjab",
+        "short_name": "UCP",
+        "official_website": "http:\/\/www.ucp.edu.pk\/",
+        "aliases": [
+            "UCP"
+        ],
+        "latitude": 31.4469,
+        "longitude": 74.2682,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q39055749",
+        "name": "University of Chitral",
+        "short_name": null,
+        "official_website": "http:\/\/www.uoch.pk\/",
+        "aliases": [
+            "UOCH"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109974870",
+        "name": "University of Dir",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895374",
+        "name": "University of Education",
+        "short_name": null,
+        "official_website": "http:\/\/ue.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18357148",
+        "name": "University of Engineering & Technology, Rasul",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UET rasul"
+        ],
+        "latitude": 32.6768,
+        "longitude": 73.5631,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1961570",
+        "name": "University of Engineering and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.uet.edu.pk\/",
+        "aliases": [
+            "UET Lahore",
+            "West Pakistan University of Engineering and Technology",
+            "University of Engineering & Technology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895379",
+        "name": "University of Engineering and Technology Taxila",
+        "short_name": null,
+        "official_website": "http:\/\/www.uettaxila.edu.pk\/index.asp\/",
+        "aliases": [
+            "UET Taxila",
+            "University of Engineering and Technology, Taxila",
+            "University of Engineering & Technology, Taxila"
+        ],
+        "latitude": 33.7669444,
+        "longitude": 72.8244444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42955263",
+        "name": "University of Engineering and Technology, Mardan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 34.1990833,
+        "longitude": 72.0194444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895378",
+        "name": "University of Engineering and Technology, Peshawar",
+        "short_name": null,
+        "official_website": "http:\/\/www.uetpeshawar.edu.pk\/index.php",
+        "aliases": [
+            "University of Engineering & Technology",
+            "UET Peshawar"
+        ],
+        "latitude": 34.0027,
+        "longitude": 71.4859,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895389",
+        "name": "University of Faisalabad",
+        "short_name": null,
+        "official_website": "http:\/\/www.tuf.edu.pk",
+        "aliases": [
+            "The University of Faisalabad"
+        ],
+        "latitude": 31.4956,
+        "longitude": 73.0736,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19600083",
+        "name": "University of FATA",
+        "short_name": null,
+        "official_website": "http:\/\/fu.fata.gov.pk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895477",
+        "name": "University of Gujrat",
+        "short_name": "UoG",
+        "official_website": "https:\/\/uog.edu.pk\/main.php?l=en",
+        "aliases": null,
+        "latitude": 32.6415,
+        "longitude": 74.1654,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013801",
+        "name": "University of Gujrat Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q117770203",
+        "name": "University of Gwadar",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19345791",
+        "name": "University of Haripur",
+        "short_name": null,
+        "official_website": "http:\/\/uoh.edu.pk\/",
+        "aliases": null,
+        "latitude": 33.9781667,
+        "longitude": 72.9126944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5146728",
+        "name": "University of Home Economics",
+        "short_name": null,
+        "official_website": "https:\/\/uhe.edu.pk",
+        "aliases": [
+            "UHE",
+            "College of Home Economics",
+            "University of Home Economics, Lahore"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895568",
+        "name": "University of Islamic Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1661751",
+        "name": "University of Karachi",
+        "short_name": null,
+        "official_website": "http:\/\/www.uok.edu.pk",
+        "aliases": [
+            "Karachi University"
+        ],
+        "latitude": 24.94,
+        "longitude": 67.12,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19899072",
+        "name": "University of Kotli",
+        "short_name": null,
+        "official_website": "http:\/\/www.umsit.edu.pk",
+        "aliases": [
+            "University of Kotli, Azad Jammu and Kashmir",
+            "University of Management Sciences and Information Technology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3694742",
+        "name": "University of Lahore",
+        "short_name": null,
+        "official_website": "http:\/\/www.uol.edu.pk\/",
+        "aliases": null,
+        "latitude": 31.3987372,
+        "longitude": 74.2412713,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19600086",
+        "name": "University of Loralai",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7494756",
+        "name": "University of Malakand",
+        "short_name": null,
+        "official_website": "http:\/\/www.uom.edu.pk",
+        "aliases": [
+            "UOM"
+        ],
+        "latitude": 34.6688889,
+        "longitude": 72.0608333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895663",
+        "name": "University of Management and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.umt.edu.pk\/",
+        "aliases": [
+            "UMT",
+            "University of Management & Technology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q119981868",
+        "name": "University of Mianwali",
+        "short_name": null,
+        "official_website": "https:\/\/umw.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130302134",
+        "name": "University of Mirpurkhas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q85812301",
+        "name": "University of Narowal",
+        "short_name": null,
+        "official_website": "https:\/\/uon.edu.pk",
+        "aliases": null,
+        "latitude": 32.09429,
+        "longitude": 74.87455,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30593798",
+        "name": "University of Okara",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 30.8669,
+        "longitude": 73.566,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3918532",
+        "name": "University of Peshawar",
+        "short_name": "UoP",
+        "official_website": "http:\/\/www.uop.edu.pk",
+        "aliases": [
+            "Peshawar University",
+            "UoP"
+        ],
+        "latitude": 34.0083333,
+        "longitude": 71.4877778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013841",
+        "name": "University of Peshawar Department of International Relations",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19600089",
+        "name": "University of Poonch",
+        "short_name": null,
+        "official_website": "http:\/\/www.upr.edu.pk",
+        "aliases": null,
+        "latitude": 33.84575,
+        "longitude": 73.774149,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19892768",
+        "name": "University of Sahiwal",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896271",
+        "name": "University of Sargodha",
+        "short_name": null,
+        "official_website": "http:\/\/www.uos.edu.pk\/",
+        "aliases": null,
+        "latitude": 32.0821666,
+        "longitude": 72.6801938,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013848",
+        "name": "University of Sargodha Department of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013849",
+        "name": "University of Sargodha Department of Physics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42955474",
+        "name": "University of Science & Technology, Lakki Marwat",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "University of Lakki Marwat"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16959531",
+        "name": "University of Science and Technology, Bannu",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "University of Science & Technology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q85812314",
+        "name": "University of Sialkot",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "University of Sialkot, Sialkot"
+        ],
+        "latitude": 32.4658345,
+        "longitude": 74.5140705,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7523729",
+        "name": "University of Sindh",
+        "short_name": null,
+        "official_website": "https:\/\/www.usindh.edu.pk\/",
+        "aliases": [
+            "Sindh University"
+        ],
+        "latitude": 25.4216667,
+        "longitude": 68.2633333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896314",
+        "name": "University of South Asia, Lahore",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "University of South Asia",
+            "USA, Lahore"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q85812316",
+        "name": "University of Sufism and Modern Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19899075",
+        "name": "University of Swabi",
+        "short_name": null,
+        "official_website": "http:\/\/uoswabi.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896372",
+        "name": "University of Swat",
+        "short_name": null,
+        "official_website": "https:\/\/www.uswat.edu.pk",
+        "aliases": null,
+        "latitude": 29.0678818,
+        "longitude": 70.859325,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1549932",
+        "name": "University of the Punjab",
+        "short_name": null,
+        "official_website": "http:\/\/www.pu.edu.pk\/",
+        "aliases": [
+            "Panjab University, Lahore",
+            "Punjab University",
+            "University of Punjab"
+        ],
+        "latitude": 31.2927806,
+        "longitude": 74.1747194,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013814",
+        "name": "University of the Punjab Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013816",
+        "name": "University of the Punjab Department of Gender Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013818",
+        "name": "University of the Punjab Department of Islamic Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013819",
+        "name": "University of the Punjab Department of Physics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013820",
+        "name": "University of the Punjab Department of Political Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19600100",
+        "name": "University of Turbat",
+        "short_name": null,
+        "official_website": "http:\/\/uot.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896529",
+        "name": "University of Veterinary and Animal Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.uvas.edu.pk",
+        "aliases": [
+            "University of Veterinary & Animal Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896548",
+        "name": "University of Wah",
+        "short_name": null,
+        "official_website": "http:\/\/www.uow.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3696246",
+        "name": "Virtual University of Pakistan",
+        "short_name": null,
+        "official_website": "http:\/\/www.vu.edu.pk\/",
+        "aliases": [
+            "VU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6824754",
+        "name": "Wafaq ul Madaris Al-Arabia, Pakistan",
+        "short_name": null,
+        "official_website": "https:\/\/www.wifaqulmadaris.org\/",
+        "aliases": [
+            "Wafaq ul Madaris",
+            "wifaq ul madaris",
+            "WIFAQ UL MADARIS AL ARABIA PAKISTAN",
+            "WMAA"
+        ],
+        "latitude": 30.1597042,
+        "longitude": 71.40229,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28129491",
+        "name": "Women University Mardan",
+        "short_name": null,
+        "official_website": "http:\/\/www.wumardan.edu.pk\/",
+        "aliases": null,
+        "latitude": 34.1879167,
+        "longitude": 72.0371667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19892772",
+        "name": "Women University Multan",
+        "short_name": null,
+        "official_website": "http:\/\/www.wum.edu.pk",
+        "aliases": [
+            "The Women University"
+        ],
+        "latitude": 30.2441,
+        "longitude": 71.5638,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19600169",
+        "name": "Women University of Azad Jammu and Kashmir",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Women University of Azad Jammu & Kashmir"
+        ],
+        "latitude": 33.9793,
+        "longitude": 73.7773,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8030934",
+        "name": "Women's Institute of Science & Humanities",
+        "short_name": null,
+        "official_website": "http:\/\/www.wish.edu.pk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

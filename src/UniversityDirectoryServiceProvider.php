@@ -6,6 +6,7 @@ use Illuminate\Support\ServiceProvider;
 use Tisuchi\UniversityDirectory\Console\ImportCommand;
 use Tisuchi\UniversityDirectory\Console\ListCommand;
 use Tisuchi\UniversityDirectory\Console\StatsCommand;
+use Tisuchi\UniversityDirectory\Console\SyncCommand;
 
 class UniversityDirectoryServiceProvider extends ServiceProvider
 {
@@ -23,6 +24,7 @@ class UniversityDirectoryServiceProvider extends ServiceProvider
                 ImportCommand::class,
                 ListCommand::class,
                 StatsCommand::class,
+                SyncCommand::class,
             ]);
 
             $this->publishes([

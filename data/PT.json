@@ -1,0 +1,2639 @@
+[
+    {
+        "wikidata_id": "Q106916019",
+        "name": "42",
+        "short_name": null,
+        "official_website": "https:\/\/42.us.org",
+        "aliases": [
+            "42",
+            "42 school",
+            "School 42"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4671102",
+        "name": "Academia de Marinha",
+        "short_name": null,
+        "official_website": "http:\/\/academia.marinha.pt\/",
+        "aliases": null,
+        "latitude": 38.6632694,
+        "longitude": -9.1467667,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q62523026",
+        "name": "Academy of Arts of the Azores",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Igreja de Nossa Senhora da Graça",
+            "Academia das Artes dos Açores"
+        ],
+        "latitude": 37.741289,
+        "longitude": -25.664598,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q66942613",
+        "name": "Antiga Enfermaria de Santa Cruz \/ Escola Secundária Jaime Cortesão",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.211778,
+        "longitude": -8.427088,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66943548",
+        "name": "Antiga Escola Conde de Ferreira",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Junta de Freguesia de Góis"
+        ],
+        "latitude": 40.15474,
+        "longitude": -8.108958,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66942142",
+        "name": "Antiga Escola Primária de Ourentã",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66942825",
+        "name": "Antiga Escola Primária de São João do Campo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10317952",
+        "name": "Antigo Liceu de Passos Manuel, incluindo o edifício principal, a residência do reitor, a casa do porteiro, os pátios, a alameda, os jardins e a horta",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 38.711877,
+        "longitude": -9.149432,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20053121",
+        "name": "Archaeological Field of Mértola",
+        "short_name": null,
+        "official_website": "http:\/\/www.camertola.pt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552285",
+        "name": "Associação amigos da grande idade",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530675",
+        "name": "Associação Journal of Innovation Management",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74538491",
+        "name": "Associação Portuguesa de Estudos sobre as Mulheres (APEM)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q131433533",
+        "name": "ATP-Group",
+        "short_name": null,
+        "official_website": "https:\/\/atpgroup.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3052794",
+        "name": "Calouste Gulbenkian Foundation",
+        "short_name": null,
+        "official_website": "https:\/\/gulbenkian.pt",
+        "aliases": [
+            "Centre Culturel Calouste Gulbenkian",
+            "Fundação Calouste Gulbenkian"
+        ],
+        "latitude": 38.73722,
+        "longitude": -9.15417,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5028833",
+        "name": "Camões Secondary School",
+        "short_name": null,
+        "official_website": "http:\/\/portal.escamoes.pt\/",
+        "aliases": null,
+        "latitude": 38.730261,
+        "longitude": -9.143101,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131921021",
+        "name": "Carolina Michaëlis School Group",
+        "short_name": null,
+        "official_website": "https:\/\/aecarolinamichaelis.pt\/",
+        "aliases": [
+            "Carolina Michaelis Secondary School"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111668146",
+        "name": "Center for Music Studies",
+        "short_name": null,
+        "official_website": "https:\/\/cesem.fcsh.unl.pt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q29572084",
+        "name": "Center for Research in Arts and Communication",
+        "short_name": null,
+        "official_website": "http:\/\/ciac.pt\/",
+        "aliases": [
+            "ciac.pt"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q14176903",
+        "name": "Center for Social Studies, University of Coimbra",
+        "short_name": null,
+        "official_website": "https:\/\/www.ces.uc.pt",
+        "aliases": [
+            "CES"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18484650",
+        "name": "Center for the History of Society and Culture",
+        "short_name": null,
+        "official_website": "https:\/\/chsc.uc.pt",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5062371",
+        "name": "Centre for Astrophysics of the University of Porto",
+        "short_name": null,
+        "official_website": "http:\/\/www.astro.up.pt\/",
+        "aliases": null,
+        "latitude": 41.1506361,
+        "longitude": -8.6386611,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q111668151",
+        "name": "Centre for Research in Anthropology",
+        "short_name": null,
+        "official_website": "http:\/\/www.cria.org.pt\/",
+        "aliases": [
+            "CRIA"
+        ],
+        "latitude": 38.722716,
+        "longitude": -9.139264,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q101033431",
+        "name": "Centro de Estudos da População Economia e Sociedade",
+        "short_name": null,
+        "official_website": "https:\/\/www.cepese.pt\/portal\/pt\/homepage",
+        "aliases": [
+            "CEPESE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74544523",
+        "name": "Centro de Estudos de Comunicação e Sociedade (CECS)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q111668147",
+        "name": "Centro de Estudos Ingleses, de Tradução e Anglo-Portugueses (CETAPS)",
+        "short_name": null,
+        "official_website": "https:\/\/www.cetaps.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74536103",
+        "name": "Centro de Investigação e Estudos de Sociologia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "CIES-IUL"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74555663",
+        "name": "Centro de Investigação Media e Jornalismo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q111668150",
+        "name": "Centro de Linguística da Universidade NOVA de Lisboa (CLUNL)",
+        "short_name": null,
+        "official_website": "https:\/\/clunl.fcsh.unl.pt",
+        "aliases": [
+            "Centro de Linguística"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18483769",
+        "name": "Centro Dramático de Évora",
+        "short_name": null,
+        "official_website": "http:\/\/www.cendrev.com\/",
+        "aliases": [
+            "CENDREV"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q111668149",
+        "name": "Centro Interdisciplinar de Ciências Sociais (CICS.NOVA - NOVA FCSH)",
+        "short_name": null,
+        "official_website": "https:\/\/www.cics.nova.fcsh.unl.pt\/",
+        "aliases": [
+            "CICS",
+            "Centro de Investigação em Ciências Sociais",
+            "CICS.NOVA",
+            "Interdisciplinary Centre of Social Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3664709",
+        "name": "Centro Internacional de Matemática",
+        "short_name": null,
+        "official_website": "http:\/\/www.cim.pt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q111668148",
+        "name": "CHAM – Centre for the Humanities",
+        "short_name": null,
+        "official_website": "https:\/\/cham.fcsh.unl.pt",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74551472",
+        "name": "CIDEHUS",
+        "short_name": null,
+        "official_website": "https:\/\/www.cidehus.uevora.pt\/",
+        "aliases": [
+            "Centro Interdisciplinar de História Culturas e Sociedades"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74536368",
+        "name": "CITCEM",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q112085338",
+        "name": "Civil Engineering Research and Innovation for Sustainability",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2879311",
+        "name": "Coimbra Academic Association",
+        "short_name": null,
+        "official_website": "http:\/\/www.academica.pt",
+        "aliases": [
+            "Associação Académica de Coimbra"
+        ],
+        "latitude": 40.20953,
+        "longitude": -8.42086,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5150419",
+        "name": "College of the Marists",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Colegio dos Maristas",
+            "Colégio dos Maristas"
+        ],
+        "latitude": 41.16,
+        "longitude": -8.6397222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66942378",
+        "name": "Colégio Apostólico da Imaculada Conceição \/ Colégio de Cernache",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.141121,
+        "longitude": -8.471497,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q76950216",
+        "name": "Colégio Conde Dias Garcia \/ Colégio Infantil Santo Filomena",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66942208",
+        "name": "Colégio da Santíssima Trindade",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.20688,
+        "longitude": -8.425498,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10357812",
+        "name": "Colégio das Artes",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Colégio das Artes \/ Hospitais da Universidade de Coimbra"
+        ],
+        "latitude": 40.209483,
+        "longitude": -8.423269,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17372972",
+        "name": "Colégio de Santa Doroteia",
+        "short_name": null,
+        "official_website": "http:\/\/www.csdoroteia.edu.pt\/",
+        "aliases": null,
+        "latitude": 38.7609306,
+        "longitude": -9.1533583,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66942217",
+        "name": "Colégio de Santo António da Pedreira",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.206909,
+        "longitude": -8.426826,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66942563",
+        "name": "Colégio de São Bernardo \/ Colégio do Espírito Santo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.212581,
+        "longitude": -8.429958,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66942659",
+        "name": "Colégio de São Boaventura",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Colégio das Venturas"
+        ],
+        "latitude": 40.212199,
+        "longitude": -8.430131,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q39875483",
+        "name": "Colégio de São Jerónimo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.208641,
+        "longitude": -8.422905,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66942963",
+        "name": "Colégio de São José dos Marianos",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.203793,
+        "longitude": -8.421454,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66942543",
+        "name": "Colégio de São Pedro dos Religiosos Terceiros",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.214559,
+        "longitude": -8.431681,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66813732",
+        "name": "Colégio do Espírito Santo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 38.573233,
+        "longitude": -7.904607,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q66815970",
+        "name": "Colégio do Infante",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Belmonte Hotel",
+            "Colégio do Infante D. Henrique",
+            "Hotel Belmonte"
+        ],
+        "latitude": 32.674752,
+        "longitude": -16.903461,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q76956828",
+        "name": "Colégio do Sagrado Coração de Maria",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q14541205",
+        "name": "Colégio dos Jesuítas do Funchal",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Colégio dos Jesuítas"
+        ],
+        "latitude": 32.65008,
+        "longitude": -16.909541,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q54566000",
+        "name": "Colégio Maior Camilo Castelo Branco",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.150181,
+        "longitude": -8.582995,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q76953552",
+        "name": "Colégio Nossa Senhora da Bonança",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.12786,
+        "longitude": -8.61056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17117435",
+        "name": "Convento dos Caetanos",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 38.712402,
+        "longitude": -9.146685,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74538061",
+        "name": "Cooperativa de Ensino Universitário - Universidade Autónoma de Lisboa",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q126953370",
+        "name": "Department of Civil Engineering, Architecture and Environment",
+        "short_name": null,
+        "official_website": "https:\/\/decivil.tecnico.ulisboa.pt\/",
+        "aliases": null,
+        "latitude": 38.7366667,
+        "longitude": -9.1388889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112106851",
+        "name": "Edifício da Fundação de Nossa Senhora da Conceição do Funchal",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.646,
+        "longitude": -16.91555,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q76947310",
+        "name": "Escola Adães Bermudes",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q117074140",
+        "name": "Escola da Ladeira",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.66616,
+        "longitude": -16.94095,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109248203",
+        "name": "Escola de Desenho Industrial de Faria de Guimarães do Bonfim",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Escola Artística de Soares dos Reis",
+            "Escola de Hotelaria e Turismo do Porto",
+            "Escola Secundária de Soares dos Reis"
+        ],
+        "latitude": 41.150651,
+        "longitude": -8.601719,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q76951137",
+        "name": "Escola de Santa Clara (Guarda)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q70104376",
+        "name": "Escola Nacional de Estudos e Formação da Inspecção do Trabalho",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.90381,
+        "longitude": -8.493095,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q76949182",
+        "name": "Escola Primária Conde Dias Garcia (São João da Madeira)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q73770047",
+        "name": "Escola Primária do Bairro do Arco Cego",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 38.7391815,
+        "longitude": -9.139679,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q98807385",
+        "name": "Escola Primária do Porto Santo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 33.0621947,
+        "longitude": -16.3332192,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q76957285",
+        "name": "Escola Primária em Aldeia Viçosa",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q76957293",
+        "name": "Escola Prática de Polícia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 39.481308,
+        "longitude": -8.533858,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66814794",
+        "name": "Escola Secundária Aurélia de Sousa",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Escola Industrial Aurélia de Sousa"
+        ],
+        "latitude": 41.15997,
+        "longitude": -8.599604,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28679221",
+        "name": "Escola Secundária Francisco Franco",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.6520785,
+        "longitude": -16.9051238,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q73770534",
+        "name": "Escola Secundária Homem Cristo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Liceu Nacional de Aveiro"
+        ],
+        "latitude": 40.640523,
+        "longitude": -8.654663,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10274431",
+        "name": "Escola Secundária Jaime Moniz",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.6496,
+        "longitude": -16.901225,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10274435",
+        "name": "Escola Secundária José Falcão",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.211617,
+        "longitude": -8.412913,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10274442",
+        "name": "Escola Secundária Rodrigues de Freitas (Antigo Liceu D. Manuel II)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.155525,
+        "longitude": -8.623147,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10274458",
+        "name": "Escola Superior Artística do Porto",
+        "short_name": null,
+        "official_website": "http:\/\/www.esap.pt\/",
+        "aliases": null,
+        "latitude": 41.15859,
+        "longitude": -8.594361,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10274467",
+        "name": "Escola Superior de Artes e Design",
+        "short_name": null,
+        "official_website": "https:\/\/esad.pt",
+        "aliases": [
+            "ESAD",
+            "Escola Superior de Artes e Design (ESAD)",
+            "Escola Superior de Artes e Design de Matosinhos"
+        ],
+        "latitude": 41.184496,
+        "longitude": -8.662277,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10274479",
+        "name": "Escola Superior de Dança",
+        "short_name": null,
+        "official_website": "https:\/\/www.esd.ipl.pt\/",
+        "aliases": null,
+        "latitude": 38.7133333,
+        "longitude": -9.1480556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29522585",
+        "name": "Escola Superior de Educadores de Infância Maria Ulrich",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74542242",
+        "name": "Escola Superior de Educação do Instituto Politécnico de Lisboa",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q29522874",
+        "name": "Escola Universitária Vasco da Gama",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74536420",
+        "name": "ETEN",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18374505",
+        "name": "European University of Lisbon",
+        "short_name": null,
+        "official_website": "https:\/\/www.europeia.pt\/",
+        "aliases": [
+            "Universidade Europeia Lisboa"
+        ],
+        "latitude": 38.70725,
+        "longitude": -9.152444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20055490",
+        "name": "Faculdade de Ciências da Universidade de Lisboa",
+        "short_name": null,
+        "official_website": "http:\/\/www.ciencias.ulisboa.pt",
+        "aliases": [
+            "FC",
+            "Ciências ULisboa",
+            "Faculdade de Ciências, Universidade de Lisboa",
+            "Faculty of Sciences, University of Lisbon",
+            "FCUL",
+            "Universidade de Lisboa Faculdade de Ciencias"
+        ],
+        "latitude": 38.756264,
+        "longitude": -9.156427,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q634834",
+        "name": "Fernando Pessoa University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ufp.pt\/",
+        "aliases": [
+            "Universidade Fernando Pessoa"
+        ],
+        "latitude": 41.1733667,
+        "longitude": -8.61135,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10287827",
+        "name": "Gabinete de Estudos Olisiponenses",
+        "short_name": null,
+        "official_website": "http:\/\/geo.cm-lisboa.pt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5551226",
+        "name": "German School of Lisbon",
+        "short_name": null,
+        "official_website": "http:\/\/www.dslissabon.com\/",
+        "aliases": null,
+        "latitude": 38.7586098,
+        "longitude": -9.1636486,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10302682",
+        "name": "Higher Institute of New Professions",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10302527",
+        "name": "Hydrographic Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.hidrografico.pt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529765",
+        "name": "IGOT",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q66942136",
+        "name": "Igreja da Graça",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Igreja de Nossa Senhora da Graça"
+        ],
+        "latitude": 40.21345,
+        "longitude": -8.430656,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q10302873",
+        "name": "IHMT NOVA",
+        "short_name": null,
+        "official_website": "http:\/\/www.ihmt.unl.pt",
+        "aliases": [
+            "Instituto de Higiene e Medicina Tropical"
+        ],
+        "latitude": 38.700219,
+        "longitude": -9.18653,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2492346",
+        "name": "Independente University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 38.7565472,
+        "longitude": -9.1074333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15227658",
+        "name": "INESC TEC",
+        "short_name": null,
+        "official_website": "http:\/\/www.inesctec.pt\/",
+        "aliases": [
+            "inesctec.pt",
+            "Institute for Systems and Computer Engineering, Technology and Science"
+        ],
+        "latitude": 41.1794,
+        "longitude": -8.59539,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16986195",
+        "name": "INESC-ID",
+        "short_name": null,
+        "official_website": "https:\/\/www.inesc-id.pt\/",
+        "aliases": [
+            "inesc-id.pt"
+        ],
+        "latitude": 38.7362113,
+        "longitude": -9.1410125,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74539666",
+        "name": "Institut de Recerca en Cultures Medievals",
+        "short_name": null,
+        "official_website": "http:\/\/www.ircvm.ub.edu",
+        "aliases": [
+            "IRCVM"
+        ],
+        "latitude": 41.3840576,
+        "longitude": 2.1648284,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q109514823",
+        "name": "Institute for Bioengineering and Biosciences",
+        "short_name": null,
+        "official_website": "https:\/\/ibb.tecnico.ulisboa.pt\/",
+        "aliases": [
+            "iBB"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q29571384",
+        "name": "Institute for Biotechnology and Bioengineering",
+        "short_name": null,
+        "official_website": "http:\/\/www.ibb.pt\/",
+        "aliases": [
+            "IBB"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302765",
+        "name": "Institute for Molecular and Cell Biology",
+        "short_name": null,
+        "official_website": "http:\/\/www.ibmc.up.pt\/",
+        "aliases": [
+            "Instituto de Biologia Molecular e Celular (IBMC)"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6039540",
+        "name": "Institute for Political Studies – Catholic University of Portugal",
+        "short_name": null,
+        "official_website": "http:\/\/www.iep.lisboa.ucp.pt\/",
+        "aliases": null,
+        "latitude": 38.7486742,
+        "longitude": -9.1680629,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q109514201",
+        "name": "Institute of Experimental Biology and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.ibet.pt\/",
+        "aliases": [
+            "IBET",
+            "Instituto de Biologia Experimental e Tecnológica"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q13847486",
+        "name": "Institute of Higher Studies of Fafe",
+        "short_name": null,
+        "official_website": "http:\/\/www.iesfafe.pt\/",
+        "aliases": [
+            "IESF",
+            "Instituto de Estudos Superiores de Fafe LDA"
+        ],
+        "latitude": 41.463855,
+        "longitude": -8.153953,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105886482",
+        "name": "Institute of Marine Research (IMAR)",
+        "short_name": null,
+        "official_website": "https:\/\/imar.org.pt\/",
+        "aliases": [
+            "IMAR"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q62080174",
+        "name": "Instituto de Ciências Biomédicas Abel Salazar",
+        "short_name": null,
+        "official_website": "https:\/\/www.up.pt\/icbas\/",
+        "aliases": [
+            "Abel Salazar Biomedical Sciences Institute",
+            "Abel Salazar Institute of Biomedical Sciences, University of Porto",
+            "ICBAS",
+            "ICBAS - Abel Salazar Biomedical Sciences Institute",
+            "Instituto de Ciências Biomédicas Albel Salazar"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302792",
+        "name": "Instituto de Ciências Sociais da Universidade de Lisboa",
+        "short_name": null,
+        "official_website": "http:\/\/www.ics.ul.pt\/instituto",
+        "aliases": null,
+        "latitude": 38.7496806,
+        "longitude": -9.1525806,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q111668152",
+        "name": "Instituto de Comunicação da NOVA (ICNOVA)",
+        "short_name": null,
+        "official_website": "https:\/\/www.icnova.fcsh.unl.pt\/en\/homepage-2\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q111668153",
+        "name": "Instituto de Estudos de Literatura e Tradição (IELT - NOVA FCSH)",
+        "short_name": null,
+        "official_website": "https:\/\/ielt.fcsh.unl.pt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q28134119",
+        "name": "Instituto de Estudos Medievais",
+        "short_name": null,
+        "official_website": "https:\/\/iem.fcsh.unl.pt\/",
+        "aliases": [
+            "Instituto de Estudos Medievais (IEM - NOVA FCSH)"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q111668158",
+        "name": "Instituto de Etnomusicologia - Centro de Estudos em Música e Dança",
+        "short_name": null,
+        "official_website": "http:\/\/www.inetmd.pt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q111668155",
+        "name": "Instituto de Filosofia da NOVA (IFILNOVA)",
+        "short_name": null,
+        "official_website": "https:\/\/ifilnova.pt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q111668157",
+        "name": "Instituto de História Contemporânea",
+        "short_name": null,
+        "official_website": "https:\/\/ihc.fcsh.unl.pt\/",
+        "aliases": [
+            "Institute of Contemporary History"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q111668156",
+        "name": "Instituto de História da Arte (IHA)",
+        "short_name": null,
+        "official_website": "https:\/\/institutodehistoriadaarte.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302887",
+        "name": "Instituto de Linguística Teórica e Computacional",
+        "short_name": null,
+        "official_website": "http:\/\/www.iltec.pt\/",
+        "aliases": [
+            "ILTEC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302897",
+        "name": "Instituto de Medicina Molecular",
+        "short_name": null,
+        "official_website": "http:\/\/www.imm.fm.ul.pt\/web\/imm\/home",
+        "aliases": [
+            "iMM Lisboa - Instituto de Medicina Molecular",
+            "Instituto de Medicina Molecular João Lobo Antunes"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6041703",
+        "name": "Instituto de Plasmas e Fusão Nuclear",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 38.736634,
+        "longitude": -9.1386129,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q112085386",
+        "name": "Instituto De Saúde Pública, Universidade do Porto",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Institute of Public Health, University of Porto",
+            "ISPUP"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302632",
+        "name": "Instituto Piaget",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipiaget.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74556684",
+        "name": "Instituto Politécnico de Bragança, Escola Superior de Educação",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.7939592,
+        "longitude": -6.7696854,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q86726807",
+        "name": "Instituto Português de Relações Internacionais",
+        "short_name": null,
+        "official_website": "http:\/\/ipri.unl.pt\/index.php\/pt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302676",
+        "name": "Instituto Superior Autónomo de Estudos Politécnicos",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipa.univ.pt\/",
+        "aliases": null,
+        "latitude": 38.7083333,
+        "longitude": -9.1494444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q48879632",
+        "name": "Instituto Superior de Administração e Línguas da Madeira",
+        "short_name": null,
+        "official_website": "https:\/\/isal.pt\/",
+        "aliases": [
+            "ISAL"
+        ],
+        "latitude": 32.65392,
+        "longitude": -16.9097,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6041507",
+        "name": "Instituto Superior de Ciências Educativas",
+        "short_name": null,
+        "official_website": "http:\/\/www.ice.edu.pt\/",
+        "aliases": [
+            "Instituto Superior de Ciencias Educativas",
+            "Instituto Superior de Ciências Educativas (ISCE)"
+        ],
+        "latitude": 38.80672,
+        "longitude": -9.191808,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302686",
+        "name": "Instituto Superior de Ciências Sociais e Políticas",
+        "short_name": null,
+        "official_website": "https:\/\/www.iscsp.ulisboa.pt\/pt",
+        "aliases": null,
+        "latitude": 38.71321,
+        "longitude": -9.19749,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10302698",
+        "name": "Instituto Superior de Estatística e Gestão de Informação",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ISEGI-NOVA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302702",
+        "name": "Instituto Superior de Tecnologias Avançadas",
+        "short_name": null,
+        "official_website": "http:\/\/www.istec.pt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10302677",
+        "name": "Instituto Superior Manuel Teixeira Gomes",
+        "short_name": null,
+        "official_website": "https:\/\/www.ismat.pt",
+        "aliases": [
+            "ISMAT"
+        ],
+        "latitude": 37.140417,
+        "longitude": -8.535889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10302678",
+        "name": "Instituto Superior Miguel Torga",
+        "short_name": null,
+        "official_website": "http:\/\/www.ismt.pt\/",
+        "aliases": [
+            "ISMT"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74537609",
+        "name": "Instituto Superior Miguel Torga, Departamento de Investigação & Desenvolvimento",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302689",
+        "name": "Instituto Universitário Egas Moniz",
+        "short_name": null,
+        "official_website": "http:\/\/www.egasmoniz.edu.pt",
+        "aliases": null,
+        "latitude": 38.6677778,
+        "longitude": -9.1988889,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6047620",
+        "name": "Internacional University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6051048",
+        "name": "International Iberian Nanotechnology Laboratory",
+        "short_name": null,
+        "official_website": "http:\/\/www.inl.int",
+        "aliases": [
+            "INL"
+        ],
+        "latitude": 41.555,
+        "longitude": -8.3997222,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q29566102",
+        "name": "Interuniversity Center of History of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/ciuhct.org\/",
+        "aliases": [
+            "CIUHCT",
+            "Interuniversity Centre for the History of Science and Technology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2886844",
+        "name": "ISCTE – Lisbon University Institute",
+        "short_name": null,
+        "official_website": "http:\/\/iscte-iul.pt\/",
+        "aliases": [
+            "Higher Institute of Business and Labour Sciences",
+            "Instituto Superior de Ciências do Trabalho e da Empresa",
+            "Instituto Superior de Ciencias Trabalho da Empresa",
+            "ISCTE",
+            "ISCTE - Instituto Universitario de Lisboa",
+            "ISCTE – University Institute of Lisbon",
+            "Iscte-Instituto Universitário de Lisboa",
+            "ISCTE-IUL"
+        ],
+        "latitude": 38.7488889,
+        "longitude": -9.1538889,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5974041",
+        "name": "ISMAI",
+        "short_name": null,
+        "official_website": "http:\/\/www.maieutica.pt\/",
+        "aliases": [
+            "Instituto Univeristário da Maia"
+        ],
+        "latitude": 41.2678164,
+        "longitude": -8.617116,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10299478",
+        "name": "ISPA – University Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.ispa.pt\/",
+        "aliases": [
+            "ISPA",
+            "ISPA - Instituto Universitário"
+        ],
+        "latitude": 38.71223,
+        "longitude": -9.12595,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10302945",
+        "name": "ITQB NOVA",
+        "short_name": null,
+        "official_website": "http:\/\/www.itqb.unl.pt",
+        "aliases": [
+            "Instituto de Tecnologia Química e Biológica António Xavier"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q66942957",
+        "name": "Jardim Escola João de Deus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16969173",
+        "name": "Judicial Studies Center",
+        "short_name": null,
+        "official_website": "http:\/\/www.cej.mj.pt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116235689",
+        "name": "lab2pt",
+        "short_name": null,
+        "official_website": "https:\/\/lab2pt.vercel.app",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q131920922",
+        "name": "Laboratory for Instrumentation, Biomedical Engineering and Radiation Physics",
+        "short_name": null,
+        "official_website": "https:\/\/libphys.pt\/",
+        "aliases": [
+            "Laboratory for Instrumentation, Biomedical Engineering and Radiation Physics",
+            "Laboratory of Instrumentation, Biomedical Engineering and Radiation Physics",
+            "LIBPhys",
+            "Laboratório de Instrumentação Engenharia Biomédica e Física da Radiação",
+            "LIBPHYS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10317943",
+        "name": "Liceu Alexandre Herculano",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.1483444,
+        "longitude": -8.5944083,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66943410",
+        "name": "Liceu da Figueira da Foz",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66942734",
+        "name": "Liceu da Infanta D. Maria",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.206637,
+        "longitude": -8.407615,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74474338",
+        "name": "Liceu Diogo de Gouveia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 38.010932,
+        "longitude": -7.863263,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q96242874",
+        "name": "Liceu Gonçalo Velho",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.6995086,
+        "longitude": -8.8228836,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1367284",
+        "name": "Lisbon Theatre and Film School",
+        "short_name": null,
+        "official_website": "https:\/\/www.estc.ipl.pt\/",
+        "aliases": [
+            "Conservatório Nacional de Cinema",
+            "Escola Superior de Teatro e Cinema"
+        ],
+        "latitude": 38.7633029,
+        "longitude": -9.2354465,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q635878",
+        "name": "Lusíada University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ulusiada.pt\/",
+        "aliases": [
+            "Lusiada University",
+            "Universidade Lusíada de Lisboa"
+        ],
+        "latitude": 38.69787,
+        "longitude": -9.192153,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2478211",
+        "name": "Lusíada University of Porto",
+        "short_name": null,
+        "official_website": "http:\/\/www.por.ulusiada.pt\/",
+        "aliases": [
+            "Lusiada University of Porto",
+            "Universidade Lusíada do Porto"
+        ],
+        "latitude": 41.1758333,
+        "longitude": -8.5825,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15243446",
+        "name": "Madeira Interactive Technologies Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.m-iti.org",
+        "aliases": null,
+        "latitude": 32.6588889,
+        "longitude": -16.9244444,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6889102",
+        "name": "Moderna University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Modern University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10302726",
+        "name": "National Defense Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.idn.gov.pt\/",
+        "aliases": null,
+        "latitude": 38.70916,
+        "longitude": -9.1678,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q29564165",
+        "name": "National Institute of Agrarian and Veterinary Research",
+        "short_name": null,
+        "official_website": "http:\/\/www.iniav.pt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6041416",
+        "name": "National Institute of Biological Resources",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "NIBR"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6041395",
+        "name": "National Institute of Engineering, Technology and Innovation",
+        "short_name": null,
+        "official_website": "http:\/\/www.ineti.pt\/",
+        "aliases": [
+            "INETI",
+            "Instituto Nacional de Engenharia, Tecnologia e Inovação"
+        ],
+        "latitude": 38.7692954,
+        "longitude": -9.1815165,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6041414",
+        "name": "National Institute of Health Dr. Ricardo Jorge",
+        "short_name": null,
+        "official_website": "http:\/\/www.insa.min-saude.pt\/",
+        "aliases": [
+            "INSA",
+            "Instituto Nacional de Saúde Doutor Ricardo Jorge"
+        ],
+        "latitude": 38.764782,
+        "longitude": -9.164014,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q29525204",
+        "name": "National Laboratory for Energy and Geology",
+        "short_name": null,
+        "official_website": "http:\/\/www.lneg.pt\/",
+        "aliases": [
+            "Laboratório Nacional de Energia e Geologia"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1979891",
+        "name": "NOVA University Lisbon",
+        "short_name": null,
+        "official_website": "https:\/\/www.unl.pt\/",
+        "aliases": [
+            "UNL",
+            "New University of Lisbon",
+            "Universidade Nova de Lisboa"
+        ],
+        "latitude": 38.7336,
+        "longitude": -9.16028,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135972132",
+        "name": "NOVA University Lisbon Department of Environmental Sciences and Engineering",
+        "short_name": null,
+        "official_website": "https:\/\/www.dcea.fct.unl.pt\/en",
+        "aliases": [
+            "Department of Environmental Sciences and Engineering, New University of Lisbon.",
+            "Department of Environmental Sciences and Engineering, NOVA University Lisbon",
+            "New University of Lisbon Department of Environmental Sciences and Engineering",
+            "Universidade Nova de Lisboa Department of Environmental Sciences and Engineering",
+            "DCEA",
+            "DCEA - FCT NOVA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74526686",
+        "name": "OberCom",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q106170750",
+        "name": "Oporto British School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.1526039,
+        "longitude": -8.6738331,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10387859",
+        "name": "Oporto Global University",
+        "short_name": null,
+        "official_website": "https:\/\/www.upt.pt\/",
+        "aliases": [
+            "Portucalense University",
+            "Universidade Portucalense",
+            "Universidade Portucalense Infante D. Henrique",
+            "UPT"
+        ],
+        "latitude": 41.18,
+        "longitude": -8.606944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7227028",
+        "name": "Polytechnic Institute of Beja",
+        "short_name": null,
+        "official_website": "https:\/\/www.ipbeja.pt\/en\/Pages\/default.aspx",
+        "aliases": [
+            "IPBeja"
+        ],
+        "latitude": 38.01362,
+        "longitude": -7.863271,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302635",
+        "name": "Polytechnic Institute of Bragança",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipb.pt\/",
+        "aliases": [
+            "Instituto Politécnico de Bragança",
+            "IPB"
+        ],
+        "latitude": 41.7968517,
+        "longitude": -6.7684324,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7227029",
+        "name": "Polytechnic Institute of Castelo Branco",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipcb.pt\/en\/",
+        "aliases": [
+            "Castelo Branco Polytechnic University"
+        ],
+        "latitude": 39.8214565,
+        "longitude": -7.5008732,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302637",
+        "name": "Polytechnic Institute of Castelo Branco",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipcb.pt\/",
+        "aliases": [
+            "Castelo Branco Polytechnic University"
+        ],
+        "latitude": 39.8214565,
+        "longitude": -7.5008732,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2103165",
+        "name": "Polytechnic Institute of Coimbra",
+        "short_name": null,
+        "official_website": "http:\/\/internationalrelations.ipc.pt\/EN\/index.html",
+        "aliases": [
+            "IPC"
+        ],
+        "latitude": 40.2048285,
+        "longitude": -8.4563921,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302640",
+        "name": "Polytechnic Institute of Cávado and Ave",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipca.pt\/",
+        "aliases": [
+            "IPCA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7227031",
+        "name": "Polytechnic Institute of Leiria",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipleiria.pt",
+        "aliases": [
+            "Polytechnic of Leiria"
+        ],
+        "latitude": 39.7375679,
+        "longitude": -8.8138905,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1363371",
+        "name": "Polytechnic Institute of Lisbon",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipl.pt\/en",
+        "aliases": [
+            "Polytechnical Institute of Lisbon"
+        ],
+        "latitude": 38.7495868,
+        "longitude": -9.1956503,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q29522510",
+        "name": "Polytechnic Institute of Portalegre",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipportalegre.pt\/",
+        "aliases": [
+            "Instituto Politécnico de Portalegre"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4348556",
+        "name": "Polytechnic Institute of Porto",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipp.pt\/",
+        "aliases": [
+            "Porto Polytechnic"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302639",
+        "name": "Polytechnic Institute of Santarém",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipsantarem.pt\/",
+        "aliases": [
+            "Santarém Polytechnic University"
+        ],
+        "latitude": 39.2218942,
+        "longitude": -8.6887123,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302638",
+        "name": "Polytechnic Institute of Setúbal",
+        "short_name": null,
+        "official_website": "http:\/\/www.ips.pt\/",
+        "aliases": null,
+        "latitude": 38.5198114,
+        "longitude": -8.8394546,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q29565528",
+        "name": "Polytechnic Institute of Tomar",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipt.pt\/",
+        "aliases": [
+            "Instituto Politécnico de Tomar",
+            "Polytechnic University of Tomar"
+        ],
+        "latitude": 39.600562,
+        "longitude": -8.3924097,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7227039",
+        "name": "Polytechnic Institute of Viana do Castelo",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipvc.pt",
+        "aliases": [
+            "Instituto Politécnico de Viana do Castelo",
+            "IPVC",
+            "Polytechnic University of Viana do Castelo"
+        ],
+        "latitude": 41.6922688,
+        "longitude": -8.8348206,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302641",
+        "name": "Polytechnic Institute of Viseu",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipv.pt\/",
+        "aliases": [
+            "Instituto Politécnico de Viseu",
+            "IPV"
+        ],
+        "latitude": 40.6466692,
+        "longitude": -7.9196896,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302634",
+        "name": "Polytechnic of Guarda",
+        "short_name": null,
+        "official_website": "https:\/\/politecnicoguarda.pt\/",
+        "aliases": null,
+        "latitude": 40.5414722,
+        "longitude": -7.2829167,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112770047",
+        "name": "Portuguese Quantum Institute",
+        "short_name": null,
+        "official_website": "https:\/\/pqi.pt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529687",
+        "name": "Portuguese Society of Pulmonology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "SPP",
+            "Sociedade Portuguesa de Pneumologia"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q111668160",
+        "name": "Pólo NOVA FCSH do Centro de Ecologia Funcional",
+        "short_name": null,
+        "official_website": "https:\/\/htc.fcsh.unl.pt",
+        "aliases": [
+            "História Territórios e Comunidades"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302664",
+        "name": "Q10302664",
+        "short_name": null,
+        "official_website": "https:\/\/ircabral.com\/",
+        "aliases": [
+            "IRC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302690",
+        "name": "Q10302690",
+        "short_name": null,
+        "official_website": "http:\/\/www.iscem.pt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10302691",
+        "name": "Q10302691",
+        "short_name": null,
+        "official_website": "http:\/\/www.iscac.pt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10302739",
+        "name": "Q10302739",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118133958",
+        "name": "Q118133958",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q118146558",
+        "name": "Q118146558",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 38.881179,
+        "longitude": -7.167565,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q120559115",
+        "name": "Q120559115",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 38.014613,
+        "longitude": -7.859445,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q123196588",
+        "name": "Q123196588",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 38.837925,
+        "longitude": -9.463564,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123786361",
+        "name": "Q123786361",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.1853795,
+        "longitude": -8.6911049,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124179721",
+        "name": "Q124179721",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.1944059,
+        "longitude": -8.6088345,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q132674422",
+        "name": "Q132674422",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q132863108",
+        "name": "Q132863108",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q133698129",
+        "name": "Q133698129",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 38.696309,
+        "longitude": -9.422181,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q133890059",
+        "name": "Q133890059",
+        "short_name": null,
+        "official_website": "https:\/\/coworkaldeiasdemontanha.pt\/",
+        "aliases": null,
+        "latitude": 40.3797914,
+        "longitude": -7.7104781,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136502689",
+        "name": "Q136502689",
+        "short_name": null,
+        "official_website": "https:\/\/www.geds.fr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17167632",
+        "name": "Q17167632",
+        "short_name": null,
+        "official_website": "http:\/\/www.lousal.cienciaviva.pt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25429257",
+        "name": "Q25429257",
+        "short_name": null,
+        "official_website": "https:\/\/www.aese.pt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2599646",
+        "name": "Q2599646",
+        "short_name": null,
+        "official_website": "https:\/\/sgroup-unis.eu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q56348864",
+        "name": "Q56348864",
+        "short_name": null,
+        "official_website": "http:\/\/www.cmof.pt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q87365679",
+        "name": "Q87365679",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q90315016",
+        "name": "Q90315016",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 38.706607,
+        "longitude": -9.179875,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q95749655",
+        "name": "Q95749655",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 40.1349708,
+        "longitude": -7.5002079,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q96625674",
+        "name": "Q96625674",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 39.3034035,
+        "longitude": -7.4330652,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q96741367",
+        "name": "Q96741367",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.42695,
+        "longitude": -8.298683,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q98310018",
+        "name": "Q98310018",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.2246913,
+        "longitude": -8.698888,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q98962771",
+        "name": "Q98962771",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 38.1431531,
+        "longitude": -7.4526032,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74538651",
+        "name": "Research Center for Science and Technology of the Arts",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74550009",
+        "name": "RISCOS, Associação Portuguesa de Riscos, Prevenção e Segurança",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q109339954",
+        "name": "Seminário da Encarnação",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.6535102,
+        "longitude": -16.9083929,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q9821112",
+        "name": "Seminário Episcopal do Porto",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 41.1414056,
+        "longitude": -8.5946556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74542769",
+        "name": "Sociedade de Ciências Agrárias de Portugal (SCAP)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529369",
+        "name": "SPOSHO",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1362729",
+        "name": "Technical University of Lisbon",
+        "short_name": null,
+        "official_website": "http:\/\/www.utl.pt",
+        "aliases": [
+            "Lisbon Technical University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q29565491",
+        "name": "Telecommunications Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.it.pt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q98836239",
+        "name": "Tribunal de Abrantes",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 39.460609,
+        "longitude": -8.198506,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3391585",
+        "name": "Universidade Aberta de Portugal",
+        "short_name": null,
+        "official_website": "https:\/\/www.uab.pt",
+        "aliases": [
+            "Open University"
+        ],
+        "latitude": 38.7176,
+        "longitude": -9.15205,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10387774",
+        "name": "Universidade Atlântica",
+        "short_name": null,
+        "official_website": "http:\/\/www.uatlantica.pt\/",
+        "aliases": [
+            "Atlantic University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q168458",
+        "name": "Universidade Autónoma de Lisboa",
+        "short_name": null,
+        "official_website": "http:\/\/www.autonoma.pt",
+        "aliases": [
+            "Autonomous University of Lisbon",
+            "Universidade Autonoma de Lisboa"
+        ],
+        "latitude": 38.7245,
+        "longitude": -9.14577,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74544391",
+        "name": "Universidade Autónoma de Lisboa, Observare",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74556680",
+        "name": "Universidade de Aveiro, Departamento de Línguas e Culturas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74555665",
+        "name": "Universidade de Coimbra, Centro de Literatura Portuguesa",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530265",
+        "name": "Universidade de Lisboa, Instituto de Educação",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74544430",
+        "name": "Universidade do Porto, Faculdade de Letras, Centro de Investigação Transdisciplinar Cultura, Espaço e Memória",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7894386",
+        "name": "Universidade Lusófona",
+        "short_name": null,
+        "official_website": "http:\/\/www.ulusofona.pt",
+        "aliases": [
+            "Lusophone University of Humanities and Technologies",
+            "Universidade Lusófona de Humanidades e Tecnologias"
+        ],
+        "latitude": 38.757929,
+        "longitude": -9.152635,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10387848",
+        "name": "Universidade Lusófona do Porto",
+        "short_name": null,
+        "official_website": "http:\/\/www.ulp.pt",
+        "aliases": [
+            "Lusófona University of Porto",
+            "ULP"
+        ],
+        "latitude": 41.1430032,
+        "longitude": -8.608327,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135403130",
+        "name": "Universidade Moderna",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894393",
+        "name": "Universidade Sénior Contemporânea",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Universidade Senior Contemporanea"
+        ],
+        "latitude": 41.1822,
+        "longitude": -8.61665,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1972136",
+        "name": "University of Algarve",
+        "short_name": null,
+        "official_website": "http:\/\/www.ualg.pt\/",
+        "aliases": [
+            "Universidade do Algarve",
+            "University of the Algarve"
+        ],
+        "latitude": 37.0224,
+        "longitude": -7.92764,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29671",
+        "name": "University of Aveiro",
+        "short_name": null,
+        "official_website": "http:\/\/www.ua.pt",
+        "aliases": null,
+        "latitude": 40.6302778,
+        "longitude": -8.6575,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q846725",
+        "name": "University of Beira Interior",
+        "short_name": null,
+        "official_website": "http:\/\/www.ubi.pt",
+        "aliases": [
+            "Universidade da Beira Interior"
+        ],
+        "latitude": 40.2774,
+        "longitude": -7.50887,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q368643",
+        "name": "University of Coimbra",
+        "short_name": null,
+        "official_website": "https:\/\/www.uc.pt\/",
+        "aliases": [
+            "UC",
+            "uc.pt",
+            "Universidade dos Estudos Gerais"
+        ],
+        "latitude": 40.2074,
+        "longitude": -8.4265,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530555",
+        "name": "University of Coimbra, Faculty of Psychology and Education Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1434847",
+        "name": "University of Madeira",
+        "short_name": null,
+        "official_website": "http:\/\/www.uma.pt",
+        "aliases": null,
+        "latitude": 32.6589,
+        "longitude": -16.9244,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29673",
+        "name": "University of Minho",
+        "short_name": null,
+        "official_website": "https:\/\/www.uminho.pt\/EN",
+        "aliases": [
+            "Minho University",
+            "U.Minho",
+            "Uminho",
+            "UMinho",
+            "uminho.pt",
+            "Universidade do Minho",
+            "University of the Minho"
+        ],
+        "latitude": 41.560436,
+        "longitude": -8.3974382,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1461089",
+        "name": "University of the Azores",
+        "short_name": null,
+        "official_website": "http:\/\/www.uac.pt",
+        "aliases": null,
+        "latitude": 37.7458333,
+        "longitude": -25.6638889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3309132",
+        "name": "University of Trás-os-Montes and Alto Douro",
+        "short_name": null,
+        "official_website": "https:\/\/www.utad.pt\/",
+        "aliases": [
+            "UTAD",
+            "University of Tras-os-Montes and Alto Douro",
+            "University of Trás-os-Montes e Alto Douro",
+            "utad.pt"
+        ],
+        "latitude": 41.28738,
+        "longitude": -7.7389388,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1557861",
+        "name": "University of Évora",
+        "short_name": null,
+        "official_website": "https:\/\/www.uevora.pt\/",
+        "aliases": [
+            "Colégio da Companhia de Jesus",
+            "Colégio do Espírito Santo",
+            "Evora university",
+            "uevora.pt",
+            "Universidade de Évora",
+            "University of Evora"
+        ],
+        "latitude": 38.573,
+        "longitude": -7.90427,
+        "type": "university"
+    }
+]

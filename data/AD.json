@@ -1,0 +1,38 @@
+[
+    {
+        "wikidata_id": "Q136565008",
+        "name": "Universitat Carlemany",
+        "short_name": null,
+        "official_website": "https:\/\/www.universitatcarlemany.com\/",
+        "aliases": [
+            "Carlemany University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q648838",
+        "name": "Universitat d'Andorra",
+        "short_name": null,
+        "official_website": "http:\/\/www.uda.ad",
+        "aliases": [
+            "University of Andorra"
+        ],
+        "latitude": 42.465,
+        "longitude": 1.49056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28927442",
+        "name": "University of the Valleys",
+        "short_name": null,
+        "official_website": "http:\/\/www.udv.ad\/ca\/",
+        "aliases": [
+            "Universitat de les Valls"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

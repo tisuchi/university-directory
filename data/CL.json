@@ -1,0 +1,1880 @@
+[
+    {
+        "wikidata_id": "Q2374234",
+        "name": "Academy of Christian Humanism University",
+        "short_name": null,
+        "official_website": "http:\/\/www.academia.cl\/",
+        "aliases": [
+            "Universidad Academia de Humanismo Cristiano"
+        ],
+        "latitude": -33.4375,
+        "longitude": -70.6275,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q611995",
+        "name": "Adolfo Ibáñez University",
+        "short_name": null,
+        "official_website": "https:\/\/www.uai.cl",
+        "aliases": null,
+        "latitude": -33.486,
+        "longitude": -70.518,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5655738",
+        "name": "Aeronautical Polytechnic Academy",
+        "short_name": null,
+        "official_website": "http:\/\/apa.fach.cl\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4712073",
+        "name": "Alberto Hurtado University",
+        "short_name": null,
+        "official_website": "https:\/\/www.uahurtado.cl\/",
+        "aliases": [
+            "Universidad Alberto Hurtado"
+        ],
+        "latitude": -33.4448167,
+        "longitude": -70.6620444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3348434",
+        "name": "Andrés Bello University",
+        "short_name": null,
+        "official_website": "https:\/\/www.unab.cl\/",
+        "aliases": [
+            "Andres Bello University"
+        ],
+        "latitude": -33.451563,
+        "longitude": -70.667915,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101108247",
+        "name": "Antiguo Colegio Alemán de Valparaíso",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -33.042983,
+        "longitude": -71.626943,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124363001",
+        "name": "Antofagasta Baptist College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "The Antofagasta Baptist College"
+        ],
+        "latitude": -23.5801983,
+        "longitude": -70.3907581,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q23660725",
+        "name": "Architecture Facuilty UV",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -33.02471,
+        "longitude": -71.63882,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4801467",
+        "name": "Arts Faculty, University of Chile",
+        "short_name": null,
+        "official_website": "http:\/\/www.artes.uchile.cl",
+        "aliases": [
+            "Arts Faculty, Universidad de Chile",
+            "Facultad de Artes de la Universidad de Chile",
+            "Facultad de Artes, Universidad de Chile"
+        ],
+        "latitude": -33.439083,
+        "longitude": -70.654694,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551323",
+        "name": "Arturo Prat University",
+        "short_name": null,
+        "official_website": "http:\/\/www.unap.cl",
+        "aliases": [
+            "Universidad Arturo Prat"
+        ],
+        "latitude": -20.2436111,
+        "longitude": -70.1413889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q961982",
+        "name": "Austral University of Chile",
+        "short_name": null,
+        "official_website": "http:\/\/www.uach.cl\/",
+        "aliases": [
+            "Universidad Austral",
+            "Universidad Austral de Chile",
+            "Southern University of Chile",
+            "UACh"
+        ],
+        "latitude": -39.8073,
+        "longitude": -73.2511,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q9091535",
+        "name": "Autonomous University of Chile",
+        "short_name": null,
+        "official_website": "https:\/\/www.uautonoma.cl\/",
+        "aliases": null,
+        "latitude": -33.427555,
+        "longitude": -70.611492,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23073238",
+        "name": "Aysén University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uaysen.cl",
+        "aliases": null,
+        "latitude": -45.5707,
+        "longitude": -72.0756,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156370",
+        "name": "Bernardo O'Higgins University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ubo.cl\/",
+        "aliases": [
+            "Universidad Bernardo O'Higgins"
+        ],
+        "latitude": -33.467225,
+        "longitude": -70.657605,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4939500",
+        "name": "Bolivarian University of Chile",
+        "short_name": null,
+        "official_website": "http:\/\/www.ubolivariana.cl\/",
+        "aliases": null,
+        "latitude": -33.440554,
+        "longitude": -70.661216,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q67221884",
+        "name": "Caernarfon College",
+        "short_name": null,
+        "official_website": "http:\/\/www.caernarfon-college.cl\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q50349282",
+        "name": "Casa Central de la Pontificia Universidad Católica de Chile",
+        "short_name": null,
+        "official_website": "https:\/\/www.uc.cl",
+        "aliases": [
+            "Pontifical Catholic University of Chile"
+        ],
+        "latitude": -33.4408333,
+        "longitude": -70.641,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5053274",
+        "name": "Catholic University of the Maule",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucm.cl",
+        "aliases": [
+            "UCM"
+        ],
+        "latitude": -35.4354,
+        "longitude": -71.6196,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1251039",
+        "name": "Catholic University of the Most Holy Conception",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucsc.cl",
+        "aliases": [
+            "Universidad Católica de la Santísima Concepción"
+        ],
+        "latitude": -36.798882,
+        "longitude": -73.056092,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3244385",
+        "name": "Catholic University of the North",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucn.cl\/",
+        "aliases": [
+            "Universitaria Católica del Norte"
+        ],
+        "latitude": -29.964725,
+        "longitude": -71.34789,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q38931749",
+        "name": "Catholic University of the North Coquimbo Campus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q24933786",
+        "name": "Ceduc UCN",
+        "short_name": null,
+        "official_website": "http:\/\/www.ceduc.cl",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112044553",
+        "name": "CEHUM",
+        "short_name": null,
+        "official_website": "https:\/\/cehum.org\/",
+        "aliases": null,
+        "latitude": -39.794722,
+        "longitude": -73.25281,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5059754",
+        "name": "Center for Mathematical Modeling",
+        "short_name": null,
+        "official_website": "https:\/\/www.cmm.uchile.cl\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q47486715",
+        "name": "Center for the Development of Nanoscience and Nanotechnology",
+        "short_name": null,
+        "official_website": "http:\/\/cedenna.cl\/",
+        "aliases": [
+            "CEDENNA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q108737234",
+        "name": "Center of Applied Ecology & Sustainability",
+        "short_name": null,
+        "official_website": "http:\/\/www.capes.cl\/",
+        "aliases": [
+            "CAPES"
+        ],
+        "latitude": -33.4412552,
+        "longitude": -70.6434793,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74557767",
+        "name": "Center of Natural Resources and Development",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529978",
+        "name": "Centro de Arte Rupestre Moratalla",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q112267441",
+        "name": "Centro de Estudios del Cuaternario",
+        "short_name": null,
+        "official_website": "https:\/\/www.cequa.cl",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74549242",
+        "name": "Centro de Estudios en Derecho Informático",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530617",
+        "name": "Centro de Innovación en Educación (CIEDU)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74550863",
+        "name": "Chilean Biology Society",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5693965",
+        "name": "Chilean-British Culture University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ubritanica.cl\/",
+        "aliases": null,
+        "latitude": -33.4411222,
+        "longitude": -70.6449167,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74556728",
+        "name": "CLEI",
+        "short_name": null,
+        "official_website": "https:\/\/clei.org\/",
+        "aliases": [
+            "Latin-american Center for Informatics Studies"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5149695",
+        "name": "Columbia Global Centers",
+        "short_name": null,
+        "official_website": "https:\/\/globalcenters.columbia.edu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q131675664",
+        "name": "Computer Science, University of Chile",
+        "short_name": null,
+        "official_website": "https:\/\/dcc.uchile.cl\/",
+        "aliases": [
+            "DCC UChile"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74550456",
+        "name": "Departamento de Literatura",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1316229",
+        "name": "Diego Portales University",
+        "short_name": null,
+        "official_website": "https:\/\/www.udp.cl\/",
+        "aliases": [
+            "UDP",
+            "Universidad Diego Portales"
+        ],
+        "latitude": -33.451355,
+        "longitude": -70.659757,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124130372",
+        "name": "Educational Justice Center",
+        "short_name": null,
+        "official_website": "https:\/\/centrojusticiaeducacional.uc.cl\/",
+        "aliases": [
+            "CJE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74541257",
+        "name": "Escuela de Educación Física de la Pontificia Universidad Católica de Valparaíso",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74549245",
+        "name": "Escuela de Fonoaudiología (Facultad de Medicina)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q137643929",
+        "name": "ESE Business School at Universidad de Los Andes",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q31903960",
+        "name": "Esmeralda Experimental Station Irrigation Department",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -20.4833333,
+        "longitude": -69.3811111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156452",
+        "name": "European University of Business",
+        "short_name": null,
+        "official_website": "http:\/\/www.uen.cl",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74528113",
+        "name": "Facultad de Filosofía y Humanidades, Centro de Estudios Judaicos",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74543203",
+        "name": "Facultad de Recursos Naturales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q23660677",
+        "name": "Faculty of Agronomy of the Pontifical Catholic University of Valparaíso",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -32.89098,
+        "longitude": -71.20819,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q457793",
+        "name": "Federico Santa María Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.usm.cl",
+        "aliases": [
+            "USM",
+            "Federico Santa Maria Technical University",
+            "Santa Maria University",
+            "The Prestigious one",
+            "Universidad Tecnica Federico Santa Maria",
+            "Universidad Técnica Federico Santa María",
+            "UTFSM"
+        ],
+        "latitude": -33.035021,
+        "longitude": -71.595079,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23660678",
+        "name": "Federico Santa María Technical University - Viña del Mar Campus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -33.03639,
+        "longitude": -71.48696,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q110152503",
+        "name": "Fondo de Areas Prioritarias Center for Genome Regulation",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "FONDAP Center for Genome Regulation"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527830",
+        "name": "Fundación TECHO-Chile",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5515968",
+        "name": "Gabriela Mistral University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ugm.cl",
+        "aliases": [
+            "UGM"
+        ],
+        "latitude": -33.4272222,
+        "longitude": -70.6219444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530347",
+        "name": "Grupo Editorial Mutatis Mutandis",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1594001",
+        "name": "Heidelberg Center Lateinamerika",
+        "short_name": null,
+        "official_website": "http:\/\/www.heidelberg-center.uni-hd.de",
+        "aliases": null,
+        "latitude": -33.428239,
+        "longitude": -70.604471,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156471",
+        "name": "Iberoamerican University of Science and Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -33.4495528,
+        "longitude": -70.6579278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5914808",
+        "name": "Inacap",
+        "short_name": null,
+        "official_website": "http:\/\/www.inacap.cl",
+        "aliases": null,
+        "latitude": -33.380186,
+        "longitude": -70.541049,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23660720",
+        "name": "Institute and Conservatory of Music PUCV",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -33.04203,
+        "longitude": -71.62753,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23775060",
+        "name": "Institute of Fisheries Development",
+        "short_name": null,
+        "official_website": "http:\/\/www.ifop.cl\/",
+        "aliases": null,
+        "latitude": -33.0395526,
+        "longitude": -71.6290232,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547424",
+        "name": "Instituto Comunicación e Imagen",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18939169",
+        "name": "Instituto de Estudios Avanzados",
+        "short_name": null,
+        "official_website": "http:\/\/www.ideausach.cl",
+        "aliases": null,
+        "latitude": -33.431352,
+        "longitude": -70.622153,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5917653",
+        "name": "Instituto Pedagógico",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30293974",
+        "name": "Instituto Profesional Escuela Moderna de Música",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23660723",
+        "name": "Isabel Brown Caces Building PUCV",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -33.04453,
+        "longitude": -71.6124,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156501",
+        "name": "José Santos Ossa University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16644471",
+        "name": "La Araucana University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23660721",
+        "name": "Malaquías Morales Muñoz University Center PUCV",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -33.03917,
+        "longitude": -71.60057,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23660715",
+        "name": "Maria Teresa Brown de Ariztía University Center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -33.01304,
+        "longitude": -71.5397,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156533",
+        "name": "Maritime University of Chile",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106473107",
+        "name": "Metamaterials",
+        "short_name": null,
+        "official_website": "https:\/\/metamateriales.cl",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6825306",
+        "name": "Metropolitan University of Educational Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.umce.cl",
+        "aliases": [
+            "UMCE",
+            "Universidad Metropolitana de Ciencias de la Educación"
+        ],
+        "latitude": -33.461808,
+        "longitude": -70.597319,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6825309",
+        "name": "Metropolitan University of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.utem.cl\/",
+        "aliases": [
+            "UTEM"
+        ],
+        "latitude": -33.448507,
+        "longitude": -70.658056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6844861",
+        "name": "Miguel de Cervantes University",
+        "short_name": null,
+        "official_website": "https:\/\/www.umcervantes.cl\/",
+        "aliases": null,
+        "latitude": -33.4386111,
+        "longitude": -70.6475,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q110524002",
+        "name": "Millennium Institute for Foundational Research on Data",
+        "short_name": null,
+        "official_website": "https:\/\/imfd.cl\/",
+        "aliases": [
+            "IMFD",
+            "IMFD Chile"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q116971294",
+        "name": "Millennium Nucleus in NanoBioPhysics",
+        "short_name": null,
+        "official_website": "https:\/\/nanobiophysics.cl\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q23660724",
+        "name": "Monsignor Gimpert Building PUCV",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -33.04488,
+        "longitude": -71.60679,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q634259",
+        "name": "Playa Ancha University",
+        "short_name": null,
+        "official_website": "http:\/\/www.upla.cl\/",
+        "aliases": [
+            "Universidad de Playa Ancha"
+        ],
+        "latitude": -33.0244223,
+        "longitude": -71.6407731,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1129925",
+        "name": "Pontifical Catholic University of Chile",
+        "short_name": null,
+        "official_website": "https:\/\/www.uc.cl\/",
+        "aliases": [
+            "UC",
+            "Catholic University of Chile",
+            "Pontificia Universidad Catolica de Chile",
+            "Pontificia Universidad Católica de Chile"
+        ],
+        "latitude": -33.441148,
+        "longitude": -70.640694,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5918229",
+        "name": "Pontifical Catholic University of Chile Institute of History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5854612",
+        "name": "Pontifical Catholic University of Chile, Faculty of Biological Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Faculty of Biological Sciences, Pontifical Catholic University of Chile"
+        ],
+        "latitude": -33.4417222,
+        "longitude": -70.6394528,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1284408",
+        "name": "Pontifical Catholic University of Valparaíso",
+        "short_name": null,
+        "official_website": "http:\/\/www.pucv.cl",
+        "aliases": [
+            "Pontifical Catholic University of Valparaiso",
+            "Universidad Católica de Valparaíso"
+        ],
+        "latitude": -33.0447,
+        "longitude": -71.6056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74536399",
+        "name": "Pontificia Universidad Católica de Chile, Departamento de Ingeniería de Construcción, Escuela de Ingeniería",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74542215",
+        "name": "Pontificia Universidad Católica de Chile, Escuela de Medicina",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74542158",
+        "name": "Pontificia Universidad Católica de Chile, Escuela de Psicología",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74541324",
+        "name": "Pontificia Universidad Católica de Chile, Facultad de Comunicaciones",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527811",
+        "name": "Pontificia Universidad Católica de Chile, Facultad de Filosofía, Instituto de Estética",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q23660714",
+        "name": "Pontificia Universidad Católica de Valparaíso. Instituto de Arte",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -33.03085,
+        "longitude": -71.53013,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156657",
+        "name": "Popular University of Lastarria",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23660719",
+        "name": "PUCV School of Architecture and Design",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -33.02681,
+        "longitude": -71.58237,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q110639075",
+        "name": "Q110639075",
+        "short_name": null,
+        "official_website": "http:\/\/www.imii.cl\/",
+        "aliases": null,
+        "latitude": -33.4411522,
+        "longitude": -70.6412584,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q119826558",
+        "name": "Q119826558",
+        "short_name": null,
+        "official_website": "https:\/\/fundacionsol.cl\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q122950298",
+        "name": "Q122950298",
+        "short_name": null,
+        "official_website": "https:\/\/cegecal.uchile.cl\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2883156",
+        "name": "Q2883156",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5918307",
+        "name": "Q5918307",
+        "short_name": null,
+        "official_website": "https:\/\/www.inta.cl\/",
+        "aliases": null,
+        "latitude": -33.50146,
+        "longitude": -70.59274,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5975099",
+        "name": "Q5975099",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q65159345",
+        "name": "Q65159345",
+        "short_name": null,
+        "official_website": "https:\/\/www.iniciativamilenio.cl\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q23660722",
+        "name": "Rafael Ariztía University Center PUCV",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -33.04459,
+        "longitude": -71.61366,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2134722",
+        "name": "Real Universidad de San Felipe",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74528103",
+        "name": "Red Iberoamericana Foucault",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156669",
+        "name": "San Marcos Regional University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "URSM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1631474",
+        "name": "San Sebastián University",
+        "short_name": null,
+        "official_website": "https:\/\/www.uss.cl\/",
+        "aliases": [
+            "San Sebastian University",
+            "Universidad San Sebastian",
+            "Universidad San Sebastián"
+        ],
+        "latitude": -36.81382,
+        "longitude": -73.04432,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156483",
+        "name": "SEK University Chile",
+        "short_name": null,
+        "official_website": "http:\/\/www.usek.cl\/",
+        "aliases": null,
+        "latitude": -33.430456,
+        "longitude": -70.626428,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74556710",
+        "name": "Sociedad Chilena de Anestesiología",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74546597",
+        "name": "Sociedad Chilena de Filosofía",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q23660363",
+        "name": "Technological University of Chile",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -39.81571,
+        "longitude": -73.22688,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111076576",
+        "name": "Technological University of Chile",
+        "short_name": null,
+        "official_website": "https:\/\/portales.inacap.cl",
+        "aliases": null,
+        "latitude": -33.4523991,
+        "longitude": -70.5921308,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2744138",
+        "name": "Temuco Catholic University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uct.cl",
+        "aliases": null,
+        "latitude": -38.7372,
+        "longitude": -72.6006,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74528726",
+        "name": "Universidad Academia de Humanismo Cristiano, Facultad de Pedagogía",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527420",
+        "name": "Universidad Academia de Humanismo Cristiano, Programa de Investigaciones e Intervenciones Territoriales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3551514",
+        "name": "Universidad Adventista de Chile",
+        "short_name": null,
+        "official_website": "http:\/\/www.unach.cl\/",
+        "aliases": [
+            "UNACH"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74540191",
+        "name": "Universidad Alberto Hurtado, Facultad de Economía",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156332",
+        "name": "Universidad Alonso de Ovalle",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Francisco de Vitoria University",
+            "Alonso de Ovalle University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530677",
+        "name": "Universidad Arturo Prat, Instituto de Estudios Internacionales - INTE",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Universidad Arturo Prat, Instituto de Estudios Internacionales"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74542239",
+        "name": "Universidad Autónoma de Chile,  Instituto Chileno de Estudios Municipales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74557745",
+        "name": "Universidad Católica de la Santísima Concepción, Facultad de Educación",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74537595",
+        "name": "Universidad Católica de Temuco, Facultad de Ciencias Sociales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156390",
+        "name": "Universidad Católica Silva Henríquez",
+        "short_name": null,
+        "official_website": "http:\/\/ww3.ucsh.cl",
+        "aliases": null,
+        "latitude": -33.446444,
+        "longitude": -70.641697,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q662422",
+        "name": "Universidad Central de Chile",
+        "short_name": null,
+        "official_website": "https:\/\/www.ucentral.cl\/",
+        "aliases": [
+            "Universidad Central (Chile)"
+        ],
+        "latitude": -33.452937,
+        "longitude": -70.660008,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74540194",
+        "name": "Universidad Central de Chile, Centro de Estudios Arquitectónicos, Urbanísticos y del Paisaje",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5406597",
+        "name": "Universidad de Chile",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Duoc UC",
+            "DuocUC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q74542330",
+        "name": "Universidad de Chile, Centro Interdisciplinario de Estudios en Bioética",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74548704",
+        "name": "Universidad de Chile, Departamento de Ciencia Política, Instituto de Ciencia Política",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527417",
+        "name": "Universidad de Chile, Facultad de Arquitectura y Urbanismo, Departamento de Diseño",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Universidad de Chile, Departamento de Urbanismo, Facultad de Arquitectura y Urbanismo"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74556682",
+        "name": "Universidad de Chile, Facultad de Arquitectura y Urbanismo, Instituto de la Vivienda",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530082",
+        "name": "Universidad de Chile, Facultad de Derecho, Centro de Derecho Ambiental",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552577",
+        "name": "Universidad de Chile, Facultad de Economía y Negocios, Departamento de Economía",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74539544",
+        "name": "Universidad de Chile, Facultad de Filosofía y Humanidades, Centro de Estudios Culturales Latinoamericanos",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547835",
+        "name": "Universidad de Chile, Facultad de Filosofía y Humanidades, Departamento de Ciencias Históricas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74540215",
+        "name": "Universidad de Chile, Facultad de Filosofía, Humanidades y Educación, Centro de Estudios Bizantinos y Neohélenicos",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74537955",
+        "name": "Universidad de Concepción, Escuela de Administración y Negocios",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74544911",
+        "name": "Universidad de La Frontera, Facultad de Educación, Ciencias Sociales y Humanidades",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q940031",
+        "name": "Universidad de los Andes",
+        "short_name": null,
+        "official_website": "https:\/\/www.uandes.cl\/",
+        "aliases": [
+            "University of the Andes",
+            "UAndes"
+        ],
+        "latitude": -33.404007,
+        "longitude": -70.507468,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895645",
+        "name": "Universidad de Los Lagos",
+        "short_name": null,
+        "official_website": "http:\/\/www.ulagos.cl\/",
+        "aliases": null,
+        "latitude": -40.5871667,
+        "longitude": -73.0891639,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74558090",
+        "name": "Universidad de Magallanes, Instituto de la Patagonia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74526744",
+        "name": "Universidad de Playa Ancha, Facultad de Humanidades, Departamento Disciplinario de Historia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547799",
+        "name": "Universidad de Santiago, Facultad de Química",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74554918",
+        "name": "Universidad del Bío-Bío, Departamento de Ingeniería Industrial",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74553000",
+        "name": "Universidad del Bío-Bío. Facultad de Arquitectura, Construcción y Diseño",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1778689",
+        "name": "Universidad del Desarrollo",
+        "short_name": null,
+        "official_website": "http:\/\/www.udd.cl",
+        "aliases": [
+            "UDD"
+        ],
+        "latitude": -36.821455,
+        "longitude": -73.0365469,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156850",
+        "name": "Universidad del Mar",
+        "short_name": null,
+        "official_website": "http:\/\/www.udelmar.cl\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1812621",
+        "name": "Universidad Finis Terrae",
+        "short_name": null,
+        "official_website": "https:\/\/finis.cl\/",
+        "aliases": [
+            "Finis Terrae University"
+        ],
+        "latitude": -33.436959,
+        "longitude": -70.60851,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156506",
+        "name": "Universidad La República",
+        "short_name": null,
+        "official_website": "http:\/\/www.ularepublica.cl",
+        "aliases": null,
+        "latitude": -33.44173,
+        "longitude": -70.662599,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27163201",
+        "name": "Universidad Leonardo da Vinci",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156519",
+        "name": "Universidad Marítima de Chile",
+        "short_name": null,
+        "official_website": "http:\/\/www.uleones.com\/",
+        "aliases": null,
+        "latitude": -33.448229,
+        "longitude": -70.651947,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29731",
+        "name": "Universidad Mayor",
+        "short_name": null,
+        "official_website": "https:\/\/www.umayor.cl\/um\/",
+        "aliases": [
+            "Major University"
+        ],
+        "latitude": -33.421251,
+        "longitude": -70.604917,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156822",
+        "name": "Universidad Pontificia de Santo Tomás de Aquino",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -33.4357138,
+        "longitude": -70.6505658,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894312",
+        "name": "Universidad San Anselmo de Canterbury",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156681",
+        "name": "Universidad Santo Tomás",
+        "short_name": null,
+        "official_website": "http:\/\/www.ust.cl\/",
+        "aliases": null,
+        "latitude": -33.448726,
+        "longitude": -70.660882,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156725",
+        "name": "Universidad Técnica del Estado",
+        "short_name": null,
+        "official_website": "http:\/\/www.ute.cl\/",
+        "aliases": [
+            "UTE",
+            "State Technical University",
+            "Universidad Tecnica del Estado"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895000",
+        "name": "University for the Arts, Sciences, and Communication",
+        "short_name": null,
+        "official_website": "http:\/\/www.uniacc.cl\/",
+        "aliases": [
+            "Universidad de Artes, Ciencias y Comunicación"
+        ],
+        "latitude": -33.444195,
+        "longitude": -70.622957,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156740",
+        "name": "University of Aconcagua",
+        "short_name": null,
+        "official_website": "http:\/\/www.uac.cl\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156616",
+        "name": "University of Alba",
+        "short_name": null,
+        "official_website": "http:\/\/www.udalba.cl\/",
+        "aliases": null,
+        "latitude": -33.4491068,
+        "longitude": -70.661294,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3077517",
+        "name": "University of Antofagasta",
+        "short_name": null,
+        "official_website": "http:\/\/www.uantof.cl\/",
+        "aliases": [
+            "UA",
+            "uantof"
+        ],
+        "latitude": -23.669118,
+        "longitude": -70.405554,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895089",
+        "name": "University of Art and Social Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.uarcis.cl\/",
+        "aliases": [
+            "ARCIS",
+            "ARCIS University",
+            "UArcis",
+            "Universidad Arcis",
+            "Universidad ARCIS"
+        ],
+        "latitude": -33.446334,
+        "longitude": -70.673362,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895095",
+        "name": "University of Atacama",
+        "short_name": null,
+        "official_website": "http:\/\/www.uda.cl\/",
+        "aliases": null,
+        "latitude": -27.3566667,
+        "longitude": -70.3525,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q232141",
+        "name": "University of Chile",
+        "short_name": null,
+        "official_website": "https:\/\/uchile.cl\/",
+        "aliases": [
+            "La U De Chile",
+            "UChile",
+            "Universidad de Chile"
+        ],
+        "latitude": -33.4445489,
+        "longitude": -70.6509539,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q119981737",
+        "name": "University of Chile, Department of Geophysics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q199948",
+        "name": "University of Concepción",
+        "short_name": null,
+        "official_website": "http:\/\/www.udec.cl\/",
+        "aliases": [
+            "UdeC",
+            "Universidad de Concepción",
+            "Universidad de Concepción.",
+            "University of Concepcion"
+        ],
+        "latitude": -36.8294765,
+        "longitude": -73.0341825,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1306537",
+        "name": "University of Informatics Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucinf.cl",
+        "aliases": null,
+        "latitude": -33.427405,
+        "longitude": -70.610511,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551326",
+        "name": "University of La Frontera",
+        "short_name": null,
+        "official_website": "https:\/\/en.ufro.cl\/",
+        "aliases": [
+            "University of the Frontier"
+        ],
+        "latitude": -38.74742,
+        "longitude": -72.61775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551327",
+        "name": "University of La Serena",
+        "short_name": null,
+        "official_website": "http:\/\/www.userena.cl\/",
+        "aliases": null,
+        "latitude": -29.9138889,
+        "longitude": -71.2413889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895620",
+        "name": "University of Las Condes",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5947836",
+        "name": "University of Magallanes",
+        "short_name": null,
+        "official_website": "http:\/\/www.umag.cl",
+        "aliases": [
+            "Magallanes university",
+            "UMAG"
+        ],
+        "latitude": -53.1361444,
+        "longitude": -70.8802889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21284627",
+        "name": "University of O'Higgins",
+        "short_name": null,
+        "official_website": "http:\/\/uoh.cl\/",
+        "aliases": [
+            "Universidad de O'Higgins"
+        ],
+        "latitude": -34.16442,
+        "longitude": -70.74194,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156808",
+        "name": "University of Puerto Varas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156810",
+        "name": "University of Rancagua",
+        "short_name": null,
+        "official_website": "http:\/\/www.unir.cl\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1259453",
+        "name": "University of Santiago",
+        "short_name": null,
+        "official_website": "http:\/\/www.usach.cl\/",
+        "aliases": [
+            "University of Santiago, Chile"
+        ],
+        "latitude": -33.448942,
+        "longitude": -70.682766,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551328",
+        "name": "University of Talca",
+        "short_name": null,
+        "official_website": "http:\/\/www.utalca.cl\/",
+        "aliases": null,
+        "latitude": -35.4054,
+        "longitude": -71.6331,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3138071",
+        "name": "University of Tarapacá",
+        "short_name": null,
+        "official_website": "http:\/\/www.uta.cl\/",
+        "aliases": [
+            "University of Tarapaca"
+        ],
+        "latitude": -18.4881111,
+        "longitude": -70.2945833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896686",
+        "name": "University of the Americas",
+        "short_name": null,
+        "official_website": "https:\/\/econtinua.udla.cl\/",
+        "aliases": [
+            "UDLA",
+            "Universidad de Las Américas",
+            "Universidad de las Américas, Chile"
+        ],
+        "latitude": -33.43673,
+        "longitude": -70.615872,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q38779",
+        "name": "University of the Bío-Bío",
+        "short_name": null,
+        "official_website": "http:\/\/www.ubiobio.cl\/",
+        "aliases": [
+            "UBB",
+            "Universidad del Bio-Bio",
+            "University of the Bio-Bio"
+        ],
+        "latitude": -36.82062,
+        "longitude": -73.01492,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3247805",
+        "name": "University of the Pacific",
+        "short_name": null,
+        "official_website": "http:\/\/www.upacifico.com",
+        "aliases": null,
+        "latitude": -33.378676,
+        "longitude": -70.528074,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1546014",
+        "name": "University of Valparaíso",
+        "short_name": null,
+        "official_website": "https:\/\/uv.cl\/",
+        "aliases": [
+            "University of Valparaiso"
+        ],
+        "latitude": -33.0407143,
+        "longitude": -71.6254608,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7938058",
+        "name": "Viña del Mar University",
+        "short_name": null,
+        "official_website": "https:\/\/www.uvm.cl\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

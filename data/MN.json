@@ -1,0 +1,287 @@
+[
+    {
+        "wikidata_id": "Q4809706",
+        "name": "Association of China and Mongolia International Schools",
+        "short_name": null,
+        "official_website": "http:\/\/www.acamis.org\/",
+        "aliases": [
+            "ACAMIS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106506688",
+        "name": "CITI University",
+        "short_name": null,
+        "official_website": "https:\/\/citi.edu.mn",
+        "aliases": null,
+        "latitude": 47.9255833,
+        "longitude": 106.9306944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25632953",
+        "name": "Etugen University",
+        "short_name": null,
+        "official_website": "https:\/\/etugen.edu.mn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136564994",
+        "name": "Global Leadership University",
+        "short_name": null,
+        "official_website": "https:\/\/glu.edu.mn\/",
+        "aliases": [
+            "GLU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1150881",
+        "name": "Ider University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 47.9189444,
+        "longitude": 106.9276111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q132627265",
+        "name": "Institute of Astronomy and Geophysics",
+        "short_name": null,
+        "official_website": "https:\/\/iag.mn\/",
+        "aliases": [
+            "IAG",
+            "Institute of Astronomy and Geophysics of Mongolian Academy of Science",
+            "Kublai Institute of Astronomy and Geophysics"
+        ],
+        "latitude": 47.92115,
+        "longitude": 106.954259,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1046619",
+        "name": "Mongolia International University",
+        "short_name": null,
+        "official_website": "http:\/\/www.miu.edu.mn",
+        "aliases": null,
+        "latitude": 47.9146,
+        "longitude": 106.9736,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15730456",
+        "name": "Mongolian National University",
+        "short_name": null,
+        "official_website": "http:\/\/www.mnu.edu.mn\/",
+        "aliases": [
+            "MNU",
+            "Mongolian National Institute",
+            "Монгол Үндэсний Их Сургууль",
+            "МҮИС"
+        ],
+        "latitude": 47.9252222,
+        "longitude": 106.8920556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20611862",
+        "name": "Mongolian National University of Arts and Culture",
+        "short_name": null,
+        "official_website": "https:\/\/mnuac.edu.mn\/",
+        "aliases": null,
+        "latitude": 47.9262222,
+        "longitude": 106.9140278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3874711",
+        "name": "Mongolian National University of Education",
+        "short_name": null,
+        "official_website": "https:\/\/www.msue.edu.mn\/",
+        "aliases": [
+            "Mongolian State University of Education"
+        ],
+        "latitude": 47.9183,
+        "longitude": 106.9244,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20612408",
+        "name": "Mongolian National University of Medical Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.mnums.edu.mn\/",
+        "aliases": null,
+        "latitude": 47.9231,
+        "longitude": 106.9213,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2514534",
+        "name": "Mongolian University of Life Sciences",
+        "short_name": "MULS",
+        "official_website": "https:\/\/eng.muls.edu.mn\/",
+        "aliases": [
+            "Mongolian State University of Agriculture"
+        ],
+        "latitude": 47.8867,
+        "longitude": 106.909,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25632677",
+        "name": "Mongolian University of Pharmaceutical Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/monos.edu.mn",
+        "aliases": [
+            "MUPS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2370318",
+        "name": "Mongolian University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.must.edu.mn\/",
+        "aliases": null,
+        "latitude": 48.5386111,
+        "longitude": 107.5441667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013396",
+        "name": "Mongolian University of Science and Technology School of Computer Science and Management",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1349150",
+        "name": "National University of Mongolia",
+        "short_name": null,
+        "official_website": "https:\/\/www.num.edu.mn",
+        "aliases": [
+            "NUM",
+            "Mongol Ulsyn Ikh Surguuli",
+            "Mongolian National University, Ulan Bator",
+            "MUIS",
+            "Монгол Улсын Их Сургууль",
+            "МУИС"
+        ],
+        "latitude": 47.9227778,
+        "longitude": 106.9191667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25043443",
+        "name": "Orkhon University",
+        "short_name": null,
+        "official_website": "http:\/\/www.orkhon.edu.mn",
+        "aliases": [
+            "Orhon University",
+            "Orkhon Institute of Foreign Languages and Secretarial Training"
+        ],
+        "latitude": 47.894611,
+        "longitude": 106.901361,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10942544",
+        "name": "Otgontenger University",
+        "short_name": null,
+        "official_website": "http:\/\/www.otgontenger.edu.mn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135650558",
+        "name": "Q135650558",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q31795481",
+        "name": "Q31795481",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11344684",
+        "name": "Soyol Erdem University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25633055",
+        "name": "Ulaanbaatar State University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 47.9208333,
+        "longitude": 106.9583056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6040322",
+        "name": "University of Finance and Economics",
+        "short_name": null,
+        "official_website": "http:\/\/www.ufe.edu.mn\/",
+        "aliases": [
+            "UFE"
+        ],
+        "latitude": 47.9191,
+        "longitude": 106.93,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25632487",
+        "name": "University of Internal Affairs of Mongolia",
+        "short_name": null,
+        "official_website": "https:\/\/www.uia.gov.mn\/",
+        "aliases": [
+            "LEU",
+            "UIA",
+            "Law Enforcement University of Mongolia"
+        ],
+        "latitude": 47.9147222,
+        "longitude": 106.9955556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1097182",
+        "name": "University of the Humanities",
+        "short_name": null,
+        "official_website": "https:\/\/www.humanities.edu.mn\/",
+        "aliases": null,
+        "latitude": 47.9221,
+        "longitude": 106.919,
+        "type": "university"
+    }
+]

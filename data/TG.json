@@ -1,0 +1,132 @@
+[
+    {
+        "wikidata_id": "Q16643789",
+        "name": "Institut togolais de recherche agronomique",
+        "short_name": null,
+        "official_website": "http:\/\/www.itra.tg\/",
+        "aliases": null,
+        "latitude": 6.2075276,
+        "longitude": 1.2025301,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q116914091",
+        "name": "National Agricultural Training Institute of Tove (Kpalime)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "INFA of Tove"
+        ],
+        "latitude": 6.88245,
+        "longitude": 0.64466,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q118613886",
+        "name": "Q118613886",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 9.53067,
+        "longitude": 1.20832,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q118613889",
+        "name": "Q118613889",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 9.68821,
+        "longitude": 1.12786,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125926957",
+        "name": "Q125926957",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 6.1724981,
+        "longitude": 1.2447507,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137766547",
+        "name": "Q137766547",
+        "short_name": null,
+        "official_website": "https:\/\/www.esatogo.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137802540",
+        "name": "Q137802540",
+        "short_name": null,
+        "official_website": "https:\/\/iaectogo.com\/",
+        "aliases": null,
+        "latitude": 6.17,
+        "longitude": 1.22,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136645306",
+        "name": "Regional Centre of Excellence on Sustainable Cities in Africa",
+        "short_name": null,
+        "official_website": "https:\/\/www.cervida-togo.org\/accueil.html",
+        "aliases": [
+            "Cervida-Dounédon"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102228480",
+        "name": "Universite du Lome Centre de Gestion Integree du Littoral et de l Environnement",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551604",
+        "name": "University of Kara",
+        "short_name": null,
+        "official_website": "https:\/\/univ-kara.tg\/",
+        "aliases": null,
+        "latitude": 9.530556,
+        "longitude": 1.208333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551618",
+        "name": "University of Lomé",
+        "short_name": null,
+        "official_website": "https:\/\/univ-lome.tg\/",
+        "aliases": [
+            "UL",
+            "University of Benin",
+            "univ-lome.tg",
+            "Université de Lomé",
+            "University of Lome"
+        ],
+        "latitude": 6.173669,
+        "longitude": 1.215866,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102228477",
+        "name": "University of Lomé Faculty of Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/univ-lome.tg\/faculte-des-sciences-fds",
+        "aliases": null,
+        "latitude": 6.1766617,
+        "longitude": 1.213146,
+        "type": "university"
+    }
+]

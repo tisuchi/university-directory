@@ -1,0 +1,131 @@
+[
+    {
+        "wikidata_id": "Q108893081",
+        "name": "Curtin Mauritius",
+        "short_name": null,
+        "official_website": "https:\/\/curtinmauritius.ac.mu\/",
+        "aliases": [
+            "Curtin University, Mauritius"
+        ],
+        "latitude": -20.2293368,
+        "longitude": 57.5131355,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q64687028",
+        "name": "Mauritius College of the Air",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "MCA"
+        ],
+        "latitude": -20.2333389,
+        "longitude": 57.4992111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294301",
+        "name": "Mauritius Institute of Education",
+        "short_name": null,
+        "official_website": "http:\/\/web.mie.ac.mu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16932785",
+        "name": "Mauritius Institute of Training and Development",
+        "short_name": null,
+        "official_website": "http:\/\/www.mitd.mu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7096263",
+        "name": "Open University of Mauritius",
+        "short_name": null,
+        "official_website": "http:\/\/www.open.ac.mu\/index.php\/en\/",
+        "aliases": [
+            "OU",
+            "open.ac.mu"
+        ],
+        "latitude": -20.2333389,
+        "longitude": 57.4992111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q64686935",
+        "name": "Rushmore Business School Ltd",
+        "short_name": null,
+        "official_website": "https:\/\/rbs.ac.mu\/",
+        "aliases": [
+            "RBS"
+        ],
+        "latitude": -20.2679516,
+        "longitude": 57.4862677,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3485202",
+        "name": "Sir Abdool Raman Osman State College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -20.282124,
+        "longitude": 57.495596,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1097479",
+        "name": "University of Mauritius",
+        "short_name": null,
+        "official_website": "http:\/\/www.uom.ac.mu",
+        "aliases": [
+            "UOM",
+            "UoM",
+            "uom.ac.mu"
+        ],
+        "latitude": -20.233888,
+        "longitude": 57.497027,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943578",
+        "name": "University of Mauritius Department of Economics and Statistics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1097363",
+        "name": "University of Technology, Mauritius",
+        "short_name": null,
+        "official_website": "http:\/\/www.utm.ac.mu\/",
+        "aliases": [
+            "UTM",
+            "University of Technology Mauritius",
+            "utm.ac.mu"
+        ],
+        "latitude": -20.176785,
+        "longitude": 57.46729,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q64686942",
+        "name": "Université des Mascareignes",
+        "short_name": null,
+        "official_website": "http:\/\/www.udm.ac.mu",
+        "aliases": [
+            "UDM"
+        ],
+        "latitude": -20.2447954,
+        "longitude": 57.453676,
+        "type": "university"
+    }
+]

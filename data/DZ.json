@@ -1,0 +1,1418 @@
+[
+    {
+        "wikidata_id": "Q30294238",
+        "name": "Abbès Laghrour University of Khenchela",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-khenchela.dz\/",
+        "aliases": [
+            "Université Abbès Laghrour Khenchela"
+        ],
+        "latitude": 35.4913184,
+        "longitude": 7.0922993,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3054960",
+        "name": "AES Algiers",
+        "short_name": null,
+        "official_website": "http:\/\/www.enssea.dz\/",
+        "aliases": [
+            "National Higher School of Statistics and Applied Economy"
+        ],
+        "latitude": 36.6409722,
+        "longitude": 2.7914167,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2835697",
+        "name": "Algerian Petroleum Institute",
+        "short_name": null,
+        "official_website": "https:\/\/sonatrach.com\/iap",
+        "aliases": [
+            "API (Algeria)",
+            "IAP (Algeria)"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q29901623",
+        "name": "Algiers 2 University",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-alger2.dz\/",
+        "aliases": [
+            "Université d'Alger 2",
+            "University of Algiers 2",
+            "University of Algiers Abou El Kacem Saadallah,"
+        ],
+        "latitude": 36.7757222,
+        "longitude": 3.0038889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4118237",
+        "name": "Badji Mokhtar-Annaba University",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-annaba.dz\/",
+        "aliases": [
+            "Annaba University",
+            "UBMA",
+            "univ-annaba.org"
+        ],
+        "latitude": 36.9144397,
+        "longitude": 7.7426673,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18577852",
+        "name": "Blida 2 University",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-blida2.dz\/",
+        "aliases": [
+            "Ali Lounissi University",
+            "Blida 2 University - Ali Lounissi",
+            "University of Blida 2 Lounissi Ali",
+            "University of El Affroun"
+        ],
+        "latitude": 36.45,
+        "longitude": 2.6402778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30261702",
+        "name": "Centre de Recherche sur l'Information Scientifique et Technique",
+        "short_name": null,
+        "official_website": "http:\/\/www.cerist.dz\/",
+        "aliases": [
+            "Algerian Research Centre on Scientific and Technical Information",
+            "CERIST"
+        ],
+        "latitude": 36.759296,
+        "longitude": 3.004082,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q15427315",
+        "name": "Centre of Research in Social and Cultural Anthropology",
+        "short_name": null,
+        "official_website": "https:\/\/www.crasc.dz\/index.php\/ar",
+        "aliases": [
+            "CRASC"
+        ],
+        "latitude": 35.703633,
+        "longitude": -0.573994,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q110529944",
+        "name": "Centre Universitaire Morsli Abdellah de Tipaza",
+        "short_name": null,
+        "official_website": "https:\/\/cu-tipaza.dz\/ar\/",
+        "aliases": null,
+        "latitude": 36.5828076,
+        "longitude": 2.4599129,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q133462224",
+        "name": "CRD Sonatrach",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "CRD Boumerdès",
+            "Sonatrach laboratories division"
+        ],
+        "latitude": 36.7555502,
+        "longitude": 3.4732526,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100927385",
+        "name": "Dely Brahim University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74527489",
+        "name": "Departement of mathematics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30294234",
+        "name": "Djilali Bounaama University of Khemis Miliana",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-dbkm.dz\/",
+        "aliases": [
+            "Khemis Miliana University",
+            "Université Djilali Bounaama Khemis Miliana"
+        ],
+        "latitude": 36.2541624,
+        "longitude": 2.2366728,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122930231",
+        "name": "Djoudi Brothers College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Djoudi College"
+        ],
+        "latitude": 36.7277382,
+        "longitude": 3.5495288,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q108793462",
+        "name": "Ecole Nationale de Management et de l'Administration de la Santé",
+        "short_name": null,
+        "official_website": "http:\/\/www.enmas.dz\/",
+        "aliases": [
+            "ENMAS"
+        ],
+        "latitude": 36.808092,
+        "longitude": 3.255004,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q119982204",
+        "name": "Ecole Supérieure en Génie Electrique et Energétique d'Oran",
+        "short_name": null,
+        "official_website": "https:\/\/esgee-oran.dz\/",
+        "aliases": [
+            "ESG2E Oran",
+            "Higher School of Electrical and Energy Engineering of Oran"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q47517336",
+        "name": "Ecole Supérieure en Sciences Appliquées de Tlemcen",
+        "short_name": null,
+        "official_website": "http:\/\/www.essa-tlemcen.dz\/",
+        "aliases": [
+            "ESSA-Tlemcen"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5372520",
+        "name": "Emir Abdelkader University",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-emir.dz\/",
+        "aliases": [
+            "Emir Abdelkader University of Islamic Sciences",
+            "univ-emir.dz",
+            "Université des Sciences Islamiques",
+            "USIEA"
+        ],
+        "latitude": 36.349,
+        "longitude": 6.60425,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q133462507",
+        "name": "ENAGEO Boumerdès",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 36.7553238,
+        "longitude": 3.4753202,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q29426444",
+        "name": "Hassiba Benbouali University of Chlef",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-chlef.dz",
+        "aliases": [
+            "UHBC",
+            "University of Chlef"
+        ],
+        "latitude": 36.2507649,
+        "longitude": 1.2431716,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21512516",
+        "name": "Higher National Agronomic School",
+        "short_name": null,
+        "official_website": "http:\/\/www.ensa.dz\/",
+        "aliases": [
+            "Ecole Nationale Supérieure d'Agronomie",
+            "National institute of Agronomic"
+        ],
+        "latitude": 36.7208839,
+        "longitude": 3.1497231,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3578271",
+        "name": "Higher National Veterinary School",
+        "short_name": null,
+        "official_website": "http:\/\/www.ensv.dz\/",
+        "aliases": [
+            "ENSV",
+            "Ecole nationale superieure veterinaire",
+            "École nationale supérieure vétérinaire"
+        ],
+        "latitude": 36.7178,
+        "longitude": 3.1526,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109021349",
+        "name": "Higher School of Management and Digital Economy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "École supérieure de gestion et d'économie numérique",
+            "HSMDE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130533282",
+        "name": "Higher School of Management Tlemcen",
+        "short_name": null,
+        "official_website": "https:\/\/www.esm-tlemcen.dz\/",
+        "aliases": [
+            "ESM Tlemcen"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130219349",
+        "name": "Higher School of Saharan Agriculture – El oued",
+        "short_name": null,
+        "official_website": "https:\/\/esas-eloued.dz\/",
+        "aliases": [
+            "esas-eloued",
+            "hssae"
+        ],
+        "latitude": 33.3363788,
+        "longitude": 6.8675119,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136560101",
+        "name": "Higher School of Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.esst-sup.com\/",
+        "aliases": [
+            "ESST",
+            "École supérieure des sciences et technologies"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135975682",
+        "name": "Higher School of Social Security",
+        "short_name": null,
+        "official_website": "https:\/\/www.esss.dz",
+        "aliases": [
+            "ESSS"
+        ],
+        "latitude": 36.7551084,
+        "longitude": 2.9975112,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18325220",
+        "name": "INPTIC",
+        "short_name": null,
+        "official_website": "http:\/\/www.inptic.edu.dz",
+        "aliases": [
+            "National Institute of Post and Information and Communication Technologies"
+        ],
+        "latitude": 36.6616667,
+        "longitude": 3.1430556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112624517",
+        "name": "Institut de Technologie d'Entretien ÉlectroMécanique",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ITEEM"
+        ],
+        "latitude": 36.7074032,
+        "longitude": 3.1649779,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q125171714",
+        "name": "Kasdi Merbah University Of Ouargla",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-ouargla.dz\/index.php\/fr\/",
+        "aliases": null,
+        "latitude": 32.0791968,
+        "longitude": 5.2924531,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27961625",
+        "name": "M'hamed Bougara University of Boumerdès",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-boumerdes.dz\/",
+        "aliases": [
+            "Boumerdès University",
+            "UMBB",
+            "Université de M'hamed Bougara Boumerdes",
+            "University of Boumerdès"
+        ],
+        "latitude": 36.7628489,
+        "longitude": 3.4742931,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111450312",
+        "name": "Messaoud Zeghar Teacher Education College of Setif",
+        "short_name": null,
+        "official_website": "http:\/\/www.ens-setif.dz\/en\/index.php\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106410269",
+        "name": "Mohamed Bouchatal College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 36.7277424,
+        "longitude": 3.5492481,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12204532",
+        "name": "Mohamed Khider Biskra University",
+        "short_name": null,
+        "official_website": "http:\/\/univ-biskra.dz\/",
+        "aliases": [
+            "Mohamed Khider University of Biskra",
+            "UMKB",
+            "University of Biskra"
+        ],
+        "latitude": 34.8464,
+        "longitude": 5.7504,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551456",
+        "name": "Mouloud Mammeri University of Tizi Ouzou",
+        "short_name": null,
+        "official_website": "https:\/\/www.ummto.dz\/",
+        "aliases": [
+            "Mouloud Mammeri University of Tizi-Ouzou",
+            "UMMTO",
+            "University of Tizi Ouzou"
+        ],
+        "latitude": 36.7166672,
+        "longitude": 4.0500002,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25385309",
+        "name": "National Forest Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.inrf.dz\/",
+        "aliases": null,
+        "latitude": 36.7954115,
+        "longitude": 2.9638218,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118398645",
+        "name": "National High School of Mines and Metallurgy",
+        "short_name": null,
+        "official_website": "https:\/\/ensmm-annaba.dz",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q54874601",
+        "name": "National Maritime Higher School",
+        "short_name": null,
+        "official_website": "https:\/\/www.ensm.edu.dz\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116871000",
+        "name": "National School of Artificial Intelligence",
+        "short_name": null,
+        "official_website": "https:\/\/ensia.edu.dz\/",
+        "aliases": [
+            "ENSIA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130533312",
+        "name": "National School of Journalism and Information Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/www.ensjsi.dz\/",
+        "aliases": [
+            "École Nationale Supérieure de Journalisme et des Sciences de l’Information",
+            "ENSJSI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17651592",
+        "name": "National school polytechnic of Constantine",
+        "short_name": null,
+        "official_website": "http:\/\/www.enp-constantine.dz\/",
+        "aliases": [
+            "ENPC"
+        ],
+        "latitude": 36.2768747,
+        "longitude": 6.586484,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136565004",
+        "name": "Oran Graduate School of Economics",
+        "short_name": null,
+        "official_website": "https:\/\/ese-oran.dz\/",
+        "aliases": [
+            "ESE Oran"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18026629",
+        "name": "Pan African University Institute of Water and Energy Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "PAU Institute of Water and Energy Science",
+            "PAUWES"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16878881",
+        "name": "Pasteur Institute of Algeria",
+        "short_name": null,
+        "official_website": "https:\/\/www.pasteur.dz\/",
+        "aliases": [
+            "IPA",
+            "Pasteur Institute of Algiers"
+        ],
+        "latitude": 36.752217,
+        "longitude": 2.965858,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q27962871",
+        "name": "Polytechnic School of Architecture and Urbanism Hocine Aït Ahmed",
+        "short_name": null,
+        "official_website": "http:\/\/www.epau-alger.edu.dz\/#",
+        "aliases": [
+            "EPAU",
+            "École Polytechnique d'Architecture et d'Urbanisme"
+        ],
+        "latitude": 36.719767,
+        "longitude": 3.154309,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104851317",
+        "name": "Q104851317",
+        "short_name": null,
+        "official_website": "https:\/\/esti-annaba.dz\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104876619",
+        "name": "Q104876619",
+        "short_name": null,
+        "official_website": "http:\/\/www.enssmal.edu.dz\/fr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109021341",
+        "name": "Q109021341",
+        "short_name": null,
+        "official_website": "https:\/\/www.enssmal.edu.dz\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111551840",
+        "name": "Q111551840",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131318416",
+        "name": "Q131318416",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q132803949",
+        "name": "Q132803949",
+        "short_name": null,
+        "official_website": "https:\/\/crlca.dz\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2945940",
+        "name": "Q2945940",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30752553",
+        "name": "Q30752553",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-chlef.dz\/fgca\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106582994",
+        "name": "Rod brothers College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 36.7263673,
+        "longitude": 3.5569207,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q787656",
+        "name": "Saad Dahlab University of Blida 1",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-blida.dz\/",
+        "aliases": [
+            "University in Algeria",
+            "USDB",
+            "Blida 1 University",
+            "University of Blida"
+        ],
+        "latitude": 36.5056485,
+        "longitude": 2.8794743,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29513720",
+        "name": "The Higher School of Magistracy",
+        "short_name": null,
+        "official_website": "https:\/\/www.esm.dz",
+        "aliases": [
+            "ESM",
+            "Ecole Supérieure de la Magistrature"
+        ],
+        "latitude": 36.6437348,
+        "longitude": 2.7458954,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12192814",
+        "name": "University AbdelHafid Boussouf - Mila",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-mila.dz\/",
+        "aliases": [
+            "University of Mila"
+        ],
+        "latitude": 36.4628123,
+        "longitude": 6.215065,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294271",
+        "name": "University Ahmed Ben Yahia EL-Wancharissi of Tissemsilt",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-tissemsilt.dz\/",
+        "aliases": [
+            "Tissemsilt University",
+            "Université Ahmed Ben Yahia Al Wancharissi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551448",
+        "name": "University Akli Mohand Oulhadj Bouira",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-bouira.dz\/",
+        "aliases": [
+            "Akli Mohand Oulhadj University of Bouira",
+            "UAMOB",
+            "University of Bouira",
+            "Université Akli Mouhand Oulhadj-Bouira"
+        ],
+        "latitude": 36.3745626,
+        "longitude": 3.8795285,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100258387",
+        "name": "University Center Nour Bashir (El-Bayadh)",
+        "short_name": null,
+        "official_website": "https:\/\/www.cu-elbayadh.dz\/ar\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q54874651",
+        "name": "University Center of Tipaza",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 36.5816667,
+        "longitude": 2.465,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124691781",
+        "name": "University Centre of Maghnia",
+        "short_name": null,
+        "official_website": "https:\/\/www.cu-maghnia.dz\/",
+        "aliases": [
+            "UCM",
+            "Centre Universitaire de Maghnia",
+            "Maghnia University Centre"
+        ],
+        "latitude": 34.8363136,
+        "longitude": -1.7296691,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894776",
+        "name": "University Hospital Center of Oran",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 35.693276,
+        "longitude": -0.639028,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136242776",
+        "name": "University Hospital Establishment of Oran",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 35.6994444,
+        "longitude": -0.5827778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16511684",
+        "name": "University Mohamed Boudiaf of M'sila",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-msila.dz\/site\/en",
+        "aliases": [
+            "University Mohamed Boudiaf of M'sila"
+        ],
+        "latitude": 35.7445332,
+        "longitude": 4.5518926,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30082872",
+        "name": "University Mohamed Lamine Debaghine Setif 2",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-setif2.dz\/index.php?lang=ar",
+        "aliases": [
+            "University Setif 2",
+            "University Setif2"
+        ],
+        "latitude": 36.2158002,
+        "longitude": 5.446204,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551363",
+        "name": "University of Abou Bekr Belkaïd",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-tlemcen.dz\/",
+        "aliases": [
+            "Abou Bakr Belkaïd University of Tlemcen",
+            "UABT",
+            "University of Tlemcen"
+        ],
+        "latitude": 34.8805614,
+        "longitude": -1.3581843,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895015",
+        "name": "University of Ahmed Draia Adrar",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-adrar.edu.dz\/",
+        "aliases": [
+            "African University Ahmed Draia of Adrar",
+            "UADRAR",
+            "University of Adrar"
+        ],
+        "latitude": 27.8907401,
+        "longitude": -0.2867281,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1190852",
+        "name": "University of Algiers 1",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-alger.dz\/",
+        "aliases": [
+            "University of Algiers",
+            "Benyoucef Benkhedda Algiers 1 University",
+            "univ-alger.dz"
+        ],
+        "latitude": 36.7708,
+        "longitude": 3.05542,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29896977",
+        "name": "University of Algiers 3",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-alger3.dz\/",
+        "aliases": [
+            "University of Algiers Brahim Soltane Chaibout"
+        ],
+        "latitude": 36.75675,
+        "longitude": 2.9837778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3036584",
+        "name": "University of Batna",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-batna.dz\/",
+        "aliases": [
+            "UB1",
+            "Batna 1 University",
+            "Université Colonel Hadj Lakhdar",
+            "Université de Batna"
+        ],
+        "latitude": 35.54095,
+        "longitude": 6.14887,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25230664",
+        "name": "University of Batna 2",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-batna2.dz\/",
+        "aliases": [
+            "Batna 2 University",
+            "Université Batna 2"
+        ],
+        "latitude": 35.635,
+        "longitude": 6.2774,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895149",
+        "name": "University of Béchar",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-bechar.dz\/",
+        "aliases": [
+            "Tahri Mohamed University, Béchar",
+            "University of Bechar",
+            "University of Tahri Mohammed, Bechar"
+        ],
+        "latitude": 31.6047603,
+        "longitude": -2.2325623,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1117434",
+        "name": "University of Béjaïa",
+        "short_name": null,
+        "official_website": "http:\/\/univ-bejaia.dz",
+        "aliases": [
+            "Abderrahmane Mira University",
+            "UAMB",
+            "University Abderrahmane Mira of Bejaia",
+            "University Abderrahmane Mira of Béjaïa",
+            "University of Abderrahmane Mira",
+            "University of Bejaia",
+            "Béjaïa University"
+        ],
+        "latitude": 36.7502929,
+        "longitude": 5.0407174,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551442",
+        "name": "University of Constantine 1",
+        "short_name": null,
+        "official_website": "http:\/\/www.umc.edu.dz\/",
+        "aliases": [
+            "UMC",
+            "University of Constantine",
+            "Université Mentouri",
+            "University of Mentouri"
+        ],
+        "latitude": 36.3413889,
+        "longitude": 6.6180556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19600070",
+        "name": "University of Constantine 2",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-constantine2.dz\/",
+        "aliases": [
+            "UAMC",
+            "UC2",
+            "University Abdelhamid Mehri Constantine"
+        ],
+        "latitude": 36.246,
+        "longitude": 6.5711667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q55721694",
+        "name": "University of Constantine 3",
+        "short_name": null,
+        "official_website": "https:\/\/univ-constantine3.dz",
+        "aliases": [
+            "UC3",
+            "University of Salah Boubnider"
+        ],
+        "latitude": 36.2777778,
+        "longitude": 6.5902778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135914996",
+        "name": "University of Continuing Education",
+        "short_name": null,
+        "official_website": "https:\/\/ufc.dz\/en\/",
+        "aliases": [
+            "UFC",
+            "University of Continuous Training"
+        ],
+        "latitude": 36.757896,
+        "longitude": 2.9837342,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16121234",
+        "name": "University of El Oued",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-eloued.dz\/",
+        "aliases": [
+            "Centre Universitaire d'El Oued",
+            "El Oued University",
+            "University of El-Oued"
+        ],
+        "latitude": 33.3942565,
+        "longitude": 6.8570922,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204512",
+        "name": "University of Ghardaia",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-ghardaia.edu.dz\/",
+        "aliases": [
+            "UG"
+        ],
+        "latitude": 32.390319,
+        "longitude": 3.777569,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896816",
+        "name": "University of Guelma",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-guelma.dz\/",
+        "aliases": [
+            "8 Mai 1945 - Guelma University",
+            "UGUELMA",
+            "université 8 Mai 1945 Guelma",
+            "Universite de Guelma"
+        ],
+        "latitude": 36.4485815,
+        "longitude": 7.4195362,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551600",
+        "name": "University of Jijel",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-jijel.dz",
+        "aliases": null,
+        "latitude": 36.8019,
+        "longitude": 5.75139,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895618",
+        "name": "University of Laghouat",
+        "short_name": null,
+        "official_website": "http:\/\/www.lagh-univ.dz\/",
+        "aliases": [
+            "UL",
+            "Amar Telidji University of Laghouat",
+            "Université Amar Telidji Laghouat"
+        ],
+        "latitude": 33.7997329,
+        "longitude": 2.849005,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124962496",
+        "name": "University of Madaure",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 36.0792796,
+        "longitude": 7.901203,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551640",
+        "name": "University of Mostaganem",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-mosta.dz\/",
+        "aliases": [
+            "UMOSTAG",
+            "University Abdelhamid Ibn Badis Mostaganem"
+        ],
+        "latitude": 35.9325902,
+        "longitude": 0.0877541,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551549",
+        "name": "University of Oran",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-oran1.dz",
+        "aliases": [
+            "Es Sénia University",
+            "Oran 1 University",
+            "univ-oran1.dz",
+            "University of Oran 1",
+            "UORAN"
+        ],
+        "latitude": 35.6380556,
+        "longitude": -0.6152778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12242262",
+        "name": "University of Oran 2 Mohamed Ben Ahmed",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-oran2.dz\/index.php\/fr\/",
+        "aliases": [
+            "Mohamed Ben Ahmed Convention Centre",
+            "Oran 2 University"
+        ],
+        "latitude": 35.7354376,
+        "longitude": -0.5364603,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q613937",
+        "name": "University of Ouargla",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-ouargla.dz",
+        "aliases": [
+            "univ-ouargla.dz",
+            "Université de Ouargla",
+            "Université Kasdi Merbah Ouargla",
+            "UOUARGLA"
+        ],
+        "latitude": 31.963,
+        "longitude": 5.34201,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16682072",
+        "name": "University of Saida Dr Moulay Tahar",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-saida.dz\/",
+        "aliases": null,
+        "latitude": 34.859108,
+        "longitude": 0.153035,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551735",
+        "name": "University of Science and Technology of Oran - Mohamed-Boudiaf",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-usto.dz",
+        "aliases": [
+            "Oran University of Science and Technology - Mohamed Boudiaf",
+            "univ-usto.dz",
+            "USTO MB",
+            "USTO-MB"
+        ],
+        "latitude": 35.7368,
+        "longitude": -0.554123,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3181219",
+        "name": "University of Science and Technology, Houari Boumediene",
+        "short_name": null,
+        "official_website": "http:\/\/www.usthb.dz\/",
+        "aliases": [
+            "HBUST",
+            "Houari Boumediene University of Science and Technology",
+            "Universite des sciences et de la technologie Houari-Boumediene",
+            "Université des sciences et de la technologie Houari-Boumediene",
+            "University of Science and Technology – Houari Boumediene",
+            "University of Science and Technology HB",
+            "USTHB"
+        ],
+        "latitude": 36.714571,
+        "longitude": 3.1981629,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896309",
+        "name": "University of Skikda",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-skikda.dz\/index.php\/fr\/",
+        "aliases": [
+            "USKIKDA"
+        ],
+        "latitude": 36.849268,
+        "longitude": 6.8906254,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18785812",
+        "name": "University of Souk Ahras",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-soukahras.dz\/",
+        "aliases": [
+            "Mohamed-Cherif Messaadia University",
+            "University of Souk Ahras Mohamed Chérif Messaadia"
+        ],
+        "latitude": 36.2988419,
+        "longitude": 7.9259103,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294264",
+        "name": "University of Tamanghasset",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-tam.dz\/",
+        "aliases": [
+            "Amine Elokkal El Hadj Moussa Egakhamouk University Centre of Tamanrasset",
+            "University Centre of Tamanrasset",
+            "University of Tamanrasset"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100258391",
+        "name": "Université Chadli Bendjedid d'El Tarf",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-eltarf.dz",
+        "aliases": [
+            "UKM"
+        ],
+        "latitude": 36.7614862,
+        "longitude": 8.3207069,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74548178",
+        "name": "Université d'Oran1 Ahmed Ben Bella",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3551403",
+        "name": "Université de Sétif",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-setif.dz\/",
+        "aliases": [
+            "Ferhat Abbas University",
+            "UFAS1",
+            "Universite de Setif"
+        ],
+        "latitude": 36.1961376,
+        "longitude": 5.3603169,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551396",
+        "name": "Université Djillali Liabes",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-sba.dz\/",
+        "aliases": [
+            "UDL"
+        ],
+        "latitude": 35.25,
+        "longitude": -0.65,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294268",
+        "name": "Université Ibn Khaldoun Tiaret",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-tiaret.dz",
+        "aliases": [
+            "UIK",
+            "Université Ibn Khaldoun de Tiaret"
+        ],
+        "latitude": 35.3508333,
+        "longitude": 1.3144444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294257",
+        "name": "Université Larbi Ben M'hidi de Oum El Bouaghi",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-oeb.dz\/",
+        "aliases": [
+            "Larbi Ben M'hidi University of Oum El Bouaghi",
+            "ULBM",
+            "univ-oeb.dz",
+            "University of Larbi Ben M'hidi O.E.B.",
+            "University of Larbi Ben M'hidi Oum El Bouaghi",
+            "University of Oum El Bouaghi"
+        ],
+        "latitude": 35.8785257,
+        "longitude": 7.0910275,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294266",
+        "name": "Université Larbi Tebessi",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-tebessa.dz\/",
+        "aliases": [
+            "LTU",
+            "Université Larbi Tebessi de Tébessa"
+        ],
+        "latitude": 35.4642498,
+        "longitude": 8.049419,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551376",
+        "name": "Université Mohamed El Bachir El Ibrahimi de Bordj Bou Arréridj",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-bba.dz\/",
+        "aliases": [
+            "University of Bordj Bou Arreridj"
+        ],
+        "latitude": 36.0468506,
+        "longitude": 4.8012084,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294244",
+        "name": "Université Mustapha Stambouli de Mascara",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-mascara.dz\/index.php\/fr\/",
+        "aliases": [
+            "UM"
+        ],
+        "latitude": 35.4139698,
+        "longitude": 0.129647,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74537475",
+        "name": "Université Saad Dahlab, Laboratoire de Recherche en Biotechnologie des Productions Végétales (Blida)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q52575084",
+        "name": "Université Sétif 1",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100724987",
+        "name": "Université Tahar Moulay de Saida",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-saida.dz\/ar\/",
+        "aliases": [
+            "UTMS"
+        ],
+        "latitude": 34.860819,
+        "longitude": 0.1484412,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204425",
+        "name": "Université Yahia Fares de Médéa",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-medea.dz\/en\/",
+        "aliases": [
+            "University Dr Yahia Fares Medea"
+        ],
+        "latitude": 36.2653764,
+        "longitude": 2.7975039,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104876326",
+        "name": "École Nationale Supérieure de Biotechnologie Taoufik Khaznadar",
+        "short_name": null,
+        "official_website": "https:\/\/ensbiotech.edu.dz\/",
+        "aliases": [
+            "ENSB"
+        ],
+        "latitude": 36.2796389,
+        "longitude": 6.5909722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294186",
+        "name": "École nationale supérieure des travaux publics",
+        "short_name": null,
+        "official_website": "http:\/\/enstp.edu.dz\/ar\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294190",
+        "name": "École Normale Supérieure de Bouzaréah",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Higher Normal School of Bouzareah"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136564949",
+        "name": "École Normale Supérieure de Béchar",
+        "short_name": null,
+        "official_website": "https:\/\/www.ens-bechar.dz\/",
+        "aliases": [
+            "ENS Béchar"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294239",
+        "name": "École Normale Supérieure de Kouba",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Higher Normal School of Kouba",
+            "École Normale Supérieure de Kouba Cheikh Mohamed el Bachir el Ibrahimi,",
+            "ENS Kouba"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136564950",
+        "name": "École Normale Supérieure de Ouargla",
+        "short_name": null,
+        "official_website": "https:\/\/www.ens-ouargla.dz\/",
+        "aliases": [
+            "ENS Ouargla"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136564988",
+        "name": "École Supérieure des Sciences de l'Aliment et des Industries Agroalimentaires",
+        "short_name": null,
+        "official_website": "https:\/\/essaia.dz\/",
+        "aliases": [
+            "ESSAIA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

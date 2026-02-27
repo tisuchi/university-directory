@@ -1,0 +1,861 @@
+[
+    {
+        "wikidata_id": "Q4671422",
+        "name": "Academy of Arts, University of Osijek",
+        "short_name": null,
+        "official_website": "http:\/\/www.uaos.unios.hr\/",
+        "aliases": [
+            "Academy of Arts and Culture in Osijek",
+            "AUKO"
+        ],
+        "latitude": 45.557,
+        "longitude": 18.706,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74556007",
+        "name": "Acta Graphica d.o.o.",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16115267",
+        "name": "Brodarski Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 45.775396,
+        "longitude": 15.979868,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12644730",
+        "name": "Business School PAR",
+        "short_name": null,
+        "official_website": "http:\/\/www.par.hr",
+        "aliases": null,
+        "latitude": 45.327647,
+        "longitude": 14.441744,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12632683",
+        "name": "Catholic University of Croatia",
+        "short_name": null,
+        "official_website": "http:\/\/www.unicath.hr\/eng",
+        "aliases": [
+            "Hrvatsko Katoličko Sveučilište"
+        ],
+        "latitude": 45.814,
+        "longitude": 15.9444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25459011",
+        "name": "Centre for Women’s Studies Zagreb",
+        "short_name": null,
+        "official_website": "https:\/\/zenstud.hr\/",
+        "aliases": [
+            "Centar za ženske studije Zagreb"
+        ],
+        "latitude": 45.8141231,
+        "longitude": 15.9775318,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12644732",
+        "name": "College of Information Technology Zagreb",
+        "short_name": null,
+        "official_website": "http:\/\/www.vsite.hr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74556047",
+        "name": "Croatian dental society, Croatian medical association",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q13156615",
+        "name": "Croatian Hydrographic Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.hhi.hr",
+        "aliases": [
+            "HHI",
+            "Hydrographic Institute of the Republic of Croatia"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74551910",
+        "name": "Croatian Pharmaceutical Society",
+        "short_name": null,
+        "official_website": "https:\/\/farmaceut.org",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74548736",
+        "name": "Croatian Society of Orthodontics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74550450",
+        "name": "Croatian State Institution",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74526752",
+        "name": "Department of Croatian Language and Literature",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74541243",
+        "name": "Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74551580",
+        "name": "Department of Interdisciplinary, Italian and Cultural Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5278780",
+        "name": "Diocesan Classical Gymnasium \"Ruđer Bošković\" in Dubrovnik",
+        "short_name": null,
+        "official_website": "http:\/\/www.gimnazija-klasicna-rboskovic-du.skole.hr\/index.php?option=com_frontpage&Itemid=1",
+        "aliases": null,
+        "latitude": 42.6392944,
+        "longitude": 18.1092806,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5311141",
+        "name": "Dubrovnik International University",
+        "short_name": null,
+        "official_website": "http:\/\/uni.libertas.hr\/eng\/",
+        "aliases": [
+            "DIU Libertas",
+            "DIU Libertas International University"
+        ],
+        "latitude": 42.641635,
+        "longitude": 18.11115,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20527437",
+        "name": "Energy Institute Hrvoje Požar",
+        "short_name": null,
+        "official_website": "http:\/\/www.eihp.hr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5428923",
+        "name": "Faculty of Civil Engineering, University of Osijek",
+        "short_name": null,
+        "official_website": "http:\/\/www.gfos.unios.hr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74540820",
+        "name": "Faculty of economics and tourism \"Dr. Mijo Mirkovic\", Pula",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5428967",
+        "name": "Faculty of Food Technology, University of Osijek",
+        "short_name": null,
+        "official_website": "http:\/\/www.ptfos.hr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1464795",
+        "name": "Faculty of Humanities and Social Sciences in Osijek",
+        "short_name": null,
+        "official_website": "https:\/\/www.ffos.unios.hr\/",
+        "aliases": [
+            "FFOS"
+        ],
+        "latitude": 45.558774,
+        "longitude": 18.681047,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1564297",
+        "name": "Faculty of Law of the University of Zagreb",
+        "short_name": null,
+        "official_website": "https:\/\/www.pravo.unizg.hr\/",
+        "aliases": [
+            "PFZG",
+            "University of Zagreb, Faculty of Law"
+        ],
+        "latitude": 45.8105889,
+        "longitude": 15.9698786,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5429003",
+        "name": "Faculty of Law, University of Osijek",
+        "short_name": null,
+        "official_website": "http:\/\/www.pravos.unios.hr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5429077",
+        "name": "Faculty of Teacher Education, University of Osijek",
+        "short_name": null,
+        "official_website": "http:\/\/www.ufos.unios.hr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12640567",
+        "name": "First Croatian Gymnasium in Sušak",
+        "short_name": null,
+        "official_website": "https:\/\/www.pshg.net\/",
+        "aliases": null,
+        "latitude": 45.325806,
+        "longitude": 14.455283,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112194207",
+        "name": "Greek Catholic Seminary in Zagreb",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 45.8152028,
+        "longitude": 15.9733139,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74550465",
+        "name": "HDEO",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5971319",
+        "name": "III Gymnasium Osijek",
+        "short_name": null,
+        "official_website": "https:\/\/www.gimnazija-treca-os.skole.hr\/",
+        "aliases": null,
+        "latitude": 45.559556,
+        "longitude": 18.69475,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124341676",
+        "name": "Institute for Cosmology and Philosophy of Nature",
+        "short_name": "ICPN",
+        "official_website": "https:\/\/www.icpn.hr\/en-US",
+        "aliases": [
+            "ICPN",
+            "Cosmological institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527456",
+        "name": "Institute for Historical Sciences in Dubrovnik, CASA",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q116754830",
+        "name": "Institute for Historical Sciences in Zadar",
+        "short_name": null,
+        "official_website": "https:\/\/www.info.hazu.hr\/jedinice\/zavod-za-povijesne-znanosti-u-zadru\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527479",
+        "name": "Institute for Medical Research and Occupational Health, Zagreb, Croatia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q52633799",
+        "name": "Institute for Migration and Ethnic Studies",
+        "short_name": null,
+        "official_website": "https:\/\/www.imin.hr\/en\/imin-en\/",
+        "aliases": [
+            "IMES",
+            "Centar za istraživanje migracija i narodnosti",
+            "Center for Migration and Ethnic Studies",
+            "IMIN",
+            "Institut za migracije i narodnosti"
+        ],
+        "latitude": 45.80083,
+        "longitude": 15.97944,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12632976",
+        "name": "Institute for Tourism",
+        "short_name": null,
+        "official_website": "http:\/\/www.iztzg.hr\/",
+        "aliases": [
+            "Bureau for Investments in Tourism",
+            "Institut za Turizam"
+        ],
+        "latitude": 45.81499,
+        "longitude": 15.94931,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q28790448",
+        "name": "Institute of Immunology",
+        "short_name": null,
+        "official_website": "http:\/\/www.imz.hr\/",
+        "aliases": [
+            "Imunološki zavod"
+        ],
+        "latitude": 45.829439,
+        "longitude": 15.981264,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12632977",
+        "name": "Institute of Oceanography and Fisheries",
+        "short_name": null,
+        "official_website": "http:\/\/www.izor.hr\/",
+        "aliases": [
+            "Institut za Oceanografiju i Ribarstvo"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12632975",
+        "name": "Institute of Philosophy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q97228827",
+        "name": "Institute of Philosophy and Theology of the Society of Jesus",
+        "short_name": null,
+        "official_website": "https:\/\/www.ftidi.hr\/",
+        "aliases": [
+            "FTI",
+            "Filozofsko-teološki institut Družbe Isusove",
+            "FTIDI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30297131",
+        "name": "Institute of Physics",
+        "short_name": null,
+        "official_website": "https:\/\/www.ifs.hr\/",
+        "aliases": [
+            "Institut za fiziku"
+        ],
+        "latitude": 45.827848,
+        "longitude": 15.985601,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30267035",
+        "name": "Institute of Public Finance",
+        "short_name": null,
+        "official_website": "http:\/\/www.ijf.hr\/",
+        "aliases": [
+            "IPF"
+        ],
+        "latitude": 45.811305,
+        "longitude": 15.985511,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20527260",
+        "name": "Institute of Social Sciences Ivo Pilar",
+        "short_name": null,
+        "official_website": "http:\/\/www.pilar.hr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q135410023",
+        "name": "Istrian Polytechnic",
+        "short_name": null,
+        "official_website": "https:\/\/www.iv.hr\/",
+        "aliases": [
+            "Istrian University of Applied Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q131287824",
+        "name": "Jordanovac Primary School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 45.8268,
+        "longitude": 16.001,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12632601",
+        "name": "Memorial Documentation Centre of the Homeland War",
+        "short_name": null,
+        "official_website": "https:\/\/centardomovinskograta.hr\/",
+        "aliases": null,
+        "latitude": 45.806338,
+        "longitude": 15.970147,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4843848",
+        "name": "Old Church Slavonic Institute",
+        "short_name": null,
+        "official_website": "https:\/\/stin.hr\/",
+        "aliases": [
+            "Staroslavenski institut"
+        ],
+        "latitude": 45.81789,
+        "longitude": 15.97372,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74548292",
+        "name": "Osijek Mathematical Society",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q130621878",
+        "name": "Petar Preradović Gymnasium Virovitica",
+        "short_name": null,
+        "official_website": "https:\/\/gimnazija-ppreradovica-vt.skole.hr\/",
+        "aliases": null,
+        "latitude": 45.831808,
+        "longitude": 17.385145,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7227034",
+        "name": "Polytechnic Lavoslav Ružička Vukovar",
+        "short_name": null,
+        "official_website": "http:\/\/www.vevu.hr\/index.php",
+        "aliases": null,
+        "latitude": 45.3583802,
+        "longitude": 18.9946585,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16111450",
+        "name": "Polytechnic Pula",
+        "short_name": null,
+        "official_website": "http:\/\/www.politehnika-pula.hr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7247938",
+        "name": "Professional Business School of Higher Education LIBERTAS",
+        "short_name": null,
+        "official_website": "http:\/\/www.vps-libertas.hr\/eng\/start_news.aspx",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q117278069",
+        "name": "Q117278069",
+        "short_name": null,
+        "official_website": "http:\/\/ss-prvitezovica-senj.skole.hr\/",
+        "aliases": null,
+        "latitude": 44.9908864,
+        "longitude": 14.9014197,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131287828",
+        "name": "Q131287828",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 45.8003,
+        "longitude": 15.9635,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3512154",
+        "name": "RIT Croatia",
+        "short_name": null,
+        "official_website": "https:\/\/www.rit.edu\/croatia\/",
+        "aliases": [
+            "ACMT",
+            "American College of Management and Technology",
+            "Rochester Institute of Technology Croatia"
+        ],
+        "latitude": 42.6413889,
+        "longitude": 18.1016667,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7383690",
+        "name": "Ruđer Bošković Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.irb.hr\/",
+        "aliases": [
+            "IRB",
+            "Institut Ruđer Bošković",
+            "Rudjer Boskovic Institute"
+        ],
+        "latitude": 45.8294258,
+        "longitude": 15.9859371,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q133280983",
+        "name": "Ruđer Bošković Institute Rovinj",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17097740",
+        "name": "School of Medicine, University of Osijek",
+        "short_name": null,
+        "official_website": "http:\/\/www.mefos.unios.hr\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530655",
+        "name": "University Hospital Centre Sestre milosrdnice",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q57978195",
+        "name": "University North",
+        "short_name": null,
+        "official_website": "https:\/\/www.unin.hr\/",
+        "aliases": [
+            "UNIN"
+        ],
+        "latitude": 46.174215,
+        "longitude": 16.842524,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q31198737",
+        "name": "University of Applied Sciences RRiF",
+        "short_name": null,
+        "official_website": "https:\/\/rvs.hr\/hr\/naslovna\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130647028",
+        "name": "University of Applied Sciences “Marko Marulic“ of Knin",
+        "short_name": null,
+        "official_website": "https:\/\/www.veleknin.hr\/",
+        "aliases": null,
+        "latitude": 44.035011,
+        "longitude": 16.196192,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2496046",
+        "name": "University of Dubrovnik",
+        "short_name": null,
+        "official_website": "http:\/\/www.unidu.hr\/",
+        "aliases": [
+            "University Durbrovnik"
+        ],
+        "latitude": 42.6424444,
+        "longitude": 18.1028333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1708709",
+        "name": "University of Osijek",
+        "short_name": null,
+        "official_website": "http:\/\/www.unios.hr\/",
+        "aliases": [
+            "Josip Juraj Strossmayer University of Osijek",
+            "Osijek University",
+            "Sveučilište J.J. Strossmayera"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q633782",
+        "name": "University of Pula",
+        "short_name": null,
+        "official_website": "https:\/\/www.unipu.hr\/",
+        "aliases": [
+            "Juraj Dobrila University of Pula",
+            "Pula University"
+        ],
+        "latitude": 44.8672917,
+        "longitude": 13.8540444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q787388",
+        "name": "University of Rijeka",
+        "short_name": null,
+        "official_website": "http:\/\/www.uniri.hr\/",
+        "aliases": [
+            "Rijeka University",
+            "Sveučilište u Rijeci",
+            "uniri.hr"
+        ],
+        "latitude": 45.3256949,
+        "longitude": 14.4541384,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74550040",
+        "name": "University of Rijeka Faculty of Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Faculty of Medicine of the University of Rijeka",
+            "Faculty of Medicine, University of Rijeka"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74541277",
+        "name": "University of Rijeka, Faculty of Humanities and Social Sciences, Department of Psychology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q609301",
+        "name": "University of Split",
+        "short_name": null,
+        "official_website": "https:\/\/www.unist.hr\/",
+        "aliases": [
+            "Split University",
+            "Sveučilište u Splitu"
+        ],
+        "latitude": 43.510959,
+        "longitude": 16.468152,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2496233",
+        "name": "University of Zadar",
+        "short_name": null,
+        "official_website": "http:\/\/www.unizd.hr\/",
+        "aliases": [
+            "Sveučilište u Zadru",
+            "Universitas Studiorum Iadertina",
+            "University Zadar"
+        ],
+        "latitude": 44.111295,
+        "longitude": 15.226135,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q675848",
+        "name": "University of Zagreb",
+        "short_name": null,
+        "official_website": "http:\/\/www.unizg.hr\/",
+        "aliases": [
+            "Regia scientiarium academia Zagrabiensis",
+            "Sveučilište u Zagrebu",
+            "Universitas Studiorum Zagrabiensis",
+            "UniZG",
+            "Zagreb University"
+        ],
+        "latitude": 45.8106722,
+        "longitude": 15.9700972,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74546679",
+        "name": "University of Zagreb, Faculty of Civil Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74538049",
+        "name": "University of Zagreb, School of Medicine; University of Split, School of Medicine; University of Rijeka, School of Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3512583",
+        "name": "XV Gymnasium",
+        "short_name": null,
+        "official_website": "https:\/\/www.mioc.hr",
+        "aliases": null,
+        "latitude": 45.8197,
+        "longitude": 16.0069,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q31199807",
+        "name": "Zagreb Economics Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3514601",
+        "name": "Zagreb School of Economics and Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.zsem.hr\/",
+        "aliases": [
+            "Zagrebačka škola ekonomije i managementa"
+        ],
+        "latitude": 45.8272783,
+        "longitude": 15.99637,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16114732",
+        "name": "Zagreb University of Applied Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/www.tvz.hr\/",
+        "aliases": [
+            "Polytechnic of Zagreb"
+        ],
+        "latitude": 45.799646,
+        "longitude": 15.927992,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q74553234",
+        "name": "Zavod za lingvistiku",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    }
+]

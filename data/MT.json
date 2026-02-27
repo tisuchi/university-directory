@@ -1,0 +1,219 @@
+[
+    {
+        "wikidata_id": "Q18214424",
+        "name": "Collegium Melitense",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 35.8983333,
+        "longitude": 14.5155556,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q56296536",
+        "name": "EDU",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116455367",
+        "name": "European Institute for Medical Studies",
+        "short_name": null,
+        "official_website": "https:\/\/eims.edu.mt",
+        "aliases": [
+            "EIMS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74550538",
+        "name": "Faculty of Health Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5520444",
+        "name": "Gan Frangisk Abela Junior College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Junior College"
+        ],
+        "latitude": 35.892667,
+        "longitude": 14.489,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q125957217",
+        "name": "London School of Commerce, Valletta",
+        "short_name": null,
+        "official_website": "https:\/\/www.lscmalta.edu.mt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6714831",
+        "name": "Malta College of Arts, Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.mcast.edu.mt\/",
+        "aliases": [
+            "Malta College of Arts Science and Technology",
+            "MCAST"
+        ],
+        "latitude": 35.8773,
+        "longitude": 14.5063,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q107424494",
+        "name": "Mediterranean Academy of Diplomatic Studies",
+        "short_name": "MEDAC",
+        "official_website": "https:\/\/www.um.edu.mt\/medac",
+        "aliases": [
+            "MEDAC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130387177",
+        "name": "Pegaso International",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 35.9012461,
+        "longitude": 14.5122782,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131993783",
+        "name": "Royal University of Malta",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107547042",
+        "name": "St. Albert the Great College",
+        "short_name": "SAGC",
+        "official_website": "http:\/\/stalbert.edu.mt\/",
+        "aliases": [
+            "Kulleġġ San Albert il‑Kbir",
+            "SAGC",
+            "Saint Albert the Great College",
+            "St Albert College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q125960086",
+        "name": "St. Martin's Institute of Higher Education",
+        "short_name": null,
+        "official_website": "https:\/\/www.stmartins.edu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7591175",
+        "name": "St. Paul's Missionary College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 35.881,
+        "longitude": 14.396,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q426045",
+        "name": "University of Malta",
+        "short_name": "UM",
+        "official_website": "https:\/\/www.um.edu.mt\/",
+        "aliases": [
+            "L-Università ta' Malta",
+            "The University of Malta"
+        ],
+        "latitude": 35.9025,
+        "longitude": 14.4833333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013398",
+        "name": "University of Malta Department of Anthropological Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013402",
+        "name": "University of Malta Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013404",
+        "name": "University of Malta Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013406",
+        "name": "University of Malta Department of English",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013407",
+        "name": "University of Malta Department of History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013408",
+        "name": "University of Malta Department of Pastoral Theology Liturgy and Canon Law",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

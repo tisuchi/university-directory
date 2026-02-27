@@ -1,0 +1,215 @@
+[
+    {
+        "wikidata_id": "Q2693176",
+        "name": "Escuela Nacional de Artes Plásticas \"Rafael Rodríguez Padilla\"",
+        "short_name": null,
+        "official_website": "http:\/\/www.minculturadeportes.gob.gt",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q747786",
+        "name": "Francisco Marroquín University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ufm.edu.gt\/",
+        "aliases": [
+            "Universidad Francisco Marroquin"
+        ],
+        "latitude": 14.6051,
+        "longitude": -90.5062,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1275933",
+        "name": "Galileo University",
+        "short_name": null,
+        "official_website": "http:\/\/www.galileo.edu",
+        "aliases": [
+            "Universidad Galileo",
+            "UGAL"
+        ],
+        "latitude": 14.6094,
+        "longitude": -90.5056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134473651",
+        "name": "Q134473651",
+        "short_name": null,
+        "official_website": "https:\/\/tecsify.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5761531",
+        "name": "Q5761531",
+        "short_name": null,
+        "official_website": "http:\/\/www.cunoc.usac.edu.gt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156674",
+        "name": "Q6156674",
+        "short_name": null,
+        "official_website": "http:\/\/uspg.edu.gt",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2496136",
+        "name": "Rafael Landívar University",
+        "short_name": null,
+        "official_website": "http:\/\/www.url.edu.gt",
+        "aliases": [
+            "Rafael Landivar University"
+        ],
+        "latitude": 14.595257,
+        "longitude": -90.484155,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q607331",
+        "name": "Universidad de San Carlos de Guatemala",
+        "short_name": null,
+        "official_website": "https:\/\/www.usac.edu.gt\/",
+        "aliases": [
+            "USAC",
+            "University of San Carlos of Guatemala",
+            "usac.edu.gt"
+        ],
+        "latitude": 14.5829,
+        "longitude": -90.5529,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103020380",
+        "name": "Universidad de San Carlos de Guatemala Escuela de Historia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103020385",
+        "name": "Universidad de San Carlos de Guatemala Facultad de Ciencias Quimicas y Farmacia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74552661",
+        "name": "Universidad de San Carlos de Guatemala, Dirección General de Investigación",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7894344",
+        "name": "Universidad del Istmo",
+        "short_name": null,
+        "official_website": "https:\/\/unis.edu.gt\/",
+        "aliases": null,
+        "latitude": 14.6,
+        "longitude": -90.528,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894349",
+        "name": "Universidad del Valle de Guatemala",
+        "short_name": null,
+        "official_website": "https:\/\/www.uvg.edu.gt\/",
+        "aliases": [
+            "University of the Valley of Guatemala"
+        ],
+        "latitude": 14.605,
+        "longitude": -90.49,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103020375",
+        "name": "Universidad del Valle de Guatemala Centro de Estudios en Salud",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103020392",
+        "name": "Universidad Galileo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894284",
+        "name": "Universidad Mariano Galvez",
+        "short_name": null,
+        "official_website": "http:\/\/umg.edu.gt\/",
+        "aliases": null,
+        "latitude": 14.6589,
+        "longitude": -90.5133,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894285",
+        "name": "Universidad Mesoamericana",
+        "short_name": null,
+        "official_website": "http:\/\/www.umes.edu.gt\/",
+        "aliases": null,
+        "latitude": 14.61,
+        "longitude": -90.529722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894305",
+        "name": "Universidad Panamericana de Guatemala",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 14.6604,
+        "longitude": -90.5591,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894310",
+        "name": "Universidad Rural",
+        "short_name": null,
+        "official_website": "http:\/\/urural.edu.gt\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103020448",
+        "name": "Universidad Rural de Guatemala",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

@@ -1,0 +1,2540 @@
+[
+    {
+        "wikidata_id": "Q74543895",
+        "name": "Acta Periodica Duellatorum Association",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30257556",
+        "name": "Adventista Teológiai Fõiskola",
+        "short_name": null,
+        "official_website": "http:\/\/atf.adventista.hu\/",
+        "aliases": [
+            "ATF"
+        ],
+        "latitude": 47.489115,
+        "longitude": 19.347689,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q30268495",
+        "name": "Affektív Pszichológia Tanszék",
+        "short_name": null,
+        "official_website": "http:\/\/www.affektiv.hu\/doku.php",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30281455",
+        "name": "Agricultural Biotechnology Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.abc.hu\/en\/",
+        "aliases": [
+            "ABC",
+            "MBK",
+            "Agricultural Biotechnology Center",
+            "Mezőgazdasági Biotechnológiai Kutatóintézet"
+        ],
+        "latitude": 47.598526,
+        "longitude": 19.360873,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q61052428",
+        "name": "Albert Szent-Györgyi University of Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Albert Szent-Györgyi Medical University"
+        ],
+        "latitude": 46.246001,
+        "longitude": 20.1488062,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4723914",
+        "name": "Alfréd Rényi Institute of Mathematics",
+        "short_name": null,
+        "official_website": "https:\/\/www.renyi.hu\/en",
+        "aliases": [
+            "Alfred Renyi Institute of Mathematics",
+            "Applied Mathematics Institute of the HAS",
+            "Mathematical Research Institute of the HAS",
+            "MTA Alkalmazott Matematikai Intézete",
+            "MTA Matematikai Kutatóintézete",
+            "Rényi Institute"
+        ],
+        "latitude": 47.49278,
+        "longitude": 19.05889,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q62071871",
+        "name": "András Pető College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q281572",
+        "name": "Andrássy University Budapest",
+        "short_name": null,
+        "official_website": "http:\/\/www.andrassyuni.eu\/",
+        "aliases": [
+            "Andrassy University Budapest"
+        ],
+        "latitude": 47.49179,
+        "longitude": 19.064208,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q773918",
+        "name": "Apor Vilmos Catholic College",
+        "short_name": null,
+        "official_website": "http:\/\/www.avkf.hu\/",
+        "aliases": [
+            "AVCC",
+            "Apor Vilmos Katolikus Főiskola"
+        ],
+        "latitude": 47.77501,
+        "longitude": 19.13091,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q114073659",
+        "name": "Apáczai Csere János Pedagogical College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61793944",
+        "name": "Apáczai Csere János Teacher Training College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q4783001",
+        "name": "Aquincum Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.ait-budapest.com\/",
+        "aliases": [
+            "AIT"
+        ],
+        "latitude": 47.5608333,
+        "longitude": 19.0536111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q119170487",
+        "name": "Archives of the Historical Institute of the Hungarian Socialist Labour Party,",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1161067",
+        "name": "ATOMKI",
+        "short_name": null,
+        "official_website": "http:\/\/www.atomki.hu\/",
+        "aliases": [
+            "HUN-REN Institute for Nuclear Research",
+            "Institute for Nuclear Research",
+            "Institute for Nuclear Research, Hungarian Academy of Sciences",
+            "MTA Atomki"
+        ],
+        "latitude": 47.5436982,
+        "longitude": 21.625224,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q434520",
+        "name": "AUTÓKUT",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "AUTOKUT"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q788665",
+        "name": "Baja Observatory",
+        "short_name": null,
+        "official_website": "http:\/\/www.bajaobs.hu\/",
+        "aliases": null,
+        "latitude": 46.180306,
+        "longitude": 19.011056,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1161066",
+        "name": "Balaton Limnological Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.blki.hu\/",
+        "aliases": [
+            "Balaton Limnological Institute",
+            "HUN-REN Balaton Limnological Research Institute"
+        ],
+        "latitude": 46.9133333,
+        "longitude": 17.8925,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q790104",
+        "name": "Baptist Theological Seminary",
+        "short_name": null,
+        "official_website": "http:\/\/www.bta.hu\/",
+        "aliases": [
+            "Baptist Theological Academy"
+        ],
+        "latitude": 47.5111173,
+        "longitude": 19.07559,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q25452188",
+        "name": "Berzsenyi Daniel College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q60047365",
+        "name": "Bessenyei György Tanárképző Főiskola",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q30257502",
+        "name": "Bhaktivedanta College",
+        "short_name": null,
+        "official_website": "http:\/\/www.bhf.hu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q4914963",
+        "name": "Biological Research Centre",
+        "short_name": null,
+        "official_website": "http:\/\/www.szbk.hu\/",
+        "aliases": [
+            "BRC",
+            "Hungarian Academy of Sciences Biological Research Center",
+            "MTA Szegedi Biológiai Központ"
+        ],
+        "latitude": 46.245533,
+        "longitude": 20.165215,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q60552958",
+        "name": "Bolyai János Katonai Műszaki Főiskola",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q64917973",
+        "name": "Brenner János Theological College",
+        "short_name": null,
+        "official_website": "http:\/\/bjhf.hu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q573061",
+        "name": "Budapest Business University",
+        "short_name": null,
+        "official_website": "https:\/\/uni-bge.hu\/",
+        "aliases": null,
+        "latitude": 47.5080556,
+        "longitude": 19.1247222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q736573",
+        "name": "Budapest College of Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.avf.hu",
+        "aliases": null,
+        "latitude": 47.4783333,
+        "longitude": 19.0433333,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q850985",
+        "name": "Budapest Contemporary Dance Academy",
+        "short_name": null,
+        "official_website": "http:\/\/tanc.org.hu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q851175",
+        "name": "Budapest Metropolitan University",
+        "short_name": null,
+        "official_website": "https:\/\/www.metubudapest.hu\/",
+        "aliases": [
+            "BKF University of Applied Sciences",
+            "Budapest College of Communication and Business",
+            "University of Applied Science Budapest"
+        ],
+        "latitude": 47.5063889,
+        "longitude": 19.135,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q59416445",
+        "name": "Budapest Polytechnic Hungary",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q850996",
+        "name": "Budapest Semesters in Mathematics",
+        "short_name": null,
+        "official_website": "http:\/\/www.bsmath.hu\/",
+        "aliases": null,
+        "latitude": 47.5036111,
+        "longitude": 19.0775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q285382",
+        "name": "Budapest University of Jewish Studies",
+        "short_name": null,
+        "official_website": "https:\/\/or-zse.hu\/",
+        "aliases": [
+            "or-zse.hu",
+            "Rabbinical Seminary of Budapest"
+        ],
+        "latitude": 47.4934722,
+        "longitude": 19.07,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1186843",
+        "name": "Budapest University of Technology and Economics",
+        "short_name": null,
+        "official_website": "https:\/\/bme.hu",
+        "aliases": [
+            "BME",
+            "Budapest University of Technology",
+            "Budapesti Muszaki Es Gazdasagtudomanyi Egyetem",
+            "BUTE",
+            "Royal Joseph Technical University",
+            "Royal Technical University of Budapest",
+            "Technical University of Budapest",
+            "TUB"
+        ],
+        "latitude": 47.47985,
+        "longitude": 19.05608,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q851204",
+        "name": "Budapesti Tanítóképző Főiskola",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 47.49177,
+        "longitude": 19.01906,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q134607798",
+        "name": "building of József Attila Általános Iskola",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 47.474421,
+        "longitude": 19.078599,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q24005406",
+        "name": "building of the school for people with visual impairment",
+        "short_name": null,
+        "official_website": "https:\/\/www.vakisk.hu\/",
+        "aliases": null,
+        "latitude": 47.5135558,
+        "longitude": 19.0951059,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q853096",
+        "name": "Bánki Donát Polytechnic",
+        "short_name": null,
+        "official_website": "http:\/\/www.bgk.uni-obuda.hu\/",
+        "aliases": null,
+        "latitude": 47.496111,
+        "longitude": 19.071944,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q101012425",
+        "name": "Central European University  Department of Gender Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012424",
+        "name": "Central European University Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012426",
+        "name": "Central European University Department of History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012427",
+        "name": "Central European University Department of International Relations and European Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012428",
+        "name": "Central European University Department of Philosophy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012429",
+        "name": "Central European University Department of Political Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012430",
+        "name": "Central European University Department of Public Policy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012431",
+        "name": "Central European University Department of Sociology and Social Anthropology",
+        "short_name": null,
+        "official_website": "https:\/\/sociology.ceu.edu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1161068",
+        "name": "Central Research Institute for Physics",
+        "short_name": null,
+        "official_website": "https:\/\/www.kfki.hu\/",
+        "aliases": [
+            "Csillebérc campus of HAS",
+            "KFKI"
+        ],
+        "latitude": 47.48886,
+        "longitude": 18.95442,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q62083256",
+        "name": "Chemical Research Centre",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Chemical Research Center of the Hungarian Academy of Sciences",
+            "Chemical Research Center",
+            "Chemical Research Centre of the Hungarian Academy of Sciences",
+            "Institute of Chemical Research",
+            "Institute of Chemical Research of the Hungarian Academy of Sciences",
+            "Research Institute of Chemistry"
+        ],
+        "latitude": 47.524707,
+        "longitude": 19.022452,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q461893",
+        "name": "Cognitive Science and Neuropsychology Program of Szeged",
+        "short_name": null,
+        "official_website": "http:\/\/kognit.edpsy.u-szeged.hu\/english\/index.htm",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60041143",
+        "name": "College of Finance and Accountancy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q60041233",
+        "name": "College of Management and Business Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q60877038",
+        "name": "College of Public Administration",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1294980",
+        "name": "College of Szolnok",
+        "short_name": null,
+        "official_website": "http:\/\/www.szolfportal.hu\/",
+        "aliases": null,
+        "latitude": 47.165667,
+        "longitude": 20.187278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106806203",
+        "name": "Computing Research Institute and Innovation Center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q851164",
+        "name": "Corvinus University of Budapest",
+        "short_name": null,
+        "official_website": "https:\/\/uni-corvinus.hu\/",
+        "aliases": [
+            "BCE",
+            "Corvinus",
+            "CUB",
+            "Budapest University of Economic Sciences",
+            "Karl Marx University of Economic Sciences",
+            "Karl Marx University of Economics"
+        ],
+        "latitude": 47.4861111,
+        "longitude": 19.0580556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60189110",
+        "name": "Csokonai Vitéz Mihály Tanítóképző Főiskola",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q693351",
+        "name": "Debrecen Reformed Theological University",
+        "short_name": null,
+        "official_website": "http:\/\/drhe.hu\/index.php?lang=en",
+        "aliases": null,
+        "latitude": 47.5341667,
+        "longitude": 21.6263889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q59386645",
+        "name": "Debrecen University of Agrarian Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Debrecen Agricultural University",
+            "University of Agrarian Sciences Debrecen"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q941534",
+        "name": "Dennis Gabor University",
+        "short_name": null,
+        "official_website": "http:\/\/gdf.hu\/english\/welcome",
+        "aliases": [
+            "Gabor Denes College",
+            "Gábor Dénes College"
+        ],
+        "latitude": 47.4645,
+        "longitude": 19.037,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q136389445",
+        "name": "Department of Anatomy, Histology and Embryology",
+        "short_name": null,
+        "official_website": "https:\/\/semmelweis.hu\/anatomia\/az-intezet\/",
+        "aliases": null,
+        "latitude": 47.481,
+        "longitude": 19.0790833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116789044",
+        "name": "Department of Biophysics and Radiation Biology",
+        "short_name": null,
+        "official_website": "https:\/\/biofiz.semmelweis.hu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20439432",
+        "name": "Dharma Gate Buddhist College",
+        "short_name": null,
+        "official_website": "http:\/\/www.tkbf.hu\/",
+        "aliases": null,
+        "latitude": 47.463097,
+        "longitude": 19.112262,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q987722",
+        "name": "Edutus University",
+        "short_name": null,
+        "official_website": "http:\/\/www.edutus.hu\/",
+        "aliases": null,
+        "latitude": 47.5873889,
+        "longitude": 18.3996389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27994757",
+        "name": "Eger Archiepiscopal Law Academy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Collegium Iuridicum",
+            "Foglarianum",
+            "Foglarium"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q106967076",
+        "name": "ELTE Faculty of Humanities, Institute of Romance Studies",
+        "short_name": null,
+        "official_website": "https:\/\/www.btk.elte.hu\/romanisztikai-intezet",
+        "aliases": null,
+        "latitude": 47.4934104,
+        "longitude": 19.0609224,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q31093231",
+        "name": "ELTE Faculty of Socal Sciences Department of Cultural Anthropology",
+        "short_name": null,
+        "official_website": "https:\/\/tatk.elte.hu\/en\/units\/kulturalis-antropologia-tanszek",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q987379",
+        "name": "ELTE Origo Language Center",
+        "short_name": null,
+        "official_website": "https:\/\/www.onyc.hu",
+        "aliases": [
+            "ELTE Idegennyelvi Továbbképző Központ",
+            "ELTE Origo Language Centre",
+            "ELTE-ITK",
+            "ELTE-ONYC",
+            "Idegennyelvi Továbbképző Központ",
+            "Language Centre of Eötvös Loránd University",
+            "ONYC",
+            "Origo Language Centre"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q59590471",
+        "name": "ELTE Savaria University Centre",
+        "short_name": null,
+        "official_website": "https:\/\/sek.elte.hu\/",
+        "aliases": null,
+        "latitude": 47.2305,
+        "longitude": 16.6117,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q134056719",
+        "name": "Episcopal Law Academy of Pécs",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q993120",
+        "name": "European Institute of Innovation and Technology",
+        "short_name": "EIT",
+        "official_website": "https:\/\/www.eit.europa.eu\/",
+        "aliases": [
+            "EIT",
+            "European Institute of Innovation & Technology"
+        ],
+        "latitude": 47.4698384,
+        "longitude": 19.0605888,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q134963794",
+        "name": "evangelische Schule",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 47.6851,
+        "longitude": 16.5887,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q994537",
+        "name": "Eötvös József Főiskola",
+        "short_name": null,
+        "official_website": "http:\/\/www.ejf.hu",
+        "aliases": null,
+        "latitude": 46.184167,
+        "longitude": 18.955,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q74528725",
+        "name": "Eötvös Loránd University, Spanish Department",
+        "short_name": null,
+        "official_website": "http:\/\/spanyolszak.elte.hu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1177748",
+        "name": "Faculty of Economics, University of Miskolc",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Miskolci Egyetem (Hungary). Gazdaságtudományi Kar",
+            "University of Miskolc, Faculty of Economics"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1125173",
+        "name": "Ferenc Kölcsey Teacher Training College of the Reformed Church",
+        "short_name": null,
+        "official_website": "http:\/\/www.kolcseyfoiskola.hu",
+        "aliases": null,
+        "latitude": 47.5341667,
+        "longitude": 21.6263889,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q847099",
+        "name": "Franz Liszt Academy of Music",
+        "short_name": null,
+        "official_website": "http:\/\/www.zeneakademia.hu\/",
+        "aliases": [
+            "Music Academy",
+            "Ferenc Liszt Academy of Music",
+            "Franz Liszt College of Music",
+            "Liszt Ferenc Zeneművészet Főiskola",
+            "Liszt Ferenc Zeneművészeti Egyetem",
+            "Royal National Hungarian Academy of Music",
+            "Zeneakadémia"
+        ],
+        "latitude": 47.503056,
+        "longitude": 19.06444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123908458",
+        "name": "Freeszfe Society",
+        "short_name": null,
+        "official_website": "https:\/\/www.freeszfe.hu\/",
+        "aliases": [
+            "Freeszfe Association"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18938011",
+        "name": "Frédéric Joliot-Curie National Research Institute for Radiobiology and Radiohygiene",
+        "short_name": null,
+        "official_website": "http:\/\/www.osski.hu\/",
+        "aliases": [
+            "Országos Frédéric Joliot-Curie Sugárbiológiai és Sugáregészségügyi Kutató Intéze"
+        ],
+        "latitude": 47.4322222,
+        "longitude": 19.0419444,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q994556",
+        "name": "Geofizikai Intézet",
+        "short_name": null,
+        "official_website": "http:\/\/www.elgi.hu",
+        "aliases": [
+            "Eötvös Loránd Geofizikai Intézet",
+            "Eötvös Loránd Geophysical Institute of Hungary"
+        ],
+        "latitude": 47.512978,
+        "longitude": 19.102431,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30254710",
+        "name": "Geographical Institute of Research",
+        "short_name": null,
+        "official_website": "http:\/\/www.mtafki.hu\/nyitolap_en.html",
+        "aliases": [
+            "Geographical Research Institute",
+            "MTA CSFK Földrajztudományi Intézet"
+        ],
+        "latitude": 47.478845,
+        "longitude": 19.025113,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q60543638",
+        "name": "Gyula Juhász Teacher Training College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q61650180",
+        "name": "Gépipari és Automatizálási Műszaki Főiskola (Kecskemét, Hungary)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1031477",
+        "name": "Gödöllő University of Agricultural Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.gau.hu",
+        "aliases": [
+            "Godollo University of Agricultural Sciences",
+            "Premonstratensian Gymnasium Gödöllő"
+        ],
+        "latitude": 47.593056,
+        "longitude": 19.361389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61090514",
+        "name": "Hajdúböszörményi Óvóképző Főiskola",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q59773310",
+        "name": "Haynal Imre University of Health Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Imre Haynal University of Health Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60733176",
+        "name": "Ho Si Minh Tanárképző Főiskola. Budapesti Kihelyezett Tagozat",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7727247",
+        "name": "HUN-REN Institute for Computer Science and Control",
+        "short_name": null,
+        "official_website": "https:\/\/www.sztaki.hu\/?en",
+        "aliases": [
+            "Computer and Automation Research Institute",
+            "HUN-REN SZTAKI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5090421",
+        "name": "HUN-REN Research Centre for Natural Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/www.ttk.hun-ren.hu\/",
+        "aliases": [
+            "Magyar Tudományos Akadémia Kémiai Kutatóközpont",
+            "Research Center for Natural Sciences",
+            "Research Centre for Natural Sciences",
+            "Research Centre for Natural Sciences of HAS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30295995",
+        "name": "Hungarian Academy of Sciences, Research Centre for the Humanities, Institute of History",
+        "short_name": null,
+        "official_website": "https:\/\/tti.abtk.hu\/en\/",
+        "aliases": [
+            "HAS RCH Institute of History",
+            "MTA BTK Történettudományi Intézet"
+        ],
+        "latitude": 47.501423,
+        "longitude": 19.046389,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q15148601",
+        "name": "Hungarian Dance Academy",
+        "short_name": null,
+        "official_website": "http:\/\/mte.eu\/",
+        "aliases": [
+            "State Ballet Institute"
+        ],
+        "latitude": 47.5197572,
+        "longitude": 19.0906657,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61932691",
+        "name": "Hungarian Demographic Research Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.demografia.hu\/en\/",
+        "aliases": [
+            "HDRI"
+        ],
+        "latitude": 47.512206,
+        "longitude": 19.03065,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1567161",
+        "name": "Hungarian Institute of Geology and Geophysics",
+        "short_name": null,
+        "official_website": "http:\/\/www.mfgi.hu",
+        "aliases": null,
+        "latitude": 47.5056719,
+        "longitude": 19.097524,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30577700",
+        "name": "Hungarian Institute Of International Affairs",
+        "short_name": null,
+        "official_website": "https:\/\/hiia.hu\/en\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q136412981",
+        "name": "Hungarian Library Institute",
+        "short_name": null,
+        "official_website": "https:\/\/ki.oszk.hu\/",
+        "aliases": null,
+        "latitude": 47.4954,
+        "longitude": 19.0396,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74537959",
+        "name": "Hungarian Natural History Museum and the Biological Section of the Hungarian Academy of Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7315098",
+        "name": "Hungarian Research Centre for Linguistics",
+        "short_name": null,
+        "official_website": "http:\/\/www.nytud.hu\/",
+        "aliases": [
+            "MTA Nyelvtudományi Intézet",
+            "Research Institute for Linguistics of the Hungarian Academy of Sciences"
+        ],
+        "latitude": 47.5113,
+        "longitude": 19.0761,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1296434",
+        "name": "Hungarian University of Agriculture and Life Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/www.uni-mate.hu\/",
+        "aliases": [
+            "Saint Stephen University",
+            "Szent István Egyetem",
+            "Szent Istvan University"
+        ],
+        "latitude": 47.5938,
+        "longitude": 19.3612,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q844153",
+        "name": "Hungarian University of Fine Arts",
+        "short_name": null,
+        "official_website": "https:\/\/www.mke.hu\/",
+        "aliases": [
+            "Academy of Fine Arts, Budapest",
+            "Hungarian College of Fine Arts"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1287034",
+        "name": "Hungarian University of Sports Science",
+        "short_name": null,
+        "official_website": "https:\/\/tf.hu\/",
+        "aliases": [
+            "TF",
+            "University of Physical Education",
+            "Testnevelési Egyetem"
+        ],
+        "latitude": 47.4927778,
+        "longitude": 19.0255556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q59602375",
+        "name": "Illyés Gyula Pedagógiai Főiskola",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q25456977",
+        "name": "Institute for Foreign Affairs and Trade",
+        "short_name": null,
+        "official_website": "http:\/\/kki.gov.hu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q855884",
+        "name": "Institute for Forensic Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.bszki.hu\/",
+        "aliases": [
+            "Hungarian Institute for Forensic Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30273436",
+        "name": "Institute for Literary Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.iti.mta.hu\/index-eng.html",
+        "aliases": [
+            "MTA BTK ITI"
+        ],
+        "latitude": 47.479769,
+        "longitude": 19.046462,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16521622",
+        "name": "Institute for Particle and Nuclear Physics",
+        "short_name": null,
+        "official_website": "https:\/\/wigner.hu\/hu\/reszecske-es-magfizikai-intezet",
+        "aliases": [
+            "KFKI Research Institute for Particle and Nuclear Physics",
+            "Particle and Nuclear Physics Institute"
+        ],
+        "latitude": 47.487237,
+        "longitude": 18.954439,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1161069",
+        "name": "Institute for Solid State Physics and Optics",
+        "short_name": null,
+        "official_website": "https:\/\/wigner.hu\/hu\/szilardtestfizikai-es-optikai-intezet",
+        "aliases": [
+            "Wigner Research Centre for Physics Institute of Solid State Physics and Optics",
+            "HUN-REN Wigner Research Centre for Physics Institute of Solid State Physics and Optics"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20439456",
+        "name": "Institute for Technical Physics and Materials Science",
+        "short_name": null,
+        "official_website": "https:\/\/www.mfa.kfki.hu\/",
+        "aliases": [
+            "HUN-REN Institute for Technical Physics and Materials Science"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q126118426",
+        "name": "Institute of Advanced Studies Kőszeg",
+        "short_name": null,
+        "official_website": "https:\/\/iask.hu\/en\/",
+        "aliases": [
+            "FTI",
+            "Felsőbbfokú Tanulmányok Intézete",
+            "iASK"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74544499",
+        "name": "Institute of Archaeological Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/regeszet.elte.hu\/",
+        "aliases": [
+            "Régészettudományi Intézet",
+            "Institute of Archaeological Sciences,  Institute of Archaeological Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q132318383",
+        "name": "Institute of Earth Physics and Space Science",
+        "short_name": null,
+        "official_website": "https:\/\/epss.hun-ren.hu\/",
+        "aliases": [
+            "EPSS",
+            "HAS Institute of Earth Physics and Space Science",
+            "HUN-REN EPSS",
+            "MTA Institute of Earth Physics and Space Science"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1162267",
+        "name": "Institute of Ecology and Botany",
+        "short_name": null,
+        "official_website": "https:\/\/ecolres.hu\/intezetek\/okologiai-es-botanikai-kutatointezet\/",
+        "aliases": [
+            "Institute of Botany HAS",
+            "Institute of Ecology and Botany HAS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30273438",
+        "name": "Institute of Ethnology",
+        "short_name": null,
+        "official_website": "http:\/\/www.etnologia.mta.hu\/",
+        "aliases": null,
+        "latitude": 47.490714,
+        "longitude": 19.05847,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30281947",
+        "name": "Institute of Experimental Medicine",
+        "short_name": null,
+        "official_website": "https:\/\/koki.hun-ren.hu\/",
+        "aliases": [
+            "IEM",
+            "HUN-REN Institute of Experimental Medicine",
+            "Institute of Experimental Medicine",
+            "KOKI",
+            "MTA Institute of Experimental Medicine"
+        ],
+        "latitude": 47.483224,
+        "longitude": 19.079524,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q87776636",
+        "name": "Institute of Isotopes",
+        "short_name": null,
+        "official_website": "http:\/\/www.iki.kfki.hu\/",
+        "aliases": [
+            "HAS Institute of Isotopes",
+            "Hungarian Academy of Sciences Institute of Isotopes"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30273422",
+        "name": "Institute of Materials and Environmental Chemistry",
+        "short_name": null,
+        "official_website": "https:\/\/www.ttk.hun-ren.hu\/aki\/",
+        "aliases": [
+            "IMEC",
+            "MTA Természettudományi Kutatóközpont Anyag- és Környezetkémiai Intézet"
+        ],
+        "latitude": 47.47266,
+        "longitude": 19.060072,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30287740",
+        "name": "Institute of Molecular Life Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/www.ttk.hun-ren.hu\/ei\/",
+        "aliases": [
+            "Institute of Enzymology"
+        ],
+        "latitude": 47.474064,
+        "longitude": 19.060129,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1238566",
+        "name": "Institute of Political History",
+        "short_name": null,
+        "official_website": "http:\/\/www.polhist.hu\/",
+        "aliases": [
+            "Politikatörténeti Intézet"
+        ],
+        "latitude": 47.5072222,
+        "longitude": 19.0483333,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530736",
+        "name": "Institute of Political Science and Sociology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1295408",
+        "name": "Institute of Psychology",
+        "short_name": null,
+        "official_website": "http:\/\/www.pszich.u-szeged.hu\/",
+        "aliases": [
+            "Szegedi Pszichológiai Intézet"
+        ],
+        "latitude": 46.2475,
+        "longitude": 20.1402778,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q104150575",
+        "name": "Institute of Slavic Studies, Faculty of Arts and Humanities,        University of Pécs",
+        "short_name": null,
+        "official_website": "https:\/\/btk.pte.hu\/hu\/taxonomy\/term\/127",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q285153",
+        "name": "International Business School, Budapest",
+        "short_name": null,
+        "official_website": "http:\/\/www.ibs-b.hu\/",
+        "aliases": [
+            "Nemzetközi Üzleti Főiskola"
+        ],
+        "latitude": 47.521389,
+        "longitude": 18.990556,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q74547059",
+        "name": "International Research Institute s.r.o.",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1105954",
+        "name": "John von Neumann University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uni-neumann.hu",
+        "aliases": [
+            "College of Kecskemet",
+            "College of Kecskemét",
+            "John von Neumann University",
+            "Pallasz Athene University",
+            "Pallasz Athéné University",
+            "University of Pallas Athena"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25460074",
+        "name": "John Wesley Theological College",
+        "short_name": null,
+        "official_website": "http:\/\/wesley.hu",
+        "aliases": null,
+        "latitude": 47.490917,
+        "longitude": 19.082056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1028128",
+        "name": "József Gregor Elementary School, Rákosliget",
+        "short_name": null,
+        "official_website": "http:\/\/www.gregorsuli.hu\/",
+        "aliases": null,
+        "latitude": 47.4903611,
+        "longitude": 19.2608333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1104077",
+        "name": "Kandó Kálmán Technical College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Kando Kalman Polytechnic",
+            "Kandó Kálmán Polytechnic",
+            "Kando Kalman Technical College"
+        ],
+        "latitude": 47.490881,
+        "longitude": 19.07829,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q60046394",
+        "name": "Kereskedelmi és Vendéglátóipari Főiskola",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q61943560",
+        "name": "Keszthely Agricultural University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60860542",
+        "name": "Kilián György College for Aviation Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "György Kilián College for Aviation Technology",
+            "Kilián György Aeronautical College",
+            "Kilián György Air Force College",
+            "Kilián György Aviation Technical College",
+            "Kilián György Flight Technical College",
+            "Killián György Flying Technical College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1114851",
+        "name": "Kodolányi János University",
+        "short_name": null,
+        "official_website": "http:\/\/www.kodolanyi.hu\/",
+        "aliases": [
+            "Janos Kodolanyi College",
+            "Kodolanyi Janos University of Applied Sciences"
+        ],
+        "latitude": 47.1944444,
+        "longitude": 18.4155556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60622598",
+        "name": "Kossuth Lajos Military College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1123379",
+        "name": "Károli Gáspár University of the Reformed Church in Hungary",
+        "short_name": null,
+        "official_website": "http:\/\/www.kre.hu\/english\/",
+        "aliases": [
+            "Karoli Gaspar University of the Reformed Church in Hungary"
+        ],
+        "latitude": 47.558889,
+        "longitude": 19.102222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q59779539",
+        "name": "Könnyűipari Műszaki Főiskola",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q240041",
+        "name": "Lutheran Theological University",
+        "short_name": null,
+        "official_website": "https:\/\/uni.lutheran.hu",
+        "aliases": null,
+        "latitude": 47.5193,
+        "longitude": 19.1147,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20439228",
+        "name": "McDaniel College Budapest",
+        "short_name": null,
+        "official_website": "http:\/\/mcdaniel.hu",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106806529",
+        "name": "Measurement and Computing Research Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q61268750",
+        "name": "Medical University of Debrecen",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61187321",
+        "name": "Medical University of Pécs",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 46.07262,
+        "longitude": 18.20734,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27915871",
+        "name": "Milton Friedman University",
+        "short_name": null,
+        "official_website": "https:\/\/uni-milton.hu\/",
+        "aliases": [
+            "King Sigismund College",
+            "Zsigmond Király Főiskola"
+        ],
+        "latitude": 47.6010889,
+        "longitude": 19.0637583,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q718311",
+        "name": "Moholy-Nagy University of Art and Design",
+        "short_name": null,
+        "official_website": "https:\/\/mome.hu\/",
+        "aliases": [
+            "MOME"
+        ],
+        "latitude": 47.5171,
+        "longitude": 18.9898,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60795500",
+        "name": "MSZMP Political College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Hungarian Socialist Workers' Party Political College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q30273416",
+        "name": "MTA Research Centre for Astronomy and Earth Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/csfk.mta.hu\/?lang=en",
+        "aliases": [
+            "MTA CSFK"
+        ],
+        "latitude": 47.499669,
+        "longitude": 18.964239,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1226193",
+        "name": "National Institute for Food and Nutrition Science",
+        "short_name": null,
+        "official_website": "http:\/\/www.oeti.hu\/",
+        "aliases": [
+            "Országos Élelmezés- és Táplálkozástudományi Intézet"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30282201",
+        "name": "National Institute for Rheumatology and Physiotherapy",
+        "short_name": null,
+        "official_website": "http:\/\/www.orfi.hu\/",
+        "aliases": [
+            "National Institute for Rheumatology and Physiotherapy (Budapest)",
+            "ORFI",
+            "Országos Reumatológiai és Fizioterápiás Intézet"
+        ],
+        "latitude": 47.517716,
+        "longitude": 19.036826,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12815487",
+        "name": "National University of Public Service",
+        "short_name": null,
+        "official_website": "https:\/\/www.uni-nke.hu\/",
+        "aliases": null,
+        "latitude": 47.4819,
+        "longitude": 19.0858,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25453840",
+        "name": "Nemzetstratégiai Kutatóintézet",
+        "short_name": null,
+        "official_website": "http:\/\/www.nski.hu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1227548",
+        "name": "Néprajz Tanszék",
+        "short_name": null,
+        "official_website": "https:\/\/btk.pte.hu\/szervezeti_egysegek\/neprajz_kulturalis_antropologia_tanszek",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1254544",
+        "name": "Néprajzi és Kulturális Antropológiai Tanszék",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q138012567",
+        "name": "Observatory Centre for Educational Development",
+        "short_name": null,
+        "official_website": "http:\/\/observatory.org.hu\/",
+        "aliases": [
+            "The Observatory Centre for Educational Development"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q131383956",
+        "name": "Peace Research Center Prague",
+        "short_name": null,
+        "official_website": "https:\/\/www.prcprague.cz\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q59644618",
+        "name": "Pollack Mihály Műszaki Főiskola",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q74537136",
+        "name": "Pragmatika Centrum Országos Kutatóközpont",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q72935652",
+        "name": "Prosperis Alba Kutatóközpont",
+        "short_name": null,
+        "official_website": "http:\/\/www.prosperisalba.hu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q109929660",
+        "name": "Pápa Reformed Theological Seminary",
+        "short_name": null,
+        "official_website": "http:\/\/www.prta.hu\/",
+        "aliases": null,
+        "latitude": 47.328523,
+        "longitude": 17.4695158,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1242378",
+        "name": "Pápai Református Kollegium",
+        "short_name": null,
+        "official_website": "http:\/\/refi-papa.hu\/",
+        "aliases": null,
+        "latitude": 47.3276,
+        "longitude": 17.4683,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60695616",
+        "name": "Pécsi Tanárképző Főiskola",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1035143",
+        "name": "Q1035143",
+        "short_name": null,
+        "official_website": "http:\/\/www.hff.hu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q110846712",
+        "name": "Q110846712",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 47.5873889,
+        "longitude": 18.3996389,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1162991",
+        "name": "Q1162991",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1176205",
+        "name": "Q1176205",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 47.49,
+        "longitude": 19.0644444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1177747",
+        "name": "Q1177747",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1177751",
+        "name": "Q1177751",
+        "short_name": null,
+        "official_website": "https:\/\/www.uni-miskolc.hu\/~btkvat\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q118624758",
+        "name": "Q118624758",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q131460890",
+        "name": "Q131460890",
+        "short_name": null,
+        "official_website": "https:\/\/nivak.nejanet.hu\/",
+        "aliases": null,
+        "latitude": 47.921391,
+        "longitude": 20.37259,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1316659",
+        "name": "Q1316659",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 46.9132225,
+        "longitude": 19.6946371,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q20439249",
+        "name": "Q20439249",
+        "short_name": null,
+        "official_website": "https:\/\/compsci.elte.hu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25457281",
+        "name": "Q25457281",
+        "short_name": null,
+        "official_website": "http:\/\/human.geo.u-szeged.hu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25457744",
+        "name": "Q25457744",
+        "short_name": null,
+        "official_website": "http:\/\/commonline.hu\/",
+        "aliases": null,
+        "latitude": 46.07769,
+        "longitude": 18.248611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q597378",
+        "name": "Q597378",
+        "short_name": null,
+        "official_website": "http:\/\/mhti.hu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q60048585",
+        "name": "Q60048585",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q60148843",
+        "name": "Q60148843",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q61066842",
+        "name": "Q61066842",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61748708",
+        "name": "Q61748708",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q61776769",
+        "name": "Q61776769",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q835347",
+        "name": "Q835347",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q85284676",
+        "name": "Q85284676",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q97327422",
+        "name": "Q97327422",
+        "short_name": null,
+        "official_website": "http:\/\/www.sszc.hu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q903085",
+        "name": "Reformed College of Debrecen",
+        "short_name": null,
+        "official_website": "http:\/\/www.drk.hu",
+        "aliases": [
+            "Debrecen Reformed Academy",
+            "Debrecen Reformed College",
+            "Debrecen Reformed Collegiate Institution"
+        ],
+        "latitude": 47.533611,
+        "longitude": 21.623611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107005211",
+        "name": "Research Center of the  Hungarian Defence Forces",
+        "short_name": null,
+        "official_website": "https:\/\/htkh.mil.hu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30273434",
+        "name": "Research Centre for The Humanities",
+        "short_name": null,
+        "official_website": "https:\/\/www.abtk.hu\/",
+        "aliases": [
+            "HAS Research Centre for the Humanities",
+            "HUN-REN Research Centre for The Humanities",
+            "MTA Research Centre for The Humanities",
+            "ELTE Research Centre for The Humanities"
+        ],
+        "latitude": 47.503564,
+        "longitude": 19.029885,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q134377976",
+        "name": "Research Institute for Heavy Chemical Industries",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "NEVIKI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q111242859",
+        "name": "Research Institute for Telecommunication",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 47.5223333,
+        "longitude": 19.0154167,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q28723084",
+        "name": "Research Institute of Agricultural Economics",
+        "short_name": null,
+        "official_website": "https:\/\/www.aki.gov.hu\/",
+        "aliases": [
+            "AKI",
+            "Agricultural Research Institute"
+        ],
+        "latitude": 47.483177,
+        "longitude": 19.063288,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q59821583",
+        "name": "Royal Academy of Law in Győr",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Győr Royal Academy of Law",
+            "Győr Academy of Law",
+            "Győr University of Law",
+            "University of Law in Győr"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1256618",
+        "name": "Sapientia College of Theology of Religious Orders",
+        "short_name": null,
+        "official_website": "http:\/\/www.sapientia.hu\/",
+        "aliases": [
+            "Sapientia",
+            "Sapientia College of Theology"
+        ],
+        "latitude": 47.4926111,
+        "longitude": 19.0529444,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q106354134",
+        "name": "School of English & American Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q277681",
+        "name": "Semmelweis University",
+        "short_name": null,
+        "official_website": "https:\/\/semmelweis.hu\/",
+        "aliases": [
+            "Semmelweis Egyetem",
+            "Universitas Budapestiensis de Semmelweis Nominata"
+        ],
+        "latitude": 47.4872222,
+        "longitude": 19.0672222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q94700860",
+        "name": "Semmelweis University Department of Family Medicine",
+        "short_name": null,
+        "official_website": "https:\/\/semmelweis.hu\/csot\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1287039",
+        "name": "Semmelweis University, Faculty of Medicine, Department of Anatomy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Department of Anatomy"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1296675",
+        "name": "Szent Pál Akadémia",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 47.4695,
+        "longitude": 19.1513333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q64860107",
+        "name": "Széchenyi István Kereskedelmi Gyakorló Szakközépiskola",
+        "short_name": null,
+        "official_website": "http:\/\/www.vasutca.hu\/",
+        "aliases": null,
+        "latitude": 47.4943028,
+        "longitude": 19.0661333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q631317",
+        "name": "Széchenyi István University",
+        "short_name": null,
+        "official_website": "http:\/\/uni.sze.hu\/",
+        "aliases": [
+            "Széchenyi István Egyetem",
+            "Szechenyi Istvan University"
+        ],
+        "latitude": 47.6935,
+        "longitude": 17.6276,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7669348",
+        "name": "TARKI Social Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.tarki.hu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q59387102",
+        "name": "Tessedik Sámuel College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q27994543",
+        "name": "Theological Archbishop's College",
+        "short_name": null,
+        "official_website": "https:\/\/www.vhf.hu\/",
+        "aliases": [
+            "Veszprémi Érseki Hittudományi Fõiskola"
+        ],
+        "latitude": 47.1091389,
+        "longitude": 17.91025,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q18599934",
+        "name": "Theological College of Eger",
+        "short_name": null,
+        "official_website": "http:\/\/www.eghf.hu\/",
+        "aliases": [
+            "Egri Hittudományi Főiskola"
+        ],
+        "latitude": 47.901379,
+        "longitude": 20.3729869,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q27994531",
+        "name": "Theological College of Győr",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1242824",
+        "name": "Theological College of Pécs",
+        "short_name": null,
+        "official_website": "http:\/\/www.pphf.hu\/",
+        "aliases": null,
+        "latitude": 46.079417,
+        "longitude": 18.227035,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q30257548",
+        "name": "Tomori Pál College",
+        "short_name": null,
+        "official_website": "https:\/\/tpfk.hu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q65589756",
+        "name": "University of Buda",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q903092",
+        "name": "University of Debrecen",
+        "short_name": null,
+        "official_website": "https:\/\/unideb.hu\/",
+        "aliases": [
+            "Debreceni Egyetem"
+        ],
+        "latitude": 47.5538889,
+        "longitude": 21.6213889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74537566",
+        "name": "University of Debrecen, Department of Landscape Protection and Environmental Geography; Department of Meteorology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q782452",
+        "name": "University of Dunaújváros",
+        "short_name": null,
+        "official_website": "http:\/\/www.uniduna.hu\/",
+        "aliases": [
+            "College of Dunaujvaros",
+            "College of Dunaújváros",
+            "University of Dunaujvaros"
+        ],
+        "latitude": 46.9625191,
+        "longitude": 18.9286291,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1107723",
+        "name": "University of Horticulture and Food Industry",
+        "short_name": null,
+        "official_website": "http:\/\/www.kee.hu",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q836467",
+        "name": "University of Kaposvár",
+        "short_name": null,
+        "official_website": "http:\/\/www.ke.hu\/",
+        "aliases": [
+            "Kaposvári Egyetem",
+            "University of Kaposvar"
+        ],
+        "latitude": 46.3849,
+        "longitude": 17.8261,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q729786",
+        "name": "University of Miskolc",
+        "short_name": null,
+        "official_website": "http:\/\/www.uni-miskolc.hu",
+        "aliases": [
+            "Miskolci Egyetem",
+            "Technical University of Heavy Industry"
+        ],
+        "latitude": 48.0797222,
+        "longitude": 20.765,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1219886",
+        "name": "University of Nyíregyháza",
+        "short_name": null,
+        "official_website": "https:\/\/www.nye.hu\/",
+        "aliases": [
+            "Nyíregyházi Egyetem",
+            "University of Nyiregyhaza"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q606815",
+        "name": "University of Pannonia",
+        "short_name": null,
+        "official_website": "http:\/\/www.uni-pannon.hu",
+        "aliases": [
+            "University of Veszprem",
+            "University of Veszprém",
+            "Veszprém University"
+        ],
+        "latitude": 47.0886111,
+        "longitude": 17.9080556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1187444",
+        "name": "University of Pécs",
+        "short_name": "UP",
+        "official_website": "https:\/\/pte.hu\/",
+        "aliases": [
+            "JPTE",
+            "Pécsi Tudományegyetem",
+            "PTE",
+            "University of Pecs"
+        ],
+        "latitude": 46.0741828,
+        "longitude": 18.237722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q897033",
+        "name": "University of Sopron",
+        "short_name": null,
+        "official_website": "http:\/\/uni-sopron.hu\/",
+        "aliases": [
+            "USH"
+        ],
+        "latitude": 47.6802778,
+        "longitude": 16.5772222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q369839",
+        "name": "University of Szeged",
+        "short_name": null,
+        "official_website": "https:\/\/u-szeged.hu",
+        "aliases": [
+            "Szegedi Tudományegyetem",
+            "SZTE"
+        ],
+        "latitude": 46.2502,
+        "longitude": 20.1461,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74554939",
+        "name": "University of Szeged, Bolyai Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1303297",
+        "name": "University of Theatre and Film Arts",
+        "short_name": null,
+        "official_website": "http:\/\/www.szfe.hu",
+        "aliases": [
+            "Academy of Drama and Film in Budapest"
+        ],
+        "latitude": 47.4952778,
+        "longitude": 19.0661111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1177741",
+        "name": "University of Tokaj",
+        "short_name": null,
+        "official_website": "https:\/\/www.unithe.hu\/",
+        "aliases": [
+            "UT",
+            "Eszterházy Károly University, Comenius faculty"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1469723",
+        "name": "University of Veterinary Medicine Budapest",
+        "short_name": null,
+        "official_website": "https:\/\/univet.hu\/",
+        "aliases": [
+            "Royal Academy of Veterinary Medicine",
+            "Royal Institute for Veterinary Medicine"
+        ],
+        "latitude": 47.503281,
+        "longitude": 19.077916,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q31092854",
+        "name": "Vác Center of Vocational Training",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30285602",
+        "name": "Water Resources Research Centre",
+        "short_name": null,
+        "official_website": "http:\/\/www.vituki.hu\/",
+        "aliases": [
+            "Környezetvédelmi és Vízgazdálkodási Kutató Intézet",
+            "VITUKI"
+        ],
+        "latitude": 47.745605,
+        "longitude": 18.121864,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1161072",
+        "name": "Wigner Research Centre for Physics",
+        "short_name": null,
+        "official_website": "http:\/\/wigner.hu\/",
+        "aliases": [
+            "Kfki",
+            "KFKI Research Institute For Particle and Nuclear Physics",
+            "Research Institute For Solid-state Physics",
+            "Wigner RCP",
+            "Wigner RCP RMI",
+            "Wigner RCP SZFI",
+            "HUN-REN Wigner Research Centre for Physics",
+            "MTA Research Centre for Physics"
+        ],
+        "latitude": 47.48886,
+        "longitude": 18.95442,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q61022704",
+        "name": "Ybl Miklós Technical College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1467882",
+        "name": "Zrínyi Miklós National Defense University",
+        "short_name": null,
+        "official_website": "http:\/\/www.zmne.hu",
+        "aliases": [
+            "Miklos Zrinyi National Defense University",
+            "Miklós Zrínyi National Defense University"
+        ],
+        "latitude": 47.4951,
+        "longitude": 19.1095,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q64860403",
+        "name": "Áldás elementary school, Budapest",
+        "short_name": null,
+        "official_website": "https:\/\/aldassuli.hu\/",
+        "aliases": null,
+        "latitude": 47.5175611,
+        "longitude": 19.0271861,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102046106",
+        "name": "Élelmiszeripari Főiskola",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "College of Food Industry"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1412435",
+        "name": "Óbuda University",
+        "short_name": "ÓU",
+        "official_website": "https:\/\/www.uni-obuda.hu\/",
+        "aliases": [
+            "Obuda University"
+        ],
+        "latitude": 47.5337778,
+        "longitude": 19.0349306,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1219568",
+        "name": "Óbuda University of Alba Regia Faculty of Technology of the Institute of Geoinformatics",
+        "short_name": null,
+        "official_website": "http:\/\/geo.amk.uni-obuda.hu",
+        "aliases": [
+            "Obuda University of Alba Regia Faculty of Technology of the Institute of Geoinformatics"
+        ],
+        "latitude": 47.18885,
+        "longitude": 18.41899,
+        "type": "university"
+    }
+]

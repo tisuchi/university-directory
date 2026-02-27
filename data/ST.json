@@ -1,0 +1,38 @@
+[
+    {
+        "wikidata_id": "Q6974220",
+        "name": "National Lyceum",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 0.3386111,
+        "longitude": 6.7405556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q45133457",
+        "name": "Patrice Lumumba National High School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "D. João II National High School",
+            "Patrice Lumumba Preparatory School",
+            "S. Tomé High School"
+        ],
+        "latitude": 0.336228,
+        "longitude": 6.730875,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6041504",
+        "name": "University of São Tomé and Príncipe",
+        "short_name": null,
+        "official_website": "https:\/\/www.ustp-edu-st.com",
+        "aliases": [
+            "USTP"
+        ],
+        "latitude": 0.326237,
+        "longitude": 6.7300538,
+        "type": "university"
+    }
+]

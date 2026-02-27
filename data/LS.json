@@ -1,0 +1,40 @@
+[
+    {
+        "wikidata_id": "Q1410332",
+        "name": "National University of Lesotho",
+        "short_name": null,
+        "official_website": "https:\/\/www.nul.ls\/",
+        "aliases": [
+            "NUL",
+            "nul.ls",
+            "Pius XII Catholic University College",
+            "University of Basutoland, Bechuanaland Protectorate and Swaziland",
+            "University of Botswana, Lesotho and Swaziland"
+        ],
+        "latitude": -29.4505556,
+        "longitude": 27.7230556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100945117",
+        "name": "National University of Lesotho Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17042603",
+        "name": "University of Botswana, Lesotho and Swaziland",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UBLS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

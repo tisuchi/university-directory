@@ -1,0 +1,600 @@
+[
+    {
+        "wikidata_id": "Q3146579",
+        "name": "African Institute for Economic Development and Planning",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IDEP",
+            "Institut Africain de Développement Economique et de Planification"
+        ],
+        "latitude": 14.6623333,
+        "longitude": -17.4389167,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q122204264",
+        "name": "Amadou-Mahtar M'Bow University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 14.73375,
+        "longitude": -17.19719,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551694",
+        "name": "Assane Seck University",
+        "short_name": null,
+        "official_website": "https:\/\/uasz.sn",
+        "aliases": [
+            "Assane Seck University of Ziguinchor",
+            "Assane SECK University of Ziguinchor",
+            "IAU-019667",
+            "UASZ",
+            "Université Assane SECK de Ziguinchor",
+            "Ziguinchor University"
+        ],
+        "latitude": 12.5482,
+        "longitude": -16.2868,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106464830",
+        "name": "Atlantic University",
+        "short_name": null,
+        "official_website": "http:\/\/www.universat.sn",
+        "aliases": [
+            "IAU-024602",
+            "UNIVERSAT",
+            "Université de l’Atlantique"
+        ],
+        "latitude": 14.7146786,
+        "longitude": -17.453369,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q767720",
+        "name": "Brighton International University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "BIU",
+            "Brighton International University - School of Medicine"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1054183",
+        "name": "Centre de linguistique appliquée de Dakar",
+        "short_name": null,
+        "official_website": "http:\/\/clad.ucad.sn\/",
+        "aliases": [
+            "CLAD",
+            "Center of Applied Linguistics of Dakar",
+            "Centre de linguistique appliquee de Dakar"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97621094",
+        "name": "Centre de Recherches Agricoles de Saint-Louis",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 16.2001389,
+        "longitude": -16.2626389,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100267072",
+        "name": "Centre de Recherches Économiques Appliquées",
+        "short_name": null,
+        "official_website": "http:\/\/faseg.ucad.sn\/index.php?option=com_content&task=view&id=4&Itemid=32",
+        "aliases": [
+            "CREA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2044761",
+        "name": "Council for the Development of Social Science Research in Africa",
+        "short_name": "CODESRIA",
+        "official_website": "https:\/\/codesria.org\/?lang=en",
+        "aliases": [
+            "CODESRIA"
+        ],
+        "latitude": 14.6902778,
+        "longitude": -17.4588889,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16931090",
+        "name": "Dakar Bourguiba University",
+        "short_name": null,
+        "official_website": "http:\/\/udb-sn.com\/",
+        "aliases": null,
+        "latitude": 14.7187348,
+        "longitude": -17.4495192,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125637004",
+        "name": "Dakar Institute of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5333198",
+        "name": "Ecole Supérieure Multinationale des Télécommunications",
+        "short_name": null,
+        "official_website": "http:\/\/www.esmt.sn\/",
+        "aliases": [
+            "ESMT",
+            "Ecole Superieure Multinationale des Telecommunications"
+        ],
+        "latitude": 14.70002,
+        "longitude": -17.4512,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105475468",
+        "name": "Ensup Afrique",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 14.731383,
+        "longitude": -17.468514,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97666997",
+        "name": "Fanaye experimental station of the Africa Rice Center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 16.5352778,
+        "longitude": -15.1922222,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q115405571",
+        "name": "Groupe Sup de Co Dakar",
+        "short_name": null,
+        "official_website": "https:\/\/supdeco.sn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105475490",
+        "name": "Institut Africain de Commerce et de Marketing",
+        "short_name": null,
+        "official_website": "https:\/\/www.iacom-formation.com\/",
+        "aliases": [
+            "African Institute of Commerce and Marketing",
+            "IACOM"
+        ],
+        "latitude": 14.747713,
+        "longitude": -17.3977498,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2255542",
+        "name": "Institut Fondamental d'Afrique Noire",
+        "short_name": null,
+        "official_website": "https:\/\/ifan.ucad.sn",
+        "aliases": [
+            "African Institute of Basic Research",
+            "Basic Institute of Black Africa",
+            "IFAN"
+        ],
+        "latitude": 14.68353,
+        "longitude": -17.467779,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q105475469",
+        "name": "Institut International de Management",
+        "short_name": null,
+        "official_website": "http:\/\/groupe2im.sn",
+        "aliases": [
+            "2IM",
+            "IAU-008002",
+            "International Institute of Managemen"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105475472",
+        "name": "Institut Polytechnique de Dakar",
+        "short_name": null,
+        "official_website": "http:\/\/ipd.sn\/",
+        "aliases": [
+            "IPD",
+            "Polytechnic Institute of Dakar"
+        ],
+        "latitude": 14.738279,
+        "longitude": -17.4647759,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105475486",
+        "name": "Institut Privé de Formation et de Recherches Médicales de Dakar",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipformed.org\/",
+        "aliases": [
+            "IAU-008120",
+            "IPFORMED",
+            "Private Institute of Medical Training and Research of Dakar"
+        ],
+        "latitude": 14.7231278,
+        "longitude": -17.4726391,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105475473",
+        "name": "Institut Supérieur des Nouvelles Technologies de Commerce de Bâtiment et de Santé",
+        "short_name": null,
+        "official_website": "http:\/\/suptecbatis.net\/",
+        "aliases": [
+            "Higher Institute of New Technologies of Commerce and Buildings",
+            "IAU-008243",
+            "SUP-TEC-BATIS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125865536",
+        "name": "Institut Supérieur des Nouvelles Technologies du Commerce et du Bâtiment",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3152637",
+        "name": "Institut sénégalais de recherches agricoles",
+        "short_name": null,
+        "official_website": "http:\/\/www.isra.sn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q105475470",
+        "name": "Institut Universitaire de l'Entreprise et du Développement",
+        "short_name": null,
+        "official_website": "http:\/\/www.iuedsenegal.org\/",
+        "aliases": [
+            "IUED",
+            "University Institute of Enterprise and Development"
+        ],
+        "latitude": 14.7112041,
+        "longitude": -17.4668012,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105475476",
+        "name": "MIT University Dakar",
+        "short_name": "MIT University Dakar",
+        "official_website": "http:\/\/www.mit-university.net\/",
+        "aliases": null,
+        "latitude": 14.6983983,
+        "longitude": -17.4590187,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125253753",
+        "name": "Q125253753",
+        "short_name": null,
+        "official_website": "https:\/\/ihe-dakar.com\/",
+        "aliases": [
+            "Institute of Higher Education"
+        ],
+        "latitude": 14.7160941,
+        "longitude": -17.4660709,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134466056",
+        "name": "Q134466056",
+        "short_name": null,
+        "official_website": "https:\/\/www.britishcouncil.com.sn\/",
+        "aliases": null,
+        "latitude": 14.6955721,
+        "longitude": -17.4513772,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3152335",
+        "name": "UNESCO International Institute for Educational Planning",
+        "short_name": null,
+        "official_website": "https:\/\/www.iiep.unesco.org\/en",
+        "aliases": [
+            "IIEP-UNESCO",
+            "International Institute for Educational Planning"
+        ],
+        "latitude": 48.8628874,
+        "longitude": 2.2782039,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551371",
+        "name": "Université Alioune Diop de Bambey",
+        "short_name": null,
+        "official_website": "http:\/\/www.uadb.edu.sn\/",
+        "aliases": [
+            "Alioune diop university",
+            "Alioune Diop University",
+            "Alioune Diop University of Bambey",
+            "IAU-019497",
+            "UADB"
+        ],
+        "latitude": 14.6959099,
+        "longitude": -16.4783497,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105475483",
+        "name": "Université Amadou Mahtar Mbow",
+        "short_name": null,
+        "official_website": "http:\/\/www.uam.sn\/",
+        "aliases": [
+            "Amadou Mahtar Mbow University",
+            "UAM"
+        ],
+        "latitude": 14.7345837,
+        "longitude": -17.1982207,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105475479",
+        "name": "Université Cheikh Ahmadou Bamba",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucab-edu.com\/",
+        "aliases": [
+            "Cheikh Ahmadou Bamba University",
+            "UCAB"
+        ],
+        "latitude": 14.8600176,
+        "longitude": -15.8965667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q671363",
+        "name": "Université Cheikh Anta Diop",
+        "short_name": null,
+        "official_website": "https:\/\/www.ucad.sn\/",
+        "aliases": [
+            "UCAD",
+            "Cheikh Anta Diop University",
+            "Cheikh Anta Diop University of Dakar",
+            "U.D.A.D.",
+            "Université Cheikh Anta Diop de Dakar",
+            "University of Dakar"
+        ],
+        "latitude": 14.686955,
+        "longitude": -17.463338,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551395",
+        "name": "Université Dakar Bourguiba",
+        "short_name": null,
+        "official_website": "http:\/\/www.udb-sn.com",
+        "aliases": [
+            "Dakar Bourguiba University",
+            "UDB",
+            "IAU-019563",
+            "Université Dakar Bourguiba (UDB)"
+        ],
+        "latitude": 14.7188,
+        "longitude": -17.4495,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551680",
+        "name": "Université de Thiès",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-thies.sn",
+        "aliases": [
+            "UT",
+            "IAU-019654",
+            "Universite de Thies",
+            "University of Thies"
+        ],
+        "latitude": 14.7752,
+        "longitude": -16.8787,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551765",
+        "name": "Université du Sahel",
+        "short_name": null,
+        "official_website": "http:\/\/unis.sn\/",
+        "aliases": [
+            "UNIS",
+            "IAU-019709",
+            "Universite du Sahel",
+            "University of the Sahel"
+        ],
+        "latitude": 14.7115167,
+        "longitude": -17.4782584,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30266542",
+        "name": "Université Euro-Afrique",
+        "short_name": null,
+        "official_website": "http:\/\/www.uea.edu.sn\/",
+        "aliases": [
+            "UEA",
+            "Euro-Africa University",
+            "Euro-African University",
+            "IAU-019713"
+        ],
+        "latitude": 14.706055,
+        "longitude": -17.47766,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551411",
+        "name": "Université Gaston Berger",
+        "short_name": null,
+        "official_website": "http:\/\/www.ugb.sn",
+        "aliases": [
+            "UGB",
+            "IAU-019723",
+            "ugb.sn",
+            "University Gaston Berger",
+            "University of Saint-Louis"
+        ],
+        "latitude": 16.0625,
+        "longitude": -16.4258333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105475466",
+        "name": "Université Kocc Barma Saint-Louis",
+        "short_name": null,
+        "official_website": "http:\/\/www.ukb.sn\/",
+        "aliases": [
+            "Kocc Barma University of Saint Louis",
+            "UKB"
+        ],
+        "latitude": 16.0257988,
+        "longitude": -16.4942455,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105475480",
+        "name": "Université Sine-Saloum El Hadji Ibrahima Niasse",
+        "short_name": null,
+        "official_website": "http:\/\/www.ussein.sn\/",
+        "aliases": [
+            "University of Sine-Saloum El Hadji Ibrahima Niasse",
+            "USSEIN"
+        ],
+        "latitude": 14.1639673,
+        "longitude": -16.1260747,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7984265",
+        "name": "West African Research Center",
+        "short_name": null,
+        "official_website": "http:\/\/www.warccroa.org\/",
+        "aliases": [
+            "WARC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q105475471",
+        "name": "École Centrale des Logiciels Libres et des Télécommunications",
+        "short_name": null,
+        "official_website": "https:\/\/www.ec2lt.sn\/",
+        "aliases": [
+            "Central School of Free Software and Telecommunications",
+            "EC2LT",
+            "IAU-024608"
+        ],
+        "latitude": 14.7241119,
+        "longitude": -17.4596739,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105475474",
+        "name": "École Supérieure d'Electricité, du Bâtiment et des Travaux Publics",
+        "short_name": null,
+        "official_website": "https:\/\/www.esebat.com\/",
+        "aliases": [
+            "ESEBAT",
+            "Higher School of Electricity, Building and Public Works",
+            "IAU-024609",
+            "School of Electricity, Building and Public Works"
+        ],
+        "latitude": 14.6982096,
+        "longitude": -17.4618039,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105475465",
+        "name": "École Supérieure de Commerce de Dakar",
+        "short_name": null,
+        "official_website": "http:\/\/www.supdeco.sn\/",
+        "aliases": [
+            "Graduate School of Business of Dakar",
+            "Groupe Ecole supérieure de Commerce de Dakar",
+            "IAU-006803",
+            "SUPDECO"
+        ],
+        "latitude": 14.6746216,
+        "longitude": -17.4351524,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105475477",
+        "name": "École Supérieure de Génies",
+        "short_name": null,
+        "official_website": "http:\/\/esgesenegal.org\/",
+        "aliases": [
+            "School of Engineering",
+            "ESGE-SA",
+            "Higher School of Engineering",
+            "IAU-004283"
+        ],
+        "latitude": 14.7250614,
+        "longitude": -17.4735434,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105475478",
+        "name": "École Supérieure de Télécommunication d'Informatique et de Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.estim.sn\/",
+        "aliases": [
+            "ESTIM",
+            "Higher School of Telecommunication, Computer Science and Management"
+        ],
+        "latitude": 14.7293624,
+        "longitude": -17.445193,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105475482",
+        "name": "École Supérieure du Bâtiment",
+        "short_name": null,
+        "official_website": "https:\/\/www.batisup.com\/",
+        "aliases": [
+            "BATISUP",
+            "Higher School of Construction",
+            "IAU-004346",
+            "School of Construction"
+        ],
+        "latitude": 14.7040102,
+        "longitude": -17.4632244,
+        "type": "university"
+    }
+]

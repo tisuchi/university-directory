@@ -1,0 +1,2449 @@
+[
+    {
+        "wikidata_id": "Q12742873",
+        "name": "\"Andrei Saguna\" University in Constanta",
+        "short_name": null,
+        "official_website": "http:\/\/www.andreisaguna.ro\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4822213",
+        "name": "\"Aurel Vlaicu\" University of Arad",
+        "short_name": null,
+        "official_website": "http:\/\/www.uav.ro\/",
+        "aliases": [
+            "UAV",
+            "Universitatea „Aurel Vlaicu” din Arad"
+        ],
+        "latitude": 46.1736389,
+        "longitude": 21.3171389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42753022",
+        "name": "\"Carol I\" elementary school in Curtea de Argeș",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12742867",
+        "name": "\"Drăgan\" European University of Lugoj",
+        "short_name": null,
+        "official_website": "http:\/\/www.universitateaeuropeanadragan.ro",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74540728",
+        "name": "\"Dunărea de Jos\" University of Galaţi, Faculty of History, Philosophy and Theology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18548907",
+        "name": "\"King Ferdinand I\" University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "King Ferdinand University"
+        ],
+        "latitude": 46.767683,
+        "longitude": 23.591111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74542186",
+        "name": "\"Tibiscus\" University of Timisoara, Faculty of Computers and Applied Computer Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2053266",
+        "name": "1 Decembrie 1918 University, Alba Iulia",
+        "short_name": null,
+        "official_website": "http:\/\/www.uab.ro",
+        "aliases": null,
+        "latitude": 46.069,
+        "longitude": 23.5724,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27957524",
+        "name": "A.D. Xenopol Institute of History",
+        "short_name": null,
+        "official_website": "http:\/\/adxenopol.academiaromana-is.ro\/",
+        "aliases": [
+            "A. D. Xenopol Institute of History of the Romanian Academy (Iași)"
+        ],
+        "latitude": 47.1803494,
+        "longitude": 27.5709383,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12719861",
+        "name": "Academy of Agricultural and Forestry Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.asas.ro\/",
+        "aliases": [
+            "Academia de Stiinte Agricole si Silvice"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12719865",
+        "name": "Academy of Technical Sciences of Romania",
+        "short_name": null,
+        "official_website": "http:\/\/www.astr.ro\/",
+        "aliases": [
+            "ASTR",
+            "Technical Sciences Academy of Romania"
+        ],
+        "latitude": 44.4466667,
+        "longitude": 26.0983333,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4693576",
+        "name": "Agora University",
+        "short_name": null,
+        "official_website": "http:\/\/univagora.ro\/",
+        "aliases": [
+            "Agora University of Oradea",
+            "univagora.ro"
+        ],
+        "latitude": 47.048562,
+        "longitude": 21.951542,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4721162",
+        "name": "Alexandru Ioan Cuza National College in Focșani",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 45.7028845,
+        "longitude": 27.190465,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18537214",
+        "name": "Alexandru Ioan Cuza Police Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.academiadepolitie.ro",
+        "aliases": [
+            "Academia de Politie Alexandru Ioan Cuza"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1523902",
+        "name": "Alexandru Ioan Cuza University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uaic.ro\/",
+        "aliases": [
+            "\"Alexandru Ioan Cuza\" University of Iași",
+            "uaic.ro",
+            "Universitatea \"Alexandru Ioan Cuza\"",
+            "Universitatea Iași",
+            "University of Iasi",
+            "University of Iaşi"
+        ],
+        "latitude": 47.1742306,
+        "longitude": 27.5716917,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74554915",
+        "name": "Alexandru Ioan Cuza University of Iasi, Centre for European Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74543209",
+        "name": "Alliance of Central-Eastern European Universities",
+        "short_name": "ACEU",
+        "official_website": "https:\/\/www.aceu-edu.org",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16821658",
+        "name": "Apollonia University",
+        "short_name": null,
+        "official_website": "http:\/\/www.universitateaapolloniadiniasi.ro\/",
+        "aliases": null,
+        "latitude": 47.15744,
+        "longitude": 27.59819,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74550436",
+        "name": "ARS",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q835079",
+        "name": "Art and Design University of Cluj-Napoca",
+        "short_name": null,
+        "official_website": "http:\/\/www.uad.ro\/",
+        "aliases": [
+            "Art & Design University",
+            "Art & Design University of Cluj-Napoca",
+            "Art and Design University"
+        ],
+        "latitude": 46.779407,
+        "longitude": 23.618435,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18162308",
+        "name": "Artifex University",
+        "short_name": null,
+        "official_website": "http:\/\/www.artifex.org.ro",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74551543",
+        "name": "Asociatia Romana de Arheologie",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74543856",
+        "name": "ASOCIATIA T.T.T.T - Kardiomed",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74555648",
+        "name": "Asociaţia Aerul şi apa",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74549162",
+        "name": "Association for Anglophone Studies - Silvia Manoliu \/ Stefan cel Mare University of Suceava",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529356",
+        "name": "Association for Democracy Education Respect",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74546581",
+        "name": "Babes Bolyai University, Public Administration Department",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74549196",
+        "name": "Babes-Bolyai University, Faculty of Geography",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74542262",
+        "name": "Babes-Bolyai University, Faculty of Letters, Cluj-Napoca",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q538452",
+        "name": "Babeș-Bolyai University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ubbcluj.ro\/ro\/",
+        "aliases": [
+            "UBB",
+            "Babes Bolyai University",
+            "Babeș-Bolyai Tudományegyetem",
+            "Babes-Bolyai University",
+            "Babes-Bolyai University, Cluj-Napoca",
+            "ubbcluj.ro",
+            "Universitatea Babes-Bolyai",
+            "Universitatea Babeș-Bolyai",
+            "University Babes-Bolyai"
+        ],
+        "latitude": 46.7677778,
+        "longitude": 23.5911111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124359933",
+        "name": "Biomentorhub",
+        "short_name": null,
+        "official_website": "https:\/\/biomentorhub.ro",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3551380",
+        "name": "Bioterra University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bioterra.ro",
+        "aliases": null,
+        "latitude": 44.4989,
+        "longitude": 26.0644,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28726216",
+        "name": "Bogdan Voda University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ubv.ro\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q834219",
+        "name": "Bolyai University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 46.767683,
+        "longitude": 23.591111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74541711",
+        "name": "BSG",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528066",
+        "name": "Bucharest College of Physicians",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1474930",
+        "name": "Bucharest National University of Arts",
+        "short_name": null,
+        "official_website": "http:\/\/www.unarte.ro",
+        "aliases": [
+            "Institutul de arte plastice București",
+            "Institutul de arte plastice \"Nicolae Grigorescu\" București"
+        ],
+        "latitude": 44.4436667,
+        "longitude": 26.0901667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1167563",
+        "name": "Bucharest University of Economic Studies",
+        "short_name": "BUES",
+        "official_website": "https:\/\/ase.ro",
+        "aliases": [
+            "ASE",
+            "Academia de Studii Economice din București",
+            "Academy of Economic Studies of Bucharest",
+            "The Bucharest University of Economic Studies"
+        ],
+        "latitude": 44.4475667,
+        "longitude": 26.09665,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1916637",
+        "name": "Carol Davila University of Medicine and Pharmacy",
+        "short_name": null,
+        "official_website": "https:\/\/umfcd.ro\/",
+        "aliases": [
+            "umfcd.ro"
+        ],
+        "latitude": 44.4346111,
+        "longitude": 26.0696111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5044392",
+        "name": "Carol I National College",
+        "short_name": null,
+        "official_website": "http:\/\/www.cnc.ro\/",
+        "aliases": [
+            "Colegiul Național Carol I din Craiova"
+        ],
+        "latitude": 44.3191667,
+        "longitude": 23.7919444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q114019985",
+        "name": "Carol II University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530589",
+        "name": "Center for Dialogue between Theology and Philosophy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74555639",
+        "name": "Center for Hermeneutics, Phenomenology, and Practical Philosophy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74535839",
+        "name": "Centre for Regional Geography",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552186",
+        "name": "Centre of University Strategy and Quality Management",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74544536",
+        "name": "Clinical Hospital of Psychiatry Socola Iasi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q47522779",
+        "name": "Cluj-Napoca Branch of the Romanian Academy",
+        "short_name": null,
+        "official_website": "http:\/\/acad-cluj.ro\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5152449",
+        "name": "Commercial Academy of Satu Mare",
+        "short_name": null,
+        "official_website": "http:\/\/www.academiacomerciala.ro\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74549200",
+        "name": "Conflict Studies Center, Babeș-Bolyai University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12742865",
+        "name": "Constanta Maritime University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551390",
+        "name": "Constantin Brâncoveanu University",
+        "short_name": null,
+        "official_website": "http:\/\/www.univcb.ro",
+        "aliases": [
+            "\"Constantin Brâncoveanu\" University",
+            "Constantin Brancoveanu University"
+        ],
+        "latitude": 44.869968,
+        "longitude": 24.859868,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551393",
+        "name": "Constantin Brâncuși University",
+        "short_name": null,
+        "official_website": "http:\/\/www.utgjiu.ro",
+        "aliases": null,
+        "latitude": 45.039707,
+        "longitude": 23.271209,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111831979",
+        "name": "Count István Széchenyi Upper Commercial School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74536425",
+        "name": "CSDLCL",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547807",
+        "name": "Digital ProScolar media",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3551535",
+        "name": "Dimitrie Cantemir Christian University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucdc.ro",
+        "aliases": null,
+        "latitude": 44.4146,
+        "longitude": 26.1152,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530648",
+        "name": "Dunărea de Jos University of Galați Faculty of Letters",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Dunărea de Jos University of Galați, Faculty of Letters"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18539937",
+        "name": "Ecological University of Bucharest",
+        "short_name": null,
+        "official_website": "http:\/\/www.ueb.ro\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52636297",
+        "name": "Eftimie Murgu University of Resita",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61931436",
+        "name": "Emil Racoviță Institute of Speleology",
+        "short_name": null,
+        "official_website": "http:\/\/www.iser.ro\/",
+        "aliases": [
+            "Emil Racovita Institute of Speleology"
+        ],
+        "latitude": 44.448613,
+        "longitude": 26.086264,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74535535",
+        "name": "Euroregional Center for Applied Psychology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74550511",
+        "name": "Facultatea de Stiinte Politice si Administrative - Universitatea \"Petre Andrei\" din Iasi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74537992",
+        "name": "Faculty Engineering Hunedoara",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12728079",
+        "name": "Faculty of Letters (Bucharest University)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Facultatea de Litere și Filosofie"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74529272",
+        "name": "Faculty of Letters and Foreign Languages, Hyperion University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74550747",
+        "name": "Faculty of Letters, University of Pitesti",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74539064",
+        "name": "Faculty of Management in Tourism and Commerce Timisoara, Dimitrie Cantemir Christian University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74543896",
+        "name": "Faculty of Medicine, University Ovidius Constanta, Romania",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74549237",
+        "name": "Faculty of Political Science, NUPSPA",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5453769",
+        "name": "First Romanian School",
+        "short_name": null,
+        "official_website": "http:\/\/www.primascoalaromaneasca.ro\/",
+        "aliases": null,
+        "latitude": 45.6358,
+        "longitude": 25.5812,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74546160",
+        "name": "Food Engineering Faculty, Stefan cel Mare University of Suceava",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74540652",
+        "name": "G. Oprescu Institute of Art History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q131469220",
+        "name": "Gavrila Simion Eco-Museum Research Institute Tulcea",
+        "short_name": null,
+        "official_website": "https:\/\/www.icemtl.ro",
+        "aliases": [
+            "ICEM",
+            "ICEM Tulcea"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20900773",
+        "name": "GeoEcoMar",
+        "short_name": null,
+        "official_website": "http:\/\/www.geoecomar.ro\/",
+        "aliases": [
+            "Romanian Institutul Național de Cercetare - Dezvoltare pentru Geologie și Geoecologie Marină",
+            "Institutul Național de Cercetare - Dezvoltare pentru Geologie și Geoecologie Marină"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3551731",
+        "name": "George Enescu University of Arts of Iași",
+        "short_name": null,
+        "official_website": "http:\/\/www.arteiasi.ro\/",
+        "aliases": [
+            "George Enescu National University of Arts"
+        ],
+        "latitude": 47.1645,
+        "longitude": 27.5776944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q458666",
+        "name": "Gheorghe Asachi Technical University of Iași",
+        "short_name": null,
+        "official_website": "http:\/\/www.tuiasi.ro",
+        "aliases": [
+            "TUIASI",
+            "Universitatea Tehnică \"Gheorghe Asachi\""
+        ],
+        "latitude": 47.1544,
+        "longitude": 27.5959,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5556427",
+        "name": "Gheorghe Zane University",
+        "short_name": null,
+        "official_website": "http:\/\/www.universitateazane.ro\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107840794",
+        "name": "Gheorghe Șincai National College, Cluj",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q2779762",
+        "name": "Grigore T. Popa University of Medicine and Pharmacy",
+        "short_name": null,
+        "official_website": "http:\/\/www.umfiasi.ro",
+        "aliases": [
+            "Grigore T. Popa University of Medicine and Pharmacy Iasi",
+            "Institute of Medicine and Pharmacy",
+            "umfiasi.ro",
+            "Universitatea de Medicină și Farmacie \"Grigore T. Popa\""
+        ],
+        "latitude": 47.1683,
+        "longitude": 27.5847,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12730485",
+        "name": "Horia Hulubei National Institute of Physics and Nuclear Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/www.nipne.ro\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74557146",
+        "name": "Horticulture and Forestry Society from Transylvania (SHST)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3551414",
+        "name": "Hyperion University of Bucharest",
+        "short_name": null,
+        "official_website": "http:\/\/www.hyperion.ro",
+        "aliases": [
+            "Hyperion University"
+        ],
+        "latitude": 44.4327388,
+        "longitude": 26.1254889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q195081",
+        "name": "I. L. Caragiale National University of Theatre and Film",
+        "short_name": null,
+        "official_website": "https:\/\/www.unatc.ro",
+        "aliases": [
+            "IATC",
+            "Caragiale Academy of Theatrical Arts and Cinematography",
+            "Institutul de Artă Teatrală şi Cinematografică „I. L. Caragiale”",
+            "National University of Theatre and Film in Bucharest"
+        ],
+        "latitude": 44.437541,
+        "longitude": 26.129853,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12730159",
+        "name": "IATC",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Institutul de Artă Teatrală și Cinematografică „Ion Luca Caragiale"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q27957523",
+        "name": "Iași Institute of Archaeology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 47.1791917,
+        "longitude": 27.5728306,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q287299",
+        "name": "Iași University of Life Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/iuls.ro\/",
+        "aliases": [
+            "Ion Ionescu de la Brad University of Agricultural Sciences and Veterinary Medicine of Iași",
+            "Ion Ionescu de la Brad University of Life Sciences"
+        ],
+        "latitude": 47.1916667,
+        "longitude": 27.5561111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q110939929",
+        "name": "ICCE",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12730171",
+        "name": "ICIA",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Institutul de Cercetări pentru Inteligența Artificială"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74555285",
+        "name": "Institute for World Economy of the Romanian Academy;  Nicolae Titulescu University, Faculty of Economic Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74546550",
+        "name": "Institute of Archaeology Iasi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18540941",
+        "name": "Institute of Atomic Physics",
+        "short_name": null,
+        "official_website": "http:\/\/www.ifa-mg.ro\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12730493",
+        "name": "Institute of Biochemistry",
+        "short_name": null,
+        "official_website": "http:\/\/www.biochim.ro\/",
+        "aliases": [
+            "Institutul de Biochimie"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q52634070",
+        "name": "Institute of Educational Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10302891",
+        "name": "institute of mathematics of the Romanian Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.imar.ro",
+        "aliases": [
+            "Simion Stoilow Institute of Mathematics of the Romanian Academy"
+        ],
+        "latitude": 44.4440972,
+        "longitude": 26.0884972,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12730504",
+        "name": "Institute of Non-ferrous and Rare Metals",
+        "short_name": null,
+        "official_website": "http:\/\/www.imnr.ro\/",
+        "aliases": [
+            "IMNR"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74545660",
+        "name": "Institutul de Cercetări Socio-Umane „C.S. Nicolăescu-Plopșor”",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528453",
+        "name": "Institutul de Științe Politice și Relații Internaționale „Ion I. C. Brătianu‟",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q17505374",
+        "name": "Institutul Geologic al României",
+        "short_name": null,
+        "official_website": "http:\/\/www.igr.ro\/",
+        "aliases": [
+            "Geological Institute of Romania"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30284958",
+        "name": "Institutul Naţional de Cercetare Dezvoltare Marină Grigore Antipa",
+        "short_name": null,
+        "official_website": "http:\/\/www.rmri.ro\/Home\/Home.html?lang=en",
+        "aliases": [
+            "I.N.C.D.M. “Grigore Antipa” Constanţa",
+            "National Institute for Marine Research and Development “Grigore Antipa“ Constanta",
+            "NIMRD"
+        ],
+        "latitude": 44.213917,
+        "longitude": 28.645378,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30257524",
+        "name": "Institutul Teologic Baptist din București",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q976926",
+        "name": "Ion Mincu University of Architecture and Urban Planning",
+        "short_name": null,
+        "official_website": "https:\/\/www.uauim.ro",
+        "aliases": null,
+        "latitude": 44.4365278,
+        "longitude": 26.1,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1141880",
+        "name": "Iuliu Hațieganu University of Medicine and Pharmacy",
+        "short_name": null,
+        "official_website": "http:\/\/www.umfcluj.ro\/",
+        "aliases": [
+            "Iuliu Hațieganu University of Medicine and Pharmacy Cluj-Napoca",
+            "Universitatea de Medicină şi Farmacie \"Iuliu Hațieganu\""
+        ],
+        "latitude": 46.762061,
+        "longitude": 23.5836,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1619447",
+        "name": "Lucian Blaga University of Sibiu",
+        "short_name": null,
+        "official_website": "http:\/\/www.ulbsibiu.ro\/",
+        "aliases": [
+            "ulbsibiu.ro",
+            "Universitatea Lucian Blaga din Sibiu"
+        ],
+        "latitude": 45.7905,
+        "longitude": 24.1457222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12742869",
+        "name": "Mihai Eminescu University",
+        "short_name": null,
+        "official_website": "http:\/\/www.umet.ro\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6845144",
+        "name": "Mihail Kogălniceanu University of Iași",
+        "short_name": null,
+        "official_website": "http:\/\/www.umk.ro\/",
+        "aliases": [
+            "Universitatea Mihail Kogălniceanu"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q636034",
+        "name": "Military Technical Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.mta.ro\/",
+        "aliases": [
+            "Technical Military Academy of Bucharest"
+        ],
+        "latitude": 44.418512,
+        "longitude": 26.085805,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12719874",
+        "name": "Mircea cel Bătrân Naval Academy",
+        "short_name": null,
+        "official_website": "https:\/\/www.anmb.ro\/eng\/",
+        "aliases": [
+            "Academia Navala Mircea cel Batran",
+            "Mircea cel Batran Naval Academy",
+            "Romanian Naval Academy"
+        ],
+        "latitude": 44.1836111,
+        "longitude": 28.6191667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74528164",
+        "name": "N.G. Lupu Internal Medicine Foundation",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2822447",
+        "name": "National Academy of Physical Education and Sport",
+        "short_name": null,
+        "official_website": "https:\/\/www.unefs.ro\/",
+        "aliases": [
+            "ICFS",
+            "IEFS",
+            "Institutul de educație fizică și sport"
+        ],
+        "latitude": 44.439093,
+        "longitude": 26.070588,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18539109",
+        "name": "National College of Defence",
+        "short_name": null,
+        "official_website": "https:\/\/cnap.unap.ro\/index.html",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52661526",
+        "name": "National Forestry Research-Development Institute „Marin Drăcea”",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Institutul Naţional de Cercetare-Dezvoltare în Silvicultură „Marin Drăcea”"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30294593",
+        "name": "National Insitute for Materials Physics",
+        "short_name": null,
+        "official_website": "https:\/\/infim.ro",
+        "aliases": [
+            "NIMP",
+            "National Institute of Materials Physics"
+        ],
+        "latitude": 44.355568,
+        "longitude": 26.034287,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30284865",
+        "name": "National Institute for Aerospace Research Elie Carafoli",
+        "short_name": null,
+        "official_website": "https:\/\/www.incas.ro\/",
+        "aliases": [
+            "INCAS"
+        ],
+        "latitude": 44.434845,
+        "longitude": 26.006044,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30274335",
+        "name": "National Institute For Chemical Pharmaceutical Research and Development",
+        "short_name": null,
+        "official_website": "http:\/\/cfarm.ncpri.ro\/lang_en\/index.htm",
+        "aliases": [
+            "ICCF"
+        ],
+        "latitude": 44.415192,
+        "longitude": 26.132028,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547850",
+        "name": "National Institute for Infectious Diseases \"Prof. Dr. Matei Balș\"",
+        "short_name": null,
+        "official_website": "https:\/\/www.mateibals.ro",
+        "aliases": null,
+        "latitude": 44.45527,
+        "longitude": 26.11405,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18540951",
+        "name": "National Institute for Laser Plasma and Radiation Physics",
+        "short_name": null,
+        "official_website": "http:\/\/www.inflpr.ro\/",
+        "aliases": [
+            "National Institute for Laser, Plasma and Radiation Physics"
+        ],
+        "latitude": 44.3491885,
+        "longitude": 26.0302652,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12730482",
+        "name": "National Institute for Research & Development in Informatics",
+        "short_name": null,
+        "official_website": "http:\/\/www.ici.ro\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12730167",
+        "name": "National Institute for Research - Development in Chemistry and Petrochemistry Bucharest",
+        "short_name": null,
+        "official_website": "http:\/\/www.icechim.ro\/",
+        "aliases": [
+            "ICECHIM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18540952",
+        "name": "National Institute of Research and Development for Environment Protection",
+        "short_name": null,
+        "official_website": "http:\/\/www.incdpm.ro\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12730483",
+        "name": "National Institute of Research and Development for Microbiology and Immunology \"Cantacuzino\"",
+        "short_name": null,
+        "official_website": "http:\/\/www.cantacuzino.ro\/",
+        "aliases": [
+            "Institute Cantacuzino"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18537218",
+        "name": "National Intelligence Academy",
+        "short_name": null,
+        "official_website": "http:\/\/animv.ro\/",
+        "aliases": [
+            "Academia Națională de Informații „Mihai Viteazul"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18540179",
+        "name": "National Research Institute for Earth Physics",
+        "short_name": null,
+        "official_website": "http:\/\/www.infp.ro\/",
+        "aliases": [
+            "Center for Earth’s Physics",
+            "Institutul Național pentru Fizica Pământului",
+            "National Institute for Earth Physics",
+            "National Institutue of Research and Development for Earth’s Physics"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3578107",
+        "name": "National School of Political and Administrative Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.snspa.ro",
+        "aliases": [
+            "SNSPA"
+        ],
+        "latitude": 44.449835,
+        "longitude": 26.093988,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1888128",
+        "name": "National University of Music Bucharest",
+        "short_name": null,
+        "official_website": "http:\/\/www.unmb.ro\/",
+        "aliases": [
+            "Academia de Muzică București",
+            "Conservatorul din București",
+            "U.N.M.B.",
+            "Universitatea Națională de Muzică București"
+        ],
+        "latitude": 44.4391667,
+        "longitude": 26.0902778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74549582",
+        "name": "National University of Political Studies and Public Administration (Bucharest), Department of International Relations and European Integration",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530054",
+        "name": "Naval Architecture Research Center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18541099",
+        "name": "Nicolae Iorga Institute of History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 44.455471,
+        "longitude": 26.0854321,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3551461",
+        "name": "Nicolae Titulescu University",
+        "short_name": null,
+        "official_website": "http:\/\/www.univnt.ro",
+        "aliases": null,
+        "latitude": 44.4143,
+        "longitude": 26.1148,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q296709",
+        "name": "Oil & Gas University of Ploiești",
+        "short_name": null,
+        "official_website": "https:\/\/www.upg-ploiesti.ro\/",
+        "aliases": [
+            "Petroleum-Gas University of Ploiesti",
+            "UPG Ploiești"
+        ],
+        "latitude": 44.9143,
+        "longitude": 26.037,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q768651",
+        "name": "Partium Christian University",
+        "short_name": null,
+        "official_website": "http:\/\/www.partium.ro",
+        "aliases": null,
+        "latitude": 47.056529,
+        "longitude": 21.923465,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q73745573",
+        "name": "People's Art School Bucharest",
+        "short_name": null,
+        "official_website": "https:\/\/sarta.ro",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551478",
+        "name": "Petre Andrei University of Iași",
+        "short_name": null,
+        "official_website": "http:\/\/www.upa.ro\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1532212",
+        "name": "Petru Maior University of Târgu Mureș",
+        "short_name": null,
+        "official_website": "http:\/\/www.upm.ro\/",
+        "aliases": [
+            "Petru Maior University"
+        ],
+        "latitude": 46.5466667,
+        "longitude": 24.5683333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1465448",
+        "name": "Politehnica University of Bucharest",
+        "short_name": null,
+        "official_website": "http:\/\/www.upb.ro\/",
+        "aliases": [
+            "Universitatea Politehnica din București",
+            "University Politehnica of Bucharest",
+            "upb.ro",
+            "National University of Science and Technology \"Politehnica\" Bucharest"
+        ],
+        "latitude": 44.4383333,
+        "longitude": 26.0513889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1475126",
+        "name": "Politehnica University of Timișoara",
+        "short_name": null,
+        "official_website": "http:\/\/www.upt.ro\/",
+        "aliases": [
+            "Polytechnic University of Timișoara",
+            "Universitatea Politehnica Timișoara"
+        ],
+        "latitude": 45.7455556,
+        "longitude": 21.23,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74542207",
+        "name": "PRO LIGNO Foudation",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q532460",
+        "name": "Protestant Theological Institute of Cluj",
+        "short_name": null,
+        "official_website": "https:\/\/proteo.hu",
+        "aliases": null,
+        "latitude": 46.7732222,
+        "longitude": 23.5953889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74536749",
+        "name": "Public Administration Department",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q107972831",
+        "name": "Q107972831",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12724359",
+        "name": "Q12724359",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12744215",
+        "name": "Q12744215",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12744218",
+        "name": "Q12744218",
+        "short_name": null,
+        "official_website": "https:\/\/www.imar.ro\/~snsb\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134376723",
+        "name": "Q134376723",
+        "short_name": null,
+        "official_website": "https:\/\/cnmirceavl.ro\/",
+        "aliases": null,
+        "latitude": 45.1084734,
+        "longitude": 24.3616341,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1472691",
+        "name": "Q1472691",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 46.78,
+        "longitude": 23.5594444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28725888",
+        "name": "Q28725888",
+        "short_name": null,
+        "official_website": "http:\/\/www.physics.uvt.ro\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42750445",
+        "name": "Q42750445",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42888727",
+        "name": "Q42888727",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 45.85157,
+        "longitude": 26.190651,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61085475",
+        "name": "Q61085475",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q64828728",
+        "name": "Q64828728",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12738897",
+        "name": "RACAI",
+        "short_name": null,
+        "official_website": "https:\/\/www.racai.ro\/",
+        "aliases": [
+            "Romanian Academy Center for Artificial Intelligence"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552887",
+        "name": "Red de Hispanistas de Europa Central",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12730496",
+        "name": "Research and Development Institute for Plant Protection Bucharest",
+        "short_name": null,
+        "official_website": "http:\/\/icdpp.ro\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74548121",
+        "name": "Research Centre “Development Strategies for Competitive Economic Systems”",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Development Strategies for Competitive Economic Systems  (STRATEC) Research Centre"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q97463691",
+        "name": "Research-Development Station for Plant Culture on Sands Dăbuleni",
+        "short_name": null,
+        "official_website": "https:\/\/www.scdcpndabuleni.ro\/ro\/acasa\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74551197",
+        "name": "Robotics Society of Romania, \"Eftimie Murgu\" University of Resita, Caras-Severin County Council, \"Politehnica\" University of Timisoara",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q39418041",
+        "name": "Romanian Academy Timisoara Branch",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74535541",
+        "name": "Romanian Academy, Iasi Branch, Romania",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Romanian Academy, Iasi branch"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74536387",
+        "name": "Romanian Academy, Institute of National Economy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74555280",
+        "name": "Romanian Association of Military Physicians and Pharmacists",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74553325",
+        "name": "Romanian Inventors Forum",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74553642",
+        "name": "Romanian Medical Informatics Society",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12730480",
+        "name": "Romanian Research and Development Institute for Gas Turbines",
+        "short_name": null,
+        "official_website": "http:\/\/www.comoti.ro\/",
+        "aliases": [
+            "Institutul Naţional de Cercetare-Dezvoltare Turbomotoare",
+            "Scientific Research and Technological Engineering for Aviation Engines"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74550526",
+        "name": "Romanian Scientists Association, Târgoviste branch",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74542297",
+        "name": "Romanian Society for British and American Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74549119",
+        "name": "Romanian Society of Diabetes Nutrition and Metabolic Diseases",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3551855",
+        "name": "Romanian University of Sciences and Arts \"Gheorghe Cristea\"",
+        "short_name": null,
+        "official_website": "http:\/\/www.ugc.ro",
+        "aliases": null,
+        "latitude": 44.4081,
+        "longitude": 26.1442,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2175735",
+        "name": "Romanian-American University",
+        "short_name": null,
+        "official_website": "http:\/\/www.rau.ro",
+        "aliases": [
+            "Universitatea Româno-Americană"
+        ],
+        "latitude": 44.4732222,
+        "longitude": 26.0653056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1729725",
+        "name": "Romanian-German University of Sibiu",
+        "short_name": null,
+        "official_website": "http:\/\/www.roger-univ.ro\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q724027",
+        "name": "Sapientia University",
+        "short_name": null,
+        "official_website": "http:\/\/www.sapientia.ro",
+        "aliases": [
+            "Sapientia Hungarian University of Transylvania"
+        ],
+        "latitude": 46.7676833,
+        "longitude": 23.5911111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74538000",
+        "name": "Societatea Medicală Română de Educaţie Fizică şi Sport",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528704",
+        "name": "Society of Juridical and Administrative Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/adjuris.ro\/index_en.html",
+        "aliases": [
+            "Societatea de Științe Juridice și Administrative"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1132587",
+        "name": "Spiru Haret University",
+        "short_name": null,
+        "official_website": "https:\/\/www.spiruharet.ro\/",
+        "aliases": null,
+        "latitude": 44.433155,
+        "longitude": 26.101289,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q653439",
+        "name": "Stefan cel Mare University of Suceava",
+        "short_name": null,
+        "official_website": "https:\/\/usv.ro\/",
+        "aliases": [
+            "Stefan cel Mare University of Suceava",
+            "Ştefan cel Mare University of Suceava",
+            "Ştefan Cel Mare University of Suceava",
+            "Universitatea \"Ștefan cel Mare\" din Suceava",
+            "Universitatea \"Ştefan cel Mare\" Suceava",
+            "University of Suceava"
+        ],
+        "latitude": 47.641167,
+        "longitude": 26.245257,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42889290",
+        "name": "Székely Mikó high school in Sfântu Gheorghe",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 45.866032,
+        "longitude": 25.78725,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q493294",
+        "name": "Technical University of Civil Engineering of Bucharest",
+        "short_name": null,
+        "official_website": "http:\/\/www.utcb.ro",
+        "aliases": [
+            "Institute of Civil Engineering, Bucharest",
+            "Technical University of Civil Engineering Bucharest",
+            "Universitatea Tehnică de Construcţii din Bucureşti",
+            "UTCB",
+            "utcb.ro"
+        ],
+        "latitude": 44.4635,
+        "longitude": 26.1247,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q729296",
+        "name": "Technical University of Cluj-Napoca",
+        "short_name": null,
+        "official_website": "http:\/\/www.utcluj.ro\/",
+        "aliases": [
+            "Universitatea Tehnică din Cluj-Napoca"
+        ],
+        "latitude": 46.7691667,
+        "longitude": 23.5855556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7059097",
+        "name": "Technical University of Cluj-Napoca - North University Center of Baia Mare",
+        "short_name": null,
+        "official_website": "https:\/\/www.utcluj.ro\/",
+        "aliases": null,
+        "latitude": 47.6602778,
+        "longitude": 23.545,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q89125681",
+        "name": "The Teachers Training Department of the Technical University of Cluj-Napoca",
+        "short_name": null,
+        "official_website": "https:\/\/dspp.utcluj.ro\/",
+        "aliases": [
+            "DSPP",
+            "DPPD",
+            "Departamentul de Specialitate cu Profil Psihopedagogic - UTCN",
+            "Departamentul pentru Pregătirea Personalului Didactic",
+            "DPPD - UTCN"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q26690209",
+        "name": "Tiberiu Popoviciu Institute of Numerical Analysis",
+        "short_name": null,
+        "official_website": "http:\/\/ictp.acad.ro",
+        "aliases": null,
+        "latitude": 46.765661,
+        "longitude": 23.548117,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1128467",
+        "name": "Tibiscus University of Timișoara",
+        "short_name": null,
+        "official_website": "http:\/\/www.tibiscus.ro\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1475250",
+        "name": "Titu Maiorescu University",
+        "short_name": null,
+        "official_website": "http:\/\/www.utm.ro",
+        "aliases": null,
+        "latitude": 44.4148333,
+        "longitude": 26.1141944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1475400",
+        "name": "Transilvania University of Brașov",
+        "short_name": null,
+        "official_website": "http:\/\/www.unitbv.ro\/",
+        "aliases": [
+            "Brasov University",
+            "Universitatea Brașov",
+            "University of Brasov"
+        ],
+        "latitude": 45.6451944,
+        "longitude": 25.5891111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q120985901",
+        "name": "Transylvanian Institute of Neuroscience",
+        "short_name": null,
+        "official_website": "https:\/\/tins.ro\/",
+        "aliases": [
+            "TINS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74536780",
+        "name": "Universitatea din Piteşti Facultatea de Litere",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2496038",
+        "name": "Universitatea George Bacovia",
+        "short_name": null,
+        "official_website": "http:\/\/www.ugb.ro",
+        "aliases": null,
+        "latitude": 46.5597,
+        "longitude": 26.9143,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74541160",
+        "name": "Universitatea Naţională de Educaţie Fizică şi Sport (UNEFS)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12742860",
+        "name": "University \"Eftimie Murgu\" of Reșița",
+        "short_name": null,
+        "official_website": "http:\/\/www.uem.ro",
+        "aliases": null,
+        "latitude": 45.2927,
+        "longitude": 21.8841,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q528377",
+        "name": "University of Agricultural Sciences and Veterinary Medicine of Cluj-Napoca",
+        "short_name": null,
+        "official_website": "http:\/\/www.usamvcluj.ro",
+        "aliases": [
+            "Universitatea de Științe Agricole și Medicină Veterinară Cluj-Napoca",
+            "University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca",
+            "University of Agricultural Sciences and Veterinary Medicine, Cluj-Napoca"
+        ],
+        "latitude": 46.7611,
+        "longitude": 23.5711,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q636060",
+        "name": "University of Agronomic Sciences and Veterinary Medicine of Bucharest",
+        "short_name": null,
+        "official_website": "http:\/\/www.usamv.ro\/",
+        "aliases": [
+            "University of Agricultural Sciences and Veterinary Medicine of Bucharest"
+        ],
+        "latitude": 44.471706,
+        "longitude": 26.070447,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74541747",
+        "name": "University of Architecture and Urbanism, “Sanda Voiculescu”Department of History & Theory of Architectureand Heritage Conservation,“Ion Mincu”",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1165715",
+        "name": "University of Arts Târgu-Mureș",
+        "short_name": null,
+        "official_website": "http:\/\/www.uat.ro\/",
+        "aliases": null,
+        "latitude": 46.542937,
+        "longitude": 24.561706,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q495258",
+        "name": "University of Bacău",
+        "short_name": null,
+        "official_website": "http:\/\/www.ub.ro",
+        "aliases": [
+            "Universitatea din Bacău",
+            "Vasile Alecsandri University of Bacău"
+        ],
+        "latitude": 46.5542,
+        "longitude": 26.9134,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q608338",
+        "name": "University of Bucharest",
+        "short_name": null,
+        "official_website": "https:\/\/unibuc.ro\/",
+        "aliases": [
+            "UB",
+            "Bucharest University",
+            "UniBuc",
+            "Universitatea Bucureşti",
+            "Universitatea din Bucureşti",
+            "Universitatea din București",
+            "C. I. Parhon University"
+        ],
+        "latitude": 44.4355556,
+        "longitude": 26.1011167,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74555997",
+        "name": "University of Bucharest, Faculty of Business and Administration",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529028",
+        "name": "University of Bucharest, Faculty of Geography",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527794",
+        "name": "University of Bucharest, Faculty of History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74551579",
+        "name": "University of Bucharest, Faculty of Philosophy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547416",
+        "name": "University of Bucharest, Faculty of Political Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q494096",
+        "name": "University of Craiova",
+        "short_name": null,
+        "official_website": "https:\/\/www.ucv.ro\/",
+        "aliases": [
+            "Universitatea din Craiova"
+        ],
+        "latitude": 44.3192,
+        "longitude": 23.8006,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1266339",
+        "name": "University of Galați",
+        "short_name": null,
+        "official_website": "http:\/\/www.ugal.ro\/",
+        "aliases": [
+            "\"Dunărea de Jos\" University of Galați",
+            "Dunarea de Jos University of Galati",
+            "Lower Danube University of Galați",
+            "ugal.ro",
+            "University of Galati"
+        ],
+        "latitude": 45.43864,
+        "longitude": 28.055857,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q824493",
+        "name": "University of Life Science \"King Mihai I\" from Timisoara",
+        "short_name": null,
+        "official_website": "http:\/\/www.usvt.ro\/",
+        "aliases": [
+            "ULST"
+        ],
+        "latitude": 45.782676,
+        "longitude": 21.216778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530650",
+        "name": "University of Medicine, Pharmacy, Sciences and Technology of Tîrgu Mureș",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "University of Medicine and Pharmacy of Tirgu Mures",
+            "University of Medicine and Pharmacy of Tirgu Mures, Romania"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1465437",
+        "name": "University of Oradea",
+        "short_name": null,
+        "official_website": "http:\/\/www.uoradea.ro\/",
+        "aliases": [
+            "Universitatea din Oradea"
+        ],
+        "latitude": 47.0456944,
+        "longitude": 21.9200028,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74541753",
+        "name": "University of Oradea, Faculty of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74548286",
+        "name": "University of Oradea, Faculty of Electrical Engineering and Information Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74545613",
+        "name": "University of Pitesti, Faculty of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q636074",
+        "name": "University of Pitești",
+        "short_name": null,
+        "official_website": "http:\/\/www.upit.ro",
+        "aliases": null,
+        "latitude": 44.8696667,
+        "longitude": 24.8601389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896551",
+        "name": "University of Wales, Romania",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74528768",
+        "name": "Universităţii din Oradea, Facultatea de Protectie a Mediului",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q114020486",
+        "name": "Upper Dacia University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Universitatea Daciei Superioare"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551502",
+        "name": "Valahia University of Târgoviște",
+        "short_name": null,
+        "official_website": "http:\/\/www.valahia.ro",
+        "aliases": null,
+        "latitude": 44.9239,
+        "longitude": 25.4575,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2031813",
+        "name": "Vasile Goldiș Western University of Arad",
+        "short_name": null,
+        "official_website": "https:\/\/www.uvvg.ro\/",
+        "aliases": [
+            "Universitatea de Vest „Vasile Goldiș”",
+            "Universitatea de Vest Vasile Goldiș"
+        ],
+        "latitude": 46.3719444,
+        "longitude": 22.1302778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12730486",
+        "name": "Victor Babes National Institute for Research and Development in Pathology and Biomedical Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.ivb.ro\/",
+        "aliases": [
+            "ivb.ro",
+            "Victor Babes Institute"
+        ],
+        "latitude": 44.433207,
+        "longitude": 26.082212,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q60213954",
+        "name": "Victor Babeș University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 46.767683,
+        "longitude": 23.591111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q851648",
+        "name": "Victor Babeș University of Medicine and Pharmacy",
+        "short_name": null,
+        "official_website": "http:\/\/www.umft.ro",
+        "aliases": [
+            "UMFT",
+            "Universitatea de Medicină și Farmacie \"Victor Babeş\", Timișoara",
+            "Victor Babes University of Medicine and Pharmacy Timisoara"
+        ],
+        "latitude": 45.756772,
+        "longitude": 21.236743,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q837657",
+        "name": "West University of Timișoara",
+        "short_name": null,
+        "official_website": "http:\/\/www.uvt.ro\/",
+        "aliases": [
+            "UVT",
+            "Universitatea de Vest din Timișoara",
+            "Universitatea din Timişoara",
+            "Universitatea din Timișoara",
+            "uvt.ro",
+            "West University of Timisoara",
+            "West University of Timişoara"
+        ],
+        "latitude": 45.7471,
+        "longitude": 21.2315,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97463845",
+        "name": "Șimnic Agricultural Development Research Station",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74548238",
+        "name": "“1 Decembrie 1918” University of Alba Iulia, Department of History, Archaeology and Museology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q129485993",
+        "name": "“George Călinescu” Institute for Literary History and Theory",
+        "short_name": null,
+        "official_website": "https:\/\/www.inst-calinesci.ro",
+        "aliases": [
+            "Institutul de istorieși  teorie literară “George Călinescu”"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    }
+]

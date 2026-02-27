@@ -1,0 +1,162 @@
+[
+    {
+        "wikidata_id": "Q4701497",
+        "name": "Akobo Heritage and Memorial University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 7.77699,
+        "longitude": 32.98593,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6234826",
+        "name": "John Garang Memorial University",
+        "short_name": null,
+        "official_website": "https:\/\/drjgmust.com",
+        "aliases": [
+            "John Garang Memorial University of Science and Technology"
+        ],
+        "latitude": 6.22,
+        "longitude": 31.55,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135921556",
+        "name": "Mikese University College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135921627",
+        "name": "Ramciel University",
+        "short_name": null,
+        "official_website": "http:\/\/ramcieluniversity.edu.ss\/",
+        "aliases": [
+            "Ramciel Institute of Technology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2892503",
+        "name": "Rumbek University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 6.8,
+        "longitude": 29.6875,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7590451",
+        "name": "St. Mary's University in Juba",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 4.8459,
+        "longitude": 31.6067,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7720077",
+        "name": "The Bridge University",
+        "short_name": null,
+        "official_website": "http:\/\/www.thebridgeuniversity.com\/",
+        "aliases": null,
+        "latitude": 4.835,
+        "longitude": 31.6,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100955973",
+        "name": "The SUDD Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.suddinstitute.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7895105",
+        "name": "University of Bahr El-Ghazal",
+        "short_name": null,
+        "official_website": "https:\/\/ubg.edu.ss\/",
+        "aliases": [
+            "ubg.edu.ss"
+        ],
+        "latitude": 7.73447,
+        "longitude": 27.9914,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1231063",
+        "name": "University of Juba",
+        "short_name": null,
+        "official_website": "http:\/\/jubauni.net\/",
+        "aliases": [
+            "Juba University"
+        ],
+        "latitude": 4.8410306,
+        "longitude": 31.5899,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2892765",
+        "name": "University of Northern Bahr El-Ghazal",
+        "short_name": null,
+        "official_website": "http:\/\/unbeg.edu.sd\/Page_read_Record.aspx?id=15",
+        "aliases": null,
+        "latitude": 8.77515,
+        "longitude": 27.4102,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2915589",
+        "name": "Upper Nile University",
+        "short_name": null,
+        "official_website": "http:\/\/www.unu.ac.ss",
+        "aliases": null,
+        "latitude": 9.55,
+        "longitude": 31.6583,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7988417",
+        "name": "Western Upper Nile University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 9.26,
+        "longitude": 29.8,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8051322",
+        "name": "Yei Agricultural and Mechanical University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 4.10383,
+        "longitude": 30.687,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q126127399",
+        "name": "Yei Teachers Training College (Y T T C)",
+        "short_name": null,
+        "official_website": "https:\/\/www.yeittc.org\/",
+        "aliases": [
+            "YTTC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    }
+]

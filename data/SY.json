@@ -1,0 +1,530 @@
+[
+    {
+        "wikidata_id": "Q4702202",
+        "name": "Al-Andalus University for Medical Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.au.edu.sy",
+        "aliases": null,
+        "latitude": 35.09913,
+        "longitude": 36.18675,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4702404",
+        "name": "Al-Furat University",
+        "short_name": null,
+        "official_website": "http:\/\/www.alfuratuniv.edu.sy",
+        "aliases": null,
+        "latitude": 35.32283,
+        "longitude": 40.11377,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204413",
+        "name": "Al-Jazeera Private University",
+        "short_name": null,
+        "official_website": "http:\/\/www.jude.edu.sy",
+        "aliases": null,
+        "latitude": 33.1668333,
+        "longitude": 36.2975278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15622432",
+        "name": "Al-Shahbaa University",
+        "short_name": null,
+        "official_website": "http:\/\/www.su-aleppo.com\/",
+        "aliases": [
+            "Gulf University"
+        ],
+        "latitude": 36.2185,
+        "longitude": 37.1143889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28715284",
+        "name": "Al-Sham Private University",
+        "short_name": null,
+        "official_website": "https:\/\/aspu.edu.sy\/site\/arabic\/index.php",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q110554819",
+        "name": "Al-Shamal Private University",
+        "short_name": null,
+        "official_website": "https:\/\/al-shamal.edu.sy",
+        "aliases": null,
+        "latitude": 36.167954,
+        "longitude": 36.735929,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4703336",
+        "name": "Al-Wataniya Private University",
+        "short_name": null,
+        "official_website": "https:\/\/wpu.edu.sy\/",
+        "aliases": [
+            "WPU"
+        ],
+        "latitude": 34.9693056,
+        "longitude": 36.7516944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107600970",
+        "name": "Antioch Syrian University",
+        "short_name": null,
+        "official_website": "https:\/\/asu.edu.sy\/",
+        "aliases": null,
+        "latitude": 33.6586395,
+        "longitude": 36.3744344,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4783194",
+        "name": "Arab International University",
+        "short_name": null,
+        "official_website": "http:\/\/www.aiu.edu.sy\/",
+        "aliases": [
+            "Arab European University"
+        ],
+        "latitude": 33.176,
+        "longitude": 36.2995,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12185345",
+        "name": "Arab Private University for Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/aust.edu.sy",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15244396",
+        "name": "Cordoba Private University",
+        "short_name": null,
+        "official_website": "https:\/\/www.cpu.edu.sy",
+        "aliases": null,
+        "latitude": 36.5813889,
+        "longitude": 36.9663889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1351317",
+        "name": "Damascus University",
+        "short_name": null,
+        "official_website": "https:\/\/damascusuniversity.edu.sy\/",
+        "aliases": [
+            "Syrian University",
+            "University of Damascus"
+        ],
+        "latitude": 33.5113889,
+        "longitude": 36.2913889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100968510",
+        "name": "Damascus University Cardiovascular Surgical Center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204389",
+        "name": "Ebla Private University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60572847",
+        "name": "Faculty of Fine Arts Damascus University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60572760",
+        "name": "Faculty of Law Damascus University",
+        "short_name": null,
+        "official_website": "http:\/\/damascusuniversity.edu.sy\/law\/index.php?lang=1",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16014234",
+        "name": "Faculty of Medicine of Syrian Private University",
+        "short_name": null,
+        "official_website": "https:\/\/www.spu.edu.sy\/med\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131418366",
+        "name": "Faculty of Theology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108835718",
+        "name": "Free Aleppo University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18639232",
+        "name": "Free Syrian University",
+        "short_name": null,
+        "official_website": "http:\/\/www.fsyriauni.com\/index.php",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16875454",
+        "name": "Hama University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hama-univ.edu.sy\/",
+        "aliases": null,
+        "latitude": 35.130833,
+        "longitude": 36.759444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5758173",
+        "name": "Higher Institute for Applied Science and Technology",
+        "short_name": "HIAST",
+        "official_website": "https:\/\/www.hiast.edu.sy\/",
+        "aliases": [
+            "HIAST"
+        ],
+        "latitude": 33.5542,
+        "longitude": 36.3123,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130735814",
+        "name": "Higher Institute of Business Administration",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12193458",
+        "name": "Higher Institute of Business Administration (Damascus)",
+        "short_name": null,
+        "official_website": "http:\/\/www.hiba.edu.sy\/",
+        "aliases": [
+            "HIBA"
+        ],
+        "latitude": 33.54992,
+        "longitude": 36.30595,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12193500",
+        "name": "Higher Institute of Dramatic Arts (Damascus)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 33.51249,
+        "longitude": 36.27948,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q797514",
+        "name": "Homs University",
+        "short_name": null,
+        "official_website": "https:\/\/homs-univ.edu.sy\/",
+        "aliases": null,
+        "latitude": 34.7128,
+        "longitude": 36.7086,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30314718",
+        "name": "Idlib University",
+        "short_name": null,
+        "official_website": "https:\/\/idlib.university\/",
+        "aliases": [
+            "University of Idlib"
+        ],
+        "latitude": 35.9406,
+        "longitude": 36.6227,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124412132",
+        "name": "International Suleiman University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ISU International Suleiman Universty"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6054144",
+        "name": "International University for Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.iust.edu.sy",
+        "aliases": null,
+        "latitude": 33.17513,
+        "longitude": 36.29471,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100260373",
+        "name": "Manara University",
+        "short_name": null,
+        "official_website": "https:\/\/manara.edu.sy\/",
+        "aliases": [
+            "MU",
+            "جامعة المنارة"
+        ],
+        "latitude": 35.55203,
+        "longitude": 35.76618,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108835620",
+        "name": "Mari Private University",
+        "short_name": null,
+        "official_website": "https:\/\/mari-university.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12204443",
+        "name": "Private University of Science and Arts",
+        "short_name": null,
+        "official_website": "http:\/\/pusa-sy.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q114672251",
+        "name": "Q114672251",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125836171",
+        "name": "Q125836171",
+        "short_name": null,
+        "official_website": "https:\/\/damaskus.dk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20510760",
+        "name": "Q20510760",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q21438672",
+        "name": "Q21438672",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q28715211",
+        "name": "Q28715211",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109257356",
+        "name": "Qasyoun Private University",
+        "short_name": null,
+        "official_website": "http:\/\/qpu.edu.sy\/",
+        "aliases": null,
+        "latitude": 33.074304,
+        "longitude": 36.2859976,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q28937031",
+        "name": "Raqqa University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7663241",
+        "name": "Syrian Private University",
+        "short_name": null,
+        "official_website": "https:\/\/www.spu.edu.sy\/",
+        "aliases": [
+            "SPU"
+        ],
+        "latitude": 33.3143,
+        "longitude": 36.2693,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7663251",
+        "name": "Syrian Virtual University",
+        "short_name": null,
+        "official_website": "http:\/\/www.svuonline.org",
+        "aliases": [
+            "SVU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100968543",
+        "name": "Tishreen University Higher Institute of Languages",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100968544",
+        "name": "Tishreen University Higher Institute of Marine Research",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q131383812",
+        "name": "University of Al-Sharq",
+        "short_name": null,
+        "official_website": "https:\/\/alsharq.ac",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2302663",
+        "name": "University of Aleppo",
+        "short_name": null,
+        "official_website": "https:\/\/www.alepuniv.edu.sy\/",
+        "aliases": [
+            "Aleppo University"
+        ],
+        "latitude": 36.20997,
+        "longitude": 37.12001,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q649589",
+        "name": "University of Kalamoon",
+        "short_name": null,
+        "official_website": "http:\/\/www.uok.edu.sy\/uok\/index.php?lang=ar",
+        "aliases": null,
+        "latitude": 34.06916,
+        "longitude": 36.74978,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7809596",
+        "name": "University of Latakia",
+        "short_name": null,
+        "official_website": "https:\/\/latakia-univ.edu.sy\/",
+        "aliases": [
+            "Tishreen University"
+        ],
+        "latitude": 35.523333,
+        "longitude": 35.807778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1282182",
+        "name": "Wadi International University",
+        "short_name": null,
+        "official_website": "https:\/\/wiu.edu.sy\/",
+        "aliases": null,
+        "latitude": 34.7114685,
+        "longitude": 36.294733,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18395937",
+        "name": "Yarmouk Private University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ypu.edu.sy",
+        "aliases": null,
+        "latitude": 33.08845,
+        "longitude": 36.28393,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136565012",
+        "name": "Zaytoonah International University",
+        "short_name": null,
+        "official_website": "https:\/\/ziu-university.net\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

@@ -1,0 +1,366 @@
+[
+    {
+        "wikidata_id": "Q106916019",
+        "name": "42",
+        "short_name": null,
+        "official_website": "https:\/\/42.us.org",
+        "aliases": [
+            "42",
+            "42 school",
+            "School 42"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97283543",
+        "name": "Al Zaytona University of Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.zust.edu.ps\/",
+        "aliases": null,
+        "latitude": 32.0779908,
+        "longitude": 35.2155823,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131623074",
+        "name": "al-Aqsa University",
+        "short_name": null,
+        "official_website": "http:\/\/www.alaqsa.edu.ps\/english\/",
+        "aliases": null,
+        "latitude": 31.511938,
+        "longitude": 34.440605,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q292489",
+        "name": "Al-Azhar University – Gaza",
+        "short_name": null,
+        "official_website": "http:\/\/www.alazhar-gaza.edu",
+        "aliases": null,
+        "latitude": 31.515,
+        "longitude": 34.436667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1853678",
+        "name": "Al-Quds Open University",
+        "short_name": null,
+        "official_website": "http:\/\/www.qou.edu",
+        "aliases": null,
+        "latitude": 31.9130556,
+        "longitude": 35.1994444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q133817552",
+        "name": "Al-Quds Open University, Tulkarm",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.317564,
+        "longitude": 35.031645,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q310564",
+        "name": "Al-Quds University",
+        "short_name": null,
+        "official_website": "https:\/\/www.alquds.edu\/en\/",
+        "aliases": null,
+        "latitude": 31.7559083,
+        "longitude": 35.2613806,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2096138",
+        "name": "An-Najah National University",
+        "short_name": null,
+        "official_website": "http:\/\/www.najah.edu\/",
+        "aliases": [
+            "An Najah National University"
+        ],
+        "latitude": 32.2202778,
+        "longitude": 35.2444444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q623893",
+        "name": "Arab American University",
+        "short_name": null,
+        "official_website": "http:\/\/www.aaup.edu\/",
+        "aliases": [
+            "AAUP",
+            "Arab American University – Palestine",
+            "Arab American University Faculty of Law",
+            "Arab American University of Palestine"
+        ],
+        "latitude": 32.4066667,
+        "longitude": 35.3433333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3679860",
+        "name": "Arab Open University",
+        "short_name": null,
+        "official_website": "https:\/\/www.arabou.edu.kw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q510029",
+        "name": "Birzeit University",
+        "short_name": "BZU",
+        "official_website": "https:\/\/www.birzeit.edu",
+        "aliases": [
+            "Bir Zeit University"
+        ],
+        "latitude": 31.9586111,
+        "longitude": 35.1808056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q118558588",
+        "name": "Center for Applied International Law",
+        "short_name": null,
+        "official_website": "https:\/\/www.alhaq.org\/alhaq-center",
+        "aliases": [
+            "Al-Haq Center for Applied International Law"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12235977",
+        "name": "College of Agriculture and Veterinary Medicine at An-Najah National University",
+        "short_name": null,
+        "official_website": "https:\/\/agri.najah.edu\/",
+        "aliases": [
+            "An-Najah National University, Tulkarm"
+        ],
+        "latitude": 32.314328,
+        "longitude": 35.022116,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61931395",
+        "name": "Dar al-Kalima University",
+        "short_name": null,
+        "official_website": "http:\/\/www.daralkalima.edu.ps\/en",
+        "aliases": [
+            "Dar al-Kalima College"
+        ],
+        "latitude": 31.697308,
+        "longitude": 35.188716,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74549563",
+        "name": "Facualty of Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12204513",
+        "name": "Gaza University",
+        "short_name": null,
+        "official_website": "http:\/\/gu.edu.ps\/",
+        "aliases": null,
+        "latitude": 31.5053886,
+        "longitude": 34.4759811,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1138268",
+        "name": "Hebron University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hebron.edu\/",
+        "aliases": null,
+        "latitude": 31.55,
+        "longitude": 35.0927778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q56376735",
+        "name": "Ibn Sina College for Health Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 32.1563358,
+        "longitude": 35.263801,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5984833",
+        "name": "Ibrahimieh College",
+        "short_name": null,
+        "official_website": "http:\/\/www.ibrahimieh.edu",
+        "aliases": null,
+        "latitude": 31.786525,
+        "longitude": 35.2414806,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q96739145",
+        "name": "Isra University",
+        "short_name": null,
+        "official_website": "https:\/\/ar.israa.edu.ps\/",
+        "aliases": [
+            "al-Isra University",
+            "al-Israa University",
+            "Israa University"
+        ],
+        "latitude": 31.5234416,
+        "longitude": 34.4522148,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12191842",
+        "name": "Modern University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.muc.edu.ps\/",
+        "aliases": null,
+        "latitude": 31.7558333,
+        "longitude": 35.2613889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q118142559",
+        "name": "Nablus University for Vocational and Technical Education",
+        "short_name": null,
+        "official_website": "http:\/\/nu-vte.edu.ps\/",
+        "aliases": [
+            "NUVTE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16121290",
+        "name": "Palestine Ahliya University",
+        "short_name": null,
+        "official_website": "http:\/\/paluniv.edu.ps\/",
+        "aliases": [
+            "Palestine Ahliya University"
+        ],
+        "latitude": 31.695929,
+        "longitude": 35.187559,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q81201286",
+        "name": "Palestine College of Police Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6532873",
+        "name": "Palestine Economic Policy Research Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.mas.ps",
+        "aliases": [
+            "Maʻhad Abḥāth al-Siyāsāt al-Iqtiṣādīyah al-Filasṭīnī"
+        ],
+        "latitude": 31.8885538,
+        "longitude": 35.2012269,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2103139",
+        "name": "Palestine Polytechnic University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ppu.edu",
+        "aliases": null,
+        "latitude": 31.533611,
+        "longitude": 35.097222,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6401986",
+        "name": "Palestine Technical University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ptuk.edu.ps",
+        "aliases": [
+            "PTU",
+            "Khodori University, Tulkarm"
+        ],
+        "latitude": 32.313442,
+        "longitude": 35.018715,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7127367",
+        "name": "Palestinian Center for Policy and Survey Research",
+        "short_name": null,
+        "official_website": "https:\/\/www.pcpsr.org\/",
+        "aliases": [
+            "PCPSR"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q56376820",
+        "name": "Q56376820",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7588127",
+        "name": "St. George's College, Jerusalem",
+        "short_name": null,
+        "official_website": "http:\/\/www.sgcjerusalem.org\/",
+        "aliases": null,
+        "latitude": 31.7873,
+        "longitude": 35.2294,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894646",
+        "name": "University College of Applied Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucas.edu.ps",
+        "aliases": null,
+        "latitude": 31.4979,
+        "longitude": 34.4369,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q2495895",
+        "name": "University of Palestine",
+        "short_name": null,
+        "official_website": "http:\/\/www.up.edu.ps\/",
+        "aliases": null,
+        "latitude": 31.4761,
+        "longitude": 34.4033,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q126164812",
+        "name": "Wajdi Nihad Abu Gharbia University College of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]
