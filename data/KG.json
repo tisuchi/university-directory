@@ -1,0 +1,437 @@
+[
+    {
+        "wikidata_id": "Q4811129",
+        "name": "Ala-Too International University",
+        "short_name": null,
+        "official_website": "http:\/\/www.iaau.edu.kg\/",
+        "aliases": [
+            "AIU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1141697",
+        "name": "American University of Central Asia",
+        "short_name": null,
+        "official_website": "http:\/\/www.auca.kg\/",
+        "aliases": [
+            "American University in Kyrgyzstan",
+            "AUCA",
+            "Kyrgyz-American University"
+        ],
+        "latitude": 42.8111899,
+        "longitude": 74.6272054,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4806696",
+        "name": "Asian Medical Institute, Kyrgyzstan",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ASM",
+            "S. Tentishev Asian Medical Institute",
+            "Asian International University named after Satkynbai Tentishev",
+            "Satkynbai Tentishev Memorial Asian Medical Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122773797",
+        "name": "Batken State University",
+        "short_name": null,
+        "official_website": "http:\/\/batmu.kg\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4087645",
+        "name": "Bishkek Academy of Finance and Economics",
+        "short_name": null,
+        "official_website": "http:\/\/www.bafe.edu.kg",
+        "aliases": [
+            "Adam University"
+        ],
+        "latitude": 42.8775,
+        "longitude": 74.5764,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2496197",
+        "name": "Bishkek Humanities University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bhu.kg\/",
+        "aliases": [
+            "Bishkek Humanities University named after K.Karasaev"
+        ],
+        "latitude": 42.8501389,
+        "longitude": 74.5845556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20626551",
+        "name": "I.Arabaev Kyrgyz State University",
+        "short_name": null,
+        "official_website": "http:\/\/arabaev.kg\/",
+        "aliases": [
+            "Kyrgyz State University",
+            "Kyrgyz State University named after I Arabaev"
+        ],
+        "latitude": 42.874,
+        "longitude": 74.605,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74539713",
+        "name": "Instutitute of Natural and Applied Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6054169",
+        "name": "International University of Kyrgyzstan",
+        "short_name": null,
+        "official_website": "http:\/\/iuk.kg\/",
+        "aliases": null,
+        "latitude": 42.877451,
+        "longitude": 74.585494,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103018344",
+        "name": "Islamic University named after Hazrat Umar",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4204288",
+        "name": "Issyk-Kul State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.iksu.kg\/",
+        "aliases": null,
+        "latitude": 42.4906,
+        "longitude": 78.4,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20625738",
+        "name": "Jalalabad State University",
+        "short_name": null,
+        "official_website": "http:\/\/jagu.kg\/",
+        "aliases": [
+            "Jalal-Abad State University, Medical Faculty"
+        ],
+        "latitude": 40.926944,
+        "longitude": 73.004722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q110319392",
+        "name": "Kyrgyz Aviation Institute named after I. Abdraimov",
+        "short_name": null,
+        "official_website": "https:\/\/kai.kg",
+        "aliases": [
+            "KAI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16976056",
+        "name": "Kyrgyz National Agrarian University",
+        "short_name": null,
+        "official_website": "http:\/\/www.knau.kg",
+        "aliases": [
+            "KNAU"
+        ],
+        "latitude": 42.8509094,
+        "longitude": 74.6050483,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21660554",
+        "name": "Kyrgyz National Conservatory",
+        "short_name": null,
+        "official_website": "https:\/\/conservatory.kg",
+        "aliases": [
+            "Kyrgyz National Conservatory named after Kaly Moldobasanov"
+        ],
+        "latitude": 42.84554,
+        "longitude": 74.61314,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1964642",
+        "name": "Kyrgyz National University",
+        "short_name": null,
+        "official_website": "https:\/\/www.knu.kg\/ru\/",
+        "aliases": [
+            "Kyrgyz National University named after Jusup Balasagyn"
+        ],
+        "latitude": 42.8823,
+        "longitude": 74.5871,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4221178",
+        "name": "Kyrgyz State Medical Academy",
+        "short_name": null,
+        "official_website": "https:\/\/kgma.kg",
+        "aliases": null,
+        "latitude": 42.86634,
+        "longitude": 74.495185,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2324554",
+        "name": "Kyrgyz State University of Construction Transportation and Architecture",
+        "short_name": null,
+        "official_website": "http:\/\/www.ksucta.kg",
+        "aliases": [
+            "Kyrgyz State University of Construction, Transport and Architecture named after N. Isanov"
+        ],
+        "latitude": 42.83989,
+        "longitude": 74.60118,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6452356",
+        "name": "Kyrgyz Technical University",
+        "short_name": null,
+        "official_website": "http:\/\/kstu.kg\/",
+        "aliases": [
+            "Frunze Polytechnic Institute",
+            "Kyrgyz State Technical University"
+        ],
+        "latitude": 42.845,
+        "longitude": 74.588,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1743431",
+        "name": "Kyrgyz-Russian Slavic University",
+        "short_name": null,
+        "official_website": "https:\/\/www.krsu.edu.kg\/",
+        "aliases": [
+            "KRSU",
+            "Boris Yeltsin Kyrgyz-Russian Slavic University",
+            "Kyrgyz-Russian Slavic University named after B.N. Yeltsin"
+        ],
+        "latitude": 42.8737,
+        "longitude": 74.6143,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6007124",
+        "name": "Kyrgyz-Uzbek University",
+        "short_name": null,
+        "official_website": "https:\/\/www.kumu.kg",
+        "aliases": [
+            "KUU",
+            "Osh State Social University"
+        ],
+        "latitude": 40.527287,
+        "longitude": 72.788536,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104215974",
+        "name": "Kyrgyzskaya State Academy of Physical Culture and Sports",
+        "short_name": null,
+        "official_website": "http:\/\/ksapcs.kg\/missiya-akademii\/",
+        "aliases": [
+            "KSAPCS"
+        ],
+        "latitude": 42.843099,
+        "longitude": 74.614566,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4250914",
+        "name": "Manas University",
+        "short_name": null,
+        "official_website": "http:\/\/www.manas.edu.kg\/",
+        "aliases": [
+            "KTU Manas",
+            "Kyrgyz Turkish Manas University",
+            "Kyrgyzstan-Turkey Manas University"
+        ],
+        "latitude": 42.8348,
+        "longitude": 74.5753,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20628553",
+        "name": "Naryn mamlekettik universiteti",
+        "short_name": null,
+        "official_website": "http:\/\/nsu.kg\/",
+        "aliases": [
+            "Naryn State University named after S Naamatov"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4810736",
+        "name": "Osh State University",
+        "short_name": null,
+        "official_website": "https:\/\/osuimf.com\/",
+        "aliases": [
+            "Osh mamlekettik universiteti",
+            "Osh University",
+            "OshGU",
+            "OshMU",
+            "Oshskiĭ gosudarstvennyĭ universitet",
+            "OshSU",
+            "University of Osh"
+        ],
+        "latitude": 40.53166,
+        "longitude": 72.79482,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4059263",
+        "name": "Presidential Academy of Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.apap.kg\/",
+        "aliases": [
+            "Academy of Public Administration under the President of the Kyrgyz Republic",
+            "AGUPKR",
+            "ASUIPRK"
+        ],
+        "latitude": 42.881416,
+        "longitude": 74.602048,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123361735",
+        "name": "Q123361735",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q124421963",
+        "name": "Q124421963",
+        "short_name": null,
+        "official_website": "http:\/\/kiu.kg\/",
+        "aliases": null,
+        "latitude": 42.8699319,
+        "longitude": 74.6208489,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q13170457",
+        "name": "Q13170457",
+        "short_name": null,
+        "official_website": "https:\/\/kao.kg\/",
+        "aliases": null,
+        "latitude": 42.8700612,
+        "longitude": 74.6068947,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q13173540",
+        "name": "Q13173540",
+        "short_name": null,
+        "official_website": "https:\/\/naskr.gov.kg\/ru\/2019\/06\/21\/institut-yazyka-i-literatury-im-ch-ajtmatova\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16675521",
+        "name": "Q16675521",
+        "short_name": null,
+        "official_website": "http:\/\/www.intuit.kg\/",
+        "aliases": null,
+        "latitude": 42.859,
+        "longitude": 74.668,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18407175",
+        "name": "Q18407175",
+        "short_name": null,
+        "official_website": "http:\/\/ogpi.kg",
+        "aliases": null,
+        "latitude": 40.4926667,
+        "longitude": 72.8291667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20627565",
+        "name": "Q20627565",
+        "short_name": null,
+        "official_website": "https:\/\/iku.kg\/",
+        "aliases": null,
+        "latitude": 42.879643,
+        "longitude": 74.659235,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25590311",
+        "name": "Q25590311",
+        "short_name": null,
+        "official_website": "http:\/\/kguki.kg\/",
+        "aliases": null,
+        "latitude": 42.8458056,
+        "longitude": 74.61475,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20629163",
+        "name": "Talas State University",
+        "short_name": null,
+        "official_website": "http:\/\/www.talsu.kg\/",
+        "aliases": null,
+        "latitude": 42.52225,
+        "longitude": 72.2514444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q687110",
+        "name": "University of Central Asia",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucentralasia.org\/",
+        "aliases": [
+            "UCA",
+            "Ucentralasia"
+        ],
+        "latitude": 42.8727177,
+        "longitude": 74.59675,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18536982",
+        "name": "University of Economy and Enterprise",
+        "short_name": null,
+        "official_website": "http:\/\/www.uep.kg\/",
+        "aliases": [
+            "University of Economy and Enterprise in Jalal-Abad"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

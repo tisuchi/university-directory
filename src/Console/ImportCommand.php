@@ -14,6 +14,7 @@ class ImportCommand extends Command
         {countries?* : One or more country codes (e.g. DE US UK)}
         {--region= : Import all countries in a region (europe, asia, africa, americas, oceania, middle-east)}
         {--all : Import all available countries}
+        {--remote : Fetch data from remote source instead of local files}
         {--chunk=500 : Number of records to process per batch}
         {--retries=3 : Number of HTTP retry attempts}
         {--no-update : Skip updating existing records}';
@@ -48,6 +49,7 @@ class ImportCommand extends Command
         }
 
         $retries = (int) $this->option('retries');
+        $remote = (bool) $this->option('remote');
         $updateExisting = ! $this->option('no-update');
         $startTime = microtime(true);
 
@@ -64,7 +66,7 @@ class ImportCommand extends Command
             Log::info("Starting university import for {$code}");
 
             try {
-                $data = $this->dataClient->fetch($code, $retries);
+                $data = $this->dataClient->fetch($code, $retries, $remote);
                 $stats = $this->importer->import($data, $code, $updateExisting);
 
                 $totalCreated += $stats['created'];

@@ -1,0 +1,773 @@
+[
+    {
+        "wikidata_id": "Q4748662",
+        "name": "Amrit Science College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 27.7181,
+        "longitude": 85.3128,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q27963929",
+        "name": "Bagiswori College",
+        "short_name": null,
+        "official_website": "http:\/\/www.bagisworicollege.edu.np",
+        "aliases": null,
+        "latitude": 27.67523,
+        "longitude": 85.4392,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134933145",
+        "name": "Bhalam",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Bhalam University"
+        ],
+        "latitude": 28.2460392,
+        "longitude": 84.006477,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4915610",
+        "name": "Birat Science Campus",
+        "short_name": null,
+        "official_website": "http:\/\/www.novatech.com.np\/Biratnew\/overview.php",
+        "aliases": null,
+        "latitude": 26.4348,
+        "longitude": 87.287559,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q83484315",
+        "name": "Capitol Hill College",
+        "short_name": null,
+        "official_website": "https:\/\/www.collegenp.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q13180349",
+        "name": "Caspian Valley College",
+        "short_name": null,
+        "official_website": "http:\/\/www.caspianvalleycollege.com\/",
+        "aliases": null,
+        "latitude": 27.673,
+        "longitude": 85.32,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q18344996",
+        "name": "Central Department of Chemistry, TU",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5146630",
+        "name": "College of Applied Food and Dairy Technology",
+        "short_name": null,
+        "official_website": "http:\/\/cafodat.edu.np",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18349058",
+        "name": "Cosmos College",
+        "short_name": null,
+        "official_website": "http:\/\/www.cosmoscollege.edu.np\/",
+        "aliases": [
+            "Cosmos College of Management and Technology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5250989",
+        "name": "Deerwalk Institute of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Deerwalk"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137260474",
+        "name": "Everest College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16975691",
+        "name": "Far Western University",
+        "short_name": null,
+        "official_website": "http:\/\/fwu.edu.np\/",
+        "aliases": null,
+        "latitude": 28.95553,
+        "longitude": 80.17784,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134428150",
+        "name": "Farwestern University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137650231",
+        "name": "Gandaki University",
+        "short_name": null,
+        "official_website": "https:\/\/www.gandakiuniversity.edu.np",
+        "aliases": [
+            "GU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123143920",
+        "name": "Geomatic Institute of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q138028309",
+        "name": "Global College International",
+        "short_name": null,
+        "official_website": "https:\/\/gci.edu.np",
+        "aliases": [
+            "GCI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q19715950",
+        "name": "Henry Ford International College",
+        "short_name": null,
+        "official_website": "http:\/\/henryford.edu.np\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q136035498",
+        "name": "IIMS College",
+        "short_name": null,
+        "official_website": "https:\/\/iimscollege.edu.np",
+        "aliases": [
+            "Institute of International Management Science"
+        ],
+        "latitude": 27.7127317,
+        "longitude": 85.3294109,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q16986440",
+        "name": "Institute of Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/ioe.edu.np\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74557196",
+        "name": "International Society of Medical Education Pvt Ltd",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q135831262",
+        "name": "Janajyoti Multiple Campus",
+        "short_name": null,
+        "official_website": "https:\/\/jjmc.edu.np",
+        "aliases": [
+            "JMC",
+            "Janajyoti Campus",
+            "Janajyoti Multiple Campus, Lalbandi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q13181145",
+        "name": "Janajyoti Multiple Campus",
+        "short_name": null,
+        "official_website": "https:\/\/jmcrautahat.edu.np\/",
+        "aliases": [
+            "Jana Jyoti Multiple Campus"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16988787",
+        "name": "Kathmandu College of Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.kcm.edu.np\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6376965",
+        "name": "Kathmandu University",
+        "short_name": null,
+        "official_website": "https:\/\/ku.edu.np\/",
+        "aliases": null,
+        "latitude": 27.6195482,
+        "longitude": 85.5386417,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013472",
+        "name": "Kathmandu University School of Arts",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136359242",
+        "name": "Kathmandu University School of Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74557704",
+        "name": "Kathmandu University, School of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q132795424",
+        "name": "Khwopa College of Engineering",
+        "short_name": null,
+        "official_website": "https:\/\/khwopa.edu.np\/",
+        "aliases": [
+            "KhCE"
+        ],
+        "latitude": 27.6710281,
+        "longitude": 85.43925,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q6403458",
+        "name": "Khwopa Engineering College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 27.671028,
+        "longitude": 85.43925,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18344396",
+        "name": "LA GRANDEE International College",
+        "short_name": null,
+        "official_website": "http:\/\/www.lagrandee.edu.np",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6703127",
+        "name": "Lumbini Bauddha University",
+        "short_name": null,
+        "official_website": "http:\/\/www.lbuniversity.edu.np",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6703130",
+        "name": "Lumbini Buddha University",
+        "short_name": null,
+        "official_website": "http:\/\/lbu.edu.np",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52636645",
+        "name": "Lumbini Medical College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131429619",
+        "name": "Lumbini Technological University",
+        "short_name": null,
+        "official_website": "https:\/\/ltu.edu.np\/",
+        "aliases": null,
+        "latitude": 28.050648,
+        "longitude": 81.612994,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q106623509",
+        "name": "Mahendra Multiple Campus, Nepalgunj",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17009419",
+        "name": "Manipal Teaching Hospital",
+        "short_name": null,
+        "official_website": "http:\/\/www.manipal.edu.np",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108391731",
+        "name": "Manmohan Technical University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6840853",
+        "name": "Mid-West University",
+        "short_name": null,
+        "official_website": "http:\/\/www.mwu.edu.np",
+        "aliases": [
+            "MU",
+            "Mid-Western University Birendranagar",
+            "Mid-Western University"
+        ],
+        "latitude": 28.5896,
+        "longitude": 81.6232,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6888594",
+        "name": "Modern College of Management",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6971602",
+        "name": "National College of Computer Studies",
+        "short_name": null,
+        "official_website": "http:\/\/nccs.edu.np",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16941337",
+        "name": "National School of Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "NSS",
+            "National Institute of Science and Technology",
+            "NIST",
+            "National School of Sciences, Lainchour"
+        ],
+        "latitude": 27.7181,
+        "longitude": 85.314,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65023913",
+        "name": "NCA College of Management",
+        "short_name": null,
+        "official_website": "https:\/\/nca.edu.np\/",
+        "aliases": [
+            "NCA"
+        ],
+        "latitude": 27.705673,
+        "longitude": 85.343943,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106608761",
+        "name": "Nepal Academy of Tourism and Hotel Management",
+        "short_name": null,
+        "official_website": "https:\/\/nathm.gov.np\/",
+        "aliases": [
+            "NATHM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6994323",
+        "name": "Nepal Agriculture and Forestry University",
+        "short_name": null,
+        "official_website": "http:\/\/www.afu.edu.np\/",
+        "aliases": null,
+        "latitude": 27.650407,
+        "longitude": 84.350143,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6994346",
+        "name": "Nepal College of Information Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "NCIT"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111632066",
+        "name": "Nepal Mountain Academy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "NMA"
+        ],
+        "latitude": 27.6926306,
+        "longitude": 85.3298722,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q10957095",
+        "name": "Nepal Sanskrit University",
+        "short_name": null,
+        "official_website": "http:\/\/nsu.edu.np",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74530307",
+        "name": "Nepalese Society of Neuroscience",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18358956",
+        "name": "Oxford College of Engineering and Management",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "OCEM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17013596",
+        "name": "Patan Academy of Health Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.pahs.edu.np",
+        "aliases": [
+            "Patan Hospital"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q13183198",
+        "name": "Patan Multiple Campus",
+        "short_name": null,
+        "official_website": "http:\/\/patancampus.edu.np\/index.php",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3630498",
+        "name": "Pokhara University",
+        "short_name": null,
+        "official_website": "http:\/\/www.pu.edu.np",
+        "aliases": null,
+        "latitude": 28.1473,
+        "longitude": 84.0822,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7243243",
+        "name": "Prime College",
+        "short_name": null,
+        "official_website": "http:\/\/prime.edu.np",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7245949",
+        "name": "Prithvi Narayan Campus",
+        "short_name": null,
+        "official_website": "http:\/\/pncampus.edu.np",
+        "aliases": null,
+        "latitude": 28.239483,
+        "longitude": 83.990192,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7260865",
+        "name": "Purbanchal University",
+        "short_name": null,
+        "official_website": "http:\/\/puexam.edu.np",
+        "aliases": null,
+        "latitude": 26.6828,
+        "longitude": 87.354522,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18345980",
+        "name": "Purwanchal Campus",
+        "short_name": null,
+        "official_website": "http:\/\/www.ioepc.edu.np",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107172243",
+        "name": "Rajarshi Janak University",
+        "short_name": null,
+        "official_website": "https:\/\/www.rju.edu.np\/index.php",
+        "aliases": null,
+        "latitude": 26.7286111,
+        "longitude": 85.925,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17060182",
+        "name": "Sai Krishna Medical College & Hospital",
+        "short_name": null,
+        "official_website": "http:\/\/www.educationinfoindia.com\/saikrishna\/default.HTM",
+        "aliases": null,
+        "latitude": 26.541328,
+        "longitude": 86.756034,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q120878269",
+        "name": "Saptagandaki Multiple Campus",
+        "short_name": null,
+        "official_website": "https:\/\/smc.edu.np",
+        "aliases": [
+            "SMC College"
+        ],
+        "latitude": 27.6836111,
+        "longitude": 84.4342222,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q110542822",
+        "name": "Saraswati Multiple Campus",
+        "short_name": null,
+        "official_website": "https:\/\/saraswaticampus.edu.np\/",
+        "aliases": [
+            "Saraswati Bahumkhi Campus"
+        ],
+        "latitude": 27.71883,
+        "longitude": 85.3107732,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q19830609",
+        "name": "Shree Radha Damodar Sanskrit Vidhyapith",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 27.8797,
+        "longitude": 83.9327,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7508136",
+        "name": "Siddhartha University",
+        "short_name": null,
+        "official_website": "http:\/\/siddharthauniversity.org.np\/introduction.htm",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7508137",
+        "name": "Siddhartha Vanasthali Institute",
+        "short_name": null,
+        "official_website": "http:\/\/svi.edu.np",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7592171",
+        "name": "St. Xavier's College, Kathmandu",
+        "short_name": null,
+        "official_website": "http:\/\/www.sxc.edu.np",
+        "aliases": [
+            "St. Xavier's College, Nepal"
+        ],
+        "latitude": 27.6932583,
+        "longitude": 85.3211441,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q75948358",
+        "name": "Sukuna Multiple college",
+        "short_name": null,
+        "official_website": "http:\/\/sukuna.edu.np\/",
+        "aliases": [
+            "College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q106130406",
+        "name": "Thakur Ram Multiple Campus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 27.012981,
+        "longitude": 84.867922,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7710687",
+        "name": "Thapathali Campus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Thapathali Engineering Campus"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7839834",
+        "name": "Tri Chandra College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q588239",
+        "name": "Tribhuvan University",
+        "short_name": null,
+        "official_website": "https:\/\/tu.edu.np\/",
+        "aliases": null,
+        "latitude": 27.6806722,
+        "longitude": 85.2834629,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100993150",
+        "name": "Tribhuvan University Public Administration Campus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137217026",
+        "name": "University of Nepal",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108551117",
+        "name": "Yjnayavalkya Lakshminarayan Vidyapeeth",
+        "short_name": null,
+        "official_website": "http:\/\/nsu.edu.np\/colleges\/detail?s=1610391789-yajaniavalkaya-lkashhamanarayanae-vathayapatha-matahana",
+        "aliases": null,
+        "latitude": 26.612702,
+        "longitude": 85.8436355,
+        "type": "college"
+    }
+]

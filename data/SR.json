@@ -1,0 +1,337 @@
+[
+    {
+        "wikidata_id": "Q64760704",
+        "name": "Academy of Higher Art and Culture Education",
+        "short_name": null,
+        "official_website": "http:\/\/www.ahkco.net\/",
+        "aliases": null,
+        "latitude": 5.8253333,
+        "longitude": -55.1526667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115656546",
+        "name": "Anne van Dijk Rijst Onderzoekscentrum Nickerie",
+        "short_name": null,
+        "official_website": "http:\/\/www.snri-adron.com\/",
+        "aliases": [
+            "Adron",
+            "ADRON"
+        ],
+        "latitude": 5.8776667,
+        "longitude": -56.9895833,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1975617",
+        "name": "Anton de Kom University of Suriname",
+        "short_name": null,
+        "official_website": "http:\/\/adekus.uvs.edu\/",
+        "aliases": null,
+        "latitude": 5.81402,
+        "longitude": -55.21626,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q98399568",
+        "name": "Business School Paramaribo",
+        "short_name": "BSP",
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115281888",
+        "name": "Democracy Unit",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 5.8154167,
+        "longitude": -55.2184722,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q115633569",
+        "name": "Environmental Research Center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "CMO",
+            "Centrum voor Milieu Onderzoek",
+            "Centrum voor Milieuonderzoek"
+        ],
+        "latitude": 5.8149444,
+        "longitude": -55.2150833,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q98221557",
+        "name": "FHR School of Business",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q98399207",
+        "name": "FHR School of Governance",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q98399211",
+        "name": "FHR School of Law",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q98399204",
+        "name": "FHR School of Management",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q56612636",
+        "name": "Hendrikschool",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 5.828833,
+        "longitude": -55.154917,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q98406613",
+        "name": "Hogeschool ABC",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q98399570",
+        "name": "Hogeschool van Suriname",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q98384026",
+        "name": "IBW Hogeschool",
+        "short_name": null,
+        "official_website": "https:\/\/ibwuniversity.com\/",
+        "aliases": [
+            "IBW University",
+            "IBW University of Applied Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115647942",
+        "name": "Institute for Women, Gender and Development Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IWGDS"
+        ],
+        "latitude": 5.8139722,
+        "longitude": -55.2166667,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q86820713",
+        "name": "Institute of Management and Information Technology",
+        "short_name": "iMiT",
+        "official_website": null,
+        "aliases": null,
+        "latitude": 5.827641,
+        "longitude": -55.181079,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2196554",
+        "name": "Instituut voor de Opleiding van Leraren",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IOL"
+        ],
+        "latitude": 5.81303,
+        "longitude": -55.21615,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115645933",
+        "name": "Instituut voor Maatschappij Wetenschappelijk Onderzoek",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Institute for Societal Scientific Research"
+        ],
+        "latitude": 5.8149722,
+        "longitude": -55.2194444,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q64871009",
+        "name": "International Business School Americas Europe",
+        "short_name": null,
+        "official_website": "https:\/\/ibsae.org\/",
+        "aliases": null,
+        "latitude": 5.815368,
+        "longitude": -55.198665,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q98398887",
+        "name": "International Hospitality and Tourism College",
+        "short_name": "IHTC",
+        "official_website": "http:\/\/www.inthtc.com\/",
+        "aliases": [
+            "Suriname College of Hospitality and Tourism"
+        ],
+        "latitude": 5.8494444,
+        "longitude": -55.14,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q98406620",
+        "name": "Lerarenopleiding voor Beroepsonderwijs",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Teacher's training for professional education"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q98406578",
+        "name": "Music school of Suriname",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 5.8286111,
+        "longitude": -55.1533333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23198422",
+        "name": "NAKS",
+        "short_name": null,
+        "official_website": "http:\/\/nakssuriname.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115596447",
+        "name": "National Herbarium of Suriname",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "BBS",
+            "Bosbeheer Suriname",
+            "National Herbarium of Suriname, Anton de Kom University of Suriname, Paramaribo, Suriname",
+            "The National Herbarium of Suriname (BBS)",
+            "Anton de Kom University of Suriname herbarium"
+        ],
+        "latitude": 5.8149444,
+        "longitude": -55.2150833,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q115626920",
+        "name": "National Zoological Collection of Suriname",
+        "short_name": null,
+        "official_website": "http:\/\/nzcs.uvs.edu\/",
+        "aliases": [
+            "National Zoological Collection of Suriname (NZCS)",
+            "Nationale Zoölogische Collectie Suriname",
+            "NZCS"
+        ],
+        "latitude": 5.8149444,
+        "longitude": -55.2150833,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q28777878",
+        "name": "Nightingale College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q104643395",
+        "name": "Q104643395",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q98398517",
+        "name": "Technological University of the Americas",
+        "short_name": null,
+        "official_website": "http:\/\/www.tua.university\/",
+        "aliases": null,
+        "latitude": 5.8161111,
+        "longitude": -55.1963889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115648582",
+        "name": "Universiteitsinstituut voor Kinderrechten",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "University Institute for Children's rights"
+        ],
+        "latitude": 5.8130833,
+        "longitude": -55.2171389,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q98398523",
+        "name": "University of Applied Sciences and Technology",
+        "short_name": "UNASAT",
+        "official_website": "http:\/\/unasat.net\/",
+        "aliases": [
+            "UNASAT",
+            "University of Applied Sciences and Technology (Suriname)"
+        ],
+        "latitude": 5.8091667,
+        "longitude": -55.2119444,
+        "type": "university"
+    }
+]

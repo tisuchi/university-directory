@@ -1,0 +1,2763 @@
+[
+    {
+        "wikidata_id": "Q4661370",
+        "name": "Aalborg Business College",
+        "short_name": null,
+        "official_website": "http:\/\/www.ah.dk",
+        "aliases": null,
+        "latitude": 57.0534,
+        "longitude": 9.9098,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q601956",
+        "name": "Aalborg University",
+        "short_name": null,
+        "official_website": "https:\/\/www.aau.dk",
+        "aliases": [
+            "AAU",
+            "University of Aalborg"
+        ],
+        "latitude": 57.015,
+        "longitude": 9.985,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12300291",
+        "name": "Aalborg University Copenhagen",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 55.65069,
+        "longitude": 12.54261,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318431",
+        "name": "Aalborg University Department of Computer Science",
+        "short_name": null,
+        "official_website": "https:\/\/www.cs.aau.dk\/",
+        "aliases": [
+            "AAU Department of Computer Science",
+            "Department of Computer Science at Aalborg University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318430",
+        "name": "Aalborg University Department of the Build Environment",
+        "short_name": null,
+        "official_website": "https:\/\/www.build.aau.dk\/",
+        "aliases": [
+            "Department of the Built Environment"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q27991324",
+        "name": "Aalborg University Library",
+        "short_name": null,
+        "official_website": "http:\/\/www.aau.dk",
+        "aliases": null,
+        "latitude": 57.0140538,
+        "longitude": 9.9818668,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q112085379",
+        "name": "Aarhus Institute of Advanced Studies, Aarhus Universitet",
+        "short_name": null,
+        "official_website": "https:\/\/aias.au.dk\/",
+        "aliases": [
+            "AIAS",
+            "Aarhus Institute of Advanced Studies",
+            "AIAS, AU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q924265",
+        "name": "Aarhus University",
+        "short_name": null,
+        "official_website": "https:\/\/www.au.dk\/",
+        "aliases": [
+            "AU",
+            "Aarhus Universitet",
+            "au.dk",
+            "international.au.dk"
+        ],
+        "latitude": 56.1705556,
+        "longitude": 10.2011111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136544264",
+        "name": "Aarhus University Department of Biological and Chemical Engineering",
+        "short_name": null,
+        "official_website": "https:\/\/bce.au.dk\/",
+        "aliases": [
+            "Department of Biological and Chemical Engineering"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q120736703",
+        "name": "Aarhus University Department of Economics and Business Economics",
+        "short_name": null,
+        "official_website": "https:\/\/econ.au.dk\/",
+        "aliases": [
+            "Department of Economics and Business Economics",
+            "Institut for Økonomi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318454",
+        "name": "Aarhus University Department of Mathematics",
+        "short_name": null,
+        "official_website": "https:\/\/math.au.dk\/",
+        "aliases": [
+            "Department of Mathematics"
+        ],
+        "latitude": 56.1667,
+        "longitude": 10.2003,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318435",
+        "name": "Aarhus University Department of Philosophy and the History of Ideas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318465",
+        "name": "Aarhus University Department of Political Science",
+        "short_name": null,
+        "official_website": "http:\/\/www.ps.au.dk\/",
+        "aliases": [
+            "Department of Political Science Aarhus University"
+        ],
+        "latitude": 56.1701,
+        "longitude": 10.204,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12332542",
+        "name": "Aarhus University Department of Psychology and Behavioral Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/psy.au.dk\/",
+        "aliases": [
+            "Department of Psychology and Behavioural Sciences",
+            "Psykologisk Institut"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74645709",
+        "name": "Aarhus University Department of Public Health",
+        "short_name": null,
+        "official_website": "https:\/\/ph.au.dk\/en\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27991326",
+        "name": "Aarhus University Library",
+        "short_name": null,
+        "official_website": "http:\/\/www.au.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3482369",
+        "name": "Arnamagnæan Institute",
+        "short_name": null,
+        "official_website": "https:\/\/nors.ku.dk\/english\/research\/arnamagnaean\/",
+        "aliases": null,
+        "latitude": 55.6627,
+        "longitude": 12.5925,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4820756",
+        "name": "August Krogh Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 55.7013,
+        "longitude": 12.558,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q864831",
+        "name": "Biotech Research and Innovation Centre",
+        "short_name": null,
+        "official_website": "https:\/\/www.bric.ku.dk\/",
+        "aliases": [
+            "BRIC"
+        ],
+        "latitude": 55.6992,
+        "longitude": 12.5569,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16323496",
+        "name": "Business Academy Aarhus",
+        "short_name": null,
+        "official_website": "http:\/\/www.baaa.dk\/",
+        "aliases": [
+            "Business Academy Aarhus, School of Applied Sciences"
+        ],
+        "latitude": 56.119557,
+        "longitude": 10.158814,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12304984",
+        "name": "Centre for Alternative Social Analysis",
+        "short_name": null,
+        "official_website": "https:\/\/casa-analyse.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q67486865",
+        "name": "Coordination for Gender Research",
+        "short_name": null,
+        "official_website": "https:\/\/koensforskning.soc.ku.dk",
+        "aliases": [
+            "Koordinationen for Kønsforskning"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q703620",
+        "name": "Copenhagen Business School",
+        "short_name": null,
+        "official_website": "https:\/\/www.cbs.dk\/",
+        "aliases": null,
+        "latitude": 55.681625,
+        "longitude": 12.5297333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136309169",
+        "name": "Copenhagen Business School Department of Business Humanities and Law",
+        "short_name": null,
+        "official_website": "https:\/\/www.cbs.dk\/en\/research\/departments-and-centres\/department-of-business-humanities-and-law",
+        "aliases": [
+            "CBS Department of Business Humanities and Law",
+            "Department of Business Humanities and Law at CBS",
+            "Department of Business Humanities and Law at Copenhagen Business School"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136992509",
+        "name": "Copenhagen Business School Department of Organization",
+        "short_name": null,
+        "official_website": "https:\/\/www.cbs.dk\/forskning\/institutter-centre\/institut-organisation",
+        "aliases": [
+            "CBS Department of Organization"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27991327",
+        "name": "Copenhagen Business School Library",
+        "short_name": null,
+        "official_website": "http:\/\/www.cbs.dk\/en\/library",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5168477",
+        "name": "Copenhagen Institute of Interaction Design",
+        "short_name": null,
+        "official_website": "http:\/\/ciid.dk\/",
+        "aliases": [
+            "CIID"
+        ],
+        "latitude": 55.6825,
+        "longitude": 12.5932,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123906285",
+        "name": "Copenhagen Research Centre for Mental Health",
+        "short_name": null,
+        "official_website": "https:\/\/www.psykiatri-regionh.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q107214958",
+        "name": "Danish Atomic Energy Commission Research Establishment Risø",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12336891",
+        "name": "Danish Building Research Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q112085339",
+        "name": "Danish Cancer Society Research Center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Epicure",
+            "DCRC",
+            "The Danish Cancer Society Research Center",
+            "THE EPICURE FOUNDATION INC."
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5219708",
+        "name": "Danish Defence Research Establishment",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Defence Research Establishment",
+            "FOFT"
+        ],
+        "latitude": 55.7178,
+        "longitude": 12.5729,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3359362",
+        "name": "Danish Design School",
+        "short_name": null,
+        "official_website": "https:\/\/kadk.dk\/",
+        "aliases": [
+            "The Royal Danish Academy – School of Design"
+        ],
+        "latitude": 55.6832,
+        "longitude": 12.6043,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12307561",
+        "name": "Danish Health Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q55265151",
+        "name": "Danish Institute for Advanced Study",
+        "short_name": null,
+        "official_website": "https:\/\/danish-ias.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5219738",
+        "name": "Danish Institute for International Studies",
+        "short_name": null,
+        "official_website": "https:\/\/www.diis.dk",
+        "aliases": [
+            "DIIS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q136688990",
+        "name": "Danish Institute for Non-Formal Education",
+        "short_name": null,
+        "official_website": "https:\/\/www.vifo.dk\/",
+        "aliases": [
+            "The Danish Institute for Non-Formal Education"
+        ],
+        "latitude": 56.1538087,
+        "longitude": 10.2030064,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q136689075",
+        "name": "Danish Institute for Sports Studies",
+        "short_name": null,
+        "official_website": "https:\/\/www.idan.dk\/",
+        "aliases": null,
+        "latitude": 56.1538146,
+        "longitude": 10.2029959,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q61931391",
+        "name": "Danish Institute for Study Abroad",
+        "short_name": null,
+        "official_website": "https:\/\/disabroad.org\/",
+        "aliases": [
+            "DIS"
+        ],
+        "latitude": 55.67781,
+        "longitude": 12.57086,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q55235300",
+        "name": "Danish Meat Research Institute",
+        "short_name": "DMRI",
+        "official_website": "https:\/\/www.teknologisk.dk\/danish-meat-research-institute\/27239",
+        "aliases": [
+            "DMRI"
+        ],
+        "latitude": 55.65777,
+        "longitude": 12.275,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25038020",
+        "name": "Danish Meat Trade College",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucr.dk\/",
+        "aliases": null,
+        "latitude": 55.6280556,
+        "longitude": 12.0777779,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12318469",
+        "name": "Danish School of Education",
+        "short_name": null,
+        "official_website": "https:\/\/dpu.au.dk\/",
+        "aliases": null,
+        "latitude": 55.72151,
+        "longitude": 12.54254,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74536373",
+        "name": "Danish Teacher Education Jointly",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12338885",
+        "name": "Danish Technological Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.teknologisk.dk\/",
+        "aliases": [
+            "Teknologisk Institut"
+        ],
+        "latitude": 55.6588,
+        "longitude": 12.2721,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q120737619",
+        "name": "Danmarks geologiske undersøgelse",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q114669961",
+        "name": "Danmarks Tekniske Højskole",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "DTH"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12308556",
+        "name": "Deaconal Folk High School",
+        "short_name": null,
+        "official_website": "http:\/\/www.diakonhojskolen.dk\/",
+        "aliases": null,
+        "latitude": 56.1103,
+        "longitude": 10.2028,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12308058",
+        "name": "Den Grafiske Højskole",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 55.7228,
+        "longitude": 12.5422,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q114702522",
+        "name": "Den Polytekniske Læreanstalt",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Den Polytekniske Laereanstalt"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q43849579",
+        "name": "Department of Agroecology and Environment, University of Aarhus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Department of Agroecology and Environment"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q43851214",
+        "name": "Department of Agroecology, Aarhus University",
+        "short_name": null,
+        "official_website": "http:\/\/agro.au.dk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65621307",
+        "name": "Department of Animal and Veterinary Sciences, Aarhus University",
+        "short_name": null,
+        "official_website": "http:\/\/anis.au.dk\/",
+        "aliases": [
+            "Department of Animal Science",
+            "Institut for Husdyrvidenskab"
+        ],
+        "latitude": 56.48829,
+        "longitude": 9.58324,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318428",
+        "name": "Department of Biochemistry and Molecular Biology",
+        "short_name": null,
+        "official_website": "https:\/\/www.sdu.dk\/en\/om_sdu\/institutter_centre\/bmb_biokemi_og_molekylaer_biologi",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12303490",
+        "name": "Department of Biology, University of Southern Denmark",
+        "short_name": null,
+        "official_website": "https:\/\/www.sdu.dk\/da\/om_sdu\/institutter_centre\/i_biologi",
+        "aliases": [
+            "Biologisk Institut, Syddansk Universitet",
+            "Department of Biology"
+        ],
+        "latitude": 55.3683,
+        "longitude": 10.4277,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21014517",
+        "name": "Department of Biomedicine",
+        "short_name": null,
+        "official_website": "https:\/\/biomed.au.dk\/",
+        "aliases": [
+            "Aarhus University Department of Biomedicine"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102071164",
+        "name": "Department of Bioscience, Aarhus University",
+        "short_name": null,
+        "official_website": "https:\/\/bios.au.dk\/",
+        "aliases": [
+            "Aarhus University Department of Bioscience"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4655017",
+        "name": "Department of Business Development and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/btech.au.dk\/en\/",
+        "aliases": [
+            "Aarhus University Herning"
+        ],
+        "latitude": 56.1294444,
+        "longitude": 9.0275,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318445",
+        "name": "Department of Chemistry",
+        "short_name": null,
+        "official_website": "http:\/\/www.kemi.dtu.dk\/",
+        "aliases": [
+            "DTU Chemistry"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108660951",
+        "name": "Department of Chemistry",
+        "short_name": null,
+        "official_website": "https:\/\/chem.au.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318447",
+        "name": "Department of Chemistry and Bioscience",
+        "short_name": null,
+        "official_website": "https:\/\/www.bio.aau.dk\/",
+        "aliases": [
+            "Aalborg University Department of Chemistry and Bioscience"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q120732651",
+        "name": "Department of Civil and Architectural Engineering",
+        "short_name": null,
+        "official_website": "https:\/\/cae.au.dk\/",
+        "aliases": [
+            "CAE",
+            "Institut for Byggeri og Bygningsdesign"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q45133912",
+        "name": "Department of Clinical Medicine, Aarhus University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113303295",
+        "name": "Department of Clinical Research",
+        "short_name": null,
+        "official_website": "https:\/\/www.sdu.dk\/da\/om_sdu\/institutter_centre\/klinisk_institut",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22086003",
+        "name": "Department of Communication and Arts",
+        "short_name": null,
+        "official_website": "https:\/\/ruc.dk\/institut-kommunikation-og-humanistisk-videnskab",
+        "aliases": [
+            "Department of Communication and Arts, Roskilde University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318432",
+        "name": "Department of Computer Science, Aarhus University",
+        "short_name": null,
+        "official_website": "http:\/\/cs.au.dk\/",
+        "aliases": [
+            "Department of Computer Science, AU"
+        ],
+        "latitude": 56.1719,
+        "longitude": 10.1886,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122582821",
+        "name": "Department of Culture and Language, University of Southern Denmark",
+        "short_name": null,
+        "official_website": "https:\/\/portal.findresearcher.sdu.dk\/da\/organisations\/institut-for-kultur-og-sprogvidenskaber",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318448",
+        "name": "Department of Culture and Learning",
+        "short_name": null,
+        "official_website": "http:\/\/www.cgs.aau.dk\/",
+        "aliases": [
+            "Department of Cultural and Global Studies"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74645738",
+        "name": "Department of Dentistry and Oral Health, Aarhus University",
+        "short_name": null,
+        "official_website": "https:\/\/dent.au.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113626547",
+        "name": "Department of Ecoscience",
+        "short_name": null,
+        "official_website": "https:\/\/ecos.au.dk",
+        "aliases": [
+            "Aarhus University Department of Ecoscience"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16323430",
+        "name": "Department of Energy Conversion and Storage, Technical University of Denmark",
+        "short_name": null,
+        "official_website": "http:\/\/www.energy.dtu.dk\/",
+        "aliases": [
+            "DTU Energy"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q45133964",
+        "name": "Department of Environmental Engineering, Technical University of Denmark",
+        "short_name": "DTU Environment",
+        "official_website": "http:\/\/www.env.dtu.dk\/",
+        "aliases": [
+            "DTU Environment",
+            "DTU Miljø"
+        ],
+        "latitude": 55.78853,
+        "longitude": 12.52582,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q114776618",
+        "name": "Department of Environmental Science, Aarhus University",
+        "short_name": null,
+        "official_website": "https:\/\/envs.au.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318442",
+        "name": "Department of Geoscience",
+        "short_name": null,
+        "official_website": "https:\/\/geo.au.dk\/",
+        "aliases": null,
+        "latitude": 56.1632,
+        "longitude": 10.2097,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12313659",
+        "name": "Department of Geoscience",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318440",
+        "name": "Department of Geosciences and Natural Resource Management",
+        "short_name": null,
+        "official_website": "https:\/\/ign.ku.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5260350",
+        "name": "Department of Informatics and Mathematical Modelling, Technical University of Denmark",
+        "short_name": null,
+        "official_website": "http:\/\/www.imm.dtu.dk",
+        "aliases": [
+            "IMM"
+        ],
+        "latitude": 55.7821,
+        "longitude": 12.5181,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4583570",
+        "name": "Department of Information Studies",
+        "short_name": null,
+        "official_website": "https:\/\/informationstudies.ku.dk\/",
+        "aliases": [
+            "Royal School of Library and Information Science",
+            "The Royal School of Library and Information Science"
+        ],
+        "latitude": 55.6628483,
+        "longitude": 12.5893772,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q59815515",
+        "name": "Department of Language and Communication",
+        "short_name": null,
+        "official_website": "https:\/\/www.sdu.dk\/da\/om_sdu\/institutter_centre\/isk",
+        "aliases": [
+            "Institut for Sprog og Kommunikation",
+            "The Department of Language and Communication"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105317796",
+        "name": "Department of Law",
+        "short_name": null,
+        "official_website": "https:\/\/www.sdu.dk\/da\/om_sdu\/institutter_centre\/juridisk+institut",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12320600",
+        "name": "Department of Law",
+        "short_name": null,
+        "official_website": "https:\/\/law.au.dk\/",
+        "aliases": null,
+        "latitude": 56.17,
+        "longitude": 10.2031,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12320599",
+        "name": "Department of Law",
+        "short_name": null,
+        "official_website": "http:\/\/www.law.aau.dk\/",
+        "aliases": [
+            "Aalborg University Department of Law",
+            "AAU Department of Law"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112896895",
+        "name": "Department of Management, Politics and Philosophy",
+        "short_name": null,
+        "official_website": "https:\/\/www.cbs.dk\/forskning\/institutter-centre\/institut-ledelse-politik-filosofi",
+        "aliases": [
+            "MPP"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q110664162",
+        "name": "Department of Marketing, Copenhagen Business School",
+        "short_name": null,
+        "official_website": "https:\/\/www.cbs.dk\/forskning\/institutter-centre\/institut-afsaetningsoekonomi",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q56479508",
+        "name": "Department of Neuroscience and Pharmacology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12329168",
+        "name": "Department of Nordic Research",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318437",
+        "name": "Department of Physics and Astronomy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Aarhus University Department of Physics and Astronomy"
+        ],
+        "latitude": 56.1672,
+        "longitude": 10.1989,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318459",
+        "name": "Department of Planning, Aalborg University",
+        "short_name": null,
+        "official_website": "https:\/\/www.plan.aau.dk\/",
+        "aliases": [
+            "Department of Planning",
+            "Institut for Planlægning"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q112896052",
+        "name": "Department of Political Science and Public Management",
+        "short_name": null,
+        "official_website": "https:\/\/www.sdu.dk\/da\/om_sdu\/institutter_centre\/i_statskundskab",
+        "aliases": [
+            "Institut for Statskundskab"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318466",
+        "name": "Department of Politics and Society",
+        "short_name": null,
+        "official_website": "https:\/\/www.politik-samfund.aau.dk\/",
+        "aliases": [
+            "Institut for Statskundskab",
+            "Institut for Politik og Samfund"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113563475",
+        "name": "Department of Psychology, University of Southern Denmark",
+        "short_name": null,
+        "official_website": "https:\/\/www.sdu.dk\/da\/om_sdu\/institutter_centre\/institut_psykologi",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22086007",
+        "name": "Department of Social Sciences and Business",
+        "short_name": null,
+        "official_website": "https:\/\/ruc.dk\/institut-samfundsvidenskab-og-erhverv",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5260501",
+        "name": "Department of Systems Biology",
+        "short_name": null,
+        "official_website": "http:\/\/www.bio.dtu.dk\/",
+        "aliases": null,
+        "latitude": 55.788,
+        "longitude": 12.5209,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q56050549",
+        "name": "Department of Wind Energy, Technical University of Denmark",
+        "short_name": null,
+        "official_website": "http:\/\/www.vindenergi.dtu.dk\/",
+        "aliases": [
+            "DTU Wind Energy"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5264458",
+        "name": "Design School Kolding",
+        "short_name": null,
+        "official_website": "https:\/\/www.designskolenkolding.dk\/",
+        "aliases": [
+            "Art and Craft School Kolding"
+        ],
+        "latitude": 55.4862,
+        "longitude": 9.4803,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74549114",
+        "name": "DJØF Publishing, Nordic Tax Research Council",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12306971",
+        "name": "DTU Aqua",
+        "short_name": null,
+        "official_website": "http:\/\/www.aqua.dtu.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108626403",
+        "name": "DTU Bioengineering",
+        "short_name": null,
+        "official_website": "https:\/\/www.bioengineering.dtu.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q105503209",
+        "name": "DTU Chemical Engineering",
+        "short_name": null,
+        "official_website": "https:\/\/www.kt.dtu.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q23048689",
+        "name": "DTU Compute",
+        "short_name": null,
+        "official_website": "https:\/\/www.compute.dtu.dk",
+        "aliases": [
+            "Department of Applied Mathematics and Computer Science",
+            "Department of Applied Mathematics and Computer Science, Technical University of Denmark",
+            "Technical University of Denmark, Department of Applied Mathematics and Computer Science",
+            "Technical University of Denmark, Department of Applied Mathematics and Computer Science, Richard Petersens Plads, Building 324, 2800 Kongens Lyngby, Denmark"
+        ],
+        "latitude": 55.78385,
+        "longitude": 12.51856,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12306972",
+        "name": "DTU Electrical Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/www.elektro.dtu.dk\/",
+        "aliases": [
+            "Department of Electrical Engineering, Technical University of Denmark",
+            "DTU Elektro"
+        ],
+        "latitude": 55.7821,
+        "longitude": 12.51664,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5206258",
+        "name": "DTU Fotonik, Department of Photonics Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/www.fotonik.dtu.dk\/",
+        "aliases": null,
+        "latitude": 55.78167,
+        "longitude": 12.5174,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12305589",
+        "name": "DTU Health Tech",
+        "short_name": null,
+        "official_website": "https:\/\/www.healthtech.dtu.dk\/",
+        "aliases": [
+            "Center for Biological Sequence Analysis"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q59853317",
+        "name": "DTU Health Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "DTU Sundhedsteknologi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q41768981",
+        "name": "DTU Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.man.dtu.dk\/",
+        "aliases": [
+            "DTU Management Engineering"
+        ],
+        "latitude": 55.78039,
+        "longitude": 12.51968,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5206254",
+        "name": "DTU Nanotech",
+        "short_name": null,
+        "official_website": "https:\/\/www.nanotech.dtu.dk",
+        "aliases": [
+            "Department of Micro and Nanotechnology",
+            "Department of Micro- and Nanotechnology"
+        ],
+        "latitude": 55.78154,
+        "longitude": 12.518,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q56676160",
+        "name": "DTU Physics",
+        "short_name": null,
+        "official_website": "https:\/\/www.fysik.dtu.dk\/",
+        "aliases": [
+            "Department of Physics"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2570097",
+        "name": "DTU Space",
+        "short_name": null,
+        "official_website": "http:\/\/www.space.dtu.dk\/",
+        "aliases": [
+            "National Space Institute",
+            "National Space Institute at the Technical University of Denmark"
+        ],
+        "latitude": 55.783,
+        "longitude": 12.517,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q24590426",
+        "name": "DTU Vet",
+        "short_name": null,
+        "official_website": "http:\/\/www.vet.dtu.dk\/english",
+        "aliases": [
+            "National Veterinary Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100272823",
+        "name": "Døckers Kurs",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12336121",
+        "name": "Esbjerg Sløjdhøjskole",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 55.4883,
+        "longitude": 8.48903,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5412483",
+        "name": "European Cross Media Academy",
+        "short_name": null,
+        "official_website": "http:\/\/eucroma.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q11969398",
+        "name": "Folkeuniversitetet",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74554363",
+        "name": "Geoforum Danmark",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4993674",
+        "name": "Geological Survey of Denmark and Greenland",
+        "short_name": null,
+        "official_website": "http:\/\/www.geus.dk",
+        "aliases": [
+            "Danmarks og Grønlands Geologiske Undersøgelse",
+            "GEUS"
+        ],
+        "latitude": 55.6885,
+        "longitude": 12.5818,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12310624",
+        "name": "Greenlandic and Arctic Studies",
+        "short_name": null,
+        "official_website": "https:\/\/studier.ku.dk\/bachelor\/groenlandske-og-arktiske-studier\/",
+        "aliases": [
+            "arctic studies",
+            "Eskimo and Arctic Studies",
+            "greenland studies",
+            "greenlandic studies"
+        ],
+        "latitude": 55.6772,
+        "longitude": 12.5972,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116272482",
+        "name": "H.C. Ørsted Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "H. C. Ørsted Institute",
+            "H.C. Orsted Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5971576",
+        "name": "IKE Group",
+        "short_name": null,
+        "official_website": "http:\/\/www.business.aau.dk\/ike",
+        "aliases": null,
+        "latitude": 57.0176,
+        "longitude": 9.97803,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20058340",
+        "name": "Institut for Byggeri og Anlæg",
+        "short_name": null,
+        "official_website": "https:\/\/www.byg.dtu.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318443",
+        "name": "Institut for Idræt",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 55.698,
+        "longitude": 12.5609,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318446",
+        "name": "Institut for Kommunikation og Psykologi",
+        "short_name": null,
+        "official_website": "http:\/\/www.communication.aau.dk\/",
+        "aliases": [
+            "Aalborg University Department of Communication and Psychology",
+            "communication.aau.dk"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115255904",
+        "name": "Institute of Phonetics, University of Copenhagen",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Institute of Phonetics University of Copenhagen"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124882",
+        "name": "IT University of Copenhagen",
+        "short_name": null,
+        "official_website": "https:\/\/www.itu.dk",
+        "aliases": [
+            "IT-Universitetet i København"
+        ],
+        "latitude": 55.6596,
+        "longitude": 12.5911,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4563603",
+        "name": "Kunstakademiets Arkitektskole",
+        "short_name": null,
+        "official_website": "http:\/\/www.karch.dk",
+        "aliases": null,
+        "latitude": 55.6817,
+        "longitude": 12.6039,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q39641498",
+        "name": "Mads Clausen Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.sdu.dk\/en\/mci",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6972481",
+        "name": "National Environmental Research Institute of Denmark",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q936354",
+        "name": "National Film School of Denmark",
+        "short_name": null,
+        "official_website": "http:\/\/www.filmskolen.dk",
+        "aliases": null,
+        "latitude": 55.6811,
+        "longitude": 12.6056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12306973",
+        "name": "National Food Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.food.dtu.dk",
+        "aliases": [
+            "Fødevareinstituttet",
+            "The National Food Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7064961",
+        "name": "Novo Nordisk Foundation Center for Protein Research",
+        "short_name": null,
+        "official_website": "http:\/\/www.cpr.ku.dk\/",
+        "aliases": [
+            "Center for Protein Research",
+            "NNF Center for Protein Research"
+        ],
+        "latitude": 55.6797222,
+        "longitude": 12.5725,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3436286",
+        "name": "Odense University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Odense Universitet"
+        ],
+        "latitude": 55.3692333,
+        "longitude": 10.4288139,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q117298756",
+        "name": "Q117298756",
+        "short_name": null,
+        "official_website": "https:\/\/www.cefu.dk\/",
+        "aliases": null,
+        "latitude": 55.6503745,
+        "longitude": 12.5431764,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12309281",
+        "name": "Q12309281",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 55.4916,
+        "longitude": 8.45646,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12313656",
+        "name": "Q12313656",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12317199",
+        "name": "Q12317199",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 55.1828,
+        "longitude": 9.45921,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318091",
+        "name": "Q12318091",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12318425",
+        "name": "Q12318425",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318426",
+        "name": "Q12318426",
+        "short_name": null,
+        "official_website": "http:\/\/www.create.aau.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318433",
+        "name": "Q12318433",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318434",
+        "name": "Q12318434",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318438",
+        "name": "Q12318438",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318441",
+        "name": "Q12318441",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318444",
+        "name": "Q12318444",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318452",
+        "name": "Q12318452",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318455",
+        "name": "Q12318455",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318456",
+        "name": "Q12318456",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318457",
+        "name": "Q12318457",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318462",
+        "name": "Q12318462",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318463",
+        "name": "Q12318463",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318468",
+        "name": "Q12318468",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318470",
+        "name": "Q12318470",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318471",
+        "name": "Q12318471",
+        "short_name": null,
+        "official_website": "http:\/\/www.business.aau.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12322150",
+        "name": "Q12322150",
+        "short_name": null,
+        "official_website": "https:\/\/www.klinisk.aau.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12329174",
+        "name": "Q12329174",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12338081",
+        "name": "Q12338081",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 54.9129,
+        "longitude": 9.77951,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123906242",
+        "name": "Q123906242",
+        "short_name": null,
+        "official_website": "https:\/\/drisp.dk\/",
+        "aliases": null,
+        "latitude": 55.7389799,
+        "longitude": 12.5441557,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q127152712",
+        "name": "Q127152712",
+        "short_name": null,
+        "official_website": "https:\/\/www.imb.dk\/",
+        "aliases": null,
+        "latitude": 55.64346,
+        "longitude": 9.65194,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q127153150",
+        "name": "Q127153150",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q127160461",
+        "name": "Q127160461",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 55.61874,
+        "longitude": 12.62857,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q129840357",
+        "name": "Q129840357",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135428381",
+        "name": "Q135428381",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136089373",
+        "name": "Q136089373",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 55.91519,
+        "longitude": 12.28725,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q136689020",
+        "name": "Q136689020",
+        "short_name": null,
+        "official_website": "http:\/\/www.ihe.life.ku.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137734567",
+        "name": "Q137734567",
+        "short_name": null,
+        "official_website": "https:\/\/www.fak.dk\/da\/forskning-og-udvikling\/institut-for-strategi-og-krigsstudier\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q138331031",
+        "name": "Q138331031",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1529304",
+        "name": "Q1529304",
+        "short_name": null,
+        "official_website": "http:\/\/www.glasogkeramikskolen.dk\/",
+        "aliases": null,
+        "latitude": 55.0741444,
+        "longitude": 15.1417417,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19978916",
+        "name": "Q19978916",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20756644",
+        "name": "Q20756644",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22086004",
+        "name": "Q22086004",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22086006",
+        "name": "Q22086006",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q63303652",
+        "name": "Q63303652",
+        "short_name": null,
+        "official_website": "https:\/\/mef.ku.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2118480",
+        "name": "Risø DTU National Laboratory for Sustainable Energy",
+        "short_name": null,
+        "official_website": "http:\/\/www.risoe.dtu.dk",
+        "aliases": null,
+        "latitude": 55.6925,
+        "longitude": 12.1029,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q64513943",
+        "name": "Rockefeller Instituttet",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 55.6978,
+        "longitude": 12.5628,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1542386",
+        "name": "Roskilde University",
+        "short_name": null,
+        "official_website": "https:\/\/ruc.dk\/",
+        "aliases": [
+            "Roskilde Universitet"
+        ],
+        "latitude": 55.6538889,
+        "longitude": 12.1411111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21107598",
+        "name": "Roskilde University Library",
+        "short_name": null,
+        "official_website": "https:\/\/ruc.dk\/roskilde-universitetsbibliotek",
+        "aliases": [
+            "Roskilde Universitetsbibliotek"
+        ],
+        "latitude": 55.652912,
+        "longitude": 12.143393,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530578",
+        "name": "Royal Danish Defence College; Norwegian Defence University College; Centre for Military Studies, University of Copenhagen; Swedish Centre for Studies of Armed Forces and Society",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12334021",
+        "name": "Rybners Gymnasium",
+        "short_name": null,
+        "official_website": "https:\/\/www.rybners.dk\/",
+        "aliases": null,
+        "latitude": 55.4801,
+        "longitude": 8.4342,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137859760",
+        "name": "Rybners Spangsbjerg Møllevej",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Rybners - HF - Spangsbjerg Møllevej"
+        ],
+        "latitude": 55.492878,
+        "longitude": 8.457348,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12334702",
+        "name": "Saxo Institute",
+        "short_name": null,
+        "official_website": "https:\/\/saxo.ku.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q56418036",
+        "name": "School of Communication and Culture",
+        "short_name": null,
+        "official_website": "http:\/\/cc.au.dk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18085282",
+        "name": "SDU Kolding",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 55.4870306,
+        "longitude": 9.4826995,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2267483",
+        "name": "Selandia - Center for Business Education",
+        "short_name": null,
+        "official_website": "http:\/\/www.sceu.dk\/",
+        "aliases": null,
+        "latitude": 55.4037104,
+        "longitude": 11.3364991,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116136207",
+        "name": "Southern University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "SDU",
+            "SDU Esbjerg"
+        ],
+        "latitude": 55.4821566,
+        "longitude": 8.4860498,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3378353",
+        "name": "Statens Serum Institut",
+        "short_name": null,
+        "official_website": "https:\/\/www.ssi.dk\/",
+        "aliases": [
+            "State Serum Institute"
+        ],
+        "latitude": 55.666,
+        "longitude": 12.591,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1269766",
+        "name": "Technical University of Denmark",
+        "short_name": null,
+        "official_website": "http:\/\/www.dtu.dk",
+        "aliases": [
+            "DTU",
+            "Danish Technical University",
+            "Danmarks Tekniske Universitet"
+        ],
+        "latitude": 55.786155,
+        "longitude": 12.5233587,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7692310",
+        "name": "Technical University of Denmark Department of Mathematics",
+        "short_name": null,
+        "official_website": "http:\/\/www.mat.dtu.dk",
+        "aliases": null,
+        "latitude": 55.785,
+        "longitude": 12.52,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12334267",
+        "name": "The Danish Center for Social Science Research",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "VIVE",
+            "Danish Institute for Local and Regional Government Research",
+            "Danish National Centre for Social Research",
+            "Det Nationale Forsknings- Og Analysecenter For Velfærd"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q105720148",
+        "name": "The Danish National Centre of Psychotraumatology",
+        "short_name": null,
+        "official_website": "https:\/\/www.sdu.dk\/da\/forskning\/videnscenter_for_psykotraumatologi",
+        "aliases": [
+            "The National Center of Psychotraumatology",
+            "Videnscenter for Psykotraumatologi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q116924540",
+        "name": "The Danish Research Centre for Manorial Studies",
+        "short_name": null,
+        "official_website": "https:\/\/herregaardsforskning.dk",
+        "aliases": [
+            "DCH",
+            "Danish Research Centre for Manorial Studies"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10416919",
+        "name": "The Economic Council of the Labour Movement",
+        "short_name": null,
+        "official_website": "http:\/\/www.ae.dk",
+        "aliases": [
+            "ECLM",
+            "The Danish Economic Council of the Labour Movement"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12333655",
+        "name": "The Rockwool Foundation Research Unit",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q136400003",
+        "name": "The Royal Danish Defence College Institute for Leadership and Organization",
+        "short_name": null,
+        "official_website": "https:\/\/www.fak.dk\/da\/forskning-og-udvikling\/institut-for-ledelse-og-organisation\/",
+        "aliases": [
+            "Royal Danish Defence College Department of Leadership and Organization",
+            "Royal Danish Defence College Institute for Leadership and Organization",
+            "The Royal Danish Defence College Department for Leadership and Organization",
+            "The Royal Danish Defence College Department of Leadership and Organization"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12306975",
+        "name": "Transport DTU",
+        "short_name": null,
+        "official_website": "http:\/\/www.transport.dtu.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116135516",
+        "name": "UC South",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 55.4836975,
+        "longitude": 8.48589,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27991325",
+        "name": "UC Viden\/ Danish University Colleges",
+        "short_name": null,
+        "official_website": "https:\/\/www.ucviden.dk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q119796354",
+        "name": "UNEP Copenhagen Climate Centre",
+        "short_name": null,
+        "official_website": "https:\/\/unepccc.org\/",
+        "aliases": [
+            "UDP",
+            "Copenhagen Climate Centre",
+            "UNEP DTU Partnership",
+            "UNEP-CCC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7894635",
+        "name": "University College Absalon",
+        "short_name": null,
+        "official_website": "https:\/\/en.phabsalon.dk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894617",
+        "name": "University College Capital",
+        "short_name": null,
+        "official_website": "http:\/\/ucc.dk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894627",
+        "name": "University College Lillebaelt",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucl.dk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894659",
+        "name": "University College of Northern Denmark",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucn.dk\/",
+        "aliases": null,
+        "latitude": 57.458408,
+        "longitude": 10.0000427,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7894638",
+        "name": "University College South Denmark",
+        "short_name": null,
+        "official_website": "https:\/\/www.ucsyd.dk",
+        "aliases": [
+            "University College Syddanmark"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113472540",
+        "name": "University of Copenhagen Department of Anthropology",
+        "short_name": null,
+        "official_website": "https:\/\/antropologi.ku.dk\/",
+        "aliases": null,
+        "latitude": 55.6880523,
+        "longitude": 12.5688513,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318451",
+        "name": "University of Copenhagen Department of Arts and Cultural Studies",
+        "short_name": null,
+        "official_website": "https:\/\/artsandculturalstudies.ku.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q114774317",
+        "name": "University of Copenhagen Department of Biology",
+        "short_name": null,
+        "official_website": "https:\/\/www1.bio.ku.dk\/",
+        "aliases": [
+            "Department of Biology, University of Copenhagen"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124216464",
+        "name": "University of Copenhagen Department of Biomedical Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/bmi.ku.dk\/",
+        "aliases": [
+            "Copenhagen University Department of Biomedical Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125463918",
+        "name": "University of Copenhagen Department of Cellular and Molecular Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116878122",
+        "name": "University of Copenhagen Department of Chemistry",
+        "short_name": null,
+        "official_website": "https:\/\/www.ki.ku.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42103576",
+        "name": "University of Copenhagen Department of Clinical Medicine",
+        "short_name": null,
+        "official_website": "http:\/\/ikm.ku.dk\/",
+        "aliases": [
+            "Department of Clinical Medicine",
+            "Department of Clinical Medicine, University of Copenhagen",
+            "Institut for Klinisk Medicin, Københavns Universitet"
+        ],
+        "latitude": 55.69368,
+        "longitude": 12.56422,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104866012",
+        "name": "University of Copenhagen Department of Communication",
+        "short_name": null,
+        "official_website": "https:\/\/comm.ku.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5260205",
+        "name": "University of Copenhagen Department of Computer Science",
+        "short_name": null,
+        "official_website": "http:\/\/diku.dk\/",
+        "aliases": [
+            "DIKU",
+            "UCPH Department of Computer Science",
+            "University of Copenhagen, Department of Computer Science"
+        ],
+        "latitude": 55.7019444,
+        "longitude": 12.5611111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21014518",
+        "name": "University of Copenhagen Department of Cross-Cultural and Regional Studies",
+        "short_name": null,
+        "official_website": "https:\/\/tors.ku.dk\/",
+        "aliases": null,
+        "latitude": 55.66308,
+        "longitude": 12.58826,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125463945",
+        "name": "University of Copenhagen Department of Drug Design and Pharmacology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Department of Drug Design and Pharmacology",
+            "UCPH  Department of Drug Design and Pharmacology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q22086078",
+        "name": "University of Copenhagen Department of Economics",
+        "short_name": null,
+        "official_website": "http:\/\/www.econ.ku.dk\/",
+        "aliases": [
+            "Department of Economics, University of Copenhagen"
+        ],
+        "latitude": 55.689017,
+        "longitude": 12.5708615,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318436",
+        "name": "University of Copenhagen Department of English, Germanic and Romance Studies",
+        "short_name": null,
+        "official_website": "https:\/\/engerom.ku.dk\/",
+        "aliases": [
+            "Department of English, Germanic and Romance Studies, University of Copenhagen"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q113432242",
+        "name": "University of Copenhagen Department of Food and Resource Economics",
+        "short_name": null,
+        "official_website": "https:\/\/ifro.ku.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125463840",
+        "name": "University of Copenhagen Department of Food Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125463973",
+        "name": "University of Copenhagen Department of Forensic Medicine",
+        "short_name": null,
+        "official_website": "https:\/\/retsmedicin.ku.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25056916",
+        "name": "University of Copenhagen Department of Geosciences and Natural Resource Management",
+        "short_name": null,
+        "official_website": "https:\/\/ign.ku.dk\/",
+        "aliases": [
+            "UCPH Department of Geosciences and Natural Resource Management"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q56604986",
+        "name": "University of Copenhagen Department of Immunology and Microbiology",
+        "short_name": null,
+        "official_website": "https:\/\/isim.ku.dk",
+        "aliases": [
+            "Institut for Immunologi og Mikrobiologi"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125463625",
+        "name": "University of Copenhagen Department of Neuroscience",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q66771580",
+        "name": "University of Copenhagen Department of Nordic Studies and Linguistics",
+        "short_name": null,
+        "official_website": "https:\/\/nors.ku.dk\/",
+        "aliases": [
+            "Department of Nordic Studies and Linguistics, University of Copenhagen"
+        ],
+        "latitude": 55.6619978,
+        "longitude": 12.5888774,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125463964",
+        "name": "University of Copenhagen Department of Odontology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115141117",
+        "name": "University of Copenhagen Department of Pharmacy",
+        "short_name": null,
+        "official_website": "https:\/\/farmaci.ku.dk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125463870",
+        "name": "University of Copenhagen Department of Plant and Environmental Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318467",
+        "name": "University of Copenhagen Department of Political Science",
+        "short_name": null,
+        "official_website": "https:\/\/politicalscience.ku.dk\/",
+        "aliases": [
+            "Institut for Statskundskab",
+            "dps ku",
+            "dps ucph",
+            "ifs ku",
+            "ifs ucph"
+        ],
+        "latitude": 55.6880552,
+        "longitude": 12.5700817,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q35230931",
+        "name": "University of Copenhagen Department of Psychology",
+        "short_name": null,
+        "official_website": "http:\/\/www.psy.ku.dk",
+        "aliases": [
+            "Department of Psychology",
+            "Department of Psychology, University of Copenhagen",
+            "Institut for Psykologi, Københavns Universitet"
+        ],
+        "latitude": 55.6862613,
+        "longitude": 12.5707577,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q42157586",
+        "name": "University of Copenhagen Department of Public Health",
+        "short_name": null,
+        "official_website": "http:\/\/publichealth.ku.dk\/",
+        "aliases": [
+            "Department of Public Health",
+            "Department of Public Health, University of Copenhagen",
+            "Institut for Folkesundhedsvidenskab",
+            "Institut for Folkesundhedsvidenskab, Københavns Universitet"
+        ],
+        "latitude": 55.6876199,
+        "longitude": 12.5678209,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q127161729",
+        "name": "University of Copenhagen Department of Science Education",
+        "short_name": null,
+        "official_website": "https:\/\/www.ind.ku.dk\/",
+        "aliases": [
+            "Department of Science Education at University of Copenhagen",
+            "UCPH Department of Science Education"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125463865",
+        "name": "University of Copenhagen Department of Science Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125463954",
+        "name": "University of Copenhagen Department of Veterinary and Animal Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125463937",
+        "name": "University of Copenhagen Department of Veterinary Clinical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125463726",
+        "name": "University of Copenhagen Globe Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895310",
+        "name": "University of Copenhagen Institute for Mathematical Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.math.ku.dk\/",
+        "aliases": [
+            "Department of Mathematical Sciences"
+        ],
+        "latitude": 55.70039,
+        "longitude": 12.5605704,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895306",
+        "name": "University of Copenhagen Institute of Exercise and Sport Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/nexs.ku.dk\/",
+        "aliases": [
+            "Department of Nutrition, Exercise and Sports",
+            "Department of Nutrition, Exercise and Sports, University of Copenhagen",
+            "NEXS",
+            "NEXS UCPH",
+            "UCPH NEXS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2166335",
+        "name": "University of Southern Denmark",
+        "short_name": null,
+        "official_website": "https:\/\/www.sdu.dk\/",
+        "aliases": [
+            "SDU",
+            "sdu.dk"
+        ],
+        "latitude": 55.3686111,
+        "longitude": 10.4280556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125463446",
+        "name": "University of Southern Denmark Department for the Study of Culture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12317925",
+        "name": "University of Southern Denmark Department of Mathematics and Computer Science",
+        "short_name": null,
+        "official_website": "http:\/\/imada.sdu.dk",
+        "aliases": [
+            "Department of Mathematics and Computer Science at University of Southern Denmark",
+            "IMADA"
+        ],
+        "latitude": 55.3676,
+        "longitude": 10.4304,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12318439",
+        "name": "University of Southern Denmark Department of Physics, Chemistry and Pharmacy",
+        "short_name": null,
+        "official_website": "https:\/\/www.sdu.dk\/da\/om_sdu\/institutter_centre\/ifk_fysik_og_kemi",
+        "aliases": [
+            "Department of Physics, Chemistry and Pharmacy"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124515044",
+        "name": "University of Southern Denmark Department of Public Health",
+        "short_name": null,
+        "official_website": "https:\/\/www.sdu.dk\/en\/om_sdu\/institutter_centre\/ist_sundhedstjenesteforsk",
+        "aliases": [
+            "Department of Public Health at University of Southern Denmark",
+            "Department of Public Health, University of Southern Denmark"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131928153",
+        "name": "University of Southern Denmark Department of Regional Health Research",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IRS",
+            "Department of Regional Health Research",
+            "IRS - Department of Regional Health Research"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136689056",
+        "name": "University of Southern Denmark The Department of Sports Science and Clinical Biomechanics",
+        "short_name": null,
+        "official_website": "https:\/\/www.sdu.dk\/da\/om-sdu\/institutter-centre\/iob_idraet_og_biomekanik",
+        "aliases": [
+            "The Department of Sports Science and Clinical Biomechanics"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q127929192",
+        "name": "UWC Denmark",
+        "short_name": null,
+        "official_website": "https:\/\/www.dk.uwc.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102036240",
+        "name": "VIA University College Bioanalytikeruddannelsen",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102036241",
+        "name": "VIA University College Ernæring og Sundhedsuddannelsen",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102036242",
+        "name": "Via University College Socialrådgiveruddannelsen i Århus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102036243",
+        "name": "VIA University College Sundhedsfaglig Hojskole",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115933358",
+        "name": "VIVE – The Danish Center for Social Science Research",
+        "short_name": null,
+        "official_website": "https:\/\/www.vive.dk\/da\/",
+        "aliases": [
+            "Danish Center for Social Science Research",
+            "The Danish Center for Social Science Research",
+            "VIVE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7985594",
+        "name": "West Jutland University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucvest.dk",
+        "aliases": null,
+        "latitude": 55.483,
+        "longitude": 8.485,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12342033",
+        "name": "Ørestad Skole",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 55.6311,
+        "longitude": 12.5816,
+        "type": "university"
+    }
+]

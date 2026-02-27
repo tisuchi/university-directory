@@ -1,0 +1,220 @@
+[
+    {
+        "wikidata_id": "Q99678207",
+        "name": "BA ISAGO University",
+        "short_name": null,
+        "official_website": "http:\/\/www.baisago.ac.bw\/",
+        "aliases": null,
+        "latitude": -24.630036,
+        "longitude": 25.89729,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4948645",
+        "name": "Botho College",
+        "short_name": null,
+        "official_website": "http:\/\/www.bothouniversity.com\/",
+        "aliases": [
+            "Botho University"
+        ],
+        "latitude": -24.684896,
+        "longitude": 25.877846,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4948875",
+        "name": "Botswana Accountancy College",
+        "short_name": null,
+        "official_website": "http:\/\/www.bac.ac.bw",
+        "aliases": [
+            "BAC",
+            "bac.ac.bw"
+        ],
+        "latitude": -24.68035,
+        "longitude": 25.9262222,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q100267066",
+        "name": "Botswana Institute for Development Policy Analysis",
+        "short_name": null,
+        "official_website": "https:\/\/bidpa.bw\/",
+        "aliases": [
+            "BIDPA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3151905",
+        "name": "Botswana Institute of Administration and Commerce",
+        "short_name": null,
+        "official_website": "http:\/\/www.biac.gov.bw\/",
+        "aliases": [
+            "BIAC"
+        ],
+        "latitude": -24.6652778,
+        "longitude": 25.9358333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2856101",
+        "name": "Botswana International University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.biust.ac.bw\/",
+        "aliases": [
+            "BIUST",
+            "biust.ac.bw"
+        ],
+        "latitude": -22.5946,
+        "longitude": 27.1233,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122382325",
+        "name": "Institute of Development Management Botswana",
+        "short_name": null,
+        "official_website": "https:\/\/www.idmbls.com",
+        "aliases": [
+            "IDM",
+            "Botswana University",
+            "idmbls.com"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q99678129",
+        "name": "Logan Business College",
+        "short_name": null,
+        "official_website": "https:\/\/www.lbc.ac.bw\/",
+        "aliases": [
+            "LBC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q99680802",
+        "name": "New Era College",
+        "short_name": null,
+        "official_website": "https:\/\/www.neweracollege.ac.bw\/",
+        "aliases": [
+            "NEC",
+            "neweracollege.ac.bw"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q132462072",
+        "name": "Palapye Technical College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -22.540308,
+        "longitude": 27.123347,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q48784175",
+        "name": "Tutume McConnell Community College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q493141",
+        "name": "University of Botswana",
+        "short_name": null,
+        "official_website": "https:\/\/www.ub.bw\/",
+        "aliases": [
+            "UB",
+            "Basco",
+            "Mmadikolo",
+            "ub.bw"
+        ],
+        "latitude": -24.6667,
+        "longitude": 25.9333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946149",
+        "name": "University of Botswana Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946151",
+        "name": "University of Botswana Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946152",
+        "name": "University of Botswana Department of Library and Information Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "DLIS UB"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946156",
+        "name": "University of Botswana Department of Medical Laboratories Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946157",
+        "name": "University of Botswana Department of Physics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100946167",
+        "name": "University of Botswana Okavango Research Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.ori.ub.bw\/connect\/get-in-touch",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q100946165",
+        "name": "University of Botswana School of Allied Health Professionals",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

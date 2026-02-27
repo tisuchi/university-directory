@@ -1,0 +1,2617 @@
+[
+    {
+        "wikidata_id": "Q4778734",
+        "name": "Aoraki Polytechnic",
+        "short_name": null,
+        "official_website": "http:\/\/www.aoraki.ac.nz\/",
+        "aliases": null,
+        "latitude": -44.3997222,
+        "longitude": 171.2469444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q24998538",
+        "name": "Ara Institute of Canterbury",
+        "short_name": null,
+        "official_website": "http:\/\/ara.ac.nz",
+        "aliases": [
+            "Ara",
+            "Ara Canterbury"
+        ],
+        "latitude": -43.538259,
+        "longitude": 172.643189,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q136971335",
+        "name": "Ararimu Valley School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.90807,
+        "longitude": 174.9032,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65090583",
+        "name": "Auckland College of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Auckland Secondary Teachers' College",
+            "Auckland Teachers College",
+            "Auckland Teachers Training College",
+            "Auckland Teachers' College",
+            "Auckland Training College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q76859469",
+        "name": "Auckland Girls Grammar School Main Block",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.857305,
+        "longitude": 174.754134,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q76859445",
+        "name": "Auckland Grammar School Main Block",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.868873,
+        "longitude": 174.7691,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19875507",
+        "name": "Auckland Institute of Studies",
+        "short_name": null,
+        "official_website": "https:\/\/www.ais.ac.nz\/",
+        "aliases": [
+            "AIS"
+        ],
+        "latitude": -36.8735722,
+        "longitude": 174.7208917,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q758659",
+        "name": "Auckland University of Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.aut.ac.nz\/",
+        "aliases": [
+            "AUT",
+            "Auckland Institute of Technology",
+            "Auckland Technical Institute",
+            "Auckland Technical School",
+            "AUT University",
+            "Seddon Memorial Technical College"
+        ],
+        "latitude": -36.8533,
+        "longitude": 174.7667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013488",
+        "name": "Auckland University of Technology School of Health Care Practice",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q76859463",
+        "name": "Augusta House",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Auckland Grammar Custodian's House",
+            "Auckland Grammar School Janitor's House (Former)"
+        ],
+        "latitude": -36.870104,
+        "longitude": 174.768479,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27991341",
+        "name": "Bay of Plenty District Health Board",
+        "short_name": null,
+        "official_website": "https:\/\/www.bopdhb.govt.nz\/",
+        "aliases": [
+            "BOPDHB"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q112085329",
+        "name": "Bio-Protection Research Centre",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q137000548",
+        "name": "Bishop's Creek Dame School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.907436,
+        "longitude": 174.903548,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q77288101",
+        "name": "Blackwater School (Former)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -42.25169,
+        "longitude": 171.770922,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q77252403",
+        "name": "Brightwater School",
+        "short_name": null,
+        "official_website": "http:\/\/www.brightwater.school.nz\/",
+        "aliases": [
+            "Brightwater Primary School"
+        ],
+        "latitude": -41.37914,
+        "longitude": 173.112957,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16256127",
+        "name": "Callaghan Innovation",
+        "short_name": null,
+        "official_website": "http:\/\/www.callaghaninnovation.govt.nz\/",
+        "aliases": null,
+        "latitude": -41.2336556,
+        "longitude": 174.9186694,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q76928167",
+        "name": "Cambridge Primary School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -37.8953,
+        "longitude": 175.46794,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5055246",
+        "name": "Cawthron Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.cawthron.org.nz\/",
+        "aliases": null,
+        "latitude": -41.271102,
+        "longitude": 173.293297,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q119796821",
+        "name": "Centre for Energy Research",
+        "short_name": null,
+        "official_website": "https:\/\/www.massey.ac.nz\/about\/colleges-schools-and-institutes\/college-of-sciences\/our-research\/research-projects-and-groups\/centre-for-energy-research\/",
+        "aliases": [
+            "Centre for Energy Research, Massey University",
+            "Te Whare Rangahau Pūngao"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q124435171",
+        "name": "Centre for Research, Evaluation, and Social Assessment",
+        "short_name": null,
+        "official_website": "https:\/\/cresa.co.nz\/",
+        "aliases": [
+            "CRESA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q77289535",
+        "name": "Charteris Bay School (Former)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -43.655791,
+        "longitude": 172.705258,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134839086",
+        "name": "Chellodene House",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.872923,
+        "longitude": 174.759157,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5108636",
+        "name": "Christ's College Big School, Christchurch",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Christ's College Big School"
+        ],
+        "latitude": -43.5302,
+        "longitude": 172.62604,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q77373942",
+        "name": "Christ's College Memorial Dining Room, Christchurch",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Christ's College Memorial Dining Room"
+        ],
+        "latitude": -43.53018,
+        "longitude": 172.62724,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q77373993",
+        "name": "Christ's College open air classrooms, Christchurch",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Christ's College open air classrooms"
+        ],
+        "latitude": -43.530495,
+        "longitude": 172.625649,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q77373985",
+        "name": "Christ's College School House, Christchurch",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Christ's College School House"
+        ],
+        "latitude": -43.529716,
+        "longitude": 172.626014,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q116264562",
+        "name": "Christchurch Heart Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.otago.ac.nz\/chch-heart-institute\/index.html",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5109087",
+        "name": "Christchurch Polytechnic Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.cpit.ac.nz\/",
+        "aliases": [
+            "Christchurch Technical College",
+            "Christchurch Technical Institute",
+            "CPIT"
+        ],
+        "latitude": -43.538259,
+        "longitude": 172.643189,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q79300849",
+        "name": "Craighead",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Heathcliffe",
+            "Craighead School House"
+        ],
+        "latitude": -44.387976,
+        "longitude": 171.225738,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5182213",
+        "name": "Cranmer Centre",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Christchurch Girls High School"
+        ],
+        "latitude": -43.5288889,
+        "longitude": 172.63,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5182214",
+        "name": "Cranmer Court",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -43.5263889,
+        "longitude": 172.6308333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27991334",
+        "name": "CRL Energy Ltd",
+        "short_name": null,
+        "official_website": "http:\/\/www.crl.co.nz",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q116039094",
+        "name": "Dairy Research Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Dairy Research Institute (New Zealand)",
+            "Fonterra Research and Development Centre",
+            "New Zealand Dairy Research Institute",
+            "NZ Dairy Research Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q123398619",
+        "name": "Defence Technology Agency",
+        "short_name": null,
+        "official_website": "https:\/\/www.dta.mil.nz",
+        "aliases": [
+            "DTA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q45135879",
+        "name": "Department of Zoology, University of Otago",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "University of Otago Zoology Department",
+            "UoO Zoo"
+        ],
+        "latitude": -45.86704,
+        "longitude": 170.50868,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131592675",
+        "name": "Dexcel",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "dairying excellence"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q134452209",
+        "name": "Durham Hall",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Open-Air Classroom",
+            "Open-Air Classroom\/Durham Hall"
+        ],
+        "latitude": -36.800311,
+        "longitude": 174.703325,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5330219",
+        "name": "Eastern Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.eit.ac.nz\/",
+        "aliases": [
+            "EIT",
+            "EIT Auckland",
+            "EIT Hawke's Bay",
+            "EIT Tairāwhiti"
+        ],
+        "latitude": -39.5468,
+        "longitude": 176.8385,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q124353826",
+        "name": "Educational Research and Development Centre",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ERDC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q79301026",
+        "name": "Eketahuna School (Former)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -40.644304,
+        "longitude": 175.704776,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74555713",
+        "name": "Flexible Learning Association of New Zealand",
+        "short_name": null,
+        "official_website": "https:\/\/flanz.org.nz",
+        "aliases": [
+            "DEANZ",
+            "FLANZ",
+            "New Zealand Association for Open, Flexible and Distance Learning"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q116909053",
+        "name": "Former Kadimah School and Auckland Hebrew Congregation building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.855598,
+        "longitude": 174.759746,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q127272273",
+        "name": "Freedom Wellbeing Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.freedom-ihe.ac.nz\/",
+        "aliases": [
+            "Freedom Institute of Higher Education"
+        ],
+        "latitude": -37.7836759,
+        "longitude": 175.2803438,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q935203",
+        "name": "GNS Science",
+        "short_name": null,
+        "official_website": "http:\/\/gns.cri.nz",
+        "aliases": [
+            "Institute of Geological and Nuclear Sciences"
+        ],
+        "latitude": -41.195565,
+        "longitude": 174.933175,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q106597310",
+        "name": "Gumtown School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Gumtown Room",
+            "Gumtown School (former)"
+        ],
+        "latitude": -36.9245,
+        "longitude": 175.6982,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q79301927",
+        "name": "Horowhenua College Main Building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -40.621032,
+        "longitude": 175.278822,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27991338",
+        "name": "Hutt Valley District Health Board",
+        "short_name": null,
+        "official_website": "http:\/\/www.huttvalleydhb.org.nz",
+        "aliases": [
+            "Hutt Valley DHB",
+            "HVDHB"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1661937",
+        "name": "Industrial Research Limited",
+        "short_name": "Industrial Research Ltd.",
+        "official_website": null,
+        "aliases": [
+            "IRL"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q133501720",
+        "name": "Infant Block, Titirangi School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Infant Block, Titirangi Primary School"
+        ],
+        "latitude": -36.937971,
+        "longitude": 174.653397,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130604658",
+        "name": "Injury Prevention Research Unit",
+        "short_name": null,
+        "official_website": "https:\/\/blogs.otago.ac.nz\/ipru\/",
+        "aliases": [
+            "IPRU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q109902606",
+        "name": "Institute of Criminology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "VUW Institute of Criminology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6052301",
+        "name": "Institute of the Pacific United",
+        "short_name": null,
+        "official_website": "https:\/\/www.ipu.ac.nz\/",
+        "aliases": null,
+        "latitude": -40.3902639,
+        "longitude": 175.6394333,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q79302096",
+        "name": "Jack's Mill School Historic Area",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -42.546172,
+        "longitude": 171.470569,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q79309341",
+        "name": "Karangahake School",
+        "short_name": null,
+        "official_website": "http:\/\/www.karangahake.school.nz",
+        "aliases": null,
+        "latitude": -37.422147,
+        "longitude": 175.723376,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q79309366",
+        "name": "Katikati No 2 School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -37.551466,
+        "longitude": 175.921271,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q79302168",
+        "name": "King's College Main Block",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.958629,
+        "longitude": 174.838197,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q79302195",
+        "name": "Knox College Main Building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -45.85593,
+        "longitude": 170.52485,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q95949656",
+        "name": "Kopuāranga School (former)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -40.833343,
+        "longitude": 175.659074,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q79311360",
+        "name": "Kuaotunu School House",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.733493,
+        "longitude": 175.729747,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6545920",
+        "name": "Liggins Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Liggins Clinical Research Unit"
+        ],
+        "latitude": -36.86231,
+        "longitude": 174.76993,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1048626",
+        "name": "Lincoln University",
+        "short_name": null,
+        "official_website": "https:\/\/www.lincoln.ac.nz",
+        "aliases": [
+            "LU",
+            "Canterbury Agricultural College",
+            "Lincoln College",
+            "Lincoln University (Canterbury, N.Z.)",
+            "Lincoln University, New Zealand",
+            "Te Whare Wanaka o Aoraki",
+            "Te Whare Wānaka o Aoraki"
+        ],
+        "latitude": -43.6444444,
+        "longitude": 172.4686111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013628",
+        "name": "Lincoln University Department of Ecology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013629",
+        "name": "Lincoln University Department of Social Science Parks Recreation Tourism and Sport",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013630",
+        "name": "Lincoln University Department of Wine Food and Molecular Biosciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135456865",
+        "name": "Loomb's Hotel (former)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.901187,
+        "longitude": 174.858531,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6721799",
+        "name": "MacDiarmid Institute for Advanced Materials and Nanotechnology",
+        "short_name": "MacDiarmid Institute",
+        "official_website": "https:\/\/www.macdiarmid.ac.nz\/",
+        "aliases": [
+            "MacDiarmid Institute"
+        ],
+        "latitude": -41.289246,
+        "longitude": 174.767312,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1801980",
+        "name": "Manaaki Whenua – Landcare Research",
+        "short_name": null,
+        "official_website": "https:\/\/www.landcareresearch.co.nz\/",
+        "aliases": [
+            "Landcare Research",
+            "Landcare Research New Zealand Ltd",
+            "Manaaki Whenua",
+            "Manaaki Whenua - Landcare Research",
+            "Manaaki Whenua Landcare Research",
+            "MWLR"
+        ],
+        "latitude": -43.6407083,
+        "longitude": 172.4754417,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q79302331",
+        "name": "Mangapakeha School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -41.08596,
+        "longitude": 175.455838,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q79302316",
+        "name": "Mangere Schoolhouse",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Mangere Schoolhouse (Former)"
+        ],
+        "latitude": -36.976305,
+        "longitude": 174.795244,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12061476",
+        "name": "Manukau Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.manukau.ac.nz\/\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1134606",
+        "name": "Massey University",
+        "short_name": null,
+        "official_website": "http:\/\/www.massey.ac.nz\/",
+        "aliases": [
+            "Massey Agricultural College"
+        ],
+        "latitude": -40.3848,
+        "longitude": 175.6166,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100993158",
+        "name": "Massey University School of Economics and Finance Manawatu Campus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013640",
+        "name": "Massey University School of English and Media Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013641",
+        "name": "Massey University School of Health and Social Services",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013643",
+        "name": "Massey University School of Humanities",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q79302446",
+        "name": "Matakohe School (Former)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.129965,
+        "longitude": 174.184844,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q115478289",
+        "name": "Meat Industry Research Institute of New Zealand",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "MIRINZ"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6805479",
+        "name": "Media Design School",
+        "short_name": null,
+        "official_website": "https:\/\/www.mediadesignschool.com\/",
+        "aliases": null,
+        "latitude": -36.84249,
+        "longitude": 174.75688,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27991337",
+        "name": "MidCentral District Health Board",
+        "short_name": null,
+        "official_website": "http:\/\/www.midcentraldhb.govt.nz\/",
+        "aliases": [
+            "MDHB",
+            "Mid-Central District Health Board",
+            "MidCentral DHB"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q75753092",
+        "name": "Middleton Grange homestead",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Middleton Grange School"
+        ],
+        "latitude": -43.536965,
+        "longitude": 172.578022,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135249566",
+        "name": "National Institute of Forensic Science",
+        "short_name": null,
+        "official_website": "https:\/\/www.anzpaa.org.au\/nifs\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q114592498",
+        "name": "National Institute of Water and Atmospheric Research Hamilton",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4819509",
+        "name": "New Zealand College of Education",
+        "short_name": null,
+        "official_website": "http:\/\/www.nzcoe.ac.nz",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q138392532",
+        "name": "New Zealand Institute for Advanced Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "NZIAT"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q104519049",
+        "name": "New Zealand Institute of Language, Brain and Behaviour",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "NZILBB"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q27991339",
+        "name": "New Zealand Leather and Shoe Research Association",
+        "short_name": null,
+        "official_website": "https:\/\/www.lasra.co.nz\/",
+        "aliases": [
+            "LASRA",
+            "Leather and Shoe Research Association of New Zealand",
+            "NZLASRA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q65679880",
+        "name": "New Zealand standard school buildings",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q15262121",
+        "name": "New Zealand Tourism Research Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "NZTRI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q131843577",
+        "name": "Newmarket Manual Training School (former)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.869211,
+        "longitude": 174.774253,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134100623",
+        "name": "Old Pakuranga School House",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Waiora House"
+        ],
+        "latitude": -36.896966,
+        "longitude": 174.902924,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q79312493",
+        "name": "Old St Paul's Schoolroom",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Thorndon School",
+            "Old St Pauls Schoolroom [Relocated]",
+            "St Paul's Schoolroom (former)",
+            "St Paul’s Hall and Gymnasium"
+        ],
+        "latitude": -41.2742,
+        "longitude": 174.7796,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27991333",
+        "name": "Opus Research",
+        "short_name": null,
+        "official_website": "http:\/\/www.opus.co.nz",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q79303071",
+        "name": "Otago Boys' High School (Tower Block)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Otago Boy's High School (Central Block)"
+        ],
+        "latitude": -45.87131,
+        "longitude": 170.49551,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7108352",
+        "name": "Otago Polytechnic",
+        "short_name": null,
+        "official_website": "https:\/\/www.op.ac.nz",
+        "aliases": [
+            "Otago School of Art"
+        ],
+        "latitude": -45.86596,
+        "longitude": 170.51908,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q79303080",
+        "name": "Otahuhu College Main Block",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.953265,
+        "longitude": 174.840535,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134702936",
+        "name": "Otahuhu Technical School (former)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.941683,
+        "longitude": 174.840175,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137001360",
+        "name": "Pakuranga School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.907402,
+        "longitude": 174.903891,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q79310155",
+        "name": "Pearson House",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.862761,
+        "longitude": 174.779117,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1503201",
+        "name": "Plant & Food Research",
+        "short_name": "Plant & Food Research",
+        "official_website": "https:\/\/plantandfood.co.nz",
+        "aliases": [
+            "Institute for Plant and Food Research Limited",
+            "New Zealand Institute for Plant & Food Research",
+            "New Zealand Institute for Plant and Food Research",
+            "Plant and Food Research",
+            "Rangahau Ahumāra Kai",
+            "The New Zealand Institute for Plant & Food Research Limited"
+        ],
+        "latitude": -36.8908304,
+        "longitude": 174.7258015,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q132128937",
+        "name": "Ponsonby Primary School Senior Block",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.842242,
+        "longitude": 174.739009,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q121142179",
+        "name": "PowerLab",
+        "short_name": null,
+        "official_website": "https:\/\/powerlab.co.nz\/",
+        "aliases": [
+            "Industrial Development Christchurch",
+            "Southern Industrial Development Division",
+            "University of Canterbury Industrial Development Division"
+        ],
+        "latitude": -43.4906389,
+        "longitude": 172.5637778,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q132495562",
+        "name": "Rahiri",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Auckland Karitane Hospital (former)",
+            "Caughey House",
+            "Rahiri House"
+        ],
+        "latitude": -36.889572,
+        "longitude": 174.712528,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101152230",
+        "name": "Renwick House",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Newstead"
+        ],
+        "latitude": -41.2777,
+        "longitude": 173.28856,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q132128962",
+        "name": "Richmond Road Manual Training School (former)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Ritimana Kohanga Reo Childcare Centre"
+        ],
+        "latitude": -36.856027,
+        "longitude": 174.739715,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7374578",
+        "name": "Royal New Zealand College of General Practitioners",
+        "short_name": null,
+        "official_website": "https:\/\/www.rnzcgp.org.nz",
+        "aliases": [
+            "The Royal New Zealand College of General Practitioners (RNZCGP)"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q79310453",
+        "name": "Russell Primary School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -35.262044,
+        "longitude": 174.123929,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q104108177",
+        "name": "Schola Musica (New Zealand)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "NZBC Schola Musicum",
+            "Schola Musica"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q132470706",
+        "name": "School building - Glen Eden Primary School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.90793,
+        "longitude": 174.651973,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q132178938",
+        "name": "School House, Diocesan School for Girls",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.880058,
+        "longitude": 174.778683,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1983244",
+        "name": "Scion",
+        "short_name": null,
+        "official_website": "http:\/\/www.scionresearch.com\/",
+        "aliases": [
+            "New Zealand Forest Research Institute Limited trading as Scion",
+            "NZFRI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q135265233",
+        "name": "Sir John Walsh Research Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "John Walsh Research Institute",
+            "SJWRI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q79303988",
+        "name": "Southland Boys' High School Central Block",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Southland B.H.S. Central Block"
+        ],
+        "latitude": -46.395088,
+        "longitude": 168.35929,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q79304029",
+        "name": "St Bathans' School Ruins",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -44.870292,
+        "longitude": 169.80937,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q133310674",
+        "name": "St Leo's School Hall",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.825182,
+        "longitude": 174.797,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q79312057",
+        "name": "St Leonards School building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -45.84625,
+        "longitude": 170.57798,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q76909735",
+        "name": "St Margaret's College (Former)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -43.527311,
+        "longitude": 172.629801,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q75592087",
+        "name": "St Michael and All Angels, Stone School Building",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -43.535076,
+        "longitude": 172.633447,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135458304",
+        "name": "Sunshine block, Oratia District School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "School building, Oratia"
+        ],
+        "latitude": -36.913332,
+        "longitude": 174.619965,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134593807",
+        "name": "Taikura House",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -39.6361304,
+        "longitude": 176.846718,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7677155",
+        "name": "Takamoa Theological College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -21.209,
+        "longitude": -159.772,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7685571",
+        "name": "Taratahi Agricultural Training Centre",
+        "short_name": null,
+        "official_website": "http:\/\/www.taratahi.ac.nz\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108296100",
+        "name": "Te Ipukarea Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.teipukarea.maori.nz",
+        "aliases": [
+            "National Māori Language Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q113183731",
+        "name": "Te Kupenga",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Catholic Leadership Institute",
+            "Catholic Theological College, Aotearoa",
+            "Te Kupenga o Aotearoa – Catholic Leadership Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q106920280",
+        "name": "The Mind Lab",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -36.8649169,
+        "longitude": 174.7643042,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7755183",
+        "name": "The Open Polytechnic of New Zealand",
+        "short_name": null,
+        "official_website": "http:\/\/www.openpolytechnic.ac.nz\/",
+        "aliases": [
+            "Open Polytechnic NZ",
+            "Open Polytechnic of New Zealand",
+            "Kuratini Tuwhera"
+        ],
+        "latitude": -41.21851,
+        "longitude": 174.93127,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q4874223",
+        "name": "Toi Ohomai Institute of Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.toiohomai.ac.nz\/",
+        "aliases": [
+            "Bay of Plenty Polytechnic"
+        ],
+        "latitude": -37.7334,
+        "longitude": 176.15,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2495129",
+        "name": "Unitec Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.unitec.ac.nz\/",
+        "aliases": null,
+        "latitude": -36.8806,
+        "longitude": 174.70784,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7893913",
+        "name": "Universal College of Learning",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucol.ac.nz\/",
+        "aliases": [
+            "Palmerston North Technical School",
+            "Manawatu Polytechnic",
+            "Manawatū Polytechnic",
+            "Palmerston North Technical Institute",
+            "UCOL",
+            "UCOL Manawatū",
+            "UCOL Universal College of Learning"
+        ],
+        "latitude": -40.352482,
+        "longitude": 175.61367,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5592018",
+        "name": "Universities New Zealand",
+        "short_name": null,
+        "official_website": "https:\/\/www.universitiesnz.ac.nz\/universities",
+        "aliases": [
+            "UNZ",
+            "Universities New Zealand - Te Pōkai Tara"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q492467",
+        "name": "University of Auckland",
+        "short_name": null,
+        "official_website": "https:\/\/www.auckland.ac.nz\/en.html",
+        "aliases": [
+            "UoA",
+            "Auckland University College",
+            "The University of Auckland"
+        ],
+        "latitude": -36.8501972,
+        "longitude": 174.7694944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013489",
+        "name": "University of Auckland Department of Anaesthesiology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013490",
+        "name": "University of Auckland Department of Applied Language Studies and Linguistics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013493",
+        "name": "University of Auckland Department of Classics and Ancient History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013495",
+        "name": "University of Auckland Department of Computer Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013497",
+        "name": "University of Auckland Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013498",
+        "name": "University of Auckland Department of English Drama and Writing Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013502",
+        "name": "University of Auckland Department of General Practice and Primary Health Care",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013504",
+        "name": "University of Auckland Department of History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013506",
+        "name": "University of Auckland Department of Molecular Medicine and Pathology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013508",
+        "name": "University of Auckland Department of Paediatrics Child and Youth Health",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013509",
+        "name": "University of Auckland Department of Philosophy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013510",
+        "name": "University of Auckland Department of Politics and International Relations",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013511",
+        "name": "University of Auckland Department of Psychological Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013512",
+        "name": "University of Auckland Department of Statistics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013516",
+        "name": "University of Auckland Department of Surgery",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013517",
+        "name": "University of Auckland Discipline of Oncology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013519",
+        "name": "University of Auckland School of Architecture and Planning",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013520",
+        "name": "University of Auckland School of Biological Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "School of Biological Sciences, University of Auckland"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013522",
+        "name": "University of Auckland School of Chemical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013524",
+        "name": "University of Auckland School of Critical Studies in Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013526",
+        "name": "University of Auckland School of Cultures Languages and Linguistics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013527",
+        "name": "University of Auckland School of Geography Geology and Environmental Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013528",
+        "name": "University of Auckland School of Humanities",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013529",
+        "name": "University of Auckland School of Medical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013530",
+        "name": "University of Auckland School of Music",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013645",
+        "name": "University of Auckland School of Population Health",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013533",
+        "name": "University of Auckland School of Psychology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q432475",
+        "name": "University of Canterbury",
+        "short_name": null,
+        "official_website": "https:\/\/www.canterbury.ac.nz",
+        "aliases": [
+            "Cant",
+            "Canterbury College",
+            "UC",
+            "Canterbury University",
+            "Canterbury University College",
+            "Te Whare Wānanga o Waitaha"
+        ],
+        "latitude": -43.5233333,
+        "longitude": 172.5819444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013540",
+        "name": "University of Canterbury Department of Art History and Theory",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q117788709",
+        "name": "University of Canterbury Department of Botany",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "University of Canterbury Botany Department"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013542",
+        "name": "University of Canterbury Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013544",
+        "name": "University of Canterbury Department of Classics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013545",
+        "name": "University of Canterbury Department of Economics and Finance",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013548",
+        "name": "University of Canterbury Department of Geological Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013549",
+        "name": "University of Canterbury Department of Global Cultural and Language Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013551",
+        "name": "University of Canterbury Department of History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013553",
+        "name": "University of Canterbury Department of Philosophy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135212737",
+        "name": "University of Canterbury Faculty of Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q117789075",
+        "name": "University of Canterbury Plant & Microbial Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "University of Canterbury Plant and Microbial Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013554",
+        "name": "University of Canterbury School of Biological Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "University of Canterbury Biological Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013556",
+        "name": "University of Canterbury School of Forestry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013559",
+        "name": "University of Canterbury School of Humanities and Creative Arts",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013561",
+        "name": "University of Canterbury School of Mathematics and Statistics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013563",
+        "name": "University of Canterbury School of Music",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013565",
+        "name": "University of Canterbury School of Theatre and Film Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q864860",
+        "name": "University of New Zealand",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "UNZ",
+            "The University of New Zealand"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1201513",
+        "name": "University of Otago",
+        "short_name": null,
+        "official_website": "https:\/\/www.otago.ac.nz",
+        "aliases": [
+            "Otago University",
+            "otago.ac.nz",
+            "Te Whare Wānanga o Ōtākou"
+        ],
+        "latitude": -45.8655556,
+        "longitude": 170.5138889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013568",
+        "name": "University of Otago Department of Biochemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013571",
+        "name": "University of Otago Department of Botany",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013572",
+        "name": "University of Otago Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013574",
+        "name": "University of Otago Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013577",
+        "name": "University of Otago Department of Food Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013580",
+        "name": "University of Otago Department of Geology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013581",
+        "name": "University of Otago Department of History and Art History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013582",
+        "name": "University of Otago Department of Human Nutrition",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013584",
+        "name": "University of Otago Department of Marine Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013585",
+        "name": "University of Otago Department of Mathematics and Statistics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013586",
+        "name": "University of Otago Department of Music",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013588",
+        "name": "University of Otago Department of Oral Diagnostic and Surgical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Department of Oral Diagnostic and Surgical Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013589",
+        "name": "University of Otago Department of Oral Rehabilitation",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Department of Oral Rehabilitation"
+        ],
+        "latitude": -45.8644892,
+        "longitude": 170.5143691,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013591",
+        "name": "University of Otago Department of Oral Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Department of Oral Sciences"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013592",
+        "name": "University of Otago Department of Philosophy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013593",
+        "name": "University of Otago Department of Physics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013594",
+        "name": "University of Otago Department of Politics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013595",
+        "name": "University of Otago Department of Preventive and Social Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013647",
+        "name": "University of Otago Department of Primary Health Care and General Practice",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013596",
+        "name": "University of Otago Department of Psychology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013597",
+        "name": "University of Otago Department of Sociology Gender and Social Work",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013599",
+        "name": "University of Otago Department of Theology and Religion",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013600",
+        "name": "University of Otago Department of Women's and Children's Health",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100998799",
+        "name": "University of Otago Division of Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013601",
+        "name": "University of Otago School of Physical Education Sport and Exercise Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q606140",
+        "name": "University of Waikato",
+        "short_name": null,
+        "official_website": "https:\/\/www.waikato.ac.nz",
+        "aliases": [
+            "UOW",
+            "The University of Waikato",
+            "Waikato University"
+        ],
+        "latitude": -37.7869444,
+        "longitude": 175.3138889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013603",
+        "name": "University of Waikato Department of Biological Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013604",
+        "name": "University of Waikato Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013605",
+        "name": "University of Waikato Department of Computer Graphic Design",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013607",
+        "name": "University of Waikato Department of Computer Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013609",
+        "name": "University of Waikato Department of Earth and Ocean Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013611",
+        "name": "University of Waikato Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013613",
+        "name": "University of Waikato Department of History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013616",
+        "name": "University of Waikato Department of Mathematics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013617",
+        "name": "University of Waikato Department of Statistics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013625",
+        "name": "University of Waikato School of Maori and Pacific Development",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013626",
+        "name": "University of Waikato School of Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1150437",
+        "name": "Victoria University of Wellington",
+        "short_name": "VUW",
+        "official_website": "https:\/\/www.wgtn.ac.nz",
+        "aliases": [
+            "Victoria College",
+            "Te Herenga Waka",
+            "Te Herenga Waka – Victoria University of Wellington",
+            "Te Herenga Waka—Victoria University of Wellington",
+            "Victoria University College",
+            "Victoria University Wellington",
+            "VUW",
+            "Te Herenga Waka Victoria University of Wellington"
+        ],
+        "latitude": -41.2888889,
+        "longitude": 174.7683333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123906654",
+        "name": "Victoria University of Wellington Department of Zoology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Department of Zoology, Victoria University of Wellington",
+            "Victoria University of Wellington Zoology Department",
+            "Zoology Department, Victoria University of Wellington"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013650",
+        "name": "Victoria University of Wellington School of Biological Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013651",
+        "name": "Victoria University of Wellington School of Chemical and Physical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013653",
+        "name": "Victoria University of Wellington School of Government",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013654",
+        "name": "Victoria University of Wellington School of History Philosophy Political Science and International Relations",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013655",
+        "name": "Victoria University of Wellington School of Information Management",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013656",
+        "name": "Victoria University of Wellington School of Linguistics and Applied Language Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013657",
+        "name": "Victoria University of Wellington School of Social and Cultural Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q75156686",
+        "name": "Victory Memorial School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -43.51406,
+        "longitude": 172.6335,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q130469816",
+        "name": "Wai-te-ata Press",
+        "short_name": null,
+        "official_website": "https:\/\/www.wgtn.ac.nz\/wtapress",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7960000",
+        "name": "Waikato Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.wintec.ac.nz\/",
+        "aliases": [
+            "Wintec"
+        ],
+        "latitude": -37.7888889,
+        "longitude": 175.2794444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q27991336",
+        "name": "Waitematā District Health Board",
+        "short_name": null,
+        "official_website": "https:\/\/www.waitematadhb.govt.nz\/",
+        "aliases": [
+            "Waitemata DHB",
+            "Waitematā DHB",
+            "Waitemata District Health Board"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q117840111",
+        "name": "Wellcome Institute of Medical Research",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Wellcome Institute of Medical Research, Otago"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q124282832",
+        "name": "Wellpark College of Natural Therapies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Wellpark College"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7987965",
+        "name": "Western Institute of Technology at Taranaki",
+        "short_name": null,
+        "official_website": "http:\/\/www.witt.ac.nz\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60772018",
+        "name": "Whitecliffe College of Arts and Design",
+        "short_name": null,
+        "official_website": "https:\/\/www.whitecliffe.ac.nz\/",
+        "aliases": null,
+        "latitude": -36.85651,
+        "longitude": 174.7645,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7996527",
+        "name": "Whitireia New Zealand",
+        "short_name": null,
+        "official_website": "http:\/\/www.whitireia.ac.nz\/",
+        "aliases": [
+            "Parumoana Community College",
+            "Whitireia Community Polytechnic"
+        ],
+        "latitude": -41.1260444,
+        "longitude": 174.8380556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52665480",
+        "name": "Wilf Malcolm Institute of Educational Research",
+        "short_name": null,
+        "official_website": "https:\/\/www.waikato.ac.nz\/wmier\/",
+        "aliases": [
+            "Waikato Institute for Educational Research",
+            "WMIER"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q132775554",
+        "name": "Yoobee Colleges",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q8069107",
+        "name": "Zenith Applied Philosophy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

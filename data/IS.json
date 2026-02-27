@@ -1,0 +1,226 @@
+[
+    {
+        "wikidata_id": "Q3481997",
+        "name": "Agricultural University of Iceland",
+        "short_name": null,
+        "official_website": "http:\/\/www.lbhi.is\/",
+        "aliases": null,
+        "latitude": 64.5611111,
+        "longitude": -21.7697222,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q4701979",
+        "name": "Akureyri Junior College",
+        "short_name": null,
+        "official_website": "http:\/\/www.ma.is\/english",
+        "aliases": null,
+        "latitude": 65.6765,
+        "longitude": -18.0944,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q3107095",
+        "name": "Bifröst University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bifrost.is\/",
+        "aliases": null,
+        "latitude": 64.7668,
+        "longitude": -21.5519,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q133889726",
+        "name": "Fríkirkjuvegur 1",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 64.144987,
+        "longitude": -21.93875,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1523183",
+        "name": "Hólar University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.holar.is",
+        "aliases": [
+            "Hólar Agricultural College",
+            "Holar University College"
+        ],
+        "latitude": 65.7336,
+        "longitude": -19.1135,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1134292",
+        "name": "Iceland University of the Arts",
+        "short_name": null,
+        "official_website": "http:\/\/www.lhi.is\/",
+        "aliases": [
+            "Iceland Academy of the Arts",
+            "Listaháskóli Íslands"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125592331",
+        "name": "Icelandic Center for Digital Humanities and the Arts",
+        "short_name": null,
+        "official_website": "https:\/\/mshl.is",
+        "aliases": [
+            "CDHA",
+            "mshl.is"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16422638",
+        "name": "Icelandic College of Art and Crafts",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Iceland Art and Handicraft School",
+            "Iceland Art and Handicraft School (MHÍ)",
+            "Myndlista og Handidaskoli Islands",
+            "The Icelandic College of Art and Crafts"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q74537205",
+        "name": "Institute of Public Administration and Politics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q16419748",
+        "name": "Q16419748",
+        "short_name": null,
+        "official_website": "http:\/\/www.land.is",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1542418",
+        "name": "Reykjavík University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ru.is\/",
+        "aliases": [
+            "Háskólinn í Reykjavík",
+            "Reykjavik University"
+        ],
+        "latitude": 64.1236111,
+        "longitude": -21.9269444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16429196",
+        "name": "Technical University of Iceland",
+        "short_name": null,
+        "official_website": "https:\/\/www.thi.is\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20575892",
+        "name": "The Vigdís Finnbogadóttir Institute of Foreign Languages",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30263303",
+        "name": "University Centre of the Westfjords",
+        "short_name": null,
+        "official_website": "http:\/\/www.uw.is\/",
+        "aliases": null,
+        "latitude": 66.069802,
+        "longitude": -23.124203,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1463356",
+        "name": "University of Akureyri",
+        "short_name": null,
+        "official_website": "https:\/\/www.unak.is\/",
+        "aliases": [
+            "Háskólinn á Akureyri"
+        ],
+        "latitude": 65.6855,
+        "longitude": -18.1224,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q196559",
+        "name": "University of Iceland",
+        "short_name": null,
+        "official_website": "https:\/\/www.hi.is\/",
+        "aliases": [
+            "Háskóli Íslands",
+            "The University of Iceland"
+        ],
+        "latitude": 64.1405556,
+        "longitude": -21.9494444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5985674",
+        "name": "University of Iceland -School of Education",
+        "short_name": null,
+        "official_website": "http:\/\/www.khi.is\/",
+        "aliases": null,
+        "latitude": 64.1368694,
+        "longitude": -21.9025861,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101012667",
+        "name": "University of Iceland School of Social Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74536069",
+        "name": "University of Iceland, Educational Research Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q627418",
+        "name": "Árni Magnússon Institute for Icelandic Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.arnastofnun.is\/",
+        "aliases": [
+            "Arni Magnusson Institute for Icelandic Studies"
+        ],
+        "latitude": 64.1388889,
+        "longitude": -21.9513889,
+        "type": "institute"
+    }
+]

@@ -1,0 +1,873 @@
+[
+    {
+        "wikidata_id": "Q4057042",
+        "name": "Agricultural University of Havana",
+        "short_name": null,
+        "official_website": "https:\/\/www.unah.edu.cu\/",
+        "aliases": [
+            "UNAH",
+            "Agrarian University of Havana \"Fructuoso Rodríguez Pérez\"",
+            "Universidad Agraria de la Habana (UNAH)",
+            "Universidad Agraria de La Habana Fructuoso Rodríguez Pérez"
+        ],
+        "latitude": 22.998333,
+        "longitude": -82.148611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5761813",
+        "name": "Center for Genetic Engineering and Biotechnology",
+        "short_name": null,
+        "official_website": "http:\/\/www.cigb.edu.cu\/",
+        "aliases": [
+            "CIGB",
+            "Center for Genetic Engineering and Biotechnology of Cuba"
+        ],
+        "latitude": 23.0736111,
+        "longitude": -82.4522222,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530613",
+        "name": "Centro de Información y Gestión Tecnológica; Ciencia Tecnología y Medio Ambiente",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74554974",
+        "name": "Centro Nacional de Información de Ciencias Médicas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q29054484",
+        "name": "Centro Nacional de Investigaciones Científicas",
+        "short_name": null,
+        "official_website": "http:\/\/www.cnic.edu.cu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74551173",
+        "name": "Centro Provincial de Información de Ciencias Médicas en Las Tunas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5191942",
+        "name": "Cuba Adventist Seminary",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 23.1319444,
+        "longitude": -82.3786111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5192035",
+        "name": "Cuban Neuroscience Center",
+        "short_name": null,
+        "official_website": "https:\/\/www.cneuro.cu\/",
+        "aliases": [
+            "Centro de Neurociencias de Cuba"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74543384",
+        "name": "Cuban Society of Immunology, and Cuban Society of Pharmacology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74555976",
+        "name": "Editorial Feijoó",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74527518",
+        "name": "Escuela Nacional de Salud Pública",
+        "short_name": null,
+        "official_website": "https:\/\/ensap.sld.cu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q29054519",
+        "name": "Institute of Ecology and Systematics",
+        "short_name": null,
+        "official_website": "http:\/\/www.ecosis.cu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q119848049",
+        "name": "Institute of Marine Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ICIMAR",
+            "Instituto de Ciencias del Mar",
+            "Instituto de Ciencias del Mar de Cuba"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q29054513",
+        "name": "Institute of Tropical Fruit Research",
+        "short_name": null,
+        "official_website": "http:\/\/www.fruticulturacubana.co.cu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q28225522",
+        "name": "Instituto de Historia de Cuba",
+        "short_name": null,
+        "official_website": "http:\/\/www.ihc.cu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q52661253",
+        "name": "Instituto de Información Científica Tecnológica (IDICT)",
+        "short_name": null,
+        "official_website": "http:\/\/www.idict.cu\/",
+        "aliases": [
+            "IDICT",
+            "idict.cu",
+            "Institute of Scientific and Technical Documentation and Information",
+            "Instituto de Información Cientíﬁca y Tecnológica",
+            "Instituto de Información y Documentación Científica y Tecnológica  (IDICT)"
+        ],
+        "latitude": 23.11992,
+        "longitude": -82.412014,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530255",
+        "name": "Instituto de Investigaciones de Ingeniería Agrícola (IAgric)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74530566",
+        "name": "Instituto de Meteorología (INSMET)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1665233",
+        "name": "Instituto Superior de Arte",
+        "short_name": null,
+        "official_website": "http:\/\/www.isa.cult.cu\/",
+        "aliases": [
+            "ISA",
+            "University of Arts of Cuba"
+        ],
+        "latitude": 23.088783,
+        "longitude": -82.446802,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q135829664",
+        "name": "Marti Study Centre",
+        "short_name": null,
+        "official_website": "https:\/\/www.josemarti.cu\/",
+        "aliases": null,
+        "latitude": 23.13662,
+        "longitude": -82.40186,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q83585058",
+        "name": "Medical Science University of Matanzas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6818458",
+        "name": "Merchise",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6970485",
+        "name": "National Art Schools (Cuba)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "National Art Schools of Cuba"
+        ],
+        "latitude": 23.0880556,
+        "longitude": -82.4480556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7227041",
+        "name": "Polytechnic José Antonio Echeverría",
+        "short_name": null,
+        "official_website": "http:\/\/cujae.edu.cu\/",
+        "aliases": [
+            "Instituto Superior Politécnico José Antonio Echeverría - Cujae",
+            "Instituto Superior Politécnico José Antonio Echeverría (Cujae)",
+            "Polytechnic Jose Antonio Echeverria",
+            "Universidad Tecnológica de La Habana José Antonio Echeverría"
+        ],
+        "latitude": 23.054966,
+        "longitude": -82.416011,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q24886632",
+        "name": "Q24886632",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74527427",
+        "name": "Servicios Médicos de las Fuerzas Armadas Revolucionarias de Cuba",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74541158",
+        "name": "Sociedad Cubana de Cirugía",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74553282",
+        "name": "Sociedad Cubana de Endocrinología",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74542808",
+        "name": "Sociedad Cubana de Estomatología",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74538645",
+        "name": "Sociedad Cubana de Farmacia e Industria Médico-Farmacéutica de Cuba",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74542752",
+        "name": "Sociedad Cubana de Medicina Familiar",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74555618",
+        "name": "Sociedad Cubana de Pediatría",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74539628",
+        "name": "Sociedad Cubana de Reumatología",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74528106",
+        "name": "Sociedad de Educadores en Ciencias de la Salud. Capítulo Villa Clara",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74548252",
+        "name": "Sociedad Iberoamericana de Biotecnología Aplicada a la Salud",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74546545",
+        "name": "The Editorial Team of Research and Practice in Social Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7894253",
+        "name": "Universidad Católica de Santo Tomás de Villanueva",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Universidad Catolica de Santo Tomas de Villanueva"
+        ],
+        "latitude": 23.08897,
+        "longitude": -82.46258,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74542719",
+        "name": "Universidad Central Marta Abreu de Las Villas, Instituto de Biotecnología de las Plantas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6156747",
+        "name": "Universidad de Camagüey",
+        "short_name": null,
+        "official_website": "https:\/\/www.reduc.edu.cu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74529656",
+        "name": "Universidad de Ciego de Ávila Máximo Gómez Báez, Facultad de Ciencias Pedagógicas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74434249",
+        "name": "Universidad de Ciencias de la Cultura Física y el Deporte «Manuel Fajardo»",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Manuel Fajardo University of Physical Education and Sport"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52609462",
+        "name": "Universidad de Ciencias Médicas de Camaguey, Centro de Humanidades y Ética en Ciencias de la Salud",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74558042",
+        "name": "Universidad de Ciencias Médicas de Camaguey, Centro para el desarrollo de las Ciencias Sociales y Humanísticas en salud",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q83511793",
+        "name": "Universidad de Ciencias Médicas de Camagüey",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q83570448",
+        "name": "Universidad de Ciencias Médicas de Ciego de Ávila",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74529741",
+        "name": "Universidad de Ciencias Médicas de Granma, Centro Provincial de Ciencias Médicas de Granma",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q44011525",
+        "name": "Universidad de Ciencias Médicas de Guantánamo",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q83513418",
+        "name": "Universidad de Ciencias Médicas de Holguín",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 20.886,
+        "longitude": -76.2681667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30282070",
+        "name": "Universidad de Ciencias Médicas de la Habana",
+        "short_name": null,
+        "official_website": "https:\/\/instituciones.sld.cu\/ucmh\/",
+        "aliases": [
+            "UCMH",
+            "Universidad de Ciencias Médicas de La Habana"
+        ],
+        "latitude": 23.07761,
+        "longitude": -82.444262,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q83515573",
+        "name": "Universidad de Ciencias Médicas de Santiago de Cuba",
+        "short_name": null,
+        "official_website": "https:\/\/instituciones.sld.cu\/feumed\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q83512536",
+        "name": "Universidad de Ciencias Médicas de Villa Clara",
+        "short_name": null,
+        "official_website": "https:\/\/instituciones.sld.cu\/ucmvc\/",
+        "aliases": [
+            "UCMVC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q41780108",
+        "name": "Universidad de Ciencias Pedagógicas \"José Martí\"",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74527447",
+        "name": "Universidad de Cienfuegos, Editorial Universo Sur",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74529670",
+        "name": "Universidad de Cienfuegos, Facultad de Ciencias Sociales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74537615",
+        "name": "Universidad de La Habana, Centro de Estudios de Migraciones Internacionales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74544474",
+        "name": "Universidad de La Habana, Centro de Estudios Demográficos",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74548194",
+        "name": "Universidad de La Habana, Centro de Investigaciones Marinas",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74540656",
+        "name": "Universidad de La Habana, Facultad de Economía",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74549692",
+        "name": "Universidad de La Habana, Facultad de Física",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q24886613",
+        "name": "Universidad de la Isla de la Juventud",
+        "short_name": null,
+        "official_website": "http:\/\/www.cuij.edu.cu\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74550445",
+        "name": "Universidad de Las Tunas, Centro de Estudios de Didáctica ; Universidad de Ciencias Pedagógicas de Granma, Centro de Estudios de Educación",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74538113",
+        "name": "Universidad de Oriente, Facultad de Ciencias Naturales",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74526672",
+        "name": "Universidad de Pinar del Río \"Hermanos Saíz Montes de Oca\", Centro de Recursos para el Aprendizaje y la Investigación, Departamento de Publicaciones",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30293855",
+        "name": "Universidad de Sancti Spíritus José Martí Pérez",
+        "short_name": null,
+        "official_website": "http:\/\/www.suss.co.cu",
+        "aliases": [
+            "University of Sancti Spíritus"
+        ],
+        "latitude": 21.92938,
+        "longitude": -79.43722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74528144",
+        "name": "Universidad Tecnológica de La Habana José Antonio Echeverría, Facultad de Arquitectura, Cujae",
+        "short_name": null,
+        "official_website": "https:\/\/cujae.edu.cu\/",
+        "aliases": null,
+        "latitude": 23.0550014,
+        "longitude": -82.4159866,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q131916789",
+        "name": "Universidad Teológica Pentecostal de Cuba",
+        "short_name": null,
+        "official_website": "https:\/\/www.utpccuba.org\/",
+        "aliases": [
+            "UTCP"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6156410",
+        "name": "University \"Marta Abreu\" of Las Villas",
+        "short_name": null,
+        "official_website": "http:\/\/www.uclv.edu.cu\/",
+        "aliases": [
+            "UCLV",
+            "University Marta Abreu of Las Villas"
+        ],
+        "latitude": 22.4136111,
+        "longitude": -79.9661111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895206",
+        "name": "University of Camagüey",
+        "short_name": null,
+        "official_website": "https:\/\/www.reduc.edu.cu\/",
+        "aliases": null,
+        "latitude": 21.38877,
+        "longitude": -77.8825,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895266",
+        "name": "University of Ciego de Ávila",
+        "short_name": null,
+        "official_website": "http:\/\/www.unica.cu\/",
+        "aliases": [
+            "Universidad de Ciego de Ávila \"Máximo Gómez Báez\"",
+            "University of Ciego de Avila"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q941309",
+        "name": "University of Cienfuegos",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucf.edu.cu\/",
+        "aliases": [
+            "Universidad de Cienfuegos"
+        ],
+        "latitude": 22.173207,
+        "longitude": -80.450753,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895471",
+        "name": "University of Granma",
+        "short_name": null,
+        "official_website": "https:\/\/www.udg.co.cu",
+        "aliases": null,
+        "latitude": 20.28113,
+        "longitude": -76.72686,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q837320",
+        "name": "University of Havana",
+        "short_name": null,
+        "official_website": "https:\/\/www.uh.cu",
+        "aliases": [
+            "UH",
+            "uh.cu",
+            "Universidad de La Habana"
+        ],
+        "latitude": 23.1343028,
+        "longitude": -82.3820333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895490",
+        "name": "University of Holguín",
+        "short_name": null,
+        "official_website": "http:\/\/www.uho.edu.cu\/",
+        "aliases": [
+            "University of Holguin"
+        ],
+        "latitude": 20.8961988,
+        "longitude": -76.2384293,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1535007",
+        "name": "University of Information Science",
+        "short_name": null,
+        "official_website": "http:\/\/www.uci.cu\/",
+        "aliases": null,
+        "latitude": 22.99025,
+        "longitude": -82.4659444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q58642563",
+        "name": "University of Las Tunas",
+        "short_name": null,
+        "official_website": "http:\/\/www.ult.edu.cu\/",
+        "aliases": null,
+        "latitude": 20.96229,
+        "longitude": -76.9293,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895719",
+        "name": "University of Matanzas",
+        "short_name": null,
+        "official_website": "http:\/\/www.umcc.cu\/",
+        "aliases": [
+            "University of Matanzas \"Camilo Cienfuegos\""
+        ],
+        "latitude": 23.035,
+        "longitude": -81.51,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74527428",
+        "name": "University of Medical Science of Pinar del Río",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7895725",
+        "name": "University of Medical Sciences, Cienfuegos",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucm.cfg.sld.cu\/",
+        "aliases": null,
+        "latitude": 22.1458333,
+        "longitude": -80.4363889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896069",
+        "name": "University of Pedagogical Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/www.ecured.cu\/Universidad_de_Ciencias_Pedag%C3%B3gicas_%22H%C3%A9ctor_Alfredo_Pineda_Zald%C3%ADvar%22",
+        "aliases": null,
+        "latitude": 23.0409,
+        "longitude": -82.36979,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896114",
+        "name": "University of Pinar del Río Hermanos Saíz Montes de Oca",
+        "short_name": null,
+        "official_website": "http:\/\/www.upr.edu.cu\/",
+        "aliases": [
+            "University of Pinar del Rio"
+        ],
+        "latitude": 22.4253,
+        "longitude": -83.6875,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q839919",
+        "name": "University of Santiago de Cuba",
+        "short_name": null,
+        "official_website": "https:\/\/www.uo.edu.cu\/",
+        "aliases": null,
+        "latitude": 20.04345,
+        "longitude": -75.81727,
+        "type": "university"
+    }
+]

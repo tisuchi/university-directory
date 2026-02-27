@@ -1,0 +1,104 @@
+[
+    {
+        "wikidata_id": "Q74552892",
+        "name": "Asian Surgical Association",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q121305569",
+        "name": "Chinese University of Hong Kong Department of Chinese Language and Literature",
+        "short_name": null,
+        "official_website": "https:\/\/www.chi.cuhk.edu.hk\/",
+        "aliases": [
+            "Chinese University of Hong Kong Department of Chinese Language & Literature",
+            "CUHK Department of Chinese Language and Literature",
+            "Department of Chinese Language & Literature, Chinese University of Hong Kong",
+            "Department of Chinese Language and Literature, Chinese University of Hong Kong",
+            "Department of Chinese Language and Literature, CUHK",
+            "Department of Chinese Language and Literature, The Chinese University of Hong Kong",
+            "The Chinese University of Hong Kong Department of Chinese Language and Literature"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1666906",
+        "name": "CW Chu College",
+        "short_name": null,
+        "official_website": "http:\/\/www.cwchu.cuhk.edu.hk\/",
+        "aliases": [
+            "C.W. Chu College"
+        ],
+        "latitude": 22.42545,
+        "longitude": 114.206621,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5894236",
+        "name": "Hong Kong Applied Science and Technology Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.astri.org",
+        "aliases": [
+            "ASTRI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74558097",
+        "name": "Hong Kong Orthopaedic Association; Hong Kong College of Orthopaedic Surgeons",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74552229",
+        "name": "Hong Kong Polytechnic University Shipping Research Centre",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74551862",
+        "name": "T.T. Ng Chinese Language Research Centre, The Chinese University of Hong Kong",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74547117",
+        "name": "Taiwan Society of Microbiology; the Chinese Society of Immunology; the Infectious Diseases Society of Taiwan; the Taiwan Society of Parasitology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74558112",
+        "name": "The Society of Chinese Scholars on Exercise Physiology and Fitness (SCSEPF), the Physical Fitness Association of Hong Kong, China (HKPFA), and the Hong Kong Association of Sports Medicine and Sports Science (HKASMSS)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    }
+]

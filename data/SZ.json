@@ -1,0 +1,103 @@
+[
+    {
+        "wikidata_id": "Q100942496",
+        "name": "AMADI University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25106445",
+        "name": "Eswatini College of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "SCOT",
+            "ECOT",
+            "IAU-016019",
+            "Swaziland College of Technology"
+        ],
+        "latitude": -26.3102222,
+        "longitude": 31.1217222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102107091",
+        "name": "Limkokwing University of Creative Technology Swaziland",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Limkokwing University of Creative Technology Eswatini"
+        ],
+        "latitude": -26.3173056,
+        "longitude": 31.1171111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134311417",
+        "name": "Ludlambedlu",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102107087",
+        "name": "Ngwane College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "NTC",
+            "Ngwane Teacher Training College"
+        ],
+        "latitude": -27.1385833,
+        "longitude": 31.2009167,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61931923",
+        "name": "Southern Africa Nazarene University",
+        "short_name": null,
+        "official_website": "http:\/\/www.sanu.ac.sz\/",
+        "aliases": [
+            "SANU",
+            "IAU-015592",
+            "sanu.ac.sz",
+            "Southern African Nazarene University"
+        ],
+        "latitude": -26.498463,
+        "longitude": 31.364565,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1570483",
+        "name": "University of Eswatini",
+        "short_name": null,
+        "official_website": "https:\/\/www.uneswa.ac.sz\/",
+        "aliases": [
+            "IAU-020527",
+            "UNESWA",
+            "UNISWA",
+            "uniswa.sz",
+            "University of Swaziland"
+        ],
+        "latitude": -26.4824,
+        "longitude": 31.3124,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943706",
+        "name": "University of Swaziland Maternal and Child Health Reproduction Health JBI Evidence Synthesis Group",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

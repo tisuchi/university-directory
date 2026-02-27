@@ -1,0 +1,2440 @@
+[
+    {
+        "wikidata_id": "Q10771885",
+        "name": "Academy of Public Administration and Governance",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 21.0262508,
+        "longitude": 105.8115303,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4750013",
+        "name": "An Giang University",
+        "short_name": null,
+        "official_website": "http:\/\/www.agu.edu.vn",
+        "aliases": null,
+        "latitude": 10.3718,
+        "longitude": 105.431,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137769519",
+        "name": "Applied Biotechnology Institute",
+        "short_name": null,
+        "official_website": "https:\/\/www.abiotech.org",
+        "aliases": [
+            "ABI"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10829018",
+        "name": "Ba Ria - Vung Tau University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bvu.edu.vn\/",
+        "aliases": [
+            "Baria-Vungtau University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829118",
+        "name": "Bac Ha International University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bhiu.edu.vn",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829143",
+        "name": "Bac Ninh Sport University of Viet Nam",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Bac Ninh Sport University of Viet Nam",
+            "Bac Ninh University of Physical Education and Sports"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10771894",
+        "name": "Banking Academy of Vietnam",
+        "short_name": null,
+        "official_website": "https:\/\/en.hvnh.edu.vn\/",
+        "aliases": [
+            "BAV",
+            "Vocational College of Banking",
+            "Banking Academy Of Vietnam"
+        ],
+        "latitude": 21.0088484,
+        "longitude": 105.8286961,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4856328",
+        "name": "Banking University of Ho Chi Minh City",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 10.8584,
+        "longitude": 106.763,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10805714",
+        "name": "Campus of the University of Da Nang in Kon Tum",
+        "short_name": null,
+        "official_website": "http:\/\/www.kontum.udn.vn\/",
+        "aliases": [
+            "UD-CK"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5029090",
+        "name": "Can Tho University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ctu.edu.vn",
+        "aliases": null,
+        "latitude": 10.0323,
+        "longitude": 105.768,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20026263",
+        "name": "Can Tho University of Medicine and Pharmacy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5065626",
+        "name": "Cetana PSB International College-English Business Tourism Hospitality",
+        "short_name": null,
+        "official_website": "http:\/\/www.psbcollege.edu.vn",
+        "aliases": [
+            "Cetana PSB Intellis International College",
+            "PSB College"
+        ],
+        "latitude": 10.7294,
+        "longitude": 106.695,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5207275",
+        "name": "Da Nang University of Architecture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5207273",
+        "name": "Da Nang University of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 16.0477778,
+        "longitude": 108.2391667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829144",
+        "name": "Da Nang University of Physical Education and Sports",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5207276",
+        "name": "Da Nang University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.dut.edu.vn\/en\/",
+        "aliases": [
+            "Đà Nẵng University of Science and Technology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829182",
+        "name": "Dai Nam University",
+        "short_name": null,
+        "official_website": "https:\/\/dainam.edu.vn\/",
+        "aliases": [
+            "DNU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q126897739",
+        "name": "Dalat Nuclear Research Institute",
+        "short_name": null,
+        "official_website": "https:\/\/nri.gov.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3177493",
+        "name": "Dalat University",
+        "short_name": null,
+        "official_website": "http:\/\/www.dlu.edu.vn\/",
+        "aliases": null,
+        "latitude": 11.9556389,
+        "longitude": 108.4428583,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109435303",
+        "name": "Danang University of Medicine and Pharmacy Technology",
+        "short_name": null,
+        "official_website": "https:\/\/dhktyduocdn.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q24884974",
+        "name": "Dong Nai University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 10.9595,
+        "longitude": 106.8615,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000030",
+        "name": "Dong Nai University of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30263747",
+        "name": "Dong Thap University",
+        "short_name": null,
+        "official_website": "http:\/\/www.dthu.edu.vn\/",
+        "aliases": [
+            "Dong Thap Pedagogical College",
+            "Đồng Tháp Pedagogical College",
+            "Đồng Tháp University",
+            "DThU",
+            "Pedagogical University of Dong Thap"
+        ],
+        "latitude": 10.420858,
+        "longitude": 105.642929,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5317667",
+        "name": "Duy Tan University",
+        "short_name": null,
+        "official_website": "http:\/\/www.duytan.edu.vn\/",
+        "aliases": null,
+        "latitude": 16.0601,
+        "longitude": 108.21,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5357466",
+        "name": "Electric Power University",
+        "short_name": null,
+        "official_website": "http:\/\/www.epu.edu.vn",
+        "aliases": null,
+        "latitude": 21.0468,
+        "longitude": 105.785,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5468340",
+        "name": "Foreign Trade University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ftu.edu.vn\/",
+        "aliases": [
+            "FTU"
+        ],
+        "latitude": 21.023,
+        "longitude": 105.805,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q610220",
+        "name": "FPT University",
+        "short_name": null,
+        "official_website": "https:\/\/daihoc.fpt.edu.vn",
+        "aliases": null,
+        "latitude": 21.0136667,
+        "longitude": 105.5272778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829051",
+        "name": "Ha Tinh University",
+        "short_name": null,
+        "official_website": "https:\/\/www.htu.edu.vn\/",
+        "aliases": [
+            "Hatinh University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5638944",
+        "name": "Hai Phong University",
+        "short_name": null,
+        "official_website": "http:\/\/www.dhhp.edu.vn\/",
+        "aliases": [
+            "Haiphong University"
+        ],
+        "latitude": 20.8398,
+        "longitude": 106.688,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829035",
+        "name": "Hai Phong University of Management and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/hpu.edu.vn\/",
+        "aliases": [
+            "Haiphong Private University",
+            "HPU University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000053",
+        "name": "Haiphong Private University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6131246",
+        "name": "Hanoi Architectural University",
+        "short_name": null,
+        "official_website": "http:\/\/hau.edu.vn\/",
+        "aliases": [
+            "HAU"
+        ],
+        "latitude": 20.98067,
+        "longitude": 105.78977,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3815307",
+        "name": "Hanoi College of Fine Arts",
+        "short_name": null,
+        "official_website": "http:\/\/mythuatvietnam.edu.vn\/",
+        "aliases": [
+            "École des beaux-arts de l'Indochine"
+        ],
+        "latitude": 21.022136,
+        "longitude": 105.842789,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10828782",
+        "name": "Hanoi College of Technology and Commerce",
+        "short_name": null,
+        "official_website": "http:\/\/www.congthuonghanoi.edu.vn",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30257165",
+        "name": "Hanoi Law University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 21.0214811,
+        "longitude": 105.8094532,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000057",
+        "name": "Hanoi Medical University Department of Microbiology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000059",
+        "name": "Hanoi Medical University Department of Nursing and Midwifery",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5649329",
+        "name": "Hanoi National University of Education",
+        "short_name": null,
+        "official_website": "http:\/\/english.hnue.edu.vn\/",
+        "aliases": [
+            "HNUE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q50309576",
+        "name": "Hanoi Pedagogical University 2",
+        "short_name": null,
+        "official_website": "http:\/\/www.hpu2.edu.vn",
+        "aliases": [
+            "HPU2"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829128",
+        "name": "Hanoi Pedagogical University N°2",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "HPU2"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829049",
+        "name": "Hanoi University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hanu.vn\/",
+        "aliases": [
+            "HANU"
+        ],
+        "latitude": 20.9897,
+        "longitude": 105.7952,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5649335",
+        "name": "Hanoi University of Agriculture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 21.0045995,
+        "longitude": 105.9386515,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829134",
+        "name": "Hanoi University of Education and Sport",
+        "short_name": null,
+        "official_website": "http:\/\/dhsptdtthanoi.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000061",
+        "name": "Hanoi University of Industrial Fine Arts",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16892082",
+        "name": "Hanoi University of Industry",
+        "short_name": null,
+        "official_website": "http:\/\/www.haui.edu.vn\/vn",
+        "aliases": [
+            "Hanoi Chamber of Commerce",
+            "Trung cao cấp cơ điện Hà Nội"
+        ],
+        "latitude": 21.0541,
+        "longitude": 105.735,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829093",
+        "name": "Hanoi University of Mining and Geology",
+        "short_name": null,
+        "official_website": "http:\/\/humg.edu.vn\/Pages\/home.aspx",
+        "aliases": [
+            "HUMG"
+        ],
+        "latitude": 21.0734,
+        "longitude": 105.7738,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q18461615",
+        "name": "Hanoi University of Natural Resources and Environment",
+        "short_name": null,
+        "official_website": "http:\/\/hunre.edu.vn",
+        "aliases": [
+            "HUNRE"
+        ],
+        "latitude": 21.0463333,
+        "longitude": 105.7624444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16944333",
+        "name": "Hanoi University of Pharmacy",
+        "short_name": null,
+        "official_website": "http:\/\/www.hup.edu.vn",
+        "aliases": [
+            "Ha Noi University of Pharmacy",
+            "Trường Đại học Dược Hà Nội"
+        ],
+        "latitude": 21.0215712,
+        "longitude": 105.8580775,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5649327",
+        "name": "Hanoi University Of Public Health",
+        "short_name": null,
+        "official_website": "https:\/\/huph.edu.vn\/english\/",
+        "aliases": [
+            "School of Health Management"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5649339",
+        "name": "Hanoi University of Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "University of Science, Hanoi, Vietnam"
+        ],
+        "latitude": 20.9959,
+        "longitude": 105.808,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3075696",
+        "name": "Hanoi University of Science and Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.hust.edu.vn",
+        "aliases": null,
+        "latitude": 21.0063889,
+        "longitude": 105.8430556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000065",
+        "name": "Hanoi University of Science and Technology Department of Political Theory",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000073",
+        "name": "Hanoi University of Science and Technology School of Applied Mathematics and Informatics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000074",
+        "name": "Hanoi University of Science and Technology School of Biotechnology and Food Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000077",
+        "name": "Hanoi University of Science and Technology School of Continuing Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000081",
+        "name": "Hanoi University of Science and Technology School of Economics and Management",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000084",
+        "name": "Hanoi University of Science and Technology School of Foreign Language",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000087",
+        "name": "Hanoi University of Science and Technology School of Information and Communication Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000088",
+        "name": "Hanoi University of Science and Technology School of International Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000090",
+        "name": "Hanoi University of Science and Technology School of Textile-Leather and Fashion",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19645950",
+        "name": "History of Trà Vinh University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 9.922,
+        "longitude": 106.347,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3037890",
+        "name": "Ho Chi Minh City Architecture University",
+        "short_name": "HCMUARC",
+        "official_website": "https:\/\/ump.edu.vn\/",
+        "aliases": null,
+        "latitude": 10.7821,
+        "longitude": 106.694,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5873944",
+        "name": "Ho Chi Minh City College of Stage Performance and Cinematics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 10.7666667,
+        "longitude": 106.7,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q877269",
+        "name": "Ho Chi Minh City Fine Arts University",
+        "short_name": null,
+        "official_website": "http:\/\/hcmufa.edu.vn\/",
+        "aliases": null,
+        "latitude": 10.8029,
+        "longitude": 106.694,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10832782",
+        "name": "Ho Chi Minh City Institute of Physics",
+        "short_name": null,
+        "official_website": "http:\/\/hcmip.ac.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5873959",
+        "name": "Ho Chi Minh City International University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hcmiu.edu.vn\/",
+        "aliases": [
+            "IU",
+            "International University",
+            "HCMIU",
+            "Ho Chi Minh International University",
+            "International University - Vietnam National University HCM City",
+            "International University (IU), Vietnam National University – Ho Chi Minh City",
+            "VNUHCM - International University",
+            "VNUHCM-International University"
+        ],
+        "latitude": 10.8777,
+        "longitude": 106.802,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829094",
+        "name": "Ho Chi Minh City Open University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ou.edu.vn\/",
+        "aliases": [
+            "OU"
+        ],
+        "latitude": 10.7611111,
+        "longitude": 106.6922222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5873981",
+        "name": "Ho Chi Minh City University of Culture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 10.8058,
+        "longitude": 106.731,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829073",
+        "name": "Ho Chi Minh City University of Economics and Law",
+        "short_name": null,
+        "official_website": "http:\/\/www.uel.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000113",
+        "name": "Ho Chi Minh City University of Fine Art",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5873989",
+        "name": "Ho Chi Minh City University of Foreign Languages and Information Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.huflit.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5874003",
+        "name": "Ho Chi Minh City University of Law",
+        "short_name": null,
+        "official_website": "http:\/\/www.hcmulaw.edu.vn\/",
+        "aliases": [
+            "ULAW"
+        ],
+        "latitude": 10.7675706,
+        "longitude": 106.7056752,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5873997",
+        "name": "Ho Chi Minh City University of Science",
+        "short_name": null,
+        "official_website": "http:\/\/www.hcmus.edu.vn\/",
+        "aliases": [
+            "Ho Chi Minh City University of Natural Sciences",
+            "University of Natural Sciences of Ho Chi Minh City"
+        ],
+        "latitude": 10.7627778,
+        "longitude": 106.6813889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3101701",
+        "name": "Ho Chi Minh City University of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.hcmut.edu.vn",
+        "aliases": [
+            "HCMUT"
+        ],
+        "latitude": 10.772973,
+        "longitude": 106.659189,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829131",
+        "name": "Ho Chi Minh City University of Technology and Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/www.hcmute.edu.vn",
+        "aliases": [
+            "Ho Chi Minh City University of Technology and Education",
+            "HCM-UTE"
+        ],
+        "latitude": 10.8499,
+        "longitude": 106.7717,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000125",
+        "name": "Ho Chi Minh City University of Transport International Education and Cooperation Centre",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829043",
+        "name": "Ho Chi Minh City University of Transportation",
+        "short_name": null,
+        "official_website": "http:\/\/www.hcmutrans.edu.vn\/",
+        "aliases": [
+            "Ho Chi Minh City University of Transport"
+        ],
+        "latitude": 10.8046,
+        "longitude": 106.7165,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10771879",
+        "name": "Ho Chi Minh National Academy of Politics",
+        "short_name": "HCMA",
+        "official_website": "https:\/\/hcma.vn\/",
+        "aliases": [
+            "HCMA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10489198",
+        "name": "Ho Chi Minh University of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "HCMUE"
+        ],
+        "latitude": 10.7615833,
+        "longitude": 106.6821944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000130",
+        "name": "Ho Chi Minhh City University of Transport",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1002930",
+        "name": "Hoa Sen University",
+        "short_name": null,
+        "official_website": "https:\/\/www.hoasen.edu.vn\/",
+        "aliases": null,
+        "latitude": 10.7704536,
+        "longitude": 106.6925189,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q661322",
+        "name": "Hong Bang University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "HIU",
+            "Hong Bang International University"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1310048",
+        "name": "Hue University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hueuni.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000155",
+        "name": "Hue University College of Education Department of Mathematics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829127",
+        "name": "Hue University of Education",
+        "short_name": null,
+        "official_website": "http:\/\/www.dhsphue.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829053",
+        "name": "Hung Vuong University",
+        "short_name": null,
+        "official_website": "http:\/\/hvu.edu.vn",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829017",
+        "name": "Hồng Đức University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hdu.edu.vn\/",
+        "aliases": [
+            "HDU Vietnam"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122922491",
+        "name": "Indochina Research",
+        "short_name": null,
+        "official_website": "https:\/\/indochina-research.com\/",
+        "aliases": [
+            "IRC",
+            "IRL",
+            "Indochina Research and Consulting",
+            "Indochina Research, Ltd."
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7895548",
+        "name": "Industrial University of Ho Chi Minh City",
+        "short_name": null,
+        "official_website": "http:\/\/www.hui.edu.vn\/",
+        "aliases": [
+            "Ho Chi Minh City University of Industry",
+            "Ho Chi Minh University of Industry"
+        ],
+        "latitude": 10.9384,
+        "longitude": 106.824,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2496369",
+        "name": "Institut de la Francophonie pour l'Informatique",
+        "short_name": null,
+        "official_website": "http:\/\/www.ifi.auf.org",
+        "aliases": null,
+        "latitude": 21.003122,
+        "longitude": 105.847718,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3151786",
+        "name": "Institut Pasteur in Ho Chi Minh City",
+        "short_name": null,
+        "official_website": "http:\/\/www.pasteurhcm.gov.vn\/",
+        "aliases": [
+            "Pasteur Institute - Sai Gon"
+        ],
+        "latitude": 10.786075,
+        "longitude": 106.688103,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q106472469",
+        "name": "Institute for Computational Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/icst.org.vn\/en\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q137645232",
+        "name": "Institute for Research on Books and Educational Materials",
+        "short_name": null,
+        "official_website": "https:\/\/viennghiencuusachgd.com\/",
+        "aliases": null,
+        "latitude": 21.0258132,
+        "longitude": 105.8230252,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q49054933",
+        "name": "Institute of Advanced Technology",
+        "short_name": null,
+        "official_website": "https:\/\/iat.vast.gov.vn",
+        "aliases": null,
+        "latitude": 10.8771213,
+        "longitude": 106.6789997,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10832760",
+        "name": "Institute of Anthropology",
+        "short_name": null,
+        "official_website": "http:\/\/viendantochoc.vass.gov.vn\/Pages\/Index.aspx",
+        "aliases": [
+            "Institute of Anthropology, Vietnamese Academy for Social Sciences",
+            "Vietnamese Academy for Social Sciences Institute of Anthropology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10832755",
+        "name": "Institute of Biology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q54554943",
+        "name": "Institute of Biomedical Physics",
+        "short_name": null,
+        "official_website": "http:\/\/biomedvn.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10832761",
+        "name": "Institute of Chemistry",
+        "short_name": null,
+        "official_website": "https:\/\/vienhoahoc.ac.vn\/",
+        "aliases": null,
+        "latitude": 21.047965,
+        "longitude": 105.799693,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q137916776",
+        "name": "Institute of Earth Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10832806",
+        "name": "Institute of Geological Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IGS",
+            "Institute of Geological Sciences of the Vietnam Academy of Science and Technology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10832756",
+        "name": "Institute of Information Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q137916778",
+        "name": "Institute of Life Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10832772",
+        "name": "Institute of Linguistics (Vietnam)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Viện ngôn ngữ học (Vietnam)"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q137916771",
+        "name": "Institute of Mechanics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q137916777",
+        "name": "Institute of Oceanography",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Nha Trang Oceanography Institute"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10832781",
+        "name": "Institute of Physics",
+        "short_name": null,
+        "official_website": "http:\/\/www.iop.vast.ac.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q137916785",
+        "name": "Institute of Science and Technology for Energy and Environment",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q19892791",
+        "name": "International School of Business",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829092",
+        "name": "Lac Hong University",
+        "short_name": null,
+        "official_website": "http:\/\/lhu.edu.vn\/",
+        "aliases": null,
+        "latitude": 10.9545,
+        "longitude": 106.8023,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123425613",
+        "name": "Lang Son College of Education",
+        "short_name": null,
+        "official_website": "https:\/\/lce.edu.vn\/",
+        "aliases": null,
+        "latitude": 21.8430068,
+        "longitude": 106.748373,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4130078",
+        "name": "Le Quy Don Technical University",
+        "short_name": null,
+        "official_website": "https:\/\/mta.edu.vn",
+        "aliases": [
+            "Le Quy Don University of Science and Technology",
+            "Military Institute of Science and Technology",
+            "Military Technical Academy"
+        ],
+        "latitude": 21.0483,
+        "longitude": 105.786,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829075",
+        "name": "Long An University of Economics and Industry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17073291",
+        "name": "MICA Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.mica.edu.vn",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q61128838",
+        "name": "Mien Tay Construction University",
+        "short_name": null,
+        "official_website": "http:\/\/mtu.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829166",
+        "name": "Mientrung University Of Civil Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/muce.edu.vn\/",
+        "aliases": [
+            "MUCE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134695487",
+        "name": "MIT University Vietnam",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 10.9444444,
+        "longitude": 107.1608333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q134286143",
+        "name": "Nam Dinh College of Education",
+        "short_name": null,
+        "official_website": "https:\/\/cdspnd.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6972380",
+        "name": "National Economics University",
+        "short_name": null,
+        "official_website": "http:\/\/www.en.neu.edu.vn\/",
+        "aliases": [
+            "NEU"
+        ],
+        "latitude": 20.999722,
+        "longitude": 105.844814,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000093",
+        "name": "National Economics University Vietnam-Netherlands Master in Development Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829104",
+        "name": "Nguyen Tat Thanh University",
+        "short_name": null,
+        "official_website": "https:\/\/ntt.edu.vn\/",
+        "aliases": [
+            "NTTU",
+            "Trường ĐH Nguyễn Tất Thành"
+        ],
+        "latitude": 10.662223,
+        "longitude": 106.72113,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q2740474",
+        "name": "Nha Trang University",
+        "short_name": null,
+        "official_website": "http:\/\/www.ntu.edu.vn\/",
+        "aliases": null,
+        "latitude": 12.2703,
+        "longitude": 109.2,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5873976",
+        "name": "Nong Lam University",
+        "short_name": null,
+        "official_website": "http:\/\/www.hcmuaf.edu.vn\/",
+        "aliases": [
+            "Ho Chi Minh City University of Agriculture and Forestry"
+        ],
+        "latitude": 10.8713,
+        "longitude": 106.7917,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829040",
+        "name": "PetroVietnam University",
+        "short_name": null,
+        "official_website": "http:\/\/www.pvu.edu.vn\/",
+        "aliases": [
+            "PVU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829114",
+        "name": "Pham Van Dong University",
+        "short_name": null,
+        "official_website": "http:\/\/www.pdu.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829111",
+        "name": "Phu Yen University",
+        "short_name": null,
+        "official_website": "http:\/\/www.pyu.edu.vn\/",
+        "aliases": [
+            "PYU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10771881",
+        "name": "Posts and Telecommunications Institute of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.ptit.edu.vn\/",
+        "aliases": null,
+        "latitude": 20.981,
+        "longitude": 105.78708,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7234497",
+        "name": "Posts and Telecommunications Institute of Technology, Ho Chi Minh City",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10771896",
+        "name": "Q10771896",
+        "short_name": null,
+        "official_website": "http:\/\/hocvienquany.vn\/",
+        "aliases": null,
+        "latitude": 20.9668286,
+        "longitude": 105.7884374,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10771903",
+        "name": "Q10771903",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 21.047039,
+        "longitude": 105.8018253,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10828883",
+        "name": "Q10828883",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829016",
+        "name": "Q10829016",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829147",
+        "name": "Q10829147",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10832798",
+        "name": "Q10832798",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q118446437",
+        "name": "Q118446437",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q122143828",
+        "name": "Q122143828",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125375684",
+        "name": "Q125375684",
+        "short_name": null,
+        "official_website": "https:\/\/vlvc.edu.vn\/",
+        "aliases": null,
+        "latitude": 10.16717,
+        "longitude": 105.92773,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q16481353",
+        "name": "Q16481353",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Đại học Mỹ thuật Công nghiệp Hà Nội"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25417473",
+        "name": "Q25417473",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q65172277",
+        "name": "Q65172277",
+        "short_name": null,
+        "official_website": "http:\/\/www.vnad.edu.vn",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2406422",
+        "name": "Quang Binh University",
+        "short_name": null,
+        "official_website": "http:\/\/www.quangbinhuni.edu.vn",
+        "aliases": null,
+        "latitude": 17.4858,
+        "longitude": 106.604,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829117",
+        "name": "Quang Nam University",
+        "short_name": null,
+        "official_website": "http:\/\/qnamuni.edu.vn\/",
+        "aliases": [
+            "QNU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829025",
+        "name": "Quang Ninh University of Industry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2707502",
+        "name": "Quảng Nam University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7277005",
+        "name": "RMIT University Vietnam",
+        "short_name": null,
+        "official_website": "http:\/\/www.rmit.edu.vn",
+        "aliases": [
+            "RMIT International University, Vietnam",
+            "RMIT Vietnam"
+        ],
+        "latitude": 10.75,
+        "longitude": 106.6666667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7400087",
+        "name": "Saigon Technology University",
+        "short_name": null,
+        "official_website": "http:\/\/www.stu.edu.vn",
+        "aliases": null,
+        "latitude": 10.7388,
+        "longitude": 106.677,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q368923",
+        "name": "Saigon University",
+        "short_name": null,
+        "official_website": "http:\/\/www.sgu.edu.vn",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137737155",
+        "name": "SaigonTech",
+        "short_name": null,
+        "official_website": "https:\/\/caodangsaigon.edu.vn",
+        "aliases": null,
+        "latitude": 10.856049,
+        "longitude": 106.6298584,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7579810",
+        "name": "Sports and Physical Gymnastics University II",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 10.8787306,
+        "longitude": 106.7952778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q123724532",
+        "name": "Tan Trao University",
+        "short_name": null,
+        "official_website": "https:\/\/daihoctantrao.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829156",
+        "name": "Tay Bac University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16480583",
+        "name": "Tay Nguyen University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ttn.edu.vn\/",
+        "aliases": [
+            "TNU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829139",
+        "name": "Thai Binh Duong University",
+        "short_name": null,
+        "official_website": "https:\/\/tbd.edu.vn",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10841229",
+        "name": "Thai Nguyen University",
+        "short_name": null,
+        "official_website": "http:\/\/www.tnu.edu.vn\/",
+        "aliases": [
+            "TNU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829125",
+        "name": "Thai Nguyen University of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829169",
+        "name": "Thai Nguyen University of Medicine and Pharmacy",
+        "short_name": null,
+        "official_website": "https:\/\/tump.edu.vn\/",
+        "aliases": [
+            "TUMP"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829082",
+        "name": "Thai Nguyen University of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/en.tnut.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829137",
+        "name": "Thanh Do University",
+        "short_name": null,
+        "official_website": "https:\/\/thanhdo.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829136",
+        "name": "Thanh Tay University",
+        "short_name": null,
+        "official_website": "http:\/\/www.thanhtay.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7713573",
+        "name": "The American University of Vietnam",
+        "short_name": null,
+        "official_website": "http:\/\/www.auv.edu.vn",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16480294",
+        "name": "The Army Academy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q77957779",
+        "name": "The International Center for Interdisciplinary Science and Education",
+        "short_name": null,
+        "official_website": "https:\/\/www.icisequynhon.com\/",
+        "aliases": [
+            "ICISE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829119",
+        "name": "The Saigon International University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "The Group of Asian International Education"
+        ],
+        "latitude": 10.8451,
+        "longitude": 106.772,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10832763",
+        "name": "The Vietnam Institute of Educational Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.vnies.edu.vn\/",
+        "aliases": [
+            "VNIES"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q10829145",
+        "name": "Thu Dau Mot University",
+        "short_name": null,
+        "official_website": "https:\/\/tdmu.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7973360",
+        "name": "Thuyloi University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "TLU",
+            "Water Resources University"
+        ],
+        "latitude": 21.007381,
+        "longitude": 105.824519,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829149",
+        "name": "Tra Vinh University",
+        "short_name": null,
+        "official_website": "http:\/\/www.tvu.edu.vn\/",
+        "aliases": null,
+        "latitude": 9.922,
+        "longitude": 106.347,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000201",
+        "name": "Tra Vinh University Department of Applied Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000205",
+        "name": "Tra Vinh University Department of Biochemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000208",
+        "name": "Tra Vinh University Department of Chemistry",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000211",
+        "name": "Tra Vinh University Department of Economics Business Administration",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000222",
+        "name": "Tra Vinh University Department of Information Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000231",
+        "name": "Tra Vinh University Department of Pedagogic",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000233",
+        "name": "Tra Vinh University Department of Physical Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000236",
+        "name": "Tra Vinh University School of Agriculture and Aquaculture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000237",
+        "name": "Tra Vinh University School of Economics and Law",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000241",
+        "name": "Tra Vinh University School of Foreign Languages",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16480704",
+        "name": "Trade Union University",
+        "short_name": null,
+        "official_website": "http:\/\/www.dhcd.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829155",
+        "name": "Tân Tạo University",
+        "short_name": null,
+        "official_website": "http:\/\/ttu.edu.vn\/",
+        "aliases": null,
+        "latitude": 10.8003,
+        "longitude": 106.455,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1457082",
+        "name": "Tôn Đức Thắng University",
+        "short_name": null,
+        "official_website": "https:\/\/www.tdtu.edu.vn",
+        "aliases": [
+            "TDTU"
+        ],
+        "latitude": 10.7319444,
+        "longitude": 106.6991667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6134439",
+        "name": "University of Civil Engineering of Vietnam",
+        "short_name": null,
+        "official_website": "http:\/\/nuce.edu.vn",
+        "aliases": [
+            "National University of Civil Engineering",
+            "NUCE"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q945839",
+        "name": "University of Da Nang",
+        "short_name": null,
+        "official_website": "http:\/\/www.udn.vn\/",
+        "aliases": [
+            "University of Danang"
+        ],
+        "latitude": 16.070939,
+        "longitude": 108.219435,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000044",
+        "name": "University of Danang School of Information Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2562140",
+        "name": "University of Economics, Ho Chi Minh City",
+        "short_name": null,
+        "official_website": "http:\/\/www.ueh.edu.vn\/",
+        "aliases": null,
+        "latitude": 10.784,
+        "longitude": 106.694,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829152",
+        "name": "University of Finance - Marketing",
+        "short_name": null,
+        "official_website": "http:\/\/ufm.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20026261",
+        "name": "University of Fire Fighting and Prevention",
+        "short_name": null,
+        "official_website": "https:\/\/daihocpccc.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10828807",
+        "name": "University of Khanh Hoa",
+        "short_name": null,
+        "official_website": "http:\/\/ukh.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895616",
+        "name": "University of Languages and International Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.ulis.vnu.edu.vn\/",
+        "aliases": [
+            "College of Foreign Languages",
+            "ULIS school"
+        ],
+        "latitude": 21.0393333,
+        "longitude": 105.7816778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829064",
+        "name": "University of Social Sciences and Humanities, VNU Hanoi",
+        "short_name": null,
+        "official_website": "http:\/\/ussh.vnu.edu.vn",
+        "aliases": [
+            "USSH-VNU",
+            "University of Social Sciences and Humanities",
+            "USSH"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896405",
+        "name": "University of Technology and Education",
+        "short_name": null,
+        "official_website": "http:\/\/www.utehy.edu.vn",
+        "aliases": null,
+        "latitude": 20.938317,
+        "longitude": 106.31239,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000164",
+        "name": "University of Technology and Education Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829151",
+        "name": "University of Tran Dai Nghia",
+        "short_name": null,
+        "official_website": "http:\/\/tdnu.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829041",
+        "name": "University of Transport and Communications",
+        "short_name": null,
+        "official_website": "http:\/\/en.utc.edu.vn",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20025751",
+        "name": "University of Transport Technology",
+        "short_name": null,
+        "official_website": "https:\/\/utt.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7913402",
+        "name": "Van Hien University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 10.8037,
+        "longitude": 106.685,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7913477",
+        "name": "Van Lang University",
+        "short_name": null,
+        "official_website": "http:\/\/www.vanlanguni.edu.vn",
+        "aliases": [
+            "Universitas Vanlangensis"
+        ],
+        "latitude": 10.7634,
+        "longitude": 106.693,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7913787",
+        "name": "Van Xuan University of Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.vxut.edu.vn\/",
+        "aliases": null,
+        "latitude": 18.7894,
+        "longitude": 105.717,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16480995",
+        "name": "Viet-Hung Industrial University",
+        "short_name": null,
+        "official_website": "https:\/\/viu.edu.vn\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7928484",
+        "name": "Vietnam Academy of Science and Technology",
+        "short_name": "VAST",
+        "official_website": "https:\/\/vast.gov.vn",
+        "aliases": [
+            "VAST",
+            "Vietnam Academy of Science"
+        ],
+        "latitude": 21.0468611,
+        "longitude": 105.8003119,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q302448",
+        "name": "Vietnam Aviation Academy",
+        "short_name": null,
+        "official_website": "https:\/\/vaa.edu.vn\/",
+        "aliases": [
+            "VAA"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q49054837",
+        "name": "Vietnam Institute for Advanced Study in Mathematics",
+        "short_name": null,
+        "official_website": "https:\/\/viasm.edu.vn",
+        "aliases": null,
+        "latitude": 21.0223695,
+        "longitude": 105.8033524,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20026262",
+        "name": "Vietnam Japan University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 21.0329167,
+        "longitude": 105.7625,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7928523",
+        "name": "Vietnam Maritime University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 20.837335,
+        "longitude": 106.695632,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5649320",
+        "name": "Vietnam National Academy of Music",
+        "short_name": null,
+        "official_website": "https:\/\/www.vnam.edu.vn\/",
+        "aliases": [
+            "Hanoi Conservatory of Music"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q137916791",
+        "name": "Vietnam National Space Center",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q943759",
+        "name": "Vietnam National University",
+        "short_name": "VNUHCM",
+        "official_website": "http:\/\/www.vnuhcm.edu.vn\/",
+        "aliases": [
+            "Ho Chi Minh City National University",
+            "VNU-HCM",
+            "VNUHCM"
+        ],
+        "latitude": 10.7828,
+        "longitude": 106.695,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1076729",
+        "name": "Vietnam National University",
+        "short_name": null,
+        "official_website": "http:\/\/vnu.edu.vn\/eng\/",
+        "aliases": [
+            "Hanoi National University",
+            "VNU",
+            "VNU-Hanoi"
+        ],
+        "latitude": 20.99177,
+        "longitude": 105.7968,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000095",
+        "name": "Vietnam National University Department of Anthropology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5873999",
+        "name": "Vietnam National University Ho Chi Minh City, University of Social Sciences and Humanities (VNUHCM-USSH)",
+        "short_name": null,
+        "official_website": "http:\/\/www.hcmussh.edu.vn\/",
+        "aliases": [
+            "Ho Chi Minh City University of Social Sciences and Humanities",
+            "VNUHCM-USSH"
+        ],
+        "latitude": 10.787807,
+        "longitude": 106.7038389,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10829090",
+        "name": "Vietnam National University of Forestry",
+        "short_name": null,
+        "official_website": "http:\/\/en.vnuf.edu.vn\/home",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000104",
+        "name": "Vietnam National University University of Languages and International Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q24902367",
+        "name": "Vietnam National University, Hanoi – International School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7928533",
+        "name": "Vietnam Naval Academy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 12.2151,
+        "longitude": 109.207,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10771907",
+        "name": "Vietnam University of Traditional Medicine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10832786",
+        "name": "Vietnamese Academy of Forest Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/vafs.gov.vn\/",
+        "aliases": [
+            "VAFS"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7928650",
+        "name": "Vietnamese military academies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q835285",
+        "name": "Vietnamese-German University",
+        "short_name": null,
+        "official_website": "http:\/\/www.vgu.edu.vn",
+        "aliases": [
+            "VGU"
+        ],
+        "latitude": 11.1072222,
+        "longitude": 106.6144444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q14655485",
+        "name": "Vietnamese-Japanese Foreign Language-Technology College",
+        "short_name": null,
+        "official_website": "http:\/\/cnc.edu.vn\/?setLanguage=en",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q125164592",
+        "name": "Vietnam–Japan Institute of Technology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "VJIT",
+            "Vietnam-Japan Institute of Technology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q108737605",
+        "name": "Vinh Long University of Technology and Education",
+        "short_name": null,
+        "official_website": "http:\/\/vlute.edu.vn\/vi",
+        "aliases": [
+            "Vinh Long University of Technology and Education",
+            "VLUTE"
+        ],
+        "latitude": 10.25007,
+        "longitude": 105.96217,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q717262",
+        "name": "Vinh medical university",
+        "short_name": null,
+        "official_website": "http:\/\/www.vmu.edu.vn",
+        "aliases": null,
+        "latitude": 18.6861,
+        "longitude": 105.699,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q20984308",
+        "name": "Vinh University",
+        "short_name": null,
+        "official_website": "https:\/\/vinhuni.edu.vn\/",
+        "aliases": null,
+        "latitude": 18.6588611,
+        "longitude": 105.6958889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q86012411",
+        "name": "VinUni",
+        "short_name": null,
+        "official_website": "http:\/\/vinuni.edu.vn\/",
+        "aliases": [
+            "VinUniversity"
+        ],
+        "latitude": 20.9893,
+        "longitude": 105.9436,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q10832802",
+        "name": "Viện Đại học Vạn Hạnh",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5146680",
+        "name": "VNU University of Economics and Business",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

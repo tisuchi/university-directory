@@ -1,0 +1,1264 @@
+[
+    {
+        "wikidata_id": "Q723646",
+        "name": "\"Prof. Dr. Assen Zlatarov\" University",
+        "short_name": null,
+        "official_website": "https:\/\/www.btu.bg\/index.php\/bg\/",
+        "aliases": [
+            "BTU",
+            "Prof. Assen Zlatarov University"
+        ],
+        "latitude": 42.5275,
+        "longitude": 27.4488889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12271285",
+        "name": "Academy of Music, Dance and Fine Arts",
+        "short_name": null,
+        "official_website": "http:\/\/www.artacademyplovdiv.com",
+        "aliases": null,
+        "latitude": 42.14761,
+        "longitude": 24.751005,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q92309223",
+        "name": "Agricultural Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.agriacad.bg\/",
+        "aliases": [
+            "SAA",
+            "National Centre for Agrarian Science"
+        ],
+        "latitude": 42.6972222,
+        "longitude": 23.2638889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30257336",
+        "name": "Agricultural University Plovdiv",
+        "short_name": null,
+        "official_website": "http:\/\/www.au-plovdiv.bg\/",
+        "aliases": [
+            "AU",
+            "Agricultural University of Plovdiv"
+        ],
+        "latitude": 42.134178,
+        "longitude": 24.765491,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q469484",
+        "name": "American University in Bulgaria",
+        "short_name": null,
+        "official_website": "http:\/\/www.aubg.edu\/",
+        "aliases": null,
+        "latitude": 42.0213889,
+        "longitude": 23.095,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74557452",
+        "name": "Austrian Herpetological Society (ÖGH)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118038",
+        "name": "Burgas Free University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bfu.bg\/",
+        "aliases": null,
+        "latitude": 42.5036111,
+        "longitude": 27.4688889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q53510785",
+        "name": "Catholic College Notre Dame de Sion, Rousse",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5146682",
+        "name": "College of Economics – Bourgas",
+        "short_name": null,
+        "official_website": "http:\/\/www.ti-bs.org",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q52766541",
+        "name": "College of Energetics and Electronics",
+        "short_name": null,
+        "official_website": "https:\/\/sites.google.com\/site\/collegetusofia\/",
+        "aliases": null,
+        "latitude": 42.66,
+        "longitude": 23.36,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12283357",
+        "name": "College of Telecommunications and Post",
+        "short_name": null,
+        "official_website": "http:\/\/www.utp.bg\/en\/",
+        "aliases": [
+            "CTP",
+            "UTP",
+            "University of Telecommunications and Post"
+        ],
+        "latitude": 42.656084,
+        "longitude": 23.347648,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12283359",
+        "name": "College of Tourism",
+        "short_name": null,
+        "official_website": "http:\/\/www.ct-varna.com\/",
+        "aliases": null,
+        "latitude": 43.205926,
+        "longitude": 27.922749,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12283358",
+        "name": "College of Tourism - Blagoevgrad",
+        "short_name": null,
+        "official_website": "http:\/\/www.cotur.org\/",
+        "aliases": null,
+        "latitude": 42.017149,
+        "longitude": 23.100597,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q53511060",
+        "name": "College St. Michael, Varna",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 43.2073889,
+        "longitude": 27.9223333,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12295453",
+        "name": "D. A. Tsenov Academy of Economics",
+        "short_name": null,
+        "official_website": "http:\/\/www.uni-svishtov.bg\/",
+        "aliases": [
+            "D. A. Tsenov Academy of Economics",
+            "Higher Institute of Finances and Economics"
+        ],
+        "latitude": 43.62066,
+        "longitude": 25.3440861,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12297478",
+        "name": "Dolna Mitropoliya Air Base",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 43.464687,
+        "longitude": 24.5294171,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12279431",
+        "name": "European Polytechnical University",
+        "short_name": null,
+        "official_website": "http:\/\/www.epu.bg",
+        "aliases": null,
+        "latitude": 42.610847,
+        "longitude": 23.040272,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12283352",
+        "name": "French College St. Augustine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q53510588",
+        "name": "French College St. St. Cyril and Methodius",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12270405",
+        "name": "High School 137 „Angel Kantchev“",
+        "short_name": null,
+        "official_website": "http:\/\/137sou.org\/",
+        "aliases": null,
+        "latitude": 42.726629,
+        "longitude": 23.259568,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74552952",
+        "name": "Hilaris Ltd",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12290859",
+        "name": "Humanitarian High School \"Saints Cyril and Methodius\" Plovdiv",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 42.1527778,
+        "longitude": 24.7477778,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111514657",
+        "name": "INSAIT",
+        "short_name": null,
+        "official_website": "https:\/\/insait.ai\/",
+        "aliases": [
+            "Institute for Computer Science, Artificial Intelligence and Technology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q118384645",
+        "name": "Institute for Advanced Physical Studies",
+        "short_name": null,
+        "official_website": "http:\/\/iaps.institute\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12281773",
+        "name": "Institute for Nuclear Research and Nuclear Energy",
+        "short_name": null,
+        "official_website": "http:\/\/www.inrne.bas.bg\/",
+        "aliases": null,
+        "latitude": 42.6524,
+        "longitude": 23.3889,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12281782",
+        "name": "Institute for Parallel Processing",
+        "short_name": null,
+        "official_website": "http:\/\/www.bas.bg\/clpp\/en\/indexen.htm",
+        "aliases": [
+            "INSTITUTE FOR PARALLEL PROCESSING OF THE BULGARIAN ACADEMY OF SCIENCES"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q126112000",
+        "name": "Institute for the State and the Law - Bulgarian Academy of Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/ipn-bg.org\/",
+        "aliases": null,
+        "latitude": 42.6981563,
+        "longitude": 23.3249143,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12281768",
+        "name": "Institute for the Study of Societies and Knowledge",
+        "short_name": null,
+        "official_website": "https:\/\/ips-bas.org\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6039903",
+        "name": "Institute of Astronomy of the Bulgarian Academy of Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/www.astro.bas.bg\/index_bg.php",
+        "aliases": [
+            "Institute of Astronomy with National Astronomical Observatory"
+        ],
+        "latitude": 42.6530556,
+        "longitude": 23.3861111,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q50040177",
+        "name": "Institute of Biophysics and Biomedical Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/biomed.bas.bg\/en\/",
+        "aliases": [
+            "IBPhBME"
+        ],
+        "latitude": 42.672668,
+        "longitude": 23.365094,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30289826",
+        "name": "Institute of Chemical Engineering",
+        "short_name": null,
+        "official_website": "http:\/\/www.iche.bas.bg\/",
+        "aliases": [
+            "IChE"
+        ],
+        "latitude": 42.6738,
+        "longitude": 23.367,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q33121403",
+        "name": "Institute of Cryobiology and Food Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.ikht.bg\/",
+        "aliases": [
+            "ICFT",
+            "Institute of cryobiology and food technology"
+        ],
+        "latitude": 42.657629,
+        "longitude": 23.316433,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30284381",
+        "name": "Institute of Electrochemistry and Energy Systems",
+        "short_name": null,
+        "official_website": "https:\/\/iees.bas.bg",
+        "aliases": [
+            "IEES",
+            "Central Laboratory of Electrochemical Power Sources",
+            "CLEPS",
+            "Evgeni Budevski Institute of Electrochemistry and Energy Systems"
+        ],
+        "latitude": 42.675854,
+        "longitude": 23.366949,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12281775",
+        "name": "Institute of Electronics",
+        "short_name": null,
+        "official_website": "http:\/\/www.ie-bas.dir.bg\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12281784",
+        "name": "Institute of Fisheries and Aquaculture",
+        "short_name": null,
+        "official_website": "http:\/\/ira-plovdiv.com\/",
+        "aliases": null,
+        "latitude": 42.187706,
+        "longitude": 24.750094,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q50035076",
+        "name": "Institute of Information and Communication Technologies",
+        "short_name": null,
+        "official_website": "https:\/\/www.iict.bas.bg\/",
+        "aliases": [
+            "IICT",
+            "Institute of Information and Communication Technologies at the Bulgarian Academy of Sciences"
+        ],
+        "latitude": 42.698014,
+        "longitude": 23.325452,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12281778",
+        "name": "Institute of Information Technologies",
+        "short_name": null,
+        "official_website": "http:\/\/www.iit.bas.bg\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12281781",
+        "name": "Institute of Mathematics and Informatics",
+        "short_name": null,
+        "official_website": "https:\/\/math.bas.bg\/",
+        "aliases": [
+            "Institute of Mathematics",
+            "Bulgarian Academy of Sciences Institute of Mathematics",
+            "Bulgarian Academy of Sciences Institute of Mathematics and Informatics",
+            "Institute of Mathematics and Informatics, Bulgarian Academy of Sciences",
+            "Institute of Mathematics with Computing Centre",
+            "Institute of Mathematics, Bulgarian Academy of Sciences"
+        ],
+        "latitude": 42.6751806,
+        "longitude": 23.3685667,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12281780",
+        "name": "Institute of Mechanics",
+        "short_name": null,
+        "official_website": "http:\/\/www.imbm.bas.bg\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q63139273",
+        "name": "Institute of Robotics",
+        "short_name": null,
+        "official_website": "http:\/\/ir.bas.bg",
+        "aliases": null,
+        "latitude": 42.676491,
+        "longitude": 23.3684028,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q11214596",
+        "name": "Institute of Solid State Physics",
+        "short_name": null,
+        "official_website": "http:\/\/www.issp.bas.bg\/?lang=en",
+        "aliases": null,
+        "latitude": 42.6525,
+        "longitude": 23.3888889,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q66545517",
+        "name": "Laboratory of Telematics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 42.675,
+        "longitude": 23.3686111,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3404811",
+        "name": "Macedonian Scientific Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q101008812",
+        "name": "Medical University of Sofia Department of Neurology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q648637",
+        "name": "Medical University of Varna",
+        "short_name": null,
+        "official_website": "https:\/\/www.mu-varna.bg",
+        "aliases": [
+            "Higher Medical Institute of Varna",
+            "MU-Varna"
+        ],
+        "latitude": 43.212222,
+        "longitude": 27.921111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1916598",
+        "name": "Medical University Pleven",
+        "short_name": null,
+        "official_website": "http:\/\/www.mu-pleven.bg\/",
+        "aliases": [
+            "Meditsinski universitet — Pleven"
+        ],
+        "latitude": 43.4105556,
+        "longitude": 24.6275,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74543303",
+        "name": "Museum für Naturkunde in Berlin",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1497827",
+        "name": "National Archaeological Museum, Bulgaria",
+        "short_name": null,
+        "official_website": "http:\/\/www.naim.bg\/",
+        "aliases": [
+            "Bulgarian National Archaeological Museum",
+            "National Archaeological Institute with Museum at the Bulgarian Academy of Sciences"
+        ],
+        "latitude": 42.696331,
+        "longitude": 23.324564,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12287847",
+        "name": "National Institute of Meteorology and Hydrology",
+        "short_name": null,
+        "official_website": "http:\/\/www.meteo.bg\/",
+        "aliases": null,
+        "latitude": 42.6544444,
+        "longitude": 23.3833333,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q65556815",
+        "name": "National Laboratory of Computer Virology",
+        "short_name": null,
+        "official_website": "https:\/\/www.nlcv.bas.bg\/",
+        "aliases": null,
+        "latitude": 42.675,
+        "longitude": 23.3686,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q6974486",
+        "name": "National Museum of Natural History",
+        "short_name": null,
+        "official_website": "http:\/\/www.nmnhs.com\/",
+        "aliases": [
+            "National Museum of Natural History at the Bulgarian Academy of Sciences",
+            "National Museum of Natural History, Bulgaria"
+        ],
+        "latitude": 42.6956833,
+        "longitude": 23.3284639,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q370968",
+        "name": "New Bulgarian University",
+        "short_name": null,
+        "official_website": "https:\/\/nbu.bg\/",
+        "aliases": [
+            "NBU"
+        ],
+        "latitude": 42.6775,
+        "longitude": 23.2530556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7035695",
+        "name": "Nikola Vaptsarov Naval Academy",
+        "short_name": null,
+        "official_website": "http:\/\/www.naval-acad.bg",
+        "aliases": [
+            "VVMU"
+        ],
+        "latitude": 43.2122222,
+        "longitude": 27.9330556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q35326544",
+        "name": "NVU",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 43.08397,
+        "longitude": 25.60287,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7084220",
+        "name": "Old High School of Music, Ruse",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 43.8441667,
+        "longitude": 25.9545833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3557727",
+        "name": "Plovdiv Medical University",
+        "short_name": null,
+        "official_website": "https:\/\/mu-plovdiv.bg\/",
+        "aliases": null,
+        "latitude": 42.137981,
+        "longitude": 24.735179,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7205171",
+        "name": "Plovdiv University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uni-plovdiv.bg\/",
+        "aliases": [
+            "The Paisii Hilendarski University of Plovdiv",
+            "University of Plovdiv"
+        ],
+        "latitude": 42.1380556,
+        "longitude": 24.7508333,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q106348320",
+        "name": "Professional School PO Mehanizatsia Na Zemedelskoto Stopanstvo",
+        "short_name": null,
+        "official_website": "https:\/\/www.pgmzs.bg",
+        "aliases": null,
+        "latitude": 42.2116667,
+        "longitude": 24.13,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12291592",
+        "name": "Professional Sergeant College",
+        "short_name": null,
+        "official_website": "https:\/\/www.naval-acad.bg",
+        "aliases": null,
+        "latitude": 43.2119963,
+        "longitude": 27.9329909,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107723791",
+        "name": "Q107723791",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 43.2242857,
+        "longitude": 27.9305345,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12275342",
+        "name": "Q12275342",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 44.108234,
+        "longitude": 27.266283,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12283353",
+        "name": "Q12283353",
+        "short_name": null,
+        "official_website": "http:\/\/www.tu-varna.bg\/tu-varnakv\/",
+        "aliases": null,
+        "latitude": 43.224067,
+        "longitude": 27.935185,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12283354",
+        "name": "Q12283354",
+        "short_name": null,
+        "official_website": "http:\/\/www.vusi.bg",
+        "aliases": null,
+        "latitude": 42.121364,
+        "longitude": 24.758995,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12286374",
+        "name": "Q12286374",
+        "short_name": null,
+        "official_website": "http:\/\/www.mu-varna.bg\/muVarna\/index.php?option=com_content&view=article&id=55&Itemid=63",
+        "aliases": null,
+        "latitude": 43.21598,
+        "longitude": 27.913486,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q12290858",
+        "name": "Q12290858",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12291001",
+        "name": "Q12291001",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12295089",
+        "name": "Q12295089",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q12297584",
+        "name": "Q12297584",
+        "short_name": null,
+        "official_website": "http:\/\/fs.uni-ruse.bg\/",
+        "aliases": null,
+        "latitude": 44.106539,
+        "longitude": 27.249527,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12299008",
+        "name": "Q12299008",
+        "short_name": null,
+        "official_website": "http:\/\/www.collegeomega.com",
+        "aliases": null,
+        "latitude": 42.124816,
+        "longitude": 24.775023,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q126101596",
+        "name": "Q126101596",
+        "short_name": null,
+        "official_website": "https:\/\/www.orgchm.bas.bg\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q126101670",
+        "name": "Q126101670",
+        "short_name": null,
+        "official_website": "https:\/\/www.igic.bas.bg\/",
+        "aliases": null,
+        "latitude": 42.676651,
+        "longitude": 23.366698,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q126112062",
+        "name": "Q126112062",
+        "short_name": null,
+        "official_website": "http:\/\/www.bio21.bas.bg\/ippg\/bg\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q135671259",
+        "name": "Q135671259",
+        "short_name": null,
+        "official_website": "http:\/\/microbio.bas.bg\/wordpress\/index.php\/en\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q137568946",
+        "name": "Q137568946",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q20499305",
+        "name": "Q20499305",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21786759",
+        "name": "Q21786759",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 43.07547,
+        "longitude": 25.60965,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21786760",
+        "name": "Q21786760",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 43.08306,
+        "longitude": 25.63256,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21786764",
+        "name": "Q21786764",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 43.08063,
+        "longitude": 25.63484,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q39861026",
+        "name": "Q39861026",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q57736645",
+        "name": "Q57736645",
+        "short_name": null,
+        "official_website": "https:\/\/www.ou2sz.com\/",
+        "aliases": null,
+        "latitude": 42.4280278,
+        "longitude": 25.6243806,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60402927",
+        "name": "Q60402927",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q61917084",
+        "name": "Q61917084",
+        "short_name": null,
+        "official_website": "http:\/\/www.polymer.bas.bg\/",
+        "aliases": null,
+        "latitude": 42.673543,
+        "longitude": 23.366817,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q64772899",
+        "name": "Q64772899",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 42.1273681,
+        "longitude": 24.7534769,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q69498225",
+        "name": "Q69498225",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q70604739",
+        "name": "Q70604739",
+        "short_name": null,
+        "official_website": "http:\/\/www.bio21.bas.bg\/imb\/",
+        "aliases": null,
+        "latitude": 42.6722222,
+        "longitude": 23.3647222,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q83365607",
+        "name": "Q83365607",
+        "short_name": null,
+        "official_website": "https:\/\/3ou-akanchev-vn.com\/",
+        "aliases": null,
+        "latitude": 43.2247222,
+        "longitude": 27.9147222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q87647474",
+        "name": "Q87647474",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 43.5534444,
+        "longitude": 27.8328611,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q30254762",
+        "name": "Rostislaw Kaischew Institute of Physical Chemistry",
+        "short_name": null,
+        "official_website": "http:\/\/www.ipc.bas.bg\/",
+        "aliases": [
+            "Institute of Physical Chemistry",
+            "Kaischew Institute of Physical Chemistry"
+        ],
+        "latitude": 42.676609,
+        "longitude": 23.366822,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1782652",
+        "name": "Shumen University",
+        "short_name": null,
+        "official_website": "http:\/\/shu-bg.net\/",
+        "aliases": [
+            "Konstantin Preslavski University of Shumen",
+            "Shumen University",
+            "University of Shumen"
+        ],
+        "latitude": 43.279915,
+        "longitude": 26.946383,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q25484589",
+        "name": "Skopje State University \"Tsar Boris III – The Unifier\"",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74526682",
+        "name": "Skovoroda Institute of Philosophy at the National Academy of Sciences of Ukraine",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q74549229",
+        "name": "Societas Europaea Lepidopterologica (SEL)",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q1485112",
+        "name": "Sofia Medical University",
+        "short_name": null,
+        "official_website": "https:\/\/mu-sofia.bg\/",
+        "aliases": [
+            "Medical University – Sofia",
+            "Medical University of Sofia"
+        ],
+        "latitude": 42.6833333,
+        "longitude": 23.3072222,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q841581",
+        "name": "Sofia University",
+        "short_name": null,
+        "official_website": "https:\/\/uni-sofia.bg",
+        "aliases": [
+            "Sv. Kliment Ohridski",
+            "BFUS",
+            "Sofia University \"St. Kliment Ohridski\"",
+            "Sofiyski universitet",
+            "St. Kliment Ohridski",
+            "St. Kliment Ohridski University",
+            "University of Sofia"
+        ],
+        "latitude": 42.6936111,
+        "longitude": 23.335,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19842479",
+        "name": "SoftUni",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 42.66691,
+        "longitude": 23.352326,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2380350",
+        "name": "South-West University \"Neofit Rilski\"",
+        "short_name": null,
+        "official_website": "http:\/\/www.swu.bg\/",
+        "aliases": [
+            "South-West University"
+        ],
+        "latitude": 42.018415,
+        "longitude": 23.077568,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2606872",
+        "name": "Space Research and Technology Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.space.bas.bg",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q53511177",
+        "name": "St. André College, Varna",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1622169",
+        "name": "State University of Library Studies and Information Technologies",
+        "short_name": null,
+        "official_website": "http:\/\/www.unibit.bg\/",
+        "aliases": [
+            "unibit.bg"
+        ],
+        "latitude": 42.657646,
+        "longitude": 23.387792,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2399293",
+        "name": "Technical University of Gabrovo",
+        "short_name": null,
+        "official_website": "http:\/\/www.tugab.bg\/",
+        "aliases": null,
+        "latitude": 42.875599,
+        "longitude": 25.307259,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2303775",
+        "name": "Technical University of Sofia",
+        "short_name": null,
+        "official_website": "http:\/\/www.tu-sofia.bg\/",
+        "aliases": [
+            "Technical University Sofia"
+        ],
+        "latitude": 42.6553,
+        "longitude": 23.3552,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2399361",
+        "name": "Technical University of Varna",
+        "short_name": null,
+        "official_website": "http:\/\/www.tu-varna.bg\/",
+        "aliases": [
+            "TU – Varna",
+            "ТУ – Варна"
+        ],
+        "latitude": 43.2239,
+        "longitude": 27.9361,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12275343",
+        "name": "Todor Kableshkov Higher School of Transport",
+        "short_name": null,
+        "official_website": "http:\/\/www.vtu.bg\/",
+        "aliases": null,
+        "latitude": 42.678971,
+        "longitude": 23.381865,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3658386",
+        "name": "Trakia University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uni-sz.bg\/",
+        "aliases": [
+            "Thrace University",
+            "Trakiyski universitet"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895055",
+        "name": "University of Architecture, Civil Engineering and Geodesy",
+        "short_name": null,
+        "official_website": "http:\/\/uacg.bg",
+        "aliases": [
+            "Sofia Polytechnic"
+        ],
+        "latitude": 42.6831,
+        "longitude": 23.3314,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12298062",
+        "name": "University of Chemical Technology and Metallurgy",
+        "short_name": null,
+        "official_website": "https:\/\/uctm.edu\/",
+        "aliases": null,
+        "latitude": 42.656861,
+        "longitude": 23.35777,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q493187",
+        "name": "University of Economics - Varna",
+        "short_name": null,
+        "official_website": "http:\/\/www.ue-varna.bg\/",
+        "aliases": [
+            "Ikonomicheski universitet - Varna",
+            "UE Varna"
+        ],
+        "latitude": 43.209,
+        "longitude": 27.9235,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12297235",
+        "name": "University of Food Technologies",
+        "short_name": null,
+        "official_website": "http:\/\/uft-plovdiv.bg\/",
+        "aliases": [
+            "UFT"
+        ],
+        "latitude": 42.151718,
+        "longitude": 24.731622,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895441",
+        "name": "University of Forestry, Sofia",
+        "short_name": null,
+        "official_website": "http:\/\/www.ltu.bg\/",
+        "aliases": null,
+        "latitude": 42.6534,
+        "longitude": 23.359,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2496195",
+        "name": "University of Mining and Geology \"Saint Ivan Rilski\"",
+        "short_name": null,
+        "official_website": "http:\/\/www.mgu.bg\/",
+        "aliases": [
+            "MGU",
+            "Sofia University of Mining and Geology"
+        ],
+        "latitude": 42.6594,
+        "longitude": 23.3534,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2496153",
+        "name": "University of Ruse",
+        "short_name": null,
+        "official_website": "https:\/\/www.uni-ruse.bg\/",
+        "aliases": [
+            "Technical University of Rousse",
+            "University of Rousse"
+        ],
+        "latitude": 43.8544,
+        "longitude": 25.9703,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q155522",
+        "name": "Varna Free University",
+        "short_name": null,
+        "official_website": "http:\/\/www.vfu.bg",
+        "aliases": null,
+        "latitude": 43.2579,
+        "longitude": 28.0273,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12286392",
+        "name": "Varna University of Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.vum.bg",
+        "aliases": [
+            "International University College"
+        ],
+        "latitude": 43.212247,
+        "longitude": 27.908898,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1629255",
+        "name": "Veliko Tarnovo University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uni-vt.bg\/",
+        "aliases": [
+            "University of Veliko Tarnovo",
+            "VTU"
+        ],
+        "latitude": 43.07838,
+        "longitude": 25.64958,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12297580",
+        "name": "Vratsa Branch (MU, Sofia)",
+        "short_name": null,
+        "official_website": "https:\/\/filialvratsa.mu-sofia.bg\/",
+        "aliases": [
+            "Medical University, Vratsa"
+        ],
+        "latitude": 43.1941479,
+        "longitude": 23.5714947,
+        "type": "university"
+    }
+]

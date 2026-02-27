@@ -1,0 +1,38 @@
+[
+    {
+        "wikidata_id": "Q1572147",
+        "name": "International Academy of Philosophy",
+        "short_name": null,
+        "official_website": "http:\/\/www.iap.li\/",
+        "aliases": [
+            "IAP",
+            "Internationale Akademie für Philosophie",
+            "Internationale Akademie für Philosophie im Fürstentum Liechtenstein"
+        ],
+        "latitude": 47.2112021,
+        "longitude": 9.5074224,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2111101",
+        "name": "Private University in the Principality of Liechtenstein",
+        "short_name": null,
+        "official_website": "https:\/\/www.ufl.li\/",
+        "aliases": null,
+        "latitude": 47.1081944,
+        "longitude": 9.5265833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q974328",
+        "name": "University of Liechtenstein",
+        "short_name": null,
+        "official_website": "https:\/\/www.uni.li\/",
+        "aliases": [
+            "Universität Liechtenstein"
+        ],
+        "latitude": 47.1498,
+        "longitude": 9.5162,
+        "type": "university"
+    }
+]

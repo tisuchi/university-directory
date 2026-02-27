@@ -1,0 +1,87 @@
+[
+    {
+        "wikidata_id": "Q1844482",
+        "name": "African Bible Colleges",
+        "short_name": null,
+        "official_website": "http:\/\/africanbiblecolleges.com\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4689862",
+        "name": "African Methodist Episcopal University",
+        "short_name": null,
+        "official_website": "https:\/\/www.ame.edu.lr\/",
+        "aliases": [
+            "AME University"
+        ],
+        "latitude": 6.3106285,
+        "longitude": -10.8011504,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5197010",
+        "name": "Cuttington University",
+        "short_name": null,
+        "official_website": "http:\/\/www.cuttington.org\/",
+        "aliases": [
+            "Cuttington College",
+            "cuttingtonuniversity.edu.lr"
+        ],
+        "latitude": 7.04,
+        "longitude": -9.554167,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1528161",
+        "name": "Tubman University",
+        "short_name": null,
+        "official_website": "http:\/\/www.tubmanu.edu.lr\/",
+        "aliases": [
+            "William V. S. Tubman University",
+            "William VS Tubman University"
+        ],
+        "latitude": 4.40021,
+        "longitude": -7.69655,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q16902330",
+        "name": "United Methodist University",
+        "short_name": null,
+        "official_website": "http:\/\/umu.edu.lr\/",
+        "aliases": [
+            "umu.edu.lr"
+        ],
+        "latitude": 6.31764,
+        "longitude": -10.8053,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3044628",
+        "name": "University of Liberia",
+        "short_name": null,
+        "official_website": "https:\/\/ul.edu.lr\/",
+        "aliases": [
+            "LU",
+            "UL",
+            "Liberia College",
+            "ul.edu.lr"
+        ],
+        "latitude": 6.29917,
+        "longitude": -10.7947,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100943571",
+        "name": "University of Liberia Kofi A Annan Center for Conflict Transformation",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

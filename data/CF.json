@@ -1,0 +1,51 @@
+[
+    {
+        "wikidata_id": "Q130377117",
+        "name": "ATAFOM University International",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3046238",
+        "name": "EUCLID",
+        "short_name": null,
+        "official_website": "http:\/\/www.euclid.int",
+        "aliases": [
+            "euclid.int",
+            "EUCLIDE",
+            "Pôle Universitaire Euclide"
+        ],
+        "latitude": 13.406532,
+        "longitude": -16.727173,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1638914",
+        "name": "University of Bangui",
+        "short_name": null,
+        "official_website": "https:\/\/www.univ-bangui.org\/",
+        "aliases": [
+            "univ-bangui.org"
+        ],
+        "latitude": 4.37564,
+        "longitude": 18.56335,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60853940",
+        "name": "École nationale d'administration et de magistrature",
+        "short_name": null,
+        "official_website": "https:\/\/enam-rca.org",
+        "aliases": [
+            "ENAM",
+            "National School for Administration and Magistracy"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    }
+]

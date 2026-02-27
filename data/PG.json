@@ -1,0 +1,134 @@
+[
+    {
+        "wikidata_id": "Q5284156",
+        "name": "Divine Word University",
+        "short_name": null,
+        "official_website": "http:\/\/www.dwu.ac.pg\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6039982",
+        "name": "Institute of Business Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.ibs.ac.pg",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6811221",
+        "name": "Melanesia Nazarene Bible College",
+        "short_name": null,
+        "official_website": "http:\/\/www.mnbc.asia",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7122279",
+        "name": "Pacific Adventist University",
+        "short_name": null,
+        "official_website": "http:\/\/www.pau.ac.pg",
+        "aliases": null,
+        "latitude": -9.40575,
+        "longitude": 147.27561,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7133161",
+        "name": "Papua New Guinea Institute of Medical Research",
+        "short_name": "PNGIMR",
+        "official_website": "http:\/\/www.pngimr.org.pg\/",
+        "aliases": [
+            "PNG Institute of Medical Research",
+            "PNGIMR"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7133170",
+        "name": "Papua New Guinea University of Natural Resources and Environment",
+        "short_name": null,
+        "official_website": "http:\/\/www.unre.ac.pg",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q890684",
+        "name": "Papua New Guinea University of Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.unitech.ac.pg",
+        "aliases": [
+            "Unitech",
+            "Lae University of Technology",
+            "PNG University of Technology"
+        ],
+        "latitude": -6.667043,
+        "longitude": 146.996984,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q890541",
+        "name": "University of Goroka",
+        "short_name": null,
+        "official_website": "http:\/\/www.uog.ac.pg\/",
+        "aliases": null,
+        "latitude": -6.058613,
+        "longitude": 145.391412,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q780975",
+        "name": "University of Papua New Guinea",
+        "short_name": null,
+        "official_website": "https:\/\/www.upng.ac.pg\/",
+        "aliases": [
+            "UPNG"
+        ],
+        "latitude": -9.405408,
+        "longitude": 147.170388,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000528",
+        "name": "University of Papua New Guinea School of Humanities and Social Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000530",
+        "name": "University of Papua New Guinea School of Natural and Physical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7975093",
+        "name": "Wau Ecology Institute",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "WEI",
+            "Bishop Museum New Guinea Field Station"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    }
+]

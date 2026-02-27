@@ -1,0 +1,599 @@
+[
+    {
+        "wikidata_id": "Q25377774",
+        "name": "African University of Technology and Management",
+        "short_name": null,
+        "official_website": "http:\/\/www.uatm-gasa.com\/",
+        "aliases": [
+            "UATM-GASA"
+        ],
+        "latitude": 6.359549,
+        "longitude": 2.414434,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100955836",
+        "name": "Edexcel University",
+        "short_name": null,
+        "official_website": "http:\/\/www.edexceluni.org\/",
+        "aliases": [
+            "EU",
+            "edexceluni.org"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136441416",
+        "name": "Elysium University",
+        "short_name": null,
+        "official_website": "https:\/\/elysiumuniversity.net\/",
+        "aliases": [
+            "EU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25047414",
+        "name": "ESCAE-University, Benin",
+        "short_name": null,
+        "official_website": "https:\/\/www.escaebeninuniversity.com\/",
+        "aliases": [
+            "Ecole Supérieure des Sciences, de Commerce et d’Administration des Entreprises du Benin",
+            "ESCAE BENIN University"
+        ],
+        "latitude": 6.436802,
+        "longitude": 2.339599,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q99747384",
+        "name": "Esep Le Berger",
+        "short_name": null,
+        "official_website": "https:\/\/www.esepleberger.edu.bj\/",
+        "aliases": [
+            "ESEP-LE BERGER University"
+        ],
+        "latitude": 6.3710106,
+        "longitude": 2.4507674,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136125901",
+        "name": "Future Studio",
+        "short_name": null,
+        "official_website": "https:\/\/www.futurestudio.bj\/",
+        "aliases": null,
+        "latitude": 6.366674,
+        "longitude": 2.41667,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q30294294",
+        "name": "Haute Ecole de Commerce et de Management",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Graduate School of Business and Management",
+            "HECM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q99749599",
+        "name": "Higher Institute of Communication and Management",
+        "short_name": null,
+        "official_website": "https:\/\/www.iscg.edu.bj",
+        "aliases": [
+            "ISCG"
+        ],
+        "latitude": 6.3651389,
+        "longitude": 2.4935833,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q111209504",
+        "name": "Institut National de l'Eau, Benin",
+        "short_name": null,
+        "official_website": "https:\/\/ine-uac.net\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30261854",
+        "name": "Institut National des Recherches Agricoles du Bénin",
+        "short_name": null,
+        "official_website": "http:\/\/inrab.org\/",
+        "aliases": [
+            "INRAB"
+        ],
+        "latitude": 6.4120984,
+        "longitude": 2.3339978,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q99752724",
+        "name": "Institut Supérieur de Management Adonaï",
+        "short_name": null,
+        "official_website": "http:\/\/www.ismadonai.net\/",
+        "aliases": [
+            "Higher Institute of Management Adonai",
+            "ISM Adonaï"
+        ],
+        "latitude": 6.3683611,
+        "longitude": 2.4154167,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q71432906",
+        "name": "Institut Supérieur des Métiers de l’Audiovisuel",
+        "short_name": null,
+        "official_website": "http:\/\/w3.isma-benin.org\/",
+        "aliases": [
+            "Higher Institute of Audiovisual Professions"
+        ],
+        "latitude": 6.3528889,
+        "longitude": 2.3638611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q99753301",
+        "name": "Institut Supérieur des Sciences de l'Information et de la Communication",
+        "short_name": null,
+        "official_website": "http:\/\/issicbenin.com\/",
+        "aliases": [
+            "Higher Institute of Information and Communication Sciences",
+            "ISSIC Bénin"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q99753599",
+        "name": "Institut Universitaire Panafricain",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "IUP",
+            "Pan African University Institute"
+        ],
+        "latitude": 6.4809722,
+        "longitude": 2.6086944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q47483855",
+        "name": "Institute of Mathematics and Physical Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/imsp-benin.com\/",
+        "aliases": [
+            "Institut de Mathématiques et de Sciences Physiques"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q99749373",
+        "name": "Jean-Paul II Institute",
+        "short_name": null,
+        "official_website": "http:\/\/institutpjp2.com\/",
+        "aliases": [
+            "IPJP2"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122761709",
+        "name": "Laboratoire d'Analyse et de Recherche, Religions, Espaces et Développement",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "LARRED"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q99753700",
+        "name": "Les Cours Sonou",
+        "short_name": null,
+        "official_website": "https:\/\/lescoursonou-university.org",
+        "aliases": [
+            "LCS",
+            "Institut Universitaire LES COURS SONOU",
+            "University Institute LES COURS SONOU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q108108624",
+        "name": "National University of Agriculture",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 7.386682,
+        "longitude": 2.6017826,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q83870793",
+        "name": "National University of Sciences, Technologies, Engineering and Mathematics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Université Nationale des Sciences, Technologies, Ingénierie et Mathématiques",
+            "UNSTIM"
+        ],
+        "latitude": 7.1640787,
+        "longitude": 2.0108493,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294305",
+        "name": "Pigier Bénin",
+        "short_name": null,
+        "official_website": "https:\/\/pigier-benin.com",
+        "aliases": null,
+        "latitude": 6.37575,
+        "longitude": 2.4030278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100955834",
+        "name": "Poma International Business University",
+        "short_name": null,
+        "official_website": "http:\/\/www.pomauniversity.ng\/",
+        "aliases": [
+            "PIBU",
+            "Poma International Business Academy"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q118692656",
+        "name": "Q118692656",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 6.3814267,
+        "longitude": 2.3405,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q118694921",
+        "name": "Q118694921",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 6.3935947,
+        "longitude": 2.3578515,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q118695698",
+        "name": "Q118695698",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 6.3884399,
+        "longitude": 2.3187979,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q130661324",
+        "name": "Q130661324",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 6.6061111,
+        "longitude": 2.3583333,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q56301281",
+        "name": "Q56301281",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136087901",
+        "name": "Sèmè City",
+        "short_name": null,
+        "official_website": "https:\/\/semecity.bj\/",
+        "aliases": null,
+        "latitude": 6.3658866,
+        "longitude": 2.3274663,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q19600073",
+        "name": "Universite des Sciences Appliquée et Management",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "USAM"
+        ],
+        "latitude": 6.4692,
+        "longitude": 2.6344,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102223380",
+        "name": "Universite' d'Abomey-Calavi Departement de Chimie",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102223386",
+        "name": "Universite' d'Abomey-Calavi Laboratoire de Chemie Theorique et de Spectroscopic Molecula",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294304",
+        "name": "University Institute of Benin",
+        "short_name": null,
+        "official_website": "http:\/\/iubformations.org",
+        "aliases": [
+            "IUB",
+            "IUB UNIVERSITY"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6979225",
+        "name": "University of Abomey-Calavi",
+        "short_name": null,
+        "official_website": "https:\/\/uac.bj\/",
+        "aliases": [
+            "UAC",
+            "UNB",
+            "National University of Benin",
+            "uac.bj",
+            "Université d’Abomey-Calavi",
+            "Universite du Dahomey",
+            "Université du Dahomey",
+            "University of Dahomey"
+        ],
+        "latitude": 6.44105,
+        "longitude": 2.35234,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551659",
+        "name": "University of Parakou",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-parakou.com\/",
+        "aliases": [
+            "UP",
+            "univ-parakou.bj"
+        ],
+        "latitude": 9.338,
+        "longitude": 2.645,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3011789",
+        "name": "University of Science and Technology of Benin",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 6.38287,
+        "longitude": 2.45625,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100955838",
+        "name": "Université Africaine de Développement Coopératif",
+        "short_name": null,
+        "official_website": "http:\/\/www.uadc-aucd.org\/",
+        "aliases": [
+            "UADC",
+            "uadc-aucd.org"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294306",
+        "name": "Université Catholique de l'Afrique de l'Ouest - Benin",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Catholic University of West Africa",
+            "UCAO-BENIN"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30266928",
+        "name": "Université d'Agriculture de Kétou",
+        "short_name": null,
+        "official_website": "http:\/\/www.uakbenin.org\/",
+        "aliases": [
+            "UNA",
+            "UAK",
+            "National University of Agriculture",
+            "Université Nationale d'Agriculture"
+        ],
+        "latitude": 7.360381,
+        "longitude": 2.603545,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q99755168",
+        "name": "Université IRGIB Africa",
+        "short_name": null,
+        "official_website": "https:\/\/irgibafrica.university\/",
+        "aliases": [
+            "IRGIB",
+            "IRGIB Africa University",
+            "Regional Institute of Industrial Engineering, Biotechnology and Applied Sciences"
+        ],
+        "latitude": 6.3545,
+        "longitude": 2.39675,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q99755769",
+        "name": "Université Polytechnique Internationale Obiang Nguema Mbasogo",
+        "short_name": null,
+        "official_website": "https:\/\/upi-onm.com\/",
+        "aliases": [
+            "International Polytechnic University of Benin",
+            "UPI-ONM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294309",
+        "name": "Université Protestante d'Afrique de l'Ouest",
+        "short_name": null,
+        "official_website": "http:\/\/upaobenin-edu.org\/",
+        "aliases": [
+            "Protestant University of West Africa",
+            "UPAO"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1756635",
+        "name": "École pour l'informatique et les nouvelles technologies",
+        "short_name": null,
+        "official_website": "http:\/\/www.epitech.eu\/",
+        "aliases": [
+            "Ecole pour l'informatique et les nouvelles technologies",
+            "EPITECH"
+        ],
+        "latitude": 48.8153436,
+        "longitude": 2.363061,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100552711",
+        "name": "École Supérieure d'Administration, d'Economie, de Journalisme et des Métiers de l'Audiovisuel",
+        "short_name": null,
+        "official_website": "http:\/\/www.esae.bj\/",
+        "aliases": [
+            "ESAE",
+            "Higher School of Administration, Economics, Journalism and Audiovisual Professions"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100552857",
+        "name": "École Supérieure de Génie Civil Verechaguine AK",
+        "short_name": null,
+        "official_website": "http:\/\/www.verechaguine.com",
+        "aliases": [
+            "Graduate School of Engineering Verechaguine AK"
+        ],
+        "latitude": 6.3613056,
+        "longitude": 2.4071944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100552960",
+        "name": "École Supérieure de Génie Telecoms et TIC",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ESGTIC",
+            "Higher School of Telecoms and ICT Engineering"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100553011",
+        "name": "École Supérieure de Management Benin",
+        "short_name": null,
+        "official_website": "https:\/\/esmbenin.com\/",
+        "aliases": [
+            "ESM Benin",
+            "School of Management Benin"
+        ],
+        "latitude": 6.3799444,
+        "longitude": 2.4508056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100553094",
+        "name": "École Supérieure des Métiers des Énergies Renouvelables",
+        "short_name": null,
+        "official_website": "http:\/\/www.esmer-benin.org\/",
+        "aliases": [
+            "ESMER",
+            "Higher School of Renewable Energy Professions"
+        ],
+        "latitude": 6.4079722,
+        "longitude": 2.34025,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100553129",
+        "name": "École Supérieure Jean Michel le FAUCON",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "ESJMF",
+            "Jean Michel le FAUCON Higher School"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100553175",
+        "name": "École Supérieure Sainte Félicité",
+        "short_name": null,
+        "official_website": "https:\/\/saintefelicite.com\/",
+        "aliases": [
+            "ESSF",
+            "Sainte Félicité Higher School"
+        ],
+        "latitude": 6.3672778,
+        "longitude": 2.4904722,
+        "type": "university"
+    }
+]

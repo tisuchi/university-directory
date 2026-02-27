@@ -1,0 +1,45 @@
+[
+    {
+        "wikidata_id": "Q135190778",
+        "name": "Islamic University of Maldives",
+        "short_name": null,
+        "official_website": "https:\/\/www.ium.edu.mv\/",
+        "aliases": [
+            "IUM",
+            "College of Islamic Studies"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4120538",
+        "name": "Maldives National University",
+        "short_name": null,
+        "official_website": "http:\/\/www.mche.edu.mv\/",
+        "aliases": null,
+        "latitude": 4.171297,
+        "longitude": 73.509068,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6742807",
+        "name": "Maldives Polytechnic",
+        "short_name": null,
+        "official_website": "http:\/\/www.polytechnic.edu.mv",
+        "aliases": null,
+        "latitude": 4.170538,
+        "longitude": 73.510338,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q25110403",
+        "name": "Villa College",
+        "short_name": null,
+        "official_website": "https:\/\/villacollege.edu.mv",
+        "aliases": null,
+        "latitude": 4.1695601,
+        "longitude": 73.5090713,
+        "type": "university"
+    }
+]

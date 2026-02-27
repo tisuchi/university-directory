@@ -1,0 +1,128 @@
+[
+    {
+        "wikidata_id": "Q105446875",
+        "name": "American University of Barbados School of Medicine",
+        "short_name": "AUB",
+        "official_website": "https:\/\/www.aubmed.org\/",
+        "aliases": [
+            "AUB",
+            "American University of Barbados",
+            "AUBMED",
+            "aubmed.org",
+            "AUBMED.ORG"
+        ],
+        "latitude": 13.091502,
+        "longitude": -59.5790365,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4883438",
+        "name": "Bellairs Research Institute",
+        "short_name": null,
+        "official_website": "http:\/\/www.mcgill.ca\/bellairs\/",
+        "aliases": null,
+        "latitude": 13.1919444,
+        "longitude": -59.6405556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q55075099",
+        "name": "Bridgetown International University",
+        "short_name": null,
+        "official_website": "https:\/\/www.biumed.com\/",
+        "aliases": [
+            "BIUMED"
+        ],
+        "latitude": 13.09853,
+        "longitude": -59.620876,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q60764292",
+        "name": "Erdiston Teachers' Training College",
+        "short_name": null,
+        "official_website": "http:\/\/ettc.edu.bb\/",
+        "aliases": null,
+        "latitude": 13.09648,
+        "longitude": -59.600055,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q5665562",
+        "name": "Harrison College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 13.100109,
+        "longitude": -59.610299,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q746153",
+        "name": "University of the West Indies",
+        "short_name": "UWI",
+        "official_website": "https:\/\/www.uwi.edu\/",
+        "aliases": [
+            "UCWI",
+            "UWI",
+            "The University of The West Indies",
+            "University College of the West Indies",
+            "University of the West Indies, UWI"
+        ],
+        "latitude": 18.0058,
+        "longitude": -76.7467,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000378",
+        "name": "University of the West Indies at Cave Hill Department of Biological and Chemical Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000381",
+        "name": "University of the West Indies at Cave Hill Department of Computer Science Mathematics and Physics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000400",
+        "name": "University of the West Indies at Cave Hill Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101000392",
+        "name": "University of the West Indies at Cave Hill School of Graduate Studies and Research",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q29467820",
+        "name": "Washington University of Barbados",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "wubmed"
+        ],
+        "latitude": 13.0943,
+        "longitude": -59.47421,
+        "type": "university"
+    }
+]

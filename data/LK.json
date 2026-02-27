@@ -1,0 +1,614 @@
+[
+    {
+        "wikidata_id": "Q4686292",
+        "name": "Advanced Technological Institute, Sri Lanka",
+        "short_name": null,
+        "official_website": "http:\/\/www.sliate.ac.lk\/",
+        "aliases": null,
+        "latitude": 6.923718,
+        "longitude": 79.861448,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q109561815",
+        "name": "Aquinas College of Higher Studies",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4984185",
+        "name": "Buddhasravaka Bhiksu University",
+        "short_name": null,
+        "official_website": "http:\/\/www.bbu.ac.lk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q4984263",
+        "name": "Buddhist and Pali University of Sri Lanka",
+        "short_name": null,
+        "official_website": "http:\/\/www.bpu.ac.lk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97172301",
+        "name": "Centre for Research and Development",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5148023",
+        "name": "Colombo Institute of Research & Psychology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5148025",
+        "name": "Colombo International Nautical and Engineering College",
+        "short_name": null,
+        "official_website": "https:\/\/www.cinec.edu",
+        "aliases": [
+            "CINEC",
+            "CINEC Campus",
+            "CINEC Campus (Pvt) Ltd."
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5260196",
+        "name": "Department of Computer Engineering, University of Peradeniya",
+        "short_name": null,
+        "official_website": "http:\/\/www.ce.pdn.ac.lk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74546007",
+        "name": "Department of Forestry and Environmental Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q5330549",
+        "name": "Eastern University, Sri Lanka",
+        "short_name": null,
+        "official_website": "http:\/\/www.esn.ac.lk\/",
+        "aliases": [
+            "Batticaloa University College",
+            "Eastern University Sri Lanka",
+            "EUSL"
+        ],
+        "latitude": 7.7976111,
+        "longitude": 81.582,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5428911",
+        "name": "Faculty of Arts, University of Colombo",
+        "short_name": null,
+        "official_website": "http:\/\/www.cmb.ac.lk\/academic\/arts\/Home\/index.htm",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q5532198",
+        "name": "General Sir John Kotelawala Defence University",
+        "short_name": null,
+        "official_website": "http:\/\/www.kdu.ac.lk\/",
+        "aliases": [
+            "KDU"
+        ],
+        "latitude": 6.8177,
+        "longitude": 79.8903,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107570103",
+        "name": "Holy Cross College Gampaha",
+        "short_name": null,
+        "official_website": "http:\/\/holycross.lk\/",
+        "aliases": [
+            "Holy Cross College",
+            "Holy Cross College, Gampaha"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q16914802",
+        "name": "Institute of Biochemistry",
+        "short_name": null,
+        "official_website": "http:\/\/www.ibmbb.lk\/",
+        "aliases": [
+            "Institute of Biochemistry, Molecular Biology and Biotechnology"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18351676",
+        "name": "Institute of Higher National Diploma in Engineering",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6041089",
+        "name": "Institution of Engineers, Sri Lanka",
+        "short_name": null,
+        "official_website": "https:\/\/www.iesl.lk\/index.php",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12979943",
+        "name": "Kathiresan Central College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q3529297",
+        "name": "Nalanda College",
+        "short_name": null,
+        "official_website": "http:\/\/www.nalanda.sch.lk\/",
+        "aliases": null,
+        "latitude": 6.9222222,
+        "longitude": 79.8747222,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q108325308",
+        "name": "National Defence College, Sri Lanka",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6040330",
+        "name": "National Institute of Fundamental Studies",
+        "short_name": null,
+        "official_website": "http:\/\/www.nifs.ac.lk",
+        "aliases": [
+            "NIFS",
+            "Institute of Fundamental Studies (IFS)"
+        ],
+        "latitude": 7.2838889,
+        "longitude": 80.6322222,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q96397188",
+        "name": "Officer Career Development Centre",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3537680",
+        "name": "Open University of Sri Lanka",
+        "short_name": null,
+        "official_website": "https:\/\/www.ou.ac.lk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7285789",
+        "name": "Rajarata University of Sri Lanka",
+        "short_name": null,
+        "official_website": "http:\/\/www.rjt.ac.lk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74540113",
+        "name": "Rajarata University of Sri Lanka, Faculty of Medicine & Allied Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3529302",
+        "name": "Richmond College",
+        "short_name": null,
+        "official_website": "http:\/\/www.richmondcollege.lk",
+        "aliases": null,
+        "latitude": 6.0528806,
+        "longitude": 80.204725,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1378292",
+        "name": "Sabaragamuwa University of Sri Lanka",
+        "short_name": null,
+        "official_website": "https:\/\/www.sab.ac.lk\/",
+        "aliases": null,
+        "latitude": 6.7148179,
+        "longitude": 80.7871728,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q131583781",
+        "name": "Saegis Campus",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7515547",
+        "name": "Silpaloka College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q112829847",
+        "name": "South Asian Regional Center for Strategic Studies",
+        "short_name": null,
+        "official_website": "https:\/\/rcss.org",
+        "aliases": [
+            "RCSS",
+            "rcss.org",
+            "Regional Center for Strategic Studies"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q7567162",
+        "name": "South Eastern University of Sri Lanka",
+        "short_name": null,
+        "official_website": "http:\/\/www.seu.ac.lk\/",
+        "aliases": null,
+        "latitude": 7.3009722,
+        "longitude": 81.8553056,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7585935",
+        "name": "Sri Lanka Police Academy",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7595310",
+        "name": "St Peter's College, Colombo",
+        "short_name": null,
+        "official_website": "http:\/\/www.stpeterscollege.lk\/",
+        "aliases": null,
+        "latitude": 6.8807,
+        "longitude": 79.8608,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7894702",
+        "name": "University Grants Commission",
+        "short_name": null,
+        "official_website": "http:\/\/www.ugc.ac.lk\/",
+        "aliases": null,
+        "latitude": 6.9163628,
+        "longitude": 79.8669637,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7895254",
+        "name": "University of Ceylon",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013344",
+        "name": "University of Colombo Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3534875",
+        "name": "University of Colombo School of Computing",
+        "short_name": null,
+        "official_website": "http:\/\/www.ucsc.lk",
+        "aliases": [
+            "UCSC"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3399947",
+        "name": "University of Jaffna",
+        "short_name": null,
+        "official_website": "http:\/\/www.jfn.ac.lk\/",
+        "aliases": [
+            "Jaffna University",
+            "University of Jaffna, Sri Lanka"
+        ],
+        "latitude": 9.68469,
+        "longitude": 80.0219,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013347",
+        "name": "University of Jaffna Department of Education",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3534731",
+        "name": "University of Kelaniya",
+        "short_name": null,
+        "official_website": "http:\/\/www.kln.ac.lk\/",
+        "aliases": [
+            "University of Kelaniya Sri Lanka",
+            "Vidyalankara University"
+        ],
+        "latitude": 6.972946,
+        "longitude": 79.91588,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013354",
+        "name": "University of Kelaniya Department of History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3523254",
+        "name": "University of Moratuwa",
+        "short_name": null,
+        "official_website": "http:\/\/www.mrt.ac.lk",
+        "aliases": null,
+        "latitude": 6.79639,
+        "longitude": 79.9008,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q3083280",
+        "name": "University of Peradeniya",
+        "short_name": null,
+        "official_website": "http:\/\/www.pdn.ac.lk",
+        "aliases": null,
+        "latitude": 7.25417,
+        "longitude": 80.5967,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013372",
+        "name": "University of Peradeniya Department of Classical Languages",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013375",
+        "name": "University of Peradeniya Department of Economics and Statistics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013377",
+        "name": "University of Peradeniya Department of English",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013381",
+        "name": "University of Peradeniya Department of History",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013382",
+        "name": "University of Peradeniya Department of Sociology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12975239",
+        "name": "University of Ruhuna",
+        "short_name": null,
+        "official_website": "http:\/\/www.ruh.ac.lk\/",
+        "aliases": null,
+        "latitude": 5.9392038,
+        "longitude": 80.5762198,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013362",
+        "name": "University of Ruhuna Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013365",
+        "name": "University of Ruhuna Department of Zoology",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q74551541",
+        "name": "University of Ruhuna, Faculty of Science",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q720958",
+        "name": "University of Sri Jayewardenepura",
+        "short_name": null,
+        "official_website": "http:\/\/www.sjp.ac.lk\/",
+        "aliases": [
+            "Vidyodaya University"
+        ],
+        "latitude": 6.8540453,
+        "longitude": 79.903585,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q101013369",
+        "name": "University of Sri Jayewardenepura Department of Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7896783",
+        "name": "University of the Visual & Performing Arts",
+        "short_name": null,
+        "official_website": "https:\/\/www.vpa.ac.lk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q107334343",
+        "name": "University of Vavuniya",
+        "short_name": null,
+        "official_website": "https:\/\/vau.ac.lk\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19736428",
+        "name": "University of Vocational Technology",
+        "short_name": null,
+        "official_website": "http:\/\/www.univotec.ac.lk",
+        "aliases": null,
+        "latitude": 7.25417,
+        "longitude": 80.5967,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7903611",
+        "name": "Uva Wellassa University",
+        "short_name": null,
+        "official_website": "http:\/\/www.uwu.ac.lk",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q7975840",
+        "name": "Wayamba University of Sri Lanka",
+        "short_name": null,
+        "official_website": "http:\/\/www.wyb.ac.lk",
+        "aliases": null,
+        "latitude": 7.4689855,
+        "longitude": 80.0220467,
+        "type": "university"
+    }
+]

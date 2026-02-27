@@ -1,0 +1,300 @@
+[
+    {
+        "wikidata_id": "Q100523649",
+        "name": "Bujumbura International University",
+        "short_name": null,
+        "official_website": "http:\/\/www.biu.bi\/",
+        "aliases": [
+            "BIU"
+        ],
+        "latitude": -3.3627778,
+        "longitude": 29.3849167,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q124059433",
+        "name": "Bujumbura Journalism School",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Bujumbura School of Journalism",
+            "Burundi School of Journalism",
+            "l'Ecole de Journalisme de Bujumbura"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100523641",
+        "name": "East Africa Star University",
+        "short_name": null,
+        "official_website": "http:\/\/www.easu-burundi.com\/",
+        "aliases": [
+            "EASU"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19462316",
+        "name": "Hills University",
+        "short_name": null,
+        "official_website": "http:\/\/www.udc.bi\/",
+        "aliases": [
+            "UDC",
+            "Hills University",
+            "Université des Collines"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100523645",
+        "name": "Institut National de Santé Publique",
+        "short_name": null,
+        "official_website": "https:\/\/insp.bi\/",
+        "aliases": [
+            "INSP",
+            "National Institute of Public Health"
+        ],
+        "latitude": -3.373258,
+        "longitude": 29.360263,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294312",
+        "name": "Institut Supérieur de Gestion des Entreprises",
+        "short_name": null,
+        "official_website": "http:\/\/isge.bi\/fr\/index.php",
+        "aliases": [
+            "Higher Institute of Business Management",
+            "ISGE"
+        ],
+        "latitude": -3.3803889,
+        "longitude": 29.3700556,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100523647",
+        "name": "International Leadership University, Burundi",
+        "short_name": null,
+        "official_website": "http:\/\/www.burundi.ilu.edu\/",
+        "aliases": [
+            "ILU-Burundi"
+        ],
+        "latitude": -3.3838333,
+        "longitude": 29.356,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100523639",
+        "name": "International University of Equator, Burundi",
+        "short_name": null,
+        "official_website": "http:\/\/iue.edu.bi\/",
+        "aliases": [
+            "IUE Burundi"
+        ],
+        "latitude": -3.3595556,
+        "longitude": 29.36925,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q21332486",
+        "name": "University of Burundi",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": -3.37886,
+        "longitude": 29.38384,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100523633",
+        "name": "Université Chrétienne de Bujumbura",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Bujumbura Christian University",
+            "UCB"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551641",
+        "name": "Université de Mwaro",
+        "short_name": null,
+        "official_website": "http:\/\/www.universitemwaro.org\/",
+        "aliases": [
+            "UM",
+            "Mwaro University"
+        ],
+        "latitude": -3.53083,
+        "longitude": 29.7452,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551654",
+        "name": "Université de Ngozi",
+        "short_name": null,
+        "official_website": "http:\/\/www.univ-ngozi.org\/",
+        "aliases": [
+            "UNG",
+            "Ngozi University",
+            "University of Ngozi"
+        ],
+        "latitude": -2.9044444,
+        "longitude": 29.8311111,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q30294313",
+        "name": "Université des Grands Lacs",
+        "short_name": null,
+        "official_website": "http:\/\/www.ugl.bi",
+        "aliases": [
+            "UGL",
+            "University of the Great Lakes"
+        ],
+        "latitude": -3.379457,
+        "longitude": 29.365275,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q719925",
+        "name": "Université du Burundi",
+        "short_name": null,
+        "official_website": "https:\/\/www.ub.edu.bi\/",
+        "aliases": [
+            "UB",
+            "University of Burundi",
+            "ub.edu.bi"
+        ],
+        "latitude": -3.3788889,
+        "longitude": 29.3844444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551752",
+        "name": "Université du Lac Tanganyika",
+        "short_name": null,
+        "official_website": "http:\/\/www.ult.bi\/",
+        "aliases": [
+            "ULT",
+            "Lake Tanganyika University"
+        ],
+        "latitude": -3.3575556,
+        "longitude": 29.3810278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2687972",
+        "name": "Université Espoir d'Afrique",
+        "short_name": null,
+        "official_website": "http:\/\/hopeafricauniversity.org\/",
+        "aliases": [
+            "UEA",
+            "HAU",
+            "Hope Africa University"
+        ],
+        "latitude": -3.34742,
+        "longitude": 29.37119,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3551434",
+        "name": "Université Lumière de Bujumbura",
+        "short_name": null,
+        "official_website": "http:\/\/ulbu.bi\/",
+        "aliases": [
+            "Light University of Bujumbura",
+            "ULBU"
+        ],
+        "latitude": -3.3748056,
+        "longitude": 29.3968611,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100523638",
+        "name": "Université Martin Luther King",
+        "short_name": null,
+        "official_website": "https:\/\/umlk.net\/",
+        "aliases": [
+            "Martin Luther King University",
+            "UMLK"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100523654",
+        "name": "Université Polytechnique de Gitega",
+        "short_name": null,
+        "official_website": null,
+        "aliases": [
+            "Polytechnic University of Gitega",
+            "UPG"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100523631",
+        "name": "Université Polytechnique Intégrée",
+        "short_name": null,
+        "official_website": "http:\/\/upi.edu.bi\/",
+        "aliases": [
+            "Integrated Polytechnic University",
+            "UPI"
+        ],
+        "latitude": -2.8843889,
+        "longitude": 29.1236944,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100523652",
+        "name": "Université Sagesse d’Afrique",
+        "short_name": null,
+        "official_website": "http:\/\/www.usa.edu.bi\/",
+        "aliases": [
+            "USA",
+            "Wisdom University of Africa"
+        ],
+        "latitude": -3.3416111,
+        "longitude": 29.4020278,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100523642",
+        "name": "École Nationale d'Administration, Burundi",
+        "short_name": null,
+        "official_website": "http:\/\/www.ena.bi\/ena\/public\/home\/index\/index.html",
+        "aliases": [
+            "ENA",
+            "Normal School of Administration"
+        ],
+        "latitude": -3.4008056,
+        "longitude": 29.3596667,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q97041886",
+        "name": "École Normale Supérieure de Bujumbura",
+        "short_name": null,
+        "official_website": "http:\/\/ens.bi\/",
+        "aliases": [
+            "ENS Bujumbura",
+            "Higher Normal School of Bujumbura",
+            "Normal Superior School of Bujumbura"
+        ],
+        "latitude": -3.37825,
+        "longitude": 29.3859167,
+        "type": "university"
+    }
+]

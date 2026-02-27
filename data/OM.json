@@ -1,0 +1,301 @@
+[
+    {
+        "wikidata_id": "Q22686991",
+        "name": "A'Sharqiyah University",
+        "short_name": "ASU",
+        "official_website": "https:\/\/www.asu.edu.om\/",
+        "aliases": [
+            "ASU"
+        ],
+        "latitude": 22.78,
+        "longitude": 58.52,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q17058840",
+        "name": "Al-Zahra College for Women",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 23.6128,
+        "longitude": 58.4845,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q3679860",
+        "name": "Arab Open University",
+        "short_name": null,
+        "official_website": "https:\/\/www.arabou.edu.kw\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1207665",
+        "name": "Dhofar University",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 17.0586111,
+        "longitude": 54.1569444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1514056",
+        "name": "German University of Technology in Oman",
+        "short_name": null,
+        "official_website": "http:\/\/www.gutech.edu.om",
+        "aliases": [
+            "GUtech"
+        ],
+        "latitude": 23.63625,
+        "longitude": 58.046,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q136564993",
+        "name": "Global College of Engineering and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/gcet.edu.om\/",
+        "aliases": [
+            "GCET"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1561654",
+        "name": "Ibrict",
+        "short_name": null,
+        "official_website": "http:\/\/www.ibrict.edu.om",
+        "aliases": null,
+        "latitude": 23.2515,
+        "longitude": 56.4889444,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q122461695",
+        "name": "International College of Engineering and Management",
+        "short_name": null,
+        "official_website": "https:\/\/www.icem.edu.om\/",
+        "aliases": [
+            "ICEM"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q100968499",
+        "name": "Mazoon University College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6841327",
+        "name": "Middle East College",
+        "short_name": null,
+        "official_website": "http:\/\/mec.edu.om\/",
+        "aliases": null,
+        "latitude": 23.5679,
+        "longitude": 58.168024,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q130671949",
+        "name": "Muscat University",
+        "short_name": null,
+        "official_website": "https:\/\/muscatuniversity.edu.om",
+        "aliases": [
+            "academic institution"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q84654205",
+        "name": "National University of Science and Technology",
+        "short_name": null,
+        "official_website": "https:\/\/nu.edu.om\/",
+        "aliases": null,
+        "latitude": 23.5521,
+        "longitude": 58.3992,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q103518710",
+        "name": "Nizwa College of Applied Sciences",
+        "short_name": null,
+        "official_website": "https:\/\/nizwa.cas.edu.om\/",
+        "aliases": [
+            "CAS Nizwa"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q7089537",
+        "name": "Oman Medical College",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": 23.55,
+        "longitude": 58.4,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q136148642",
+        "name": "Q136148642",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q77968258",
+        "name": "Rustaq College of Education",
+        "short_name": null,
+        "official_website": "https:\/\/rustaq.cas.edu.om\/",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q2279017",
+        "name": "Shinas College of Technology",
+        "short_name": null,
+        "official_website": "https:\/\/www.shct.edu.om\/",
+        "aliases": null,
+        "latitude": 24.7616667,
+        "longitude": 56.4588889,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q2496166",
+        "name": "Sohar University",
+        "short_name": null,
+        "official_website": "https:\/\/www.su.edu.om\/",
+        "aliases": null,
+        "latitude": 24.2979,
+        "longitude": 56.7803,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1808326",
+        "name": "Sultan Qaboos University",
+        "short_name": "SQU",
+        "official_website": "https:\/\/www.squ.edu.om\/squ-ar",
+        "aliases": [
+            "SQU"
+        ],
+        "latitude": 23.6004,
+        "longitude": 58.1691,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100968500",
+        "name": "Sultan Qaboos University Biology Department",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100968493",
+        "name": "Sultan Qaboos University Department of Mathematics and Statistics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100968491",
+        "name": "Sultan Qaboos University Department of Natural Resource Economics",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q100968494",
+        "name": "Sultan Qaboos University Language Centre",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q225690",
+        "name": "Sur University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.suc.edu.om\/",
+        "aliases": null,
+        "latitude": 22.5048,
+        "longitude": 59.4406,
+        "type": "college"
+    },
+    {
+        "wikidata_id": "Q1683947",
+        "name": "University of Buraimi",
+        "short_name": null,
+        "official_website": "https:\/\/www.uob.edu.om\/",
+        "aliases": [
+            "UoB"
+        ],
+        "latitude": 24.23525,
+        "longitude": 55.8913889,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q2496107",
+        "name": "University Of Nizwa",
+        "short_name": null,
+        "official_website": "https:\/\/www.unizwa.edu.om\/",
+        "aliases": null,
+        "latitude": 22.9108,
+        "longitude": 57.6722,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q12191827",
+        "name": "University of Technology and Applied Sciences",
+        "short_name": null,
+        "official_website": "http:\/\/www.hct.edu.om",
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q1655933",
+        "name": "University of Technology and Applied Sciences - Ibra",
+        "short_name": null,
+        "official_website": "https:\/\/www.utas.edu.om\/ibra\/",
+        "aliases": [
+            "Ibra College of Technology",
+            "Ibra Technical Industrial College"
+        ],
+        "latitude": 22.775881,
+        "longitude": 58.492543,
+        "type": "university"
+    }
+]

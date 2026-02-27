@@ -1,0 +1,100 @@
+[
+    {
+        "wikidata_id": "Q46190671",
+        "name": "Brunei History Centre",
+        "short_name": null,
+        "official_website": "http:\/\/www.pusat-sejarah.gov.bn",
+        "aliases": null,
+        "latitude": 4.8918333,
+        "longitude": 114.9416667,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q18205340",
+        "name": "Brunei Polytechnic",
+        "short_name": null,
+        "official_website": "http:\/\/www.pb.edu.bn\/",
+        "aliases": [
+            "BP"
+        ],
+        "latitude": 4.9048023,
+        "longitude": 114.9308418,
+        "type": "institute"
+    },
+    {
+        "wikidata_id": "Q38250826",
+        "name": "IBTE Agro-Technology Campus",
+        "short_name": null,
+        "official_website": "http:\/\/ibte.edu.bn",
+        "aliases": [
+            "Wasan Vocational School"
+        ],
+        "latitude": 4.7646667,
+        "longitude": 114.8105,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q19646171",
+        "name": "KEMUDA Institute",
+        "short_name": null,
+        "official_website": "http:\/\/kemudainstitute.com\/",
+        "aliases": null,
+        "latitude": 4.87869,
+        "longitude": 114.888,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q24915008",
+        "name": "Seri Begawan Religious Teachers University College",
+        "short_name": null,
+        "official_website": "http:\/\/www.kupu-sb.edu.bn\/Theme\/Home.aspx",
+        "aliases": [
+            "Kolej Universiti Perguruan Ugama Seri Begawan",
+            "KUPUSB"
+        ],
+        "latitude": 4.8858611,
+        "longitude": 114.92875,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q569243",
+        "name": "Universiti Brunei Darussalam",
+        "short_name": null,
+        "official_website": "http:\/\/www.ubd.edu.bn",
+        "aliases": [
+            "UBD",
+            "University of Brunei Darussalam"
+        ],
+        "latitude": 4.9752083,
+        "longitude": 114.8908694,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q102225304",
+        "name": "Universiti Brunei Darussalam Pengiran Anak Puteri Rashidah Sa'adatul Bolkiah Institute of Health Sciences",
+        "short_name": null,
+        "official_website": null,
+        "aliases": null,
+        "latitude": null,
+        "longitude": null,
+        "type": "university"
+    },
+    {
+        "wikidata_id": "Q6039029",
+        "name": "University of Technology Brunei",
+        "short_name": null,
+        "official_website": "https:\/\/www.utb.edu.bn\/",
+        "aliases": [
+            "ITB",
+            "UTB",
+            "Brunei Technological University",
+            "Brunei Technology University",
+            "Brunei University of Technology",
+            "Institut Teknologi Brunei",
+            "Universiti Teknologi Brunei"
+        ],
+        "latitude": 4.9775,
+        "longitude": 114.9001389,
+        "type": "institute"
+    }
+]
