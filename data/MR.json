@@ -12,7 +12,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q35326205",
@@ -22,7 +23,8 @@
         "aliases": null,
         "latitude": 18.08935,
         "longitude": -15.96597,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6038988",
@@ -35,7 +37,8 @@
         ],
         "latitude": 18.0855556,
         "longitude": -15.9875,
-        "type": "institute"
+        "type": "institute",
+        "description": "Institut National de Recherches en Sante Publique is a national research institute in Nouakchott, Mauritania. It is located on the Avenue Gamal Abdel Nasser, opposite the Grand National Hospital of Mauritania and just east of the Ministry of Energy headquarters."
     },
     {
         "wikidata_id": "Q12193484",
@@ -47,7 +50,8 @@
         ],
         "latitude": 18.0788889,
         "longitude": -15.9727778,
-        "type": "university"
+        "type": "university",
+        "description": "Institut Superieur des Etudes et Recherches Islamique is a university and centre for Islamic research in Nouakchott, Mauritania. It is located adjacent (south) to the Lycée d'Arabe."
     },
     {
         "wikidata_id": "Q102111208",
@@ -60,7 +64,8 @@
         ],
         "latitude": 18.0790556,
         "longitude": -15.9723611,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1074359",
@@ -70,7 +75,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6743838",
@@ -80,7 +86,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3119358",
@@ -90,7 +97,8 @@
         "aliases": null,
         "latitude": 18.0893889,
         "longitude": -15.9684722,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Nouakchott Al Aasriya (French: Université de Nouakchott Al Aasriya, Arabic: جامعة نواكشوط) is a university in the city of Nouakchott,  capital of Mauritania."
     },
     {
         "wikidata_id": "Q30260802",
@@ -104,7 +112,8 @@
         ],
         "latitude": 18.077929,
         "longitude": -15.954251,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1443352",
@@ -117,7 +126,8 @@
         ],
         "latitude": 18.0916667,
         "longitude": -15.9669444,
-        "type": "university"
+        "type": "university",
+        "description": "Lebanese International University is a university located in Nouakchott, Mauritania. It is part of the private Lebanese International University group."
     },
     {
         "wikidata_id": "Q102111209",
@@ -132,6 +142,7 @@
         ],
         "latitude": 18.0975556,
         "longitude": -15.983,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

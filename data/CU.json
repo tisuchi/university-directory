@@ -12,7 +12,8 @@
         ],
         "latitude": 22.998333,
         "longitude": -82.148611,
-        "type": "university"
+        "type": "university",
+        "description": "The Agrarian University of Havana \"Fructuoso Rodríguez Pérez\" (Spanish: Universidad Agraria de La Habana \"Fructuoso Rodríguez Pérez\", UNAH) is a university located in San José de las Lajas, Mayabeque Province, Cuba.\nThe school was founded in September 1976 as the Higher Institute of Agricultural Sciences of Havana (ISCAH)."
     },
     {
         "wikidata_id": "Q5761813",
@@ -25,7 +26,8 @@
         ],
         "latitude": 23.0736111,
         "longitude": -82.4522222,
-        "type": "institute"
+        "type": "institute",
+        "description": "The  Center for Genetic Engineering and Biotechnology (Spanish: Centro de Ingeniería Genética y Biotecnología, CIGB) is a research institute in Havana, Cuba."
     },
     {
         "wikidata_id": "Q74530613",
@@ -35,7 +37,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74554974",
@@ -45,7 +48,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q29054484",
@@ -55,7 +59,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74551173",
@@ -65,7 +70,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5191942",
@@ -75,7 +81,8 @@
         "aliases": null,
         "latitude": 23.1319444,
         "longitude": -82.3786111,
-        "type": "university"
+        "type": "university",
+        "description": "The Cuba Adventist Theological Seminary (Spanish: Seminario Teológico Adventista de Cuba) is a Seventh-day Adventist theology school located in Havana, Cuba. It prepares men and women to serve the church and community in a climate of growing religious liberty."
     },
     {
         "wikidata_id": "Q5192035",
@@ -87,7 +94,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Cuban Neuroscience Center (CNEURO) is a research institute located in Playa, Havana City. It was founded in 1969 as one of the first groups in the world to use informatics for the analysis of the brain`s electrical activity. CNEURO was officially established in 1990 and is nowadays one of the BioCubaFarma institutions, that focuses on basic and applied research as well as the development of high technology in order to screen, diagnose and treat problems related to mental health."
     },
     {
         "wikidata_id": "Q74543384",
@@ -97,7 +105,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74555976",
@@ -107,7 +116,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527518",
@@ -117,7 +127,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q29054519",
@@ -127,7 +138,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q119848049",
@@ -141,7 +153,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q29054513",
@@ -151,7 +164,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q28225522",
@@ -161,7 +175,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Instituto de Historia de Cuba in Havana, Cuba, is a research institute, archive, and library of late 19th and 20th century Cuban history. It was established in 1987 under the Central Committee of the Communist Party of Cuba. It is located in the Palacio de Aldama near the Parque de la Fraternidad in Havana."
     },
     {
         "wikidata_id": "Q52661253",
@@ -177,7 +192,8 @@
         ],
         "latitude": 23.11992,
         "longitude": -82.412014,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530255",
@@ -187,7 +203,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530566",
@@ -197,7 +214,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1665233",
@@ -210,7 +228,8 @@
         ],
         "latitude": 23.088783,
         "longitude": -82.446802,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Arts of Cuba \/ Instituto Superior de Arte (ISA) was established on 1 September 1976 (1976-09-01) by the Cuban government as a school for the arts.  Its original structure had three schools: Music, Visual Arts, and Performing Arts."
     },
     {
         "wikidata_id": "Q135829664",
@@ -220,7 +239,8 @@
         "aliases": null,
         "latitude": 23.13662,
         "longitude": -82.40186,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q83585058",
@@ -230,7 +250,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6818458",
@@ -240,7 +261,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Merchise was a Computer Software group created circa 1991 at University \"Marta Abreu\" of Las Villas, in Santa Clara city, Cuba. It was founded by Ing. Medardo Rodriguez who desired to create a Computer Programming Research Team with headquarters in Las Villas U but formed by people with spontaneous and free ideas about what a computer team and software should be."
     },
     {
         "wikidata_id": "Q6970485",
@@ -252,7 +274,8 @@
         ],
         "latitude": 23.0880556,
         "longitude": -82.4480556,
-        "type": "university"
+        "type": "university",
+        "description": "The National Art Schools (Escuelas Nacionales de Arte) of Cuba is one of the most important educational institutions of the Cuban nation and has been declared as \"National Monument\".\nCuba's National Art Schools (Escuelas Nacionales de Arte, now known as the Instituto Superior de Arte) are considered by historians to be among the most outstanding architectural achievements of the Cuban Revolution.\nThese innovative, organic Catalan-vaulted brick and terra-cotta structures were built on the site of a former country club in the far western Havana suburb of Cubanacán, which was once considered to be Havana's \"Beverly Hills\", The schools were conceived and founded by Fidel Castro and Che Guevara in 1961, and they reflect the utopian optimism and revolutionary exuberance of the early years of the Cuban Revolution."
     },
     {
         "wikidata_id": "Q7227041",
@@ -267,7 +290,8 @@
         ],
         "latitude": 23.054966,
         "longitude": -82.416011,
-        "type": "university"
+        "type": "university",
+        "description": "The José Antonio Echeverría Technological University, in its beginnings the José Antonio Echeverría University City (CUJAE), is an undergraduate, post-graduate and doctoral research university located in Marianao, Havana, Cuba. It is controlled by the Cuban Ministry of Education.\nOn February 15, 2017, the National Accreditation Board awarded it the category of \"superior university of excellence\", for its comprehensive training of students, research and impact in the country."
     },
     {
         "wikidata_id": "Q24886632",
@@ -277,7 +301,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74527427",
@@ -287,7 +312,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74541158",
@@ -297,7 +323,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74553282",
@@ -307,7 +334,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74542808",
@@ -317,7 +345,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74538645",
@@ -327,7 +356,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74542752",
@@ -337,7 +367,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74555618",
@@ -347,7 +378,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74539628",
@@ -357,7 +389,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528106",
@@ -367,7 +400,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74548252",
@@ -377,7 +411,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74546545",
@@ -387,7 +422,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7894253",
@@ -399,7 +435,8 @@
         ],
         "latitude": 23.08897,
         "longitude": -82.46258,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad Católica de Santo Tomás de Villanueva (St. Thomas of Villanova Catholic University) was a private Roman Catholic university founded on August 15, 1946, in Havana, Cuba. It was founded by American Augustinians with assistance from European Augustinians and named after Saint Thomas of Villanova."
     },
     {
         "wikidata_id": "Q74542719",
@@ -409,7 +446,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156747",
@@ -419,7 +457,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74529656",
@@ -429,7 +468,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74434249",
@@ -441,7 +481,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q52609462",
@@ -451,7 +492,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74558042",
@@ -461,7 +503,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q83511793",
@@ -471,7 +514,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q83570448",
@@ -481,7 +525,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74529741",
@@ -491,7 +536,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q44011525",
@@ -501,7 +547,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q83513418",
@@ -511,7 +558,8 @@
         "aliases": null,
         "latitude": 20.886,
         "longitude": -76.2681667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30282070",
@@ -524,7 +572,8 @@
         ],
         "latitude": 23.07761,
         "longitude": -82.444262,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q83515573",
@@ -534,7 +583,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q83512536",
@@ -546,7 +596,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q41780108",
@@ -556,7 +607,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74527447",
@@ -566,7 +618,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529670",
@@ -576,7 +629,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74537615",
@@ -586,7 +640,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74544474",
@@ -596,7 +651,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74548194",
@@ -606,7 +662,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74540656",
@@ -616,7 +673,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74549692",
@@ -626,7 +684,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q24886613",
@@ -636,7 +695,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74550445",
@@ -646,7 +706,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74538113",
@@ -656,7 +717,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74526672",
@@ -666,7 +728,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30293855",
@@ -678,7 +741,8 @@
         ],
         "latitude": 21.92938,
         "longitude": -79.43722,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74528144",
@@ -688,7 +752,8 @@
         "aliases": null,
         "latitude": 23.0550014,
         "longitude": -82.4159866,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q131916789",
@@ -700,7 +765,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156410",
@@ -713,7 +779,8 @@
         ],
         "latitude": 22.4136111,
         "longitude": -79.9661111,
-        "type": "university"
+        "type": "university",
+        "description": "The University \"Marta Abreu\" of Las Villas (Spanish: Universidad Central \"Marta Abreu\" de Las Villas, UCLV) is an undergraduate and graduate public university in Santa Clara, Cuba, founded in 1952 and having a remote campus called \"Universidad de Montaña\" in Topes de Collantes, the heart of the Escambray Mountains.\nIt is the alma mater of the current President of Cuba and First Secretary of the Communist Party of Cuba, Miguel Díaz-Canel."
     },
     {
         "wikidata_id": "Q7895206",
@@ -723,7 +790,8 @@
         "aliases": null,
         "latitude": 21.38877,
         "longitude": -77.8825,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Camagüey \"Ignacio Agramonte\" (Spanish: Universidad de Camagüey, UC) is a public university located in Camagüey, Cuba. It was founded in 1967 as the Centro Universitario de Camagüey and incorporated institutions previously part of the Universidad de Las Villas.\nThe University of Camagüey is organized in ten Faculties, Agricultural Sciences, Economics and Business Administration, Social and Humanistic Sciences, Construction, Law, Electromechanics, Informatics, Languages, Communication, and Chemistry."
     },
     {
         "wikidata_id": "Q7895266",
@@ -736,7 +804,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Ciego de Ávila \"Máximo Gómez Báez\" (Spanish: Universidad de Ciego de Ávila \"Máximo Gómez Báez\", UNICA) is a public university located in Ciego de Ávila, Cuba. It was founded in 1978 and is organized in 7 Faculties."
     },
     {
         "wikidata_id": "Q941309",
@@ -748,7 +817,8 @@
         ],
         "latitude": 22.173207,
         "longitude": -80.450753,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Cienfuegos \"Carlos Rafael Rodríguez\" (Spanish: Universidad de Cienfuegos \"Carlos Rafael Rodríguez\", UCF) is a public university located in Cienfuegos, Cuba."
     },
     {
         "wikidata_id": "Q7895471",
@@ -758,7 +828,8 @@
         "aliases": null,
         "latitude": 20.28113,
         "longitude": -76.72686,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Granma (Spanish: Universidad de Granma, UDG) is a public university located in Bayamo, Cuba. It was founded by the Ministry of Higher Education in October 1976 to support agriculture sectors of the province."
     },
     {
         "wikidata_id": "Q837320",
@@ -772,7 +843,8 @@
         ],
         "latitude": 23.1343028,
         "longitude": -82.3820333,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Havana (UH; Spanish: Universidad de La Habana) is a public university located in the Vedado district of Havana, the capital of Cuba. Founded on 5 January 1728, the university is the oldest in Cuba, and one of the first to be founded in the Americas. Originally a religious institution, today the university has 15 faculties (colleges) at its Havana campus and distance learning centers throughout Cuba."
     },
     {
         "wikidata_id": "Q7895490",
@@ -784,7 +856,8 @@
         ],
         "latitude": 20.8961988,
         "longitude": -76.2384293,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Holguín \"Oscar Lucero Moya\" (Spanish: Universidad de Holguín \"Oscar Lucero Moya\", UHO) is a public university located in Holguín, Cuba. It was founded in 1973."
     },
     {
         "wikidata_id": "Q1535007",
@@ -794,7 +867,8 @@
         "aliases": null,
         "latitude": 22.99025,
         "longitude": -82.4659444,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Informatic Sciences (Spanish: Universidad de las Ciencias Informáticas; UCI, also known as the University of Information Sciences and University of Informatics Sciences) is a Cuban university research center based in  the ward of Wajay, Boyeros municipal borough, Havana."
     },
     {
         "wikidata_id": "Q58642563",
@@ -804,7 +878,8 @@
         "aliases": null,
         "latitude": 20.96229,
         "longitude": -76.9293,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Las Tunas (Spanish: Universidad de Las Tunas, ULT) is a public university located in Las Tunas, Cuba. It was founded in 2009 and is organized in 4 Faculties."
     },
     {
         "wikidata_id": "Q7895719",
@@ -816,7 +891,8 @@
         ],
         "latitude": 23.035,
         "longitude": -81.51,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74527428",
@@ -826,7 +902,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7895725",
@@ -836,7 +913,8 @@
         "aliases": null,
         "latitude": 22.1458333,
         "longitude": -80.4363889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896069",
@@ -846,7 +924,8 @@
         "aliases": null,
         "latitude": 23.0409,
         "longitude": -82.36979,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896114",
@@ -858,7 +937,8 @@
         ],
         "latitude": 22.4253,
         "longitude": -83.6875,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q839919",
@@ -868,6 +948,7 @@
         "aliases": null,
         "latitude": 20.04345,
         "longitude": -75.81727,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Oriente - Santiago de Cuba (Spanish: Universidad de Oriente - Santiago de Cuba, UO) is a university located in Santiago de Cuba, Cuba. It was founded in 1947 and is organized in 12 Faculties."
     }
 ]

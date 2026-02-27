@@ -10,7 +10,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Africa Rice Center (AfricaRice), formerly known as the West Africa Rice Development Association (WARDA), is a pan-African intergovernmental association and a CGIAR Research organization, currently headquartered in Abidjan, Côte d'Ivoire. AfricaRice is an agricultural research center that was constituted in 1971 by 11 West African countries. By 2023, the center counted 28 African member states."
     },
     {
         "wikidata_id": "Q18589874",
@@ -22,7 +23,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2945818",
@@ -32,7 +34,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The CIFAD (International Center for Distance Learning, or in French: Centre International de Formation à Distance) is a private institution in West Africa whose headquarters are in the district of Cocody in Abidjan, the economic capital of Côte d'Ivoire."
     },
     {
         "wikidata_id": "Q2680941",
@@ -42,7 +45,8 @@
         "aliases": null,
         "latitude": 6.79688,
         "longitude": -5.26469,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1583390",
@@ -64,7 +68,8 @@
         ],
         "latitude": 5.345556,
         "longitude": -3.986111,
-        "type": "university"
+        "type": "university",
+        "description": "Université Félix Houphouët-Boigny (UFHB), formerly known as Université de Cocody or Université de Cocody-Abidjan, is a public university located in the Cocody section of Abidjan and the largest in Côte d'Ivoire.  With over 50,000 students, the UFHB has 13 faculties and several research centers providing diplomas from two-year undergraduate to professional academic, medical, legal, and specialist degrees. From 1964 to 1996, it remained the main campus of the national University of Abidjan system."
     },
     {
         "wikidata_id": "Q3152457",
@@ -74,7 +79,8 @@
         "aliases": null,
         "latitude": 5.34468,
         "longitude": -3.99691,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18413711",
@@ -86,7 +92,8 @@
         ],
         "latitude": 6.8965,
         "longitude": -6.4414,
-        "type": "university"
+        "type": "university",
+        "description": "Jean Lorougnon Guédé University (in French Université Jean-Lorougnon-Guédé) is an Ivorian public university located in Daloa, in the west central region of Côte d'Ivoire. Jean Lorougnon Guédé is member of several organizations of higher education, in particular the French-speaking University Agency (AUF) and the Telecoms research and education network of Côte d'Ivoire."
     },
     {
         "wikidata_id": "Q2945933",
@@ -98,7 +105,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q65160505",
@@ -108,7 +116,8 @@
         "aliases": null,
         "latitude": 7.7038889,
         "longitude": -5.0394444,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q109315313",
@@ -118,7 +127,8 @@
         "aliases": null,
         "latitude": 7.3544,
         "longitude": -7.6236,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112883419",
@@ -128,7 +138,8 @@
         "aliases": null,
         "latitude": 9.42539,
         "longitude": -5.62994,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q118200842",
@@ -138,7 +149,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q118315999",
@@ -148,7 +160,8 @@
         "aliases": null,
         "latitude": 7.0975146,
         "longitude": -7.9897211,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q61852447",
@@ -158,7 +171,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3216880",
@@ -168,7 +182,8 @@
         "aliases": null,
         "latitude": 6.2126,
         "longitude": -5.0122,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q103020970",
@@ -178,7 +193,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551460",
@@ -191,7 +207,8 @@
         ],
         "latitude": 5.38922,
         "longitude": -4.01909,
-        "type": "university"
+        "type": "university",
+        "description": "Université d'Abobo-Adjamé or the University of Abobo-Adjamé (UAA) is part of the University of Cocody, one of two public universities in Abidjan, the economic capital of Côte d'Ivoire. It is located in the Abobo, Adjamé districts of the city. Founded in 1996, the University has around 8,000 students as of 2011 training in basic sciences (Maths, Science) and experimental sciences (Physics, Chemistry and Biosciences)."
     },
     {
         "wikidata_id": "Q122811289",
@@ -201,7 +218,8 @@
         "aliases": null,
         "latitude": 8.067,
         "longitude": -2.7757,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Bondoukou (U-bkou) is an Ivorian public university located in the northeastern part of Côte d'Ivoire in the city of Bondoukou, specifically in the Gontougo Region.\nThe university offers programs in fields such as architecture, urban planning, governance, sustainable development, sciences, arts, cultural industries, communication, languages and foreign languages, humanities, and social sciences."
     },
     {
         "wikidata_id": "Q113714273",
@@ -213,7 +231,8 @@
         ],
         "latitude": 4.7874,
         "longitude": -6.6984,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Polytechnics of San-Pédro (UPSP) is a public university located in the city of San-Pédro in the San-Pédro region (Bas-Sassandra District) in Côte d'Ivoire."
     },
     {
         "wikidata_id": "Q64358814",
@@ -225,7 +244,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The University of the Lagoons is a private university located in Abidjan, Ivory Coast."
     },
     {
         "wikidata_id": "Q3551369",
@@ -237,7 +257,8 @@
         ],
         "latitude": 7.68642,
         "longitude": -5.06669,
-        "type": "university"
+        "type": "university",
+        "description": "The Université Alassane Ouattara is a public university in Côte d'Ivoire. It was known as Université de Bouaké prior to a name change in August 2012. It was founded in 1992."
     },
     {
         "wikidata_id": "Q103020455",
@@ -247,7 +268,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103020464",
@@ -257,7 +279,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103020986",
@@ -267,7 +290,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28381317",
@@ -277,7 +301,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Virtual University of Côte d'Ivoire (UVCI) is a public university in Côte d'Ivoire specializing in distance education, located in Abidjan.\nEstablished by decree No. 2015-755 on 09 December 2015 and announced in September 2015, the virtual university was allocated a budget of 20 billion CFA francs, including provision of computers to students and public universities with Wi-Fi equipment."
     },
     {
         "wikidata_id": "Q3578282",
@@ -293,6 +318,7 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The École normale supérieure d'Abidjan (ENS Abidjan) is a higher education institution in Côte d'Ivoire established in 1964. It operates under the Ministry of Higher Education and Scientific Research and focuses on the pedagogical training of educators for secondary education, as well as research and development of educational tools.\nENS Abidjan conducts its educational activities through five departments: Arts and Letters, Languages, Education Sciences, Science and Technology, and History-Geography."
     }
 ]

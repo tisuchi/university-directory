@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156341",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Argentine Atlantis University is a university in Buenos Aires, Argentina."
     },
     {
         "wikidata_id": "Q119727217",
@@ -29,7 +31,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q119727747",
@@ -44,7 +47,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3028249",
@@ -56,7 +60,8 @@
         ],
         "latitude": -34.6167,
         "longitude": -58.3817,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q123702430",
@@ -66,7 +71,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2949394",
@@ -80,7 +86,8 @@
         ],
         "latitude": -34.5732538,
         "longitude": -58.4340343,
-        "type": "university"
+        "type": "university",
+        "description": "The War College Lieutenant General Luis María Campos (Spanish: Escuela Superior de Guerra Teniente General Luis María Campos) is the university and staff college of the Armed Forces of the Argentine Republic. It was founded by Lt Gen Luis María Campos and opened in 1900.\nIn the late 20th century, as Argentina modernized its Army education system, the War College redesigned its structure to accommodate civilian students."
     },
     {
         "wikidata_id": "Q6156550",
@@ -92,7 +99,8 @@
         ],
         "latitude": -34.7751535,
         "longitude": -58.2678955,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74550435",
@@ -102,7 +110,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74433378",
@@ -114,7 +123,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4823399",
@@ -126,7 +136,8 @@
         ],
         "latitude": -34.45667,
         "longitude": -58.8589,
-        "type": "university"
+        "type": "university",
+        "description": "Austral University (Spanish: Universidad Austral) is a private university in Argentina, based in Pilar, Buenos Aires. Austral is the best private university and the best in employability in the country according to QS University Rankings.\nSince 2011, the university has begun a consolidation process where the Pilar Campus has become the primary seat."
     },
     {
         "wikidata_id": "Q6156358",
@@ -139,7 +150,8 @@
         ],
         "latitude": -31.7271,
         "longitude": -60.515,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21573158",
@@ -149,7 +161,8 @@
         "aliases": null,
         "latitude": -38.6656922,
         "longitude": -62.2343181,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4860750",
@@ -159,7 +172,8 @@
         "aliases": null,
         "latitude": -41.12025,
         "longitude": -71.41476,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Bariloche Atomic Centre (Spanish: Centro Atómico Bariloche) is one of the research and development centres of the Argentine National Atomic Energy Commission. As its name implies, it is located in the city of San Carlos de Bariloche. Bariloche Atomic Centre is responsible for research in physics and nuclear engineering."
     },
     {
         "wikidata_id": "Q4882666",
@@ -169,7 +183,8 @@
         "aliases": null,
         "latitude": -34.57586,
         "longitude": -58.4260177,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Belgranian National Institute (in Spanish, Instituto Nacional Belgraniano) is an institute of Argentina focused in the historiography of Manuel Belgrano."
     },
     {
         "wikidata_id": "Q21848014",
@@ -179,7 +194,8 @@
         "aliases": null,
         "latitude": -32.94132,
         "longitude": -60.66616,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156373",
@@ -191,7 +207,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3068593",
@@ -201,7 +218,8 @@
         "aliases": null,
         "latitude": -34.6415071,
         "longitude": -58.4063919,
-        "type": "university"
+        "type": "university",
+        "description": "The Buenos Aires Institute of Technology (Spanish: Instituto Tecnológico de Buenos Aires, ITBA) is a top private university in Buenos Aires, Argentina.  Its focus is primarily on Engineering, Information Technology and Business studies.\nITBA maintains cooperation agreements with over 50 universities in 20 countries."
     },
     {
         "wikidata_id": "Q5810270",
@@ -213,7 +231,8 @@
         ],
         "latitude": -38.01166,
         "longitude": -57.5397778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97772073",
@@ -223,7 +242,8 @@
         "aliases": null,
         "latitude": -34.5419444,
         "longitude": -58.4425,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1736398",
@@ -233,7 +253,8 @@
         "aliases": null,
         "latitude": -31.419194,
         "longitude": -64.186917,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Católica de Córdoba (UCC) is a Jesuit university in Argentina that was founded on June 8, 1956, immediately after private universities were authorized."
     },
     {
         "wikidata_id": "Q1736403",
@@ -243,7 +264,8 @@
         "aliases": null,
         "latitude": -34.8966667,
         "longitude": -57.9418056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1570276",
@@ -255,7 +277,8 @@
         ],
         "latitude": -24.7399611,
         "longitude": -65.3918444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5053267",
@@ -265,7 +288,8 @@
         "aliases": null,
         "latitude": -27.7902778,
         "longitude": -64.2438889,
-        "type": "university"
+        "type": "university",
+        "description": "The Catholic University of Santiago del Estero (UCSE) is an institution created by a group of lay Catholics in collaboration with the Congregation of the Brothers of Mercy of Our Lady of Perpetual Help, and was inaugurated on June 21, 1960, as the Instituto Universitario San José de Ciencias Políticas, Sociales y Económicas.\nIts main campus was built in 1979, and the institution maintains campuses in San Salvador de Jujuy (1993), Olivos (1994), and Rafaela (1997). The campus is known for its arboretum, which is called the Estación Experimental Fernández and has a variety of trees, both indigenous and exotic."
     },
     {
         "wikidata_id": "Q47397358",
@@ -281,7 +305,8 @@
         ],
         "latitude": -42.784594,
         "longitude": -65.008969,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q17986320",
@@ -291,7 +316,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Center for Distributive, Labor and Social Studies (CEDLAS) is a research center specialising in distribution, labor and social issues in Latin America."
     },
     {
         "wikidata_id": "Q29018295",
@@ -303,7 +329,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q97771745",
@@ -316,7 +343,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16490623",
@@ -326,7 +354,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5062657",
@@ -336,7 +365,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Centre of Mathematics and Design (MAyDI) (Spanish: Centro de Matemática y Diseño) was created at the Faculty of Architecture, Design and Urbanism of the University of Buenos Aires, in 1995, under the direction of Vera W. de Spinadel.\nThis Centre received several research and development grants from the Secretary of Science and Technology of the University of Buenos Aires. At the Scientific Renewable Programming 2004–2007, they received a stipendium for the creation of a Mathematics & Design Laboratory MyD_Lab."
     },
     {
         "wikidata_id": "Q5761636",
@@ -349,7 +379,8 @@
         ],
         "latitude": -34.6048696,
         "longitude": -58.3908942,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74434195",
@@ -361,7 +392,8 @@
         ],
         "latitude": -34.6101148,
         "longitude": -58.4034312,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74542231",
@@ -371,7 +403,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74556034",
@@ -381,7 +414,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530247",
@@ -391,7 +425,8 @@
         "aliases": null,
         "latitude": -34.8999487,
         "longitude": -57.9319569,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q124364551",
@@ -401,7 +436,8 @@
         "aliases": null,
         "latitude": -34.614869,
         "longitude": -58.374006,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q109467290",
@@ -418,7 +454,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74541819",
@@ -428,7 +465,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547166",
@@ -438,7 +476,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528967",
@@ -451,7 +490,8 @@
         ],
         "latitude": -31.437721,
         "longitude": -64.185401,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5062843",
@@ -464,7 +504,8 @@
         ],
         "latitude": -31.6345,
         "longitude": -60.6711,
-        "type": "institute"
+        "type": "institute",
+        "description": "Centro de Investigación de Métodos Computacionales (CIMEC, Research Center for Computational Methods) is a research institute located at Predio CONICET Santa Fe Santa Fe, Argentina.\n\nIt depends on the Universidad Nacional del Litoral, and on the National Scientific and Technical Research Council (CONICET). The main area of research is Computational mechanics, i.e."
     },
     {
         "wikidata_id": "Q98090260",
@@ -474,7 +515,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q21847993",
@@ -484,7 +526,8 @@
         "aliases": null,
         "latitude": -31.63994,
         "longitude": -60.67258,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5777185",
@@ -494,7 +537,8 @@
         "aliases": null,
         "latitude": -31.41595,
         "longitude": -64.1952694,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74553673",
@@ -504,7 +548,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q24214058",
@@ -514,7 +559,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q97446118",
@@ -526,7 +572,8 @@
         ],
         "latitude": -31.422726,
         "longitude": -64.187813,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q55262777",
@@ -538,7 +585,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q118848364",
@@ -548,7 +596,8 @@
         "aliases": null,
         "latitude": -34.9106,
         "longitude": -57.9416,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q118641140",
@@ -558,7 +607,8 @@
         "aliases": null,
         "latitude": -34.9091803,
         "longitude": -57.9354256,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q118976713",
@@ -568,7 +618,8 @@
         "aliases": null,
         "latitude": -34.9106,
         "longitude": -57.9416,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q118521909",
@@ -578,7 +629,8 @@
         "aliases": null,
         "latitude": -34.9088272,
         "longitude": -57.9350737,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q118976560",
@@ -591,7 +643,8 @@
         ],
         "latitude": -34.9106,
         "longitude": -57.9416,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q118976601",
@@ -605,7 +658,8 @@
         ],
         "latitude": -34.9106,
         "longitude": -57.9416,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q118977066",
@@ -615,7 +669,8 @@
         "aliases": null,
         "latitude": -34.9106,
         "longitude": -57.9416,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q118976865",
@@ -625,7 +680,8 @@
         "aliases": null,
         "latitude": -34.9106,
         "longitude": -57.9416,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q118976838",
@@ -635,7 +691,8 @@
         "aliases": null,
         "latitude": -34.9106,
         "longitude": -57.9416,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q118976886",
@@ -645,7 +702,8 @@
         "aliases": null,
         "latitude": -34.9106,
         "longitude": -57.9416,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q118976824",
@@ -655,7 +713,8 @@
         "aliases": null,
         "latitude": -34.9106,
         "longitude": -57.9416,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q125364416",
@@ -665,7 +724,8 @@
         "aliases": null,
         "latitude": -34.89787,
         "longitude": -57.9800439,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q55358496",
@@ -677,7 +737,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q21847803",
@@ -687,7 +748,8 @@
         "aliases": null,
         "latitude": -32.07594,
         "longitude": -60.46415,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5839069",
@@ -700,7 +762,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74544426",
@@ -710,7 +773,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74553703",
@@ -720,7 +784,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5397480",
@@ -732,7 +797,8 @@
         ],
         "latitude": -34.8494444,
         "longitude": -58.1352778,
-        "type": "university"
+        "type": "university",
+        "description": "ESLAI or Escuela Superior Latinoamericana de Informática  (Spanish: Latin American School of Advanced Studies in Computer Science) was a small Argentinean computer science school established in 1986 and dissolved in 1990. In its short life, ESLAI had a considerable impact on computer science teaching and research in Argentina and other South American countries.\nArgentine mathematician Manuel Sadosky was the key sponsor of the creation of ESLAI; other founders include Rebeca Guber, and Armando Haeberer, who also served as Deputy Director; Jorge Vidart was named Director soon after ESLAI opened."
     },
     {
         "wikidata_id": "Q138492458",
@@ -744,7 +810,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547765",
@@ -754,7 +821,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q121073992",
@@ -764,7 +832,8 @@
         "aliases": null,
         "latitude": -38.574302,
         "longitude": -58.702719,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q134965741",
@@ -780,7 +849,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74544470",
@@ -790,7 +860,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547170",
@@ -800,7 +871,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74544541",
@@ -810,7 +882,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547182",
@@ -820,7 +893,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74539662",
@@ -830,7 +904,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q17155001",
@@ -842,7 +917,8 @@
         ],
         "latitude": -34.9007764,
         "longitude": -57.932948,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156455",
@@ -855,7 +931,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5438433",
@@ -865,7 +942,8 @@
         "aliases": null,
         "latitude": -34.61431,
         "longitude": -58.39039,
-        "type": "university"
+        "type": "university",
+        "description": "The Favaloro University (Spanish: Universidad Favaloro) is a private university in the city of Buenos Aires in Argentina. It was founded by surgeon René Favaloro in 1992; it obtained its definitive authorization on October 23, 2003, by decree 963\/03 of president Néstor Kirchner. Favaloro did not see his project completely realised, for he committed suicide a few years before completion."
     },
     {
         "wikidata_id": "Q7894326",
@@ -877,7 +955,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q119727505",
@@ -891,7 +970,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5871394",
@@ -903,7 +983,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5917962",
@@ -915,7 +996,8 @@
         ],
         "latitude": -27.371329,
         "longitude": -55.895627,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74553341",
@@ -925,7 +1007,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5624200",
@@ -935,7 +1018,8 @@
         "aliases": null,
         "latitude": -26.8225,
         "longitude": -65.2022222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5758072",
@@ -945,7 +1029,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Higher Education Army Institute (Spanish: Instituto de Educación Superior del Ejército. IESE) is an Argentine university founded in 1986 and officially in 1990 that belongs to the Argentine Army and which is responsible for the technical education of this force."
     },
     {
         "wikidata_id": "Q83870432",
@@ -957,7 +1042,8 @@
         ],
         "latitude": -34.583864,
         "longitude": -58.472835,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q50899983",
@@ -967,7 +1053,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q39639762",
@@ -979,7 +1066,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q50314996",
@@ -991,7 +1079,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q97772161",
@@ -1003,7 +1092,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q54914587",
@@ -1015,7 +1105,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16976342",
@@ -1025,7 +1116,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "Based in Buenos Aires, the Instituto Argentino de Matemática (I. A. M.)  is a research center of the National Research Council of Argentina (CONICET). It is named after Alberto Pedro Calderón in honor of one of its former directors, the Argentinian mathematician widely recognized as a towering figure of 20th-century mathematics. The overarching goal of the institute is to promote the development of pure and applied mathematics research in Argentina."
     },
     {
         "wikidata_id": "Q52575621",
@@ -1035,7 +1127,8 @@
         "aliases": null,
         "latitude": -34.6051245,
         "longitude": -58.3708,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q120722406",
@@ -1047,7 +1140,8 @@
         ],
         "latitude": -26.7771291,
         "longitude": -65.3250881,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q29045424",
@@ -1057,7 +1151,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5918035",
@@ -1070,7 +1165,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5918039",
@@ -1082,7 +1178,8 @@
         ],
         "latitude": -34.5579,
         "longitude": -58.4588,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute of Biology and Experimental Medicine (Spanish: Instituto de Biología y Medicina Experimental, IByME) is a research and development centre affiliated to the University of Buenos Aires, in Buenos Aires, Argentina."
     },
     {
         "wikidata_id": "Q979012",
@@ -1092,7 +1189,8 @@
         "aliases": null,
         "latitude": -34.4740876,
         "longitude": -58.5082974,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5918049",
@@ -1106,7 +1204,8 @@
         ],
         "latitude": -27.4595105,
         "longitude": -58.8237817,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Instituto de Botánica del Nordeste, or Ibone, is a large botanical institute at the National University of the Northeast and major regional herbarium which contains over 400,000 plant specimens from northeastern Argentina and neighboring countries. It was founded by Ing. Agr."
     },
     {
         "wikidata_id": "Q74538072",
@@ -1116,7 +1215,8 @@
         "aliases": null,
         "latitude": -34.6282307,
         "longitude": -58.4457802,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530670",
@@ -1126,7 +1226,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q50892818",
@@ -1138,7 +1239,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q122832483",
@@ -1148,7 +1250,8 @@
         "aliases": null,
         "latitude": -27.4307754,
         "longitude": -59.0060556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5918136",
@@ -1162,7 +1265,8 @@
         ],
         "latitude": -34.5905619,
         "longitude": -58.3813379,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74545596",
@@ -1172,7 +1276,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q116733921",
@@ -1182,7 +1287,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30266612",
@@ -1196,7 +1302,8 @@
         ],
         "latitude": -34.923421,
         "longitude": -57.946805,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74536130",
@@ -1206,7 +1313,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q135456247",
@@ -1218,7 +1326,8 @@
         ],
         "latitude": -36.7667443,
         "longitude": -59.8809028,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q9008789",
@@ -1234,7 +1343,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q120722331",
@@ -1246,7 +1356,8 @@
         ],
         "latitude": -36.9152401,
         "longitude": -60.3027895,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q125762026",
@@ -1258,7 +1369,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74548200",
@@ -1268,7 +1380,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529337",
@@ -1278,7 +1391,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q117008022",
@@ -1290,7 +1404,8 @@
         ],
         "latitude": -31.4371089,
         "longitude": -64.1893958,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74536150",
@@ -1300,7 +1415,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q97482589",
@@ -1313,7 +1429,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74556036",
@@ -1323,7 +1440,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q135494356",
@@ -1335,7 +1453,8 @@
         ],
         "latitude": -34.90984,
         "longitude": -57.9261977,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q122873017",
@@ -1345,7 +1464,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q97924412",
@@ -1355,7 +1475,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute of Physicochemistry of Materials, Environment and Energy (Spanish: Instituto de Química-Física de Materiales, Medio Ambiente y Energía; INQUIMAE) is a chemistry research centre with double dependence shared among the University of Buenos Aires (UBA) and Argentina's national research council CONICET. It is located at the Faculty of Exact and Natural Sciences Pabellón II building, in the Ciudad Universitaria complex."
     },
     {
         "wikidata_id": "Q55454197",
@@ -1367,7 +1488,8 @@
         ],
         "latitude": -34.594267,
         "longitude": -58.428501,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5393477",
@@ -1377,7 +1499,8 @@
         "aliases": null,
         "latitude": -34.5222222,
         "longitude": -58.7,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q50892218",
@@ -1389,7 +1512,8 @@
         ],
         "latitude": -31.434062,
         "longitude": -64.1934275,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q66424698",
@@ -1399,7 +1523,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q99078375",
@@ -1409,7 +1534,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q57956804",
@@ -1421,7 +1547,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6041497",
@@ -1431,7 +1558,8 @@
         "aliases": null,
         "latitude": -31.4132677,
         "longitude": -64.1800312,
-        "type": "university"
+        "type": "university",
+        "description": "Instituto Superior Santo Domingo (ISSD) is a private-technical institute located in Córdoba, Argentina. ISSD was founded in 1986 in the city of Córdoba as a private   third level education institute."
     },
     {
         "wikidata_id": "Q6041563",
@@ -1443,7 +1571,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Instituto Tecnológico Córdoba (Technological Institute of Cordoba) was created jointly by the six universities located in Córdoba, Argentina, and Cordoba Technology Cluster (comprising over 30 IT companies), to promote technological development in the region."
     },
     {
         "wikidata_id": "Q99522989",
@@ -1453,7 +1582,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5858872",
@@ -1466,7 +1596,8 @@
         ],
         "latitude": -34.62112,
         "longitude": -58.37942,
-        "type": "university"
+        "type": "university",
+        "description": "The Interamerican Open University (Universidad Abierta Interamericana, UAI) is a private university based in Argentina. It was established in 1995 and is part of the Vanguardia Educativa network (VANEDUC), a non-confessional network of educational and research centers that was established as far back as 1942."
     },
     {
         "wikidata_id": "Q9008770",
@@ -1476,7 +1607,8 @@
         "aliases": null,
         "latitude": -32.943834,
         "longitude": -60.6420967,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894234",
@@ -1488,7 +1620,8 @@
         ],
         "latitude": -34.6074432,
         "longitude": -58.3853243,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5403549",
@@ -1501,7 +1634,8 @@
         ],
         "latitude": -32.898624,
         "longitude": -68.811697,
-        "type": "university"
+        "type": "university",
+        "description": "The Juan Agustín Maza University is a private university located in Las Cañas district, Guaymallén department in Mendoza, Argentina. It was founded on May 4, 1960, as a non-for-profit organization."
     },
     {
         "wikidata_id": "Q6520936",
@@ -1511,7 +1645,8 @@
         "aliases": null,
         "latitude": -34.604158,
         "longitude": -58.434272,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156526",
@@ -1521,7 +1656,8 @@
         "aliases": null,
         "latitude": -34.610295,
         "longitude": -58.4405335,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6448746",
@@ -1531,7 +1667,8 @@
         "aliases": null,
         "latitude": -31.52064,
         "longitude": -64.46527,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4981871",
@@ -1544,7 +1681,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q115023098",
@@ -1554,7 +1692,8 @@
         "aliases": null,
         "latitude": -34.6294162,
         "longitude": -58.364921,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q286325",
@@ -1567,7 +1706,8 @@
         ],
         "latitude": -34.5992104,
         "longitude": -58.4017652,
-        "type": "university"
+        "type": "university",
+        "description": "The Conservatorio Nacional Superior de Música is the national music conservatory for Argentina and it is located in Buenos Aires."
     },
     {
         "wikidata_id": "Q9008700",
@@ -1581,7 +1721,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q111835483",
@@ -1591,7 +1732,8 @@
         "aliases": null,
         "latitude": -34.6148381,
         "longitude": -58.3739524,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3232206",
@@ -1603,7 +1745,8 @@
         ],
         "latitude": -34.6044444,
         "longitude": -58.3727778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6978860",
@@ -1613,7 +1756,8 @@
         "aliases": null,
         "latitude": -34.6617,
         "longitude": -58.3655,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6978866",
@@ -1627,7 +1771,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6978867",
@@ -1637,7 +1782,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6978870",
@@ -1647,7 +1793,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q120204388",
@@ -1657,7 +1804,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5854490",
@@ -1669,7 +1817,8 @@
         ],
         "latitude": -32.95461,
         "longitude": -60.64382,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5854496",
@@ -1681,7 +1830,8 @@
         ],
         "latitude": -31.42046,
         "longitude": -62.110691,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5854498",
@@ -1693,7 +1843,8 @@
         ],
         "latitude": -33.33215,
         "longitude": -60.20604,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6978879",
@@ -1706,7 +1857,8 @@
         ],
         "latitude": -26.817,
         "longitude": -65.1988,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979224",
@@ -1718,7 +1870,8 @@
         ],
         "latitude": -51.6472222,
         "longitude": -69.2088889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156577",
@@ -1730,7 +1883,8 @@
         ],
         "latitude": -34.6629185,
         "longitude": -58.3722126,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979234",
@@ -1742,7 +1896,8 @@
         ],
         "latitude": -28.45916,
         "longitude": -65.78215,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5576619",
@@ -1755,7 +1910,8 @@
         ],
         "latitude": -37.3288889,
         "longitude": -59.1383333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979230",
@@ -1767,7 +1923,8 @@
         ],
         "latitude": -29.1566667,
         "longitude": -67.4713889,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Chilecito (Spanish: Universidad Nacional de Chilecito, UNDEC) is an Argentine national university situated in the city of Chilecito, La Rioja. The institution was established by the decree of the National Executive Branch No. 2,615 on December 16, 2002, on the Chilecito campus of the National University of La Rioja."
     },
     {
         "wikidata_id": "Q1570489",
@@ -1786,7 +1943,8 @@
         ],
         "latitude": -31.4375,
         "longitude": -64.1877778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6317539",
@@ -1798,7 +1956,8 @@
         ],
         "latitude": -32.4839167,
         "longitude": -58.2313889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979245",
@@ -1810,7 +1969,8 @@
         ],
         "latitude": -26.1919,
         "longitude": -58.1999,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Formosa (Spanish: Universidad Nacional de Formosa, UNF) is an Argentine national university, situated in the city of Formosa, capital of Formosa Province. Its precursor, the University Institute of Formosa, was established in 1971 as a campus of the National University of the Northeast."
     },
     {
         "wikidata_id": "Q5733950",
@@ -1824,7 +1984,8 @@
         ],
         "latitude": -34.58049,
         "longitude": -58.52327,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1812180",
@@ -1836,7 +1997,8 @@
         ],
         "latitude": -34.5222222,
         "longitude": -58.7,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156583",
@@ -1848,7 +2010,8 @@
         ],
         "latitude": -34.520388,
         "longitude": -58.7455641,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6317490",
@@ -1860,7 +2023,8 @@
         ],
         "latitude": -24.1792028,
         "longitude": -65.3245472,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979250",
@@ -1873,7 +2037,8 @@
         ],
         "latitude": -34.6705556,
         "longitude": -58.5627778,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of La Matanza (Spanish: Universidad Nacional de La Matanza, UNLaM) is an Argentine national university situated in La Matanza Partido, Buenos Aires Province."
     },
     {
         "wikidata_id": "Q6979257",
@@ -1886,7 +2051,8 @@
         ],
         "latitude": -36.62038,
         "longitude": -64.28925,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of La Pampa (Spanish: Universidad Nacional de La Pampa, UNLPAM) is an Argentine national university, situated in the city of Santa Rosa, capital of La Pampa Province."
     },
     {
         "wikidata_id": "Q784171",
@@ -1900,7 +2066,8 @@
         ],
         "latitude": -34.9129694,
         "longitude": -57.9513556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979253",
@@ -1913,7 +2080,8 @@
         ],
         "latitude": -29.4288,
         "longitude": -66.8673,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of La Rioja (Spanish: Universidad Nacional de La Rioja, UNLAR) is an Argentine national university, situated in the city of La Rioja, capital of La Rioja Province. Its precursor, the Provincial University of La Rioja, was established in 1972."
     },
     {
         "wikidata_id": "Q131030189",
@@ -1927,7 +2095,8 @@
         ],
         "latitude": -30.3689635,
         "longitude": -66.3126809,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979256",
@@ -1939,7 +2108,8 @@
         ],
         "latitude": -34.7341667,
         "longitude": -58.3905556,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Lanús (Spanish: Universidad Nacional de Lanús, UNLa) is an Argentine national university, located in Remedios de Escalada, Lanús Partido, Buenos Aires Province.\nIt was created on June 7, 1995 by national law 24,496."
     },
     {
         "wikidata_id": "Q6316549",
@@ -1952,7 +2122,8 @@
         ],
         "latitude": -34.7775,
         "longitude": -58.4580556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979259",
@@ -1964,7 +2135,8 @@
         ],
         "latitude": -34.5780556,
         "longitude": -59.0872222,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Luján (Spanish: Universidad Nacional de Luján) is an Argentine national university, situated in Luján, Buenos Aires Province."
     },
     {
         "wikidata_id": "Q6979260",
@@ -1977,7 +2149,8 @@
         ],
         "latitude": -38.0057,
         "longitude": -57.5713,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Mar del Plata (Spanish: Universidad Nacional de Mar del Plata, UNMdP) is an Argentine national university in the  city of Mar del Plata, on the Atlantic coast.\nThe institution was established in 1962 as the Universidad de la Provincia de Buenos Aires (University of the Province of Buenos Aires). The university acquired its current name in 1975, when under the auspices of the Taquini Plan the Argentine government took over its administration and merged it with the Universidad Católica Stella Maris (Catholic University Stella Maris)."
     },
     {
         "wikidata_id": "Q690146",
@@ -1989,7 +2162,8 @@
         ],
         "latitude": -27.4346389,
         "longitude": -55.888,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156589",
@@ -2001,7 +2175,8 @@
         ],
         "latitude": -34.6517751,
         "longitude": -58.7765888,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q9091584",
@@ -2013,7 +2188,8 @@
         ],
         "latitude": -34.5713,
         "longitude": -60.94885,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Northwestern Buenos Aires (Universidad Nacional del Noroeste de la Provincia de Buenos Aires or UNNOBA hereafter) is a national university with head office and campus in Junín, Argentina. This city concentrates 80% of the activities, and nearly 2 out of 3 students take classes there. The university has also a campus in Pergamino city."
     },
     {
         "wikidata_id": "Q6979265",
@@ -2027,7 +2203,8 @@
         ],
         "latitude": -45.82502,
         "longitude": -67.46309,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of the Patagonia San Juan Bosco (Spanish: Universidad Nacional de la Patagonia San Juan Bosco) is a higher education establishment in Patagonia, southern Argentina. It was created on February 25, 1980, by law 22.713, as the merge of two national universities: the \"Universidad de San Juan Bosco\" and \"Universidad Nacional de la Patagonia\". It is named after San Juan Bosco, patron saint of the area."
     },
     {
         "wikidata_id": "Q6317522",
@@ -2037,7 +2214,8 @@
         "aliases": null,
         "latitude": -34.7066667,
         "longitude": -58.2775,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q27832147",
@@ -2047,7 +2225,8 @@
         "aliases": null,
         "latitude": -31.2715844,
         "longitude": -61.5118021,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q796023",
@@ -2060,7 +2239,8 @@
         ],
         "latitude": -33.1097778,
         "longitude": -64.3018889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156591",
@@ -2072,7 +2252,8 @@
         ],
         "latitude": -39.09543,
         "longitude": -67.09478,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979266",
@@ -2084,7 +2265,8 @@
         ],
         "latitude": -24.72711,
         "longitude": -65.40921,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Salta (Spanish: Universidad Nacional de Salta, or UNSa) is an Argentine public national university with its main campus in the city of Salta, and regional campuses in Tartagal, San Ramón de la Nueva Orán, Rosario de la Frontera, and San José de Metán. It was founded on May 11, 1972, as a part of the Plan Taquini, a reorganization plan for education. It enrolls approximately 25,000 students per year."
     },
     {
         "wikidata_id": "Q27557477",
@@ -2096,7 +2278,8 @@
         ],
         "latitude": -34.257391,
         "longitude": -59.47966,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q934439",
@@ -2109,7 +2292,8 @@
         ],
         "latitude": -31.5408333,
         "longitude": -68.5777778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q9290218",
@@ -2121,7 +2305,8 @@
         ],
         "latitude": -33.29115,
         "longitude": -66.33812,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q9091578",
@@ -2133,7 +2318,8 @@
         ],
         "latitude": -27.801,
         "longitude": -64.2511,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4315126",
@@ -2143,7 +2329,8 @@
         "aliases": null,
         "latitude": -34.5947222,
         "longitude": -58.3994444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979282",
@@ -2155,7 +2342,8 @@
         ],
         "latitude": -26.8011111,
         "longitude": -60.4463889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q265866",
@@ -2167,7 +2355,8 @@
         ],
         "latitude": -31.6344444,
         "longitude": -60.7052778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5261681",
@@ -2180,7 +2369,8 @@
         ],
         "latitude": -27.4639,
         "longitude": -58.8394,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979285",
@@ -2192,7 +2382,8 @@
         ],
         "latitude": -34.6647222,
         "longitude": -58.6994444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5390556",
@@ -2204,7 +2395,8 @@
         ],
         "latitude": -54.8187321,
         "longitude": -68.3255621,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979278",
@@ -2217,7 +2409,8 @@
         ],
         "latitude": -34.6016667,
         "longitude": -58.5277778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979284",
@@ -2232,7 +2425,8 @@
         ],
         "latitude": -26.8422,
         "longitude": -65.2313,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q9091583",
@@ -2244,7 +2438,8 @@
         ],
         "latitude": -32.3841386,
         "longitude": -63.2617906,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156598",
@@ -2256,7 +2451,8 @@
         ],
         "latitude": -33.68682,
         "longitude": -65.46786,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74537172",
@@ -2266,7 +2462,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q973767",
@@ -2279,7 +2476,8 @@
         ],
         "latitude": -34.5935,
         "longitude": -58.5098611,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97583025",
@@ -2291,7 +2489,8 @@
         ],
         "latitude": -31.43427,
         "longitude": -64.1749,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74550537",
@@ -2301,7 +2500,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q109423452",
@@ -2311,7 +2511,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112751967",
@@ -2324,7 +2525,8 @@
         ],
         "latitude": -34.6106883,
         "longitude": -58.370027,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q117087450",
@@ -2334,7 +2536,8 @@
         "aliases": null,
         "latitude": -34.6012499,
         "longitude": -68.3279271,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q118848045",
@@ -2344,7 +2547,8 @@
         "aliases": null,
         "latitude": -34.9106,
         "longitude": -57.9416,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q120648323",
@@ -2354,7 +2558,8 @@
         "aliases": null,
         "latitude": -42.784563,
         "longitude": -65.008883,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q120648361",
@@ -2364,7 +2569,8 @@
         "aliases": null,
         "latitude": -42.7846654,
         "longitude": -65.0089254,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q123210736",
@@ -2374,7 +2580,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q125768138",
@@ -2384,7 +2591,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125889310",
@@ -2394,7 +2602,8 @@
         "aliases": null,
         "latitude": -32.9643201,
         "longitude": -60.6500728,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q128137502",
@@ -2404,7 +2613,8 @@
         "aliases": null,
         "latitude": -34.61714,
         "longitude": -58.37727,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q128137965",
@@ -2414,7 +2624,8 @@
         "aliases": null,
         "latitude": -26.8523637,
         "longitude": -58.3098421,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q128138261",
@@ -2424,7 +2635,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q128139198",
@@ -2434,7 +2646,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q128601838",
@@ -2444,7 +2657,8 @@
         "aliases": null,
         "latitude": -34.7895199,
         "longitude": -58.5231457,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q128601859",
@@ -2454,7 +2668,8 @@
         "aliases": null,
         "latitude": -39.0178853,
         "longitude": -67.5959193,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q128601864",
@@ -2464,7 +2679,8 @@
         "aliases": null,
         "latitude": -34.5079784,
         "longitude": -58.4773738,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q128601874",
@@ -2474,7 +2690,8 @@
         "aliases": null,
         "latitude": -34.659295,
         "longitude": -58.4643147,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q128601880",
@@ -2484,7 +2701,8 @@
         "aliases": null,
         "latitude": -24.24082,
         "longitude": -65.27193,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q129344959",
@@ -2494,7 +2712,8 @@
         "aliases": null,
         "latitude": -38.951243,
         "longitude": -68.055877,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131283737",
@@ -2504,7 +2723,8 @@
         "aliases": null,
         "latitude": -34.9223552,
         "longitude": -57.9421772,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q131343712",
@@ -2514,7 +2734,8 @@
         "aliases": null,
         "latitude": -32.3841386,
         "longitude": -63.2617906,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q131562331",
@@ -2524,7 +2745,8 @@
         "aliases": null,
         "latitude": -34.6015299,
         "longitude": -68.3303739,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135484441",
@@ -2534,7 +2756,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q135490323",
@@ -2544,7 +2767,8 @@
         "aliases": null,
         "latitude": -25.1114382,
         "longitude": -58.2886468,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q137357878",
@@ -2554,7 +2778,8 @@
         "aliases": null,
         "latitude": -33.9354282,
         "longitude": -60.5592788,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q137358918",
@@ -2564,7 +2789,8 @@
         "aliases": null,
         "latitude": -34.5419609,
         "longitude": -58.4412256,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q137359385",
@@ -2574,7 +2800,8 @@
         "aliases": null,
         "latitude": -41.1456447,
         "longitude": -71.3130962,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q138473321",
@@ -2584,7 +2811,8 @@
         "aliases": null,
         "latitude": -34.6052222,
         "longitude": -58.3707587,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20019056",
@@ -2594,7 +2822,8 @@
         "aliases": null,
         "latitude": -38.6931294,
         "longitude": -62.2421148,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2876214",
@@ -2604,7 +2833,8 @@
         "aliases": null,
         "latitude": -34.5222222,
         "longitude": -58.7,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3064260",
@@ -2614,7 +2844,8 @@
         "aliases": null,
         "latitude": -34.5822,
         "longitude": -58.3917,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q39081284",
@@ -2624,7 +2855,8 @@
         "aliases": null,
         "latitude": -32.3633594,
         "longitude": -65.0173993,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q39081285",
@@ -2634,7 +2866,8 @@
         "aliases": null,
         "latitude": -26.9937315,
         "longitude": -54.4838421,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q39081287",
@@ -2644,7 +2877,8 @@
         "aliases": null,
         "latitude": -34.7953151,
         "longitude": -58.3894567,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q39081350",
@@ -2654,7 +2888,8 @@
         "aliases": null,
         "latitude": -34.5003095,
         "longitude": -58.5811986,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5761046",
@@ -2664,7 +2899,8 @@
         "aliases": null,
         "latitude": -54.821301,
         "longitude": -68.323937,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5839153",
@@ -2674,7 +2910,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5907068",
@@ -2684,7 +2921,8 @@
         "aliases": null,
         "latitude": -31.5277958,
         "longitude": -68.5610799,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q60602739",
@@ -2694,7 +2932,8 @@
         "aliases": null,
         "latitude": -34.6143865,
         "longitude": -58.3696919,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156662",
@@ -2704,7 +2943,8 @@
         "aliases": null,
         "latitude": -34.6090958,
         "longitude": -58.3722382,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q73741420",
@@ -2714,7 +2954,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q84048804",
@@ -2724,7 +2965,8 @@
         "aliases": null,
         "latitude": -27.471067,
         "longitude": -58.836303,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97624909",
@@ -2734,7 +2976,8 @@
         "aliases": null,
         "latitude": -34.5424065,
         "longitude": -58.4388461,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74557185",
@@ -2744,7 +2987,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3551515",
@@ -2756,7 +3000,8 @@
         ],
         "latitude": -32.0753349,
         "longitude": -60.4646241,
-        "type": "university"
+        "type": "university",
+        "description": "Adventist University of the Plata in Spanish: Universidad Adventista del Plata is a private Christian coeducational university in Libertador San Martín, Entre Ríos, Argentina, founded in 1898.\nThe University began as a small rural training school which later became known as Colegio Adventista del Plata (Adventist School of the Plata). After being given official recognition by CoNEAU in the 1990s and the signing of a decree by President Eduardo Duhalde in 2002, it became the Universidad Adventista del Plata."
     },
     {
         "wikidata_id": "Q11049501",
@@ -2766,7 +3011,8 @@
         "aliases": null,
         "latitude": -26.8166667,
         "longitude": -65.2166667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2496204",
@@ -2776,7 +3022,8 @@
         "aliases": null,
         "latitude": -26.833159,
         "longitude": -65.20522,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5838892",
@@ -2789,7 +3036,8 @@
         ],
         "latitude": -34.5808671,
         "longitude": -58.4231477,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74530705",
@@ -2799,7 +3047,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18286571",
@@ -2811,7 +3060,8 @@
         ],
         "latitude": -31.32304,
         "longitude": -64.22188,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q52575383",
@@ -2821,7 +3071,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16635133",
@@ -2831,7 +3082,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q119728885",
@@ -2844,7 +3096,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6138980",
@@ -2856,7 +3109,8 @@
         ],
         "latitude": -34.5971779,
         "longitude": -58.375489,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1333933",
@@ -2868,7 +3122,8 @@
         ],
         "latitude": -34.5474167,
         "longitude": -58.4466944,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q127387637",
@@ -2881,7 +3136,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3152335",
@@ -2894,7 +3150,8 @@
         ],
         "latitude": 48.8628874,
         "longitude": 2.2782039,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74530015",
@@ -2904,7 +3161,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527521",
@@ -2914,7 +3172,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156394",
@@ -2927,7 +3186,8 @@
         ],
         "latitude": -31.5372222,
         "longitude": -68.5205556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74547466",
@@ -2937,7 +3197,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156404",
@@ -2947,7 +3208,8 @@
         "aliases": null,
         "latitude": -31.6058328,
         "longitude": -60.6709839,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74528762",
@@ -2957,7 +3219,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547106",
@@ -2971,7 +3234,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528673",
@@ -2981,7 +3245,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74546128",
@@ -2991,7 +3256,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74551946",
@@ -3001,7 +3267,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74553784",
@@ -3011,7 +3278,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q56317249",
@@ -3021,7 +3289,8 @@
         "aliases": null,
         "latitude": -34.6281429,
         "longitude": -58.4462174,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528130",
@@ -3031,7 +3300,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74536101",
@@ -3041,7 +3311,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2887298",
@@ -3054,7 +3325,8 @@
         ],
         "latitude": -34.5980907,
         "longitude": -58.3871549,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156753",
@@ -3064,7 +3336,8 @@
         "aliases": null,
         "latitude": -32.8942383,
         "longitude": -68.8417374,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894334",
@@ -3076,7 +3349,8 @@
         ],
         "latitude": -34.6467,
         "longitude": -58.62,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74530733",
@@ -3086,7 +3360,8 @@
         "aliases": null,
         "latitude": -34.5950543,
         "longitude": -58.4148112,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2885322",
@@ -3096,7 +3371,8 @@
         "aliases": null,
         "latitude": -32.889917,
         "longitude": -68.836417,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q117788390",
@@ -3106,7 +3382,8 @@
         "aliases": null,
         "latitude": -34.9071454,
         "longitude": -57.9482494,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156851",
@@ -3116,7 +3393,8 @@
         "aliases": null,
         "latitude": -34.6038801,
         "longitude": -58.3913157,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74557422",
@@ -3126,7 +3404,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529749",
@@ -3136,7 +3415,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q29045289",
@@ -3146,7 +3426,8 @@
         "aliases": null,
         "latitude": -34.6133302,
         "longitude": -58.3794221,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q109467100",
@@ -3159,7 +3440,8 @@
         ],
         "latitude": -34.6050903,
         "longitude": -58.3956341,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74548767",
@@ -3169,7 +3451,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1076209",
@@ -3181,7 +3464,8 @@
         ],
         "latitude": -32.8804333,
         "longitude": -68.8777333,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Cuyo (Spanish: Universidad Nacional de Cuyo, UNCuyo) is the largest center of higher education in the province of Mendoza, Argentina.\nAs of 2005, the university had 12 academic schools in the city of Mendoza and a delegation in the city of San Rafael (province of Mendoza), in addition to the Balseiro Institute, which is the most developed institute of Physics research in Argentina, located in the city of San Carlos de Bariloche (province of Río Negro). It includes the University Technological Institute which offers technical education in four other cities in Mendoza province."
     },
     {
         "wikidata_id": "Q74528455",
@@ -3191,7 +3475,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74554965",
@@ -3201,7 +3486,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528738",
@@ -3211,7 +3497,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74549226",
@@ -3221,7 +3508,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528418",
@@ -3231,7 +3519,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528108",
@@ -3241,7 +3530,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529013",
@@ -3251,7 +3541,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529341",
@@ -3261,7 +3552,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74554935",
@@ -3271,7 +3563,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528057",
@@ -3281,7 +3574,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74550426",
@@ -3291,7 +3585,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74542818",
@@ -3301,7 +3596,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q28501872",
@@ -3311,7 +3607,8 @@
         "aliases": null,
         "latitude": -34.618093,
         "longitude": -58.637751,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Hurlingham (Spanish: Universidad Nacional de Hurlingham) is a public university in Hurlingham, Buenos Aires Province, Argentina, with over 35.000 students."
     },
     {
         "wikidata_id": "Q74538100",
@@ -3321,7 +3618,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530544",
@@ -3331,7 +3629,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528394",
@@ -3341,7 +3640,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528417",
@@ -3351,7 +3651,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74545083",
@@ -3361,7 +3662,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74535845",
@@ -3371,7 +3673,8 @@
         "aliases": null,
         "latitude": -34.9221613,
         "longitude": -57.9414447,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547100",
@@ -3381,7 +3684,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74540139",
@@ -3391,7 +3695,8 @@
         "aliases": null,
         "latitude": -34.9114041,
         "longitude": -57.9304407,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74535879",
@@ -3403,7 +3708,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74537171",
@@ -3413,7 +3719,8 @@
         "aliases": null,
         "latitude": -34.8999019,
         "longitude": -57.9324166,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552203",
@@ -3423,7 +3730,8 @@
         "aliases": null,
         "latitude": -34.8999487,
         "longitude": -57.9319569,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74551483",
@@ -3433,7 +3741,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74551944",
@@ -3443,7 +3752,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528406",
@@ -3453,7 +3763,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529684",
@@ -3463,7 +3774,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528972",
@@ -3473,7 +3785,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74538069",
@@ -3483,7 +3796,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74546037",
@@ -3493,7 +3807,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74550444",
@@ -3503,7 +3818,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74548740",
@@ -3513,7 +3829,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74541820",
@@ -3523,7 +3840,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74540160",
@@ -3533,7 +3851,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74539636",
@@ -3543,7 +3862,8 @@
         "aliases": null,
         "latitude": -34.7065416,
         "longitude": -58.278429,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74539008",
@@ -3553,7 +3873,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527847",
@@ -3563,7 +3884,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5255905",
@@ -3577,7 +3899,8 @@
         ],
         "latitude": -32.9427778,
         "longitude": -60.65,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Rosario (Spanish: Universidad Nacional de Rosario, UNR) is a research public university located in the city of Rosario, province of Santa Fe, Argentina."
     },
     {
         "wikidata_id": "Q74530268",
@@ -3587,7 +3910,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528693",
@@ -3597,7 +3921,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74537117",
@@ -3607,7 +3932,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552267",
@@ -3617,7 +3943,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529747",
@@ -3629,7 +3956,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552546",
@@ -3639,7 +3967,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529335",
@@ -3649,7 +3978,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528993",
@@ -3659,7 +3989,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74536396",
@@ -3669,7 +4000,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74543444",
@@ -3679,7 +4011,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552644",
@@ -3689,7 +4022,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527426",
@@ -3699,7 +4033,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529673",
@@ -3709,7 +4044,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529345",
@@ -3719,7 +4055,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74553727",
@@ -3729,7 +4066,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74550479",
@@ -3739,7 +4077,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547149",
@@ -3749,7 +4088,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4315122",
@@ -3763,7 +4103,8 @@
         ],
         "latitude": -38.9403,
         "longitude": -68.0558,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Comahue (Spanish: Universidad Nacional del Comahue, UNC \/ UNCo \/ Uncoma) is an Argentine national university in the region of Comahue with branches in the provinces of Neuquén, Río Negro and Chubut, with a centre in the city of Neuquén and units in Viedma, Bariloche, San Martín de los Andes, Cipolletti, Zapala, Allen, General Roca, Choele Choel, San Antonio Este, Villa Regina, Esquel, Puerto Madryn and Trelew.  It is the largest public university in Argentine Patagonia.\nIts university statute (Ordinance # 470\/2009) stipulates free admission to all of its programs and ensures freedom of speech for the development of its activities."
     },
     {
         "wikidata_id": "Q74536753",
@@ -3773,7 +4114,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530549",
@@ -3783,7 +4125,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74549589",
@@ -3793,7 +4136,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530729",
@@ -3803,7 +4147,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530333",
@@ -3813,7 +4158,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527510",
@@ -3823,7 +4169,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74540091",
@@ -3833,7 +4180,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74551942",
@@ -3843,7 +4191,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529065",
@@ -3853,7 +4202,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528415",
@@ -3863,7 +4213,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74546002",
@@ -3873,7 +4224,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527817",
@@ -3883,7 +4235,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527134",
@@ -3893,7 +4246,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528737",
@@ -3903,7 +4257,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529009",
@@ -3913,7 +4268,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5484518",
@@ -3925,7 +4281,8 @@
         ],
         "latitude": -38.7014,
         "longitude": -62.2694,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29045292",
@@ -3935,7 +4292,8 @@
         "aliases": null,
         "latitude": -34.9119761,
         "longitude": -57.9457604,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5557944",
@@ -3945,7 +4303,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q114878252",
@@ -3955,7 +4314,8 @@
         "aliases": null,
         "latitude": -34.6597223,
         "longitude": -58.4677792,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5917985",
@@ -3967,7 +4327,8 @@
         ],
         "latitude": -34.61977,
         "longitude": -58.43638,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1789101",
@@ -3979,7 +4340,8 @@
         ],
         "latitude": -34.5639056,
         "longitude": -58.44375,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q194223",
@@ -3991,7 +4353,8 @@
         ],
         "latitude": -34.5997222,
         "longitude": -58.3730556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551776",
@@ -4004,7 +4367,8 @@
         ],
         "latitude": -34.5988,
         "longitude": -58.3724,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156842",
@@ -4014,7 +4378,8 @@
         "aliases": null,
         "latitude": -43.2992448,
         "longitude": -65.0981803,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q9091667",
@@ -4027,7 +4392,8 @@
         ],
         "latitude": -34.6178889,
         "longitude": -58.3706389,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad del Cine (FUC; English: \"University of Cinema\/Film\") is a private not-for-profit university located in the neighbourhood of San Telmo in Buenos Aires, Argentina. It was founded in 1991 by Manuel Antin, who currently serves as Rector. The school offers undergraduate, graduate and post graduate programmes focused in film and media arts."
     },
     {
         "wikidata_id": "Q6156752",
@@ -4040,7 +4406,8 @@
         ],
         "latitude": -32.4814846,
         "longitude": -58.2297089,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2880081",
@@ -4050,7 +4417,8 @@
         "aliases": null,
         "latitude": -27.475115,
         "longitude": -58.852502,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11727843",
@@ -4060,7 +4428,8 @@
         "aliases": null,
         "latitude": -33.1484119,
         "longitude": -66.307301,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2883574",
@@ -4070,7 +4439,8 @@
         "aliases": null,
         "latitude": -32.891711,
         "longitude": -68.861129,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896057",
@@ -4082,7 +4452,8 @@
         ],
         "latitude": -34.5974,
         "longitude": -58.416,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5242548",
@@ -4094,7 +4465,8 @@
         ],
         "latitude": -34.4467,
         "longitude": -58.5294,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896708",
@@ -4104,7 +4476,8 @@
         "aliases": null,
         "latitude": -32.9557928,
         "longitude": -60.6439712,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30293945",
@@ -4116,7 +4489,8 @@
         ],
         "latitude": -34.6097222,
         "longitude": -58.3984167,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q39081348",
@@ -4128,7 +4502,8 @@
         ],
         "latitude": -34.60513,
         "longitude": -58.3767,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3115667",
@@ -4140,7 +4515,8 @@
         ],
         "latitude": -34.5996389,
         "longitude": -58.3929111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100927381",
@@ -4150,6 +4526,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

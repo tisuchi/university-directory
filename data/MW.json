@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1844482",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "African Bible Colleges is an entity comprising multiple Bible college in Africa.  The three campuses offer university-level education from a Christian perspective, with the aim of training men and women for Christian leadership and service."
     },
     {
         "wikidata_id": "Q1029596",
@@ -29,7 +31,8 @@
         ],
         "latitude": -15.826314,
         "longitude": 35.176493,
-        "type": "university"
+        "type": "university",
+        "description": "The Catholic University of Malawi is a fast-growing institution of higher learning accredited by the National Council for Higher Education (NCHE) to offer Degrees, Diplomas, and Certificates. It was established by the Episcopal Conference of Malawi on October 16, 2004, and officially opened its doors in 2006. The university has seven faculties, namely Education, Law, Theology, Social Sciences, Science, Commerce and, Nursing and Midwifery."
     },
     {
         "wikidata_id": "Q100955848",
@@ -42,7 +45,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135778554",
@@ -54,7 +58,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q100942477",
@@ -64,7 +69,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6741451",
@@ -74,7 +80,8 @@
         "aliases": null,
         "latitude": -13.9488889,
         "longitude": 33.7013889,
-        "type": "university"
+        "type": "university",
+        "description": "Malawi Adventist University is a private Christian university in Ntcheu Malawi affiliated to the Seventh-day Adventist Church.\nIt is run by the Seventh-day Adventist Church, and is part of its system of higher education the Seventh-day Adventist education system, the world's second largest Christian school system."
     },
     {
         "wikidata_id": "Q6741464",
@@ -86,7 +93,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25104234",
@@ -98,7 +106,8 @@
         ],
         "latitude": -15.90264,
         "longitude": 35.21693,
-        "type": "university"
+        "type": "university",
+        "description": "The Malawi University of Science and Technology (MUST) is a public university in Thyolo in South Malawi. It was established on 17 December 2012. MUST opened doors in March 2014, the first undergraduate programmes were:\n1."
     },
     {
         "wikidata_id": "Q477625",
@@ -108,7 +117,8 @@
         "aliases": null,
         "latitude": -11.421996,
         "longitude": 33.993231,
-        "type": "university"
+        "type": "university",
+        "description": "Mzuzu University is a public university in Malawi. The university is located in Luwinga, Mzuzu City, in the northern region of Malawi. It was founded in 1997 after being transformed from a teachers training college established in 1970s."
     },
     {
         "wikidata_id": "Q671642",
@@ -122,7 +132,8 @@
         ],
         "latitude": -15.3791,
         "longitude": 35.32563,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Malawi (UNIMA; Chichewa: Yunivesite ya Malaŵi) is a public university established in 1965 and until 4 May 2021, when the university underwent a delinking, was composed of four constituent colleges located in Zomba, Blantyre, and Lilongwe. Of the four colleges, the largest is Chancellor College in Zomba (now the University of Malawi under Vice-Chancellor Professor Samson Sajidu). It is part of the Malawian government educational system."
     },
     {
         "wikidata_id": "Q123739146",
@@ -132,6 +143,7 @@
         "aliases": null,
         "latitude": -15.38142,
         "longitude": 35.3246,
-        "type": "university"
+        "type": "university",
+        "description": "Zomba Theological College is a theological seminary in Zomba, Malawi. It has been operated since 1977 by the Church of Central Africa Presbyterian for training ministry candidates for the  Nkhoma, Livingstonia, Harare, Zambia, and Blantyre Synods. The principal is Takuze Chitsulo."
     }
 ]

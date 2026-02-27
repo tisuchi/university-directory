@@ -9,7 +9,8 @@
         ],
         "latitude": 42.9761111,
         "longitude": 41.0663889,
-        "type": "university"
+        "type": "university",
+        "description": "The Abkhazian State University is the only university in Abkhazia. It was founded in 1979 on the basis of the Sukhumi Pedagogical Institute. Its first rector was Zurab Anchabadze."
     },
     {
         "wikidata_id": "Q16375275",
@@ -19,7 +20,8 @@
         "aliases": null,
         "latitude": 41.8056,
         "longitude": 44.7682,
-        "type": "university"
+        "type": "university",
+        "description": "The Agricultural University of Georgia (Georgian: საქართველოს აგრარული უნივერსიტეტი, romanized: sakartvelos agraruli universit'et'i, AUG) is a non-profit, private, higher education institution located in the suburban setting of the large city of Tbilisi, Georgia. It is located in Davit Aghmashenebeli Alley #240. It was established in 1929, and is officially recognized by the National Center for Educational Quality Enhancement."
     },
     {
         "wikidata_id": "Q4700199",
@@ -31,7 +33,8 @@
         ],
         "latitude": 42.2645536,
         "longitude": 42.710592,
-        "type": "university"
+        "type": "university",
+        "description": "Akaki Tsereteli State University (Georgian: აკაკი წერეთლის სახელობის სახელმწიფო უნივერსიტეტი, romanized: ak'ak'i ts'eretlis sakhelobis sakhelmts'ipo universit'et'i), also known as Kutaisi University (Georgian: ქუთაისის უნივერსიტეტი, romanized: kutaisis universit'et'i), is a university established in July 1930 in Tbilisi, Georgia, and now located in Kutaisi."
     },
     {
         "wikidata_id": "Q118262830",
@@ -44,7 +47,8 @@
         ],
         "latitude": 41.721303,
         "longitude": 44.709528,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q28916391",
@@ -54,7 +58,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q58038359",
@@ -67,7 +72,8 @@
         ],
         "latitude": 41.720756,
         "longitude": 44.744851,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12864143",
@@ -79,7 +85,8 @@
         ],
         "latitude": 41.693446,
         "longitude": 44.797582,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1155788",
@@ -89,7 +96,8 @@
         "aliases": null,
         "latitude": 41.646983,
         "longitude": 41.621786,
-        "type": "university"
+        "type": "university",
+        "description": "Batumi State Maritime Academy (BSMA, Georgian: ბათუმის სახელმწიფო საზღვაო აკადემია) is an internationally accredited higher-education maritime school in Batumi, Georgia. The institution's main function is to prepare qualified staff for employment within the marine-trade fleet and maritime transport infrastructure. Batumi State Maritime Academy provides an educational process that is in accordance with Georgian legislation as well as the international STCW Convention."
     },
     {
         "wikidata_id": "Q115756250",
@@ -103,7 +111,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5054305",
@@ -115,7 +124,8 @@
         ],
         "latitude": 41.725,
         "longitude": 44.7783333,
-        "type": "university"
+        "type": "university",
+        "description": "Caucasus University is a private university in Tbilisi, Georgia. The university was established in 2004. It is the successor to the Caucasus School of Business, founded in 1998 in partnership with Georgia State University, Atlanta, U.S., during Georgia's transitional period from a planned to a free market economy."
     },
     {
         "wikidata_id": "Q136564985",
@@ -127,7 +137,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5230631",
@@ -137,7 +148,8 @@
         "aliases": null,
         "latitude": 41.7102778,
         "longitude": 44.7672222,
-        "type": "university"
+        "type": "university",
+        "description": "\"David Aghmashenebeli University of Georgia\" – \"DAUG\"  (Georgian: საქართველოს დავით აღმაშენებლის სახელობის უნივერსიტეტი – \"სდასუ\") was founded in 1991. The University offers the Bachelor's (four-year), Master's (two-years) and Doctoral (three-years) programmes according to the ECTS (European System of Credits and Transfers) which is based on the modern methods of teaching and evaluation. The University is a member of the European Business Assembly and has established the place among the best universities in Georgia."
     },
     {
         "wikidata_id": "Q65284733",
@@ -147,7 +159,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20073496",
@@ -161,7 +174,8 @@
         ],
         "latitude": 41.720756,
         "longitude": 44.744851,
-        "type": "institute"
+        "type": "institute",
+        "description": "Elephter Andronikashvili Institute of Physics (Georgian: ელეფთერ ანდრონიკაშვილის სახელობის ფიზიკის ინსტიტუტი) is a Institute of Science based on Tbilisi State University."
     },
     {
         "wikidata_id": "Q110900351",
@@ -173,7 +187,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "European University (Georgian: ევროპის უნივერსიტეტი) is a university in Tbilisi, Georgia. The university was established in 2011 by Lasha Kandelakishvili. There are three faculties at the European University: Faculty of Law, Education, Business and Technology, Faculty of Medicine, and Faculty of Veterinary Medicine."
     },
     {
         "wikidata_id": "Q3648053",
@@ -183,7 +198,8 @@
         "aliases": null,
         "latitude": 41.8057275,
         "longitude": 44.7657262,
-        "type": "university"
+        "type": "university",
+        "description": "Free University (Georgian: თავისუფალი უნივერსიტეტი, romanized: tavisupali universit'et'i) is a private research university in Tbilisi, Georgia, founded by Kakha Bendukidze, Georgian statesman, businessman and philanthropist often regarded as the Man Who Remade Georgia. Founded in 2007, the university has grown to comprise seven undergraduate and graduate schools, among which are, the university's oldest, School of International Relations, School of Business, Architecture, Governance and Social Sciences,  Mathematics and Computer Science, Physics, Electrical and Computer Engineering, Law, and School of Visual Arts and Design.\nThe main goal of Kakha Bendukidze, FreeUni's founder, was to provide opportunities for a quality education to every motivated person in Georgia, regardless of his or her financial conditions."
     },
     {
         "wikidata_id": "Q1329245",
@@ -197,7 +213,8 @@
         ],
         "latitude": 41.7340833,
         "longitude": 44.772,
-        "type": "institute"
+        "type": "institute",
+        "description": "The George Eliava Institute of Bacteriophage, Microbiology and Virology (aka Tbilisi Institute) has been active since the 1930s in the field of phage therapy, which is used to combat microbial infection (cf. antibiotic-resistant strains)."
     },
     {
         "wikidata_id": "Q17067534",
@@ -207,7 +224,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5548027",
@@ -217,7 +235,8 @@
         "aliases": null,
         "latitude": 41.7019444,
         "longitude": 44.7980556,
-        "type": "university"
+        "type": "university",
+        "description": "The Georgian Institute of Public Affairs (GIPA) (Georgian: საქართველოს საზოგადოებრივ საქმეთა ინსტიტუტი, romanized: sakartvelos sazogadoebriv sakmeta inst'it'ut'i) was created in 1994 in Tbilisi, Georgia. Four separate schools of the Institute offer MA, BA programs and training courses in the spheres of Public Affairs, Local Governance, Journalism, International Affairs and Law, as well as a PhD program in the social sciences. GIPA is considered one of the top three universities in Georgia, alongside the Free University of Tbilisi and Tbilisi State University."
     },
     {
         "wikidata_id": "Q4150543",
@@ -227,7 +246,8 @@
         "aliases": null,
         "latitude": 42.24917,
         "longitude": 42.68927,
-        "type": "university"
+        "type": "university",
+        "description": "The Georgian State University of Subtropical Agriculture was established on 26 January 1952 in  Kutaisi, in the country of Georgia."
     },
     {
         "wikidata_id": "Q1425119",
@@ -240,7 +260,8 @@
         ],
         "latitude": 41.7169444,
         "longitude": 44.7780556,
-        "type": "university"
+        "type": "university",
+        "description": "Georgian Technical University (GTU, formerly V.I. Lenin Georgian Polytechnical Institute) is the main and largest technical university of Georgia. It is located in the capital city of Tbilisi."
     },
     {
         "wikidata_id": "Q5586426",
@@ -250,7 +271,8 @@
         "aliases": null,
         "latitude": 41.9823889,
         "longitude": 44.1136111,
-        "type": "university"
+        "type": "university",
+        "description": "Gori State Teaching University is a center for education and science in Shida Kartli in the Gori Municipality of Georgia, it was established as a result of merging of two high education institutions: Gori State University and Tskhinvali State University."
     },
     {
         "wikidata_id": "Q1546661",
@@ -260,7 +282,8 @@
         "aliases": null,
         "latitude": 41.7918889,
         "longitude": 44.77575,
-        "type": "university"
+        "type": "university",
+        "description": "Grigol Robakidze University (Georgian: გრიგოლ რობაქიძის სახელობის უნივერსიტეტი [grigol robakidzis saxelobis universiteti]) is established in 1992 in Tbilisi, Georgia.  It specialises in medicine and dentistry, but also has courses in the social sciences, English and German.\nThe university was renamed in honor of the Georgian poet and thinker, Grigol Robakidze."
     },
     {
         "wikidata_id": "Q120165620",
@@ -274,7 +297,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2324420",
@@ -284,7 +308,8 @@
         "aliases": null,
         "latitude": 41.7098333,
         "longitude": 44.7855,
-        "type": "university"
+        "type": "university",
+        "description": "Ilia State University ISU (Georgian: ილიას სახელმწიფო უნივერსიტეტი) is a public university in Tbilisi, Georgia that was founded in 2006 as a result of a merger of six different academic institutions. Currently, ISU is one of the leading research and educational institutions in Georgia."
     },
     {
         "wikidata_id": "Q118255821",
@@ -297,7 +322,8 @@
         ],
         "latitude": 41.7190818,
         "longitude": 44.7416784,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q15056005",
@@ -307,7 +333,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute of Applied Physics at the Ilia State University  (ISU)-head  Ivane G. Murusidze"
     },
     {
         "wikidata_id": "Q97251988",
@@ -317,7 +344,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2905589",
@@ -327,7 +355,8 @@
         "aliases": null,
         "latitude": 41.7973611,
         "longitude": 44.7739444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6052951",
@@ -337,7 +366,8 @@
         "aliases": null,
         "latitude": 41.71,
         "longitude": 44.778333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25112373",
@@ -350,7 +380,8 @@
         ],
         "latitude": 41.7666667,
         "longitude": 44.7897222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4891912",
@@ -363,7 +394,8 @@
         ],
         "latitude": 41.7288889,
         "longitude": 44.7727778,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Beritashvili Institute of Physiology of the Georgian Academy of Sciences, located in Tbilisi, Georgia, is one of the leading Georgian research institutes specializing in the fields of neurobiology, atomic force microscopy, molecular biology, biochemistry, and physiology. It was founded in 1935 by Soviet physiologist Ivan Beritashvili."
     },
     {
         "wikidata_id": "Q16370763",
@@ -376,7 +408,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6448317",
@@ -386,7 +419,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28220884",
@@ -396,7 +430,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30004952",
@@ -409,7 +444,8 @@
         ],
         "latitude": 41.717377,
         "longitude": 44.782146,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q21042417",
@@ -421,7 +457,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q61137634",
@@ -433,7 +470,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q126898812",
@@ -443,7 +481,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7120548",
@@ -453,7 +492,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125246158",
@@ -463,7 +503,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12868931",
@@ -473,7 +514,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16612895",
@@ -483,7 +525,8 @@
         "aliases": null,
         "latitude": 41.714,
         "longitude": 44.7441,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21051402",
@@ -493,7 +536,8 @@
         "aliases": null,
         "latitude": 41.7119001,
         "longitude": 44.746836,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q31355170",
@@ -503,7 +547,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q31355191",
@@ -513,7 +558,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5702006",
@@ -523,7 +569,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q65289580",
@@ -535,7 +582,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12870115",
@@ -547,7 +595,8 @@
         ],
         "latitude": 41.7048005,
         "longitude": 44.7900552,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q773986",
@@ -559,7 +608,8 @@
         ],
         "latitude": 41.6497222,
         "longitude": 41.6269444,
-        "type": "university"
+        "type": "university",
+        "description": "The Batumi Shota Rustaveli State University (Georgian: ბათუმის შოთა რუსთაველის სახელმწიფო უნივერსიტეტი) is a public university in Batumi, capital of the Autonomous Republic of Adjara, Georgia. It is named after the medieval Georgian poet Shota Rustaveli."
     },
     {
         "wikidata_id": "Q4453142",
@@ -571,7 +621,8 @@
         ],
         "latitude": 41.705,
         "longitude": 44.8008333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17067248",
@@ -581,7 +632,8 @@
         "aliases": null,
         "latitude": 41.7205722,
         "longitude": 44.7088306,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q955439",
@@ -591,7 +643,8 @@
         "aliases": null,
         "latitude": 42.2286111,
         "longitude": 43.9672222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16377048",
@@ -608,7 +661,8 @@
         ],
         "latitude": 41.7108333,
         "longitude": 44.7413889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4475825",
@@ -618,7 +672,8 @@
         "aliases": null,
         "latitude": 41.9925,
         "longitude": 44.11,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q61697054",
@@ -630,7 +685,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16369943",
@@ -640,7 +696,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124386829",
@@ -650,7 +707,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q619600",
@@ -660,7 +718,8 @@
         "aliases": null,
         "latitude": 41.7014167,
         "longitude": 44.7926389,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7690579",
@@ -670,7 +729,8 @@
         "aliases": null,
         "latitude": 41.7325,
         "longitude": 44.8216667,
-        "type": "university"
+        "type": "university",
+        "description": "Guram Tavartkiladze Tbilisi Teaching University (GTUNI), originally founded as The Tbilisi State Institute Of Economic Relations (TSIER, Georgian: თბილისის სახელმწიფო უნივერსიტეტი ეკონომიკური ურთიერთობები), is a state educational institution in Georgia."
     },
     {
         "wikidata_id": "Q2905597",
@@ -682,7 +742,8 @@
         ],
         "latitude": 41.7273889,
         "longitude": 44.7539722,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q37008",
@@ -697,7 +758,8 @@
         ],
         "latitude": 41.71,
         "longitude": 44.7783333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12865028",
@@ -707,7 +769,8 @@
         "aliases": null,
         "latitude": 41.91,
         "longitude": 45.4680556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q109290726",
@@ -719,7 +782,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1509484",
@@ -732,7 +796,8 @@
         ],
         "latitude": 41.7238889,
         "longitude": 44.7777778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16369106",
@@ -745,7 +810,8 @@
         ],
         "latitude": 41.7203005,
         "longitude": 44.7439375,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q136565011",
@@ -757,6 +823,7 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

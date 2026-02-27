@@ -9,7 +9,8 @@
         ],
         "latitude": 6.359549,
         "longitude": 2.414434,
-        "type": "university"
+        "type": "university",
+        "description": "The African University of Technology and Management (UATM) is a private university established in 1992 in Benin."
     },
     {
         "wikidata_id": "Q100955836",
@@ -22,7 +23,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136441416",
@@ -34,7 +36,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25047414",
@@ -47,7 +50,8 @@
         ],
         "latitude": 6.436802,
         "longitude": 2.339599,
-        "type": "university"
+        "type": "university",
+        "description": "ESCAE - Benin (Ecole Supérieure de Commerce et d’Administration des Entreprises du Benin (ESCAE BENIN University) is a technology university in Benin.\nESCAE was established in October 2008 by Mehoba D. Théodore, Doctor in Economics and Management Science\nESCAE was granted accreditation by the Minister of Higher Education and officially inaugurated in October 2012.\nESCAE is recognized by the Directorate of Evaluation and Accreditation of Federal Ministry of Education Nigeria and other West African countries."
     },
     {
         "wikidata_id": "Q99747384",
@@ -59,7 +63,8 @@
         ],
         "latitude": 6.3710106,
         "longitude": 2.4507674,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136125901",
@@ -69,7 +74,8 @@
         "aliases": null,
         "latitude": 6.366674,
         "longitude": 2.41667,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30294294",
@@ -82,7 +88,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q99749599",
@@ -94,7 +101,8 @@
         ],
         "latitude": 6.3651389,
         "longitude": 2.4935833,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111209504",
@@ -104,7 +112,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30261854",
@@ -116,7 +125,8 @@
         ],
         "latitude": 6.4120984,
         "longitude": 2.3339978,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q99752724",
@@ -129,7 +139,8 @@
         ],
         "latitude": 6.3683611,
         "longitude": 2.4154167,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q71432906",
@@ -141,7 +152,8 @@
         ],
         "latitude": 6.3528889,
         "longitude": 2.3638611,
-        "type": "university"
+        "type": "university",
+        "description": "Institut supérieur des Métiers de l'Audiovisuel (ISMA) is a private technical institution of higher education founded in Benin in 2006. It offers professional training programs at the bachelor's and master's levels."
     },
     {
         "wikidata_id": "Q99753301",
@@ -154,7 +166,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q99753599",
@@ -167,7 +180,8 @@
         ],
         "latitude": 6.4809722,
         "longitude": 2.6086944,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q47483855",
@@ -179,7 +193,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q99749373",
@@ -191,7 +206,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122761709",
@@ -203,7 +219,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q99753700",
@@ -217,7 +234,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q108108624",
@@ -227,7 +245,8 @@
         "aliases": null,
         "latitude": 7.386682,
         "longitude": 2.6017826,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Agriculture (UNA) is a public university in Benin. It was established in 2016 following decree no. 2016-638 of October 13, 2016, which created four national universities in the Republic of Benin."
     },
     {
         "wikidata_id": "Q83870793",
@@ -240,7 +259,8 @@
         ],
         "latitude": 7.1640787,
         "longitude": 2.0108493,
-        "type": "university"
+        "type": "university",
+        "description": "The University of New Technologies and Sciences (UNTS) is a public university in Benin, established in 2016 and placed under the authority of the Ministry of Higher Education. It is a public institution of higher education with legal personality and administrative and financial autonomy."
     },
     {
         "wikidata_id": "Q30294305",
@@ -250,7 +270,8 @@
         "aliases": null,
         "latitude": 6.37575,
         "longitude": 2.4030278,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100955834",
@@ -263,7 +284,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q118692656",
@@ -273,7 +295,8 @@
         "aliases": null,
         "latitude": 6.3814267,
         "longitude": 2.3405,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q118694921",
@@ -283,7 +306,8 @@
         "aliases": null,
         "latitude": 6.3935947,
         "longitude": 2.3578515,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q118695698",
@@ -293,7 +317,8 @@
         "aliases": null,
         "latitude": 6.3884399,
         "longitude": 2.3187979,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q130661324",
@@ -303,7 +328,8 @@
         "aliases": null,
         "latitude": 6.6061111,
         "longitude": 2.3583333,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q56301281",
@@ -313,7 +339,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136087901",
@@ -323,7 +350,8 @@
         "aliases": null,
         "latitude": 6.3658866,
         "longitude": 2.3274663,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q19600073",
@@ -335,7 +363,8 @@
         ],
         "latitude": 6.4692,
         "longitude": 2.6344,
-        "type": "university"
+        "type": "university",
+        "description": "Université des Sciences Appliquées et Management (USAM) is a university located in Porto-Novo, Ouémé, Benin, Founded in 2003."
     },
     {
         "wikidata_id": "Q102223380",
@@ -345,7 +374,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q102223386",
@@ -355,7 +385,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294304",
@@ -368,7 +399,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979225",
@@ -387,7 +419,8 @@
         ],
         "latitude": 6.44105,
         "longitude": 2.35234,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Abomey-Calavi  (French: Université d'Abomey-Calavi) is the principal public university in the west African country of Benin. The university is located in the city of Abomey-Calavi in the south of the country.\nThe school is composed of 19 institutions and six campuses."
     },
     {
         "wikidata_id": "Q3551659",
@@ -400,7 +433,8 @@
         ],
         "latitude": 9.338,
         "longitude": 2.645,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Parakou (UP) is a university  in Parakou, in the northern region of Benin. It is the second public university in the Republic of Benin, following the University of Abomey-Calavi.\nIn the 2010s Benin officially had seven public universities, including those in Kétou, Abomey, Lokossa, Porto-Novo, and Natitingou."
     },
     {
         "wikidata_id": "Q3011789",
@@ -410,7 +444,8 @@
         "aliases": null,
         "latitude": 6.38287,
         "longitude": 2.45625,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Science and Technology of Benin (French: Université des Sciences et Technologies du Bénin (USTB)) is a private university in Benin, whose headquarters are located in the district of Kpondéhou in Cotonou, the economic capital of Benin."
     },
     {
         "wikidata_id": "Q100955838",
@@ -423,7 +458,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294306",
@@ -436,7 +472,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30266928",
@@ -451,7 +488,8 @@
         ],
         "latitude": 7.360381,
         "longitude": 2.603545,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q99755168",
@@ -465,7 +503,8 @@
         ],
         "latitude": 6.3545,
         "longitude": 2.39675,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q99755769",
@@ -478,7 +517,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294309",
@@ -491,7 +531,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1756635",
@@ -504,7 +545,8 @@
         ],
         "latitude": 48.8153436,
         "longitude": 2.363061,
-        "type": "university"
+        "type": "university",
+        "description": "The Paris Graduate School of Digital Innovation (French: École pour l'informatique et les nouvelles technologies, or EPITECH), formerly European Institute of Information Technology, is a private institution of higher education in computer science and software engineering that was founded in 1999.\nHeadquartered in Le Kremlin-Bicêtre, south of Paris, the school has campuses in Bordeaux, Rennes, Marseille, Lille, Lyon, Montpellier, Nancy, Nantes, Nice, Strasbourg, Toulouse and Saint-André, Réunion. The school also has locations in Barcelona (Spain), Tirana (Albania), Berlin (Germany), and Brussels (Belgium)."
     },
     {
         "wikidata_id": "Q100552711",
@@ -517,7 +559,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100552857",
@@ -529,7 +572,8 @@
         ],
         "latitude": 6.3613056,
         "longitude": 2.4071944,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100552960",
@@ -542,7 +586,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100553011",
@@ -555,7 +600,8 @@
         ],
         "latitude": 6.3799444,
         "longitude": 2.4508056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100553094",
@@ -568,7 +614,8 @@
         ],
         "latitude": 6.4079722,
         "longitude": 2.34025,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100553129",
@@ -581,7 +628,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100553175",
@@ -594,6 +642,7 @@
         ],
         "latitude": 6.3672778,
         "longitude": 2.4904722,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

@@ -11,7 +11,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "42 is a private institution of education in computer science founded by Xavier Niel, Nicolas Sadirac (former executive director at Epitech), Kwame Yamgnane, and Florian Bucher (former executives at Epitech). The school opened in Paris in 2013. The school does not have any professors and is open 24\/7."
     },
     {
         "wikidata_id": "Q131681228",
@@ -21,7 +22,8 @@
         "aliases": null,
         "latitude": -18.910761,
         "longitude": 47.534563,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q133459445",
@@ -33,7 +35,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124671915",
@@ -43,7 +46,8 @@
         "aliases": null,
         "latitude": -12.2986111,
         "longitude": 49.2927778,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q126130912",
@@ -53,7 +57,8 @@
         "aliases": null,
         "latitude": -12.2802778,
         "longitude": 49.2944444,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q47151910",
@@ -65,7 +70,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q125471795",
@@ -75,7 +81,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136230864",
@@ -87,7 +94,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18779685",
@@ -100,7 +108,8 @@
         ],
         "latitude": -18.903749,
         "longitude": 47.506471,
-        "type": "university"
+        "type": "university",
+        "description": "The National Institute of Accounting Sciences and Business Administration (INSCAE, Institut National des Sciences Comptables et de l'Administration d'Entreprises) is a public higher education institution located in Antananarivo, Madagascar."
     },
     {
         "wikidata_id": "Q21559099",
@@ -112,7 +121,8 @@
         ],
         "latitude": -18.902403,
         "longitude": 47.546423,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q63862261",
@@ -122,7 +132,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124473099",
@@ -134,7 +145,8 @@
         ],
         "latitude": -12.279022,
         "longitude": 49.287446,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125471674",
@@ -144,7 +156,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18672281",
@@ -154,7 +167,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Institut Supérieur Polytechnique Arsenal (also known as ISPA) is a Malagasy private university established in Moramanga (west coast of Madagascar in the province of Tamatave). After 6 years of existence, I.S.P.A. has established an annex in the capital, Antananarivo (school year 2012–2013)."
     },
     {
         "wikidata_id": "Q125503808",
@@ -164,7 +178,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q126138094",
@@ -174,7 +189,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q132758506",
@@ -184,7 +200,8 @@
         "aliases": null,
         "latitude": -18.904738,
         "longitude": 47.542946,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136260143",
@@ -194,7 +211,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136555860",
@@ -204,7 +222,8 @@
         "aliases": null,
         "latitude": -18.9166011,
         "longitude": 47.5139162,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q27961666",
@@ -214,7 +233,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q103020472",
@@ -224,7 +244,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103020481",
@@ -234,7 +255,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103020485",
@@ -244,7 +266,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103020497",
@@ -254,7 +277,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103020500",
@@ -264,7 +288,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1443595",
@@ -278,7 +303,8 @@
         ],
         "latitude": -18.9152,
         "longitude": 47.5558,
-        "type": "university"
+        "type": "university",
+        "description": "University of Antananarivo (French: Université d'Antananarivo) is the primary public university of Madagascar, located in the capital Antananarivo."
     },
     {
         "wikidata_id": "Q20669871",
@@ -290,7 +316,8 @@
         ],
         "latitude": -21.4632,
         "longitude": 47.1063,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4005893",
@@ -300,7 +327,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551622",
@@ -310,7 +338,8 @@
         "aliases": null,
         "latitude": -18.3933333,
         "longitude": 46.4525,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Mahajanga (also known as Université de Majunga) is a public higher education institution located in Mahajanga, a port city on the northwest coast of Madagascar."
     },
     {
         "wikidata_id": "Q1443900",
@@ -322,7 +351,8 @@
         ],
         "latitude": -18.1534,
         "longitude": 49.4127,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Toamasina (French: Université de Tamatave) is a public university in Toamasina, Madagascar. The university campus is located in Barikadimy west of the city of Toamasina, the capital of Atsinanana on the east side of Madagascar.\nThe school was formerly part of the University of Madagascar system, along with public universities in Antananarivo, Antsiranana, Mahajanga, Toliara and Fianarantsoa."
     },
     {
         "wikidata_id": "Q18380163",
@@ -332,7 +362,8 @@
         "aliases": null,
         "latitude": -23.3536,
         "longitude": 43.6761,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Toliara is historically the oldest center for higher education, founded in 1971 after the decentralization of the University of Madagascar center. The university campus is located in Maninday 5 km east of the city of Toliara, the capital of Atsimo-Andrefana on the southwest side of Madagascar. This university teaches Humanities and Social Science, Science, Philosophy, and Management (the latter located next to the Cedratom)."
     },
     {
         "wikidata_id": "Q3551462",
@@ -344,7 +375,8 @@
         ],
         "latitude": -12.2834,
         "longitude": 49.3062,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134411523",
@@ -357,7 +389,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125075752",
@@ -367,7 +400,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100956312",
@@ -380,6 +414,7 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

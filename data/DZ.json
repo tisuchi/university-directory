@@ -9,7 +9,8 @@
         ],
         "latitude": 35.4913184,
         "longitude": 7.0922993,
-        "type": "university"
+        "type": "university",
+        "description": "Abbes Laghrour University - Khenchela is a university located in the commune of Khenchela, Algeria."
     },
     {
         "wikidata_id": "Q3054960",
@@ -21,7 +22,8 @@
         ],
         "latitude": 36.6409722,
         "longitude": 2.7914167,
-        "type": "institute"
+        "type": "institute",
+        "description": "The National Higher School of Statistics and Applied Economics in Algiers (in French: École nationale supérieure de statistique et d'économie appliquée, ENSSEA d'Alger, in Arabic: المدرسة الوطنية العليا للاحصاء و الاقتصاد التطبيقي), called as well AES Algiers, is  a public institution of higher education in Algeria. It was founded as αν institute of planning technics in 1970. The school is among the few institutions in the field of statistics and applied economics in Africa."
     },
     {
         "wikidata_id": "Q2835697",
@@ -34,7 +36,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Algerian Petroleum Institute (Arabic: المعهد الجزائري للبترول, French: Institut Algérien du Pétrole), is a national graduate institute of petroleum engineering located in Boumerdès, Algeria. Commonly known as \"IAP\", the school was established in 1965 in collaboration with the French Institute of Petroleum (French: Institut Français du Pétrole, IFP) with a mission of providing graduate engineers and high skilled technicians to Sonatrach, the national state-owned oil company of Algeria."
     },
     {
         "wikidata_id": "Q29901623",
@@ -48,7 +51,8 @@
         ],
         "latitude": 36.7757222,
         "longitude": 3.0038889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4118237",
@@ -62,7 +66,8 @@
         ],
         "latitude": 36.9144397,
         "longitude": 7.7426673,
-        "type": "university"
+        "type": "university",
+        "description": "Badji Mokhtar University – Annaba (UBMA) (Arabic: جامعة باجي مختار-عنابة) is one of the largest universities in Algeria, located in Annaba, on the northeastern coast of Algeria. It is named after the chahid Badji Mokhtar, an Algerian political activist and independence fighter, one of the 22 historical leaders responsible for launching the Algerian War of Independence."
     },
     {
         "wikidata_id": "Q18577852",
@@ -77,7 +82,8 @@
         ],
         "latitude": 36.45,
         "longitude": 2.6402778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30261702",
@@ -90,7 +96,8 @@
         ],
         "latitude": 36.759296,
         "longitude": 3.004082,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q15427315",
@@ -102,7 +109,8 @@
         ],
         "latitude": 35.703633,
         "longitude": -0.573994,
-        "type": "institute"
+        "type": "institute",
+        "description": "The National Centre of Research in Social and Cultural Anthropology (French: Centre national de recherche en anthropologie sociale et culturelle, CRASC) is an Algerian governmental research organisation in social sciences created by the decree 92-215 on May 23, 1992. The Centre operates under the aegis of the Ministry of higher education and scientific research, its headquarters is located in Oran.\nThe primary missions of the CRASC are:\n\nResearch\nEducation\nStudies and assessments\nEditing and enhancement\nThe CRASC publishes scientific works, in particular through its review Insaniyat which is referenced by the web platform for journals and book collections in the humanities and social sciences Revues.org."
     },
     {
         "wikidata_id": "Q110529944",
@@ -112,7 +120,8 @@
         "aliases": null,
         "latitude": 36.5828076,
         "longitude": 2.4599129,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q133462224",
@@ -125,7 +134,8 @@
         ],
         "latitude": 36.7555502,
         "longitude": 3.4732526,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100927385",
@@ -135,7 +145,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74527489",
@@ -145,7 +156,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30294234",
@@ -158,7 +170,8 @@
         ],
         "latitude": 36.2541624,
         "longitude": 2.2366728,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122930231",
@@ -170,7 +183,8 @@
         ],
         "latitude": 36.7277382,
         "longitude": 3.5495288,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q108793462",
@@ -182,7 +196,8 @@
         ],
         "latitude": 36.808092,
         "longitude": 3.255004,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q119982204",
@@ -195,7 +210,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q47517336",
@@ -207,7 +223,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5372520",
@@ -222,7 +239,8 @@
         ],
         "latitude": 36.349,
         "longitude": 6.60425,
-        "type": "university"
+        "type": "university",
+        "description": "Emir Abdelkader University of Islamic Sciences (Arabic: جامعة الأمير عبد القادر للعلوم الإسلامية) is a university in Algeria."
     },
     {
         "wikidata_id": "Q133462507",
@@ -232,7 +250,8 @@
         "aliases": null,
         "latitude": 36.7553238,
         "longitude": 3.4753202,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q29426444",
@@ -245,7 +264,8 @@
         ],
         "latitude": 36.2507649,
         "longitude": 1.2431716,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21512516",
@@ -258,7 +278,8 @@
         ],
         "latitude": 36.7208839,
         "longitude": 3.1497231,
-        "type": "university"
+        "type": "university",
+        "description": "Higher National Agronomic School (French: École Nationale Supérieure Agronomique, Acronym: ENSA ) or (Arabic: المدرسة الوطنية العليا للفلاحة) previously known as the National Institute of Agronomic (I.N.A) is the only school that trains Agricultural engineers in Algeria and offers training, research and expertise, based on the specialities of the research teams: Food, Sustainable Agriculture, Biotechnology, Environment and Territories. Students have the opportunity to prepare for an Engineer's degree in Agricultural Sciences (equivalent to a master's degree). ENSA is the oldest higher education institution founded in 1905 which is located in (El Harrach, Algiers)."
     },
     {
         "wikidata_id": "Q3578271",
@@ -272,7 +293,8 @@
         ],
         "latitude": 36.7178,
         "longitude": 3.1526,
-        "type": "university"
+        "type": "university",
+        "description": "The Higher National Veterinary School (French: École nationale supérieure vétérinaire, ENSV, Arabic:المدرسة الوطنية العليا للطب البيطري), is a public institution of higher learning founded in Algeria in 1970, by Presidential Decree No. 65-69 of March 11, 1965. It is located in Hacène Badi - El Harrach 12 km east of Algiers."
     },
     {
         "wikidata_id": "Q109021349",
@@ -285,7 +307,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130533282",
@@ -297,7 +320,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130219349",
@@ -310,7 +334,8 @@
         ],
         "latitude": 33.3363788,
         "longitude": 6.8675119,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136560101",
@@ -323,7 +348,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135975682",
@@ -335,7 +361,8 @@
         ],
         "latitude": 36.7551084,
         "longitude": 2.9975112,
-        "type": "university"
+        "type": "university",
+        "description": "The Higher School of Social Security (Arabic: المدرسة العليا للضمان الإجتماعي) is an Algerian Grande école founded in 2012 and located in Ben Aknoun, Algiers.\nThe Grande école was established by Decree No. 12-158 issued on 1 April 2012."
     },
     {
         "wikidata_id": "Q18325220",
@@ -347,7 +374,8 @@
         ],
         "latitude": 36.6616667,
         "longitude": 3.1430556,
-        "type": "university"
+        "type": "university",
+        "description": "The National Institute of Post and Information and Communication Technologies (acronym: INPTIC) or Arabic: المعهد الوطني للبريد وتكنولوجيات الإعلام والاتصال is an Algerian university institution offering training in the fields of telecommunications engineering, computer networks, information technologies, and management. It also offers parallel training for Cisco and Oracle certifications and the European Computer Competence License. The institute is located in the town of Les Eucalyptus, east of Algiers."
     },
     {
         "wikidata_id": "Q112624517",
@@ -359,7 +387,8 @@
         ],
         "latitude": 36.7074032,
         "longitude": 3.1649779,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q125171714",
@@ -369,7 +398,8 @@
         "aliases": null,
         "latitude": 32.0791968,
         "longitude": 5.2924531,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q27961625",
@@ -384,7 +414,8 @@
         ],
         "latitude": 36.7628489,
         "longitude": 3.4742931,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111450312",
@@ -394,7 +425,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q106410269",
@@ -404,7 +436,8 @@
         "aliases": null,
         "latitude": 36.7277424,
         "longitude": 3.5492481,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q12204532",
@@ -418,7 +451,8 @@
         ],
         "latitude": 34.8464,
         "longitude": 5.7504,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551456",
@@ -432,7 +466,8 @@
         ],
         "latitude": 36.7166672,
         "longitude": 4.0500002,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25385309",
@@ -442,7 +477,8 @@
         "aliases": null,
         "latitude": 36.7954115,
         "longitude": 2.9638218,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q118398645",
@@ -452,7 +488,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q54874601",
@@ -462,7 +499,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q116871000",
@@ -474,7 +512,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130533312",
@@ -487,7 +526,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17651592",
@@ -499,7 +539,8 @@
         ],
         "latitude": 36.2768747,
         "longitude": 6.586484,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136565004",
@@ -511,7 +552,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18026629",
@@ -524,7 +566,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16878881",
@@ -537,7 +580,8 @@
         ],
         "latitude": 36.752217,
         "longitude": 2.965858,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Pasteur Institute of Algeria is an institute located in Algiers, Algeria. It is part of the Pasteur Institute's international network of health centres. Its library holds 47,000 volumes."
     },
     {
         "wikidata_id": "Q27962871",
@@ -550,7 +594,8 @@
         ],
         "latitude": 36.719767,
         "longitude": 3.154309,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104851317",
@@ -560,7 +605,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104876619",
@@ -570,7 +616,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q109021341",
@@ -580,7 +627,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111551840",
@@ -590,7 +638,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131318416",
@@ -600,7 +649,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q132803949",
@@ -610,7 +660,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2945940",
@@ -620,7 +671,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30752553",
@@ -630,7 +682,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q106582994",
@@ -640,7 +693,8 @@
         "aliases": null,
         "latitude": 36.7263673,
         "longitude": 3.5569207,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q787656",
@@ -655,7 +709,8 @@
         ],
         "latitude": 36.5056485,
         "longitude": 2.8794743,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Blida 1 is a university located in Blida, Algeria. Founded in 1981 and named after Saad Dahlab, an Algerian nationalist and politician, the University of Blida 1 ranked 7th in Algeria, 4310th in the global 2023 rating, and scored in the Top 50% across 35 research topics. The University of Blida 1's ranking is based on 3 factors: research output (EduRank's index has 4,642 academic publications and 32,116 citations attributed to the university), non-academic reputation, and the impact of notable alumni."
     },
     {
         "wikidata_id": "Q29513720",
@@ -668,7 +723,8 @@
         ],
         "latitude": 36.6437348,
         "longitude": 2.7458954,
-        "type": "university"
+        "type": "university",
+        "description": "The Higher School of Magistracy (Arabic: المدرسة العليا للقضاء) is a public school of higher learning under the supervision of the Ministry of Justice, located in Koléa, Tipaza, established in 1989."
     },
     {
         "wikidata_id": "Q12192814",
@@ -680,7 +736,8 @@
         ],
         "latitude": 36.4628123,
         "longitude": 6.215065,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Mila, (Arabic: جامعة ميلة), also known as University of AbdelHafid Boussouf is a public university located in Mila, Algeria.\nIt was established in July 2008 as a university center by virtue of Executive Decree 08-204 issued on July 9, 2008, and in 2014 it was named after AbdelHafid Boussouf.\nIn 2025 it became a university by virtue of Executive Decree 25-266 issued on October 7, 2025."
     },
     {
         "wikidata_id": "Q30294271",
@@ -693,7 +750,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551448",
@@ -708,7 +766,8 @@
         ],
         "latitude": 36.3745626,
         "longitude": 3.8795285,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100258387",
@@ -718,7 +777,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q54874651",
@@ -728,7 +788,8 @@
         "aliases": null,
         "latitude": 36.5816667,
         "longitude": 2.465,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124691781",
@@ -742,7 +803,8 @@
         ],
         "latitude": 34.8363136,
         "longitude": -1.7296691,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894776",
@@ -752,7 +814,8 @@
         "aliases": null,
         "latitude": 35.693276,
         "longitude": -0.639028,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136242776",
@@ -762,7 +825,8 @@
         "aliases": null,
         "latitude": 35.6994444,
         "longitude": -0.5827778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16511684",
@@ -774,7 +838,8 @@
         ],
         "latitude": 35.7445332,
         "longitude": 4.5518926,
-        "type": "university"
+        "type": "university",
+        "description": "The Mohamed Boudiaf University of M'Sila is a public university in M'Sila, Algeria."
     },
     {
         "wikidata_id": "Q30082872",
@@ -787,7 +852,8 @@
         ],
         "latitude": 36.2158002,
         "longitude": 5.446204,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551363",
@@ -801,7 +867,8 @@
         ],
         "latitude": 34.8805614,
         "longitude": -1.3581843,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895015",
@@ -815,7 +882,8 @@
         ],
         "latitude": 27.8907401,
         "longitude": -0.2867281,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1190852",
@@ -829,7 +897,8 @@
         ],
         "latitude": 36.7708,
         "longitude": 3.05542,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29896977",
@@ -841,7 +910,8 @@
         ],
         "latitude": 36.75675,
         "longitude": 2.9837778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3036584",
@@ -856,7 +926,8 @@
         ],
         "latitude": 35.54095,
         "longitude": 6.14887,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Batna 1 (French: Université de Batna 1, also named Université Colonel Hadj Lakhdar, Arabic: جامعة باتنة) is a public university in the city of Batna, Algeria. The university was originally created in 1977 as the University of Batna, before being split in 2015 into the University of Batna 1 and the University of Batna 2. It has four faculties and over 19,000 students."
     },
     {
         "wikidata_id": "Q25230664",
@@ -869,7 +940,8 @@
         ],
         "latitude": 35.635,
         "longitude": 6.2774,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895149",
@@ -883,7 +955,8 @@
         ],
         "latitude": 31.6047603,
         "longitude": -2.2325623,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1117434",
@@ -901,7 +974,8 @@
         ],
         "latitude": 36.7502929,
         "longitude": 5.0407174,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551442",
@@ -916,7 +990,8 @@
         ],
         "latitude": 36.3413889,
         "longitude": 6.6180556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19600070",
@@ -930,7 +1005,8 @@
         ],
         "latitude": 36.246,
         "longitude": 6.5711667,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Constantine 2, (Arabic: جامعة قسنطينة 2) ,also known as University of Abdelhamid Mehri is a public university located in Constantine, Algeria established in November 2011.\nThe university was established in accordance with Executive Decree No. 11-401 dated November 28, 2011, It is the same date on which the University of Constantine 3 was founded."
     },
     {
         "wikidata_id": "Q55721694",
@@ -943,7 +1019,8 @@
         ],
         "latitude": 36.2777778,
         "longitude": 6.5902778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135914996",
@@ -956,7 +1033,8 @@
         ],
         "latitude": 36.757896,
         "longitude": 2.9837342,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16121234",
@@ -970,7 +1048,8 @@
         ],
         "latitude": 33.3942565,
         "longitude": 6.8570922,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12204512",
@@ -982,7 +1061,8 @@
         ],
         "latitude": 32.390319,
         "longitude": 3.777569,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896816",
@@ -997,7 +1077,8 @@
         ],
         "latitude": 36.4485815,
         "longitude": 7.4195362,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551600",
@@ -1007,7 +1088,8 @@
         "aliases": null,
         "latitude": 36.8019,
         "longitude": 5.75139,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895618",
@@ -1021,7 +1103,8 @@
         ],
         "latitude": 33.7997329,
         "longitude": 2.849005,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124962496",
@@ -1031,7 +1114,8 @@
         "aliases": null,
         "latitude": 36.0792796,
         "longitude": 7.901203,
-        "type": "university"
+        "type": "university",
+        "description": "The Madaurus University (in Latin Madaurus, Madauros or Madaura) is a former university, one of the first on the African continent, of which only ruins remain, located in the city of M'daourouch in the wilaya of Souk Ahras in Algeria."
     },
     {
         "wikidata_id": "Q3551640",
@@ -1044,7 +1128,8 @@
         ],
         "latitude": 35.9325902,
         "longitude": 0.0877541,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551549",
@@ -1060,7 +1145,8 @@
         ],
         "latitude": 35.6380556,
         "longitude": -0.6152778,
-        "type": "university"
+        "type": "university",
+        "description": "The Oran University 1 Ahmed Ben Bella (Arabic: جامعة وهران 1 أحمد بن بلة, French: Université d'Oran 1 Ahmed Ben Bella), formally known as Es Senia University, is a university located in Es Sénia in the south suburb of Oran in the wilaya of Oran. It was established in November 1961 as part of the University of Algiers. On April 13, 1965, it was made a separate campus, and on December 20, 1967, it became an independent university."
     },
     {
         "wikidata_id": "Q12242262",
@@ -1073,7 +1159,8 @@
         ],
         "latitude": 35.7354376,
         "longitude": -0.5364603,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q613937",
@@ -1088,7 +1175,8 @@
         ],
         "latitude": 31.963,
         "longitude": 5.34201,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16682072",
@@ -1098,7 +1186,8 @@
         "aliases": null,
         "latitude": 34.859108,
         "longitude": 0.153035,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551735",
@@ -1113,7 +1202,8 @@
         ],
         "latitude": 35.7368,
         "longitude": -0.554123,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3181219",
@@ -1131,7 +1221,8 @@
         ],
         "latitude": 36.714571,
         "longitude": 3.1981629,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896309",
@@ -1143,7 +1234,8 @@
         ],
         "latitude": 36.849268,
         "longitude": 6.8906254,
-        "type": "university"
+        "type": "university",
+        "description": "The Université of 20 août 1955 of Skikda is a university located in Skikda, Algeria.\nThe University of Skikda was created by Executive Decree No. 01\/272 of 18 September 2001."
     },
     {
         "wikidata_id": "Q18785812",
@@ -1156,7 +1248,8 @@
         ],
         "latitude": 36.2988419,
         "longitude": 7.9259103,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294264",
@@ -1170,7 +1263,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100258391",
@@ -1182,7 +1276,8 @@
         ],
         "latitude": 36.7614862,
         "longitude": 8.3207069,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74548178",
@@ -1192,7 +1287,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3551403",
@@ -1206,7 +1302,8 @@
         ],
         "latitude": 36.1961376,
         "longitude": 5.3603169,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551396",
@@ -1218,7 +1315,8 @@
         ],
         "latitude": 35.25,
         "longitude": -0.65,
-        "type": "university"
+        "type": "university",
+        "description": "The Djillali Liabès University of Sidi Bel Abbès is a public university located in Sidi Bel Abbès, Algeria."
     },
     {
         "wikidata_id": "Q30294268",
@@ -1231,7 +1329,8 @@
         ],
         "latitude": 35.3508333,
         "longitude": 1.3144444,
-        "type": "university"
+        "type": "university",
+        "description": "Ibn Khaldoun University of Tiaret is a university located in Tiaret, Algeria. It was established in 1980.\nIn 2022, the university was ranked 15th in the national ranking of universities established by the Ministry of Higher Education and Scientific Research in Algeria."
     },
     {
         "wikidata_id": "Q30294257",
@@ -1248,7 +1347,8 @@
         ],
         "latitude": 35.8785257,
         "longitude": 7.0910275,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294266",
@@ -1261,7 +1361,8 @@
         ],
         "latitude": 35.4642498,
         "longitude": 8.049419,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551376",
@@ -1273,7 +1374,8 @@
         ],
         "latitude": 36.0468506,
         "longitude": 4.8012084,
-        "type": "university"
+        "type": "university",
+        "description": "Mohamed El Bachir El Ibrahimi University is a university located in Bordj Bou Arreridj, Algeria."
     },
     {
         "wikidata_id": "Q30294244",
@@ -1285,7 +1387,8 @@
         ],
         "latitude": 35.4139698,
         "longitude": 0.129647,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74537475",
@@ -1295,7 +1398,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q52575084",
@@ -1305,7 +1409,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100724987",
@@ -1317,7 +1422,8 @@
         ],
         "latitude": 34.860819,
         "longitude": 0.1484412,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12204425",
@@ -1329,7 +1435,8 @@
         ],
         "latitude": 36.2653764,
         "longitude": 2.7975039,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104876326",
@@ -1341,7 +1448,8 @@
         ],
         "latitude": 36.2796389,
         "longitude": 6.5909722,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294186",
@@ -1351,7 +1459,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294190",
@@ -1363,7 +1472,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136564949",
@@ -1375,7 +1485,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294239",
@@ -1389,7 +1500,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136564950",
@@ -1401,7 +1513,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136564988",
@@ -1413,6 +1526,7 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

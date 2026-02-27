@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q106916019",
@@ -21,7 +22,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "42 is a private institution of education in computer science founded by Xavier Niel, Nicolas Sadirac (former executive director at Epitech), Kwame Yamgnane, and Florian Bucher (former executives at Epitech). The school opened in Paris in 2013. The school does not have any professors and is open 24\/7."
     },
     {
         "wikidata_id": "Q3648598",
@@ -34,7 +36,8 @@
         ],
         "latitude": 40.188611,
         "longitude": 44.522222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q467164",
@@ -47,7 +50,8 @@
         ],
         "latitude": 40.1932,
         "longitude": 44.5045,
-        "type": "university"
+        "type": "university",
+        "description": "The American University of Armenia (AUA) (Armenian: Հայաստանի ամերիկյան համալսարան, ՀԱՀ; Hayastani amerikyan hamalsaran, HAH) is a private, independent university in Yerevan, Armenia that is accredited by the Western Association of Schools and Colleges Senior College and University Commission. It is the first U.S.-accredited institution in the former Soviet Union that provides undergraduate and graduate education.\nIt was founded in 1991, Armenia's first year of independence, by the Armenian General Benevolent Union (AGBU), the University of California (UC), and the Armenian government."
     },
     {
         "wikidata_id": "Q4314967",
@@ -59,7 +63,8 @@
         ],
         "latitude": 40.1886111,
         "longitude": 44.5222222,
-        "type": "university"
+        "type": "university",
+        "description": "Armenian National Agrarian University (ANAU) (Armenian: Հայաստանի Ազգային Ագրարային Համալսարան, ՀԱԱՀ), is a state university and higher educational institution based in Yerevan, the capital of Armenia.The university trains and prepares specialists for the agricultural sphere."
     },
     {
         "wikidata_id": "Q4793237",
@@ -69,7 +74,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Armenian State Institute of Physical Culture and Sport (Armenian: Հայաստանի ֆիզիկական կուլտուրայի և սպորտի պետական ինստիտուտ) is a higher educational institution institute, located in Yerevan, Armenia. It was founded in 1945 and prepares coached, sport journalists, and specialists in the field of health improving physical culture kinesiology and adaptive physical culture. The graduates are awarded a diploma, which is a state-authorized document asserting the higher education completion for state agencies."
     },
     {
         "wikidata_id": "Q1977379",
@@ -81,7 +87,8 @@
         ],
         "latitude": 40.1751778,
         "longitude": 44.5236611,
-        "type": "university"
+        "type": "university",
+        "description": "Khachatur Abovian Armenian State Pedagogical University   (ASPU) (Armenian: Խաչատուր Աբովյանի անվան հայկական պետական մանկավարժական համալսարան, ՀՊՄՀ), is a state university and higher education institution based in Yerevan, the capital of Armenia. Founded in 1922, the university is specialized in pedagogy and the preparation of teaching staff.\nNamed after the 19th-century Armenian writer Khachatur Abovian, the current rector of the university is professor Srbuhi Gevorgyan."
     },
     {
         "wikidata_id": "Q1990472",
@@ -91,7 +98,8 @@
         "aliases": null,
         "latitude": 40.1842278,
         "longitude": 44.5247417,
-        "type": "university"
+        "type": "university",
+        "description": "The Armenian State University of Economics (ASUE) (Armenian: Հայաստանի պետական տնտեսագիտական համալսարան) is a state-owned university of economics in Yerevan, the capital Armenia, founded in 1975."
     },
     {
         "wikidata_id": "Q5001793",
@@ -104,7 +112,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Russian-Armenian University Business School (RAU Business school) (Russian: Бизнес-школа Российско-Армянского университета; Armenian: Հայ-ռուսական համալսարանի Բիզնես դպրոց), founded in 2008, is the graduate business school of Russian-Armenian (Slavonic) University in Yerevan, Armenia. The school offers a variety of educational programs like MBA programs  and many Professional Courses.\nIn 2016 RAU Business school entered the international ranking list of Eduniversal of the best business schools in the world."
     },
     {
         "wikidata_id": "Q20518180",
@@ -114,7 +123,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4035562",
@@ -127,7 +137,8 @@
         ],
         "latitude": 40.2225,
         "longitude": 44.5528,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Center for the Advancement of Natural Discoveries using Light Emission, more commonly called the CANDLE Synchrotron Research Institute, is a research institute in Yerevan, Armenia. CANDLE is a project of 3 gigaelectronvolts of energy, a third generation synchrotron light source for fundamental, industrial and applied research in biology, physics, chemistry, medicine, material and environmental sciences.\nThe government of Armenia allocated an area of 20 hectares near the town of Abovyan for the center's projects."
     },
     {
         "wikidata_id": "Q20514890",
@@ -137,7 +148,8 @@
         "aliases": null,
         "latitude": 40.2166667,
         "longitude": 44.5625,
-        "type": "university"
+        "type": "university",
+        "description": "Crisis Management State Academy (CMSA, Armenian: Ճգնաժամային Կառավարման Պետական Ակադեմիա) is a state-owned public academy in Yerevan, Armenia. Founded in 1992, the academy is committed to training professionals in fire protection, rescue missions machinery, risk management, security operations, civil defense and rescue operations, offering bachelor's and master's degree programs.\nThe academy is on 1 Acharyan Street, in the Avan District of Yerevan."
     },
     {
         "wikidata_id": "Q137662029",
@@ -147,7 +159,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Erebuni Medical Academy Foundation (Armenian: Էրեբունի Բժշկական Ակադեմիա Հիմնադրամը) is a private medical school in Yerevan, Armenia. It was founded in 2019. The academy offers Bachelor of Medicine, Bachelor of Surgery (BMBS), Bachelor of Nursing, and Doctor of Medicine degrees."
     },
     {
         "wikidata_id": "Q692194",
@@ -159,7 +172,8 @@
         ],
         "latitude": 40.208383,
         "longitude": 44.530946,
-        "type": "university"
+        "type": "university",
+        "description": "Eurasia International University (EIU) (Armenian: Եվրասիա միջազգային համալսարան, romanized: Yevrasia mijazgayin hamalsaran) is a private and accredited institution of higher education, established in 1996 and headquartered in Yerevan."
     },
     {
         "wikidata_id": "Q65234927",
@@ -172,7 +186,8 @@
         ],
         "latitude": 40.2028698,
         "longitude": 44.5297835,
-        "type": "university"
+        "type": "university",
+        "description": "European University of Armenia (EUA) (Armenian: Հայաստանի Եվրոպական համալսարան, romanized: Hayastani Yevropakan hamalsaran) is a state-owned public university located in Yerevan, Armenia."
     },
     {
         "wikidata_id": "Q1450693",
@@ -184,7 +199,8 @@
         ],
         "latitude": 40.202616,
         "longitude": 44.530255,
-        "type": "university"
+        "type": "university",
+        "description": "French University in Armenia (French: Université Française en Arménie, UFAR, Armenian: Հայաստանում ֆրանսիական համալսարան) is a French language higher education institution in Armenia. The university is located on Davit Anhaght street at the Kanakerr-Zeytun district of Yerevan."
     },
     {
         "wikidata_id": "Q140571",
@@ -194,7 +210,8 @@
         "aliases": null,
         "latitude": 40.3675,
         "longitude": 45.1236,
-        "type": "university"
+        "type": "university",
+        "description": "Gavar State University (GSU) (Armenian: Գավառի Պետական Համալսարան) is a university in Gavar, Gegharkunik Province, Armenia. Founded on 5 May 1993, it is the largest university in the Gegharkunik Province with 4 faculties. The University provides degrees in Philology, Natural Sciences, Humanities and Economics."
     },
     {
         "wikidata_id": "Q3077925",
@@ -206,7 +223,8 @@
         ],
         "latitude": 40.161905,
         "longitude": 44.293664,
-        "type": "university"
+        "type": "university",
+        "description": "Gevorkian Theological Seminary (Armenian: Գևորգյան Հոգևոր Ճեմարան Gevorkyan Hogevor Č̣emaran), also known as Gevorkian Seminary (Armenian: Գևրգյան Ճեմարան Gevorkyan Č̣emaran, pronounced [gɛvɔɾkʰˈjɑn t͡ʃɛmɑˈɾɑn]), is a theological university-institute of the Armenian Apostolic Church opened in 1874. It is located in the town of Vagharshapat (Etchmiadzin) within the complex of the Mother See of Holy Etchmiadzin, Armenia."
     },
     {
         "wikidata_id": "Q3108460",
@@ -216,7 +234,8 @@
         "aliases": null,
         "latitude": 39.7783333,
         "longitude": 45.3477778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q57768757",
@@ -241,7 +260,8 @@
         ],
         "latitude": 39.514125,
         "longitude": 46.332632,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q19705472",
@@ -251,7 +271,8 @@
         "aliases": null,
         "latitude": 39.5175,
         "longitude": 46.3456,
-        "type": "university"
+        "type": "university",
+        "description": "Goris State University (GorSU) (Armenian: Գորիսի պետական համալսարան) is a university in Goris, Syunik Province, Armenia. With 4 faculties, it is the largest university in Syunik Province. It provides degrees in Philology, History and Geography, Pedagogy, Biology and Chemistry, and Physics and Mathematics."
     },
     {
         "wikidata_id": "Q30287562",
@@ -261,7 +282,8 @@
         "aliases": null,
         "latitude": 40.192776,
         "longitude": 44.508713,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q21438440",
@@ -271,7 +293,8 @@
         "aliases": null,
         "latitude": 40.205,
         "longitude": 44.5313889,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4148158",
@@ -281,7 +304,8 @@
         "aliases": null,
         "latitude": 40.1877833,
         "longitude": 44.5253195,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16387773",
@@ -291,7 +315,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q13053003",
@@ -303,7 +328,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "Institute for Informatics and Automation Problems (IIAP) (Armenian: Ինֆորմատիկայի և ավտոմատացման պրոբլեմների ինստիտուտ) is a scientific research institution of the Armenian National Academy of Sciences. In 1957 it was founded as Computing Center of NAS of Soviet Armenia and Yerevan State University. The Institute of Informatics and Automation Problems is a leading research institute of the National Academy of Sciences of Armenia in the field of applied mathematics, computer science and the introduction of computing technologies in various fields of science and technology."
     },
     {
         "wikidata_id": "Q199777",
@@ -313,7 +339,8 @@
         "aliases": null,
         "latitude": 40.2725,
         "longitude": 44.3458333,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20517562",
@@ -323,7 +350,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q13053728",
@@ -333,7 +361,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20518178",
@@ -343,7 +372,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q21679572",
@@ -355,7 +385,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20516656",
@@ -367,7 +398,8 @@
         ],
         "latitude": 40.204965,
         "longitude": 44.526113,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q62007260",
@@ -377,7 +409,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20514825",
@@ -387,7 +420,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute of History of the National Academy of Sciences of Armenia is a research institute studying the history of the Armenian people in Yerevan. It is a governmental non-profit organization based in the Ministry of Education and Science of the Republic of Armenia. It was founded in 1943 by Hovsep Orbeli as the first director."
     },
     {
         "wikidata_id": "Q21658131",
@@ -397,7 +431,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q21468838",
@@ -407,7 +442,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q21468837",
@@ -417,7 +453,8 @@
         "aliases": null,
         "latitude": 40.1916669,
         "longitude": 44.5086111,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20516754",
@@ -427,7 +464,8 @@
         "aliases": null,
         "latitude": 40.180983,
         "longitude": 44.511965,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16398216",
@@ -437,7 +475,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q134294966",
@@ -449,7 +488,8 @@
         ],
         "latitude": 40.193076,
         "longitude": 44.5092474,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20517967",
@@ -459,7 +499,8 @@
         "aliases": null,
         "latitude": 40.1938889,
         "longitude": 44.4880556,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1322278",
@@ -472,7 +513,8 @@
         ],
         "latitude": 40.19207,
         "longitude": 44.52113,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q123925126",
@@ -484,7 +526,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28919137",
@@ -504,7 +547,8 @@
         ],
         "latitude": 40.207993,
         "longitude": 44.517427,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q952960",
@@ -517,7 +561,8 @@
         ],
         "latitude": 40.1911083,
         "longitude": 44.5231083,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q8052583",
@@ -529,7 +574,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7050270",
@@ -539,7 +585,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q134318220",
@@ -551,7 +598,8 @@
         ],
         "latitude": 40.1750307,
         "longitude": 44.5228671,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16401375",
@@ -564,7 +612,8 @@
         ],
         "latitude": 40.1575367,
         "longitude": 44.5023443,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q21704475",
@@ -574,7 +623,8 @@
         "aliases": null,
         "latitude": 40.8265643,
         "longitude": 43.8259267,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q121144577",
@@ -584,7 +634,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q121463541",
@@ -594,7 +645,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13052726",
@@ -604,7 +656,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13053345",
@@ -614,7 +667,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13053347",
@@ -624,7 +678,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13053348",
@@ -634,7 +689,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13053349",
@@ -644,7 +700,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13053350",
@@ -654,7 +711,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131794384",
@@ -664,7 +722,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q16370165",
@@ -674,7 +733,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16377050",
@@ -684,7 +744,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16382964",
@@ -694,7 +755,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16386380",
@@ -704,7 +766,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16387450",
@@ -714,7 +777,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16387451",
@@ -724,7 +788,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20514834",
@@ -734,7 +799,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q21438631",
@@ -744,7 +810,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q21656527",
@@ -754,7 +821,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q21697722",
@@ -764,7 +832,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21704484",
@@ -774,7 +843,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q24036703",
@@ -784,7 +854,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q27096209",
@@ -794,7 +865,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q28233749",
@@ -804,7 +876,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q61105633",
@@ -814,7 +887,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97210692",
@@ -824,7 +898,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q96611049",
@@ -836,7 +911,8 @@
         ],
         "latitude": 40.1503194,
         "longitude": 44.4862778,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q20515523",
@@ -848,7 +924,8 @@
         ],
         "latitude": 40.1825469,
         "longitude": 44.5100285,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q101000276",
@@ -858,7 +935,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1476754",
@@ -868,7 +946,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q84665232",
@@ -878,7 +957,8 @@
         "aliases": null,
         "latitude": 40.6068583,
         "longitude": 43.9992944,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q61933518",
@@ -890,7 +970,8 @@
         ],
         "latitude": 40.208681,
         "longitude": 44.536069,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q15632112",
@@ -902,7 +983,8 @@
         ],
         "latitude": 40.83,
         "longitude": 43.8311111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16387221",
@@ -912,7 +994,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q14979437",
@@ -922,7 +1005,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21695539",
@@ -932,7 +1016,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q61105351",
@@ -944,7 +1029,8 @@
         ],
         "latitude": 40.9983983,
         "longitude": 44.3946841,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q134613716",
@@ -954,7 +1040,8 @@
         "aliases": null,
         "latitude": 40.2200095,
         "longitude": 44.5631108,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13054964",
@@ -966,7 +1053,8 @@
         ],
         "latitude": 40.8089,
         "longitude": 44.4908,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000277",
@@ -976,7 +1064,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4176232",
@@ -986,7 +1075,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1962291",
@@ -998,7 +1088,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21532472",
@@ -1010,7 +1101,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q5686213",
@@ -1023,7 +1115,8 @@
         ],
         "latitude": 40.2,
         "longitude": 44.4761111,
-        "type": "university"
+        "type": "university",
+        "description": "Haybusak University of Yerevan, (Armenian: Երևանի Հայբուսակ Համալսարան) is a private university in Armenia."
     },
     {
         "wikidata_id": "Q4176231",
@@ -1036,7 +1129,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q27902525",
@@ -1046,7 +1140,8 @@
         "aliases": null,
         "latitude": 40.2236621,
         "longitude": 44.56261,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q4176238",
@@ -1058,7 +1153,8 @@
         ],
         "latitude": 40.2064,
         "longitude": 44.485,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q13052813",
@@ -1070,7 +1166,8 @@
         ],
         "latitude": 40.2197559,
         "longitude": 44.5299133,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q13052809",
@@ -1082,7 +1179,8 @@
         ],
         "latitude": 40.2125281,
         "longitude": 44.5052407,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q4176234",
@@ -1092,7 +1190,8 @@
         "aliases": null,
         "latitude": 40.182306,
         "longitude": 44.506,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2082826",
@@ -1104,7 +1203,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000280",
@@ -1114,7 +1214,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000283",
@@ -1124,7 +1225,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1474624",
@@ -1136,7 +1238,8 @@
         ],
         "latitude": 40.1815917,
         "longitude": 44.5264694,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000290",
@@ -1146,7 +1249,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124358005",
@@ -1156,6 +1260,7 @@
         "aliases": null,
         "latitude": 40.8706062,
         "longitude": 45.1429342,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

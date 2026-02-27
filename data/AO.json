@@ -11,7 +11,8 @@
         ],
         "latitude": -5.485903,
         "longitude": 12.260217,
-        "type": "university"
+        "type": "university",
+        "description": "The University November 11 (UON; Portuguese: Universidade 11 de Novembro) is an Angolan public university based in the city of Cabinda. In addition to Cabinda, it has campuses in Buco-Zau and Soyo.\nFormerly one of the Agostinho Neto University campuses, it was separated in the process of reforms to Angolan higher education that took place in 2008 and 2009."
     },
     {
         "wikidata_id": "Q106916019",
@@ -25,7 +26,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "42 is a private institution of education in computer science founded by Xavier Niel, Nicolas Sadirac (former executive director at Epitech), Kwame Yamgnane, and Florian Bucher (former executives at Epitech). The school opened in Paris in 2013. The school does not have any professors and is open 24\/7."
     },
     {
         "wikidata_id": "Q130533301",
@@ -37,7 +39,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1325937",
@@ -51,7 +54,8 @@
         ],
         "latitude": -8.9419,
         "longitude": 13.28027,
-        "type": "university"
+        "type": "university",
+        "description": "The Agostinho Neto University (Portuguese: Universidade Agostinho Neto) is the largest public university of Angola, based in Luanda and in the nearby city of Talatona, in Angola. In the academic year 2005–06, 68 licensing courses were ministered by the university: 18 in Bachelor's and 15 in master's degrees, involving areas of scientific knowledge in the faculties, institutes, and higher learning schools. It is one of seven public (state owned) universities in Angola."
     },
     {
         "wikidata_id": "Q100927380",
@@ -61,7 +65,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30930983",
@@ -73,7 +78,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1707542",
@@ -83,7 +89,8 @@
         "aliases": null,
         "latitude": -8.85731,
         "longitude": 13.2815,
-        "type": "university"
+        "type": "university",
+        "description": "The Catholic University of Angola (Universidade Católica de Angola, UCAN) is a Catholic institution in Angola's capital of Luanda. On 7 August 1992 (1992-08-07), the government of Angola allowed the Angolan Catholic Church to establish its own university. Through approval by the Episcopal Conference it started teaching on 22 February 1999 (1999-02-22)."
     },
     {
         "wikidata_id": "Q25441261",
@@ -95,7 +102,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136564990",
@@ -107,7 +115,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q102222007",
@@ -117,7 +126,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131934371",
@@ -127,7 +137,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10387842",
@@ -139,7 +150,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130533271",
@@ -151,7 +163,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130533253",
@@ -163,7 +176,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74528141",
@@ -173,7 +187,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q136564995",
@@ -185,7 +200,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136564999",
@@ -197,7 +213,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136564996",
@@ -209,7 +226,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136564997",
@@ -221,7 +239,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100955832",
@@ -233,7 +252,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136564998",
@@ -245,7 +265,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136564951",
@@ -257,7 +278,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136565000",
@@ -271,7 +293,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10387844",
@@ -284,7 +307,8 @@
         ],
         "latitude": -8.908,
         "longitude": 13.40281,
-        "type": "university"
+        "type": "university",
+        "description": "Universidade Jean Piaget de Angola (Jean Piaget University of Angola) is a university in based in Luanda, Angola, with campuses in the Benguela province. It is named after the Swiss philosopher Jean Piaget."
     },
     {
         "wikidata_id": "Q18467831",
@@ -296,7 +320,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18467847",
@@ -310,7 +335,8 @@
         ],
         "latitude": -14.9198228,
         "longitude": 13.4857014,
-        "type": "university"
+        "type": "university",
+        "description": "Mandume ya Ndemufayo University  (Portuguese: Universidade Mandume ya Ndemufayo) is a public university in Lubango, Angola, established in 1963 named after the late Kwanyama King Mandume ya Ndemufayo. The university emerged from the dismemberment of the Lubango campus of the Agostinho Neto University in the midst of the reforms in Angolan higher education that occurred in the years 2008 and 2009.\nIt has its area of operation restricted to the provinces of Huíla and Namibia."
     },
     {
         "wikidata_id": "Q10387851",
@@ -322,7 +348,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Methodist University of Angola (Portuguese: Universidade Metodista de Angola)  is a private university located in Luanda, the capital of Angola.\nIt was founded in 2007."
     },
     {
         "wikidata_id": "Q41171980",
@@ -332,7 +359,8 @@
         "aliases": null,
         "latitude": -8.8219528,
         "longitude": 13.2336472,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q53998045",
@@ -342,7 +370,8 @@
         "aliases": null,
         "latitude": -8.814008,
         "longitude": 13.237621,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7246173",
@@ -354,7 +383,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122761657",
@@ -364,7 +394,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q135187151",
@@ -374,7 +405,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q48869274",
@@ -384,7 +416,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q60999778",
@@ -394,7 +427,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q65171665",
@@ -404,7 +438,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692307",
@@ -416,7 +451,8 @@
         ],
         "latitude": -8.8734,
         "longitude": 13.2843,
-        "type": "university"
+        "type": "university",
+        "description": "The Technical University of Angola (Portuguese: Universidade Técnica de Angola also called UTANGA) is a higher education university in Luanda, Angola. It was founded in 2007."
     },
     {
         "wikidata_id": "Q30294279",
@@ -429,7 +465,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18467828",
@@ -442,7 +479,8 @@
         ],
         "latitude": -12.774,
         "longitude": 15.7469,
-        "type": "university"
+        "type": "university",
+        "description": "The José Eduardo dos Santos University (UJES; Portuguese: Universidade José Eduardo dos Santos) is an Angolan public university based in the city of Huambo.\nFormerly one of the Agostinho Neto University campuses, it was separated in the process of reforms to Angolan higher education that took place in 2008 and 2009.\nThe university's base territory is the Huambo Province."
     },
     {
         "wikidata_id": "Q18467838",
@@ -455,7 +493,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18467841",
@@ -468,7 +507,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q50362987",
@@ -481,7 +521,8 @@
         ],
         "latitude": -8.815883,
         "longitude": 13.2298,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q102222009",
@@ -491,7 +532,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294282",
@@ -504,7 +546,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111158643",
@@ -516,7 +559,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Luanda (UniLuanda; Portuguese: Universidade de Luanda) is an Angolan public university based in the city of Luanda.\nThe university emerged from the merger of the Higher Institute for Information and Communication Technologies and the Higher Institute of Management, Logistics and Transport, and from the transformation of the faculties of arts and social service. Before the creation of UniLuanda, they were autonomous higher education institutions spread across the province of Luanda."
     },
     {
         "wikidata_id": "Q109329710",
@@ -526,6 +570,7 @@
         "aliases": null,
         "latitude": -15.191686,
         "longitude": 12.126016,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

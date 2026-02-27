@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 19.6965,
         "longitude": 97.221,
-        "type": "university"
+        "type": "university",
+        "description": "Computer University, Loikaw is a university in Loikaw, Kayah State, Burma. It is near the Loikaw Airport. It was founded as the Government Computer College on February 21, 2001, and it became a university on January 20, 2007."
     },
     {
         "wikidata_id": "Q5157505",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": 22.1917003,
         "longitude": 95.0607109,
-        "type": "university"
+        "type": "university",
+        "description": "The Computer University, Monywa (Burmese: ကွန်ပျူတာ တက္ကသိုလ် (မုံရွာ) [kʊ̀ɰ̃pjùtà tɛʔkəθò (mòʊɰ̃jwà)]) is a public university in Monywa, Sagaing Region, north-western Myanmar. The Ministry of Science and Technology-run university offers bachelor's, and graduate degree programs in computer science, and computer technology. Students may continue advanced studies at the University of Computer Studies, Yangon in Yangon."
     },
     {
         "wikidata_id": "Q5157509",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": 18.822857,
         "longitude": 95.2555333,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Computer Studies, Pyay (Burmese: ကွန်ပျူတာတက္ကသိုလ်(ပြည်)), is a university in Pyay, Bago Region, Myanmar, offering courses in computer science and information technology."
     },
     {
         "wikidata_id": "Q5157510",
@@ -40,7 +43,8 @@
         ],
         "latitude": 20.1325557,
         "longitude": 92.8904901,
-        "type": "university"
+        "type": "university",
+        "description": "University of Computer Studies in Sittway (UCSS) is located in Pyitawthar quarter, Sittwe, Rakhine State, Myanmar. It was formerly opened as Government Computer College on 1 October 2001, and upgraded to university level on 20 January 2007. Professor Dr."
     },
     {
         "wikidata_id": "Q5208638",
@@ -50,7 +54,8 @@
         "aliases": null,
         "latitude": 16.9130556,
         "longitude": 96.2122222,
-        "type": "university"
+        "type": "university",
+        "description": "Dagon University (Burmese: ဒဂုံ တက္ကသိုလ် [dəɡòʊɰ̃ tɛʔkəθò]), located in North Dagon, Yangon, is one of the largest universities in Myanmar. The university, established in 1993, offers bachelor's and master's degrees in liberal arts and sciences to full-time, part-time and online students. Dagon University also offers a full-time four-year law degree program."
     },
     {
         "wikidata_id": "Q5251268",
@@ -60,7 +65,8 @@
         "aliases": null,
         "latitude": 22.0486785,
         "longitude": 96.500881,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Defence Services Technological Academy (DSTA) (Burmese: တပ်မတော် နည်းပညာ တက္ကသိုလ်, pronounced [taʔmədɔ̀ nípjɪ̀ɰ̃ɲà tɛʔkəθò]), located in Pyin-Oo-Lwin, Myanmar, is the premier technological university of the Myanmar Armed Forces. One of the most selective universities in the country, the academy offers various Bachelor of Engineering degrees to male cadets only. Upon graduation, most DSTA cadets are commissioned as Engineering Officers with the rank of Lieutenant in one of the three branches of Burmese armed forces--army, navy, and air force."
     },
     {
         "wikidata_id": "Q100418692",
@@ -70,7 +76,8 @@
         "aliases": null,
         "latitude": 17.14224,
         "longitude": 96.05099,
-        "type": "university"
+        "type": "university",
+        "description": "The Dhammadūta Chekinda University (Burmese: ဓမ္မဒူတဆေကိန္ဒတက္ကသိုလ်) is a Buddhist missionary university, located in Auk War Nat Chaung village, Hmawbi Township, Yangon Region. It was founded in 2017 by Dhammaduta abbot Dr. Ashin Chekinda and opened on February 24, 2019."
     },
     {
         "wikidata_id": "Q7895354",
@@ -82,7 +89,8 @@
         ],
         "latitude": 16.7356,
         "longitude": 96.2864,
-        "type": "university"
+        "type": "university",
+        "description": "The University of East Yangon (Burmese: ရန်ကုန် အရှေ့ပိုင်း တက္ကသိုလ် [jàɰ̃ɡòʊɰ̃ ʔəsʰḛbáɪɰ̃ tɛʔkəθò]), located in Thanlyin in the southeastern suburbs of Yangon, is a liberal arts and sciences university in Myanmar. The university offers bachelor's degree programs in liberal arts and science and law.\nA train service opened in 2006 connects the university campus to downtown Yangon."
     },
     {
         "wikidata_id": "Q19894945",
@@ -94,7 +102,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Faith Baptist Bible College & Theological Seminary is a private Baptist Bible college based in Tedim, Chin State and in Yangon, Myanmar."
     },
     {
         "wikidata_id": "Q35998434",
@@ -104,7 +113,8 @@
         "aliases": null,
         "latitude": 16.4876339,
         "longitude": 97.6754658,
-        "type": "university"
+        "type": "university",
+        "description": "The Government Technical Institute, Mawlamyine (Burmese: အစိုးရစက်မှုလက်မှုသိပ္ပံ (မော်လမြိုင်)) is an Institute of technology and engineering located in Mawlamyine, Mon State, Burma. It can graduate only Diploma of Technical."
     },
     {
         "wikidata_id": "Q65938426",
@@ -114,7 +124,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q135917614",
@@ -126,7 +137,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q43736907",
@@ -136,7 +148,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q44609570",
@@ -146,7 +159,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122922491",
@@ -161,7 +175,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74480977",
@@ -171,7 +186,8 @@
         "aliases": null,
         "latitude": 16.823639,
         "longitude": 96.130306,
-        "type": "university"
+        "type": "university",
+        "description": "Info Myanmar University (Burmese: အင်ဖိုမြန်မာတက္ကသိုလ်; abbreviated IMU) is a private university in Yangon, Myanmar. Info Myanmar College (IMC), the computing arm of IMCS Co., Ltd. which achieved the success in the International ICT courses and vocational trainings since 2007, was established in 2014 with the strong commitment to firmly pillar the educational requirements of the age of knowledge-based society through transforming digital economy in Myanmar."
     },
     {
         "wikidata_id": "Q6053947",
@@ -184,7 +200,8 @@
         ],
         "latitude": 16.8727,
         "longitude": 96.1486,
-        "type": "university"
+        "type": "university",
+        "description": "The International Theravāda Buddhist Missionary University (အပြည်ပြည်ဆိုင်ရာ ထေရဝါဒဗုဒ္ဓဘာသာ သာသနာပြု တက္ကသိုလ်) is on the Dhammapāla Hill, Mayangon Township, in  Yangon, Myanmar. It was inaugurated on 6th waxing moon of Nadaw, 1360 ME (9 December 1998)."
     },
     {
         "wikidata_id": "Q6369505",
@@ -194,7 +211,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Karen Baptist Convention is a Baptist Christian denomination in Myanmar. The headquarters is in Yangon. It is affiliated with the Myanmar Baptist Convention."
     },
     {
         "wikidata_id": "Q59821447",
@@ -204,7 +222,8 @@
         "aliases": null,
         "latitude": 22.9552,
         "longitude": 97.7387,
-        "type": "university"
+        "type": "university",
+        "description": "Lashio University (Burmese: လားရှိုးတက္ကသိုလ်) is a public liberal arts university located in Lashio, Myanmar. Formerly an affiliate of Mandalay University. The university offers bachelor's degree programs in common liberal arts, sciences and law disciplines."
     },
     {
         "wikidata_id": "Q6747771",
@@ -214,7 +233,8 @@
         "aliases": null,
         "latitude": 21.9725,
         "longitude": 96.1861111,
-        "type": "university"
+        "type": "university",
+        "description": "Mandalay Technological University (MTU) (Burmese: မန္တလေး နည်းပညာ တက္ကသိုလ်, pronounced [máɰ̃dəlé nípjɪ̀ɰ̃ɲà tɛʔkəθò], formerly, the Mandalay Institute of Technology - MIT), in Patheingyi, Mandalay, is a senior prestigious engineering university in Myanmar. The university offers undergraduate, and postgraduate programmes in engineering disciplines to students and is one of the most selective universities in the country, admitting approximately only 300-350 undergrad students annually based on their University Entrance Examination scores.\n\nSince MTU offers master's, doctoral and other postgraduate diploma offering programmes, it takes around 200-300 postgrads every academic year."
     },
     {
         "wikidata_id": "Q6747773",
@@ -226,7 +246,8 @@
         ],
         "latitude": 21.9583333,
         "longitude": 96.0916667,
-        "type": "university"
+        "type": "university",
+        "description": "Mandalay University (also translated as University of Mandalay; Burmese: မန္တလေးတက္ကသိုလ် [màɰ̃dəlé tɛʔkəθò]) is a public liberal arts and science university located in Mandalay, Myanmar and one of the sixteen autonomous universities under Ministry of Education. Formerly an affiliate of Rangoon University, Mandalay University is the second oldest university in Myanmar, and the oldest and largest university in Upper Myanmar. The university offers mainly undergraduate and postgraduate degree programmes (Bachelor's, Master's, Post-graduate Diploma, and Doctorate) in liberal arts, sciences and law."
     },
     {
         "wikidata_id": "Q6794427",
@@ -236,7 +257,8 @@
         "aliases": null,
         "latitude": 16.4394444,
         "longitude": 97.6505556,
-        "type": "university"
+        "type": "university",
+        "description": "Mawlamyine University (also the University of Mawlamyine; Burmese: မော်လမြိုင် တက္ကသိုလ် [mɔ̀ləmjàɪɰ̃ tɛʔkəθò]), located in Mawlamyine, is the largest university in Mon State, Myanmar. Being established in 1953, Mawlamyine University is the third oldest Arts and Science university in the country after Yangon University (est 1878) and Mandalay University (est 1925). The university offers bachelor's and master's degree programs in liberal arts and sciences."
     },
     {
         "wikidata_id": "Q18209231",
@@ -246,7 +268,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "McNeilus Maranatha Christian College (An Adventist Center of Higher Learning), formerly known as Maranatha Christian College - MCC, is a Seventh-day Adventist Christian school in Kalaymyo, Myanmar (Burma). It is owned and operated by Myanmar Union Conference of Seventh-day Adventists. It was established in 2000 and is a part of the Seventh-day Adventist education system, the world's second largest Christian school system."
     },
     {
         "wikidata_id": "Q6906986",
@@ -256,7 +279,8 @@
         "aliases": null,
         "latitude": 22.1324353,
         "longitude": 95.1797753,
-        "type": "university"
+        "type": "university",
+        "description": "The Monywa University of Economics (Burmese: မုံရွာ စီးပွားရေးတက္ကသိုလ် [mòʊɰ̃jwà síbwájé tɛʔkəθò]), located in Monywa, Sagaing Region, is one of four universities of economics and business in Myanmar. The university offers undergraduate and graduate degrees and diplomas, mostly in commerce, statistics and economics. It also has a small stable of graduate degree programs, including a full-time MBA program."
     },
     {
         "wikidata_id": "Q13072889",
@@ -266,7 +290,8 @@
         "aliases": null,
         "latitude": 20.894721,
         "longitude": 95.8948061,
-        "type": "university"
+        "type": "university",
+        "description": "Myanmar Aerospace Engineering University (Burmese: မြန်မာနိုင်ငံ လေကြောင်းနှင့်အာကာသပညာ တက္ကသိုလ်; abbreviated MAEU) is a specialized public university of aerospace engineering, located in Meiktila, Myanmar. The university offers undergraduate diploma, bachelor's degree and post-graduate diploma programs in several aerospace engineering specializations and technologies."
     },
     {
         "wikidata_id": "Q114494446",
@@ -276,7 +301,8 @@
         "aliases": null,
         "latitude": 16.7894251,
         "longitude": 96.1514123,
-        "type": "university"
+        "type": "university",
+        "description": "Myanmar Imperial University, formerly Myanmar Imperial College, is a private university in Yangon, Myanmar, located in Dagon Township's Phayagyi ward. Established in 2010 as the Myanmar Imperial College, the university is accredited with Pearson Education in partnership with the University of Northampton in the United Kingdom. The school has approximately 1,400 registered students and an alumni network of 3,200 graduates."
     },
     {
         "wikidata_id": "Q25619621",
@@ -288,7 +314,8 @@
         ],
         "latitude": 21.9378862,
         "longitude": 96.0923395,
-        "type": "institute"
+        "type": "institute",
+        "description": "Myanmar Institute of Information Technology (Burmese: မြန်မာသတင်းအချက်အလက်နည်းပညာတက္ကသိုလ်; abbreviated MIIT) is a technological university located in Chanmyathazi Township, Mandalay, Myanmar. It was set up as a National Centre of Excellence in 2015 as a result of a Memorandum of Understanding between the Government of the Republic of the Union of Myanmar and the Government of the Republic of India. It currently offers Bachelor of Engineering degrees in computer science and engineering and electronics and communications engineering."
     },
     {
         "wikidata_id": "Q6946749",
@@ -298,7 +325,8 @@
         "aliases": null,
         "latitude": 16.7030556,
         "longitude": 96.2641667,
-        "type": "university"
+        "type": "university",
+        "description": "Myanmar Maritime University (MMU) (Burmese: မြန်မာနိုင်ငံ ရေကြောင်းပညာ တက္ကသိုလ် [mjəmà nàɪɰ̃ŋàɰ̃ jèdʑáʊɰ̃ pjɪ̀ɰ̃ɲà tɛʔkəθò]), located in Thanlyin in the outskirts of Yangon, is the premier university of maritime education in Myanmar. MMU offers 5-year bachelor's degree programs. Starting from 2012, MMU, administered by the Ministry of Transportation, offers two-year post-graduate diplomas in various marine and naval disciplines."
     },
     {
         "wikidata_id": "Q6946763",
@@ -310,7 +338,8 @@
         ],
         "latitude": 16.7906285,
         "longitude": 96.1632559,
-        "type": "university"
+        "type": "university",
+        "description": "Myanmar Noble University (MNU) is a private university in Yangon, Myanmar, located in Thingangyun Township's Thuwanna ward. Established in 2011, MNU is accredited with Pearson Education in partnership with the University of East London in the United Kingdom."
     },
     {
         "wikidata_id": "Q6947498",
@@ -320,7 +349,8 @@
         "aliases": null,
         "latitude": 25.4172222,
         "longitude": 97.4111111,
-        "type": "university"
+        "type": "university",
+        "description": "Myitkyina University is a university in northern Myitkyina, Myanmar. \nSince 1996, on-campus student housing has been banned. However, there were plans to reopen the Hkakaborazi (to house 120 male students) and Sumprabum (to house 128 female students) residence halls in 2013."
     },
     {
         "wikidata_id": "Q7895316",
@@ -333,7 +363,8 @@
         ],
         "latitude": 16.8564,
         "longitude": 96.2194,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Arts and Culture, Yangon (Burmese: အမျိုးသားယဉ်ကျေးမှုနှင့် အနုပညာတက္ကသိုလ် (ရန်ကုန်) [jɪ̀ɰ̃tɕém̥ṵ tɛʔkəθò (jàɰ̃ɡòʊɰ̃)]) is a public university, located in Yangon, Myanmar, that offers bachelor's and post-graduate degree programs in traditional Burmese performing and visual arts. The university's primary language of instruction is in English, and it accepts interested foreign students."
     },
     {
         "wikidata_id": "Q7895313",
@@ -346,7 +377,8 @@
         ],
         "latitude": 21.966667,
         "longitude": 96.183333,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Art and Culture, Mandalay (Burmese: အမျိုးသားယဉ်ကျေးမှုနှင့် အနုပညာတက္ကသိုလ် (မန္တလေး), pronounced [jɪ̀ɰ̃tɕém̥ṵ tɛʔkəθò (máɰ̃dəlé)]), located in Patheingyi, Mandalay, is one of two performing and visual arts universities in Myanmar. The university offers bachelor's degree programs in traditional Burmese performing and visual arts. Qualified students may continue post-graduate studies at the University of Culture, Yangon."
     },
     {
         "wikidata_id": "Q117468481",
@@ -356,7 +388,8 @@
         "aliases": null,
         "latitude": 19.76,
         "longitude": 96.045,
-        "type": "university"
+        "type": "university",
+        "description": "Naypyitaw State Academy (NSA) is a new advanced university in Myanmar's national capital of Naypyidaw. Located in Zabuthiri Township, the university includes the faculties of arts, science, laws, economics, medicine, social studies and sports. It is a leading educational hub in Myanmar where one can access diverse educational opportunities with its crucial role in providing academic excellence, enhancing the overall learning environment and fostering research and innovation."
     },
     {
         "wikidata_id": "Q134005760",
@@ -366,7 +399,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7126071",
@@ -376,7 +410,8 @@
         "aliases": null,
         "latitude": 18.9334195,
         "longitude": 96.4572375,
-        "type": "university"
+        "type": "university",
+        "description": "Paku Karen Baptist Association, also known as Paku Kayin Baptist Association is a Baptist Christian denomination in Myanmar. It is affiliated with the Karen Baptist Convention.\nIt is affiliated with the Paku Divinity School, a Baptist theological institute in Taungoo, Bago Region approved by Association for Theological Education in Myanmar."
     },
     {
         "wikidata_id": "Q20992045",
@@ -386,7 +421,8 @@
         "aliases": null,
         "latitude": 21.0169,
         "longitude": 97.533,
-        "type": "university"
+        "type": "university",
+        "description": "Panglong University (Burmese: ပင်လုံ တက္ကသိုလ်) is a university in Panglong, Southern Shan State, Myanmar. It is a government institution, aimed at improving education in Southern Shan State. It was opened in 2002."
     },
     {
         "wikidata_id": "Q135451195",
@@ -396,7 +432,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7262886",
@@ -406,7 +443,8 @@
         "aliases": null,
         "latitude": 18.8382,
         "longitude": 95.3327,
-        "type": "university"
+        "type": "university",
+        "description": "Pyay Technological University (PTU) (Burmese: ပြည်နည်းပညာတက္ကသိုလ်, pronounced [pjè nípjɪ̀ɰ̃ɲà tɛʔkəθò]), in Pyay, is one of three senior engineering universities in Myanmar. It offers bachelor's and master's degree programs in architecture and engineering disciplines. The university draws most of its student body from Lower Myanmar, outside Yangon Division."
     },
     {
         "wikidata_id": "Q39050516",
@@ -416,7 +454,8 @@
         "aliases": null,
         "latitude": 18.8265061,
         "longitude": 95.2265796,
-        "type": "university"
+        "type": "university",
+        "description": "Pyay University (Burmese: ပြည်တက္ကသိုလ်) is a university located in Pyay City, in the Bago Region of Myanmar. Pyay University was founded as a college. On November 11, 1999, it was opened as a university."
     },
     {
         "wikidata_id": "Q7398940",
@@ -426,7 +465,8 @@
         "aliases": null,
         "latitude": 21.9322146,
         "longitude": 95.9770068,
-        "type": "university"
+        "type": "university",
+        "description": "The Sagaing University of Education (Burmese: စစ်ကိုင်း ပညာရေးတက္ကသိုလ် [zəɡáɪɰ̃ pjɪ̀ɰ̃ɲàjé tɛʔkəθò]), formerly known as Mandalay Institute of Education or Sagaing Institute of Education located in Sagaing, Sagaing Region, is one of two senior universities of education in Myanmar. Primarily began as a teacher training college in Mandalay, the university currently offers Bachelor of Education, Master of Education, MPhil, Doctor of Philosophy and Post Graduate Diploma in Multimedia Arts (PGDMA) degree programs in education to the prospective primary and secondary school teachers.\nIn addition, for years, senior lecturers of Sagaing University of Education (SUOE) have been providing short-term pedagogical trainings (mainly educational assessment, management and administration courses) to the in-service educators from many universities and public schools under the Ministry of Education of Myanmar."
     },
     {
         "wikidata_id": "Q134776985",
@@ -436,7 +476,8 @@
         "aliases": null,
         "latitude": 12.34,
         "longitude": 98.76,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25100914",
@@ -446,7 +487,8 @@
         "aliases": null,
         "latitude": 22.5916667,
         "longitude": 95.725,
-        "type": "university"
+        "type": "university",
+        "description": "Shwebo University (Burmese: ရွှေဘို တက္ကသိုလ်) is a public liberal arts university located in Shwebo, Myanmar. The university offers B.A and M.A degree programs in common liberal arts and sciences."
     },
     {
         "wikidata_id": "Q57865983",
@@ -456,7 +498,8 @@
         "aliases": null,
         "latitude": 22.001094,
         "longitude": 96.115394,
-        "type": "university"
+        "type": "university",
+        "description": "The State Pariyatti Sasana University, Mandalay (Burmese: နိုင်ငံတော် ပရိယတ္တိသာသနာ့ တက္ကသိုလ် (မန္တလေး)) is a Buddhist university located in Mandalay, Myanmar, which teaches members of the Buddhist sangha, specifically in the Pitaka, Pali, Burmese language and Burmese literature, and missionary work. The university was opened on 21 August 1986. The university offers Bachelor of Arts (Sāsanatakkasīla Dhammācariya), Master of Arts (Sāsanatakkasīla Mahādhammācariya) and Ph.D (Sāsanatakkasīla Dhammapāragū) degrees, which are conferred as Burmese Buddhist titles."
     },
     {
         "wikidata_id": "Q57866749",
@@ -466,7 +509,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "State Pariyatti Sāsana University, Yangon (Burmese: နိုင်ငံတော် ပရိယတ္တိသာသနာ့ တက္ကသိုလ် (ရန်ကုန်)) is a Buddhist university located in Yangon, Myanmar, which teaches members of the Buddhist sangha, specifically in the Pitaka, Pali, Burmese language and Burmese literature, and missionary work. The university was opened on 26 June 1986.\nThe university offers Bachelor of Arts (Sāsanatakkasīla Dhammācariya) and Master of Arts (Sāsanatakkasīla Mahādhammācariya) degrees, which are conferred as Burmese Buddhist titles."
     },
     {
         "wikidata_id": "Q7688746",
@@ -476,7 +520,8 @@
         "aliases": null,
         "latitude": 20.7553,
         "longitude": 97.0508,
-        "type": "university"
+        "type": "university",
+        "description": "Taunggyi University (Burmese: တောင်ကြီး တက္ကသိုလ် [tàʊɰ̃dʑí tɛʔkəθò]), located in Taunggyi, is the main university in Shan State, Myanmar. The university offers bachelor's and master's degree programs in  arts and sciences."
     },
     {
         "wikidata_id": "Q7688756",
@@ -486,7 +531,8 @@
         "aliases": null,
         "latitude": 19.089853,
         "longitude": 96.3733607,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7688758",
@@ -496,7 +542,8 @@
         "aliases": null,
         "latitude": 18.9511017,
         "longitude": 96.364608,
-        "type": "university"
+        "type": "university",
+        "description": "Taungoo University or the University of Taungoo (Burmese: တောင်ငူတက္ကသိုလ်) is a public liberal arts university, located near Nyaunggine Village in Taungoo, Bago Division, Myanmar. The university mainly offers Bachelor's and master's degree programs in liberal arts and sciences, and law, mostly to students from the Taungoo District and its vicinity."
     },
     {
         "wikidata_id": "Q28085929",
@@ -506,7 +553,8 @@
         "aliases": null,
         "latitude": 20.4128655,
         "longitude": 96.1414136,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17069523",
@@ -518,7 +566,8 @@
         ],
         "latitude": 17.1294,
         "longitude": 96.0064,
-        "type": "university"
+        "type": "university",
+        "description": "Technological University (Hmawbi), under  Ministry of Science and Technology (Ministry of Education in 2016-2021), is located on the east of the Yangon-Pyay Highway Road, near in Hmawbi Township in the Yangon Region, Myanmar. Its area is 78.04 acres (31.58 ha). At first, it was opened as a Technical High School (T.H.S) on 1 June 1989."
     },
     {
         "wikidata_id": "Q7692485",
@@ -528,7 +577,8 @@
         "aliases": null,
         "latitude": 24.2259841,
         "longitude": 97.2652425,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692486",
@@ -538,7 +588,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692487",
@@ -550,7 +601,8 @@
         ],
         "latitude": 17.5843304,
         "longitude": 95.4115481,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692488",
@@ -560,7 +612,8 @@
         "aliases": null,
         "latitude": 16.8515,
         "longitude": 97.6442,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692489",
@@ -570,7 +623,8 @@
         "aliases": null,
         "latitude": 21.2619325,
         "longitude": 99.6581622,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692491",
@@ -580,7 +634,8 @@
         "aliases": null,
         "latitude": 21.6043,
         "longitude": 96.1255,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25619375",
@@ -590,7 +645,8 @@
         "aliases": null,
         "latitude": 23.0313257,
         "longitude": 97.7734452,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692493",
@@ -600,7 +656,8 @@
         "aliases": null,
         "latitude": 19.6545233,
         "longitude": 97.2074949,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692494",
@@ -610,7 +667,8 @@
         "aliases": null,
         "latitude": 20.1990337,
         "longitude": 95.0079102,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692496",
@@ -620,7 +678,8 @@
         "aliases": null,
         "latitude": 16.732647,
         "longitude": 95.607386,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692497",
@@ -630,7 +689,8 @@
         "aliases": null,
         "latitude": 16.3648,
         "longitude": 97.6686,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692498",
@@ -640,7 +700,8 @@
         "aliases": null,
         "latitude": 20.9131458,
         "longitude": 95.8592174,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692499",
@@ -650,7 +711,8 @@
         "aliases": null,
         "latitude": 22.0688931,
         "longitude": 95.2237988,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692500",
@@ -660,7 +722,8 @@
         "aliases": null,
         "latitude": 12.531342,
         "longitude": 98.7011513,
-        "type": "university"
+        "type": "university",
+        "description": "Polytechnic University (Myeik) (Burmese: ပိုလီတက္ကနစ်တက္ကသိုလ် (မြိတ်)) (Formerly Technological University (Myeik)) is situated on the side of the Yangon-Myeik Road and is approximately 7.87 acres wide. It is located in the village of Kabin, in the township of Myeik, Taninthayi Region, Myanmar. \nIt was opened as Government Technological Institute (GTI) on 27 October 1999."
     },
     {
         "wikidata_id": "Q16901375",
@@ -670,7 +733,8 @@
         "aliases": null,
         "latitude": 25.3889,
         "longitude": 97.3077,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692502",
@@ -680,7 +744,8 @@
         "aliases": null,
         "latitude": 21.4330997,
         "longitude": 95.1358543,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692503",
@@ -690,7 +755,8 @@
         "aliases": null,
         "latitude": 20.9133393,
         "longitude": 97.5787181,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692504",
@@ -700,7 +766,8 @@
         "aliases": null,
         "latitude": 16.8375723,
         "longitude": 94.8196931,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28085949",
@@ -712,7 +779,8 @@
         ],
         "latitude": 21.9236612,
         "longitude": 95.9544304,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692505",
@@ -722,7 +790,8 @@
         "aliases": null,
         "latitude": 20.1444,
         "longitude": 92.8969,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692506",
@@ -732,7 +801,8 @@
         "aliases": null,
         "latitude": 20.7640717,
         "longitude": 97.0029457,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692507",
@@ -742,7 +812,8 @@
         "aliases": null,
         "latitude": 16.691166,
         "longitude": 96.3025,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103021075",
@@ -752,7 +823,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q31757805",
@@ -762,7 +834,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895292",
@@ -772,7 +845,8 @@
         "aliases": null,
         "latitude": 21.9667,
         "longitude": 96.1833,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16959509",
@@ -784,7 +858,8 @@
         ],
         "latitude": 16.83,
         "longitude": 96.1354,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895329",
@@ -794,7 +869,8 @@
         "aliases": null,
         "latitude": 16.8342,
         "longitude": 96.209,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895341",
@@ -804,7 +880,8 @@
         "aliases": null,
         "latitude": 21.9705798,
         "longitude": 96.0835337,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895342",
@@ -816,7 +893,8 @@
         ],
         "latitude": 16.8204664,
         "longitude": 96.1363809,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895436",
@@ -826,7 +904,8 @@
         "aliases": null,
         "latitude": 19.8361526,
         "longitude": 96.2772445,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101004554",
@@ -836,7 +915,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10963733",
@@ -848,7 +928,8 @@
         ],
         "latitude": 16.819167,
         "longitude": 96.133889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895727",
@@ -860,7 +941,8 @@
         ],
         "latitude": 16.9026,
         "longitude": 96.155,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10532898",
@@ -872,7 +954,8 @@
         ],
         "latitude": 21.9755556,
         "longitude": 96.0941667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896604",
@@ -882,7 +965,8 @@
         "aliases": null,
         "latitude": 16.9472,
         "longitude": 96.015,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1185947",
@@ -896,7 +980,8 @@
         ],
         "latitude": 16.83,
         "longitude": 96.135,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16977868",
@@ -906,7 +991,8 @@
         "aliases": null,
         "latitude": 16.8763,
         "longitude": 96.1171,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q8046517",
@@ -916,7 +1002,8 @@
         "aliases": null,
         "latitude": 21.8914,
         "longitude": 96.0719,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q8048623",
@@ -926,7 +1013,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q8048626",
@@ -938,7 +1026,8 @@
         ],
         "latitude": 16.8758,
         "longitude": 96.1172,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17070286",
@@ -950,7 +1039,8 @@
         ],
         "latitude": 16.8167081,
         "longitude": 96.1344744,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q8053355",
@@ -960,6 +1050,7 @@
         "aliases": null,
         "latitude": 19.8332,
         "longitude": 96.2751,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

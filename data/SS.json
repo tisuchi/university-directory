@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 7.77699,
         "longitude": 32.98593,
-        "type": "university"
+        "type": "university",
+        "description": "Akobo Heritage and Memorial University (AHMU) is a university in South Sudan."
     },
     {
         "wikidata_id": "Q6234826",
@@ -19,7 +20,8 @@
         ],
         "latitude": 6.22,
         "longitude": 31.55,
-        "type": "university"
+        "type": "university",
+        "description": "Dr. John Garang Memorial University Of Science and Technology (DrJGMUST) is a public university in the Republic of South Sudan. The school is named after the Sudanese Politician John Garang."
     },
     {
         "wikidata_id": "Q135921556",
@@ -29,7 +31,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135921627",
@@ -41,7 +44,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2892503",
@@ -51,7 +55,8 @@
         "aliases": null,
         "latitude": 6.8,
         "longitude": 29.6875,
-        "type": "university"
+        "type": "university",
+        "description": "Rumbek University (or RU) is a university in South Sudan."
     },
     {
         "wikidata_id": "Q7590451",
@@ -61,7 +66,8 @@
         "aliases": null,
         "latitude": 4.8459,
         "longitude": 31.6067,
-        "type": "university"
+        "type": "university",
+        "description": "Saint Mary's College in Juba (SMUJ) is a university in Juba, in Juba County, Central Equatoria, in South Sudan. The city of Juba is the capital of South Sudan and is the largest city in that country."
     },
     {
         "wikidata_id": "Q7720077",
@@ -71,7 +77,8 @@
         "aliases": null,
         "latitude": 4.835,
         "longitude": 31.6,
-        "type": "university"
+        "type": "university",
+        "description": "The Bridge University (TBU) is a university in South Sudan."
     },
     {
         "wikidata_id": "Q100955973",
@@ -81,7 +88,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7895105",
@@ -93,7 +101,8 @@
         ],
         "latitude": 7.73447,
         "longitude": 27.9914,
-        "type": "university"
+        "type": "university",
+        "description": "University of Bahr El-Ghazal (UBG) is a university in South Sudan located in Wau, the capital of Western Bahr El Ghazal State.\nIt was established in 1991."
     },
     {
         "wikidata_id": "Q1231063",
@@ -105,7 +114,8 @@
         ],
         "latitude": 4.8410306,
         "longitude": 31.5899,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Juba (Arabic: جامعة جوبا) is an English-language public university in Juba, the capital of South Sudan. Established in 1975 as the first institution of higher education in southern Sudan, the university admitted its first students in 1977. It is the largest and highest-ranked university in South Sudan."
     },
     {
         "wikidata_id": "Q2892765",
@@ -115,7 +125,8 @@
         "aliases": null,
         "latitude": 8.77515,
         "longitude": 27.4102,
-        "type": "university"
+        "type": "university",
+        "description": "University of Northern Bahr el Ghazal (UNBEG) is a university in South Sudan.\n\nThe Vice Chancellor of the University of Northern Bahr El-Ghazal is Prof."
     },
     {
         "wikidata_id": "Q2915589",
@@ -125,7 +136,8 @@
         "aliases": null,
         "latitude": 9.55,
         "longitude": 31.6583,
-        "type": "university"
+        "type": "university",
+        "description": "Upper Nile University (UNU) is a university in South Sudan."
     },
     {
         "wikidata_id": "Q7988417",
@@ -135,7 +147,8 @@
         "aliases": null,
         "latitude": 9.26,
         "longitude": 29.8,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q8051322",
@@ -145,7 +158,8 @@
         "aliases": null,
         "latitude": 4.10383,
         "longitude": 30.687,
-        "type": "university"
+        "type": "university",
+        "description": "Yei Agricultural and Mechanical University (YA&MU) is a university in South Sudan."
     },
     {
         "wikidata_id": "Q126127399",
@@ -157,6 +171,7 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     }
 ]

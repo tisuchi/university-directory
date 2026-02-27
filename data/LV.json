@@ -10,7 +10,8 @@
         ],
         "latitude": 56.9378,
         "longitude": 24.1558,
-        "type": "university"
+        "type": "university",
+        "description": "The Baltic International Academy (Latvian: Baltijas Starptautiskā akadēmija, Russian: Балтийская международная академия) is the largest degree-awarding tertiary educational institution in Latvia teaching primarily in the Russian language and the largest non-government higher education establishment in the Baltic countries. It was established in 1992 as the Baltic Russian Institute (Latvian: Baltijas Krievu institūts, Russian: Балтийский русский институт). It adopted its current name in 2006."
     },
     {
         "wikidata_id": "Q16353012",
@@ -22,7 +23,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q46725678",
@@ -32,7 +34,8 @@
         "aliases": null,
         "latitude": 57.3119553,
         "longitude": 25.2714489,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74543865",
@@ -42,7 +45,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1854796",
@@ -55,7 +59,8 @@
         ],
         "latitude": 55.8694444,
         "longitude": 26.5166667,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Daugavpils (Latvian: Daugavpils Universitāte, DU) is a public university in Daugavpils, Latvia, and the largest regional university in the country."
     },
     {
         "wikidata_id": "Q46928717",
@@ -67,7 +72,8 @@
         ],
         "latitude": 56.6196256,
         "longitude": 23.274643,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55899673",
@@ -77,7 +83,8 @@
         "aliases": null,
         "latitude": 56.9490375,
         "longitude": 24.1250681,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16355880",
@@ -91,7 +98,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q15441074",
@@ -101,7 +109,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q110319397",
@@ -111,7 +120,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28939308",
@@ -123,7 +133,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q52317357",
@@ -135,7 +146,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136832079",
@@ -148,7 +160,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20566309",
@@ -158,7 +171,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q27055986",
@@ -168,7 +182,8 @@
         "aliases": null,
         "latitude": 56.9961111,
         "longitude": 24.1425,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q28939156",
@@ -182,7 +197,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q50378923",
@@ -194,7 +210,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q27681613",
@@ -206,7 +223,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q15649513",
@@ -218,7 +236,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q23136317",
@@ -230,7 +249,8 @@
         ],
         "latitude": 56.9380556,
         "longitude": 24.1586111,
-        "type": "university"
+        "type": "university",
+        "description": "Riga Nordic University (Latvian: Rīgas Ziemeļvalstu augstskola); Formerly known as Information System Management College (Latvian: Informācijas sistēmu menedžmenta augstskola); the holding, which provides education starting with pre-school preparation in secondary school “Premjers” to doctoral studies at the university. \nThe central office of RNU is located in EU, Latvia, Riga. RNU has two official branches in Riga, Latvia and in Fergana, Uzbekistan – international branch."
     },
     {
         "wikidata_id": "Q28939520",
@@ -240,7 +260,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q2570442",
@@ -253,7 +274,8 @@
         ],
         "latitude": 56.9496667,
         "longitude": 24.1173889,
-        "type": "university"
+        "type": "university",
+        "description": "Jāzeps Vītols Latvian Academy of Music (Latvian: Jāzepa Vītola Latvijas Mūzikas akadēmija), formerly the Riga Conservatory, is a higher  music conservatory in Riga, Latvia. The junior institute is the Emīls Dārziņš Music School."
     },
     {
         "wikidata_id": "Q56012091",
@@ -263,7 +285,8 @@
         "aliases": null,
         "latitude": 56.9552282,
         "longitude": 24.1043229,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16361279",
@@ -273,7 +296,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q1342858",
@@ -285,7 +309,8 @@
         ],
         "latitude": 56.6669444,
         "longitude": 23.7602778,
-        "type": "university"
+        "type": "university",
+        "description": "The Latvia University of Life Sciences and Technologies (LBTU; Latvian: Latvijas Biozinātņu un tehnoloģiju universitāte), previously Latvia University of Agriculture (LLU; Latvijas Lauksaimniecības universitāte), is a university in Jelgava, Latvia, specializing in agricultural science, forestry, food technology and related areas."
     },
     {
         "wikidata_id": "Q56042284",
@@ -295,7 +320,8 @@
         "aliases": null,
         "latitude": 56.9548537,
         "longitude": 24.1114081,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4254872",
@@ -305,7 +331,8 @@
         "aliases": null,
         "latitude": 56.9402,
         "longitude": 24.1428,
-        "type": "university"
+        "type": "university",
+        "description": "The Latvian Academy of Culture (Latvian: Latvijas Kultūras akadēmija) is a higher education establishment in Latvia offering various bachelor's, magister and doctoral degree programmes on cultural subjects. The academy was founded in 1990 and is located in the Latgale Suburb of Riga."
     },
     {
         "wikidata_id": "Q124466691",
@@ -315,7 +342,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30268661",
@@ -328,7 +356,8 @@
         ],
         "latitude": 56.9919722,
         "longitude": 24.0857222,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4201643",
@@ -338,7 +367,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4254869",
@@ -348,7 +378,8 @@
         "aliases": null,
         "latitude": 57.0463889,
         "longitude": 24.0302778,
-        "type": "university"
+        "type": "university",
+        "description": "Latvian Maritime Academy (LMA; Latvian: Latvijas Jūras akadēmija) — Maritime academy, located in Riga, Latvia. It awards degrees below the doctoral level, and is the only institution in Latvia that grants university-level degrees in the maritime sector. In the 2015\/2016 academic year, 237 students were admitted and 916 students in total were attending the academy."
     },
     {
         "wikidata_id": "Q16361744",
@@ -360,7 +391,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q52317358",
@@ -370,7 +402,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16363069",
@@ -382,7 +415,8 @@
         ],
         "latitude": 56.774714,
         "longitude": 27.720583,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q74555614",
@@ -392,7 +426,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4314800",
@@ -402,7 +437,8 @@
         "aliases": null,
         "latitude": 56.9952994,
         "longitude": 24.1813534,
-        "type": "university"
+        "type": "university",
+        "description": "The National Defence Academy of Latvia (Latvian: Latvijas Nacionālā aizsardzības akadēmija) is a defense academy of higher education and scientific research in Riga, Latvia. It was established on February 13, 1992, as the Academy of the Ministry of Defense of the Republic of Latvia. It builds on the historic traditions of the pre-WWII Latvian School of War (Latvijas Kara skola)."
     },
     {
         "wikidata_id": "Q104439578",
@@ -412,7 +448,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136615847",
@@ -422,7 +459,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136831482",
@@ -432,7 +470,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16351438",
@@ -442,7 +481,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16352517",
@@ -452,7 +492,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21481127",
@@ -462,7 +503,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q21481216",
@@ -472,7 +514,8 @@
         "aliases": null,
         "latitude": 56.955,
         "longitude": 24.1515,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q29450241",
@@ -482,7 +525,8 @@
         "aliases": null,
         "latitude": 57.3125,
         "longitude": 25.2486111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q50378801",
@@ -492,7 +536,8 @@
         "aliases": null,
         "latitude": 56.936646,
         "longitude": 24.097246,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q55560517",
@@ -502,7 +547,8 @@
         "aliases": null,
         "latitude": 56.6492607,
         "longitude": 23.7187729,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q86004182",
@@ -512,7 +558,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q90307979",
@@ -522,7 +569,8 @@
         "aliases": null,
         "latitude": 56.975267,
         "longitude": 24.13306,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7333325",
@@ -534,7 +582,8 @@
         ],
         "latitude": 56.957394,
         "longitude": 24.1172842,
-        "type": "university"
+        "type": "university",
+        "description": "Riga Business School (Latvian: RTU Rīgas Biznesa Skola; abbreviated as RBS) is a higher education institution within the Riga Technical University, located in Riga, Latvia. Established in 1991 through the cooperation of Riga Technical University, the State University of New York at Buffalo (SUNY Buffalo) in the United States, and the University of Ottawa in Canada, RBS was the first institution in the Baltics to offer English only MBA programs.\nSince 2012, Riga Business School has been offering a Bachelor of Management in International Business in collaboration with the BI Norwegian Business School."
     },
     {
         "wikidata_id": "Q4394548",
@@ -546,7 +595,8 @@
         ],
         "latitude": 56.9395,
         "longitude": 24.1556,
-        "type": "university"
+        "type": "university",
+        "description": "The Riga Civil Aviation Engineers Institute (RCAEI) (Latvian: Rīgas Civilās Aviācijas Inženieru Institūts (RCAII), Russian: Рижский институт инженеров гражданской авиации (РКИИГА until 1991), Рижский авиационный университет (РАУ until 1999)) was an engineering university in the USSR and Latvia. It was founded in 1919 and closed in 1999. Thousands of students graduated from the institute from over 93 countries."
     },
     {
         "wikidata_id": "Q136765689",
@@ -556,7 +606,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q56024963",
@@ -566,7 +617,8 @@
         "aliases": null,
         "latitude": 56.9350568,
         "longitude": 24.036859,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111036372",
@@ -576,7 +628,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2007643",
@@ -588,7 +641,8 @@
         ],
         "latitude": 56.9536111,
         "longitude": 24.0552778,
-        "type": "university"
+        "type": "university",
+        "description": "Riga Stradiņš University (RSU) (Latvian: Rīgas Stradiņa universitāte, Latin: Universitas Rigensis Stradina) is a public university located in the city of Riga, Latvia. The name Stradiņš (Latvian pronunciation: [ˈstradiɲʃ]) in the university's title refers to the Stradiņš family, who have had a significant influence on the course of community and academic life in Latvia for over a century."
     },
     {
         "wikidata_id": "Q27477416",
@@ -601,7 +655,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q411895",
@@ -614,7 +669,8 @@
         ],
         "latitude": 56.9471306,
         "longitude": 24.1051389,
-        "type": "university"
+        "type": "university",
+        "description": "Riga Technical University (RTU) (Latvian: Rīgas Tehniskā universitāte) is the oldest technical university in the Baltic countries established on October 14, 1862. It is located in Riga, Latvia and was previously known as Riga Polytechnical Institute and Riga Polytechnicum.\nIn 1958, the Riga Polytechnic Institute was established as a separate institution, separating the departments of engineering from the Latvian State University."
     },
     {
         "wikidata_id": "Q4394523",
@@ -626,7 +682,8 @@
         ],
         "latitude": 56.9443,
         "longitude": 24.0804,
-        "type": "university"
+        "type": "university",
+        "description": "The RISEBA University of Applied Sciences (Latvian: Biznesa, mākslas un tehnoloģiju augstskola \"RISEBA\") is a private international business school located in Riga, Latvia. Until April 2016 it was known as the \"Riga International School of Economics and Business Administration\". The school was established in 1992."
     },
     {
         "wikidata_id": "Q3801493",
@@ -639,7 +696,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Rezekne Academy of Technologies (Latvian: Rēzeknes Tehnoloģiju akadēmija) is an institution of higher education and scientific research in Rēzekne, Latvia. It is one of two Augstskola (literally 'high school,' cognate of Hochschule) based in Eastern Latvia."
     },
     {
         "wikidata_id": "Q128509",
@@ -651,7 +709,8 @@
         ],
         "latitude": 51.515,
         "longitude": -0.0719444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q46928815",
@@ -661,7 +720,8 @@
         "aliases": null,
         "latitude": 56.6223011,
         "longitude": 23.2789756,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125762614",
@@ -671,7 +731,8 @@
         "aliases": null,
         "latitude": 56.9195278,
         "longitude": 24.0921389,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4201765",
@@ -681,7 +742,8 @@
         "aliases": null,
         "latitude": 56.9392,
         "longitude": 24.1564,
-        "type": "university"
+        "type": "university",
+        "description": "Transport and Telecommunication Institute (TTI) (Latvian: Transporta un Sakaru Institūts, TSI) (Russian: Институт Транспорта и Связи, ИТС) (previously known as RCAII and Riga Aviation University) is the largest university-type accredited non-state technical higher educational and scientific establishment in Riga, the capital of Latvia. It was established in 1999, although it also incorporates the core of a technical and aviation school which dates back to 1919. Main directions of academic activities include electronics and telecommunications, information technology and computer science, economics, management and business administration, transport and logistics."
     },
     {
         "wikidata_id": "Q55652906",
@@ -691,7 +753,8 @@
         "aliases": null,
         "latitude": 56.940991,
         "longitude": 23.4902181,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q50378804",
@@ -708,7 +771,8 @@
         ],
         "latitude": 56.879635,
         "longitude": 24.603189,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q498407",
@@ -720,7 +784,8 @@
         ],
         "latitude": 56.9505556,
         "longitude": 24.1161111,
-        "type": "university"
+        "type": "university",
+        "description": "University of Latvia (Latvian: Latvijas Universitāte, shortened LU) is a public research university located in Riga, Latvia. The university was established in 1919. It is one of the largest and most prestigious higher education institutions in the Baltic States."
     },
     {
         "wikidata_id": "Q39774585",
@@ -730,7 +795,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3498695",
@@ -740,7 +806,8 @@
         "aliases": null,
         "latitude": 56.5087,
         "longitude": 21.0101,
-        "type": "university"
+        "type": "university",
+        "description": "University of Liepāja (Latvian: Liepājas Universitāte) is a university in Liepāja, Latvia. The University of Liepāja attained university status on June 12, 2008, following the adoption of the law \"On the Constitution of the University of Liepāja\" by the Saeima. It holds the distinction of being the newest university in Latvia and the sole university in Kurzeme region."
     },
     {
         "wikidata_id": "Q55462992",
@@ -750,7 +817,8 @@
         "aliases": null,
         "latitude": 57.5327,
         "longitude": 25.4086,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11219959",
@@ -763,7 +831,8 @@
         ],
         "latitude": 57.384689,
         "longitude": 21.546004,
-        "type": "university"
+        "type": "university",
+        "description": "Ventspils University of Applied Sciences (former Ventspils University College, Latvian: Ventspils Augstskola) is a higher education establishment in Ventspils, Latvia."
     },
     {
         "wikidata_id": "Q1479765",
@@ -773,6 +842,7 @@
         "aliases": null,
         "latitude": 57.535,
         "longitude": 25.4239,
-        "type": "university"
+        "type": "university",
+        "description": "Vidzeme University of Applied Sciences (Latvian: Vidzemes Augstskola) is the higher education establishment in Valmiera, Latvia. It was founded in 1996 and now it has around 800 students."
     }
 ]

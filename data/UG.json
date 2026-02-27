@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4689708",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": 0.2404,
         "longitude": 32.5646,
-        "type": "university"
+        "type": "university",
+        "description": "African Bible University (Uganda), is a private Christian university in Uganda founded and owned by African Bible Colleges."
     },
     {
         "wikidata_id": "Q1844482",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "African Bible Colleges is an entity comprising multiple Bible college in Africa.  The three campuses offer university-level education from a Christian perspective, with the aim of training men and women for Christian leadership and service."
     },
     {
         "wikidata_id": "Q111083456",
@@ -37,7 +40,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17510024",
@@ -47,7 +51,8 @@
         "aliases": null,
         "latitude": 0.94265,
         "longitude": 30.8171,
-        "type": "university"
+        "type": "university",
+        "description": "African Rural University is a university in Uganda."
     },
     {
         "wikidata_id": "Q111083393",
@@ -57,7 +62,8 @@
         "aliases": null,
         "latitude": 0.320651,
         "longitude": 32.568728,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q118323561",
@@ -70,7 +76,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4729602",
@@ -82,7 +89,8 @@
         ],
         "latitude": 2.235556,
         "longitude": 32.8975,
-        "type": "university"
+        "type": "university",
+        "description": "All Saints University, whose complete name is All Saints University Lango (ASUL), is a private university in Uganda. It is recognised as a university by the Uganda National Council for Higher Education (UNCHE)."
     },
     {
         "wikidata_id": "Q124256175",
@@ -92,7 +100,8 @@
         "aliases": null,
         "latitude": 2.2461111,
         "longitude": 32.8997222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4766090",
@@ -102,7 +111,8 @@
         "aliases": null,
         "latitude": -0.5736111,
         "longitude": 30.38,
-        "type": "university"
+        "type": "university",
+        "description": "Ankole Western University (AWU) is an Anglican institution of higher learning in Uganda. It is owned and administered by the Western Ankole Diocese of the Church of Uganda."
     },
     {
         "wikidata_id": "Q133413428",
@@ -112,7 +122,8 @@
         "aliases": null,
         "latitude": 0.3574922,
         "longitude": 32.5414825,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4917719",
@@ -126,7 +137,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Bishop Stuart University (BSU) is a private, not-for-profit, multi-campus university in Uganda."
     },
     {
         "wikidata_id": "Q4986155",
@@ -138,7 +150,8 @@
         ],
         "latitude": 0.569579,
         "longitude": 32.6418204,
-        "type": "university"
+        "type": "university",
+        "description": "Bugema University (BMU) is a private, co-educational Ugandan university affiliated with the Seventh-day Adventist Church. It is a part of the Seventh-day Adventist education system, the world's second largest Christian school system."
     },
     {
         "wikidata_id": "Q5001978",
@@ -151,7 +164,8 @@
         ],
         "latitude": 0.545,
         "longitude": 34.025,
-        "type": "university"
+        "type": "university",
+        "description": "Busitema University (BU) is a university in Uganda. It is one of the public universities and degree-awarding institutions in the country. It has six different campuses around the country; all situated in the Eastern Region of Uganda."
     },
     {
         "wikidata_id": "Q22809615",
@@ -161,7 +175,8 @@
         "aliases": null,
         "latitude": 0.91713,
         "longitude": 33.1259,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q9091624",
@@ -173,7 +188,8 @@
         ],
         "latitude": 0.595,
         "longitude": 33.4619444,
-        "type": "university"
+        "type": "university",
+        "description": "Busoga University (BU), is a private university in Uganda, affiliated with Central Busoga Diocese of the Church of Uganda."
     },
     {
         "wikidata_id": "Q133454734",
@@ -183,7 +199,8 @@
         "aliases": null,
         "latitude": -0.821922,
         "longitude": 29.9678078,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5055032",
@@ -193,7 +210,8 @@
         "aliases": null,
         "latitude": 0.301112,
         "longitude": 32.593334,
-        "type": "university"
+        "type": "university",
+        "description": "Cavendish University Uganda (CUU) is licensed and accredited by the Uganda National Council for Higher Education (UNCHE), and was established in 2008."
     },
     {
         "wikidata_id": "Q21994182",
@@ -203,7 +221,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100267076",
@@ -213,7 +232,8 @@
         "aliases": null,
         "latitude": 0.3308333,
         "longitude": 32.6012778,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q116482965",
@@ -225,7 +245,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25701948",
@@ -237,7 +258,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q59536376",
@@ -249,7 +271,8 @@
         ],
         "latitude": 0.335138,
         "longitude": 32.568764,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q131763159",
@@ -261,7 +284,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q65512610",
@@ -275,7 +299,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5430506",
@@ -285,7 +310,8 @@
         "aliases": null,
         "latitude": 0.44,
         "longitude": 33.3275,
-        "type": "university"
+        "type": "university",
+        "description": "Fairland University (FLU) is a private university in Uganda."
     },
     {
         "wikidata_id": "Q133850475",
@@ -295,7 +321,8 @@
         "aliases": null,
         "latitude": 0.2619444,
         "longitude": 32.6291667,
-        "type": "university"
+        "type": "university",
+        "description": "Ggaba National Major Seminary, (also Saint Mary's National Major Seminary Ggaba) is a National Seminary of the Catholic Church in Uganda. The institution is a training facility and House of Formation under the auspices of the Uganda Episcopal Conference (UEC). The institution is also accredited by the Uganda National Council for Higher Education to teach some non-religious academic courses."
     },
     {
         "wikidata_id": "Q5617918",
@@ -307,7 +334,8 @@
         ],
         "latitude": 2.79,
         "longitude": 32.3169444,
-        "type": "university"
+        "type": "university",
+        "description": "Gulu University (GU) is a university in Uganda. It is one of the nine public universities in the country, as of September 2016."
     },
     {
         "wikidata_id": "Q18351458",
@@ -320,7 +348,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Infectious Diseases Institute (IDI), established within Makerere University, is a Ugandan not-for-profit organization which aims to strengthen health systems in Africa, with a strong emphasis on infectious diseases; through research and capacity development. In pursuit of its mission both in Uganda and Sub-Saharan Africa, IDI provides care to People Living with HIV (PLHIV) and other infectious diseases, builds capacity among healthcare workers through training and ongoing support, maintains a focus on prevention, and carries out relevant research."
     },
     {
         "wikidata_id": "Q16910628",
@@ -330,7 +359,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Inter-University Council for East Africa (IUCEA) is an institution of the East African Community, which is a regional intergovernmental organisation of the republics of Kenya, Tanzania, Uganda, Burundi, Rwanda and South Sudan. IUCEA aims to foster collaboration between member universities in the EAC region. It has its head offices in Kampala, Uganda."
     },
     {
         "wikidata_id": "Q6050884",
@@ -340,7 +370,8 @@
         "aliases": null,
         "latitude": 0.305,
         "longitude": 32.61,
-        "type": "university"
+        "type": "university",
+        "description": "Clarke International University, formerly International Health Sciences University (IHSU), is a private non-residential university in Uganda."
     },
     {
         "wikidata_id": "Q6054150",
@@ -353,7 +384,8 @@
         ],
         "latitude": 0.284,
         "longitude": 32.606,
-        "type": "university"
+        "type": "university",
+        "description": "International University of East Africa (IUEA) is a private non-profit institution in Uganda, and is a chartered University by the Uganda National Council for Higher Education (NCHE).\nIn September 2022 the International University of East Africa was approved for grant of a charter by the National Council for Higher Education (NCHE)."
     },
     {
         "wikidata_id": "Q63831113",
@@ -365,7 +397,8 @@
         ],
         "latitude": 0.334444,
         "longitude": 32.601389,
-        "type": "university"
+        "type": "university",
+        "description": "ISBAT University (ISBAT), whose complete name is International Business, Science And Technology University, is a chartered university in Uganda."
     },
     {
         "wikidata_id": "Q6343817",
@@ -377,7 +410,8 @@
         ],
         "latitude": -1.2722222,
         "longitude": 29.9883333,
-        "type": "university"
+        "type": "university",
+        "description": "Kabale University (KAB) is a public university in Kabale Municipality, Uganda."
     },
     {
         "wikidata_id": "Q100948002",
@@ -387,7 +421,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6359113",
@@ -402,7 +437,8 @@
         ],
         "latitude": 0.295,
         "longitude": 32.6041667,
-        "type": "university"
+        "type": "university",
+        "description": "Kampala International University (KIU) is a private, not-for-profit institution based in Uganda. It was established in 2001 and assumed chartered status in 2009.\nIn pursuit of the dream to raise the next generation of problem solvers for the East African region and indeed the whole of Africa, the University operates a multi-campus system which consists of two campuses in Uganda (the main campus in Kampala and the western campus in Ishaka-Bushenyi); one other university in Dar es Salaam, Tanzania, while a third one is being developed in Nairobi, Kenya."
     },
     {
         "wikidata_id": "Q6359115",
@@ -412,7 +448,8 @@
         "aliases": null,
         "latitude": -0.5413889,
         "longitude": 30.1405556,
-        "type": "university"
+        "type": "university",
+        "description": "Kampala International University School of Health Sciences is the school of health sciences of Kampala International University, a private Ugandan university. The school provides health sciences education at the diploma, undergraduate and postgraduate levels."
     },
     {
         "wikidata_id": "Q6359130",
@@ -422,7 +459,8 @@
         "aliases": null,
         "latitude": 0.2605556,
         "longitude": 32.6338889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q133928018",
@@ -434,7 +472,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q133821333",
@@ -444,7 +483,8 @@
         "aliases": null,
         "latitude": -0.2272222,
         "longitude": 31.7352778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q133413202",
@@ -456,7 +496,8 @@
         ],
         "latitude": 0.3176271,
         "longitude": 32.5574756,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q114243529",
@@ -468,7 +509,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6405976",
@@ -480,7 +522,8 @@
         ],
         "latitude": 1.8425,
         "longitude": 32.01889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q116486082",
@@ -490,7 +533,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6443863",
@@ -500,7 +544,8 @@
         "aliases": null,
         "latitude": 1.4725,
         "longitude": 33.8625,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2753927",
@@ -514,7 +559,8 @@
         ],
         "latitude": 0.35,
         "longitude": 32.63,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q137646328",
@@ -530,7 +576,8 @@
         ],
         "latitude": -0.5805194,
         "longitude": 30.1921861,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q133454672",
@@ -540,7 +587,8 @@
         "aliases": null,
         "latitude": -0.6167315,
         "longitude": 30.6333112,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111083417",
@@ -550,7 +598,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q24907953",
@@ -562,7 +611,8 @@
         ],
         "latitude": 2.2094444,
         "longitude": 32.87,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17067633",
@@ -575,7 +625,8 @@
         ],
         "latitude": 1.08417,
         "longitude": 34.1792,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6699743",
@@ -585,7 +636,8 @@
         "aliases": null,
         "latitude": 0.37,
         "longitude": 32.9130556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943787",
@@ -595,7 +647,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q261506",
@@ -613,7 +666,8 @@
         ],
         "latitude": 0.335,
         "longitude": 32.5675,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6739286",
@@ -625,7 +679,8 @@
         ],
         "latitude": 0.3272222,
         "longitude": 32.6166667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136514738",
@@ -635,7 +690,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q100948011",
@@ -645,7 +701,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948012",
@@ -655,7 +712,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948017",
@@ -665,7 +723,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948015",
@@ -675,7 +734,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131384615",
@@ -685,7 +745,8 @@
         "aliases": null,
         "latitude": 0.3358333,
         "longitude": 32.5711111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948018",
@@ -695,7 +756,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948019",
@@ -705,7 +767,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948020",
@@ -715,7 +778,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948021",
@@ -725,7 +789,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948022",
@@ -735,7 +800,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97277431",
@@ -745,7 +811,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1191478",
@@ -755,7 +822,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948023",
@@ -765,7 +833,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131105949",
@@ -778,7 +847,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q514030",
@@ -791,7 +861,8 @@
         ],
         "latitude": -0.616832,
         "longitude": 30.656801,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948033",
@@ -801,7 +872,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100948034",
@@ -811,7 +883,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q595684",
@@ -823,7 +896,8 @@
         ],
         "latitude": 0.6586111,
         "longitude": 30.285,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6936076",
@@ -835,7 +909,8 @@
         ],
         "latitude": 2.9925,
         "longitude": 30.92639,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6943779",
@@ -854,7 +929,8 @@
         ],
         "latitude": -0.3225,
         "longitude": 31.7425,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q15261310",
@@ -866,7 +942,8 @@
         ],
         "latitude": 0.61,
         "longitude": 32.475,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55625253",
@@ -876,7 +953,8 @@
         "aliases": null,
         "latitude": 3.0697222,
         "longitude": 30.9375,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7042657",
@@ -886,7 +964,8 @@
         "aliases": null,
         "latitude": 0.095,
         "longitude": 32.507,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q107282262",
@@ -896,7 +975,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100942498",
@@ -906,7 +986,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q133860709",
@@ -916,7 +997,8 @@
         "aliases": null,
         "latitude": 0.2636111,
         "longitude": 32.6297222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7563661",
@@ -928,7 +1010,8 @@
         ],
         "latitude": 1.775,
         "longitude": 33.58,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17379952",
@@ -938,7 +1021,8 @@
         "aliases": null,
         "latitude": 0.284,
         "longitude": 32.606,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7589504",
@@ -948,7 +1032,8 @@
         "aliases": null,
         "latitude": 0.301667,
         "longitude": 32.5619,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q23721141",
@@ -958,7 +1043,8 @@
         "aliases": null,
         "latitude": 1.09022,
         "longitude": 34.179,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q85805400",
@@ -968,7 +1054,8 @@
         "aliases": null,
         "latitude": 0.3058333,
         "longitude": 32.5619444,
-        "type": "university"
+        "type": "university",
+        "description": "Team University (TU) is a private, co-educational Ugandan university in the Buganda Region of Uganda. It is accredited as a \"private university\", by the Uganda National Council for Higher Education (UNCHE)."
     },
     {
         "wikidata_id": "Q2473859",
@@ -983,7 +1070,8 @@
         ],
         "latitude": 0.355,
         "longitude": 32.7402778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943791",
@@ -993,7 +1081,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7877608",
@@ -1006,7 +1095,8 @@
         ],
         "latitude": 0.326389,
         "longitude": 32.6,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q133860853",
@@ -1016,7 +1106,8 @@
         "aliases": null,
         "latitude": 2.7572222,
         "longitude": 32.2272222,
-        "type": "university"
+        "type": "university",
+        "description": "Alokolum National Major Seminary, (also Uganda Martyrs' National Major Seminary Alokolum) is a National Seminary of the Catholic Church in Uganda. The institution is a training facility and House of Formation under the auspices of the Uganda Episcopal Conference (UEC). The institution is also accredited by the Uganda National Council for Higher Education to teach some non-religious academic courses."
     },
     {
         "wikidata_id": "Q7877609",
@@ -1031,7 +1122,8 @@
         ],
         "latitude": 0.005,
         "longitude": 32.015,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948030",
@@ -1041,7 +1133,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7877611",
@@ -1053,7 +1146,8 @@
         ],
         "latitude": 0.301389,
         "longitude": 32.5856,
-        "type": "university"
+        "type": "university",
+        "description": "Uganda Martyrs University School of Medicine,  whose official name is Mother Kevin Postgraduate Medical School, is the school of medicine of Uganda Martyrs University. As of June 2014, the medical school is the newest medical school in Uganda, having been established in 2010. Currently the school provides postgraduate medical education in the disciplines of Pediatrics, Internal Medicine, Surgery, Obstetrics\/Gynecology and Emergency Medicine."
     },
     {
         "wikidata_id": "Q7877620",
@@ -1066,7 +1160,8 @@
         ],
         "latitude": 0.66,
         "longitude": 30.2661,
-        "type": "university"
+        "type": "university",
+        "description": "Uganda Pentecostal University (UPU) is a private university in Uganda."
     },
     {
         "wikidata_id": "Q18394920",
@@ -1078,7 +1173,8 @@
         ],
         "latitude": 0.326111,
         "longitude": 32.5836,
-        "type": "university"
+        "type": "university",
+        "description": "The Universal Technology and Management University (UTAMU), previously Uganda Technology and Management University, is a private university in Uganda founded in 2012 and licensed by the Uganda National Council for Higher Education (UNCHE)."
     },
     {
         "wikidata_id": "Q7877634",
@@ -1090,7 +1186,8 @@
         ],
         "latitude": 0.075833,
         "longitude": 32.457222,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Uganda Virus Research Institute (UVRI) is a medical research institute owned by the Uganda government that carries out research on communicable diseases in man and animals, with emphasis on viral transmitted infections. UVRI is a component of Uganda National Health Research Organization (UNHRO), an umbrella organization for health research within Uganda."
     },
     {
         "wikidata_id": "Q137668433",
@@ -1100,7 +1197,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q557172",
@@ -1110,7 +1208,8 @@
         "aliases": null,
         "latitude": -6.780556,
         "longitude": 39.203333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q48741701",
@@ -1122,7 +1221,8 @@
         ],
         "latitude": 2.7708333,
         "longitude": 32.1,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q48814112",
@@ -1132,7 +1232,8 @@
         "aliases": null,
         "latitude": -0.5483333,
         "longitude": 30.2011111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16902646",
@@ -1146,6 +1247,7 @@
         ],
         "latitude": 0.313611,
         "longitude": 32.5892,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

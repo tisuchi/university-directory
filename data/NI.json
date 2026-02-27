@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 11.907165,
         "longitude": -86.204817,
-        "type": "university"
+        "type": "university",
+        "description": "Keiser University - Latin American Campus (KU) is a branch campus of Keiser University in Florida, United States. It is located in the small town of San Marcos, Carazo, Nicaragua."
     },
     {
         "wikidata_id": "Q18358754",
@@ -20,7 +21,8 @@
         ],
         "latitude": 12.006446,
         "longitude": -83.770908,
-        "type": "university"
+        "type": "university",
+        "description": "Bluefields Indian and Caribbean University (BICU), is a university founded in 1991, in Bluefields, South Caribbean Coast Autonomous Region, Nicaragua."
     },
     {
         "wikidata_id": "Q121768158",
@@ -32,7 +34,8 @@
         ],
         "latitude": 12.1252778,
         "longitude": -86.2719444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156405",
@@ -42,7 +45,8 @@
         "aliases": null,
         "latitude": 13.2475417,
         "longitude": -86.3731306,
-        "type": "university"
+        "type": "university",
+        "description": "The Catholic University of Dry Tropic Farming and Livestock (Spanish: Universidad Católica Agropecuaria del Trópico Seco (UCATSE)) is a private catholic university located in Estelí, Nicaragua. It was founded in 1974 and is a member of the National University Council (Consejo Nacional de Universidades, CNU)."
     },
     {
         "wikidata_id": "Q16256657",
@@ -52,7 +56,8 @@
         "aliases": null,
         "latitude": 12.08277,
         "longitude": -86.23039,
-        "type": "university"
+        "type": "university",
+        "description": "The Catholic University Redemptoris Mater (Spanish: Universidad Católica Redemptoris Mater (UNICA)) is a private university in Managua, Nicaragua. It was founded in 1992 by Cardinal Miguel Obando y Bravo.\nUNICA is a member of AUPRICA, the Association of Private Universities of Central America and Panama and ODUCAL, the Organization of Latin American Catholic Universities."
     },
     {
         "wikidata_id": "Q74556017",
@@ -62,7 +67,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q117188210",
@@ -74,7 +80,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7090129",
@@ -87,7 +94,8 @@
         ],
         "latitude": 11.4162999,
         "longitude": -85.5398165,
-        "type": "university"
+        "type": "university",
+        "description": "The Ometepe Biological Field School, located in San Ramón, Ometepe Island, Nicaragua, is one of two field school operated by the Maderas Rainforest Conservancy (the other being La Suerte Biological Field School). It houses courses in primatology, ecology, botany, and other courses related to the flora and fauna of Ometepe, Nicaragua. It was established in 1997."
     },
     {
         "wikidata_id": "Q2537246",
@@ -97,7 +105,8 @@
         "aliases": null,
         "latitude": 12.129444,
         "longitude": -86.268889,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute of History of Nicaragua and Central America (Spanish: Instituto de Historia de Nicaragua y Centroamérica, IHNCA) is a research institute that is connected to the Central American University in Nicaragua.\nThe institute is settled at the campus of the university in Managua. The building has several halls and rooms for lectures, research, documentation, and expositions."
     },
     {
         "wikidata_id": "Q6465575",
@@ -107,7 +116,8 @@
         "aliases": null,
         "latitude": 12.1086,
         "longitude": -86.257,
-        "type": "university"
+        "type": "university",
+        "description": "The American University (Spanish: Universidad Americana (UAM)) is a private university located in Managua, Nicaragua. It was founded in 1992 and offers undergraduate and graduate degrees in a variety of professional fields including law, medicine, business, and engineering. While most degree programs include English language requirements, Spanish is the language of instruction for all courses except those offered by UAM College."
     },
     {
         "wikidata_id": "Q495504",
@@ -122,7 +132,8 @@
         ],
         "latitude": 12.4368303,
         "longitude": -86.8790283,
-        "type": "university"
+        "type": "university",
+        "description": "The National Autonomous University of Nicaragua (Spanish: Universidad Nacional Autónoma de Nicaragua, UNAN) is a public university in Nicaragua. Its main campus is located in Managua. The original campus, UNAN-Leon, is located in León and is now mainly used for medicine majors."
     },
     {
         "wikidata_id": "Q6155017",
@@ -136,7 +147,8 @@
         ],
         "latitude": 12.4368361,
         "longitude": -86.879025,
-        "type": "university"
+        "type": "university",
+        "description": "The National Autonomous University of Nicaragua at León (Spanish: Universidad Nacional Autónoma de Nicaragua-León, UNAN-León) is a state-funded public university of Nicaragua. UNAN-León is the oldest university in the country, established in 1812."
     },
     {
         "wikidata_id": "Q6448639",
@@ -148,7 +160,8 @@
         ],
         "latitude": 12.1491056,
         "longitude": -86.2479417,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q17042706",
@@ -160,7 +173,8 @@
         ],
         "latitude": 12.13602,
         "longitude": -86.22924,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Nicaragüense de Ciencia y Tecnologia (UCYT) is a private university in Managua, Nicaragua, founded in 2002."
     },
     {
         "wikidata_id": "Q7227040",
@@ -170,7 +184,8 @@
         "aliases": null,
         "latitude": 12.1377854,
         "longitude": -86.2207728,
-        "type": "university"
+        "type": "university",
+        "description": "The Polytechnic University of Nicaragua (Spanish: Universidad Politecnica de Nicaragua, UPOLI) is a university in Managua, Nicaragua. It was founded in 1967."
     },
     {
         "wikidata_id": "Q17085960",
@@ -180,7 +195,8 @@
         "aliases": null,
         "latitude": 12.12812,
         "longitude": -86.22946,
-        "type": "university"
+        "type": "university",
+        "description": "The Popular University of Nicaragua (Spanish: Universidad Popular de Nicaragua (UPONIC)) is a private university located in Managua, Nicaragua, founded in 1992."
     },
     {
         "wikidata_id": "Q16968756",
@@ -190,7 +206,8 @@
         "aliases": null,
         "latitude": 12.10154,
         "longitude": -86.26508,
-        "type": "university"
+        "type": "university",
+        "description": "Thomas More Universitas (Spanish: Universidad Thomas More (UTM)) is a private, Catholic university located in Managua, Nicaragua. It was founded in 1997 and is one of the 46 universities accredited by the National University Council (Consejo Nacional de Universidades, CNU). The founder of the university, Silvio De Franco, was a former Secretary of Education under President Violeta Chamorro's democratic government."
     },
     {
         "wikidata_id": "Q7894291",
@@ -206,7 +223,8 @@
         ],
         "latitude": 12.9235749,
         "longitude": -85.9222955,
-        "type": "university"
+        "type": "university",
+        "description": "The National Agrarian University (Spanish: Universidad Nacional Agraria, UNA) is a public university in Managua, Nicaragua.\nThe National Agrarian University has its roots in the National School of Agriculture (Spanish: Escuela Nacional de Agricultura), established on May 25, 1917. It was incorporated in 1986, by presidential decree, into the National Autonomous University of Nicaragua as the Institute of Agricultural Sciences (ISCA)."
     },
     {
         "wikidata_id": "Q7894255",
@@ -216,7 +234,8 @@
         "aliases": null,
         "latitude": 12.1268673,
         "longitude": -86.303594,
-        "type": "university"
+        "type": "university",
+        "description": "The Central University of Nicaragua (Spanish: Universidad Central de Nicaragua, UCN) is a private university in Nicaragua. \nFounded in 1998, UCN has been accredited and recognized by the Nicaraguan Ministry of Education, and has also been internationally accredited by the UK-based Accreditation Service for International Colleges and Universities (ASIC)."
     },
     {
         "wikidata_id": "Q21054815",
@@ -226,7 +245,8 @@
         "aliases": null,
         "latitude": 12.12566,
         "longitude": -86.27126,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894322",
@@ -236,7 +256,8 @@
         "aliases": null,
         "latitude": 12.1232,
         "longitude": -86.25246,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Commercial Sciences (Spanish: Universidad de Ciencias Comerciales) (UCC), is a private university located in Managua, Nicaragua which was founded in 1964."
     },
     {
         "wikidata_id": "Q7894299",
@@ -250,7 +271,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3847544",
@@ -264,7 +286,8 @@
         ],
         "latitude": 12.13182,
         "longitude": -86.26982,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Engineering (Spanish: Universidad Nacional de Ingeniería, UNI) is located in Managua, Nicaragua. It is acknowledged by its meticulous and selective admission system, through a high difficulty exam with top components of math and physics. The average acceptance rate is about 6% out of a pool of more than 2,000 applicants per year."
     },
     {
         "wikidata_id": "Q7894304",
@@ -274,7 +297,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Paulo Freire (UPF) is a university in Managua, Nicaragua, with branches in Managua, San Marcos, Carazo, San Carlos, Río San Juan. It is named after Brazilian educator Paulo Freire.\nThe UPF was established in 1998 as the Paulo Freire University Institute (IPF) and has operated as an accredited university since 2002."
     },
     {
         "wikidata_id": "Q17088221",
@@ -284,7 +308,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896692",
@@ -297,7 +322,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17632387",
@@ -307,6 +333,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

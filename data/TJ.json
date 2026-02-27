@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135965716",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": 38.561045,
         "longitude": 68.797858,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q56703595",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": 38.55168,
         "longitude": 68.82327,
-        "type": "university"
+        "type": "university",
+        "description": "The Academy of the Ministry of Internal Affairs of Tajikistan (Tajik: Академияи Вазорати корҳои дохилии Ҷумҳурии Тоҷикистон) is a higher military institution in the Armed Forces of the Republic of Tajikistan which serves to train future soldiers and officers of the Internal Troops of the Ministry of Internal Affairs of Tajikistan. The academic year runs from September to July, with the tuition at the school is US$400–800 per student depending on their department.\nIt was founded in 2000 as a result of the renovation of the MVD Higher School of Mechanical Engineering, which was founded in 1991 on the basis of a department of higher education of the USSR based in Tashkent in the USSR. At the time of its founding, it was one of the first MVD academies in Tajikistan and Central Asia."
     },
     {
         "wikidata_id": "Q650473",
@@ -37,7 +40,8 @@
         "aliases": null,
         "latitude": 38.6094,
         "longitude": 68.7869,
-        "type": "university"
+        "type": "university",
+        "description": "Tajik Agrarian University 'S. Shotemur' (TAU) (Russian: Таджикский аграрный университет им. Ш. Шотемура; Tajik: Донишгоҳи аграрии Тоҷикистон ба номи Ш. Шотемур) is a university in Tajikistan, in the capital of Dushanbe."
     },
     {
         "wikidata_id": "Q25584841",
@@ -47,7 +51,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q25593364",
@@ -59,7 +64,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4201662",
@@ -69,7 +75,8 @@
         "aliases": null,
         "latitude": 38.57306,
         "longitude": 68.78639,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25585520",
@@ -79,7 +86,8 @@
         "aliases": null,
         "latitude": 38.5660302,
         "longitude": 68.790191,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7676818",
@@ -89,7 +97,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Tajikistan Humanitarian International University is a university in Tajikistan. It is located in Dushanbe."
     },
     {
         "wikidata_id": "Q97233007",
@@ -99,7 +108,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6402464",
@@ -109,7 +119,8 @@
         "aliases": null,
         "latitude": 37.4919,
         "longitude": 71.5529,
-        "type": "university"
+        "type": "university",
+        "description": "Khorugh State University (also known as Khorog State University), is a public university located in Khorugh, GBAO, Tajikistan. It is located in the center of Khorugh (the capital of GBAO), the only urban center in the region. The university has an enrollment of approximately 4,000 students, both full-time (daytime) and students studying by correspondence."
     },
     {
         "wikidata_id": "Q2083886",
@@ -121,7 +132,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Khujand State University (Russian: Худжандский государственный университет; Tajik: Донишгоҳи Давлатии Хуҷанд) - was founded in 1932 in Khujand (formerly Leninabad), Tajikistan. First it was known as a High Pedagogical Institute. During the Soviet era, Khujand State University was known as Leninabad State Pedagogical Institute."
     },
     {
         "wikidata_id": "Q20612942",
@@ -131,7 +143,8 @@
         "aliases": null,
         "latitude": 37.9155556,
         "longitude": 69.7869444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25612234",
@@ -141,7 +154,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Military Institute of the Ministry of Defense of Tajikistan is a higher military educational institution in the national education system of the Armed Forces of the Republic of Tajikistan. It was formerly named after Sangak Safarov, who served as the head of the Popular Front of Tajikistan."
     },
     {
         "wikidata_id": "Q13201252",
@@ -151,7 +165,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4483859",
@@ -161,7 +176,8 @@
         "aliases": null,
         "latitude": 38.579437,
         "longitude": 68.789978,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20610029",
@@ -173,7 +189,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q131378473",
@@ -183,7 +200,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q131378892",
@@ -193,7 +211,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q135974482",
@@ -203,7 +222,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974483",
@@ -213,7 +233,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974484",
@@ -223,7 +244,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974485",
@@ -233,7 +255,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974486",
@@ -243,7 +266,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974488",
@@ -253,7 +277,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974489",
@@ -263,7 +288,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974490",
@@ -273,7 +299,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974522",
@@ -283,7 +310,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974530",
@@ -293,7 +321,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974531",
@@ -303,7 +332,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974532",
@@ -313,7 +343,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974533",
@@ -323,7 +354,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974534",
@@ -333,7 +365,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974535",
@@ -343,7 +376,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974536",
@@ -353,7 +387,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974537",
@@ -363,7 +398,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974538",
@@ -373,7 +409,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974585",
@@ -383,7 +420,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974586",
@@ -393,7 +431,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974587",
@@ -403,7 +442,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974589",
@@ -413,7 +453,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974590",
@@ -423,7 +464,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974591",
@@ -433,7 +475,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974592",
@@ -443,7 +486,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974594",
@@ -453,7 +497,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974615",
@@ -463,7 +508,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974616",
@@ -473,7 +519,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974617",
@@ -483,7 +530,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974618",
@@ -493,7 +541,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974619",
@@ -503,7 +552,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974620",
@@ -513,7 +563,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974621",
@@ -523,7 +574,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974622",
@@ -533,7 +585,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974623",
@@ -543,7 +596,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974624",
@@ -553,7 +607,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974653",
@@ -563,7 +618,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974654",
@@ -573,7 +629,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135974733",
@@ -583,7 +640,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q14644297",
@@ -593,7 +651,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25612263",
@@ -603,7 +662,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6412674",
@@ -613,7 +673,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25584559",
@@ -625,7 +686,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q105303665",
@@ -635,7 +697,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Abuabdullo Rudaki Institute of Language and Literature (Tajik: Институти забон ва адабиёт ба номи А. Рӯдакӣ, romanized: Instituti Zabon va Adabiyot ba nomi A. Rūdakī; Russian: Институт языка и литературы имени А. Рудаки; Persian: انستیتوت زبان و ادبیات به نام ا. رودکی) is the regulatory body for the Tajik variety of Persian language, headquartered in Dushanbe, Tajikistan. It is one of the oldest research institutes in the Tajik Academy of Sciences; it acts as the official authority on the language and contributes to linguistic research on the Tajik language and other languages of Tajikistan."
     },
     {
         "wikidata_id": "Q2669434",
@@ -645,7 +708,8 @@
         "aliases": null,
         "latitude": 38.5751,
         "longitude": 68.7927,
-        "type": "university"
+        "type": "university",
+        "description": "Russian-Tajik Slavonic University (RTSU), also known as Russian-Tajik University (Russian: Российско-Таджикский Университет), is a university in Tajikistan located in Dushanbe. The university was a result of cooperation between the Russian and Tajik governments. The majority of the students come from Russian families living in Tajikistan and the others are from Tajik and Uzbek families."
     },
     {
         "wikidata_id": "Q1528756",
@@ -657,7 +721,8 @@
         ],
         "latitude": 38.589491,
         "longitude": 68.773143,
-        "type": "university"
+        "type": "university",
+        "description": "Tajik National University is the largest university and the only national university in Tajikistan. It has been ranked as one of the most prestigious universities in Central Asia since its inception. \nThe head office of the university is located in the capital city of Tajikistan."
     },
     {
         "wikidata_id": "Q13202305",
@@ -669,7 +734,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4449707",
@@ -681,7 +747,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4449705",
@@ -691,7 +758,8 @@
         "aliases": null,
         "latitude": 38.6018,
         "longitude": 68.7854,
-        "type": "university"
+        "type": "university",
+        "description": "Avicenna Tajik State Medical University (Tajik: Донишгоҳи давлатии тиббии Тоҷикистон, romanized: Donishgohi davlatii tibbii Tojikiston; Russian: Таджикский государственный медицинский университет, romanized: Tadzhikskiy gosudarstvennyy meditsinskiy universitet)  is a state acreditted university in Tajikistan. Established in 1939, it is located in Dushanbe and named after the Persian polymath Abuali Ibni Sino (also spelled Avicenna)."
     },
     {
         "wikidata_id": "Q2617399",
@@ -701,7 +769,8 @@
         "aliases": null,
         "latitude": 38.5935,
         "longitude": 68.7858,
-        "type": "university"
+        "type": "university",
+        "description": "Tajik State Pedagogical University (Russian: Таджикский государственный педагогический университет имени С. Айни, romanized: Tadzhikskiy gosudarstvennyy pedagogicheskiy universitet imeni S. Ayni; Tajik: Донишгоҳи давлатии омӯзгории Тоҷикистон ба номи С. Айнӣ, romanized: Donishgohi davlatii omūzgorii Tojikiston ba nomi S. Aynī) is a university in Tajikistan. It is located in Dushanbe at 121 Rudaki Street."
     },
     {
         "wikidata_id": "Q2507812",
@@ -711,7 +780,8 @@
         "aliases": null,
         "latitude": 38.5326,
         "longitude": 68.7583,
-        "type": "university"
+        "type": "university",
+        "description": "Tajik State University of Commerce (Tajik: Донишгоҳи давлатии тиҷорати Тоҷикистон, romanized: Donishgohi davlatii tijoratii Tojikiston, Russian: Таджикский государственный университет коммерции, romanized: Tadzhikskiy gosudarstvennyy universitet kommertsii) is an economics university located in Dushanbe, Tajikistan."
     },
     {
         "wikidata_id": "Q4449709",
@@ -726,7 +796,8 @@
         ],
         "latitude": 38.565343,
         "longitude": 68.789355,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13201243",
@@ -739,7 +810,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2352359",
@@ -749,7 +821,8 @@
         "aliases": null,
         "latitude": 40.3043056,
         "longitude": 69.6118889,
-        "type": "university"
+        "type": "university",
+        "description": "Tajikistan State University of Law, Business, & Politics - TSULBP (Original: Донишгоҳи Давлатии Ҳуқуқ, Бизнес, ва Сиёсати Тоҷикистон - ДДҲБСТ) is one of several state-funded, five-year universities of higher education in the region of Sughd in Tajikistan. Located in Khujand, the school offers bachelor's and master's degrees as well as post-graduate education."
     },
     {
         "wikidata_id": "Q16873393",
@@ -759,7 +832,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10970935",
@@ -769,7 +843,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103021072",
@@ -779,7 +854,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25581687",
@@ -789,6 +865,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     }
 ]

@@ -11,7 +11,8 @@
         ],
         "latitude": 1.607172,
         "longitude": 10.8591555,
-        "type": "university"
+        "type": "university",
+        "description": "The Afro-American University of Central Africa (Universidad Afro-Americana de África Central) is an Equatorial Guinea public institution of higher education, the second university to be created in the Republic of Equatorial Guinea in Central Africa.\nIts accreditation is planned to be submitted to the WASC Senior College and University Commission (WASCUC) in the USA assisted by affiliated members in the US, Mexico and Kenya. Equatorial Guinea is affiliated to CAMES (Conseil Africain et Malgache pour l’Enseignement Supérieur), a subregional African accreditation agency which gathers some 19 Franco-lusophone countries."
     },
     {
         "wikidata_id": "Q107350957",
@@ -21,7 +22,8 @@
         "aliases": null,
         "latitude": 1.8683119,
         "longitude": 9.7679544,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5142860",
@@ -36,7 +38,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Colegio Nacional Enrique Nvó Okenve (or Enrique Nvó Okenve National College) is a college in Equatorial Guinea. The college has two campuses, based in the cities of Bata (seat) and Malabo.\nIt was originally created in 1959, under Spanish colonial administration, under the name of Centro Laboral La Salle de Bata."
     },
     {
         "wikidata_id": "Q3291919",
@@ -50,6 +53,7 @@
         ],
         "latitude": 3.7468,
         "longitude": 8.7752,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Equatorial Guinea (UNGE, Spanish: Universidad Nacional de Guinea Ecuatorial) is a public institution of higher education, being one of the main universities of Equatorial Guinea in Central Africa.\nIt has a main campus in Malabo as well as a unit in Bata. Its current Rector is Filiberto Ntutumu Nguema Nchama."
     }
 ]

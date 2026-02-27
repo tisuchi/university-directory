@@ -9,7 +9,8 @@
         ],
         "latitude": -22.569,
         "longitude": 17.083,
-        "type": "university"
+        "type": "university",
+        "description": "The College of the Arts (COTA) is an institution of arts education in Windhoek, the capital of Namibia. In 2011, it employed 39 lecturers full-time and 75 on a part-time basis. The institution had 450 students studying towards a diploma, a further 650 enrolled in fee-financed courses, and 4,800 students participated in community-based programs organised by the college."
     },
     {
         "wikidata_id": "Q1667019",
@@ -22,7 +23,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The International University of Management (IUM) is a private, state-recognized university based in Windhoek, Namibia. It has campuses in Swakopmund, Walvis Bay, Ongwediva, Nkurenkuru and Eenhana."
     },
     {
         "wikidata_id": "Q488696",
@@ -35,7 +37,8 @@
         ],
         "latitude": -22.5652778,
         "longitude": 17.0769444,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Namibia University of Science and Technology (NUST), formerly known as Polytechnic of Namibia, is a public university located in the city of Windhoek, Namibia. NUST was headed by the founding vice-chancellor Tjama Tjivikua until March 2019. After two acting appointments, Erold Naomab was appointed vice-chancellor in January 2021."
     },
     {
         "wikidata_id": "Q2016224",
@@ -45,7 +48,8 @@
         "aliases": null,
         "latitude": -17.47,
         "longitude": 15.33,
-        "type": "university"
+        "type": "university",
+        "description": "The Ogongo  Agricultural College is a college in Ogongo in the Omusati Region of northern Namibia. The college was founded in 1973 to train locals in agriculture. The college was closed between 1988 and 1992 due to civil disorder."
     },
     {
         "wikidata_id": "Q42313826",
@@ -55,7 +59,8 @@
         "aliases": null,
         "latitude": -22.5742,
         "longitude": 17.11,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q220226",
@@ -69,7 +74,8 @@
         ],
         "latitude": -22.6111111,
         "longitude": 17.0575,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Namibia (UNAM) is a multi-campus public research university in Namibia, and the largest university in the country. It was established by an act of Parliament on 31 August 1992."
     },
     {
         "wikidata_id": "Q100946768",
@@ -79,7 +85,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946769",
@@ -89,7 +96,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946770",
@@ -99,7 +107,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q113074741",
@@ -111,6 +120,7 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

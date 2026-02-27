@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The American International School of Medicine (AISM) is a private medical school with its main campus in Georgetown, Guyana, and a US information office in Atlanta, Georgia. Clinical placements in the United States of America, United Kingdom, India, Canada, and some sites in Africa. Graduates obtain a Medical Doctorate upon successful completion of the four or five years of didactic education and training candidates earn the doctor of medicine degree to exit the medical program successfully."
     },
     {
         "wikidata_id": "Q47001906",
@@ -19,7 +20,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5200848",
@@ -29,7 +31,8 @@
         "aliases": null,
         "latitude": 6.817481,
         "longitude": -58.114577,
-        "type": "university"
+        "type": "university",
+        "description": "The Cyril Potter College of Education (CPCE) is a higher education institution in Georgetown, Guyana. \nThe school's main campus is in Turkeyen, with an additional training center in Anna Regina."
     },
     {
         "wikidata_id": "Q31878131",
@@ -39,7 +42,8 @@
         "aliases": null,
         "latitude": 5.5666667,
         "longitude": -57.7833333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25053183",
@@ -49,7 +53,8 @@
         "aliases": null,
         "latitude": 6.80517,
         "longitude": -58.16404,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q23807974",
@@ -59,7 +64,8 @@
         "aliases": null,
         "latitude": 6.8066667,
         "longitude": -58.155,
-        "type": "university"
+        "type": "university",
+        "description": "Georgetown American University is a private healthcare-oriented university in Georgetown, Guyana established in 2013.\nThe first students enrolled in June 2014, and their first graduation was 2018."
     },
     {
         "wikidata_id": "Q5622745",
@@ -69,7 +75,8 @@
         "aliases": null,
         "latitude": 6.79027,
         "longitude": -58.05938,
-        "type": "college"
+        "type": "college",
+        "description": "The Guyana School of Agriculture (GSA) is a post-secondary college of agricultural education in Guyana, established in 1963 by Dr. Cheddi Jagan. It became a state corporation in 1964 (1964)."
     },
     {
         "wikidata_id": "Q48816231",
@@ -81,7 +88,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17111408",
@@ -91,7 +99,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Texila American University (TAU) is a private medical university located in Providence, East Bank Demerara, Guyana. Established in 2010, it offers undergraduate, graduate, and postgraduate programs in medicine, public health, nursing, business, and related fields approved and regulated by the National Accreditation Council of Guyana (NACG). The university is accredited by the Accreditation Commission on Colleges of Medicine (ACCM) and is listed in the World Directory of Medical Schools (WDOMS)."
     },
     {
         "wikidata_id": "Q1502975",
@@ -101,7 +110,8 @@
         "aliases": null,
         "latitude": 6.812254,
         "longitude": -58.117064,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Guyana, in Georgetown, Guyana, is Guyana's national and most prestigious higher education institution. It was established in April 1963 and was the first National university of a Caribbean nation. The university has the following Mission: \"To discover, generate, disseminate, and apply knowledge of the highest standard for the service of the community, the nation, and of all mankind within an atmosphere of academic freedom that allows for free and critical enquiry.\"\nThe University of Guyana offers more than 180 undergraduate and graduate programmes in over 80 disciplines."
     },
     {
         "wikidata_id": "Q100946428",
@@ -111,7 +121,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946430",
@@ -121,7 +132,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946431",
@@ -131,7 +143,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946434",
@@ -141,6 +154,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     }
 ]

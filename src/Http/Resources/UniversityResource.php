@@ -18,6 +18,7 @@ class UniversityResource extends JsonResource
             'type' => $this->type?->value,
             'aliases' => $this->aliases,
             'official_website' => $this->official_website,
+            'description' => $this->description,
         ];
     }
 }

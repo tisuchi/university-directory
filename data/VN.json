@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 21.0262508,
         "longitude": 105.8115303,
-        "type": "university"
+        "type": "university",
+        "description": "Academy of Public Administration and Governance (APAG; Vietnamese: Học viện Hành chính và Quản trị công), formerly National Academy of Public Administration (NAPA), is a special-class public service unit within Vietnam's national education system, operating under the Ho Chi Minh National Academy of Politics. As a key national academy, it holds legal status and serves as Vietnam's central institution for training and fostering officials, civil servants, and state managers in public administration, leadership, and management. NAPA also conducts research and provides policy consultation for the Ministry of Home Affairs and the Government of Vietnam."
     },
     {
         "wikidata_id": "Q4750013",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": 10.3718,
         "longitude": 105.431,
-        "type": "university"
+        "type": "university",
+        "description": "VNU-HCM An Giang University (AGU; Vietnamese: Trường Đại học An Giang, Đại học Quốc gia Thành phố Hồ Chí Minh) is a Vietnamese public university based in the city of Long Xuyen in An Giang Province. With over 10,000 enrolled students annually, it is one of the major educational and research institutions in the Mekong Delta region of Vietnam."
     },
     {
         "wikidata_id": "Q137769519",
@@ -29,7 +31,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10829018",
@@ -41,7 +44,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829118",
@@ -51,7 +55,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Bac Ha International University (Vietnamese: Đại học Quốc tế Bắc Hà) is a private university north-east of Hanoi, Vietnam. Bac Ha International University  BHIU was established under the Prime Minister's Decision no. 1369\/QD-TTg dated October 10, 2007, with the mandate of training human resources in the fields of Information Technology, Telecommunication–Electronics Engineering, Banking and Finance, Accounting."
     },
     {
         "wikidata_id": "Q10829143",
@@ -64,7 +69,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10771894",
@@ -78,7 +84,8 @@
         ],
         "latitude": 21.0088484,
         "longitude": 105.8286961,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4856328",
@@ -88,7 +95,8 @@
         "aliases": null,
         "latitude": 10.8584,
         "longitude": 106.763,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10805714",
@@ -100,7 +108,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5029090",
@@ -110,7 +119,8 @@
         "aliases": null,
         "latitude": 10.0323,
         "longitude": 105.768,
-        "type": "university"
+        "type": "university",
+        "description": "Can Tho University (Vietnamese: Đại học Cần Thơ) is a public research university in Can Tho, Vietnam. Established in 1966, it is a multidisciplinary university and a leading university in the Mekong Delta. Can Tho University is a leading agricultural research center in Vietnam."
     },
     {
         "wikidata_id": "Q20026263",
@@ -120,7 +130,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5065626",
@@ -133,7 +144,8 @@
         ],
         "latitude": 10.7294,
         "longitude": 106.695,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5207275",
@@ -143,7 +155,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Đà Nẵng University of Architecture (in Vietnamese: Đại học Kiến trúc Đà Nẵng) is a private university in Đà Nẵng city, Central Vietnam. It was established on November 27, 2006."
     },
     {
         "wikidata_id": "Q5207273",
@@ -153,7 +166,8 @@
         "aliases": null,
         "latitude": 16.0477778,
         "longitude": 108.2391667,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Economics - The University of Da Nang (Vietnamese: Trường Đại học Kinh tế - Đại học Đà Nẵng), or Da Nang University of Economics (DUE), is a university located in Da Nang, Vietnam. It was formerly known as University of Economics and Business Administration (Vietnamese: Trường Đại học Kinh tế và Quản trị Kinh doanh). This university is a member of regional university system — University of Da Nang."
     },
     {
         "wikidata_id": "Q10829144",
@@ -163,7 +177,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5207276",
@@ -175,7 +190,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Da Nang University of Science and Technology (DUT; Vietnamese: Trường Đại học Bách khoa, Đại học Đà Nẵng), or UDN University of Science and Technology, is one of the most important universities of technology in Vietnam.\nThe university is a member of University of Da Nang system."
     },
     {
         "wikidata_id": "Q10829182",
@@ -187,7 +203,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q126897739",
@@ -197,7 +214,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3177493",
@@ -207,7 +225,8 @@
         "aliases": null,
         "latitude": 11.9556389,
         "longitude": 108.4428583,
-        "type": "university"
+        "type": "university",
+        "description": "Dalat University or the University of Dalat (Vietnamese: Đại học Đà Lạt, French: Université de Dalat; formerly Viện Đại học Đà Lạt (1957–1975)) is a university in the city of Đà Lạt, capital of Lâm Đồng Province, Vietnam."
     },
     {
         "wikidata_id": "Q109435303",
@@ -217,7 +236,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q24884974",
@@ -227,7 +247,8 @@
         "aliases": null,
         "latitude": 10.9595,
         "longitude": 106.8615,
-        "type": "university"
+        "type": "university",
+        "description": "Dong Nai University (DNU) is a public university located in Biên Hòa, Đồng Nai Province, Vietnam (Vietnamese: Trường Đại học Đồng Nai). Dong Nai University is directly under the People's Committee of Dong Nai province and is supervised by the Ministry of Education and Training. The university provides undergraduate education for the domestic students as well as the international students from neighboring countries such as Laos and Cambodia."
     },
     {
         "wikidata_id": "Q101000030",
@@ -237,7 +258,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30263747",
@@ -253,7 +275,8 @@
         ],
         "latitude": 10.420858,
         "longitude": 105.642929,
-        "type": "university"
+        "type": "university",
+        "description": "Dong Thap University (DThU) (Vietnamese: Đại học Đồng Tháp) is a Vietnamese public university based in the city of Cao Lãnh in Đồng Tháp province. It is one of the educational and research institutions in the Mekong Delta region of Vietnam."
     },
     {
         "wikidata_id": "Q5317667",
@@ -263,7 +286,8 @@
         "aliases": null,
         "latitude": 16.0601,
         "longitude": 108.21,
-        "type": "university"
+        "type": "university",
+        "description": "Duy Tân University (Vietnamese: Đại học Duy Tân) is a private research university in Da Nang, Vietnam. The name derives from the Modernisation Movement, or phong trào Duy Tân, of 1906–1908.  In 2019, the school was awarded the \"First Class Labor Medal\" (\"Huân chương Lao động hạng Nhất\")."
     },
     {
         "wikidata_id": "Q5357466",
@@ -273,7 +297,8 @@
         "aliases": null,
         "latitude": 21.0468,
         "longitude": 105.785,
-        "type": "university"
+        "type": "university",
+        "description": "Electric Power University (EPU) in Vietnamese Trường Đại học Điện Lực is a public university in Hanoi, Vietnam."
     },
     {
         "wikidata_id": "Q5468340",
@@ -285,7 +310,8 @@
         ],
         "latitude": 21.023,
         "longitude": 105.805,
-        "type": "university"
+        "type": "university",
+        "description": "Foreign Trade University (FTU; Vietnamese: Trường Đại học Ngoại thương) is a public university established in 1960, located in Hanoi, Vietnam, with satellite campuses in Ho Chi Minh City and Quảng Ninh. \nFTU is regarded as one of the most prestigious universities in Vietnam, offering a wide range of business courses - from economics, business administration, and finance to economic law and business languages. The annual admission to FTU is the most competitive in Vietnam and applicants are required to have very high test scores."
     },
     {
         "wikidata_id": "Q610220",
@@ -295,7 +321,8 @@
         "aliases": null,
         "latitude": 21.0136667,
         "longitude": 105.5272778,
-        "type": "university"
+        "type": "university",
+        "description": "FPT University is a private university in Vietnam. FPT University is a member of FPT Group and has campuses in Hanoi (main), Ho Chi Minh City, Da Nang, Can Tho and Quy Nhon (in progress)."
     },
     {
         "wikidata_id": "Q10829051",
@@ -307,7 +334,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5638944",
@@ -319,7 +347,8 @@
         ],
         "latitude": 20.8398,
         "longitude": 106.688,
-        "type": "university"
+        "type": "university",
+        "description": "Haiphong University (Vietnamese: Trường Đại học Hải Phòng) is a public university established on 22 July 1959 in Haiphong. In 2000, this university was merged with some other higher institutions in Haiphong to become Haiphong University of Education. On 9 April 2004, the Prime Minister of Vietnam signed edict 60\/2004\/QĐ-TTg, to rename this university Haiphong University."
     },
     {
         "wikidata_id": "Q10829035",
@@ -332,7 +361,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000053",
@@ -342,7 +372,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6131246",
@@ -354,7 +385,8 @@
         ],
         "latitude": 20.98067,
         "longitude": 105.78977,
-        "type": "university"
+        "type": "university",
+        "description": "Hanoi Architectural University (also known as Hanoi University of Architecture; Vietnamese: Đại học Kiến trúc Hà Nội) is the flagship university in architecture, planning, and civil engineering education and research in Vietnam. It was established in 1969 under the administration of Vietnam Ministry of Architecture (now the Vietnam Ministry of Construction). The school's predecessor was the Architecture Faculty of Hanoi University of Construction."
     },
     {
         "wikidata_id": "Q3815307",
@@ -366,7 +398,8 @@
         ],
         "latitude": 21.022136,
         "longitude": 105.842789,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10828782",
@@ -376,7 +409,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30257165",
@@ -386,7 +420,8 @@
         "aliases": null,
         "latitude": 21.0214811,
         "longitude": 105.8094532,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000057",
@@ -396,7 +431,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000059",
@@ -406,7 +442,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5649329",
@@ -418,7 +455,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Hanoi National University of Education (HNUE; Vietnamese: Trường Đại học Sư phạm Hà Nội) is a public university in Vietnam. Established in 1951 as the fourth university in Vietnam (after Indochina Medical College (1902), University of Indochina (1904), École Supérieure des Beaux-Arts de L'Indochine (1925)), it is one of the largest higher education institutions in this country. The university also operates HNUE High school for gifted students, a national high school for gifted students."
     },
     {
         "wikidata_id": "Q50309576",
@@ -430,7 +468,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829128",
@@ -442,7 +481,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829049",
@@ -454,7 +494,8 @@
         ],
         "latitude": 20.9897,
         "longitude": 105.7952,
-        "type": "university"
+        "type": "university",
+        "description": "Hanoi University (HANU; Vietnamese: Trường Đại học Hà Nội) (formerly Hanoi University of Foreign Studies), established in 1959 in Hanoi, is an institution for foreign language training and research.\nHanoi University offers bachelor's degrees in 10 languages including English, Chinese, Japanese, Korean, Russian, French, German, Spanish, Italian and Portuguese.\nAmong these, Masters and PhDs are offered in Russian, English, French and Chinese."
     },
     {
         "wikidata_id": "Q5649335",
@@ -464,7 +505,8 @@
         "aliases": null,
         "latitude": 21.0045995,
         "longitude": 105.9386515,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829134",
@@ -474,7 +516,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000061",
@@ -484,7 +527,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16892082",
@@ -497,7 +541,8 @@
         ],
         "latitude": 21.0541,
         "longitude": 105.735,
-        "type": "university"
+        "type": "university",
+        "description": "Hanoi University of Industry (Vietnamese: Đại học Công nghiệp Hà Nội), also known by the abbreviation HaUI, is a public technical university in Hanoi, Vietnam. Founded 1898, the university was one of the first technical schools to be established in the country and has since become a comprehensive research university."
     },
     {
         "wikidata_id": "Q10829093",
@@ -509,7 +554,8 @@
         ],
         "latitude": 21.0734,
         "longitude": 105.7738,
-        "type": "university"
+        "type": "university",
+        "description": "Hanoi University of Mining and Geology (Vietnamese: Trường Đại học Mỏ - Địa chất Hà Nội) is a university in the Bắc Từ Liêm district of Hanoi, the capital of Vietnam. It trains future technical experts in the exploration and exploitation of natural resources, as well as in the protection of mining and geological environments. The university also serves as a center for research and technology transfer in geology, petroleum, surveying, and mining."
     },
     {
         "wikidata_id": "Q18461615",
@@ -521,7 +567,8 @@
         ],
         "latitude": 21.0463333,
         "longitude": 105.7624444,
-        "type": "university"
+        "type": "university",
+        "description": "Hanoi University of Natural Resources and Environment ( Vietnamese: Đại học Tài nguyên và Môi trường Hà Nội ) is a public university under the Ministry of Natural Resources and Environment and under the state management of the Ministry of Education and Training. The university is one of the National Key Universities of Vietnam.\nThe university has two campuses: Hanoi (main campus) and Thanh Hóa."
     },
     {
         "wikidata_id": "Q16944333",
@@ -534,7 +581,8 @@
         ],
         "latitude": 21.0215712,
         "longitude": 105.8580775,
-        "type": "university"
+        "type": "university",
+        "description": "Hanoi University of Pharmacy, formerly Indochina Medicine School, located in Hanoi, Vietnam, was established by decree of the French government signed by Indochina General Governor Paul Doumer on 8 January 1902. The school was responsible for training doctors, Indochina pharmacists and research in tropical diseases.\nThis building was home to the country's first business school."
     },
     {
         "wikidata_id": "Q5649327",
@@ -546,7 +594,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Hanoi University of Public Health (Vietnamese: Trường Đại học Y tế công cộng) is a university in Vietnam specializing in Public Health Training and Research. It was established in 2001. The university is located at Thang Road, Dong Ngac Ward, Hanoi."
     },
     {
         "wikidata_id": "Q5649339",
@@ -558,7 +607,8 @@
         ],
         "latitude": 20.9959,
         "longitude": 105.808,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3075696",
@@ -568,7 +618,8 @@
         "aliases": null,
         "latitude": 21.0063889,
         "longitude": 105.8430556,
-        "type": "university"
+        "type": "university",
+        "description": "The Hanoi University of Science and Technology (HUST; Vietnamese: Đại học Bách khoa Hà Nội, lit. 'Hanoi Polytechnic', formerly known in English as Hanoi University of Technology (HUT) until 2010) is the first and largest technical university and the most prestigious university in Vietnam."
     },
     {
         "wikidata_id": "Q101000065",
@@ -578,7 +629,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000073",
@@ -588,7 +640,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000074",
@@ -598,7 +651,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000077",
@@ -608,7 +662,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000081",
@@ -618,7 +673,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000084",
@@ -628,7 +684,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000087",
@@ -638,7 +695,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000088",
@@ -648,7 +706,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000090",
@@ -658,7 +717,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19645950",
@@ -668,7 +728,8 @@
         "aliases": null,
         "latitude": 9.922,
         "longitude": 106.347,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3037890",
@@ -678,7 +739,8 @@
         "aliases": null,
         "latitude": 10.7821,
         "longitude": 106.694,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5873944",
@@ -688,7 +750,8 @@
         "aliases": null,
         "latitude": 10.7666667,
         "longitude": 106.7,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q877269",
@@ -698,7 +761,8 @@
         "aliases": null,
         "latitude": 10.8029,
         "longitude": 106.694,
-        "type": "university"
+        "type": "university",
+        "description": "Ho Chi Minh City University of Fine Arts (Vietnamese: Đại học Mỹ thuật Thành phố Hồ Chí Minh) is a university in Bình Thạnh District, Ho Chi Minh City, Vietnam. The predecessor of this school was the École des Dessins, founded by André Joyeux in 1913, which became the École des Arts appliqués de Gia Đinh (Trung học Trang trí Mỹ thuật Gia Định) from 1940 to 1971.\nUnder the administration of the Republic of Vietnam, from 1971, the school was upgraded to become Saigon College of Fine Arts."
     },
     {
         "wikidata_id": "Q10832782",
@@ -708,7 +772,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5873959",
@@ -727,7 +792,8 @@
         ],
         "latitude": 10.8777,
         "longitude": 106.802,
-        "type": "university"
+        "type": "university",
+        "description": "Ho Chi Minh City International University (HCMIU; Vietnamese: Trường Đại học Quốc tế, Đại học Quốc gia Thành phố Hồ Chí Minh), or VNU-HCM International University, is the first and the only public research university in Vietnam that offers programs taught entirely in English. Established in 2003, it is now becoming as one of the leading research powerhouses in Vietnam. The university is affiliated to the Vietnam National University, Ho Chi Minh City (VNU-HCM)."
     },
     {
         "wikidata_id": "Q10829094",
@@ -739,7 +805,8 @@
         ],
         "latitude": 10.7611111,
         "longitude": 106.6922222,
-        "type": "university"
+        "type": "university",
+        "description": "Ho Chi Minh City Open University (Vietnamese: Đại học Mở Thành phố Hồ Chí Minh) is a public university located in District 3, Ho Chi Minh City, Vietnam. This is the first open university in Vietnam. The university was initially Ho Chi Minh City Open and Semi-Private University established on June 15, 1990, obtaining the present name on June 26, 2006."
     },
     {
         "wikidata_id": "Q5873981",
@@ -749,7 +816,8 @@
         "aliases": null,
         "latitude": 10.8058,
         "longitude": 106.731,
-        "type": "university"
+        "type": "university",
+        "description": "Ho Chi Minh City University of Culture is a university in Thảo Điền, Thủ Đức, Ho Chi Minh City. This university includes programs for Journalism, Tourism, Museum Management, Information - Library Management, Culture Management, Folk Culture, Cultural Studies, Traditional Culture, and Asian Culture."
     },
     {
         "wikidata_id": "Q10829073",
@@ -759,7 +827,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000113",
@@ -769,7 +838,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5873989",
@@ -779,7 +849,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Ho Chi Minh City University of Foreign Languages - Information Technology (abbreviation: HUFLIT) is a university located at 828 Su Van Hanh, District 10, Ho Chi Minh City, Vietnam. Date of foundation: October 26, 1992, according to Decision No. 616\/Ttg by the Prime Minister of the Socialist Republic of Vietnam."
     },
     {
         "wikidata_id": "Q5874003",
@@ -791,7 +862,8 @@
         ],
         "latitude": 10.7675706,
         "longitude": 106.7056752,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5873997",
@@ -804,7 +876,8 @@
         ],
         "latitude": 10.7627778,
         "longitude": 106.6813889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3101701",
@@ -816,7 +889,8 @@
         ],
         "latitude": 10.772973,
         "longitude": 106.659189,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829131",
@@ -829,7 +903,8 @@
         ],
         "latitude": 10.8499,
         "longitude": 106.7717,
-        "type": "university"
+        "type": "university",
+        "description": "Ho Chi Minh City University of Technology and Engineering, formerly Ho Chi Minh City University of Technology and Education (Abbreviation: HCMUTE, Vietnamese: Trường Đại học Công nghệ Kỹ thuật Thành phố Hồ Chí Minh) is a public university in Ho Chi Minh City, Vietnam. It is currently regarded as one of the top technical universities in Vietnam.\nThis is a public university located in Thủ Đức Ward, about 10 km (6.2 mi) north-east from downtown Ho Chi Minh City."
     },
     {
         "wikidata_id": "Q101000125",
@@ -839,7 +914,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829043",
@@ -851,7 +927,8 @@
         ],
         "latitude": 10.8046,
         "longitude": 106.7165,
-        "type": "university"
+        "type": "university",
+        "description": "Ho Chi Minh City University of Transport or University of Transport Ho Chi Minh City, abbreviated as UTH or UT-HCMC (Vietnamese: Đại học Giao thông Vận tải Thành phố Hồ Chí Minh) is a public university under the Ministry of Transport in Vietnam. The university provides associate, undergraduate and postgraduate education in various areas of transport. The main campus is in Binh Thanh District, Ho Chi Minh City."
     },
     {
         "wikidata_id": "Q10771879",
@@ -863,7 +940,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10489198",
@@ -875,7 +953,8 @@
         ],
         "latitude": 10.7615833,
         "longitude": 106.6821944,
-        "type": "university"
+        "type": "university",
+        "description": "Ho Chi Minh City University of Education (HCMUE, Vietnamese: Trường Đại học Sư phạm Thành phố Hồ Chí Minh) is a university specializing in tertiary-level training of teachers and lecturers located in District 5. \nThe university is one of two largest pedagogical universities (with Hanoi National University of Education) in Vietnam and also one of the 14 National Key Universities designated by the Government of Vietnam."
     },
     {
         "wikidata_id": "Q101000130",
@@ -885,7 +964,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1002930",
@@ -895,7 +975,8 @@
         "aliases": null,
         "latitude": 10.7704536,
         "longitude": 106.6925189,
-        "type": "university"
+        "type": "university",
+        "description": "Hoa Sen University (Vietnamese: Đại học Hoa Sen, lit. 'Lotus University') is a private university in Ho Chi Minh City, Vietnam. The predecessor of this university was Hoa Sen College."
     },
     {
         "wikidata_id": "Q661322",
@@ -908,7 +989,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1310048",
@@ -918,7 +1000,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000155",
@@ -928,7 +1011,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829127",
@@ -938,7 +1022,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829053",
@@ -948,7 +1033,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Hung Vuong University (Vietnamese: Trường Đại học Hùng Vương, HVU) is a public university in Phú Thọ Province, Vietnam. Established in 2003 as the first university in Phú Thọ Province, it is now highly renowned university in Vietnam."
     },
     {
         "wikidata_id": "Q10829017",
@@ -960,7 +1046,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122922491",
@@ -975,7 +1062,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7895548",
@@ -988,7 +1076,8 @@
         ],
         "latitude": 10.9384,
         "longitude": 106.824,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2496369",
@@ -998,7 +1087,8 @@
         "aliases": null,
         "latitude": 21.003122,
         "longitude": 105.847718,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3151786",
@@ -1010,7 +1100,8 @@
         ],
         "latitude": 10.786075,
         "longitude": 106.688103,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q106472469",
@@ -1020,7 +1111,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q137645232",
@@ -1030,7 +1122,8 @@
         "aliases": null,
         "latitude": 21.0258132,
         "longitude": 105.8230252,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q49054933",
@@ -1040,7 +1133,8 @@
         "aliases": null,
         "latitude": 10.8771213,
         "longitude": 106.6789997,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10832760",
@@ -1053,7 +1147,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10832755",
@@ -1063,7 +1158,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q54554943",
@@ -1073,7 +1169,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10832761",
@@ -1083,7 +1180,8 @@
         "aliases": null,
         "latitude": 21.047965,
         "longitude": 105.799693,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q137916776",
@@ -1093,7 +1191,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10832806",
@@ -1106,7 +1205,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10832756",
@@ -1116,7 +1216,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q137916778",
@@ -1126,7 +1227,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10832772",
@@ -1138,7 +1240,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q137916771",
@@ -1148,7 +1251,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q137916777",
@@ -1160,7 +1264,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10832781",
@@ -1170,7 +1275,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q137916785",
@@ -1180,7 +1286,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q19892791",
@@ -1190,7 +1297,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829092",
@@ -1200,7 +1308,8 @@
         "aliases": null,
         "latitude": 10.9545,
         "longitude": 106.8023,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q123425613",
@@ -1210,7 +1319,8 @@
         "aliases": null,
         "latitude": 21.8430068,
         "longitude": 106.748373,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4130078",
@@ -1224,7 +1334,8 @@
         ],
         "latitude": 21.0483,
         "longitude": 105.786,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829075",
@@ -1234,7 +1345,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17073291",
@@ -1244,7 +1356,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q61128838",
@@ -1254,7 +1367,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829166",
@@ -1266,7 +1380,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134695487",
@@ -1276,7 +1391,8 @@
         "aliases": null,
         "latitude": 10.9444444,
         "longitude": 107.1608333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134286143",
@@ -1286,7 +1402,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6972380",
@@ -1298,7 +1415,8 @@
         ],
         "latitude": 20.999722,
         "longitude": 105.844814,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000093",
@@ -1308,7 +1426,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829104",
@@ -1321,7 +1440,8 @@
         ],
         "latitude": 10.662223,
         "longitude": 106.72113,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2740474",
@@ -1331,7 +1451,8 @@
         "aliases": null,
         "latitude": 12.2703,
         "longitude": 109.2,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5873976",
@@ -1343,7 +1464,8 @@
         ],
         "latitude": 10.8713,
         "longitude": 106.7917,
-        "type": "university"
+        "type": "university",
+        "description": "Ho Chi Minh City University of Agriculture and Forestry (HCMUAF) (Vietnamese: Trường Đại học Nông Lâm Thành Phố Hồ Chí Minh), commonly known as Nong Lam University (NLU), is a comprehensive university in Linh Xuân ward, Ho Chi Minh City, Vietnam. The university offers 46 majors, such as: Agronomy, Agricultural Engineering, Forestry, Animal Sciences Fisheries, Food Technology, Environmental Science, Foreign Languages, Biological Technology, Economics, and IT, providing both graduate and postgraduate programs."
     },
     {
         "wikidata_id": "Q10829040",
@@ -1355,7 +1477,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829114",
@@ -1365,7 +1488,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829111",
@@ -1377,7 +1501,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10771881",
@@ -1387,7 +1512,8 @@
         "aliases": null,
         "latitude": 20.981,
         "longitude": 105.78708,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7234497",
@@ -1397,7 +1523,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10771896",
@@ -1407,7 +1534,8 @@
         "aliases": null,
         "latitude": 20.9668286,
         "longitude": 105.7884374,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10771903",
@@ -1417,7 +1545,8 @@
         "aliases": null,
         "latitude": 21.047039,
         "longitude": 105.8018253,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10828883",
@@ -1427,7 +1556,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829016",
@@ -1437,7 +1567,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829147",
@@ -1447,7 +1578,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10832798",
@@ -1457,7 +1589,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q118446437",
@@ -1467,7 +1600,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q122143828",
@@ -1477,7 +1611,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125375684",
@@ -1487,7 +1622,8 @@
         "aliases": null,
         "latitude": 10.16717,
         "longitude": 105.92773,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q16481353",
@@ -1499,7 +1635,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25417473",
@@ -1509,7 +1646,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q65172277",
@@ -1519,7 +1657,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2406422",
@@ -1529,7 +1668,8 @@
         "aliases": null,
         "latitude": 17.4858,
         "longitude": 106.604,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829117",
@@ -1541,7 +1681,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829025",
@@ -1551,7 +1692,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2707502",
@@ -1561,7 +1703,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7277005",
@@ -1574,7 +1717,8 @@
         ],
         "latitude": 10.75,
         "longitude": 106.6666667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7400087",
@@ -1584,7 +1728,8 @@
         "aliases": null,
         "latitude": 10.7388,
         "longitude": 106.677,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q368923",
@@ -1594,7 +1739,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q137737155",
@@ -1604,7 +1750,8 @@
         "aliases": null,
         "latitude": 10.856049,
         "longitude": 106.6298584,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7579810",
@@ -1614,7 +1761,8 @@
         "aliases": null,
         "latitude": 10.8787306,
         "longitude": 106.7952778,
-        "type": "university"
+        "type": "university",
+        "description": "Ho Chi Minh University Of Sport (Vietnamese language: Đại học Thể dục Thể thao Thành Phố Hồ Chí Minh) is a university in Ho Chi Minh City, Vietnam. The university is located in Linh Trung Ward, Thủ Đức, Ho Chi Minh City, Vietnam. The university provides education in sports and gymnastics from undergraduate to graduate and postgraduate."
     },
     {
         "wikidata_id": "Q123724532",
@@ -1624,7 +1772,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829156",
@@ -1634,7 +1783,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16480583",
@@ -1646,7 +1796,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829139",
@@ -1656,7 +1807,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10841229",
@@ -1668,7 +1820,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829125",
@@ -1678,7 +1831,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829169",
@@ -1690,7 +1844,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829082",
@@ -1700,7 +1855,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829137",
@@ -1710,7 +1866,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829136",
@@ -1720,7 +1877,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7713573",
@@ -1730,7 +1888,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The American University in Vietnam (AUV) is a private, higher-educational institution based in Da Nang City, Vietnam, offering American style college education."
     },
     {
         "wikidata_id": "Q16480294",
@@ -1740,7 +1899,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q77957779",
@@ -1752,7 +1912,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829119",
@@ -1764,7 +1925,8 @@
         ],
         "latitude": 10.8451,
         "longitude": 106.772,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10832763",
@@ -1776,7 +1938,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10829145",
@@ -1786,7 +1949,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7973360",
@@ -1799,7 +1963,8 @@
         ],
         "latitude": 21.007381,
         "longitude": 105.824519,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829149",
@@ -1809,7 +1974,8 @@
         "aliases": null,
         "latitude": 9.922,
         "longitude": 106.347,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000201",
@@ -1819,7 +1985,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000205",
@@ -1829,7 +1996,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000208",
@@ -1839,7 +2007,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000211",
@@ -1849,7 +2018,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000222",
@@ -1859,7 +2029,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000231",
@@ -1869,7 +2040,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000233",
@@ -1879,7 +2051,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000236",
@@ -1889,7 +2062,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000237",
@@ -1899,7 +2073,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000241",
@@ -1909,7 +2084,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16480704",
@@ -1919,7 +2095,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829155",
@@ -1929,7 +2106,8 @@
         "aliases": null,
         "latitude": 10.8003,
         "longitude": 106.455,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1457082",
@@ -1941,7 +2119,8 @@
         ],
         "latitude": 10.7319444,
         "longitude": 106.6991667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6134439",
@@ -1954,7 +2133,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Hanoi University of Civil Engineering (HUCE; Vietnamese: Trường Đại học Xây dựng Hà Nội), formerly known as the National University of Civil Engineering (NUCE), is a public higher education institution in Vietnam. The university is one of the leading universities and among the top seven engineering universities in Vietnam.\nHUCE is one of four universities participating in educating high-qualified engineers of Vietnamese–French courses."
     },
     {
         "wikidata_id": "Q945839",
@@ -1966,7 +2146,8 @@
         ],
         "latitude": 16.070939,
         "longitude": 108.219435,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000044",
@@ -1976,7 +2157,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2562140",
@@ -1986,7 +2168,8 @@
         "aliases": null,
         "latitude": 10.784,
         "longitude": 106.694,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829152",
@@ -1996,7 +2179,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20026261",
@@ -2006,7 +2190,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10828807",
@@ -2016,7 +2201,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895616",
@@ -2029,7 +2215,8 @@
         ],
         "latitude": 21.0393333,
         "longitude": 105.7816778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829064",
@@ -2043,7 +2230,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896405",
@@ -2053,7 +2241,8 @@
         "aliases": null,
         "latitude": 20.938317,
         "longitude": 106.31239,
-        "type": "university"
+        "type": "university",
+        "description": "Hung Yen University of Technology and Education (Vietnamese: Trường Đại học Sư phạm kỹ thuật Hưng Yên) is a government-funded university in Hưng Yên Province, Vietnam.\nHung Yen University of Technology and Education is one of the national technical pedagogy universities with high quality application-oriented training to meet the increasingly diverse needs of society in terms of labor resources. The University is tasked with training PhDs, masters, bachelors of science (engineers), bachelors of arts (BA) and technical teachers, with key research directions on automation technology, mechatronics technology, manufacturing technology, automotive engineering technology, material technology (nano), biotechnology, and information technology."
     },
     {
         "wikidata_id": "Q101000164",
@@ -2063,7 +2252,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829151",
@@ -2073,7 +2263,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829041",
@@ -2083,7 +2274,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20025751",
@@ -2093,7 +2285,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7913402",
@@ -2103,7 +2296,8 @@
         "aliases": null,
         "latitude": 10.8037,
         "longitude": 106.685,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7913477",
@@ -2115,7 +2309,8 @@
         ],
         "latitude": 10.7634,
         "longitude": 106.693,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7913787",
@@ -2125,7 +2320,8 @@
         "aliases": null,
         "latitude": 18.7894,
         "longitude": 105.717,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16480995",
@@ -2135,7 +2331,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7928484",
@@ -2148,7 +2345,8 @@
         ],
         "latitude": 21.0468611,
         "longitude": 105.8003119,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q302448",
@@ -2160,7 +2358,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q49054837",
@@ -2170,7 +2369,8 @@
         "aliases": null,
         "latitude": 21.0223695,
         "longitude": 105.8033524,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20026262",
@@ -2180,7 +2380,8 @@
         "aliases": null,
         "latitude": 21.0329167,
         "longitude": 105.7625,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7928523",
@@ -2190,7 +2391,8 @@
         "aliases": null,
         "latitude": 20.837335,
         "longitude": 106.695632,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5649320",
@@ -2202,7 +2404,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q137916791",
@@ -2212,7 +2415,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q943759",
@@ -2226,7 +2430,8 @@
         ],
         "latitude": 10.7828,
         "longitude": 106.695,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1076729",
@@ -2240,7 +2445,8 @@
         ],
         "latitude": 20.99177,
         "longitude": 105.7968,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000095",
@@ -2250,7 +2456,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5873999",
@@ -2263,7 +2470,8 @@
         ],
         "latitude": 10.787807,
         "longitude": 106.7038389,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10829090",
@@ -2273,7 +2481,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000104",
@@ -2283,7 +2492,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q24902367",
@@ -2293,7 +2503,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7928533",
@@ -2303,7 +2514,8 @@
         "aliases": null,
         "latitude": 12.2151,
         "longitude": 109.207,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10771907",
@@ -2313,7 +2525,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10832786",
@@ -2325,7 +2538,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7928650",
@@ -2335,7 +2549,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q835285",
@@ -2347,7 +2562,8 @@
         ],
         "latitude": 11.1072222,
         "longitude": 106.6144444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q14655485",
@@ -2357,7 +2573,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125164592",
@@ -2370,7 +2587,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q108737605",
@@ -2383,7 +2601,8 @@
         ],
         "latitude": 10.25007,
         "longitude": 105.96217,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q717262",
@@ -2393,7 +2612,8 @@
         "aliases": null,
         "latitude": 18.6861,
         "longitude": 105.699,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20984308",
@@ -2403,7 +2623,8 @@
         "aliases": null,
         "latitude": 18.6588611,
         "longitude": 105.6958889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q86012411",
@@ -2415,7 +2636,8 @@
         ],
         "latitude": 20.9893,
         "longitude": 105.9436,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10832802",
@@ -2425,7 +2647,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5146680",
@@ -2435,6 +2658,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

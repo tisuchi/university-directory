@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74535778",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5428882",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Faculty of Information Technology, commonly referred to as the IT Faculty, is a department or academic unit within a university or educational institution that focuses on teaching and research related to Information technology. Information technology encompasses a wide range of topics and disciplines, including computer science, computer engineering, software development, networking, cybersecurity, data science, and more. \nIts objective is to provide personnel in the field of information technology for economy, national services and financial institutions."
     },
     {
         "wikidata_id": "Q136530323",
@@ -42,7 +45,8 @@
         ],
         "latitude": 42.2905556,
         "longitude": 18.8394444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16655674",
@@ -52,7 +56,8 @@
         "aliases": null,
         "latitude": 42.4361111,
         "longitude": 18.7641667,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q282645",
@@ -62,7 +67,8 @@
         "aliases": null,
         "latitude": 42.4483333,
         "longitude": 19.2616667,
-        "type": "university"
+        "type": "university",
+        "description": "Mediterranean University (Montenegrin: Универзитет Медитеран \/ Univerzitet Mediteran) is a university located in Podgorica, Montenegro. It was founded on 30 May 2006, is the first private university established in Montenegro and is organized in 6 faculties. The university is member of the Balkan Universities Network."
     },
     {
         "wikidata_id": "Q103021183",
@@ -72,7 +78,8 @@
         "aliases": null,
         "latitude": 42.4175,
         "longitude": 19.2028,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Donja Gorica (Montenegrin and Serbian: Univerzitet Donja Gorica \/ Универзитет Доња Горица), also known as simply UDG is a private university located in Donja Gorica, a suburb of Podgorica, Montenegro. The university was established in 2007, as the second private university in Montenegro. Its building covers an area of 16,700 m2 and currently represents the largest privately owned facility in the country."
     },
     {
         "wikidata_id": "Q1786067",
@@ -85,6 +92,7 @@
         ],
         "latitude": 42.4430556,
         "longitude": 19.2430556,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Montenegro (Montenegrin: Univerzitet Crne Gore \/ Универзитет Црнe Горe) is a national public university of Montenegro.\nIts central administration and most of its constituent faculties are located in the country's capital Podgorica, with campuses in Nikšić, Cetinje, and Kotor. Its institution was established in 1974 and currently has 19 faculties."
     }
 ]

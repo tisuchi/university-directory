@@ -9,7 +9,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The International College of the Cayman Islands (ICCI) is a non-profit, private, four-year independent institution of higher education which opened in the fall of 1970.  It is the oldest college in the Cayman Islands and is located in Newlands in the district of Bodden Town on the island of Grand Cayman."
     },
     {
         "wikidata_id": "Q648674",
@@ -19,7 +20,8 @@
         "aliases": null,
         "latitude": 19.3397,
         "longitude": -81.3789,
-        "type": "university"
+        "type": "university",
+        "description": "St. Matthew's University (SMU) is a private medical school located on Grand Cayman, Cayman Islands in the Caribbean. SMU has a School of Medicine and a School of Veterinary Medicine, which confer Doctor of Medicine (MD) and Doctor of Veterinary Medicine (DVM) degrees, respectively."
     },
     {
         "wikidata_id": "Q7721798",
@@ -29,7 +31,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Cayman Islands Civil Service College (CICSC) is a school of higher education in the Cayman Islands. It was established in the Fall of 2007 to further New Public Management reforms as well as the learning and development needs of the Cayman Islands Civil Service and to carry out research within the Caribbean region.\nThe CICSC currently offers a Certificate in Public Administration, Associate Degree in Public Administration through the auspices of the University College of the Cayman Islands."
     },
     {
         "wikidata_id": "Q648661",
@@ -39,6 +42,7 @@
         "aliases": null,
         "latitude": 19.2792,
         "longitude": -81.3838,
-        "type": "university"
+        "type": "university",
+        "description": "The University College of the Cayman Islands (UCCI) is a tertiary educational institution in the Cayman Islands."
     }
 ]

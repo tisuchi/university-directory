@@ -29,6 +29,7 @@ class University extends Model
         'aliases',
         'latitude',
         'longitude',
+        'description',
     ];
 
     protected $casts = [

@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 52.34096,
         "longitude": -6.46448,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122206950",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": 52.34052,
         "longitude": -6.46268,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122200394",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": 52.54243,
         "longitude": -6.95555,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q115951343",
@@ -39,7 +42,8 @@
         ],
         "latitude": 52.90948,
         "longitude": -7.35571,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4671042",
@@ -52,7 +56,8 @@
         ],
         "latitude": 53.264116,
         "longitude": -9.598982,
-        "type": "university"
+        "type": "university",
+        "description": "Acadamh na hOllscolaíochta Gaeilge (Irish: [ˈakəd̪ˠəw n̪ˠə ˈhʊl̪ˠˌsˠkʊlˠiːxt̪ˠə ˈɡeːlʲɟə]; English: \"The Academy of Irish-Language University Education\") is a third level educational and research institution headquartered in Galway, Ireland. It was established as part of the National University of Ireland - Galway in 2004, to further the development Irish-medium education. The academy works in co-operation with faculties, departments and other university offices to develop the range and number of programmes that are provided through the medium of Irish on campus and in the academy's Gaeltacht centres."
     },
     {
         "wikidata_id": "Q56651010",
@@ -62,7 +67,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q122223736",
@@ -72,7 +78,8 @@
         "aliases": null,
         "latitude": 52.49739,
         "longitude": -6.60812,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55051631",
@@ -82,7 +89,8 @@
         "aliases": null,
         "latitude": 52.13546,
         "longitude": -7.82452,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4728794",
@@ -94,7 +102,8 @@
         ],
         "latitude": 53.370886,
         "longitude": -6.249418,
-        "type": "college"
+        "type": "college",
+        "description": "All Hallows College was a college of higher education in Dublin. It was founded in 1842 and was run by the Vincentians from 1892 until 2016. On 23 May 2014, it was announced that it was closing because of declining student enrollment."
     },
     {
         "wikidata_id": "Q7713453",
@@ -104,7 +113,8 @@
         "aliases": null,
         "latitude": 53.341057,
         "longitude": -6.25048,
-        "type": "university"
+        "type": "university",
+        "description": "American College Dublin, a constituent college of Irish American University, is a private not-for-profit liberal arts institution accredited by the Middle States Commission on Higher Education (MSCHE). Established in 1993 in Dublin Ireland, the institution is located in the center of Dublin on Merrion Square in a number of Georgian era houses, one of which is the childhood home of Oscar Wilde. In addition to its American accreditation with MSCHE, American College Dublin offers programs placed at level-eight and level-nine on the Irish National Framework of Qualifications which are accredited by the Irish body Quality and Qualifications Ireland (QQI) and for which graduating students receive QQI awards."
     },
     {
         "wikidata_id": "Q55029463",
@@ -114,7 +124,8 @@
         "aliases": null,
         "latitude": 52.5803,
         "longitude": -8.16782,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q31101325",
@@ -124,7 +135,8 @@
         "aliases": null,
         "latitude": 53.6680295,
         "longitude": -7.6952494,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55045233",
@@ -134,7 +146,8 @@
         "aliases": null,
         "latitude": 53.86151,
         "longitude": -7.04518,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4804955",
@@ -144,7 +157,8 @@
         "aliases": null,
         "latitude": 53.2866,
         "longitude": -6.2395,
-        "type": "university"
+        "type": "university",
+        "description": "Ashfield College is a private post-primary school located in Dundrum in Dublin, Ireland. Originally founded in 1977, the school was previously based in Templeogue. \nAshfield College offers preparation for the Leaving Certificate examination, both as a two-year leaving certificate senior cycle, but also as a one-year (Repeat Leaving Cert.) programme."
     },
     {
         "wikidata_id": "Q122155460",
@@ -154,7 +168,8 @@
         "aliases": null,
         "latitude": 52.83386,
         "longitude": -7.34736,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55048999",
@@ -164,7 +179,8 @@
         "aliases": null,
         "latitude": 53.91536,
         "longitude": -6.96769,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122223997",
@@ -174,7 +190,8 @@
         "aliases": null,
         "latitude": 53.91699,
         "longitude": -6.97433,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122207887",
@@ -184,7 +201,8 @@
         "aliases": null,
         "latitude": 52.23617,
         "longitude": -6.58388,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122155315",
@@ -194,7 +212,8 @@
         "aliases": null,
         "latitude": 52.88346,
         "longitude": -7.44497,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122157045",
@@ -204,7 +223,8 @@
         "aliases": null,
         "latitude": 52.87511,
         "longitude": -7.30814,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122156983",
@@ -214,7 +234,8 @@
         "aliases": null,
         "latitude": 52.87532,
         "longitude": -7.30896,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122171399",
@@ -224,7 +245,8 @@
         "aliases": null,
         "latitude": 53.02812,
         "longitude": -7.95733,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55051017",
@@ -234,7 +256,8 @@
         "aliases": null,
         "latitude": 53.73527,
         "longitude": -7.03325,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122243693",
@@ -247,7 +270,8 @@
         ],
         "latitude": 53.7199,
         "longitude": -8.4121,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122246607",
@@ -259,7 +283,8 @@
         ],
         "latitude": 53.71816,
         "longitude": -8.41056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122208224",
@@ -269,7 +294,8 @@
         "aliases": null,
         "latitude": 52.60882,
         "longitude": -6.30618,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55051529",
@@ -279,7 +305,8 @@
         "aliases": null,
         "latitude": 52.14719,
         "longitude": -8.05359,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122196149",
@@ -291,7 +318,8 @@
         ],
         "latitude": 52.37106,
         "longitude": -7.06965,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122154392",
@@ -303,7 +331,8 @@
         ],
         "latitude": 53.0571,
         "longitude": -7.43174,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122234048",
@@ -313,7 +342,8 @@
         "aliases": null,
         "latitude": 53.82805,
         "longitude": -7.33039,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55048563",
@@ -323,7 +353,8 @@
         "aliases": null,
         "latitude": 52.58941,
         "longitude": -6.40517,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55051564",
@@ -333,7 +364,8 @@
         "aliases": null,
         "latitude": 52.08488,
         "longitude": -7.56897,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122223759",
@@ -343,7 +375,8 @@
         "aliases": null,
         "latitude": 52.47097,
         "longitude": -6.60644,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122196340",
@@ -353,7 +386,8 @@
         "aliases": null,
         "latitude": 52.78691,
         "longitude": -7.34287,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122170558",
@@ -363,7 +397,8 @@
         "aliases": null,
         "latitude": 53.34254,
         "longitude": -7.60062,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122196467",
@@ -373,7 +408,8 @@
         "aliases": null,
         "latitude": 52.59285,
         "longitude": -7.18167,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122171116",
@@ -383,7 +419,8 @@
         "aliases": null,
         "latitude": 53.16201,
         "longitude": -7.19524,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122155363",
@@ -395,7 +432,8 @@
         ],
         "latitude": 52.89,
         "longitude": -7.36409,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122228869",
@@ -405,7 +443,8 @@
         "aliases": null,
         "latitude": 54.05347,
         "longitude": -7.54565,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122184798",
@@ -415,7 +454,8 @@
         "aliases": null,
         "latitude": 52.59895,
         "longitude": -6.9211,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122184781",
@@ -425,7 +465,8 @@
         "aliases": null,
         "latitude": 52.60164,
         "longitude": -6.92801,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122154805",
@@ -435,7 +476,8 @@
         "aliases": null,
         "latitude": 52.93804,
         "longitude": -7.63316,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122207507",
@@ -445,7 +487,8 @@
         "aliases": null,
         "latitude": 52.65301,
         "longitude": -6.65192,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5000415",
@@ -455,7 +498,8 @@
         "aliases": null,
         "latitude": 53.1038152,
         "longitude": -9.1714227,
-        "type": "university"
+        "type": "university",
+        "description": "Burren College of Art is an Irish non-profit independent art college specialising in undergraduate and graduate Fine Art education, located in Ballyvaughan, County Clare, Ireland. The Master of Fine Art programme is accredited by the University of Galway. The college has a substantial gallery space."
     },
     {
         "wikidata_id": "Q122208180",
@@ -465,7 +509,8 @@
         "aliases": null,
         "latitude": 52.61525,
         "longitude": -6.42631,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122229609",
@@ -475,7 +520,8 @@
         "aliases": null,
         "latitude": 53.8895,
         "longitude": -7.40973,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5047750",
@@ -485,7 +531,8 @@
         "aliases": null,
         "latitude": 53.296171,
         "longitude": -6.184644,
-        "type": "college"
+        "type": "college",
+        "description": "Our Lady of Mercy College, Carysfort (commonly known as Carysfort College) was a College of Education in Dublin, Ireland from its foundation in 1877 until its closure in 1988.  Educating primary school teachers, and located in a parkland campus in Blackrock, it was a recognised college of the National University of Ireland from April 1975. The site is now the premises of the Michael Smurfit Graduate Business School, part of University College Dublin."
     },
     {
         "wikidata_id": "Q55051418",
@@ -495,7 +542,8 @@
         "aliases": null,
         "latitude": 52.51668,
         "longitude": -7.88864,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122196043",
@@ -505,7 +553,8 @@
         "aliases": null,
         "latitude": 52.41679,
         "longitude": -7.18601,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122251897",
@@ -515,7 +564,8 @@
         "aliases": null,
         "latitude": 53.76676,
         "longitude": -8.4865,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122208055",
@@ -525,7 +575,8 @@
         "aliases": null,
         "latitude": 52.39601,
         "longitude": -6.94281,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5053155",
@@ -535,7 +586,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Catholic Education Service (CES) is an agency of the Catholic Bishops’ Conference of England and Wales (CBCEW), whose object is the advancement of the Christian religion, primarily through education."
     },
     {
         "wikidata_id": "Q1518472",
@@ -545,7 +597,8 @@
         "aliases": null,
         "latitude": 53.345,
         "longitude": -6.2636111,
-        "type": "university"
+        "type": "university",
+        "description": "The Catholic University of Ireland (CUI; Irish: Ollscoil Chaitliceach na hÉireann) was a private Catholic university in Dublin, Ireland. It was founded in 1851 following the Synod of Thurles in 1850, and in response to the Queen's University of Ireland and its associated colleges which were nondenominational; Cardinal Cullen had previously forbidden Catholics from attending these \"godless colleges\"."
     },
     {
         "wikidata_id": "Q101071190",
@@ -555,7 +608,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55049008",
@@ -565,7 +619,8 @@
         "aliases": null,
         "latitude": 53.99242,
         "longitude": -7.36221,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q22031805",
@@ -577,7 +632,8 @@
         ],
         "latitude": 53.8670139,
         "longitude": -7.2007889,
-        "type": "university"
+        "type": "university",
+        "description": "Cavan County Museum (Irish: Músaem Chontae an Chabháin) is a museum dedicated to the history of County Cavan. The museum is housed in the former Convent of St Clare in Ballyjamesduff."
     },
     {
         "wikidata_id": "Q122223983",
@@ -589,7 +645,8 @@
         ],
         "latitude": 53.99021,
         "longitude": -7.36277,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122233839",
@@ -599,7 +656,8 @@
         "aliases": null,
         "latitude": 53.98276,
         "longitude": -7.35787,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q121338727",
@@ -609,7 +667,8 @@
         "aliases": null,
         "latitude": 52.66702,
         "longitude": -7.24689,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q33112785",
@@ -619,7 +678,8 @@
         "aliases": null,
         "latitude": 53.858085,
         "longitude": -6.538163,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q122171014",
@@ -629,7 +689,8 @@
         "aliases": null,
         "latitude": 53.27432,
         "longitude": -7.48827,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071007",
@@ -639,7 +700,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122207227",
@@ -649,7 +711,8 @@
         "aliases": null,
         "latitude": 52.67423,
         "longitude": -6.29817,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122195519",
@@ -659,7 +722,8 @@
         "aliases": null,
         "latitude": 52.59998,
         "longitude": -7.30824,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5116910",
@@ -669,7 +733,8 @@
         "aliases": null,
         "latitude": 53.318538,
         "longitude": -6.261322,
-        "type": "college"
+        "type": "college",
+        "description": "The Church of Ireland College of Education (Irish: Coláiste Oideachais Eaglais na hÉireann), or C.I.C.E. as it was more commonly known, was one of the Republic of Ireland's five Colleges of Education which provided a Bachelor of Education (B.Ed.) degree, the qualification generally required to teach in Irish primary schools. Its degrees were awarded by Trinity College (the University of Dublin), as for the Marino Institute of Education and Froebel College of Education.  It also provided postgraduate courses in Learning Support and Special Educational Needs and a Certificate Course for Special Needs Assistants."
     },
     {
         "wikidata_id": "Q5116911",
@@ -679,7 +744,8 @@
         "aliases": null,
         "latitude": 53.3030831,
         "longitude": -6.2683788,
-        "type": "university"
+        "type": "university",
+        "description": "The Church of Ireland Theological Institute (formerly the Church of Ireland Theological College) is responsible for ministerial formation and lay training within the Church of Ireland. It is located in Churchtown in Dublin. The Church of Ireland, Representative Church Body (RCB) Library and archives, are also housed on the CITI Campus."
     },
     {
         "wikidata_id": "Q55056462",
@@ -689,7 +755,8 @@
         "aliases": null,
         "latitude": 52.40849,
         "longitude": -6.55628,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122223887",
@@ -701,7 +768,8 @@
         ],
         "latitude": 52.46127,
         "longitude": -6.50023,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55051575",
@@ -711,7 +779,8 @@
         "aliases": null,
         "latitude": 52.01051,
         "longitude": -7.8139,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122171996",
@@ -721,7 +790,8 @@
         "aliases": null,
         "latitude": 52.98302,
         "longitude": -7.92872,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122184664",
@@ -731,7 +801,8 @@
         "aliases": null,
         "latitude": 53.8477,
         "longitude": -7.87321,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5141884",
@@ -741,7 +812,8 @@
         "aliases": null,
         "latitude": 53.3865,
         "longitude": -6.3118,
-        "type": "college"
+        "type": "college",
+        "description": "The Coláiste Íde College of Further Education is a coeducational, non-denominational centre of education funded and managed by the City of Dublin Education and Training Board to provide a Further Education service to the community of Finglas in Dublin North-West."
     },
     {
         "wikidata_id": "Q65328512",
@@ -751,7 +823,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q55165238",
@@ -764,7 +837,8 @@
         ],
         "latitude": 53.341484,
         "longitude": -6.251207,
-        "type": "university"
+        "type": "university",
+        "description": "Coláiste na hÉireann (Irish: [ˈkɔlˠaːʃtʲə nˠə ˈheːɾʲən̪ˠ]; English: \"College of Ireland\") is a third-level college in Dublin, Ireland offering qualifications in the study of translation and the Irish language."
     },
     {
         "wikidata_id": "Q55027890",
@@ -774,7 +848,8 @@
         "aliases": null,
         "latitude": 52.35445,
         "longitude": -8.68127,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55029502",
@@ -784,7 +859,8 @@
         "aliases": null,
         "latitude": 52.47518,
         "longitude": -8.15912,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55027892",
@@ -794,7 +870,8 @@
         "aliases": null,
         "latitude": 52.27159,
         "longitude": -8.73222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5156564",
@@ -804,7 +881,8 @@
         "aliases": null,
         "latitude": 53.308266,
         "longitude": -6.223735,
-        "type": "institute"
+        "type": "institute",
+        "description": "Complex and Adaptive Systems Laboratory (CASL) is an interdisciplinary research institute in University College Dublin. It is formed around four research clusters. The institute houses research groups from a number of Schools within UCD, notably computer science."
     },
     {
         "wikidata_id": "Q122230099",
@@ -816,7 +894,8 @@
         ],
         "latitude": 53.99197,
         "longitude": -7.35965,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122233619",
@@ -826,7 +905,8 @@
         "aliases": null,
         "latitude": 54.1006,
         "longitude": -7.44641,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122208076",
@@ -836,7 +916,8 @@
         "aliases": null,
         "latitude": 52.39936,
         "longitude": -6.93135,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122250737",
@@ -846,7 +927,8 @@
         "aliases": null,
         "latitude": 53.97384,
         "longitude": -8.29435,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122207058",
@@ -856,7 +938,8 @@
         "aliases": null,
         "latitude": 52.34068,
         "longitude": -6.46275,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17007846",
@@ -866,7 +949,8 @@
         "aliases": null,
         "latitude": 51.893,
         "longitude": -8.493,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18012663",
@@ -876,7 +960,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q122155748",
@@ -886,7 +971,8 @@
         "aliases": null,
         "latitude": 53.01353,
         "longitude": -7.14532,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5013825",
@@ -898,7 +984,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "CRANN, the Centre for Research on Adaptive Nanostructures and Nanodevices, is Ireland's first purpose-built research institute whose purpose is to perform nanoscience research. It is housed in the Naughton Institute on the campus of Trinity College Dublin. Crann is the Irish word for tree."
     },
     {
         "wikidata_id": "Q122200882",
@@ -908,7 +995,8 @@
         "aliases": null,
         "latitude": 52.76788,
         "longitude": -7.47477,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122247427",
@@ -918,7 +1006,8 @@
         "aliases": null,
         "latitude": 53.91777,
         "longitude": -8.21661,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122171046",
@@ -928,7 +1017,8 @@
         "aliases": null,
         "latitude": 53.18872,
         "longitude": -7.97226,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55051233",
@@ -938,7 +1028,8 @@
         "aliases": null,
         "latitude": 54.04265,
         "longitude": -6.95407,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122233787",
@@ -948,7 +1039,8 @@
         "aliases": null,
         "latitude": 53.96621,
         "longitude": -7.54357,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5275853",
@@ -960,7 +1052,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Digital Enterprise Research Institute (DERI) is a former research institute at NUI Galway. It is now part of the Insight Centre for Data Analytics. Insight was established in 2013 by Science Foundation Ireland with funding of €75m."
     },
     {
         "wikidata_id": "Q16835261",
@@ -970,7 +1063,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5290728",
@@ -980,7 +1074,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55050839",
@@ -990,7 +1085,8 @@
         "aliases": null,
         "latitude": 53.71712,
         "longitude": -6.34766,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55049081",
@@ -1000,7 +1096,8 @@
         "aliases": null,
         "latitude": 53.94237,
         "longitude": -7.48596,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122233904",
@@ -1010,7 +1107,8 @@
         "aliases": null,
         "latitude": 54.04814,
         "longitude": -7.50951,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122174947",
@@ -1020,7 +1118,8 @@
         "aliases": null,
         "latitude": 53.93159,
         "longitude": -8.00192,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1202897",
@@ -1033,7 +1132,8 @@
         ],
         "latitude": 53.3849528,
         "longitude": -6.2565417,
-        "type": "university"
+        "type": "university",
+        "description": "Dublin City University (abbreviated as DCU; Irish: Ollscoil Chathair Bhaile Átha Cliath) is a university based on the Northside of Dublin, Ireland. Created as the National Institute for Higher Education, Dublin in 1975, it enrolled its first students in 1980, and was elevated to university status (along with the NIHE Limerick, now the University of Limerick) in September 1989 by statute.\nIn September 2016, DCU completed the process of incorporating four other Dublin-based educational institutions: the Church of Ireland College of Education, All Hallows College, Mater Dei Institute of Education and St Patrick's College."
     },
     {
         "wikidata_id": "Q101071013",
@@ -1043,7 +1143,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071015",
@@ -1053,7 +1154,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q101071016",
@@ -1063,7 +1165,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012442",
@@ -1073,7 +1176,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012436",
@@ -1083,7 +1187,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012437",
@@ -1093,7 +1198,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012438",
@@ -1103,7 +1209,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012439",
@@ -1113,7 +1220,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012440",
@@ -1123,7 +1231,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17101590",
@@ -1133,7 +1242,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Dublin Design Institute (Irish: Institiúid Dearadh Átha Cliath)(DDI) was a private third level (higher education) college in Ireland that opened in 1991 and closed during summer 2023."
     },
     {
         "wikidata_id": "Q74555687",
@@ -1143,7 +1253,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q55051414",
@@ -1153,7 +1264,8 @@
         "aliases": null,
         "latitude": 52.55694,
         "longitude": -8.05048,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5141880",
@@ -1165,7 +1277,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Dungarvan College (Irish: Coláiste Dhun Garbhán) is a post-primary educational institution in Dungarvan, County Waterford, Ireland. The school offers Junior Certificate and Leaving Certificate programmes, as well as Post Leaving Certificate and Further Education courses."
     },
     {
         "wikidata_id": "Q122196170",
@@ -1175,7 +1288,8 @@
         "aliases": null,
         "latitude": 52.29478,
         "longitude": -7.14834,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55049934",
@@ -1185,7 +1299,8 @@
         "aliases": null,
         "latitude": 53.32832,
         "longitude": -8.22528,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55051554",
@@ -1195,7 +1310,8 @@
         "aliases": null,
         "latitude": 52.14598,
         "longitude": -6.99298,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122156937",
@@ -1205,7 +1321,8 @@
         "aliases": null,
         "latitude": 52.84282,
         "longitude": -7.39276,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122155520",
@@ -1215,7 +1332,8 @@
         "aliases": null,
         "latitude": 53.1587,
         "longitude": -7.18746,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5333436",
@@ -1227,7 +1345,8 @@
         ],
         "latitude": 53.345266,
         "longitude": -6.2424821,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q122196263",
@@ -1237,7 +1356,8 @@
         "aliases": null,
         "latitude": 52.64792,
         "longitude": -7.2521,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122207585",
@@ -1247,7 +1367,8 @@
         "aliases": null,
         "latitude": 52.50186,
         "longitude": -6.56927,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122172641",
@@ -1257,7 +1378,8 @@
         "aliases": null,
         "latitude": 53.29375,
         "longitude": -7.18186,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74540815",
@@ -1270,7 +1392,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q122196230",
@@ -1285,7 +1408,8 @@
         ],
         "latitude": 52.65385,
         "longitude": -7.24916,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122184717",
@@ -1295,7 +1419,8 @@
         "aliases": null,
         "latitude": 53.86356,
         "longitude": -7.81609,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122171521",
@@ -1305,7 +1430,8 @@
         "aliases": null,
         "latitude": 53.27369,
         "longitude": -7.82921,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55028268",
@@ -1315,7 +1441,8 @@
         "aliases": null,
         "latitude": 54.47702,
         "longitude": -8.28192,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122234015",
@@ -1325,7 +1452,8 @@
         "aliases": null,
         "latitude": 53.84017,
         "longitude": -7.34433,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122174937",
@@ -1335,7 +1463,8 @@
         "aliases": null,
         "latitude": 53.97451,
         "longitude": -7.64673,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122173453",
@@ -1347,7 +1476,8 @@
         ],
         "latitude": 53.9765,
         "longitude": -7.64948,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122230091",
@@ -1357,7 +1487,8 @@
         "aliases": null,
         "latitude": 53.99168,
         "longitude": -7.35989,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122173375",
@@ -1367,7 +1498,8 @@
         "aliases": null,
         "latitude": 54.05401,
         "longitude": -7.80458,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122173343",
@@ -1377,7 +1509,8 @@
         "aliases": null,
         "latitude": 54.04534,
         "longitude": -8.03958,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122233948",
@@ -1387,7 +1520,8 @@
         "aliases": null,
         "latitude": 53.9906,
         "longitude": -7.07799,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122200424",
@@ -1397,7 +1531,8 @@
         "aliases": null,
         "latitude": 52.48784,
         "longitude": -7.06431,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122173231",
@@ -1407,7 +1542,8 @@
         "aliases": null,
         "latitude": 54.30321,
         "longitude": -8.17597,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122175453",
@@ -1417,7 +1553,8 @@
         "aliases": null,
         "latitude": 53.92054,
         "longitude": -7.86879,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122171661",
@@ -1427,7 +1564,8 @@
         "aliases": null,
         "latitude": 53.29424,
         "longitude": -7.29109,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122196196",
@@ -1437,7 +1575,8 @@
         "aliases": null,
         "latitude": 52.6517,
         "longitude": -7.25136,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122171292",
@@ -1447,7 +1586,8 @@
         "aliases": null,
         "latitude": 53.09879,
         "longitude": -7.90797,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122184933",
@@ -1457,7 +1597,8 @@
         "aliases": null,
         "latitude": 52.80161,
         "longitude": -6.73523,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122229888",
@@ -1467,7 +1608,8 @@
         "aliases": null,
         "latitude": 53.99185,
         "longitude": -7.35977,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5500134",
@@ -1477,7 +1619,8 @@
         "aliases": null,
         "latitude": 53.3561335,
         "longitude": -6.2903045,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122031103",
@@ -1487,7 +1630,8 @@
         "aliases": null,
         "latitude": 52.73128,
         "longitude": -7.39925,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122252170",
@@ -1497,7 +1641,8 @@
         "aliases": null,
         "latitude": 53.61105,
         "longitude": -8.27232,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122170972",
@@ -1509,7 +1654,8 @@
         ],
         "latitude": 53.2646,
         "longitude": -7.82543,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5522141",
@@ -1523,7 +1669,8 @@
         ],
         "latitude": 52.7916667,
         "longitude": -7.8416667,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q122234085",
@@ -1533,7 +1680,8 @@
         "aliases": null,
         "latitude": 53.81491,
         "longitude": -7.16048,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122982368",
@@ -1543,7 +1691,8 @@
         "aliases": null,
         "latitude": 53.37982,
         "longitude": -6.59123,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55049005",
@@ -1553,7 +1702,8 @@
         "aliases": null,
         "latitude": 53.96926,
         "longitude": -6.91556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55051668",
@@ -1563,7 +1713,8 @@
         "aliases": null,
         "latitude": 53.46959,
         "longitude": -7.86446,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122196445",
@@ -1573,7 +1724,8 @@
         "aliases": null,
         "latitude": 52.63074,
         "longitude": -6.9948,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55051766",
@@ -1583,7 +1735,8 @@
         "aliases": null,
         "latitude": 52.6756,
         "longitude": -6.2942,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122184631",
@@ -1593,7 +1746,8 @@
         "aliases": null,
         "latitude": 54.01443,
         "longitude": -7.71986,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122196403",
@@ -1605,7 +1759,8 @@
         ],
         "latitude": 52.62891,
         "longitude": -7.07675,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122184903",
@@ -1615,7 +1770,8 @@
         "aliases": null,
         "latitude": 52.77115,
         "longitude": -6.85744,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55051079",
@@ -1625,7 +1781,8 @@
         "aliases": null,
         "latitude": 54.19869,
         "longitude": -7.1677,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74541264",
@@ -1635,7 +1792,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5608875",
@@ -1649,7 +1807,8 @@
         ],
         "latitude": 51.894973,
         "longitude": -8.475158,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q15222152",
@@ -1659,7 +1818,8 @@
         "aliases": null,
         "latitude": 53.3313889,
         "longitude": -6.2780556,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q285706",
@@ -1669,7 +1829,8 @@
         "aliases": null,
         "latitude": 52.6583946,
         "longitude": -8.6332071,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55046980",
@@ -1679,7 +1840,8 @@
         "aliases": null,
         "latitude": 52.64078,
         "longitude": -8.86742,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q118744610",
@@ -1692,7 +1854,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q122248818",
@@ -1704,7 +1867,8 @@
         ],
         "latitude": 53.76484,
         "longitude": -8.48854,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122156316",
@@ -1717,7 +1881,8 @@
         ],
         "latitude": 52.91743,
         "longitude": -7.34623,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5750711",
@@ -1727,7 +1892,8 @@
         "aliases": null,
         "latitude": 53.31917,
         "longitude": -6.21383,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q56479349",
@@ -1737,7 +1903,8 @@
         "aliases": null,
         "latitude": 53.566811,
         "longitude": -8.329411,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30161036",
@@ -1747,7 +1914,8 @@
         "aliases": null,
         "latitude": 51.89706,
         "longitude": -8.476246,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q122175305",
@@ -1759,7 +1927,8 @@
         ],
         "latitude": 53.92267,
         "longitude": -7.86514,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q64980043",
@@ -1769,7 +1938,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q116214773",
@@ -1779,7 +1949,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6070633",
@@ -1789,7 +1960,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122171868",
@@ -1799,7 +1971,8 @@
         "aliases": null,
         "latitude": 53.09596,
         "longitude": -7.90815,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122233985",
@@ -1809,7 +1982,8 @@
         "aliases": null,
         "latitude": 53.88073,
         "longitude": -7.25841,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122184308",
@@ -1819,7 +1993,8 @@
         "aliases": null,
         "latitude": 54.25844,
         "longitude": -8.243,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122212828",
@@ -1829,7 +2004,8 @@
         "aliases": null,
         "latitude": 52.52254,
         "longitude": -6.74375,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122233697",
@@ -1839,7 +2015,8 @@
         "aliases": null,
         "latitude": 54.01261,
         "longitude": -7.52639,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122212854",
@@ -1849,7 +2026,8 @@
         "aliases": null,
         "latitude": 52.4709,
         "longitude": -6.71305,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122229629",
@@ -1859,7 +2037,8 @@
         "aliases": null,
         "latitude": 53.83518,
         "longitude": -6.96904,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122233799",
@@ -1871,7 +2050,8 @@
         ],
         "latitude": 53.83545,
         "longitude": -7.23231,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55050099",
@@ -1881,7 +2061,8 @@
         "aliases": null,
         "latitude": 53.09936,
         "longitude": -8.81539,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122208406",
@@ -1891,7 +2072,8 @@
         "aliases": null,
         "latitude": 52.6659,
         "longitude": -6.22614,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2069586",
@@ -1906,7 +2088,8 @@
         ],
         "latitude": 53.3528889,
         "longitude": -6.2716667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122171679",
@@ -1916,7 +2099,8 @@
         "aliases": null,
         "latitude": 53.18784,
         "longitude": -7.98462,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122233743",
@@ -1926,7 +2110,8 @@
         "aliases": null,
         "latitude": 54.13137,
         "longitude": -7.39154,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55028345",
@@ -1936,7 +2121,8 @@
         "aliases": null,
         "latitude": 53.24406,
         "longitude": -9.3038,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6520006",
@@ -1946,7 +2132,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122195273",
@@ -1956,7 +2143,8 @@
         "aliases": null,
         "latitude": 52.98256,
         "longitude": -6.04148,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6549271",
@@ -1969,7 +2157,8 @@
         ],
         "latitude": 52.6743611,
         "longitude": -8.6453889,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q122233960",
@@ -1979,7 +2168,8 @@
         "aliases": null,
         "latitude": 53.91846,
         "longitude": -7.08058,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122184818",
@@ -1991,7 +2181,8 @@
         ],
         "latitude": 52.8586,
         "longitude": -6.67657,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122171492",
@@ -2001,7 +2192,8 @@
         "aliases": null,
         "latitude": 53.32736,
         "longitude": -7.71192,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55051398",
@@ -2011,7 +2203,8 @@
         "aliases": null,
         "latitude": 54.35773,
         "longitude": -8.58248,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6458839",
@@ -2021,7 +2214,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q42140773",
@@ -2031,7 +2225,8 @@
         "aliases": null,
         "latitude": 54.0127672,
         "longitude": -7.373699,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122206768",
@@ -2043,7 +2238,8 @@
         ],
         "latitude": 52.34361,
         "longitude": -6.47291,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122196297",
@@ -2053,7 +2249,8 @@
         "aliases": null,
         "latitude": 52.65717,
         "longitude": -7.25906,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55027828",
@@ -2063,7 +2260,8 @@
         "aliases": null,
         "latitude": 51.89048,
         "longitude": -8.48092,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122249936",
@@ -2073,7 +2271,8 @@
         "aliases": null,
         "latitude": 53.83267,
         "longitude": -8.57202,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18351936",
@@ -2083,7 +2282,8 @@
         "aliases": null,
         "latitude": 52.1384,
         "longitude": -8.65254,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q110830588",
@@ -2093,7 +2293,8 @@
         "aliases": null,
         "latitude": 53.3642608,
         "longitude": -6.231387,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6779823",
@@ -2106,7 +2307,8 @@
         ],
         "latitude": 52.6530556,
         "longitude": -8.6394444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122153209",
@@ -2116,7 +2318,8 @@
         "aliases": null,
         "latitude": 53.03451,
         "longitude": -7.2927,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2601879",
@@ -2132,7 +2335,8 @@
         ],
         "latitude": 53.3835,
         "longitude": -6.5996,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6805500",
@@ -2142,7 +2346,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q122206923",
@@ -2152,7 +2357,8 @@
         "aliases": null,
         "latitude": 52.33787,
         "longitude": -6.47127,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122208019",
@@ -2162,7 +2368,8 @@
         "aliases": null,
         "latitude": 52.39329,
         "longitude": -6.94125,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122172872",
@@ -2174,7 +2381,8 @@
         ],
         "latitude": 52.88013,
         "longitude": -7.95625,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q106097645",
@@ -2186,7 +2394,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q122171439",
@@ -2198,7 +2407,8 @@
         ],
         "latitude": 52.96253,
         "longitude": -7.85498,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122208009",
@@ -2208,7 +2418,8 @@
         "aliases": null,
         "latitude": 52.39706,
         "longitude": -6.94243,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55029757",
@@ -2218,7 +2429,8 @@
         "aliases": null,
         "latitude": 52.13552,
         "longitude": -7.93832,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6925758",
@@ -2228,7 +2440,8 @@
         "aliases": null,
         "latitude": 53.4686,
         "longitude": -8.4938,
-        "type": "college"
+        "type": "college",
+        "description": "Mountbellew Agricultural College or Franciscan Brothers College is a training college for the farming and agricultural industry in Mountbellew, County Galway, Ireland. It was founded in 1904 by the Franciscan Brothers, who previously had a secondary school on the location, and was the first such college in Ireland. It is a private college but runs courses in association with the Irish governments Agricultural and Food Development Authority (Teagasc) and the nearby Atlantic Technological University Mountbellew campus (GMIT)."
     },
     {
         "wikidata_id": "Q122184739",
@@ -2238,7 +2451,8 @@
         "aliases": null,
         "latitude": 52.69322,
         "longitude": -6.64604,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55047198",
@@ -2248,7 +2462,8 @@
         "aliases": null,
         "latitude": 53.90657,
         "longitude": -7.63684,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q15261111",
@@ -2258,7 +2473,8 @@
         "aliases": null,
         "latitude": 53.348896,
         "longitude": -6.24322,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q110890217",
@@ -2268,7 +2484,8 @@
         "aliases": null,
         "latitude": 52.80289,
         "longitude": -6.14685,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1860208",
@@ -2280,7 +2497,8 @@
         ],
         "latitude": 53.3383889,
         "longitude": -6.2471944,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071026",
@@ -2290,7 +2508,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q101071020",
@@ -2300,7 +2519,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012444",
@@ -2310,7 +2530,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012445",
@@ -2320,7 +2541,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012446",
@@ -2330,7 +2552,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012447",
@@ -2340,7 +2563,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012449",
@@ -2350,7 +2574,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012450",
@@ -2360,7 +2585,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012453",
@@ -2370,7 +2596,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012454",
@@ -2380,7 +2607,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071023",
@@ -2390,7 +2618,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071024",
@@ -2400,7 +2629,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071025",
@@ -2410,7 +2640,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071192",
@@ -2420,7 +2651,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012455",
@@ -2430,7 +2662,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012457",
@@ -2440,7 +2673,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071194",
@@ -2450,7 +2684,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012458",
@@ -2460,7 +2695,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012459",
@@ -2470,7 +2706,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012460",
@@ -2480,7 +2717,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012461",
@@ -2490,7 +2728,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012456",
@@ -2502,7 +2741,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012471",
@@ -2512,7 +2752,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012472",
@@ -2522,7 +2763,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012474",
@@ -2532,7 +2774,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012475",
@@ -2542,7 +2785,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012476",
@@ -2552,7 +2796,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012478",
@@ -2562,7 +2807,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012479",
@@ -2572,7 +2818,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012480",
@@ -2582,7 +2829,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012481",
@@ -2592,7 +2840,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012483",
@@ -2602,7 +2851,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071029",
@@ -2612,7 +2862,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071030",
@@ -2622,7 +2873,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q101012486",
@@ -2632,7 +2884,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012487",
@@ -2642,7 +2895,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071031",
@@ -2652,7 +2906,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55050276",
@@ -2662,7 +2917,8 @@
         "aliases": null,
         "latitude": 53.39429,
         "longitude": -6.75794,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122196488",
@@ -2674,7 +2930,8 @@
         ],
         "latitude": 52.58646,
         "longitude": -7.09666,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122029857",
@@ -2684,7 +2941,8 @@
         "aliases": null,
         "latitude": 52.73197,
         "longitude": -7.40415,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122233760",
@@ -2694,7 +2952,8 @@
         "aliases": null,
         "latitude": 54.17184,
         "longitude": -7.68165,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122196243",
@@ -2704,7 +2963,8 @@
         "aliases": null,
         "latitude": 52.64854,
         "longitude": -7.25245,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122196133",
@@ -2714,7 +2974,8 @@
         "aliases": null,
         "latitude": 52.38722,
         "longitude": -7.34372,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122171956",
@@ -2727,7 +2988,8 @@
         ],
         "latitude": 53.10044,
         "longitude": -7.9144,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55029489",
@@ -2737,7 +2999,8 @@
         "aliases": null,
         "latitude": 52.51656,
         "longitude": -7.88532,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55047586",
@@ -2747,7 +3010,8 @@
         "aliases": null,
         "latitude": 54.2656,
         "longitude": -7.04046,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122196377",
@@ -2757,7 +3021,8 @@
         "aliases": null,
         "latitude": 52.67983,
         "longitude": -7.02329,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122200738",
@@ -2767,7 +3032,8 @@
         "aliases": null,
         "latitude": 52.35177,
         "longitude": -7.33414,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122200689",
@@ -2777,7 +3043,8 @@
         "aliases": null,
         "latitude": 52.35168,
         "longitude": -7.33378,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122229430",
@@ -2787,7 +3054,8 @@
         "aliases": null,
         "latitude": 53.99264,
         "longitude": -7.57456,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122200752",
@@ -2797,7 +3065,8 @@
         "aliases": null,
         "latitude": 52.29512,
         "longitude": -7.26095,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122171770",
@@ -2807,7 +3076,8 @@
         "aliases": null,
         "latitude": 53.16015,
         "longitude": -7.20354,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122156767",
@@ -2817,7 +3087,8 @@
         "aliases": null,
         "latitude": 52.91131,
         "longitude": -7.35079,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7758368",
@@ -2829,7 +3100,8 @@
         ],
         "latitude": 53.2888,
         "longitude": -6.3602,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55050204",
@@ -2839,7 +3111,8 @@
         "aliases": null,
         "latitude": 53.28869,
         "longitude": -6.75153,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122171543",
@@ -2851,7 +3124,8 @@
         ],
         "latitude": 53.27787,
         "longitude": -7.48756,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122223956",
@@ -2861,7 +3135,8 @@
         "aliases": null,
         "latitude": 52.35906,
         "longitude": -6.95519,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122228721",
@@ -2871,7 +3146,8 @@
         "aliases": null,
         "latitude": 54.07388,
         "longitude": -7.0806,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q138107762",
@@ -2881,7 +3157,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q122170742",
@@ -2891,7 +3168,8 @@
         "aliases": null,
         "latitude": 53.34434,
         "longitude": -7.04775,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7270143",
@@ -2901,7 +3179,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Queen's University of Ireland was established formally by royal charter on 3 September 1850, as the degree-awarding university of the Queen's Colleges of Belfast, Cork, and Galway that were established in 1845 \"to afford a university education to members of all religious denominations\" in Ireland.\nThe university system itself was replaced by the Royal University of Ireland in 1880, which in turn was replaced by Queen's University Belfast, with the Cork and Galway colleges forming the National University of Ireland, along with University College Dublin."
     },
     {
         "wikidata_id": "Q55050214",
@@ -2911,7 +3190,8 @@
         "aliases": null,
         "latitude": 53.22189,
         "longitude": -6.99715,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122156843",
@@ -2923,7 +3203,8 @@
         ],
         "latitude": 52.85548,
         "longitude": -7.58071,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55051578",
@@ -2933,7 +3214,8 @@
         "aliases": null,
         "latitude": 52.31107,
         "longitude": -7.50034,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7334980",
@@ -2943,7 +3225,8 @@
         "aliases": null,
         "latitude": 53.34378,
         "longitude": -6.2240379,
-        "type": "college"
+        "type": "college",
+        "description": "Ringsend College is a multi-denominational secondary school and further education college run by the City of Dublin Education and Training Board (CDETB). The college operates under a local sub-committee which is representative of parents, staff, community, local primary schools and industry. It is chaired by Kevin Humphreys."
     },
     {
         "wikidata_id": "Q55051466",
@@ -2953,7 +3236,8 @@
         "aliases": null,
         "latitude": 52.95011,
         "longitude": -7.7983,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122206638",
@@ -2963,7 +3247,8 @@
         "aliases": null,
         "latitude": 52.34263,
         "longitude": -6.47064,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7373992",
@@ -2975,7 +3260,8 @@
         ],
         "latitude": 53.339282,
         "longitude": -6.254187,
-        "type": "university"
+        "type": "university",
+        "description": "The Royal College of Science for Ireland (RCScI) was an institute for higher education in Dublin which existed from 1867 to 1926, specialising in physical sciences and applied science. It was originally based on St Stephen's Green,  moving in 1911 to a purpose-built Royal College of Science building on Merrion Street, now known as Government Buildings. In 1926 it was absorbed into University College Dublin (UCD) as the faculty of Science and Engineering."
     },
     {
         "wikidata_id": "Q1124228",
@@ -2989,7 +3275,8 @@
         ],
         "latitude": 53.3389639,
         "longitude": -6.2618139,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3777663",
@@ -2999,7 +3286,8 @@
         "aliases": null,
         "latitude": 53.342333,
         "longitude": -6.250155,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122230221",
@@ -3009,7 +3297,8 @@
         "aliases": null,
         "latitude": 53.98449,
         "longitude": -7.36164,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55049578",
@@ -3019,7 +3308,8 @@
         "aliases": null,
         "latitude": 53.52914,
         "longitude": -6.09166,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122153363",
@@ -3029,7 +3319,8 @@
         "aliases": null,
         "latitude": 53.03485,
         "longitude": -7.29664,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122247918",
@@ -3039,7 +3330,8 @@
         "aliases": null,
         "latitude": 53.76594,
         "longitude": -8.48672,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122195772",
@@ -3049,7 +3341,8 @@
         "aliases": null,
         "latitude": 52.47013,
         "longitude": -7.26227,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122171340",
@@ -3059,7 +3352,8 @@
         "aliases": null,
         "latitude": 53.09068,
         "longitude": -7.91217,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122170698",
@@ -3069,7 +3363,8 @@
         "aliases": null,
         "latitude": 53.34069,
         "longitude": -7.6127,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122186671",
@@ -3079,7 +3374,8 @@
         "aliases": null,
         "latitude": 52.80412,
         "longitude": -6.73269,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122173415",
@@ -3089,7 +3385,8 @@
         "aliases": null,
         "latitude": 54.05472,
         "longitude": -7.79636,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122207839",
@@ -3099,7 +3396,8 @@
         "aliases": null,
         "latitude": 52.3513,
         "longitude": -6.68695,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122207116",
@@ -3109,7 +3407,8 @@
         "aliases": null,
         "latitude": 52.33108,
         "longitude": -6.45409,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122196216",
@@ -3119,7 +3418,8 @@
         "aliases": null,
         "latitude": 52.6544,
         "longitude": -7.24984,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122196282",
@@ -3129,7 +3429,8 @@
         "aliases": null,
         "latitude": 52.64406,
         "longitude": -7.24818,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122170844",
@@ -3139,7 +3440,8 @@
         "aliases": null,
         "latitude": 53.33926,
         "longitude": -7.05865,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122171641",
@@ -3149,7 +3451,8 @@
         "aliases": null,
         "latitude": 53.29311,
         "longitude": -7.28913,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122175052",
@@ -3159,7 +3462,8 @@
         "aliases": null,
         "latitude": 53.92111,
         "longitude": -7.87108,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122156214",
@@ -3171,7 +3475,8 @@
         ],
         "latitude": 53.01471,
         "longitude": -7.14754,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122208328",
@@ -3181,7 +3486,8 @@
         "aliases": null,
         "latitude": 52.24673,
         "longitude": -6.91896,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122151395",
@@ -3191,7 +3497,8 @@
         "aliases": null,
         "latitude": 53.03567,
         "longitude": -7.29864,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122151266",
@@ -3201,7 +3508,8 @@
         "aliases": null,
         "latitude": 53.03572,
         "longitude": -7.29847,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122153177",
@@ -3211,7 +3519,8 @@
         "aliases": null,
         "latitude": 53.03596,
         "longitude": -7.29866,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122207945",
@@ -3221,7 +3530,8 @@
         "aliases": null,
         "latitude": 52.49792,
         "longitude": -6.56889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122186475",
@@ -3231,7 +3541,8 @@
         "aliases": null,
         "latitude": 52.70041,
         "longitude": -6.95978,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122170939",
@@ -3241,7 +3552,8 @@
         "aliases": null,
         "latitude": 53.33838,
         "longitude": -7.05979,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122200485",
@@ -3251,7 +3563,8 @@
         "aliases": null,
         "latitude": 52.54795,
         "longitude": -7.38825,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122155866",
@@ -3263,7 +3576,8 @@
         ],
         "latitude": 53.01412,
         "longitude": -7.14637,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122207445",
@@ -3273,7 +3587,8 @@
         "aliases": null,
         "latitude": 52.67497,
         "longitude": -6.29134,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122208283",
@@ -3283,7 +3598,8 @@
         "aliases": null,
         "latitude": 52.5905,
         "longitude": -6.49219,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122243561",
@@ -3295,7 +3611,8 @@
         ],
         "latitude": 53.90351,
         "longitude": -8.58043,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122247148",
@@ -3307,7 +3624,8 @@
         ],
         "latitude": 53.58258,
         "longitude": -8.20032,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122172326",
@@ -3319,7 +3637,8 @@
         ],
         "latitude": 53.28512,
         "longitude": -7.61209,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122208353",
@@ -3329,7 +3648,8 @@
         "aliases": null,
         "latitude": 52.68657,
         "longitude": -6.2855,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55050220",
@@ -3339,7 +3659,8 @@
         "aliases": null,
         "latitude": 53.24823,
         "longitude": -6.6646,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q95642617",
@@ -3349,7 +3670,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q113292122",
@@ -3359,7 +3681,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q95644228",
@@ -3369,7 +3692,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q95642844",
@@ -3379,7 +3703,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q64861716",
@@ -3389,7 +3714,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q95644627",
@@ -3399,7 +3725,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q95643657",
@@ -3409,7 +3736,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q95641580",
@@ -3419,7 +3747,8 @@
         "aliases": null,
         "latitude": 53.34305,
         "longitude": -6.25017,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q95644051",
@@ -3429,7 +3758,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q95644837",
@@ -3439,7 +3769,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q113292183",
@@ -3449,7 +3780,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122153052",
@@ -3461,7 +3793,8 @@
         ],
         "latitude": 53.03513,
         "longitude": -7.29911,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122171817",
@@ -3471,7 +3804,8 @@
         "aliases": null,
         "latitude": 53.09299,
         "longitude": -7.90941,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7488842",
@@ -3481,7 +3815,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Shannon College of Hotel Management was founded in 1951 as Ireland's first designated college of hotel management. Since 2015 it is fully incorporated into the University of Galway. The college was founded by Brendan O'Regan and is based in Shannon Airport, County Clare."
     },
     {
         "wikidata_id": "Q22908703",
@@ -3491,7 +3826,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122195713",
@@ -3501,7 +3837,8 @@
         "aliases": null,
         "latitude": 52.58826,
         "longitude": -6.99586,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7534700",
@@ -3511,7 +3848,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Skerry's College  was a series of colleges which primarily prepared candidates for Civil Service examinations across the UK and Ireland."
     },
     {
         "wikidata_id": "Q55047611",
@@ -3521,7 +3859,8 @@
         "aliases": null,
         "latitude": 54.21402,
         "longitude": -7.11374,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122200775",
@@ -3531,7 +3870,8 @@
         "aliases": null,
         "latitude": 52.79339,
         "longitude": -7.17625,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7592759",
@@ -3541,7 +3881,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "St. Catherine's College of Education for Home Economics, was set up by the Dominican Order in 1929 for the training of secondary school teachers of Domestic Science.  The college was known more colloquially as either 'St Catherine's' or simply 'Sion Hill'."
     },
     {
         "wikidata_id": "Q55028369",
@@ -3551,7 +3892,8 @@
         "aliases": null,
         "latitude": 53.06625,
         "longitude": -8.8214,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q127328293",
@@ -3567,7 +3909,8 @@
         ],
         "latitude": 52.64442,
         "longitude": -7.24822,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55029244",
@@ -3577,7 +3920,8 @@
         "aliases": null,
         "latitude": 53.97629,
         "longitude": -6.71591,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7593895",
@@ -3590,7 +3934,8 @@
         ],
         "latitude": 52.6469,
         "longitude": -7.25556,
-        "type": "university"
+        "type": "university",
+        "description": "St Kieran's College (Coláiste Chiaráin) is a  Roman Catholic secondary school, located on College Road, Kilkenny, Ireland."
     },
     {
         "wikidata_id": "Q122224065",
@@ -3602,7 +3947,8 @@
         ],
         "latitude": 54.07307,
         "longitude": -7.07477,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122229506",
@@ -3612,7 +3958,8 @@
         "aliases": null,
         "latitude": 54.00843,
         "longitude": -7.35334,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7595066",
@@ -3624,7 +3971,8 @@
         ],
         "latitude": 53.3704,
         "longitude": -6.2544,
-        "type": "college"
+        "type": "college",
+        "description": "St Patrick's College (Irish: Coláiste Phádraig), often known as St Pat's, was a third level institution in Ireland, the leading function of which was as the country's largest primary teacher training college, which had at one time up to 2,000 students. Founded in Drumcondra, in the northern suburbs of Dublin, in 1875, with a Roman Catholic ethos, it offered a number of undergraduate courses, primarily in primary education and arts, and in time postgraduate courses too, mostly in education and languages.\nOn 30 September 2016, St Patrick's was dissolved as an institution and incorporated into Dublin City University, along with Mater Dei Institute of Education, All Hallows College, and the Church of Ireland College of Education."
     },
     {
         "wikidata_id": "Q7587886",
@@ -3634,7 +3982,8 @@
         "aliases": null,
         "latitude": 53.2829478,
         "longitude": -6.2815994,
-        "type": "university"
+        "type": "university",
+        "description": "St. Enda's School (Irish: Scoil Éanna) was an Irish-language secondary school established in 1908 by Irish nationalist Patrick Pearse. Originally Pearse's school was established in 1908 at Cullenswood House, Ranelagh before moving to the Hermitage in Rathfarnham in 1910."
     },
     {
         "wikidata_id": "Q7588605",
@@ -3644,7 +3993,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "St. John's Central College (Irish: Lár Choláiste Eoin) is a further education college in Cork City, Ireland. The college is administered by the Cork Education and Training Board."
     },
     {
         "wikidata_id": "Q124820780",
@@ -3658,7 +4008,8 @@
         ],
         "latitude": 52.63265,
         "longitude": -7.26265,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7590941",
@@ -3668,7 +4019,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Mary Immaculate College, (MIC) St. Patrick's Campus, Thurles is a third-level college of education in Thurles, County Tipperary. Formerly a seminary, the college specialises in humanities courses in accounting, business studies, Irish and religious studies."
     },
     {
         "wikidata_id": "Q7590902",
@@ -3678,7 +4030,8 @@
         "aliases": null,
         "latitude": 52.8376,
         "longitude": -6.927,
-        "type": "college"
+        "type": "college",
+        "description": "St Patrick's, Carlow College, is a liberal arts college located in Carlow, Ireland. The college is the second oldest third level institution in Ireland and was founded in 1782 by James Keefe, then Roman Catholic Bishop of Kildare and Leighlin, and his co-adjutor bishop Daniel Delany."
     },
     {
         "wikidata_id": "Q122200509",
@@ -3688,7 +4041,8 @@
         "aliases": null,
         "latitude": 52.53457,
         "longitude": -7.22384,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55050895",
@@ -3698,7 +4052,8 @@
         "aliases": null,
         "latitude": 53.91966,
         "longitude": -6.54858,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122206532",
@@ -3708,7 +4063,8 @@
         "aliases": null,
         "latitude": 52.33931,
         "longitude": -6.47316,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55028825",
@@ -3718,7 +4074,8 @@
         "aliases": null,
         "latitude": 52.386,
         "longitude": -9.30128,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122208483",
@@ -3728,7 +4085,8 @@
         "aliases": null,
         "latitude": 52.57949,
         "longitude": -6.67831,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55051399",
@@ -3738,7 +4096,8 @@
         "aliases": null,
         "latitude": 54.24292,
         "longitude": -8.81027,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122175103",
@@ -3748,7 +4107,8 @@
         "aliases": null,
         "latitude": 53.92339,
         "longitude": -7.86399,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122190408",
@@ -3758,7 +4118,8 @@
         "aliases": null,
         "latitude": 52.54439,
         "longitude": -7.39008,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122171718",
@@ -3770,7 +4131,8 @@
         ],
         "latitude": 53.2348,
         "longitude": -7.32219,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122252373",
@@ -3782,7 +4144,8 @@
         ],
         "latitude": 53.70939,
         "longitude": -8.28658,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122171371",
@@ -3792,7 +4155,8 @@
         "aliases": null,
         "latitude": 53.20915,
         "longitude": -7.09924,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122233680",
@@ -3802,7 +4166,8 @@
         "aliases": null,
         "latitude": 54.07356,
         "longitude": -7.08304,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122196308",
@@ -3812,7 +4177,8 @@
         "aliases": null,
         "latitude": 52.80256,
         "longitude": -7.20993,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122200377",
@@ -3822,7 +4188,8 @@
         "aliases": null,
         "latitude": 52.52676,
         "longitude": -7.13535,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7795653",
@@ -3832,7 +4199,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55051444",
@@ -3842,7 +4210,8 @@
         "aliases": null,
         "latitude": 52.68036,
         "longitude": -7.81926,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q258464",
@@ -3861,7 +4230,8 @@
         ],
         "latitude": 53.3444,
         "longitude": -6.2577,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q126898934",
@@ -3873,7 +4243,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q122196077",
@@ -3883,7 +4254,8 @@
         "aliases": null,
         "latitude": 52.43195,
         "longitude": -7.05246,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122186328",
@@ -3893,7 +4265,8 @@
         "aliases": null,
         "latitude": 52.80303,
         "longitude": -6.73304,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16902157",
@@ -3903,7 +4276,8 @@
         "aliases": null,
         "latitude": 51.8976,
         "longitude": -8.48371,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1574185",
@@ -3922,7 +4296,8 @@
         ],
         "latitude": 51.89291,
         "longitude": -8.49289,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071033",
@@ -3932,7 +4307,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q101071039",
@@ -3942,7 +4318,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071040",
@@ -3952,7 +4329,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071041",
@@ -3962,7 +4340,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071042",
@@ -3972,7 +4351,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071044",
@@ -3982,7 +4362,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071046",
@@ -3992,7 +4373,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071047",
@@ -4002,7 +4384,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071048",
@@ -4012,7 +4395,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071049",
@@ -4022,7 +4406,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071050",
@@ -4032,7 +4417,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071051",
@@ -4042,7 +4428,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071053",
@@ -4052,7 +4439,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q101071056",
@@ -4062,7 +4450,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071057",
@@ -4072,7 +4461,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071058",
@@ -4082,7 +4472,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071059",
@@ -4092,7 +4483,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071060",
@@ -4102,7 +4494,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071071",
@@ -4112,7 +4505,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071072",
@@ -4122,7 +4516,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071073",
@@ -4132,7 +4527,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071075",
@@ -4142,7 +4538,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071076",
@@ -4152,7 +4549,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1068258",
@@ -4169,7 +4567,8 @@
         ],
         "latitude": 53.3076,
         "longitude": -6.21981,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071078",
@@ -4179,7 +4578,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071088",
@@ -4189,7 +4589,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q101071089",
@@ -4199,7 +4600,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071090",
@@ -4209,7 +4611,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071091",
@@ -4219,7 +4622,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071092",
@@ -4229,7 +4633,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071093",
@@ -4239,7 +4644,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071094",
@@ -4249,7 +4655,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071095",
@@ -4259,7 +4666,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q101071097",
@@ -4269,7 +4677,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071098",
@@ -4279,7 +4688,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071099",
@@ -4289,7 +4699,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071100",
@@ -4299,7 +4710,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071101",
@@ -4309,7 +4721,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071102",
@@ -4319,7 +4732,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071103",
@@ -4329,7 +4743,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071104",
@@ -4339,7 +4754,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071106",
@@ -4349,7 +4765,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071107",
@@ -4359,7 +4776,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071108",
@@ -4369,7 +4787,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071109",
@@ -4379,7 +4798,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071110",
@@ -4389,7 +4809,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071111",
@@ -4399,7 +4820,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071112",
@@ -4409,7 +4831,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071113",
@@ -4419,7 +4842,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071114",
@@ -4429,7 +4853,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071115",
@@ -4439,7 +4864,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071116",
@@ -4452,7 +4878,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071117",
@@ -4462,7 +4889,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071120",
@@ -4472,7 +4900,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7432538",
@@ -4484,7 +4913,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071121",
@@ -4494,7 +4924,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071122",
@@ -4504,7 +4935,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071123",
@@ -4514,7 +4946,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071124",
@@ -4524,7 +4957,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071125",
@@ -4534,7 +4968,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071147",
@@ -4544,7 +4979,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071155",
@@ -4554,7 +4990,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071150",
@@ -4564,7 +5001,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071151",
@@ -4574,7 +5012,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071152",
@@ -4584,7 +5023,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071153",
@@ -4594,7 +5034,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071154",
@@ -4604,7 +5045,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071156",
@@ -4614,7 +5056,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071158",
@@ -4624,7 +5067,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101071160",
@@ -4634,7 +5078,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q644478",
@@ -4651,7 +5096,8 @@
         ],
         "latitude": 53.277784,
         "longitude": -9.06186,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Galway (Irish: Ollscoil na Gaillimhe) is a public research university located in the city of Galway, Ireland. The university was founded in 1845 as Queen's College, Galway. It was known as \"University College, Galway\" (UCG) (Irish: Coláiste na hOllscoile, Gaillimh) from 1908 to 1997 and as \"National University of Ireland Galway\" (NUI Galway) (Irish: Ollscoil na hÉireann Gaillimh; OÉ Gaillimh) from 1997 to 2022."
     },
     {
         "wikidata_id": "Q101071161",
@@ -4661,7 +5107,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q573954",
@@ -4674,7 +5121,8 @@
         ],
         "latitude": 52.675,
         "longitude": -8.5726944,
-        "type": "university"
+        "type": "university",
+        "description": "University of Limerick (UL) (Irish: Ollscoil Luimnigh) is a public research university in Limerick, Ireland. Founded in 1972, as the National Institute for Higher Education, Limerick, it became a university in September 1989 in accordance with the University of Limerick Act 1989. It was the first university established since Irish independence in 1922, followed by the establishment of Dublin City University."
     },
     {
         "wikidata_id": "Q101071162",
@@ -4684,7 +5132,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012462",
@@ -4694,7 +5143,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012463",
@@ -4704,7 +5154,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012464",
@@ -4714,7 +5165,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012465",
@@ -4724,7 +5176,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012467",
@@ -4734,7 +5187,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012470",
@@ -4744,7 +5198,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74545505",
@@ -4754,7 +5209,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q122154689",
@@ -4766,7 +5222,8 @@
         ],
         "latitude": 53.05091,
         "longitude": -7.08774,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122196323",
@@ -4776,7 +5233,8 @@
         "aliases": null,
         "latitude": 52.80528,
         "longitude": -7.20792,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122183848",
@@ -4786,7 +5244,8 @@
         "aliases": null,
         "latitude": 53.85682,
         "longitude": -7.92027,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7970654",
@@ -4796,7 +5255,8 @@
         "aliases": null,
         "latitude": 53.437,
         "longitude": -6.489,
-        "type": "college"
+        "type": "college",
+        "description": "Warrenstown College was an agricultural and horticultural college run by the Salesian congregation, in Drumree, County Meath."
     },
     {
         "wikidata_id": "Q122207604",
@@ -4806,7 +5266,8 @@
         "aliases": null,
         "latitude": 52.50175,
         "longitude": -6.57227,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122207093",
@@ -4816,7 +5277,8 @@
         "aliases": null,
         "latitude": 52.3369,
         "longitude": -6.4623,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122206843",
@@ -4826,6 +5288,7 @@
         "aliases": null,
         "latitude": 52.34198,
         "longitude": -6.46735,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

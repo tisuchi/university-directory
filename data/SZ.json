@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25106445",
@@ -22,7 +23,8 @@
         ],
         "latitude": -26.3102222,
         "longitude": 31.1217222,
-        "type": "university"
+        "type": "university",
+        "description": "Eswatini College of Technology, also referred to a ECOT, is a state-owned college in Eswatini. It offers courses in engineering, science and education. Nomcebo M.F Nhlengetfwa is the current principal of the college."
     },
     {
         "wikidata_id": "Q102107091",
@@ -34,7 +36,8 @@
         ],
         "latitude": -26.3173056,
         "longitude": 31.1171111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134311417",
@@ -44,7 +47,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Ludlambedlu refers to the royal cattle herd of the Eswatini monarchy, specifically the cattle owned by the King."
     },
     {
         "wikidata_id": "Q102107087",
@@ -57,7 +61,8 @@
         ],
         "latitude": -27.1385833,
         "longitude": 31.2009167,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q61931923",
@@ -72,7 +77,8 @@
         ],
         "latitude": -26.498463,
         "longitude": 31.364565,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1570483",
@@ -88,7 +94,8 @@
         ],
         "latitude": -26.4824,
         "longitude": 31.3124,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Eswatini (or UNESWA; formerly known as the University of Swaziland, or UNISWA) is the national university of Eswatini.\nIt was established by act of parliament in 1982. The university is developed from the University of Botswana, Lesotho and Swaziland (UBLS), formerly known as the University of Basutoland, \nBechuanaland and Swaziland (UBBS), which was established in 1964."
     },
     {
         "wikidata_id": "Q100943706",
@@ -98,6 +105,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

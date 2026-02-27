@@ -11,7 +11,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "42 is a private institution of education in computer science founded by Xavier Niel, Nicolas Sadirac (former executive director at Epitech), Kwame Yamgnane, and Florian Bucher (former executives at Epitech). The school opened in Paris in 2013. The school does not have any professors and is open 24\/7."
     },
     {
         "wikidata_id": "Q4855246",
@@ -23,7 +24,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Bangla Language and Literary Society, Singapore (BLLS) was established in 1994 with the goal to teach Bangla (Bengali) language to younger generations who grew up in Singapore."
     },
     {
         "wikidata_id": "Q30281672",
@@ -38,7 +40,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Bioinformatics Institute (Abbreviation: BII) is one of the Biomedical Sciences Institutes of the Agency for Science, Technology and Research, (A*STAR). BII was originally founded in 2001 by Dr Rajagopal as a support unit for Bioinformatics and IT service management. However, since August 2007, it has been redefined as a biological research organisation upon the arrival of the current executive director, Dr Frank Eisenhaber."
     },
     {
         "wikidata_id": "Q30296042",
@@ -50,7 +53,8 @@
         ],
         "latitude": 1.304001,
         "longitude": 103.792277,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q17050402",
@@ -60,7 +64,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Centre for Advanced 2D Materials (CA2DM), at the National University of Singapore (NUS), is the first centre in Asia dedicated to graphene research. The centre was established under the scientific advice of two Nobel Laureates in physics – Prof Andre Geim and Prof Konstantin Novoselov - who won the 2010 Nobel Prize in Physics for their discovery of graphene. It was created for the conception, characterization, theoretical modeling, and development of transformative technologies based on two-dimensional crystals, such as graphene."
     },
     {
         "wikidata_id": "Q5062485",
@@ -74,7 +79,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Centre for International Law (CIL) was established in 2009 at the National University of Singapore (NUS), in response to the growing need for international law expertise and capacity building in the Asia-Pacific region.\nThe CIL engages in research and capacity building on international law and policy. The Centre organises conferences, seminars and forums to encourage dialogue and the sharing of information on significant international law and policy issues affecting South East Asia or the Asia-Pacific region."
     },
     {
         "wikidata_id": "Q5062545",
@@ -84,7 +90,8 @@
         "aliases": null,
         "latitude": 1.2971,
         "longitude": 103.7781,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Centre for Quantum Technologies (CQT) in Singapore is a Research Centre of Excellence hosted by the National University of Singapore. The Centre brings together physicists, computer scientists and engineers to do basic research on quantum physics and to build devices based on quantum phenomena. Experts in quantum technologies are applying their discoveries in computing, communications and sensing."
     },
     {
         "wikidata_id": "Q136564986",
@@ -96,7 +103,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74529061",
@@ -106,7 +114,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74558104",
@@ -116,7 +125,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5124558",
@@ -130,7 +140,8 @@
         ],
         "latitude": 1.309811,
         "longitude": 103.7918783,
-        "type": "college"
+        "type": "college",
+        "description": "Civil Service College (CSC) Singapore is a college and statutory board under the Public Service Division of the Prime Minister's Office that provides education to civil servants of the Government of Singapore."
     },
     {
         "wikidata_id": "Q5195644",
@@ -140,7 +151,8 @@
         "aliases": null,
         "latitude": 1.2884206,
         "longitude": 103.7795669,
-        "type": "university"
+        "type": "university",
+        "description": "Curtin Singapore is the Singaporean campus of Curtin University, a public university in Australia. It offers undergraduate and postgraduate degree programs in healthcare, computational sciences, commerce and communications with plans to expand to science and engineering. The campus also offers a Doctor of Philosophy (PhD) higher degree by research program."
     },
     {
         "wikidata_id": "Q5227218",
@@ -150,7 +162,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Data Storage Institute (DSI) (1997–2018) was a national research and development organisation located in Singapore, that studied data storage technologies."
     },
     {
         "wikidata_id": "Q47462448",
@@ -160,7 +173,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5322521",
@@ -170,7 +184,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q48727256",
@@ -180,7 +195,8 @@
         "aliases": null,
         "latitude": 1.3195,
         "longitude": 103.815,
-        "type": "institute"
+        "type": "institute",
+        "description": "The East Asian Institute (EAI) is an autonomous research institute and think tank of the National University of Singapore (NUS), that focuses on the political, social, and economic development in East and Southeast Asia. It is the successor to the Institute of East Asian Political Economy (IEAPE), which succeeded the Institute of East Asian Philosophies (IEAP; founded 1983).  \nAs of 2022, the institute's chairman and director are Teh Kok Peng and Bert Hofman respectively."
     },
     {
         "wikidata_id": "Q23016546",
@@ -192,7 +208,8 @@
         ],
         "latitude": 1.30702,
         "longitude": 103.84772,
-        "type": "university"
+        "type": "university",
+        "description": "ERAU Asia is a private university in Singapore, and is a branch of Embry-Riddle Aeronautical University, based in the United States.\nEmbry-Riddle Asia's main office building is located at 75 Bukit Timah Road, while classes are offered at ERC Institute at 229 Mountbatten Road, #01-30, Mountbatten Square, Singapore 398007."
     },
     {
         "wikidata_id": "Q45131692",
@@ -206,7 +223,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5533481",
@@ -216,7 +234,8 @@
         "aliases": null,
         "latitude": 1.3028,
         "longitude": 103.7925,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547061",
@@ -226,7 +245,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30281831",
@@ -240,7 +260,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527875",
@@ -250,7 +271,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30296095",
@@ -264,7 +286,8 @@
         ],
         "latitude": 1.289556,
         "longitude": 103.779318,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16999819",
@@ -274,7 +297,8 @@
         "aliases": null,
         "latitude": 1.3116389,
         "longitude": 103.7930278,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30587676",
@@ -284,7 +308,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Institute of Systems Science (abbreviated as NUS-ISS) is a technology school at the National University of Singapore. It was established in 1981. The school offers programmes including Master of Technology and Graduate Diploma in Systems Analysis."
     },
     {
         "wikidata_id": "Q6040895",
@@ -294,7 +319,8 @@
         "aliases": null,
         "latitude": 1.376613,
         "longitude": 103.855177,
-        "type": "university"
+        "type": "university",
+        "description": "The Institute of Technical Education (ITE) is a post-secondary education institution and statutory board under the purview of the Ministry of Education in Singapore.\nEstablished by the Ministry of Education, it was formerly known as Vocational and Industrial Training Board (VITB). ITE has three colleges, ITE College Central, ITE College East and ITE College West."
     },
     {
         "wikidata_id": "Q6040872",
@@ -306,7 +332,8 @@
         ],
         "latitude": 1.2916667,
         "longitude": 103.7766667,
-        "type": "institute"
+        "type": "institute",
+        "description": "The ISEAS – Yusof Ishak Institute is a research institution and statutory board under the purview of the Ministry of Education in Singapore.  It was established by an Act of Parliament in 1968.\nPreviously known as the Institute of Southeast Asian Studies (ISEAS), the organisation was renamed as ISEAS – Yusof Ishak Institute on 12 August 2015, in honour of Singapore's first President, Yusof Ishak."
     },
     {
         "wikidata_id": "Q720304",
@@ -318,7 +345,8 @@
         ],
         "latitude": 1.31556,
         "longitude": 103.876,
-        "type": "university"
+        "type": "university",
+        "description": "James Cook University in Singapore (JCU Singapore) is a branch campus of James Cook University, a public research university based in Australia. Established in 2003, it is currently the only overseas institution with university status in Singapore. It is located between Kallang and Geylang in the Central Region on the former site of the Manjusri Secondary School."
     },
     {
         "wikidata_id": "Q111032554",
@@ -328,7 +356,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6315363",
@@ -338,7 +367,8 @@
         "aliases": null,
         "latitude": 1.3511,
         "longitude": 103.7136,
-        "type": "college"
+        "type": "college",
+        "description": "Jurong Junior College (JJC) was a junior college located in Jurong West, Singapore. It was the ninth junior college to be established by the Ministry of Education of Singapore."
     },
     {
         "wikidata_id": "Q74557106",
@@ -348,7 +378,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6457112",
@@ -360,7 +391,8 @@
         ],
         "latitude": 1.303068,
         "longitude": 103.851852,
-        "type": "university"
+        "type": "university",
+        "description": "Lasalle College of the Arts, simply known as Lasalle, is a publicly-funded post-secondary arts institution in Singapore, and a constituent college of the University of the Arts Singapore (UAS) from 2024. \nFounded in 1984, Lasalle has eight art and design schools that offer more than 30 diploma, undergraduate and postgraduate programmes in contemporary arts and design education. Lasalle's bachelor's and master's degrees are validated by Goldsmiths College, University of London."
     },
     {
         "wikidata_id": "Q6514349",
@@ -373,7 +405,8 @@
         ],
         "latitude": 1.3198,
         "longitude": 103.81747,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Lee Kuan Yew School of Public Policy (LKY School) is an autonomous postgraduate school of the National University of Singapore (NUS), named after the late former prime minister of Singapore, Lee Kuan Yew."
     },
     {
         "wikidata_id": "Q47522398",
@@ -386,7 +419,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6746666",
@@ -398,7 +432,8 @@
         ],
         "latitude": 1.29702,
         "longitude": 103.80114,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6812560",
@@ -408,7 +443,8 @@
         "aliases": null,
         "latitude": 1.2795,
         "longitude": 103.849,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6964460",
@@ -420,7 +456,8 @@
         ],
         "latitude": 1.30023,
         "longitude": 103.852,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6964469",
@@ -433,7 +470,8 @@
         ],
         "latitude": 1.38006,
         "longitude": 103.84901,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q721064",
@@ -446,7 +484,8 @@
         ],
         "latitude": 1.3447222,
         "longitude": 103.6813889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013890",
@@ -456,7 +495,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013891",
@@ -466,7 +506,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013892",
@@ -476,7 +517,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q720430",
@@ -488,7 +530,8 @@
         ],
         "latitude": 1.35,
         "longitude": 103.683,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6974576",
@@ -500,7 +543,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q738236",
@@ -514,7 +558,8 @@
         ],
         "latitude": 1.2955556,
         "longitude": 103.7766667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013894",
@@ -524,7 +569,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013895",
@@ -534,7 +580,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013897",
@@ -544,7 +591,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013898",
@@ -556,7 +604,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013900",
@@ -566,7 +615,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013901",
@@ -576,7 +626,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013902",
@@ -586,7 +637,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74549643",
@@ -596,7 +648,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q101013903",
@@ -606,7 +659,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013907",
@@ -616,7 +670,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013908",
@@ -626,7 +681,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013909",
@@ -636,7 +692,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10482047",
@@ -650,7 +707,8 @@
         ],
         "latitude": 1.33361,
         "longitude": 103.777,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7064459",
@@ -660,7 +718,8 @@
         "aliases": null,
         "latitude": 1.304,
         "longitude": 103.7891,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q54321651",
@@ -670,7 +729,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7120606",
@@ -680,7 +740,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q129485886",
@@ -690,7 +751,8 @@
         "aliases": null,
         "latitude": 1.306187,
         "longitude": 103.773756,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q111032617",
@@ -700,7 +762,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7314413",
@@ -714,7 +777,8 @@
         ],
         "latitude": 1.4447222,
         "longitude": 103.7850833,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7387798",
@@ -726,7 +790,8 @@
         ],
         "latitude": 1.34472,
         "longitude": 103.681,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19646376",
@@ -736,7 +801,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7452690",
@@ -746,7 +812,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q54321638",
@@ -758,7 +825,8 @@
         ],
         "latitude": 1.3291667,
         "longitude": 103.7763889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7522909",
@@ -770,7 +838,8 @@
         ],
         "latitude": 1.38333,
         "longitude": 103.983,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131459942",
@@ -780,7 +849,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30279660",
@@ -792,7 +862,8 @@
         ],
         "latitude": 1.2814,
         "longitude": 103.83574,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7523001",
@@ -802,7 +873,8 @@
         "aliases": null,
         "latitude": 1.3437,
         "longitude": 103.7501,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7523022",
@@ -815,7 +887,8 @@
         ],
         "latitude": 1.29028,
         "longitude": 103.849,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q950609",
@@ -828,7 +901,8 @@
         ],
         "latitude": 1.2966667,
         "longitude": 103.8497222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013910",
@@ -838,7 +912,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013912",
@@ -848,7 +923,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013914",
@@ -858,7 +934,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7523091",
@@ -872,7 +949,8 @@
         ],
         "latitude": 1.3097,
         "longitude": 103.78,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7523097",
@@ -882,7 +960,8 @@
         "aliases": null,
         "latitude": 1.2752,
         "longitude": 103.7991,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q494179",
@@ -894,7 +973,8 @@
         ],
         "latitude": 1.32917,
         "longitude": 103.776,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11081251",
@@ -906,7 +986,8 @@
         ],
         "latitude": 1.3401028,
         "longitude": 103.9629556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q54983608",
@@ -918,7 +999,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7523322",
@@ -931,7 +1013,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7522600",
@@ -943,7 +1026,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7391424",
@@ -953,7 +1037,8 @@
         "aliases": null,
         "latitude": 1.2980556,
         "longitude": 103.8488889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124476724",
@@ -965,7 +1050,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q103813574",
@@ -977,7 +1063,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7697997",
@@ -987,7 +1074,8 @@
         "aliases": null,
         "latitude": 1.2943,
         "longitude": 103.7747,
-        "type": "institute"
+        "type": "institute",
+        "description": "Temasek Life Sciences Laboratory (TLL) was established in August 2002 and as a Singapore Non Profit Philanthropic Research Organisation focusing primarily on understanding the cellular mechanisms that underlie the development and physiology of plants, fungi and animals which provides foundation for biotechnology innovation.\nIt is affiliated with the National University of Singapore and the Nanyang Technological University and is located within the campus of the National University of Singapore.\nTLL has 230 researchers from about 20 different nationalities to engage in biomolecular science research and applications."
     },
     {
         "wikidata_id": "Q7697998",
@@ -1001,7 +1089,8 @@
         ],
         "latitude": 1.3451,
         "longitude": 103.9296,
-        "type": "university"
+        "type": "university",
+        "description": "Temasek Polytechnic (TP) is a post-secondary education institution and statutory board under the purview of the Ministry of Education, Singapore. \nEstablished in 1990, TP is renowned for its law and design programmes. It is also the first and only polytechnic in Singapore to offer a law programme."
     },
     {
         "wikidata_id": "Q5551132",
@@ -1013,7 +1102,8 @@
         ],
         "latitude": 1.3075361,
         "longitude": 103.7781111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1784861",
@@ -1025,7 +1115,8 @@
         ],
         "latitude": 1.3582222,
         "longitude": 103.9313889,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7895922",
@@ -1035,7 +1126,8 @@
         "aliases": null,
         "latitude": 1.3408,
         "longitude": 103.965,
-        "type": "university"
+        "type": "university",
+        "description": "The University of New South Wales Asia (Abbreviation: UNSW Asia; Chinese: 亚洲新南威尔斯大学) was the first international university campus for the University of New South Wales in Singapore which opened on 12 March 2007. UNSW Asia was the first foreign university and fifth university in Singapore.\nOn 23 May 2007, UNSW Asia Singapore campus announced its planned closure on 28 June 2007, at the end of the first semester due to financial issues and lower than expected student numbers."
     },
     {
         "wikidata_id": "Q101013915",
@@ -1045,7 +1137,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q115805450",
@@ -1055,7 +1148,8 @@
         "aliases": null,
         "latitude": 1.300229,
         "longitude": 103.851573,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896554",
@@ -1065,7 +1159,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74554556",
@@ -1075,6 +1170,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     }
 ]

@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 13.484,
         "longitude": 7.12465,
-        "type": "university"
+        "type": "university",
+        "description": "Aboubacar Ibrahim International University is a private university in the city of Maradi in the Republic of Niger."
     },
     {
         "wikidata_id": "Q111207143",
@@ -22,7 +23,8 @@
         ],
         "latitude": 13.5682078,
         "longitude": 2.1012641,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134463324",
@@ -34,7 +36,8 @@
         ],
         "latitude": 13.5673651,
         "longitude": 2.102358,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30255703",
@@ -46,7 +49,8 @@
         ],
         "latitude": 13.4975,
         "longitude": 2.101,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3551691",
@@ -58,7 +62,8 @@
         ],
         "latitude": 13.84311,
         "longitude": 8.98637,
-        "type": "university"
+        "type": "university",
+        "description": "André-Salifou University is located in the capital of Damagaram (Zinder), and is one of the eight public universities in Niger."
     },
     {
         "wikidata_id": "Q134463112",
@@ -68,7 +73,8 @@
         "aliases": null,
         "latitude": 13.5006988,
         "longitude": 7.1175642,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551676",
@@ -81,7 +87,8 @@
         ],
         "latitude": 14.86758,
         "longitude": 5.27976,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q137161610",
@@ -91,7 +98,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134484344",
@@ -104,7 +112,8 @@
         ],
         "latitude": 13.54433,
         "longitude": 2.13363,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q123700671",
@@ -116,7 +125,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q64760713",
@@ -128,7 +138,8 @@
         ],
         "latitude": 13.5046,
         "longitude": 2.0958,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q134495866",
@@ -141,7 +152,8 @@
         ],
         "latitude": 13.79088,
         "longitude": 5.22621,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q890735",
@@ -154,7 +166,8 @@
         ],
         "latitude": 13.13731,
         "longitude": 2.34101,
-        "type": "university"
+        "type": "university",
+        "description": "The Islamic University in Niger (IUIN) is an international university in Say, Niger. Students and faculty study in Arabic, French, and English.\nThe university's vice-chancellor's office is in Niamey."
     },
     {
         "wikidata_id": "Q97041896",
@@ -168,7 +181,8 @@
         ],
         "latitude": 13.491304,
         "longitude": 7.122925,
-        "type": "university"
+        "type": "university",
+        "description": "Maryam Abacha American University of Niger (MAAUN) is the first English speaking university in the Republic of Niger and also the first bilingual university in the Sub-Saharan Africa. it is a large private International university situated in Maradi, Niger. second largest city in Niger Republic, is an institution with a wide range of programs, faculties and departments, offering undergraduate and post graduate degrees in Applied and Basic sciences, in Liberal Arts, in Social and Management sciences."
     },
     {
         "wikidata_id": "Q134474312",
@@ -181,7 +195,8 @@
         ],
         "latitude": 13.5093438,
         "longitude": 2.1115732,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q125745824",
@@ -191,7 +206,8 @@
         "aliases": null,
         "latitude": 13.53217,
         "longitude": 2.08179,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q125748286",
@@ -201,7 +217,8 @@
         "aliases": null,
         "latitude": 13.5167758,
         "longitude": 2.1291628,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125748329",
@@ -211,7 +228,8 @@
         "aliases": null,
         "latitude": 13.546933,
         "longitude": 2.0970544,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125750651",
@@ -221,7 +239,8 @@
         "aliases": null,
         "latitude": 13.5337754,
         "longitude": 2.1064407,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125750840",
@@ -231,7 +250,8 @@
         "aliases": null,
         "latitude": 13.5478855,
         "longitude": 2.0792121,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125750903",
@@ -241,7 +261,8 @@
         "aliases": null,
         "latitude": 13.5411119,
         "longitude": 2.083457,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125755101",
@@ -251,7 +272,8 @@
         "aliases": null,
         "latitude": 13.5107578,
         "longitude": 2.1322383,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125755136",
@@ -261,7 +283,8 @@
         "aliases": null,
         "latitude": 13.5120337,
         "longitude": 2.1252568,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134495233",
@@ -274,7 +297,8 @@
         ],
         "latitude": 13.51118,
         "longitude": 2.1046,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25390082",
@@ -286,7 +310,8 @@
         ],
         "latitude": 16.97273,
         "longitude": 8.00342,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21634352",
@@ -298,7 +323,8 @@
         ],
         "latitude": 13.31308,
         "longitude": 12.59336,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Diffa (UDA) is a public university located in Diffa, Niger, approximately 1,355 km (842 mi) east of Niamey."
     },
     {
         "wikidata_id": "Q21634353",
@@ -308,7 +334,8 @@
         "aliases": null,
         "latitude": 13.04465,
         "longitude": 3.18146,
-        "type": "university"
+        "type": "university",
+        "description": "The Université de Dosso (UDO), also known as Université de Dosso, is a public university located in Dosso, Niger."
     },
     {
         "wikidata_id": "Q20669872",
@@ -318,7 +345,8 @@
         "aliases": null,
         "latitude": 14.20322,
         "longitude": 1.45961,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Tillabéri, located in Tillabéri, Niger, was established by Law No. 2014-14 on August 19, 2014, following the approval by the Nigerien Parliament of the bill to create four new universities. The other three universities created simultaneously are those of Diffa, Dosso, and Agadez, bringing the total number of universities in the country to eight, alongside those in Niamey, Maradi, Tahoua, and Zinder."
     },
     {
         "wikidata_id": "Q308329",
@@ -336,7 +364,8 @@
         ],
         "latitude": 13.5013611,
         "longitude": 2.0985278,
-        "type": "university"
+        "type": "university",
+        "description": "Abdou Moumouni University (French: Université Abdou Moumouni de Niamey, UAM), formerly the University of Niamey from 1974 to 1994, is a public university based in Niamey, the capital of Niger. The main campus is situated on the right bank of the Niger River. Historically, its students and faculty have been involved in protest movements in the capital."
     },
     {
         "wikidata_id": "Q102228472",
@@ -348,7 +377,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131582064",
@@ -364,7 +394,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3551522",
@@ -377,7 +408,8 @@
         ],
         "latitude": 13.4976,
         "longitude": 2.13129,
-        "type": "university"
+        "type": "university",
+        "description": "The Canadian University of Niger (UNICAN) is a private university located in Niamey, the capital of Niger."
     },
     {
         "wikidata_id": "Q3551623",
@@ -389,7 +421,8 @@
         ],
         "latitude": 13.49261,
         "longitude": 7.1289,
-        "type": "university"
+        "type": "university",
+        "description": "The Dan Dicko Dankoulodo University of Maradi (UDDM) is a Nigerien university located in Maradi. It started in 2008 with a university institute of technology (IUT).\nIn 2020, UDDM had a staff of 87 teachers, including 65 teacher-researchers and 22 technology teachers, 70 technical support staff (PAT), and 3,814 students, including 713 female students."
     },
     {
         "wikidata_id": "Q3551793",
@@ -401,7 +434,8 @@
         ],
         "latitude": 13.4917,
         "longitude": 7.0964,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16964850",
@@ -411,7 +445,8 @@
         "aliases": null,
         "latitude": 13.137,
         "longitude": 2.34,
-        "type": "university"
+        "type": "university",
+        "description": "The People's University of Niamey is a popular education institution located in Niamey, the capital of Niger."
     },
     {
         "wikidata_id": "Q28500030",
@@ -421,7 +456,8 @@
         "aliases": null,
         "latitude": 13.52367,
         "longitude": 2.1058,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q65510635",
@@ -437,7 +473,8 @@
         ],
         "latitude": 13.51417,
         "longitude": 2.10143,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q119230185",
@@ -451,6 +488,7 @@
         ],
         "latitude": 13.52037,
         "longitude": 2.08158,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

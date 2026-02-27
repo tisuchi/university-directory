@@ -7,7 +7,8 @@
         "aliases": ["TU Munich", "TUM"],
         "latitude": 48.1497,
         "longitude": 11.5679,
-        "type": "university"
+        "type": "university",
+        "description": "The Technical University of Munich is a public research university in Munich, Germany. It is one of the largest universities in Germany and one of the oldest technical universities."
     },
     {
         "wikidata_id": "Q55044",
@@ -17,6 +18,7 @@
         "aliases": ["LMU Munich"],
         "latitude": 48.1508,
         "longitude": 11.5802,
-        "type": "university"
+        "type": "university",
+        "description": "The Ludwig Maximilian University of Munich is a public research university located in Munich, Germany. It is one of Europe's oldest universities, founded in 1472."
     }
 ]

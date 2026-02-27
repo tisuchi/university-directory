@@ -9,7 +9,8 @@
         ],
         "latitude": -1.9451934,
         "longitude": 30.1405192,
-        "type": "university"
+        "type": "university",
+        "description": "The Adventist University of Central Africa (AUCA; in French: Universite Adventiste d'Afrique Central) is a Seventh-day Adventist institution of higher learning near two campuses in Kigali, Rwanda. It is a part of the Seventh-day Adventist education system, the world's second largest Christian school system.\nAUCA is the largest Adventist University serving the French speaking parts of Africa."
     },
     {
         "wikidata_id": "Q123038287",
@@ -19,7 +20,8 @@
         "aliases": null,
         "latitude": -1.962,
         "longitude": 30.0748,
-        "type": "university"
+        "type": "university",
+        "description": "The African Centre of Excellence in Data Science (ACE-DS) is a Rwandan educational institution focusing on data science. It is situated at the University of Rwanda, and was established in 2018 under the funding of the World Bank's Africa Centres of Excellence II Project."
     },
     {
         "wikidata_id": "Q124606217",
@@ -29,7 +31,8 @@
         "aliases": null,
         "latitude": -1.9313,
         "longitude": 30.1527,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131286425",
@@ -39,7 +42,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The African School of Governance (ASG) is a graduate institution launched on 16 October 2024, with its campus located in Kigali, Rwanda. It was established to offer world-class graduate programmes in policy, research, governance, leadership, and management, aimed at developing future leaders on the African continent."
     },
     {
         "wikidata_id": "Q131315288",
@@ -51,7 +55,8 @@
         ],
         "latitude": -1.5892736,
         "longitude": 30.0533589,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131303286",
@@ -63,7 +68,8 @@
         ],
         "latitude": -2.0814375,
         "longitude": 29.7498626,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100942484",
@@ -73,7 +79,8 @@
         "aliases": null,
         "latitude": -2.6243725,
         "longitude": 29.7497953,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131309394",
@@ -85,7 +92,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q131309398",
@@ -97,7 +105,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q131315310",
@@ -109,7 +118,8 @@
         ],
         "latitude": -1.9022907,
         "longitude": 30.5066531,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q47520129",
@@ -121,7 +131,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q105095653",
@@ -133,7 +144,8 @@
         ],
         "latitude": -1.5010983,
         "longitude": 29.6087225,
-        "type": "university"
+        "type": "university",
+        "description": "The Institute of Applied Sciences Ruhengeri (French: The Institut D’enseignement Superieur De Ruhengeri, INES), or simply INES - Ruhengeri, is a private research university located in the Northern province of  Rwanda. It was established on November 17, 2003.\nThe acceptance rate is around 80-90%, making it one of the most accepting universities in Rwanda."
     },
     {
         "wikidata_id": "Q131315433",
@@ -145,7 +157,8 @@
         ],
         "latitude": -2.1485233,
         "longitude": 30.5432853,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131315348",
@@ -157,7 +170,8 @@
         ],
         "latitude": -1.6950371,
         "longitude": 29.9204059,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q117794943",
@@ -167,7 +181,8 @@
         "aliases": null,
         "latitude": -1.5617274,
         "longitude": 29.637068,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1729628",
@@ -179,7 +194,8 @@
         ],
         "latitude": -1.477411,
         "longitude": 29.492197,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Karisoke Research Center is a research institute in Rwanda's Volcanoes National Park. It was founded by Dian Fossey on 24 September 1967 to study  endangered mountain gorillas. Fossey located the camp in Rwanda's Virunga volcanic mountain range, between Mount Karisimbi and Mount Bisoke, and named it by combining the names of the two mountains."
     },
     {
         "wikidata_id": "Q118397745",
@@ -189,7 +205,8 @@
         "aliases": null,
         "latitude": -2.3251,
         "longitude": 29.1336,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551790",
@@ -202,7 +219,8 @@
         ],
         "latitude": 1.920955,
         "longitude": 30.057434,
-        "type": "university"
+        "type": "university",
+        "description": "Kigali Independent University (French: Université Libre de Kigali, ULK) is a Rwandan institution of higher learning founded on 15 March 1996. A private university, ULK is located in Kigali. The university was founded by Rwigamba Balinda, who remains its president as of 2023."
     },
     {
         "wikidata_id": "Q134713868",
@@ -214,7 +232,8 @@
         ],
         "latitude": -1.9492483,
         "longitude": 30.1216982,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29025070",
@@ -224,7 +243,8 @@
         "aliases": null,
         "latitude": -1.9556097,
         "longitude": 30.1412463,
-        "type": "university"
+        "type": "university",
+        "description": "KIM University re-branded (December 2015) from Kigali Institute of Management (KIM) formerly International College of Accountancy and Management (ICAM) is a private institution of Higher Learning offering post-secondary education and training in Business Management and related disciplines in Rwanda. The Institution was registered in 2003 as a non-profit making organization under the law No. 20\/2000 of 26\/7\/2000."
     },
     {
         "wikidata_id": "Q97041890",
@@ -239,7 +259,8 @@
         ],
         "latitude": -2.203975,
         "longitude": 30.143952,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q119702803",
@@ -252,7 +273,8 @@
         ],
         "latitude": -1.9884,
         "longitude": 30.0983,
-        "type": "university"
+        "type": "university",
+        "description": "Mount Kigali University is a private university in Kigali, Rwanda."
     },
     {
         "wikidata_id": "Q650982",
@@ -262,7 +284,8 @@
         "aliases": null,
         "latitude": -2.616111,
         "longitude": 29.742778,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Rwanda (NUR; Kinyarwanda: Kaminuza nkuru y’u Rwanda, French: Université nationale du Rwanda, UNR) was the largest university in Rwanda. It was located at 2°36′58″S 29°44′34″E in the city of Butare and was established in 1963 by the government in cooperation with the Congregation of the Dominicans from the Province of Quebec, Canada. Its founder and first rector was Father Georges-Henri Lévesque."
     },
     {
         "wikidata_id": "Q17108252",
@@ -272,7 +295,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "North Gate University is a public university being constructed on the outskirts of Kigali in Rwanda. Its creation was approved by a legislative act in Rwandan parliament in 2011. It is being constructed to handle 10,000 students from across the East Africa region, and its capacity expected to increase to 50,000 in 15 years."
     },
     {
         "wikidata_id": "Q131388485",
@@ -282,7 +306,8 @@
         "aliases": null,
         "latitude": -1.9125885,
         "longitude": 30.4223208,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q131388445",
@@ -292,7 +317,8 @@
         "aliases": null,
         "latitude": -2.6079267,
         "longitude": 29.7174166,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q131388461",
@@ -302,7 +328,8 @@
         "aliases": null,
         "latitude": -2.0768457,
         "longitude": 29.3503633,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q131388453",
@@ -312,7 +339,8 @@
         "aliases": null,
         "latitude": -1.9789694,
         "longitude": 30.1029897,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q131388470",
@@ -322,7 +350,8 @@
         "aliases": null,
         "latitude": -2.5279369,
         "longitude": 28.8403358,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q131388457",
@@ -332,7 +361,8 @@
         "aliases": null,
         "latitude": -2.1485233,
         "longitude": 30.5410322,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q131388476",
@@ -342,7 +372,8 @@
         "aliases": null,
         "latitude": -1.8369729,
         "longitude": 29.8429655,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q63646326",
@@ -352,7 +383,8 @@
         "aliases": null,
         "latitude": -2.4828056,
         "longitude": 29.7713889,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100943690",
@@ -362,7 +394,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100942487",
@@ -372,7 +405,8 @@
         "aliases": null,
         "latitude": -1.8251321,
         "longitude": 29.3388306,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7383742",
@@ -382,7 +416,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Rwandan National Institute of Scientific Research is a scientific institution based in Butare, Rwanda. It plays an important role in science and technology in Rwanda.\nThe institute has worked with the National University of Rwanda  in the Phytomedicine and Life Sciences Research Plan which began research into pharmacopeia and traditional medicine in the country at the National University of Rwanda in 1972 in the Faculty of Medicine."
     },
     {
         "wikidata_id": "Q131392161",
@@ -392,7 +427,8 @@
         "aliases": null,
         "latitude": -2.2447355,
         "longitude": 29.6826202,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28035081",
@@ -404,7 +440,8 @@
         ],
         "latitude": -1.9529985,
         "longitude": 30.0903474,
-        "type": "university"
+        "type": "university",
+        "description": "University of Global Health Equity (UGHE) is a health sciences university in Rwanda. An initiative of Partners In Health, UGHE is a private, not-for-profit, accredited institution.\nCatalytic partners that have helped to launch the University include: Cummings Foundation, Bill & Melinda Gates Foundation, and the Government of Rwanda."
     },
     {
         "wikidata_id": "Q131388660",
@@ -414,7 +451,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131315334",
@@ -426,7 +464,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19888178",
@@ -439,7 +478,8 @@
         ],
         "latitude": -2.61575,
         "longitude": 29.74291,
-        "type": "university"
+        "type": "university",
+        "description": "University of Rwanda (Kinyarwanda: Kaminuza y'u Rwanda, French: Université du Rwanda) is a public collegiate, multi campus university based in Kigali, Rwanda. Formed in 2013 through the merger of previously independent education institutions, the University of Rwanda is the largest education institution in Rwanda. The University of Rwanda is ranked number one in the country by the Higher Education Council, an organ established by the Government of Rwanda."
     },
     {
         "wikidata_id": "Q131315333",
@@ -449,7 +489,8 @@
         "aliases": null,
         "latitude": 1.9522971,
         "longitude": 30,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100947813",
@@ -459,7 +500,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100947807",
@@ -469,7 +511,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100947820",
@@ -479,7 +522,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100947808",
@@ -489,7 +533,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131303835",
@@ -499,6 +544,7 @@
         "aliases": null,
         "latitude": -1.9901121,
         "longitude": 30.0695015,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

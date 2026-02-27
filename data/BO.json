@@ -13,7 +13,8 @@
         ],
         "latitude": -16.501561,
         "longitude": -68.132522,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4939511",
@@ -23,7 +24,8 @@
         "aliases": null,
         "latitude": -17.385901,
         "longitude": -66.315465,
-        "type": "university"
+        "type": "university",
+        "description": "Bolivia Adventist University (Spanish: Universidad Adventista de Bolivia), or UAB, is a private coeducational Christian university in the city of Cochabamba. The university is affiliated to the Seventh-day Adventist Church and offers degrees in six major fields: Theology, Health Sciences, Nursing, Education, Economic and Administrative Sciences (Business, etc.), and Engineering. UAB is the only Adventist university in Bolivia, but is one of ten such establishments in South America."
     },
     {
         "wikidata_id": "Q104836551",
@@ -35,7 +37,8 @@
         ],
         "latitude": -16.8258991,
         "longitude": -65.3471909,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q27830758",
@@ -45,7 +48,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3290454",
@@ -58,7 +62,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad Mayor de San Andrés or UMSA (Spanish: Universidad Mayor de San Andrés, lit. 'Higher or Major University of San Andrés') is the leading public university in Bolivia, established since 1830 in the city of La Paz. UMSA is the second-oldest university in Bolivia, after the University of San Francisco Xavier de Chuquisaca (1624)."
     },
     {
         "wikidata_id": "Q6041419",
@@ -68,7 +73,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Instituto Normal Superior Adventista (INSA) is an institute in La Paz, Bolivia. It is part of the Universidad Adventista de Bolivia (UAB). The university was established on June 28, 1956, authorized by the Bolivian Ministry of Education."
     },
     {
         "wikidata_id": "Q196101",
@@ -78,7 +84,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Ismael Montes Teacher Training College (Escuela Superior de Formación de Maestros \"Ismael Montes\" or ESFM \"Ismael Montes\") is an institution of public higher education under the authority of the Ministry of Education of Bolivia, also known as Normal de Vacas.\nIts facilities are situated in Challwa Mayu, Vacas Municipality, Arani Province, Cochabamba Department, about 1 km north west of Vacas.\nOne distinctive feature of this institution is that it prepares bilingual, Quechua and Spanish speaking teachers, for primary as well as for secondary education."
     },
     {
         "wikidata_id": "Q30294055",
@@ -88,7 +95,8 @@
         "aliases": null,
         "latitude": -21.546187,
         "longitude": -64.7229092,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28221022",
@@ -98,7 +106,8 @@
         "aliases": null,
         "latitude": -17.3822361,
         "longitude": -66.1561889,
-        "type": "university"
+        "type": "university",
+        "description": "Luis Espinal Higher Institute of Philosophy and Humanities (Instituto Superior de Filosofía y Humanidades \"Luis Espinal\") is a Jesuit-run university in Cochabamba, Bolivia.\nThe Institute is named after Luís Espinal Camps, a Jesuit priest, poet, educator, and social justice activist."
     },
     {
         "wikidata_id": "Q98458371",
@@ -110,7 +119,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7069999",
@@ -127,7 +137,8 @@
         ],
         "latitude": -17.7689801,
         "longitude": -63.1828398,
-        "type": "university"
+        "type": "university",
+        "description": "Nur University of Bolivia was established as a Baháʼí school of higher education in August 1984 (1984-08) and started its first academic year in April 1985."
     },
     {
         "wikidata_id": "Q10968607",
@@ -137,7 +148,8 @@
         "aliases": null,
         "latitude": -16.4917115,
         "longitude": -68.1936322,
-        "type": "university"
+        "type": "university",
+        "description": "The Public University of El Alto (Spanish: Universidad Pública de El Alto), also known by its acronym UPEA, is a public university based in the city of El Alto, Bolivia. The public institution has 8 areas and 37 careers in the areas of medicine, engineering, socio-political-economic and technology. Within its operation, it is part of the organic statute approved in 2007."
     },
     {
         "wikidata_id": "Q131312152",
@@ -147,7 +159,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135985433",
@@ -157,7 +170,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q57636929",
@@ -167,7 +181,8 @@
         "aliases": null,
         "latitude": -15.9722,
         "longitude": -68.66196,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q930279",
@@ -179,7 +194,8 @@
         ],
         "latitude": -19.0471667,
         "longitude": -65.2611111,
-        "type": "university"
+        "type": "university",
+        "description": "The Royal and Pontifical Higher University of San Francisco Xavier of Chuquisaca (USFX; Spanish: Universidad Mayor Real y Pontificia de San Francisco Xavier de Chuquisaca) is a public university in Sucre, Bolivia. It is one of the oldest universities in the New World. In many historical texts, it is also referred to as the University of Charcas."
     },
     {
         "wikidata_id": "Q56525054",
@@ -189,7 +205,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q21663334",
@@ -201,7 +218,8 @@
         ],
         "latitude": -16.500656,
         "longitude": -68.134299,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134122",
@@ -213,7 +231,8 @@
         ],
         "latitude": -19.5839,
         "longitude": -65.7572,
-        "type": "university"
+        "type": "university",
+        "description": "The Tomás Frías Autonomous University (Universidad Autónoma Tomás Frías or UATF) is a public university located in Potosí, Bolivia. It was established in 1892."
     },
     {
         "wikidata_id": "Q7884816",
@@ -225,7 +244,8 @@
         ],
         "latitude": -16.2582,
         "longitude": -67.6917,
-        "type": "university"
+        "type": "university",
+        "description": "The Unidad Académica Campesina-Carmen Pampa (UAC-Carmen Pampa) is a satellite campus of the Catholic University of Bolivia founded in 1993 to serve the rural poor of Bolivia.  It is located in Carmen Pampa, a small farming community 12 km. from the town of Coroico."
     },
     {
         "wikidata_id": "Q2495648",
@@ -235,7 +255,8 @@
         "aliases": null,
         "latitude": -19.049856,
         "longitude": -65.260108,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30293598",
@@ -247,7 +268,8 @@
         ],
         "latitude": -14.8125556,
         "longitude": -64.8946389,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894237",
@@ -259,7 +281,8 @@
         ],
         "latitude": -17.6967,
         "longitude": -63.1458,
-        "type": "university"
+        "type": "university",
+        "description": "The Gabriel René Moreno Autonomous University (Spanish: Universidad Autónoma Gabriel René Moreno) is a university in Santa Cruz de la Sierra, Bolivia. It was created by supreme decree of December 15, 1879. The first rector was Bishop Juan Jose Valdivia, and the first university careers offered were Medicine, Theology, and Law."
     },
     {
         "wikidata_id": "Q2495675",
@@ -272,7 +295,8 @@
         ],
         "latitude": -16.5226944,
         "longitude": -68.1118056,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad Católica Boliviana \"San Pablo\" is the official name of the Catholic University of Bolivia. This private university is the oldest in Bolivia that does not receive economical budget of Government. Established in La Paz in 1963 and active since 1966, the university now has four regional units in La Paz, Cochabamba, Tarija and Santa Cruz de la Sierra."
     },
     {
         "wikidata_id": "Q130395818",
@@ -282,7 +306,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25100420",
@@ -294,7 +319,8 @@
         ],
         "latitude": -16.511765,
         "longitude": -68.12815,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad Nuestra Señora de La Paz (UNSLP) (English: Our Lady of La Paz University), founded on April 24, 1992, is a private nonprofit university located in La Paz, Bolivia. It is one of the oldest private universities in Bolivia. It is composed of six academic faculties:\nArchitecture and construction\nAdministrative and economic sciences\nPolitical and social sciences\nEngineering\nMedicine\nDentistry\nIt also has master's programs in business administration and journalism."
     },
     {
         "wikidata_id": "Q30293988",
@@ -304,7 +330,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q9091601",
@@ -316,7 +343,8 @@
         ],
         "latitude": -17.7608667,
         "longitude": -63.1475389,
-        "type": "university"
+        "type": "university",
+        "description": "Private University of Santa Cruz de la Sierra (Universidad Privada de Santa Cruz de la Sierra) is a private University in Bolivia.\nAlumni include Brenda Boral, Luis Fernando Camacho and Liliana Colanzi.\nFaculty includes Raquel Couzet."
     },
     {
         "wikidata_id": "Q9091606",
@@ -326,7 +354,8 @@
         "aliases": null,
         "latitude": -17.3306858,
         "longitude": -66.225933,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q9091593",
@@ -336,7 +365,8 @@
         "aliases": null,
         "latitude": -17.7739535,
         "longitude": -63.1924443,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16644547",
@@ -346,7 +376,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q109591682",
@@ -358,7 +389,8 @@
         ],
         "latitude": -17.3753611,
         "longitude": -66.1348333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894325",
@@ -370,7 +402,8 @@
         ],
         "latitude": -17.9919,
         "longitude": -67.1364,
-        "type": "university"
+        "type": "university",
+        "description": "The Technical University of Oruro (Spanish: Universidad Técnica de Oruo, UTO), or UTO, is one of ten public universities in Bolivia. It is located in the city of Oruro.\nThe university was created on 15 October 1892 (1892-10-15) and was named Distrito Universitario de Oruro."
     },
     {
         "wikidata_id": "Q10387889",
@@ -382,7 +415,8 @@
         ],
         "latitude": -17.7683333,
         "longitude": -63.2016667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1767912",
@@ -396,7 +430,8 @@
         ],
         "latitude": -17.3933727,
         "longitude": -66.1449641,
-        "type": "university"
+        "type": "university",
+        "description": "The Higher University of San Simón (Universidad Mayor de San Simón, UMSS) is a university in Cochabamba, Bolivia.\nIt was founded by Mariscal Andrés de Santa Cruz on November 5, 1832 (1832-11-05) and is one of the first universities founded in Bolivia after the University of San Francisco Xavier from Chuquisaca and the University of San Andrés from La Paz. The University offers 99 undergraduate programs in 18 faculties that are mainly established in Cochabamba city."
     },
     {
         "wikidata_id": "Q114457320",
@@ -406,6 +441,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]
