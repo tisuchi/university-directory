@@ -10,7 +10,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4120538",
@@ -20,7 +21,8 @@
         "aliases": null,
         "latitude": 4.171297,
         "longitude": 73.509068,
-        "type": "university"
+        "type": "university",
+        "description": "The Maldives National University (Dhivehi: ދިވެހިރާއްޖޭގެ ޤައުމީ ޔުނިވަރސިޓީ, romanized: Dhivehiraajjeyge Qaumee Yunivarsitee; MNU) is a public university located in the Maldives.\nIn 1973, the Allied Health Services Training Centre was created at MNU. In 1974, the vocational and trade center was established, providing mechanical and electrical trades. In 1984 the institution for Teacher education was created."
     },
     {
         "wikidata_id": "Q6742807",
@@ -30,7 +32,8 @@
         "aliases": null,
         "latitude": 4.170538,
         "longitude": 73.510338,
-        "type": "university"
+        "type": "university",
+        "description": "Maldives Polytechnic is a Maldivian government training institute established to offer technical and vocational education and training throughout the country. It was previously known as VTC, MITE, and then became a Faculty of MCHE (now Maldives National University) and now Maldives Polytechnic under the Ministry of Higher Education.\nThe decision to establish the institution was made on 9 February 2010 after discussing a paper submitted by Ministry of Education."
     },
     {
         "wikidata_id": "Q25110403",
@@ -40,6 +43,7 @@
         "aliases": null,
         "latitude": 4.1695601,
         "longitude": 73.5090713,
-        "type": "university"
+        "type": "university",
+        "description": "Villa College is a tertiary education and training institute established by the chairman of Villa Group, Hon. Qasim Ibrahim to offer educational opportunities to Maldivians at an affordable price. With the aim, Villa College began its historic journey on 28 January 2007, with the registration of its first institute, Villa Institute of Water Sports followed by the Villa Institute of Information Technology (VIIT) and Villa Institute of Hospitality and Tourism Studies."
     }
 ]

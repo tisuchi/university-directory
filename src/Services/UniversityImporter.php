@@ -24,6 +24,7 @@ class UniversityImporter
                 'aliases' => $item['aliases'] ?? null,
                 'latitude' => $item['latitude'] ?? null,
                 'longitude' => $item['longitude'] ?? null,
+                'description' => $item['description'] ?? null,
             ];
 
             if ($wikidataId !== null) {

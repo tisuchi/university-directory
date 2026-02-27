@@ -9,7 +9,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q14594755",
@@ -19,7 +20,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Alma Mater Europaea (AMEU) is an international university network based in Salzburg, Austria, and Alma Mater Europaea University, its major member, is a university in Slovenia, with campuses in several European cities. \nAmong the leading scholars, who teach or have given guest lectures at Alma Mater or its events, are Harvard Law School professor Mark Tushnet, Oxford professors Martin Kemp, Mindy Chen-Wishart, Jacob Rowbottom and Jeremy Howick, Yale professor Fred Volkmer German political scientist Werner Weidenfeld, who was the rector of Alma Mater, the Alma Mater president and cardiac surgeon Felix Unger, the Facebook and Instagram Oversight Board member and former European Court of Human Rights vice-president Andras Sajo, David Erdos of Cambridge, and philosophers Alain Badiou, Jean-Luc Nancy, and Srećko Horvat. Alma Mater faculty has participated at the leading universities' events including those of Harvard, Columbia, UCLA, and Yale."
     },
     {
         "wikidata_id": "Q49569400",
@@ -29,7 +31,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30257260",
@@ -43,7 +46,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74546672",
@@ -53,7 +57,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74549104",
@@ -63,7 +68,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30257301",
@@ -73,7 +79,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q20523709",
@@ -85,7 +92,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20523721",
@@ -95,7 +103,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q49238110",
@@ -105,7 +114,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5411497",
@@ -118,7 +128,8 @@
         ],
         "latitude": 45.5281915,
         "longitude": 13.5675583,
-        "type": "university"
+        "type": "university",
+        "description": "EMUNI University was established on 9 June 2008 in Portorož, Slovenia, with the objective of becoming an international, post-graduate, higher-education and research institution, fully integrated in the Euro-Mediterranean Area. It was co-founded by four universities: University of Haifa (Israel), University of Maribor (Slovenia), University of Sousse (Tunisia) and University of Urbino \"Carlo Bo\" (Italy). In February 2009 EMUNI University became a legal entity in the Republic of Slovenia."
     },
     {
         "wikidata_id": "Q74542840",
@@ -128,7 +139,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5453059",
@@ -138,7 +150,8 @@
         "aliases": null,
         "latitude": 46.2311111,
         "longitude": 15.2583333,
-        "type": "university"
+        "type": "university",
+        "description": "The Celje First Grammar School (Slovene: I. gimnazija v Celju) is a coeducational nondenominational state secondary general education school for students aged between 15 and 19 in Celje, Slovenia. It was the first high school built in the region, established in 1808 by the Austrian Empire. Initially, the language of instruction was only German, although the great majority of the pupils came from the Slovene Lands."
     },
     {
         "wikidata_id": "Q49237735",
@@ -148,7 +161,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q49568176",
@@ -160,7 +174,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q5970220",
@@ -172,7 +187,8 @@
         ],
         "latitude": 46.3706917,
         "longitude": 14.1086667,
-        "type": "college"
+        "type": "college",
+        "description": "IEDC-Bled School of Management, located in Bled, Slovenia, is a business school. It was founded in 1986 upon an initiative of Slovenian business community as the International Executive Development Center.\nIEDC is dedicated to executive education only, operates independently from any university, and is run by a group of faculty under the President and Dean Professor Danica Purg, who has served as the dean since the inception."
     },
     {
         "wikidata_id": "Q12791410",
@@ -184,7 +200,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74546674",
@@ -194,7 +211,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12791409",
@@ -207,7 +225,8 @@
         ],
         "latitude": 46.0508724,
         "longitude": 14.5032931,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q15228722",
@@ -219,7 +238,8 @@
         ],
         "latitude": 46.0426972,
         "longitude": 14.4897,
-        "type": "institute"
+        "type": "institute",
+        "description": "Institute of Mathematics, Physics, and Mechanics (Slovene: Inštitut za matematiko, fiziko in mehaniko; IMFM) is the leading research institution in the areas of mathematics and theoretical computer science in Slovenia. It includes researchers from University of Ljubljana, University of Maribor and University of Primorska. It was founded in 1960."
     },
     {
         "wikidata_id": "Q12797927",
@@ -231,7 +251,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12791413",
@@ -241,7 +262,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q49237859",
@@ -253,7 +275,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12796287",
@@ -263,7 +286,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "International School for Business and Social Studies (ISSBS, Slovene: Mednarodna fakulteta za družbene in poslovne študije) is a faculty located in Celje, Slovenia. The faculty offers both undergraduate and post-graduate courses."
     },
     {
         "wikidata_id": "Q49237597",
@@ -273,7 +297,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q49237415",
@@ -283,7 +308,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q49237039",
@@ -293,7 +319,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q49236930",
@@ -303,7 +330,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12785900",
@@ -315,7 +343,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5918873",
@@ -328,7 +357,8 @@
         ],
         "latitude": 46.0423028,
         "longitude": 14.4877694,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Jožef Stefan Institute (JSI) (Slovene: Institut »Jožef Stefan«, IJS) is the largest research institute in Slovenia. The main research areas are physics, chemistry, molecular biology, biotechnology, information technologies, reactor physics, energy, and the environment. At the beginning of 2022, the institute had 1,170 employees, of whom 568 were PhD holders."
     },
     {
         "wikidata_id": "Q20520998",
@@ -338,7 +368,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q49237187",
@@ -348,7 +379,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12797033",
@@ -361,7 +393,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12788294",
@@ -371,7 +404,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6858110",
@@ -383,7 +417,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Milko Kos Historical Institute (Slovene: Zgodovinski inštitut Milka Kosa) is a scientific and research institute under the patronage of the Research Centre of the Slovenian Academy of Sciences and Arts. Its mission is the study of Slovenian history from its beginnings to the end of the World War I. The institute's research work is carried out in the form of programmes and projects and follows the guidelines, put forth by the Slovenian Academy of Sciences and Arts:\n\npublication of sources concerning Slovenian history,\nstudies of historical topography and colonization of Slovenian territory,\nstudies of economic and social history of Slovenians,\nproblems of the 19th century and the first decades of the 20th century Slovenian history\nFounded in 1947, the Institute was originally conceived as the Section of General and National History at the Institute of history, which was headed by professor Milko Kos. In 1972 the presidium of the Slovenian Academy of Sciences and Arts resolved to transform the Section into an independent Institute of General and National History."
     },
     {
         "wikidata_id": "Q12797210",
@@ -396,7 +431,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12793602",
@@ -409,7 +445,8 @@
         ],
         "latitude": 46.0427,
         "longitude": 14.4936,
-        "type": "institute"
+        "type": "institute",
+        "description": "The National Institute of Chemistry (in Slovene: Kemijski Inštitut) in Ljubljana is the second largest natural sciences research institute in Slovenia (the country's largest being the Jožef Stefan Institute). Research at the National Institute is divided into two major fields: life sciences and materials science. Among its 11 departments, the Department of Materials Chemistry (D10) is the biggest department in the field of materials science."
     },
     {
         "wikidata_id": "Q50224392",
@@ -421,7 +458,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12797802",
@@ -431,7 +469,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12797770",
@@ -441,7 +480,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12797777",
@@ -451,7 +491,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q49236805",
@@ -461,7 +502,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q105580996",
@@ -471,7 +513,8 @@
         "aliases": null,
         "latitude": 46.0492046,
         "longitude": 14.4750307,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q107616247",
@@ -481,7 +524,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q107619713",
@@ -491,7 +535,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12797768",
@@ -501,7 +546,8 @@
         "aliases": null,
         "latitude": 46.0512389,
         "longitude": 14.4699389,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12797769",
@@ -511,7 +557,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12797772",
@@ -521,7 +568,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12797773",
@@ -531,7 +579,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12797775",
@@ -541,7 +590,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12797778",
@@ -551,7 +601,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12797781",
@@ -561,7 +612,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12797782",
@@ -571,7 +623,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12797786",
@@ -581,7 +634,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q132559179",
@@ -591,7 +645,8 @@
         "aliases": null,
         "latitude": 45.7758173,
         "longitude": 14.2149677,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q132797625",
@@ -601,7 +656,8 @@
         "aliases": null,
         "latitude": 45.7750078,
         "longitude": 14.2138425,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q132798076",
@@ -611,7 +667,8 @@
         "aliases": null,
         "latitude": 45.7755552,
         "longitude": 14.2138185,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20523694",
@@ -621,7 +678,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20523703",
@@ -631,7 +689,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20523732",
@@ -641,7 +700,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20523739",
@@ -651,7 +711,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20523748",
@@ -661,7 +722,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20523763",
@@ -671,7 +733,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q49235840",
@@ -681,7 +744,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q49980174",
@@ -691,7 +755,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q50179598",
@@ -701,7 +766,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q52831843",
@@ -711,7 +777,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q49447920",
@@ -723,7 +790,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20033509",
@@ -733,7 +801,8 @@
         "aliases": null,
         "latitude": 46.0460282,
         "longitude": 14.500203,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q65272936",
@@ -743,7 +812,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q49569044",
@@ -755,7 +825,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q49760420",
@@ -770,7 +841,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7775831",
@@ -780,7 +852,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Workers and Punks University in Ljubljana, capital of Slovenia, is an educational project that since 1998 each year from November to May on a topic selected by the WPU board runs a series of lectures based on social theories critical towards neoliberalism, including World-systems theory, applying selected, but not all, Marxian concepts to understand Slovenia as peripheral country, such as the theoretical work of Antonio Negri, Andre Gunder Frank, with participation from notable international academics, including British geographer David Harvey from City University of New York and philosopher Peter Hudis from Oakton Community College, British economist Michael Roberts, economist Joachim Becker from Institute for International Economics and Development Department at the Vienna University of Economics, Dutch economist Angela Wigger from the Radboud University Nijmegen."
     },
     {
         "wikidata_id": "Q12804516",
@@ -790,7 +863,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q49236614",
@@ -800,7 +874,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q19937506",
@@ -812,7 +887,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q49470723",
@@ -822,7 +898,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q12797787",
@@ -832,7 +909,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1377",
@@ -853,7 +931,8 @@
         ],
         "latitude": 46.0488889,
         "longitude": 14.5038889,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Ljubljana (Slovene: Univerza v Ljubljani, pronounced [uniʋɛ́ːɾza w ljubljàːni], Latin: Universitas Labacensis), abbreviated UL, is the oldest and largest university in Slovenia. It has approximately 38,000 enrolled students. The university has 23 faculties and three art academies with approximately 4,000 teaching and research staff, assisted by approximately 2,000 technical and administrative staff."
     },
     {
         "wikidata_id": "Q1378",
@@ -866,7 +945,8 @@
         ],
         "latitude": 46.5594444,
         "longitude": 15.6444444,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Maribor (Slovene: Univerza v Mariboru) is Slovenia's second-largest university, established in 1975 in Maribor, Slovenia. It currently has 17 faculties."
     },
     {
         "wikidata_id": "Q74551866",
@@ -876,7 +956,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74550796",
@@ -886,7 +967,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q656086",
@@ -896,7 +978,8 @@
         "aliases": null,
         "latitude": 45.9423,
         "longitude": 13.6402,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Nova Gorica, UNG (Slovene: Univerza v Novi Gorici), is the fourth university in Slovenia. It is located in the towns of Nova Gorica, Vipava, and Ajdovščina."
     },
     {
         "wikidata_id": "Q47669666",
@@ -908,7 +991,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Novo Mesto (UNM, Slovene: Univerza v Novem mestu) is a private university in Slovenia. It is located in the town of Novo Mesto."
     },
     {
         "wikidata_id": "Q1378123",
@@ -920,7 +1004,8 @@
         ],
         "latitude": 45.5483,
         "longitude": 13.7294,
-        "type": "university"
+        "type": "university",
+        "description": "University of Primorska (Slovenian Univerza na Primorskem, Italian Università del Litorale) is a public university in Slovenia. It is located in Koper, Izola, and Portorož and is named for the Slovenian Littoral region, where it is located."
     },
     {
         "wikidata_id": "Q12797767",
@@ -930,7 +1015,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12797771",
@@ -940,7 +1026,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12797785",
@@ -950,7 +1037,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74553790",
@@ -960,6 +1048,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     }
 ]

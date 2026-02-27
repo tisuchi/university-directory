@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4116094",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": 29.343889,
         "longitude": 48.083056,
-        "type": "university"
+        "type": "university",
+        "description": "The American University of Kuwait (AUK) (Arabic: الجامعة الأمريكية في الكويت) is a private liberal arts institution located in Salmiya, Kuwait. Established in 2003 by Amiri decree, AUK is affiliated with Dartmouth College. The university offers both Kuwaitis and international students an education based on American stands for higher education."
     },
     {
         "wikidata_id": "Q21190378",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": 29.165,
         "longitude": 48.099,
-        "type": "university"
+        "type": "university",
+        "description": "The American University of the Middle East (AUM) is a private university established in 2005 in Kuwait.\nAUM has two colleges: the College of Engineering and Technology and the College of Business Administration, in addition to a Liberal Arts Department and an English Preparatory Program. Today, AUM has more than 11,000 enrolled students on a campus that stretches over an area of 261,190 square meters."
     },
     {
         "wikidata_id": "Q3679860",
@@ -37,7 +40,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Arab Open University (AOU) (Arabic: الجامعة العربية المفتوحة) is a non-profit university system in the Arab world. Headquartered in Kuwait, the system is composed of 16 campuses across 9 countries: Ardiya in Kuwait, Riyadh, Jeddah, Dammam, Madinah, Ḥail, Al-Ahsa in Saudi Arabia, Seeb in Oman, A'ali in Bahrain, Amman in Jordan, Al-Bireh in Palestine, Beirut, Antelias, Tripoli in Lebanon, El-Shorouk in Egypt and Khartoum in Sudan.\nThe university has a combined student body of 62,612 students, 61,886 of which are postgraduates while 742 of which are postgraduates, 1031 staff members and 77,037 living alumni."
     },
     {
         "wikidata_id": "Q4824005",
@@ -49,7 +53,8 @@
         ],
         "latitude": 29.2752778,
         "longitude": 48.0508333,
-        "type": "college"
+        "type": "college",
+        "description": "The Australian University (AU), formerly known as the Australian College of Kuwait (ACK), is a university in Kuwait."
     },
     {
         "wikidata_id": "Q4866951",
@@ -61,7 +66,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": "The Basic Education College is a degree-awarding tertiary institute in Kuwait. It is one of the four colleges operated by the government's The Public Authority for Applied Education and Training (PAAET) and is part of the nation's applied education sector.\nThe college is affiliated with the E-TQM College, the world's first online Total Quality Management (TQM) school."
     },
     {
         "wikidata_id": "Q1024668",
@@ -71,7 +77,8 @@
         "aliases": null,
         "latitude": 29.276068,
         "longitude": 48.055186,
-        "type": "university"
+        "type": "university",
+        "description": "Gulf University for Science & Technology (GUST) is the first private university established in Kuwait. It has a dual-enrollment agreement with the University of Missouri–St. Louis."
     },
     {
         "wikidata_id": "Q22686145",
@@ -81,7 +88,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q39060049",
@@ -91,7 +99,8 @@
         "aliases": null,
         "latitude": 29.3242,
         "longitude": 47.7883,
-        "type": "university"
+        "type": "university",
+        "description": "Kuwait College of Science and Technology (KCST) is a private university in Kuwait. KCST is located in Doha District, west of Kuwait City. KCST started its degree programs in 2016."
     },
     {
         "wikidata_id": "Q6448840",
@@ -103,7 +112,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q28136908",
@@ -115,7 +125,8 @@
         ],
         "latitude": 29.1343,
         "longitude": 48.117,
-        "type": "university"
+        "type": "university",
+        "description": "Kuwait Technical College or ktech was founded 2014 to provide opportunities for students who are more oriented toward practical education rather than a more theoretical approach."
     },
     {
         "wikidata_id": "Q3273657",
@@ -127,7 +138,8 @@
         ],
         "latitude": 29.3412,
         "longitude": 47.9163,
-        "type": "university"
+        "type": "university",
+        "description": "Kuwait University (Arabic: جامعة الكويت, abbreviated as Kuniv) is a public university located in Kuwait City, Kuwait."
     },
     {
         "wikidata_id": "Q103018859",
@@ -137,7 +149,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013261",
@@ -147,7 +160,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013262",
@@ -157,7 +171,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013266",
@@ -167,7 +182,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013282",
@@ -177,7 +193,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12236170",
@@ -187,7 +204,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Mubarak al-Abdullah Joint Command and Staff College (MAJCSC) (Arabic: كلية مبارك العبدالله للقيادة و الأركان المشتركة) is a military educational institution in Kuwait City which prepares field grade officers to lead at the operational level of warfare."
     },
     {
         "wikidata_id": "Q7758687",
@@ -197,6 +215,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Public Authority for Applied Education and Training (PAAET) (Arabic: الهيئة العامة للتعليم التطبيقي والتدريب) is an academic institute in Kuwait. It is considered one of the largest institutes offering associate degrees in the Middle East in terms of the number of enrolled students. The PAAET offers a wide variety of vocational programs across its different colleges and training institutes."
     }
 ]

@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 13.9823667,
         "longitude": -89.5486056,
-        "type": "university"
+        "type": "university",
+        "description": "The Catholic University of El Salvador (UNICAES) (Spanish: Universidad Católica de El Salvador) is private Catholic university in Santa Ana, El Salvador. Founded on April 13, 1982, by Marco René Revelo Contreras and John Paul II, it is administered by the Diocese of Santa Ana and supervise by the Episcopal Conference of El Salvador (CEDES).The campus is located in the center of the city, its headquarters are located in the city of Santa Ana and has two regional centers, one located in Ilobasco and another currently under construction in Metapán."
     },
     {
         "wikidata_id": "Q5397486",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": 13.6553,
         "longitude": -89.286,
-        "type": "university"
+        "type": "university",
+        "description": "Escuela Superior de Economía y Negocios (ESEN) (English: Higher School of Economics and Business) is a private, non-profit university in La Libertad, El Salvador. It was founded in 1994. In 1997, ESEN opened an Entrepreneur Center, a unit whose mission is to promote and develop entrepreneurship  among employers to create jobs."
     },
     {
         "wikidata_id": "Q29002771",
@@ -29,7 +31,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q9091552",
@@ -41,7 +44,8 @@
         ],
         "latitude": 13.6998111,
         "longitude": -89.2199222,
-        "type": "university"
+        "type": "university",
+        "description": "Francisco Gavidia University (Spanish: Universidad Francisco Gavidia) (UFG) is a university located in San Salvador, El Salvador. The university was named after the famous Salvadoran scholar, Francisco Gavidia."
     },
     {
         "wikidata_id": "Q4475794",
@@ -53,7 +57,8 @@
         ],
         "latitude": 13.675325,
         "longitude": -89.2568583,
-        "type": "university"
+        "type": "university",
+        "description": "Dr. José Matías Delgado University (Spanish: Universidad Dr. José Matías Delgado, UJMD), is a private university located in Antiguo Cuscatlán, La Libertad, El Salvador."
     },
     {
         "wikidata_id": "Q9091590",
@@ -65,7 +70,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156329",
@@ -75,7 +81,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156546",
@@ -85,7 +92,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29002767",
@@ -95,7 +103,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156700",
@@ -105,7 +114,8 @@
         "aliases": null,
         "latitude": 13.6996111,
         "longitude": -89.2005083,
-        "type": "university"
+        "type": "university",
+        "description": "The Technological University of El Salvador or Universidad Tecnológica de El Salvador, is a higher education center in El Salvador, known as UTEC or \"la Tecno\", owned by a private capital company. The university campus is located in San Salvador and has ten classroom buildings, an auditorium, a library, specialized laboratories, a cultural center, and computer centers, in addition to Radio UTEC (970 AM) and Tecnovisión (Channel 33)."
     },
     {
         "wikidata_id": "Q3367016",
@@ -117,7 +127,8 @@
         ],
         "latitude": 13.9765,
         "longitude": -89.5887,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Autónoma de Santa Ana is a university in Santa Ana, El Salvador."
     },
     {
         "wikidata_id": "Q56453126",
@@ -127,7 +138,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q63973190",
@@ -137,7 +149,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29002785",
@@ -147,7 +160,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q99196668",
@@ -157,7 +171,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29002794",
@@ -167,7 +182,8 @@
         "aliases": null,
         "latitude": 13.7309222,
         "longitude": -89.7191167,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11046982",
@@ -177,7 +193,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29002804",
@@ -187,7 +204,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551320",
@@ -199,7 +217,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad Gerardo Barrios, commonly known as Universidad, is a private university in San Miguel, El Salvador."
     },
     {
         "wikidata_id": "Q29002791",
@@ -209,7 +228,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29002800",
@@ -219,7 +239,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29002810",
@@ -229,7 +250,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156614",
@@ -239,7 +261,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156673",
@@ -249,7 +272,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29002826",
@@ -259,7 +283,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q138208434",
@@ -271,7 +296,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3179505",
@@ -285,6 +311,7 @@
         ],
         "latitude": 13.7181333,
         "longitude": -89.2029528,
-        "type": "university"
+        "type": "university",
+        "description": "The University of El Salvador (UES) is the oldest and the most prominent university institution in El Salvador. It serves as the national university of the country. The main campus, Ciudad Universitaria, is located in the capital of San Salvador, but there are also branches of the university in other Salvadoran cities such as Santa Ana, San Miguel and San Vicente."
     }
 ]

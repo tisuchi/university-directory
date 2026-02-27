@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 27.7181,
         "longitude": 85.3128,
-        "type": "college"
+        "type": "college",
+        "description": "Amrit Campus is the first science campus of Nepal, located in Lainchaur, Kathmandu. It was formerly known as Public Science College (PUSCOL). It was later renamed in the memory of Amrit Prasad Pradhan."
     },
     {
         "wikidata_id": "Q27963929",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": 27.67523,
         "longitude": 85.4392,
-        "type": "university"
+        "type": "university",
+        "description": "Bagiswori College is a community college located in Bhaktapur, Nepal, established in 2064 BS.\nBagiswori College runs Bachelor Programs under two different streams BA and BBS and two Master Programs MBS and MA (Sociology) in affiliation with Tribhuvan University."
     },
     {
         "wikidata_id": "Q134933145",
@@ -29,7 +31,8 @@
         ],
         "latitude": 28.2460392,
         "longitude": 84.006477,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4915610",
@@ -39,7 +42,8 @@
         "aliases": null,
         "latitude": 26.4348,
         "longitude": 87.287559,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q83484315",
@@ -49,7 +53,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q13180349",
@@ -59,7 +64,8 @@
         "aliases": null,
         "latitude": 27.673,
         "longitude": 85.32,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q18344996",
@@ -69,7 +75,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5146630",
@@ -79,7 +86,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The College of Applied Food and Dairy Technology, also known as CAFODAT, is a college in Nepal. The college is located at 134\/17, Kumari Marg, Purnachandi, Kumaripati, Lalitpur. \nCollege of Applied Food and Dairy Technology (CAFODAT) is offering Diploma in Food and Dairy Technology in affiliation with Council for Technical Education and Vocational Training (CTEVT), Bachelor of Food Technology (B. Tech."
     },
     {
         "wikidata_id": "Q18349058",
@@ -91,7 +99,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q5250989",
@@ -103,7 +112,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Deerwalk Institute of Technology is an Tribhuvan University affiliated college. Deerwalk Institute of Technology provides extensive undergraduate programs, namely the Bachelor of Science in Computer Application and Information Technology (B.Sc.CSIT) and the Bachelor of Computer Applications (BCA)."
     },
     {
         "wikidata_id": "Q137260474",
@@ -113,7 +123,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16975691",
@@ -123,7 +134,8 @@
         "aliases": null,
         "latitude": 28.95553,
         "longitude": 80.17784,
-        "type": "university"
+        "type": "university",
+        "description": "Far Western University is a university in Nepal, located in Mahendranagar, Kanchanpur. It was established in August 2010 (2067 BS) by the Act of the Constituent Assembly by the Government of Nepal. It came into operation in 2011, after the appointment of the university officials."
     },
     {
         "wikidata_id": "Q134428150",
@@ -133,7 +145,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q137650231",
@@ -145,7 +158,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q123143920",
@@ -155,7 +169,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Geomatic Institute of Technology (Nepali: जियोमेटिक इंस्टीटयूट अफ टेक्नोलोजी) is a private engineering college in Nepal, established in 2004 with the aim of teaching engineering skills and knowledge related to surveying and land management. It is the first and only dedicated college in Nepal for geomatics engineering studies. GIT is an alternative to Paschimanchal Campus of Tribhuvan University."
     },
     {
         "wikidata_id": "Q138028309",
@@ -167,7 +182,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q19715950",
@@ -177,7 +193,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q136035498",
@@ -189,7 +206,8 @@
         ],
         "latitude": 27.7127317,
         "longitude": 85.3294109,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q16986440",
@@ -199,7 +217,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Institute of Engineering (IOE) (Nepali: ईन्जिनियरिङ अध्ययन संस्थान), established in 1930, is one of the five technical institutes under Tribhuvan University, Nepal's largest academic institution. The current dean of the IOE is Shashidhar Ram Joshi.\nIOE runs undergraduate, postgraduate and Ph.D. programs."
     },
     {
         "wikidata_id": "Q74557196",
@@ -209,7 +228,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q135831262",
@@ -223,7 +243,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13181145",
@@ -235,7 +256,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16988787",
@@ -245,7 +267,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Kathmandu College of Management, popularly known as KCM, is a college of higher education located in Gwarko, Lalitpur, Nepal. KCM is the first management college to introduce BBA program in Nepal. It is affiliated to Siam University and is considered one of the premier management schools in Nepal."
     },
     {
         "wikidata_id": "Q6376965",
@@ -255,7 +278,8 @@
         "aliases": null,
         "latitude": 27.6195482,
         "longitude": 85.5386417,
-        "type": "university"
+        "type": "university",
+        "description": "Kathmandu University (KU) (Nepali: काठमाण्डौ विश्वविद्यालय) is an autonomous university in Nepal. It is the third oldest university in Nepal, located in Dhulikhel of Kavrepalanchok District, about 30 km (19 mi) east of Kathmandu. It was established in 1991 with the motto \"Quality Education for Leadership.\" KU operates through its seven schools, and campuses in Dhulikhel, Lalitpur and Panchkhal."
     },
     {
         "wikidata_id": "Q101013472",
@@ -265,7 +289,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136359242",
@@ -275,7 +300,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Kathmandu University School of Engineering (KUSoE) is one of the seven constituent schools of Kathmandu University (KU), located in Dhulikhel, Kavrepalanchok District, Bagmati Province, Nepal. Established in 1994, the school offers a range of undergraduate and graduate programs in engineering and technology."
     },
     {
         "wikidata_id": "Q74557704",
@@ -285,7 +311,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q132795424",
@@ -297,7 +324,8 @@
         ],
         "latitude": 27.6710281,
         "longitude": 85.43925,
-        "type": "college"
+        "type": "college",
+        "description": "Khwopa College of Engineering (Nepali: ख्वप कलेज अफ इन्जिनियरिङ्) is a community-based engineering college established in 2008 by people of Bhaktapur with aim to provide quality education to general people with affordable fee. It has been undertaken by Bhaktapur Municipality, a local government of Nepal, since its establishment.\nKhwopa College of Engineering is affiliated to Tribhuvan University."
     },
     {
         "wikidata_id": "Q6403458",
@@ -307,7 +335,8 @@
         "aliases": null,
         "latitude": 27.671028,
         "longitude": 85.43925,
-        "type": "university"
+        "type": "university",
+        "description": "Khwopa Engineering College (KhEC) is a community based engineering college situated in the culturally rich city of Bhaktapur, Nepal. It is named after, Khwopa the pre historic name of Bhaktapur. Khwopa Engineering College is affiliated to Purbanchal University."
     },
     {
         "wikidata_id": "Q18344396",
@@ -317,7 +346,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "LA GRANDEE International College (formerly known as Pokhara College of Technology, or PCT) was established in 2000 as Pokhara's first College for BCA program."
     },
     {
         "wikidata_id": "Q6703127",
@@ -327,7 +357,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6703130",
@@ -337,7 +368,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Lumbini Buddhist University (Nepali: लुम्बिनी बौद्ध विश्वविद्यालय) is a tertiary educational institution in Lumbini, Nepal, the birthplace of the Buddha. The idea for the university was conceived at the First World Buddhist Summit held in Lumbini in 1998, and it was officially formed on 17 June 2004.  The Lumbini Buddhist University Act promulgated on 10 November 2006 confirmed its legal status as well as setting out that the university would receive financial assistance from the government of Nepal."
     },
     {
         "wikidata_id": "Q52636645",
@@ -347,7 +379,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131429619",
@@ -357,7 +390,8 @@
         "aliases": null,
         "latitude": 28.050648,
         "longitude": 81.612994,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q106623509",
@@ -367,7 +401,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Mahendra Multiple Campus, Nepalgunj (Nepali: महेन्द्र बहुमुखी क्याम्पस, नेपालगन्ज) is a public co-educational institution located in  Nepalgunj city in western Nepal. It is one of the campuses affiliated to the Tribhuvan University. It is named after the King Mahendra."
     },
     {
         "wikidata_id": "Q17009419",
@@ -377,7 +412,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Manipal Teaching Hospital (MTH; Nepali: मणिपाल टीचिंग हस्पिटल) is the teaching hospital of Manipal College of Medical Sciences (MCOMS) and is located in Fulbari, Pokhara, Nepal. It is owned by Manipal Education and Medical Group, MEMG.\nManipal College of Medical Sciences (MCOMS), Pokhara was established in 1994 with an MBBS programme. MCOMS was the first private medical institute in Nepal established after liberalization in 1990."
     },
     {
         "wikidata_id": "Q108391731",
@@ -387,7 +423,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6840853",
@@ -401,7 +438,8 @@
         ],
         "latitude": 28.5896,
         "longitude": 81.6232,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6888594",
@@ -411,7 +449,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6971602",
@@ -421,7 +460,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16941337",
@@ -436,7 +476,8 @@
         ],
         "latitude": 27.7181,
         "longitude": 85.314,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q65023913",
@@ -448,7 +489,8 @@
         ],
         "latitude": 27.705673,
         "longitude": 85.343943,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q106608761",
@@ -460,7 +502,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6994323",
@@ -470,7 +513,8 @@
         "aliases": null,
         "latitude": 27.650407,
         "longitude": 84.350143,
-        "type": "university"
+        "type": "university",
+        "description": "The Agriculture and Forestry University (AFU) (Nepali: कृषि तथा वन विज्ञान विश्वविद्यालय) is a public agricultural university in Nepal. AFU has its central offices at Rampur, Chitwan, Nepal. It was established by the Parliament of Nepal through a bill passed in June 2010 merging two constituent campuses of Tribhuvan University namely Rampur Agriculture Campus of IAAS and Hetauda Campus of IOF in Hetauda, Makwanpur."
     },
     {
         "wikidata_id": "Q6994346",
@@ -482,7 +526,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111632066",
@@ -494,7 +539,8 @@
         ],
         "latitude": 27.6926306,
         "longitude": 85.3298722,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q10957095",
@@ -504,7 +550,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74530307",
@@ -514,7 +561,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18358956",
@@ -526,7 +574,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17013596",
@@ -538,7 +587,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13183198",
@@ -548,7 +598,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3630498",
@@ -558,7 +609,8 @@
         "aliases": null,
         "latitude": 28.1473,
         "longitude": 84.0822,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7243243",
@@ -568,7 +620,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7245949",
@@ -578,7 +631,8 @@
         "aliases": null,
         "latitude": 28.239483,
         "longitude": 83.990192,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7260865",
@@ -588,7 +642,8 @@
         "aliases": null,
         "latitude": 26.6828,
         "longitude": 87.354522,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18345980",
@@ -598,7 +653,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q107172243",
@@ -608,7 +664,8 @@
         "aliases": null,
         "latitude": 26.7286111,
         "longitude": 85.925,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17060182",
@@ -618,7 +675,8 @@
         "aliases": null,
         "latitude": 26.541328,
         "longitude": 86.756034,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q120878269",
@@ -630,7 +688,8 @@
         ],
         "latitude": 27.6836111,
         "longitude": 84.4342222,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q110542822",
@@ -642,7 +701,8 @@
         ],
         "latitude": 27.71883,
         "longitude": 85.3107732,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q19830609",
@@ -652,7 +712,8 @@
         "aliases": null,
         "latitude": 27.8797,
         "longitude": 83.9327,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7508136",
@@ -662,7 +723,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7508137",
@@ -672,7 +734,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7592171",
@@ -684,7 +747,8 @@
         ],
         "latitude": 27.6932583,
         "longitude": 85.3211441,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q75948358",
@@ -696,7 +760,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q106130406",
@@ -706,7 +771,8 @@
         "aliases": null,
         "latitude": 27.012981,
         "longitude": 84.867922,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7710687",
@@ -718,7 +784,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7839834",
@@ -728,7 +795,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q588239",
@@ -738,7 +806,8 @@
         "aliases": null,
         "latitude": 27.6806722,
         "longitude": 85.2834629,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100993150",
@@ -748,7 +817,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q137217026",
@@ -758,7 +828,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q108551117",
@@ -768,6 +839,7 @@
         "aliases": null,
         "latitude": 26.612702,
         "longitude": 85.8436355,
-        "type": "college"
+        "type": "college",
+        "description": null
     }
 ]

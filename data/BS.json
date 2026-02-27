@@ -10,7 +10,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136470986",
@@ -24,7 +25,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5146860",
@@ -38,6 +40,7 @@
         ],
         "latitude": 25.061709,
         "longitude": -77.353251,
-        "type": "college"
+        "type": "college",
+        "description": "The University of The Bahamas (UB) is the national public institution of higher education in the Commonwealth of The Bahamas with campuses throughout the archipelago. The main campus is located in the capital city of Nassau, on the island of New Providence.\nThe University of The Bahamas has about 5,000 students and over 12,000 alumni."
     }
 ]

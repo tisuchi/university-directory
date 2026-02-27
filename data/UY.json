@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": -34.9070278,
         "longitude": -56.1803056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122962835",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": -34.8535556,
         "longitude": -56.1709444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q123022422",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": -34.9043611,
         "longitude": -56.2067778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3822124",
@@ -39,7 +42,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Ceibal project is a Uruguayan initiative to implement the \"One Laptop per Child\" model to introduce Information and Communication Technologies (ICT) in primary education and secondary schools.\nIn four years, Ceibal delivered 450,000 laptops to all students and teachers in the primary education system and no-cost internet access throughout the country. As of 2009, results included increased self-esteem in students, improved motivation of students and teachers, and active participation by parents (94% approved of the plan, according to a national survey performed in 2009)."
     },
     {
         "wikidata_id": "Q107946492",
@@ -52,7 +56,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16302374",
@@ -62,7 +67,8 @@
         "aliases": null,
         "latitude": -31.3908333,
         "longitude": -57.9581667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130215128",
@@ -72,7 +78,8 @@
         "aliases": null,
         "latitude": -34.2879459,
         "longitude": -57.2320962,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q123049871",
@@ -82,7 +89,8 @@
         "aliases": null,
         "latitude": -34.2953056,
         "longitude": -55.9580278,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16552124",
@@ -92,7 +100,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q123018227",
@@ -102,7 +111,8 @@
         "aliases": null,
         "latitude": -34.9076944,
         "longitude": -56.2053889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q123022261",
@@ -112,7 +122,8 @@
         "aliases": null,
         "latitude": -34.9005278,
         "longitude": -56.1884444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q123009713",
@@ -122,7 +133,8 @@
         "aliases": null,
         "latitude": -34.8985,
         "longitude": -56.1675,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q123015636",
@@ -132,7 +144,8 @@
         "aliases": null,
         "latitude": -34.8992778,
         "longitude": -56.1692778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q42990935",
@@ -142,7 +155,8 @@
         "aliases": null,
         "latitude": -31.3868611,
         "longitude": -57.9619722,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q123279187",
@@ -152,7 +166,8 @@
         "aliases": null,
         "latitude": -34.7428333,
         "longitude": -56.0940278,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122962792",
@@ -162,7 +177,8 @@
         "aliases": null,
         "latitude": -34.9071944,
         "longitude": -56.1698889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122411529",
@@ -172,7 +188,8 @@
         "aliases": null,
         "latitude": -34.8760306,
         "longitude": -56.1859306,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74535476",
@@ -182,7 +199,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16911653",
@@ -194,7 +212,8 @@
         ],
         "latitude": -34.91128,
         "longitude": -56.17357,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q123058309",
@@ -204,7 +223,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74547462",
@@ -214,7 +234,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5975040",
@@ -224,7 +245,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q26266057",
@@ -237,7 +259,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6044567",
@@ -247,7 +270,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Inter-American Institute for Global Change Research (IAI) is an intergovernmental organization supported by 19 countries in the Americas, dedicated to pursuing the principles of scientific excellence, international cooperation, and the full and open exchange of scientific information to increase the understanding of global change phenomena (planetary-scale changes in the Earth system) and their socio-economic implications.\nRecognizing the need to better understand the natural and social processes which drive large scale environmental change, the IAI encourages interactive exchanges between scientists and policy makers. The goal of the IAI is to augment scientific capacity in the region and to provide information to policy makers in a useful and timely manner."
     },
     {
         "wikidata_id": "Q17630306",
@@ -257,7 +281,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Learning Assessment System (SEA-Sistema de Evaluación de Aprendizaje) operates in ANEP (National Administration of Public Education) in Uruguay. It works with the Technical Inspection of Elementary and Secondary Education to create assessment tests that are applied nationwide, in order to generate a common reference framework on the students learning  from their third year of school to third year of high school,  to promote reflection among teachers and analysis about the teaching and learning aspects considered in the tests. It uses assessments tools with activities designed by teachers, technicians and specialists in evaluation."
     },
     {
         "wikidata_id": "Q42973514",
@@ -267,7 +292,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q138028768",
@@ -280,7 +306,8 @@
         ],
         "latitude": -34.882662,
         "longitude": -56.166718,
-        "type": "university"
+        "type": "university",
+        "description": "The Military Institute of Advanced Studies (Spanish: Instituto Militar de Estudios Superiores) is Uruguay’s command and staff college, responsible for the advanced professional education and training of experienced officers from the three branches of the Uruguayan Armed Forces. Established in 1928, the institute holds university-level recognition and offers undergraduate and postgraduate programs in the field of military sciences, with a focus on command, staff duties, and strategic studies."
     },
     {
         "wikidata_id": "Q138313993",
@@ -292,7 +319,8 @@
         ],
         "latitude": -34.813576,
         "longitude": -56.095899,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29054109",
@@ -302,7 +330,8 @@
         "aliases": null,
         "latitude": -34.8803056,
         "longitude": -56.0766667,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5917646",
@@ -315,7 +344,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q131609307",
@@ -325,7 +355,8 @@
         "aliases": null,
         "latitude": -34.8813614,
         "longitude": -56.1205857,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q42975595",
@@ -335,7 +366,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124289850",
@@ -345,7 +377,8 @@
         "aliases": null,
         "latitude": -34.8796611,
         "longitude": -56.14795,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124282931",
@@ -355,7 +388,8 @@
         "aliases": null,
         "latitude": -34.8480278,
         "longitude": -56.1998056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3291440",
@@ -367,7 +401,8 @@
         ],
         "latitude": -34.8887,
         "longitude": -56.159,
-        "type": "university"
+        "type": "university",
+        "description": "Catholic University of Uruguay (UCU; Spanish: Universidad Católica del Uruguay) is a private university in Uruguay. Established in 1985 as the successor to several Catholic educational institutes dating back to the 1870s, it was the only private university in the country until 1996. It is affiliated with the Society of Jesus and belongs to the world network of Jesuit universities."
     },
     {
         "wikidata_id": "Q74543356",
@@ -377,7 +412,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552635",
@@ -387,7 +423,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11704905",
@@ -397,7 +434,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74558179",
@@ -407,7 +445,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530727",
@@ -419,7 +458,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q961612",
@@ -432,7 +472,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Montevideo (Spanish: Universidad de Montevideo; UM) is a private (catholic, Opus Dei) university in Montevideo, Uruguay. It opened in 1986, and obtained the right to be legally named a university in 1997. It has been ranked as the number one University in Uruguay by the QS World University Rankings four years in a row."
     },
     {
         "wikidata_id": "Q74528388",
@@ -442,7 +483,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552982",
@@ -452,7 +494,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3772943",
@@ -462,7 +505,8 @@
         "aliases": null,
         "latitude": -34.9038361,
         "longitude": -56.1906,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad ORT Uruguay is Uruguay's largest private research university. It has more than 13,000 students, distributed among five faculties and two institutes."
     },
     {
         "wikidata_id": "Q74552626",
@@ -472,7 +516,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156717",
@@ -482,7 +527,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1023818",
@@ -494,7 +540,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Latin American Center for Human Economy (Spanish: Centro Latinoamericano de Economía Humana, sometimes CLAEH) is a Uruguayan non-profit organization and university founded in 1957. Based in Montevideo, its doctrinal inspiration comes from the current of Economics and Humanism, promoted since the 1940s by the Breton Dominican priest Louis-Joseph Lebret on Économie et humanisme, which affirms the values of the human person, solidarity and commitment to social change at the service of development."
     },
     {
         "wikidata_id": "Q1856423",
@@ -510,6 +557,7 @@
         ],
         "latitude": -34.9025,
         "longitude": -56.1766667,
-        "type": "university"
+        "type": "university",
+        "description": "The University of the Republic (Spanish: Universidad de la República, sometimes UdelaR) is a public research university in Montevideo, Uruguay. It is the country's oldest and largest university, as well as one of the largest public universities in South America in terms of enrollment. Established in 1849, it has educated the vast majority of Uruguay's professionals throughout history and has maintained a leading role in advancing academic research and higher education."
     }
 ]

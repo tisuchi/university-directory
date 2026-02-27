@@ -11,7 +11,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "42 is a private institution of education in computer science founded by Xavier Niel, Nicolas Sadirac (former executive director at Epitech), Kwame Yamgnane, and Florian Bucher (former executives at Epitech). The school opened in Paris in 2013. The school does not have any professors and is open 24\/7."
     },
     {
         "wikidata_id": "Q97283543",
@@ -21,7 +22,8 @@
         "aliases": null,
         "latitude": 32.0779908,
         "longitude": 35.2155823,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131623074",
@@ -31,7 +33,8 @@
         "aliases": null,
         "latitude": 31.511938,
         "longitude": 34.440605,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Aqsa University (Arabic: جامعة الأقصى) is a public university with campuses in Gaza City and Khan Younis, Palestine. Established in 1955 as a teachers' institute before later expanding its curriculum, it is the first and oldest public higher education institution in the Gaza Strip. It caters for some 26,000 students and has some 1,400 employees, 300 of whom are lecturers and professors."
     },
     {
         "wikidata_id": "Q292489",
@@ -41,7 +44,8 @@
         "aliases": null,
         "latitude": 31.515,
         "longitude": 34.436667,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Azhar University – Gaza (AUG; Arabic: جامعة الأزهر بغزة) is a Palestinian, public, non-profit, and independent higher education institution. During the first intifada, Palestinian Leader Yasser Arafat issued a decree in September 1991 to establish a Palestinian national university. AUG opened on 18 October 1991 in a two-story building with 725 students enrolled in two faculties; the Faculty of Education and the Faculty of Sharia and Law (now the Faculty of Law)."
     },
     {
         "wikidata_id": "Q1853678",
@@ -51,7 +55,8 @@
         "aliases": null,
         "latitude": 31.9130556,
         "longitude": 35.1994444,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Quds Open University (Arabic: جامعة  القدس المفتوحة) is an independent, distance education public university in Palestine. It was created by a decree issued by the Palestinian Liberation Organization (PLO) in 1991.\nQOU is the first Open learning institute in Palestine."
     },
     {
         "wikidata_id": "Q133817552",
@@ -61,7 +66,8 @@
         "aliases": null,
         "latitude": 32.317564,
         "longitude": 35.031645,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q310564",
@@ -71,7 +77,8 @@
         "aliases": null,
         "latitude": 31.7559083,
         "longitude": 35.2613806,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Quds University (Arabic: جامعة القدس, romanized: Jāmiʿat al-Quds, lit. 'Jerusalem University') is a public university in the Jerusalem Governorate, Palestine. The main campus is located in Abu Dis town, near Jerusalem, with three more campuses in Jerusalem and other campuses in Ramallah and Hebron. It was established in 1984, by merger of more local institutions in Jerusalem."
     },
     {
         "wikidata_id": "Q2096138",
@@ -83,7 +90,8 @@
         ],
         "latitude": 32.2202778,
         "longitude": 35.2444444,
-        "type": "university"
+        "type": "university",
+        "description": "An-Najah National University (Arabic: جامعة النجاح الوطنية) is a non-governmental public university governed by a board of trustees in Nablus, West Bank, Palestine. The university has 22,000 students and 300 professors in 19 faculties. It is the largest university in the State of Palestine."
     },
     {
         "wikidata_id": "Q623893",
@@ -98,7 +106,8 @@
         ],
         "latitude": 32.4066667,
         "longitude": 35.3433333,
-        "type": "university"
+        "type": "university",
+        "description": "The Arab American University (Arabic: الجامعة العربية الأمريكية) or AAUP is the first private university in Palestine founded in 2000. \nAAUP's main campus is located near Talfit in the south of the Jenin Governorate. It has another campus at Al-Reehan in the Ramallah and al-Bireh Governorate."
     },
     {
         "wikidata_id": "Q3679860",
@@ -108,7 +117,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Arab Open University (AOU) (Arabic: الجامعة العربية المفتوحة) is a non-profit university system in the Arab world. Headquartered in Kuwait, the system is composed of 16 campuses across 9 countries: Ardiya in Kuwait, Riyadh, Jeddah, Dammam, Madinah, Ḥail, Al-Ahsa in Saudi Arabia, Seeb in Oman, A'ali in Bahrain, Amman in Jordan, Al-Bireh in Palestine, Beirut, Antelias, Tripoli in Lebanon, El-Shorouk in Egypt and Khartoum in Sudan.\nThe university has a combined student body of 62,612 students, 61,886 of which are postgraduates while 742 of which are postgraduates, 1031 staff members and 77,037 living alumni."
     },
     {
         "wikidata_id": "Q510029",
@@ -120,7 +130,8 @@
         ],
         "latitude": 31.9586111,
         "longitude": 35.1808056,
-        "type": "university"
+        "type": "university",
+        "description": "Birzeit University (Arabic: جامعة بيرزيت) is a public university in the West Bank, Palestine, registered by the Palestinian Ministry of Social Affairs as a charitable organization. It is accredited by the Ministry of Higher Education and located in the outskirts of Birzeit, near Ramallah. Established in 1924 as an elementary school for girls, Birzeit became a university in 1975."
     },
     {
         "wikidata_id": "Q118558588",
@@ -132,7 +143,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12235977",
@@ -144,7 +156,8 @@
         ],
         "latitude": 32.314328,
         "longitude": 35.022116,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q61931395",
@@ -156,7 +169,8 @@
         ],
         "latitude": 31.697308,
         "longitude": 35.188716,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74549563",
@@ -166,7 +180,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12204513",
@@ -176,7 +191,8 @@
         "aliases": null,
         "latitude": 31.5053886,
         "longitude": 34.4759811,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1138268",
@@ -186,7 +202,8 @@
         "aliases": null,
         "latitude": 31.55,
         "longitude": 35.0927778,
-        "type": "university"
+        "type": "university",
+        "description": "Hebron University (Arabic: جامعة الخليل) is a non-profit, public university in the city of Hebron, West Bank, Palestine. It has an undergraduate enrollment of more than ten thousand students."
     },
     {
         "wikidata_id": "Q56376735",
@@ -196,7 +213,8 @@
         "aliases": null,
         "latitude": 32.1563358,
         "longitude": 35.263801,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5984833",
@@ -206,7 +224,8 @@
         "aliases": null,
         "latitude": 31.786525,
         "longitude": 35.2414806,
-        "type": "university"
+        "type": "university",
+        "description": "Ibrahimieh College (Arabic: الكلية الابراهيمية بالقدس) is a private school and college in the a-Suwane neighborhood of East Jerusalem."
     },
     {
         "wikidata_id": "Q96739145",
@@ -220,7 +239,8 @@
         ],
         "latitude": 31.5234416,
         "longitude": 34.4522148,
-        "type": "university"
+        "type": "university",
+        "description": "Israa University (also Isra University, al-Israa University or al-Isra University) was a university in the Gaza Strip, Palestine created in 2014. Its main building was occupied for 70 days and physically destroyed by explosives on 17 January 2024 by Israeli armed forces, during the Gaza war."
     },
     {
         "wikidata_id": "Q12191842",
@@ -230,7 +250,8 @@
         "aliases": null,
         "latitude": 31.7558333,
         "longitude": 35.2613889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q118142559",
@@ -242,7 +263,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16121290",
@@ -254,7 +276,8 @@
         ],
         "latitude": 31.695929,
         "longitude": 35.187559,
-        "type": "university"
+        "type": "university",
+        "description": "Palestine Ahliya University (Arabic: جامعة فلسطين الأهلية) is a private higher education institution located in the city of Bethlehem, West Bank, Palestine."
     },
     {
         "wikidata_id": "Q81201286",
@@ -264,7 +287,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6532873",
@@ -276,7 +300,8 @@
         ],
         "latitude": 31.8885538,
         "longitude": 35.2012269,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2103139",
@@ -286,7 +311,8 @@
         "aliases": null,
         "latitude": 31.533611,
         "longitude": 35.097222,
-        "type": "institute"
+        "type": "institute",
+        "description": "Palestine Polytechnic University (PPU; Arabic: جامعة بوليتكنك فلسطين) is a university located in Hebron, West Bank, Palestine. The school was founded in 1978 by the University Graduates Union (UGU).\nPPU has six colleges: Engineering and Technology, Medicine and Life Sciences, IT and Computer Engineering, Applied Sciences, Administrative Sciences and Informatics, and Applied Professions."
     },
     {
         "wikidata_id": "Q6401986",
@@ -299,7 +325,8 @@
         ],
         "latitude": 32.313442,
         "longitude": 35.018715,
-        "type": "university"
+        "type": "university",
+        "description": "Palestine Technical University – Kadoorie  (formerly known as Tulkarm Community College) is an agricultural college located in Tulkarm, in the northern West Bank, Palestine. The college was inaugurated in 1930 after the British Government had received a bequest from the Iraqi-born Jewish philanthropist Sir Ellis Kadoorie. The college was named in his honour and still bears his name."
     },
     {
         "wikidata_id": "Q7127367",
@@ -311,7 +338,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Palestinian Center for Policy and Survey Research (PCPSR) (Arabic: المركز الفلسطيني للبحوث السياسية والمسحية) is a non-profit Palestinian research organization and think tank based in Ramallah established for \"advancing scholarship and knowledge on immediate issues of concern to Palestinians in three areas: domestic politics and government, strategic analysis and foreign policy, and public opinion polls and survey research\".\nIt has been conducting opinion polls in these fields since the mid-1990s. In 1993, Palestinian political scientist Khalil Shikaki founded the Center for Palestine Research and Studies in Nablus, which became the Palestinian Center for Policy and Survey Research in 2000."
     },
     {
         "wikidata_id": "Q56376820",
@@ -321,7 +349,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7588127",
@@ -331,7 +360,8 @@
         "aliases": null,
         "latitude": 31.7873,
         "longitude": 35.2294,
-        "type": "university"
+        "type": "university",
+        "description": "St George's College Jerusalem (SGCJ) is a continuing education centre of the Anglican Communion. It is an agency of the Episcopal Diocese of Jerusalem, with a mission to the local church within the Diocese, to the wider Anglican Church in the Middle East, and to the global Anglican Communion. The Dean of St."
     },
     {
         "wikidata_id": "Q7894646",
@@ -341,7 +371,8 @@
         "aliases": null,
         "latitude": 31.4979,
         "longitude": 34.4369,
-        "type": "college"
+        "type": "college",
+        "description": "University College of Applied Sciences (UCAS) is a technical college in Gaza, Palestine founded in 1998. UCAS is a member of the International Association of Universities. UCAS offers 40 majors in engineering, health, technology, administration, education and the humanities."
     },
     {
         "wikidata_id": "Q2495895",
@@ -351,7 +382,8 @@
         "aliases": null,
         "latitude": 31.4761,
         "longitude": 34.4033,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Palestine (UP; Arabic: جامعة فلسطين) is a private university in Al-Zahra', Gaza Strip, Palestine. The university was established in 2005, making it one of Gaza's youngest higher education institutions.\nAcross its seven colleges, UP offers four non-degree diploma programs in addition to its standard four-year programs."
     },
     {
         "wikidata_id": "Q126164812",
@@ -361,6 +393,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

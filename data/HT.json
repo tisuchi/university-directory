@@ -11,7 +11,8 @@
         ],
         "latitude": 18.2134,
         "longitude": -73.7547,
-        "type": "university"
+        "type": "university",
+        "description": "The American University of the Caribbean (AUC) in Les Cayes, Haiti, was founded and incorporated in 1983 as a not-for-profit institution organized exclusively for educational and scientific purposes. It is incorporated in the State of Florida, recognized by, and licensed with, the “Ministère de l’Education Nationale et de la Formation Professionelle de la République d’Haïti.” The university opened its doors and began programs of instruction in 1985 at Rue Antoine Simon in Les Cayes. It is a nondenominational Christian school."
     },
     {
         "wikidata_id": "Q102228307",
@@ -21,7 +22,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q66623287",
@@ -31,7 +33,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q109136059",
@@ -41,7 +44,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q109136622",
@@ -51,7 +55,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131499146",
@@ -61,7 +66,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135952567",
@@ -71,7 +77,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16682060",
@@ -83,7 +90,8 @@
         ],
         "latitude": 18.5262,
         "longitude": -72.3218,
-        "type": "university"
+        "type": "university",
+        "description": "Quisqueya University (French: Université Quisqueya), founded in 1988, is a private Haitian university located in Port-au-Prince. The coordinator of the university's establishment and its first rector, from 1990 to 1995, was Jacques-Édouard Alexis who became Prime Minister of Haiti in 1999. The institution is considered to be Haiti's leading private university."
     },
     {
         "wikidata_id": "Q1654386",
@@ -95,7 +103,8 @@
         ],
         "latitude": 18.5286889,
         "longitude": -72.3353421,
-        "type": "university"
+        "type": "university",
+        "description": "The Université Notre Dame d'Haïti (French pronunciation: [ynivɛʁsite nɔtʁə dam daiti], University Notre Dame of Haiti) is a Roman Catholic university located in Port-au-Prince, Haïti. It was founded in 1996 and is organized in five faculties."
     },
     {
         "wikidata_id": "Q1205322",
@@ -107,7 +116,8 @@
         ],
         "latitude": 18.5422222,
         "longitude": -72.3405556,
-        "type": "university"
+        "type": "university",
+        "description": "The State University of Haiti (French: Université d'État d'Haïti (UEH), Haitian Creole: Inivèsite Leta Ayiti) is one of Haiti's most prestigious institutions of higher education. It is located in Port-au-Prince.\nIts origins date to the 1820s, when colleges of medicine and law were established."
     },
     {
         "wikidata_id": "Q7896809",
@@ -119,7 +129,8 @@
         ],
         "latitude": 18.526613,
         "longitude": -72.385107,
-        "type": "university"
+        "type": "university",
+        "description": "Adventist University of Haiti called in French:Université Adventiste d'Haïti is situated some five miles (8 km) southwest of Port-au-Prince, in the Carrefour  neighborhood.\nIt is a part of the Seventh-day Adventist education system, the world's second largest Christian school system."
     },
     {
         "wikidata_id": "Q3434858",
@@ -131,7 +142,8 @@
         ],
         "latitude": 18.5511,
         "longitude": -72.3086,
-        "type": "university"
+        "type": "university",
+        "description": "The Université Caraïbe (French pronunciation: [ynivɛʁsite kaʁaib], Caribbean University) is a university located in Port-au-Prince, Haiti. It was founded in 1988 and is organized in six Faculties."
     },
     {
         "wikidata_id": "Q102228474",
@@ -141,7 +153,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q42417643",
@@ -151,7 +164,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q24204910",
@@ -161,7 +175,8 @@
         "aliases": null,
         "latitude": 19.732045,
         "longitude": -72.184077,
-        "type": "university"
+        "type": "university",
+        "description": "Université Franco-Haïtienne du Cap-Haïtien (French pronunciation: [ynivɛʁsite fʁɑ̃ko aisjɛn dy kap aisjɛ̃], UFCH) is an academic institution in Haiti that offers courses in arts, humanities and social sciences. It is the first university to offer distance learning courses.\nCurrently it offers undergraduate and graduate levels programs."
     },
     {
         "wikidata_id": "Q15616499",
@@ -173,7 +188,8 @@
         ],
         "latitude": 19.6561,
         "longitude": -72.0683,
-        "type": "university"
+        "type": "university",
+        "description": "Université d'État d'Haïti, Campus Roi Henri Christophe is a university campus located in Limonade, northern Haiti. The campus is part of the University of Haiti and was completed in January 12, 2012 (January 12, 2012). Donated by the Government of the Dominican Republic, during the presidency of Leonel Fernandez Reyna, the campus was built at a cost of US$ 50 million."
     },
     {
         "wikidata_id": "Q109136591",
@@ -183,7 +199,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5644709",
@@ -195,6 +212,7 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

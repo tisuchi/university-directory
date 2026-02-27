@@ -11,7 +11,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "42 is a private institution of education in computer science founded by Xavier Niel, Nicolas Sadirac (former executive director at Epitech), Kwame Yamgnane, and Florian Bucher (former executives at Epitech). The school opened in Paris in 2013. The school does not have any professors and is open 24\/7."
     },
     {
         "wikidata_id": "Q305507",
@@ -25,7 +26,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74536834",
@@ -35,7 +37,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74548273",
@@ -45,7 +48,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6083428",
@@ -57,7 +61,8 @@
         ],
         "latitude": 38.737034,
         "longitude": 35.473555,
-        "type": "university"
+        "type": "university",
+        "description": "Abdullah Gül University (AGU) is a public university located in Kayseri, Turkey. Established in 2010, the university began admitting students in the 2013–2014 academic year. AGU offers twelve undergraduate and eleven graduate programs across five schools."
     },
     {
         "wikidata_id": "Q4678047",
@@ -70,7 +75,8 @@
         ],
         "latitude": 40.9785,
         "longitude": 29.1103,
-        "type": "university"
+        "type": "university",
+        "description": "Acıbadem Mehmet Ali Aydınlar University (ACU) is a non-profit foundation university in Istanbul, Turkey, dedicated to the field of health sciences. The university was founded in 2007 by Mehmet Ali Aydınlar, an entrepreneur and founder of Acıbadem Healthcare Group, Turkey's leading healthcare institution.\nAs of 2019, ACU serves 4374 undergraduate and graduate students through School of Medicine, Faculty of Pharmacy, Faculty of Health Sciences, Faculty of Arts and Sciences, Faculty of Engineering, two Vocational Schools and four graduate schools;  Institute of Health Sciences, Institute of Social Sciences, Institute of Natural and Applied Sciences, and Institute of Senology."
     },
     {
         "wikidata_id": "Q6074590",
@@ -83,7 +89,8 @@
         ],
         "latitude": 37.0391944,
         "longitude": 35.3850833,
-        "type": "university"
+        "type": "university",
+        "description": "Adana Alparslan Türkeş Science and Technology University (ATU) is a public university located in Adana, Turkey. It was named after Alparslan Türkeş, a Turkish politician.\nThe university is focused on both scientific research and education in engineering and natural sciences."
     },
     {
         "wikidata_id": "Q74549238",
@@ -93,7 +100,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527444",
@@ -103,7 +111,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q380454",
@@ -115,7 +124,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Adıyaman University is a state university, established in 2006 in Adıyaman province, Turkey."
     },
     {
         "wikidata_id": "Q106459767",
@@ -130,7 +140,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4690863",
@@ -140,7 +151,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Afyon Kocatepe University is a state university in Afyonkarahisar, Turkey. It was established on July 3, 1992 with the transfer of various educational units of Anadolu University. \nIn the 2021-22 academic year, a total of 29992 students were studying as 9534 associate degree, 17458 undergraduate, 2533 graduate and 467 doctoral students."
     },
     {
         "wikidata_id": "Q74535439",
@@ -150,7 +162,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q52162254",
@@ -162,7 +175,8 @@
         ],
         "latitude": 38.784906,
         "longitude": 30.465949,
-        "type": "university"
+        "type": "university",
+        "description": "Afyonkarahisar Health Sciences University is a public university in Afyonkarahisar, Turkey, specializing in health sciences. It was established on 18 May 2018 by merging health-related faculties and vocational schools that were formerly part of Afyon Kocatepe University.\nAs of the 2024–25 academic year, the university enrolls 3,163 associate degree students, 4,474 undergraduate, 104 master's, and 7 doctoral students, for a total of 7,748 students."
     },
     {
         "wikidata_id": "Q6088997",
@@ -174,7 +188,8 @@
         ],
         "latitude": 39.1427,
         "longitude": 34.1204,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q169939",
@@ -186,7 +201,8 @@
         ],
         "latitude": 36.895,
         "longitude": 30.6511,
-        "type": "university"
+        "type": "university",
+        "description": "Akdeniz University (Turkish: Akdeniz Üniversitesi) is a public research university established in Antalya, Turkey. It has been chosen as the second most beautiful university in Turkey, after Boğaziçi University.\nIt is one of the leading educational institutions in the country with its Faculty of Medicine, Faculty of Law, and Faculty of Economics and Administrative Sciences."
     },
     {
         "wikidata_id": "Q74528450",
@@ -196,7 +212,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4701750",
@@ -208,7 +225,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Aksaray University (Turkish: Aksaray Üniversitesi) is a public higher educational institution established on March 17, 2006, in Aksaray, Central Anatolia in Turkey. Formerly it was a subunit of the Niğde University.\nThe university has seven faculties, two institutes, two colleges and five vocational colleges."
     },
     {
         "wikidata_id": "Q21523975",
@@ -218,7 +236,8 @@
         "aliases": null,
         "latitude": 36.525224,
         "longitude": 32.082342,
-        "type": "university"
+        "type": "university",
+        "description": "Alanya Alaaddin Keykubat University is a public university located in Alanya, Antalya Province, Turkey. It was established by law published in the Official Gazette on April 23, 2015, and is named after the Anatolian Seljuk Sultan Alaaddin Keykubat.\nAs of the 2023–2024 academic year, the university hosts a total of 15,081 students: 9,022 undergraduates, 511 graduate students, and 93 doctoral students."
     },
     {
         "wikidata_id": "Q6048745",
@@ -234,7 +253,8 @@
         ],
         "latitude": 36.5480823,
         "longitude": 32.0321266,
-        "type": "university"
+        "type": "university",
+        "description": "Alanya University (Turkish: Alanya Üniversitesi), formerly known as Alanya Hamdullah Emin Paşa University (AHEP), is a non-profit foundation university located in Alanya, Antalya Province, Turkey. It was established by the Hamdullah Emin Paşa Foundation in 2011, following the publication of Law No. 6114 in the Official Gazette."
     },
     {
         "wikidata_id": "Q48743144",
@@ -246,7 +266,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "Alata Research Institute of Horticulture (Turkish: Alata Bahçe Kültürleri Araştırma Enstitüsü) is a research institute for horticulture in Mersin Province, Turkey."
     },
     {
         "wikidata_id": "Q21524500",
@@ -256,7 +277,8 @@
         "aliases": null,
         "latitude": 41.0829914,
         "longitude": 29.0525186,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135429830",
@@ -266,7 +288,8 @@
         "aliases": null,
         "latitude": 41.030432,
         "longitude": 28.9153377,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2756518",
@@ -278,7 +301,8 @@
         ],
         "latitude": 41.0569444,
         "longitude": 28.8202778,
-        "type": "university"
+        "type": "university",
+        "description": "Altınbaş University is a foundation university in Istanbul, Turkey. The university was established in 2008 as Istanbul Kemerburgaz University and changed to its current name in 2017. Altınbaş University has more than 5000 international students from 89 countries, approximately 40% of the students are international."
     },
     {
         "wikidata_id": "Q6073794",
@@ -290,7 +314,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Amasya University (Turkish: Amasya Üniversitesi) is a university located in Amasya, Turkey. It was established  on 17 March 2006."
     },
     {
         "wikidata_id": "Q74530288",
@@ -300,7 +325,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q97118980",
@@ -315,7 +341,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q483758",
@@ -328,7 +355,8 @@
         ],
         "latitude": 39.7914,
         "longitude": 30.4997,
-        "type": "university"
+        "type": "university",
+        "description": "Anadolu University (Turkish: Anadolu Üniversitesi) is a public university in Eskişehir, Turkey. Anadolu University serves as the primary national provider of distance education. The university offers a range of educational programs, both on-campus and through distance education."
     },
     {
         "wikidata_id": "Q4652898",
@@ -338,7 +366,8 @@
         "aliases": null,
         "latitude": 39.93647,
         "longitude": 32.83075,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Ankara Nuclear Research and Training Center (Turkish: Ankara Nükleer Araştırma ve Eğitim Merkezi), known as ANAEM, is a nuclear research and training center of Turkey. The organization was established on August 18, 2010 as a subunit of Turkish Atomic Energy Administration (Turkish: Türkiye Atom Enerjisi Kurumu, TAEK) in its campus at Ankara University's Faculty of Science situated in Beşevler neighborhood in central Ankara. The organization consists of three divisions, which are engaged in education, training  and public relations on nuclear matters."
     },
     {
         "wikidata_id": "Q19610519",
@@ -348,7 +377,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74526698",
@@ -358,7 +388,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q52236613",
@@ -368,7 +399,8 @@
         "aliases": null,
         "latitude": 39.9418611,
         "longitude": 32.8188889,
-        "type": "university"
+        "type": "university",
+        "description": "Ankara Hacı Bayram Veli University, shortened HBV, is a public university in Turkey which was formed on 18 May 2018 by the separation from Gazi University. Some faculties which have been separated from Gazi University in accordance with the law no 7141 such as Gazi University Faculty of Law, Faculty of Economics and Administrative Sciences, Faculty of Letters have been become a part of newly established Ankara Hacı Bayram Veli University. The Besevler Campus is located in the city center of Ankara, the capital city of Turkey."
     },
     {
         "wikidata_id": "Q52162252",
@@ -378,7 +410,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Ankara Medipol University (Turkish: Ankara Medipol Üniversitesi) is a private, non-profit university located in Ankara, Turkey. Established in 2018 by the Turkey Education, Health, Science and Research Foundation, the university started academic activities in the 2018–2019 academic year.\nThe university offers education in both Turkish and English and focuses on fields such as health sciences, engineering, social sciences, law, and arts."
     },
     {
         "wikidata_id": "Q97204373",
@@ -390,7 +423,8 @@
         ],
         "latitude": 39.952305,
         "longitude": 32.771901,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1060621",
@@ -403,7 +437,8 @@
         ],
         "latitude": 39.9366667,
         "longitude": 32.8302778,
-        "type": "university"
+        "type": "university",
+        "description": "Ankara University (Turkish: Ankara Üniversitesi) is a public research university in Ankara, the capital of Turkey. It was the first higher education institution founded in Turkey after the formation of the Turkish republic in 1923."
     },
     {
         "wikidata_id": "Q74528706",
@@ -413,7 +448,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30312585",
@@ -423,7 +459,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74539005",
@@ -433,7 +470,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q28159581",
@@ -445,7 +483,8 @@
         ],
         "latitude": 36.8565,
         "longitude": 31.0344,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6081675",
@@ -457,7 +496,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Antalya Bilim University (formerly International Antalya University) is a non-profit private university located in Antalya, Turkey. It was established by the Gaye Education, Health, Sports and Environment Foundation on 21 July 2010 by a decree of the Turkish Official Gazette. It is the second university in Antalya and the first foundation university in the city."
     },
     {
         "wikidata_id": "Q12808547",
@@ -467,7 +507,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Ardahan University is a university located in Ardahan, Turkey. It was established in 2008."
     },
     {
         "wikidata_id": "Q125959011",
@@ -477,7 +518,8 @@
         "aliases": null,
         "latitude": 41.3405583,
         "longitude": 41.2998306,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q134701146",
@@ -487,7 +529,8 @@
         "aliases": null,
         "latitude": 41.7395096,
         "longitude": 27.2223358,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6051541",
@@ -497,7 +540,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6103980",
@@ -507,7 +551,8 @@
         "aliases": null,
         "latitude": 41.185249,
         "longitude": 41.8336519,
-        "type": "university"
+        "type": "university",
+        "description": "Artvin Çoruh University (Turkish: Artvin Çoruh Üniversitesi) is a university located in Artvin, Turkey. It was established in 2007.\nArtvin Çoruh University (AÇÜ) is one of the new universities approved by Ahmet Necdet Sezer on May 29, 2007, after being separated from KTÜ, which was established with the Law No."
     },
     {
         "wikidata_id": "Q74535508",
@@ -517,7 +562,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q753778",
@@ -529,7 +575,8 @@
         ],
         "latitude": 39.8988,
         "longitude": 41.2486,
-        "type": "university"
+        "type": "university",
+        "description": "Atatürk University (Turkish: Atatürk Üniversitesi) is a public land-grant research university established in 1957 in Erzurum, Turkey, in collaboration with the University of Nebraska. The university comprises 23 faculties, 18 colleges, 8 institutes, and 30 research centers. The university's main campus is located in Erzurum, one of the largest cities in Eastern Anatolia, and is considered one of the city's most prominent assets."
     },
     {
         "wikidata_id": "Q74557419",
@@ -539,7 +586,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529292",
@@ -549,7 +597,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q52162250",
@@ -559,7 +608,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3321507",
@@ -571,7 +621,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Atılım University (In Turkish: Atılım Üniversitesi) is a  private university established in 1996. It is located in Ankara, the capital of Turkey. The language of instruction for most courses is English."
     },
     {
         "wikidata_id": "Q6091376",
@@ -581,7 +632,8 @@
         "aliases": null,
         "latitude": 40.9924,
         "longitude": 39.7684,
-        "type": "university"
+        "type": "university",
+        "description": "Avrasya University (Turkish: Avrasya Üniversitesi) is a foundation (private) university located in Trabzon, Turkey. It was established on November 25, 2010, by the Maçka İmar, Eğitim, Kültür ve Sosyal Hizmet Vakfı (Maçka Urban Planning, Education, Culture and Social Services Foundation) and began academic activities in the 2011–2012 academic year."
     },
     {
         "wikidata_id": "Q359735",
@@ -594,7 +646,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Aydın Adnan Menderes University (In Turkish: Aydın Adnan Menderes Üniversitesi) is a state university founded in Aydın, Turkey in 1992. The name of the university is derived from Adnan Menderes, former Prime Minister of Turkey.\nThe university began its education in Efeler and Nazilli in 1992 with five faculties (Science-Literature, Nazilli School of Economics and Administrative Sciences, Medicine, Veterinary, and Agriculture faculties), three institutes, the School of Tourism and Hotel Management, and the School of Vocational Studies in Söke."
     },
     {
         "wikidata_id": "Q3674354",
@@ -604,7 +657,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Ağrı İbrahim Çeçen University (Turkish: Ağrı İbrahim Çeçen  Üniversitesi, ICUA) is a public higher educational institution located in Ağrı, Eastern Anatolia in Turkey. It was formerly the Faculty of Education linked to the Atatürk University of Erzurum.\nIn 2007, the facility was developed to a university named Ağrı Dağı University (Turkish for Mount Ararat University)."
     },
     {
         "wikidata_id": "Q103803804",
@@ -614,7 +668,8 @@
         "aliases": null,
         "latitude": 39.34972,
         "longitude": 36.42837,
-        "type": "college"
+        "type": "college",
+        "description": "Aşık Veysel Meslek Yüksekokulu (en. Vocational High School of Aşık Veysel) is a higher education provider vocational school in Şarkışla the district of Sivas Province in Turkey.\nIt was established in 1994, and affiliated to Sivas Cumhuriyet University."
     },
     {
         "wikidata_id": "Q3409570",
@@ -626,7 +681,8 @@
         ],
         "latitude": 41.041667,
         "longitude": 29.009444,
-        "type": "university"
+        "type": "university",
+        "description": "Bahçeşehir University or commonly abbreviated as BAU is a private university located around the Bosphorus in Çırağan Caddesi, Beşiktaş, Istanbul. The Grand National Assembly of Turkey authorized the establishment of Bahçeşehir University by the Bahçeşehir Uğur Education Foundation in 1998. In February 1998, an academic and strategic collaboration was signed with San Diego State University in California."
     },
     {
         "wikidata_id": "Q4853224",
@@ -639,7 +695,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Balıkesir University (Turkish: Balıkesir Üniversitesi) is a public university in Balıkesir, Turkey. It was established in 1992."
     },
     {
         "wikidata_id": "Q20757715",
@@ -651,7 +708,8 @@
         ],
         "latitude": 40.3374,
         "longitude": 27.936,
-        "type": "university"
+        "type": "university",
+        "description": "Bandırma Onyedi Eylül University is a state university established in 2015 in Bandırma, Balıkesir, Turkey."
     },
     {
         "wikidata_id": "Q59591155",
@@ -661,7 +719,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6089196",
@@ -673,7 +732,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Bartın University (Turkish: Bartın Üniversitesi) is a public university located in Bartın, Turkey. It was established in 2008."
     },
     {
         "wikidata_id": "Q6859802",
@@ -685,7 +745,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Batman University (Turkish: Batman Üniversitesi) is an institution of higher education located in Batman, Turkey, established on 28 May 2007. It was one of 17 new universities created by Law number 5662, which amended the Law on the Organization of Institutes of Higher Education and related Statutory Decrees.\nIn January 2017, President Recep Tayyip Erdoğan appointed  Aydın Durmuş rector of the university."
     },
     {
         "wikidata_id": "Q6088135",
@@ -695,7 +756,8 @@
         "aliases": null,
         "latitude": 40.2501389,
         "longitude": 40.2307222,
-        "type": "university"
+        "type": "university",
+        "description": "Bayburt University (BU; in Turkish, Bayburt Üniversitesi, commonly referred to as BÜ) is a public research university in the city of Bayburt, Turkey. The research and education conducted by the university have an emphasis on engineering and natural sciences.\nThe official language of instruction at BU is Turkish."
     },
     {
         "wikidata_id": "Q170171",
@@ -707,7 +769,8 @@
         ],
         "latitude": 39.8875,
         "longitude": 32.653889,
-        "type": "university"
+        "type": "university",
+        "description": "Başkent University (Turkish: Başkent Üniversitesi) is a private university in Ankara, Turkey. The university was founded on 13 January 1994 by Professor Dr. Mehmet Haberal."
     },
     {
         "wikidata_id": "Q4899874",
@@ -717,7 +780,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Beykent Educational Institutions (Turkish: Beykent Eğitim Kurumları) are a group of schools in Edirne and European side of Istanbul, Turkey, established by Beykent University Chairman of the Board of Trustees Adem Çelik. Private Istanbul Beykent Primary School and Private Istanbul Beykent Anatolian High School were established in 1990. Adem Çelik, architect of the Beykent Settlement Project, established a primary school and donated it to Ministry of National Education in 1990."
     },
     {
         "wikidata_id": "Q28159696",
@@ -727,7 +791,8 @@
         "aliases": null,
         "latitude": 41.09573,
         "longitude": 29.091554,
-        "type": "university"
+        "type": "university",
+        "description": "Beykoz University (Turkish: Beykoz Üniversitesi) is a private non-profit foundation university in Istanbul, Turkey. It was established on 20 August 2016 with other 3 new universities."
     },
     {
         "wikidata_id": "Q6082806",
@@ -740,7 +805,8 @@
         ],
         "latitude": 41.0183333,
         "longitude": 28.9361111,
-        "type": "university"
+        "type": "university",
+        "description": "Bezmialem Vakıf University, originating from the roots of Gureba-i Müslimin, the first modern hospital of the Ottoman Empire that was founded in 1845 by Bezmiâlem Mother Sultana, was transformed into a university in 2010.\nBezmialem is one of the first thematic research universities in Health and Life Sciences in Turkey and also a non-profit foundation university which aims to make progress in education, research and health care. It provides education to about 3,500 students and clinical services to 8,000 patients daily with its two main hospitals and three outpatient clinics on both continents of Istanbul."
     },
     {
         "wikidata_id": "Q131902826",
@@ -750,7 +816,8 @@
         "aliases": null,
         "latitude": 41.0142326,
         "longitude": 28.9584808,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6096546",
@@ -760,7 +827,8 @@
         "aliases": null,
         "latitude": 40.1893,
         "longitude": 29.9691,
-        "type": "university"
+        "type": "university",
+        "description": "Bilecik University  is a university located in Bilecik, Turkey. It was established in 2007.\nBozüyük Vocational School was part of Anadolu University before 2007."
     },
     {
         "wikidata_id": "Q4907815",
@@ -772,7 +840,8 @@
         ],
         "latitude": 39.8675,
         "longitude": 32.7646,
-        "type": "university"
+        "type": "university",
+        "description": "Bilkent Laboratory and International School (BLIS), formerly Bilkent University Preparatory School (BUPS), in Ankara, Turkey, is a private K-12 school that currently educates approximately 1000 students aged 4 to 19.  The school is on the south edge of Bilkent University's East Campus."
     },
     {
         "wikidata_id": "Q861904",
@@ -786,7 +855,8 @@
         ],
         "latitude": 39.8673469,
         "longitude": 32.7507706,
-        "type": "university"
+        "type": "university",
+        "description": "Bilkent University (Turkish: Bilkent Üniversitesi) is a private non-profit research university located in Ankara, Turkey. It was founded by İhsan Doğramacı, the  first president of the Council of Higher Education and the head of the prominent Doğramacı family,  with the aim of creating a center of excellence in higher education and research in 1984. It has constantly been ranked among the top Turkish universities since its establishment."
     },
     {
         "wikidata_id": "Q863852",
@@ -796,7 +866,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Bingöl University (Turkish: Bingöl Üniversitesi) is a university located in Bingöl, Turkey. It was established in 2007. The University is led by Prof."
     },
     {
         "wikidata_id": "Q19610800",
@@ -806,7 +877,8 @@
         "aliases": null,
         "latitude": 41.0178922,
         "longitude": 28.9164256,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16827443",
@@ -818,7 +890,8 @@
         ],
         "latitude": 38.478938,
         "longitude": 42.163548,
-        "type": "university"
+        "type": "university",
+        "description": "Bitlis Eren University (Turkish:Bitlis Eren Üniversitesi) is a university located in Bitlis, Turkey. It was established in 2007."
     },
     {
         "wikidata_id": "Q896267",
@@ -832,7 +905,8 @@
         ],
         "latitude": 41.0835556,
         "longitude": 29.0505972,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28405751",
@@ -845,7 +919,8 @@
         ],
         "latitude": 39.8985097,
         "longitude": 32.860695,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q924465",
@@ -858,7 +933,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12808964",
@@ -868,7 +944,8 @@
         "aliases": null,
         "latitude": 40.1888008,
         "longitude": 29.0436077,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5000549",
@@ -878,7 +955,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5000560",
@@ -888,7 +966,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3247377",
@@ -901,7 +980,8 @@
         ],
         "latitude": 40.2189131,
         "longitude": 28.8699561,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13573451",
@@ -911,7 +991,8 @@
         "aliases": null,
         "latitude": 41.2298,
         "longitude": 36.3681,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6015903",
@@ -923,7 +1004,8 @@
         ],
         "latitude": 40.9062479,
         "longitude": 29.2876246,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74557157",
@@ -933,7 +1015,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q580829",
@@ -948,7 +1031,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552612",
@@ -958,7 +1042,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6076696",
@@ -970,7 +1055,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136402741",
@@ -982,7 +1068,8 @@
         ],
         "latitude": 41.0113889,
         "longitude": 28.9803889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5149695",
@@ -992,7 +1079,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q28158677",
@@ -1002,7 +1090,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1622290",
@@ -1015,7 +1104,8 @@
         ],
         "latitude": 39.876841,
         "longitude": 32.761087,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5186592",
@@ -1025,7 +1115,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529053",
@@ -1035,7 +1126,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74551246",
@@ -1045,7 +1137,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552616",
@@ -1055,7 +1148,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q55627945",
@@ -1065,7 +1159,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74528155",
@@ -1075,7 +1170,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1167080",
@@ -1087,7 +1183,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74530700",
@@ -1097,7 +1194,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q130499",
@@ -1110,7 +1208,8 @@
         ],
         "latitude": 37.919208,
         "longitude": 40.268056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1235258",
@@ -1122,7 +1221,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74541280",
@@ -1132,7 +1232,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2254240",
@@ -1142,7 +1243,8 @@
         "aliases": null,
         "latitude": 41.0018154,
         "longitude": 29.1759114,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74530041",
@@ -1152,7 +1254,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6081316",
@@ -1164,7 +1267,8 @@
         ],
         "latitude": 40.9044,
         "longitude": 31.1809,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130311739",
@@ -1176,7 +1280,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74536756",
@@ -1186,7 +1291,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1297001",
@@ -1196,7 +1302,8 @@
         "aliases": null,
         "latitude": 38.4538889,
         "longitude": 27.2116667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6038643",
@@ -1208,7 +1315,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527127",
@@ -1222,7 +1330,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74545622",
@@ -1232,7 +1341,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529713",
@@ -1242,7 +1352,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74544956",
@@ -1252,7 +1363,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74557805",
@@ -1262,7 +1374,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q135429831",
@@ -1272,7 +1385,8 @@
         "aliases": null,
         "latitude": 41.1016187,
         "longitude": 29.0528111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135429832",
@@ -1282,7 +1396,8 @@
         "aliases": null,
         "latitude": 41.1040694,
         "longitude": 29.0549331,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74530304",
@@ -1292,7 +1407,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4810943",
@@ -1304,7 +1420,8 @@
         ],
         "latitude": 38.7058,
         "longitude": 35.536,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74529706",
@@ -1314,7 +1431,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530634",
@@ -1324,7 +1442,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74556317",
@@ -1334,7 +1453,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3674310",
@@ -1346,7 +1466,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97567682",
@@ -1356,7 +1477,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q97567687",
@@ -1366,7 +1488,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6065828",
@@ -1376,7 +1499,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74530055",
@@ -1386,7 +1510,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530659",
@@ -1396,7 +1521,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529754",
@@ -1406,7 +1532,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q52162261",
@@ -1416,7 +1543,8 @@
         "aliases": null,
         "latitude": 39.8159,
         "longitude": 30.53155,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74528426",
@@ -1426,7 +1554,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528449",
@@ -1436,7 +1565,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74535835",
@@ -1446,7 +1576,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q136323261",
@@ -1456,7 +1587,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74551847",
@@ -1466,7 +1598,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6066818",
@@ -1479,7 +1612,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5437801",
@@ -1491,7 +1625,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q133685416",
@@ -1501,7 +1636,8 @@
         "aliases": null,
         "latitude": 40.9823265,
         "longitude": 29.0389519,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5443327",
@@ -1513,7 +1649,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5446182",
@@ -1523,7 +1660,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74544467",
@@ -1533,7 +1671,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1142874",
@@ -1546,7 +1685,8 @@
         ],
         "latitude": 38.679722,
         "longitude": 39.201667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131902781",
@@ -1556,7 +1696,8 @@
         "aliases": null,
         "latitude": 41.0258904,
         "longitude": 28.9780655,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1491731",
@@ -1570,7 +1711,8 @@
         ],
         "latitude": 41.0452,
         "longitude": 29.0191,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6089948",
@@ -1582,7 +1724,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6097677",
@@ -1594,7 +1737,8 @@
         ],
         "latitude": 39.9394444,
         "longitude": 32.8222222,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q5998548",
@@ -1606,7 +1750,8 @@
         ],
         "latitude": 38.4336111,
         "longitude": 27.1411111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1496662",
@@ -1618,7 +1763,8 @@
         ],
         "latitude": 39.93944,
         "longitude": 32.8201,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q60673567",
@@ -1628,7 +1774,8 @@
         "aliases": null,
         "latitude": 36.979,
         "longitude": 37.3,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1496654",
@@ -1638,7 +1785,8 @@
         "aliases": null,
         "latitude": 37.0353041,
         "longitude": 37.3124246,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135582859",
@@ -1648,7 +1796,8 @@
         "aliases": null,
         "latitude": 37.3137245,
         "longitude": 40.7395248,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q281155",
@@ -1660,7 +1809,8 @@
         ],
         "latitude": 40.8080556,
         "longitude": 29.3566667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30263518",
@@ -1670,7 +1820,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6099023",
@@ -1680,7 +1831,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12809694",
@@ -1692,7 +1844,8 @@
         ],
         "latitude": 40.9140278,
         "longitude": 38.3234167,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74527463",
@@ -1705,7 +1858,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74536801",
@@ -1715,7 +1869,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74546132",
@@ -1725,7 +1880,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30555593",
@@ -1735,7 +1891,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5626894",
@@ -1745,7 +1902,8 @@
         "aliases": null,
         "latitude": 40.4380278,
         "longitude": 39.517,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1567050",
@@ -1755,7 +1913,8 @@
         "aliases": null,
         "latitude": 39.8672222,
         "longitude": 32.7344444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4386612",
@@ -1767,7 +1926,8 @@
         ],
         "latitude": 39.9334,
         "longitude": 32.8255,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q61073288",
@@ -1777,7 +1937,8 @@
         "aliases": null,
         "latitude": 39.8649444,
         "longitude": 32.7353333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74529729",
@@ -1787,7 +1948,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74548115",
@@ -1797,7 +1959,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74557087",
@@ -1807,7 +1970,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74539648",
@@ -1817,7 +1981,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q135582784",
@@ -1827,7 +1992,8 @@
         "aliases": null,
         "latitude": 39.9145927,
         "longitude": 41.2803802,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5640536",
@@ -1837,7 +2003,8 @@
         "aliases": null,
         "latitude": 37.5609722,
         "longitude": 43.7230833,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5642495",
@@ -1847,7 +2014,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6076206",
@@ -1857,7 +2025,8 @@
         "aliases": null,
         "latitude": 41.0335197,
         "longitude": 28.7882671,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q113946888",
@@ -1867,7 +2036,8 @@
         "aliases": null,
         "latitude": 36.8641363,
         "longitude": 39.0303109,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5663864",
@@ -1879,7 +2049,8 @@
         ],
         "latitude": 37.16825,
         "longitude": 38.9946667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6669345",
@@ -1889,7 +2060,8 @@
         "aliases": null,
         "latitude": 37.0073086,
         "longitude": 37.4361374,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74546590",
@@ -1899,7 +2071,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q135429840",
@@ -1909,7 +2082,8 @@
         "aliases": null,
         "latitude": 41.0411186,
         "longitude": 28.951725,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10952014",
@@ -1923,7 +2097,8 @@
         ],
         "latitude": 36.3358,
         "longitude": 36.19899,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6103572",
@@ -1936,7 +2111,8 @@
         ],
         "latitude": 40.5706667,
         "longitude": 34.981,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130308151",
@@ -1948,7 +2124,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6024125",
@@ -1961,7 +2138,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74547858",
@@ -1971,7 +2149,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1246531",
@@ -1984,7 +2163,8 @@
         ],
         "latitude": 41.0315199,
         "longitude": 28.9772934,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112629175",
@@ -1994,7 +2174,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530290",
@@ -2004,7 +2185,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6086295",
@@ -2014,7 +2196,8 @@
         "aliases": null,
         "latitude": 36.4001,
         "longitude": 34.1518,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528442",
@@ -2024,7 +2207,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527120",
@@ -2034,7 +2218,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q124412132",
@@ -2046,7 +2231,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16331008",
@@ -2056,7 +2242,8 @@
         "aliases": null,
         "latitude": 41.0299568,
         "longitude": 28.9491138,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21523789",
@@ -2066,7 +2253,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q52162257",
@@ -2076,7 +2264,8 @@
         "aliases": null,
         "latitude": 37.7791111,
         "longitude": 30.5468889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30263524",
@@ -2088,7 +2277,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6088573",
@@ -2100,7 +2290,8 @@
         ],
         "latitude": 40.9998128,
         "longitude": 28.7961997,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6088582",
@@ -2110,7 +2301,8 @@
         "aliases": null,
         "latitude": 40.99061,
         "longitude": 28.7972317,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q853151",
@@ -2120,7 +2312,8 @@
         "aliases": null,
         "latitude": 41.1172784,
         "longitude": 29.0036883,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q344262",
@@ -2133,7 +2326,8 @@
         ],
         "latitude": 41.0667968,
         "longitude": 28.9458705,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6088590",
@@ -2146,7 +2340,8 @@
         ],
         "latitude": 41.0691667,
         "longitude": 29.0122222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3073363",
@@ -2156,7 +2351,8 @@
         "aliases": null,
         "latitude": 41.0188389,
         "longitude": 28.9668111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19613824",
@@ -2168,7 +2364,8 @@
         ],
         "latitude": 41.0203855,
         "longitude": 28.6871457,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6078998",
@@ -2180,7 +2377,8 @@
         ],
         "latitude": 40.9981931,
         "longitude": 28.698805,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97320401",
@@ -2196,7 +2394,8 @@
         ],
         "latitude": 41.0564788,
         "longitude": 28.9515536,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30312829",
@@ -2208,7 +2407,8 @@
         ],
         "latitude": 41.0335833,
         "longitude": 28.9843056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6088633",
@@ -2220,7 +2420,8 @@
         ],
         "latitude": 40.9911111,
         "longitude": 28.8316667,
-        "type": "university"
+        "type": "university",
+        "description": "İstanbul Kültür University (İKÜ) is one of the many private universities located in Istanbul, Turkey.  It has a total of four campuses all in close proximity to each other in the western part of Istanbul. The three campuses are located in Şirinevler, İncirli, Basın Ekspres and Ataköy\nThis non-profit University was founded in 1997; its Industrial Engineering started in the 1997–98 academic year."
     },
     {
         "wikidata_id": "Q11158752",
@@ -2234,7 +2435,8 @@
         ],
         "latitude": 40.9952823,
         "longitude": 29.0646536,
-        "type": "university"
+        "type": "university",
+        "description": "Istanbul Medeniyet University  (Turkish: İstanbul Medeniyet Üniversitesi) is a public university located on the Anatolian side of Istanbul, Turkey. It was established on 21 July 2010 as the 98th university of Turkey and the ninth state university in Istanbul, under Law No. 6005 published in the Official Gazette, along with 6 other universities."
     },
     {
         "wikidata_id": "Q30253989",
@@ -2246,7 +2448,8 @@
         ],
         "latitude": 41.0880556,
         "longitude": 29.0883333,
-        "type": "university"
+        "type": "university",
+        "description": "Istanbul Medipol University (Turkish: İstanbul Medipol Üniversitesi) is a private university in Istanbul, Turkey. The university was established in 2009 by the Turkey Education, Health, and Research Foundation, emphasizes medical education and health sciences. The foundation was established by Fahrettin Koca, who served as the Minister of Health in the 67th government of Turkey."
     },
     {
         "wikidata_id": "Q6069457",
@@ -2258,7 +2461,8 @@
         ],
         "latitude": 41.1194264,
         "longitude": 29.009045,
-        "type": "university"
+        "type": "university",
+        "description": "Istanbul Nişantaşı University (Turkish: İstanbul Nişantaşı Üniversitesi) is a private, non-profit educational institution, founded in 2012 and located in Istanbul, Turkey. The university is supported financially by the Nişantaşı Education and Culture Foundation. It started education in the academic term 2010-11."
     },
     {
         "wikidata_id": "Q74537944",
@@ -2268,7 +2472,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25477809",
@@ -2280,7 +2485,8 @@
         ],
         "latitude": 41.0786748,
         "longitude": 28.2701323,
-        "type": "university"
+        "type": "university",
+        "description": "Istanbul Rumeli University (Turkish: İstanbul Rumeli Üniversitesi) is a private university in Istanbul, Turkey. It was established in 2015 by the Balcı Foundation with Law No. 6640, and started its academic activities in the 2016–2017 academic year at the Mehmet Balcı Campus in Silivri."
     },
     {
         "wikidata_id": "Q6073295",
@@ -2292,7 +2498,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Istanbul Sabahattin Zaim University (Turkish: İstanbul Sabahattin Zaim Üniversitesi) is a Turkish private higher-education institution established by \"İlim Yayma Vakfı\" (literally: Foundation for the Propagation of Science) on April 24, 2010. Classes at the university began in the 2011–12 term.\nThe university was named after Sabahattin Zaim (1926-2007), a professor of economics in the Faculty of Economics at Istanbul University until 1993."
     },
     {
         "wikidata_id": "Q344334",
@@ -2307,7 +2514,8 @@
         ],
         "latitude": 41.105,
         "longitude": 29.025,
-        "type": "institute"
+        "type": "institute",
+        "description": "Istanbul Technical University, also known as Technical University of Istanbul (Turkish: İstanbul Teknik Üniversitesi, commonly referred to as İTÜ), is a public technical university located in Istanbul, Turkey. It is the world's third-oldest technical university dedicated to engineering and natural sciences as well as social sciences recently.\nİTÜ is ranked 79th globally and first in Turkey in the field of Engineering and Technology, as well as 182nd globally and first in Turkey in the field of Natural Sciences, according to the QS World University Rankings for 2025."
     },
     {
         "wikidata_id": "Q26884321",
@@ -2317,7 +2525,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "Istanbul Technical University Polar Research Center (ITU PolReC) was established in 2015. ITU PolReC is the first polar research center in Turkey. One year after its establishment, the ITU PolReC had its first expedition to Antarctica."
     },
     {
         "wikidata_id": "Q74529285",
@@ -2327,7 +2536,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q192964",
@@ -2340,7 +2550,8 @@
         ],
         "latitude": 41.0130361,
         "longitude": 28.963875,
-        "type": "university"
+        "type": "university",
+        "description": "Istanbul University (Turkish: İstanbul Üniversitesi), also known as University of Istanbul, is a public research university located in Istanbul, Turkey. Founded by Mehmed II on May 30, 1453, a day after the conquest of Constantinople by the Turks, it was reformed as the first Ottoman higher education institution influenced by European approaches. The successor institution, which has been operating under its current name since 1933, is the first university in modern Turkey."
     },
     {
         "wikidata_id": "Q6064608",
@@ -2352,7 +2563,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q133284945",
@@ -2364,7 +2576,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3018624",
@@ -2374,7 +2587,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Istanbul University State Conservatory (Turkish: İstanbul Üniversitesi Devlet Konservatuarı) is a public conservatory affiliated with Istanbul University, specializing in music, theatre, and dance, located in Istanbul. It is recognized as the oldest conservatory and the oldest continuously operating music school in Turkey. The university provides music training from secondary school levels up to doctoral studies."
     },
     {
         "wikidata_id": "Q74558092",
@@ -2384,7 +2598,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530299",
@@ -2394,7 +2609,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530089",
@@ -2404,7 +2620,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6079964",
@@ -2414,7 +2631,8 @@
         "aliases": null,
         "latitude": 40.9859444,
         "longitude": 28.7270556,
-        "type": "university"
+        "type": "university",
+        "description": "Istanbul University-Cerrahpaşa is a public university which was formed in Istanbul on 18 May 2018. It takes its name from Cerrah Mehmed Pasha, who gave its name to the Cerrahpaşa, Fatih district in Istanbul. It has nine faculties, six Institutes, one college, five Vocational schools and ten research centers."
     },
     {
         "wikidata_id": "Q74530654",
@@ -2424,7 +2642,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6088707",
@@ -2437,7 +2656,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Istanbul Şehir University (Turkish: İstanbul Şehir Üniversitesi, lit. 'City University of Istanbul') was a private, non-profit university located in Istanbul, Turkey. It was established in 2008 by the Bilim ve Sanat Vakfı (BiSaV or BSV, English: Foundation for Science and Arts). The university started its education in the academic year of 2010–11 at its campus in Altunizade, Üsküdar, following a ceremony held on October 5, 2010 that was attended by then President Abdullah Gül, Prime Minister Recep Tayyip Erdoğan and Minister of Foreign Affairs Ahmet Davutoğlu."
     },
     {
         "wikidata_id": "Q74542164",
@@ -2447,7 +2667,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529264",
@@ -2457,7 +2678,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6103376",
@@ -2467,7 +2689,8 @@
         "aliases": null,
         "latitude": 39.8150278,
         "longitude": 44.0768889,
-        "type": "university"
+        "type": "university",
+        "description": "Iğdır University  (Turkish: Iğdır Üniversitesi) is a university located in Iğdır, Turkey. It was established in 2008."
     },
     {
         "wikidata_id": "Q819402",
@@ -2479,7 +2702,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Işık University (Turkish: Işık Üniversitesi) is a private university located in Istanbul, Turkey. The university operates under the Feyziye Schools Foundation's Işık Schools, which originated with the establishment of the Feyz-i Sıbyan School in the city of Salonica, modern Thessaloniki, on 14 December 1885."
     },
     {
         "wikidata_id": "Q3242620",
@@ -2492,7 +2716,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Kadir Has University (Turkish: Kadir Has Üniversitesi), often abbreviated as KHAS, is a private non-profit university in Fatih, Istanbul, established in 1997 by Kadir Has, the late Turkish industrialist and philanthropist.\nResearch centers at Kadir Has University include the Centre for Energy and Sustainable Development, Istanbul Studies Center, Sports Studies Research Center, Gender and Women’s Studies Centre, the Center for International and European Studies, and the Centre for Cybersecurity and Critical Infrastructure Protection. Additionally, Kadir Has University supports its students with financial aid and consultancy services through entities such as the Creative Industries Platform."
     },
     {
         "wikidata_id": "Q3674409",
@@ -2504,7 +2729,8 @@
         ],
         "latitude": 40.5845,
         "longitude": 43.0715556,
-        "type": "university"
+        "type": "university",
+        "description": "Kafkas University (Turkish: Kafkas Üniversitesi) is a public higher educational institution established on July 11, 1992, in Kars, Eastern Anatolia in Turkey. It has six faculties, three institutes, three colleges, four vocational colleges and several research and application centers. The university campus is situated 3.5 km (2.2 mi) southwest of Kars."
     },
     {
         "wikidata_id": "Q3674402",
@@ -2517,7 +2743,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Kahramanmaraş Sütçü İmam University (KSU) is a public university founded 1992 in Kahramanmaraş, Turkey. The university carries out its academic activities in the campus located in the Avşar Campus, Bahçelievler, Karacasu, The Faculty of Medicine and Aksu campuses. Karacasu campus has an area of 100 hectares and Avşar campus, which is still under construction, will have an area of 1,300 hectares."
     },
     {
         "wikidata_id": "Q74528760",
@@ -2527,7 +2754,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q52162263",
@@ -2539,7 +2767,8 @@
         ],
         "latitude": 37.5734,
         "longitude": 36.9337,
-        "type": "university"
+        "type": "university",
+        "description": "Kahramanmaraş İstiklal University (Turkish: Kahramanmaraş İstiklal Üniversitesi) is a public university in Kahramanmaraş, Turkey. It was established on 18 May 2018."
     },
     {
         "wikidata_id": "Q19611605",
@@ -2549,7 +2778,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Kanuni University was a higher education institution in the city of Adana. The university was founded in 2013 by the Çukurova Education and Culture Foundation."
     },
     {
         "wikidata_id": "Q11136363",
@@ -2559,7 +2789,8 @@
         "aliases": null,
         "latitude": 41.2134444,
         "longitude": 32.6536111,
-        "type": "university"
+        "type": "university",
+        "description": "Karabük University (Turkish: Karabük Üniversitesi) is a public university in Karabük, Turkey. It was founded in 2007 as one of the 17 new universities of that time in Turkey.  Karabük University, ranked among the 801- 1000 in the list of the best universities in the world published by Times Higher Education (THE) for 2020 and 801-1000 in the 2021 World rankings."
     },
     {
         "wikidata_id": "Q4823749",
@@ -2572,7 +2803,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "Karadeniz Technical University (Turkish: Karadeniz Teknik Üniversitesi or KTÜ) is a public research university located in Trabzon, in the Black Sea Region of Turkey. Established in 1955, it is the fourth oldest university in the country. As a public institution, it operates under the Law No."
     },
     {
         "wikidata_id": "Q74556339",
@@ -2582,7 +2814,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6368296",
@@ -2592,7 +2825,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Karamanoğlu Mehmetbey University (Turkish: Karamanoğlu Mehmetbey Üniversitesi) is a public university in Karaman."
     },
     {
         "wikidata_id": "Q595840",
@@ -2604,7 +2838,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Kastamonu University (Turkish: Kastamonu Üniversitesi) is a public university located in Kastamonu and some of its districts, Turkey. It was established in 2006 after some colleges and schools in Kastamonu, which were administered by Ankara University and Gazi University, were gathered under one institution."
     },
     {
         "wikidata_id": "Q74557124",
@@ -2614,7 +2849,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74557412",
@@ -2624,7 +2860,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529029",
@@ -2634,7 +2871,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q52162273",
@@ -2644,7 +2882,8 @@
         "aliases": null,
         "latitude": 38.71301,
         "longitude": 35.55376,
-        "type": "university"
+        "type": "university",
+        "description": "Kayseri University (Turkish Kayseri Üniversitesi), is a public university located in Kayseri, Turkey. It was founded on 18 May 2018 by the separation from Erciyes University. The main campus of Kayseri University, 15 Temmuz Campus, is located in Talas district."
     },
     {
         "wikidata_id": "Q6407000",
@@ -2657,7 +2896,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97208050",
@@ -2667,7 +2907,8 @@
         "aliases": null,
         "latitude": 40.6994444,
         "longitude": 29.8838889,
-        "type": "university"
+        "type": "university",
+        "description": "Kocaeli Health and Technology University  (Turkish: Kocaeli Sağlık ve Teknoloji Üniversitesi) is a private university located in Kocaeli, Turkey. It was founded as the European Vocational School (Turkish: Avrupa Meslek Yüksekokulu) in 2009, before being renamed to Kocaeli Health and Technology University in 2020. The university's rector is Muzaffer Elmas."
     },
     {
         "wikidata_id": "Q1550686",
@@ -2679,7 +2920,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131903108",
@@ -2689,7 +2931,8 @@
         "aliases": null,
         "latitude": 41.7347069,
         "longitude": 27.2264328,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19611734",
@@ -2699,7 +2942,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Konya Food and Agriculture University (KFAU, Turkish: Konya Gıda ve Tarım Üniversitesi) is a private university in Konya, Turkey. Founded in 2013 by the Scientific Research Technology Education and Culture Foundation (BARTEK), KFAU is recognized as Turkey's first specialized university in food and agriculture.\nThe university focuses on interdisciplinary research and education in the fields of life sciences, food, and agriculture."
     },
     {
         "wikidata_id": "Q52236385",
@@ -2709,7 +2953,8 @@
         "aliases": null,
         "latitude": 38.02685,
         "longitude": 32.50986,
-        "type": "university"
+        "type": "university",
+        "description": "Konya Technical University (Turkish: Konya Teknik Üniversitesi) is a public university in Konya, Turkey, officially established in 2018 after separating from Selçuk University. The university’s academic roots date back to the founding of the Konya State Academy of Engineering and Architecture in 1970.\nAs of 2024, KTUN has over 12,000 students across four faculties, one vocational school, and one graduate institute, with a strong focus on engineering, architecture, and applied sciences."
     },
     {
         "wikidata_id": "Q1193155",
@@ -2719,7 +2964,8 @@
         "aliases": null,
         "latitude": 41.1977778,
         "longitude": 29.065,
-        "type": "university"
+        "type": "university",
+        "description": "Koç University (Turkish: Koç Üniversitesi) is a private non-profit research university in Istanbul, Turkey. Koç University comprises the Colleges of Social Sciences and Humanities, Administrative Sciences and Economics, Science, Engineering, Law, Nursing and Medicine. Koç University offers 22 undergraduate, 43 master's and 30 Ph.D. programs."
     },
     {
         "wikidata_id": "Q6095550",
@@ -2729,7 +2975,8 @@
         "aliases": null,
         "latitude": 37.8643,
         "longitude": 32.5369,
-        "type": "university"
+        "type": "university",
+        "description": "KTO Karatay University is a private (non-profit foundation) university in Konya, Turkey. It was established in 2009 by the Konya Chamber of Commerce Education and Health Foundation. The institution traces its historical roots to the Karatay Madrasa, founded in 1251 during the Seljuk period."
     },
     {
         "wikidata_id": "Q6454207",
@@ -2739,7 +2986,8 @@
         "aliases": null,
         "latitude": 39.4800286,
         "longitude": 29.8992058,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q52236454",
@@ -2751,7 +2999,8 @@
         ],
         "latitude": 39.4876804,
         "longitude": 29.8857552,
-        "type": "university"
+        "type": "university",
+        "description": "Kütahya Health Sciences University (Turkish: Kütahya Sağlık Bilimleri Üniversitesi) is a public university in Kütahya, Turkey. It was established on May 18, 2018, as a health-themed university, separated from Kütahya Dumlupınar University."
     },
     {
         "wikidata_id": "Q603581",
@@ -2761,7 +3010,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Kırklareli University is a public state university located in Kırklareli, Kırklareli Province, Turkey. It is one of the 17 new universities established under Law No. 5662, approved by then President Ahmet Necdet Sezer on 29 May 2007."
     },
     {
         "wikidata_id": "Q6454746",
@@ -2773,7 +3023,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q45841562",
@@ -2783,7 +3034,8 @@
         "aliases": null,
         "latitude": 39.91122,
         "longitude": 32.78746,
-        "type": "university"
+        "type": "university",
+        "description": "Lokman Hekim University (LHU) is a private university located in Ankara, Turkey. It was established in 2017 by the Sevgi Foundation. The university is affiliated with Lokman Hekim Health Group and specializes in medical, health, dentistry, and pharmacy education."
     },
     {
         "wikidata_id": "Q52236553",
@@ -2795,7 +3047,8 @@
         ],
         "latitude": 38.465029,
         "longitude": 38.35472,
-        "type": "university"
+        "type": "university",
+        "description": "Malatya Turgut Özal University, shortened MTÜ, is a public university in Malatya, Turkey which was formed on 18 May 2018 by separation from Inönü University.\nAs of 2021, the university has 6 faculties, 2 colleges, 1 institute and 8 vocational schools."
     },
     {
         "wikidata_id": "Q1697376",
@@ -2807,7 +3060,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Maltepe University (Turkish: Maltepe Üniversitesi) is a private university located in Maltepe district of Istanbul, Turkey. It was established on July 9, 1997 by \"Istanbul Marmara Education Foundation\" (İMEV).  The institution has a broad scope of education starting from the elementary level to university."
     },
     {
         "wikidata_id": "Q5057509",
@@ -2819,7 +3073,8 @@
         ],
         "latitude": 38.6775087,
         "longitude": 27.3079163,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6586561",
@@ -2829,7 +3084,8 @@
         "aliases": null,
         "latitude": 37.3351638,
         "longitude": 40.7066348,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74535804",
@@ -2839,7 +3095,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q131903176",
@@ -2853,7 +3110,8 @@
         ],
         "latitude": 37.3136177,
         "longitude": 40.7390404,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1424081",
@@ -2865,7 +3123,8 @@
         ],
         "latitude": 40.9861111,
         "longitude": 29.0536111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74529024",
@@ -2875,7 +3134,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74557440",
@@ -2885,7 +3145,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q169913",
@@ -2895,7 +3156,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6009283",
@@ -2905,7 +3167,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16951274",
@@ -2915,7 +3178,8 @@
         "aliases": null,
         "latitude": 41.1087746,
         "longitude": 29.0085455,
-        "type": "university"
+        "type": "university",
+        "description": "MEF University is a non-profit private university in Istanbul, founded by the İbrahim Arıkan Education and Scientific Research Foundation. It opened in the academic year 2014–2015. It is the first university in the world to adopt the \"flipped classroom\" educational model university-wide."
     },
     {
         "wikidata_id": "Q74529026",
@@ -2925,7 +3189,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6084681",
@@ -2937,7 +3202,8 @@
         ],
         "latitude": 38.7130111,
         "longitude": 35.5537611,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1922090",
@@ -2947,7 +3213,8 @@
         "aliases": null,
         "latitude": 36.7861111,
         "longitude": 34.5258333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74530681",
@@ -2957,7 +3224,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6085143",
@@ -2969,7 +3237,8 @@
         ],
         "latitude": 38.0066667,
         "longitude": 32.5161111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q756126",
@@ -2982,7 +3251,8 @@
         ],
         "latitude": 39.8856678,
         "longitude": 32.7840273,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1936057",
@@ -2995,7 +3265,8 @@
         ],
         "latitude": 41.03,
         "longitude": 28.9892,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6552441",
@@ -3008,7 +3279,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19612027",
@@ -3018,7 +3290,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131903170",
@@ -3028,7 +3301,8 @@
         "aliases": null,
         "latitude": 41.6557961,
         "longitude": 26.5206909,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6944541",
@@ -3041,7 +3315,8 @@
         ],
         "latitude": 37.16475,
         "longitude": 28.3740556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6944545",
@@ -3051,7 +3326,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1964403",
@@ -3064,7 +3340,8 @@
         ],
         "latitude": 40.9935,
         "longitude": 27.5834722,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28846425",
@@ -3074,7 +3351,8 @@
         "aliases": null,
         "latitude": 41.101,
         "longitude": 29.0135,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6014895",
@@ -3086,7 +3364,8 @@
         ],
         "latitude": 38.3098889,
         "longitude": 27.1568056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124253204",
@@ -3096,7 +3375,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6079494",
@@ -3106,7 +3386,8 @@
         "aliases": null,
         "latitude": 39.6390035,
         "longitude": 27.8797347,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6089124",
@@ -3119,7 +3400,8 @@
         ],
         "latitude": 37.8797681,
         "longitude": 32.4851789,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6096373",
@@ -3129,7 +3411,8 @@
         "aliases": null,
         "latitude": 37.951238,
         "longitude": 27.430858,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6059990",
@@ -3142,7 +3425,8 @@
         ],
         "latitude": 38.6752,
         "longitude": 34.7422,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7042323",
@@ -3156,7 +3440,8 @@
         ],
         "latitude": 37.9412872,
         "longitude": 34.6244246,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12811176",
@@ -3166,7 +3451,8 @@
         "aliases": null,
         "latitude": 41.0536111,
         "longitude": 28.9938889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20988491",
@@ -3176,7 +3462,8 @@
         "aliases": null,
         "latitude": 38.7861,
         "longitude": 35.4069,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6100694",
@@ -3186,7 +3473,8 @@
         "aliases": null,
         "latitude": 40.9519444,
         "longitude": 29.3925,
-        "type": "university"
+        "type": "university",
+        "description": "Istanbul Okan University is a private university located in Akfırat, Tuzla, Istanbul, Turkey. It was established by Bekir Okan in 1999 and started its educational activities in the 2003–2004 academic year."
     },
     {
         "wikidata_id": "Q106802301",
@@ -3198,7 +3486,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7092215",
@@ -3210,7 +3499,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q126373366",
@@ -3220,7 +3510,8 @@
         "aliases": null,
         "latitude": 38.88517,
         "longitude": 27.7668,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6100422",
@@ -3232,7 +3523,8 @@
         ],
         "latitude": 40.9763333,
         "longitude": 37.96975,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74552277",
@@ -3242,7 +3534,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q15837722",
@@ -3254,7 +3547,8 @@
         ],
         "latitude": 41.027077,
         "longitude": 28.9745944,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3306835",
@@ -3267,7 +3561,8 @@
         ],
         "latitude": 39.7502778,
         "longitude": 30.4901111,
-        "type": "university"
+        "type": "university",
+        "description": "Eskisehir Osmangazi University (Turkish: Eskişehir Osmangazi Üniversitesi), abbreviated as ESOGU, is located in Eskişehir, in the Eskişehir Province of Turkey."
     },
     {
         "wikidata_id": "Q6081936",
@@ -3277,7 +3572,8 @@
         "aliases": null,
         "latitude": 37.0409818,
         "longitude": 36.220798,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30312588",
@@ -3287,7 +3583,8 @@
         "aliases": null,
         "latitude": 39.972641,
         "longitude": 32.745423,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131902663",
@@ -3297,7 +3594,8 @@
         "aliases": null,
         "latitude": 40.1373711,
         "longitude": 29.9824581,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135429841",
@@ -3307,7 +3605,8 @@
         "aliases": null,
         "latitude": 41.0172348,
         "longitude": 28.9538708,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131903138",
@@ -3317,7 +3616,8 @@
         "aliases": null,
         "latitude": 40.8569717,
         "longitude": 26.6299171,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1278023",
@@ -3327,7 +3627,8 @@
         "aliases": null,
         "latitude": 37.7391667,
         "longitude": 29.1027778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74544464",
@@ -3337,7 +3638,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6100801",
@@ -3347,7 +3649,8 @@
         "aliases": null,
         "latitude": 41.010809,
         "longitude": 28.952918,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74539736",
@@ -3357,7 +3660,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530073",
@@ -3367,7 +3671,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1186326",
@@ -3377,7 +3682,8 @@
         "aliases": null,
         "latitude": 40.8261111,
         "longitude": 29.3222222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q133484511",
@@ -3387,7 +3693,8 @@
         "aliases": null,
         "latitude": 41.674633,
         "longitude": 26.5480881,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74527791",
@@ -3397,7 +3704,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q118957282",
@@ -3407,7 +3715,8 @@
         "aliases": null,
         "latitude": 41.008007,
         "longitude": 29.0206337,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q120417388",
@@ -3417,7 +3726,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125702909",
@@ -3427,7 +3737,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q131902708",
@@ -3437,7 +3748,8 @@
         "aliases": null,
         "latitude": 37.8754921,
         "longitude": 32.4941139,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131903133",
@@ -3447,7 +3759,8 @@
         "aliases": null,
         "latitude": 41.7389832,
         "longitude": 27.2244759,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131903140",
@@ -3457,7 +3770,8 @@
         "aliases": null,
         "latitude": 40.850605,
         "longitude": 26.6314907,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131903153",
@@ -3467,7 +3781,8 @@
         "aliases": null,
         "latitude": 41.673233,
         "longitude": 26.5588131,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131903154",
@@ -3477,7 +3792,8 @@
         "aliases": null,
         "latitude": 41.6808548,
         "longitude": 26.5599403,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q133967840",
@@ -3487,7 +3803,8 @@
         "aliases": null,
         "latitude": 38.9191856,
         "longitude": 27.8422318,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134701148",
@@ -3497,7 +3814,8 @@
         "aliases": null,
         "latitude": 41.738648,
         "longitude": 27.22279,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134706657",
@@ -3507,7 +3825,8 @@
         "aliases": null,
         "latitude": 41.7396011,
         "longitude": 27.2256584,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135429121",
@@ -3517,7 +3836,8 @@
         "aliases": null,
         "latitude": 41.045002,
         "longitude": 29.0186253,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135429833",
@@ -3527,7 +3847,8 @@
         "aliases": null,
         "latitude": 40.8752656,
         "longitude": 29.0862479,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135429834",
@@ -3537,7 +3858,8 @@
         "aliases": null,
         "latitude": 41.0130621,
         "longitude": 28.9363993,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135429837",
@@ -3547,7 +3869,8 @@
         "aliases": null,
         "latitude": 41.0736732,
         "longitude": 28.2484989,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135429838",
@@ -3557,7 +3880,8 @@
         "aliases": null,
         "latitude": 41.020649,
         "longitude": 29.0290394,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135429839",
@@ -3567,7 +3891,8 @@
         "aliases": null,
         "latitude": 41.0073853,
         "longitude": 28.9372444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135429842",
@@ -3577,7 +3902,8 @@
         "aliases": null,
         "latitude": 40.9712868,
         "longitude": 29.0406742,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135581762",
@@ -3587,7 +3913,8 @@
         "aliases": null,
         "latitude": 38.6701584,
         "longitude": 26.7552681,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135583280",
@@ -3597,7 +3924,8 @@
         "aliases": null,
         "latitude": 40.6711121,
         "longitude": 29.9206352,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19610858",
@@ -3607,7 +3935,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19613872",
@@ -3617,7 +3946,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19737686",
@@ -3627,7 +3957,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21526367",
@@ -3637,7 +3968,8 @@
         "aliases": null,
         "latitude": 41.3757778,
         "longitude": 33.7776944,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25477187",
@@ -3647,7 +3979,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q43281113",
@@ -3657,7 +3990,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q56196467",
@@ -3667,7 +4001,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6012436",
@@ -3677,7 +4012,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6021837",
@@ -3687,7 +4023,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6045476",
@@ -3697,7 +4034,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6080683",
@@ -3707,7 +4045,8 @@
         "aliases": null,
         "latitude": 41.0090866,
         "longitude": 28.9747601,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6082665",
@@ -3717,7 +4056,8 @@
         "aliases": null,
         "latitude": 39.9904709,
         "longitude": 33.1720581,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6096949",
@@ -3727,7 +4067,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6101065",
@@ -3737,7 +4078,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q653070",
@@ -3747,7 +4089,8 @@
         "aliases": null,
         "latitude": 41.0341,
         "longitude": 28.983,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4276748",
@@ -3760,7 +4103,8 @@
         ],
         "latitude": 41.03825,
         "longitude": 40.4937778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6100910",
@@ -3772,7 +4116,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7395882",
@@ -3782,7 +4127,8 @@
         "aliases": null,
         "latitude": 40.8905472,
         "longitude": 29.3783861,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1718685",
@@ -3796,7 +4142,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q52236336",
@@ -3806,7 +4153,8 @@
         "aliases": null,
         "latitude": 40.73967,
         "longitude": 30.332857,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74557485",
@@ -3816,7 +4164,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q52236662",
@@ -3828,7 +4177,8 @@
         ],
         "latitude": 41.5149167,
         "longitude": 36.1097222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7388650",
@@ -3838,7 +4188,8 @@
         "aliases": null,
         "latitude": 40.06269,
         "longitude": 32.6068,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q19612419",
@@ -3848,7 +4199,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136537166",
@@ -3858,7 +4210,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The School of Zurel (Greek: Σχολείο του Ζουρέλ; Turkish: Zurel Köyü Okulu) was a Pontic language village school of the local Eastern Orthodox Christian community in the village of Zurel (now Sarayköy) in the Of district of Trabzon Province, which was later used in the Republic era as a Turkish middle school."
     },
     {
         "wikidata_id": "Q74549557",
@@ -3868,7 +4221,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6076107",
@@ -3878,7 +4232,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74538057",
@@ -3888,7 +4243,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74538082",
@@ -3898,7 +4254,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1627814",
@@ -3910,7 +4267,8 @@
         ],
         "latitude": 38.0263,
         "longitude": 32.5101,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q52162245",
@@ -3920,7 +4278,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30330396",
@@ -3932,7 +4291,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7513486",
@@ -3942,7 +4302,8 @@
         "aliases": null,
         "latitude": 37.9361122,
         "longitude": 41.9403559,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74526704",
@@ -3952,7 +4313,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6103200",
@@ -3962,7 +4324,8 @@
         "aliases": null,
         "latitude": 42.0080231,
         "longitude": 35.0903953,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5194072",
@@ -3974,7 +4337,8 @@
         ],
         "latitude": 39.7069,
         "longitude": 37.0295,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q52162282",
@@ -3984,7 +4348,8 @@
         "aliases": null,
         "latitude": 39.7258056,
         "longitude": 36.9890278,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74553261",
@@ -3994,7 +4359,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q19610523",
@@ -4006,7 +4372,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74542656",
@@ -4016,7 +4383,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74548197",
@@ -4026,7 +4394,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20988519",
@@ -4039,7 +4408,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527442",
@@ -4049,7 +4419,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74540790",
@@ -4059,7 +4430,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10685016",
@@ -4069,7 +4441,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1509957",
@@ -4082,7 +4455,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74538585",
@@ -4092,7 +4466,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6098740",
@@ -4104,7 +4479,8 @@
         ],
         "latitude": 41.003311,
         "longitude": 28.937733,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q135429836",
@@ -4114,7 +4490,8 @@
         "aliases": null,
         "latitude": 41.0358609,
         "longitude": 28.9842534,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2389886",
@@ -4124,7 +4501,8 @@
         "aliases": null,
         "latitude": 38.6846237,
         "longitude": 35.5674629,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3515831",
@@ -4134,7 +4512,8 @@
         "aliases": null,
         "latitude": 36.9139,
         "longitude": 34.8944,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q52162280",
@@ -4144,7 +4523,8 @@
         "aliases": null,
         "latitude": 36.95493,
         "longitude": 34.8494,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7669956",
@@ -4157,7 +4537,8 @@
         ],
         "latitude": 39.8412,
         "longitude": 32.8189,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6070524",
@@ -4170,7 +4551,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74529354",
@@ -4180,7 +4562,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q131903132",
@@ -4190,7 +4573,8 @@
         "aliases": null,
         "latitude": 41.7395172,
         "longitude": 27.2242794,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74526789",
@@ -4200,7 +4584,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74544455",
@@ -4210,7 +4595,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3021766",
@@ -4222,7 +4608,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5529157",
@@ -4234,7 +4621,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7826705",
@@ -4244,7 +4632,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q52162277",
@@ -4254,7 +4643,8 @@
         "aliases": null,
         "latitude": 41.0103,
         "longitude": 39.6098,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q845682",
@@ -4267,7 +4657,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74553737",
@@ -4277,7 +4668,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528079",
@@ -4287,7 +4679,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552940",
@@ -4297,7 +4690,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530298",
@@ -4307,7 +4701,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q111453239",
@@ -4319,7 +4714,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6087663",
@@ -4329,7 +4725,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30312790",
@@ -4339,7 +4736,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7855223",
@@ -4352,7 +4750,8 @@
         ],
         "latitude": 40.9682,
         "longitude": 28.8404,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74530610",
@@ -4362,7 +4761,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74526736",
@@ -4372,7 +4772,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q124354671",
@@ -4386,7 +4787,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7855292",
@@ -4396,7 +4798,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Turkish National Police Academy (Turkish: Polis Akademisi, PA) is a public police university located in Ankara, Turkey. Operating under the General Directorate of Security, the academy provides undergraduate and graduate education in security and forensic sciences, as well as professional training for future police officers and leaders."
     },
     {
         "wikidata_id": "Q7855294",
@@ -4406,7 +4809,8 @@
         "aliases": null,
         "latitude": 40.785833,
         "longitude": 29.446944,
-        "type": "institute"
+        "type": "institute",
+        "description": "The National Research Institute of Electronics and Cryptology of Turkey (Turkish: Ulusal Elektronik ve Kriptoloji Araştırma Enstitüsü), shortly UEKAE, is a national scientific organization with the aim of developing advanced technologies for information security. UEKAE is the most prominent and also the founder (first) institute of the TÜBİTAK.\nThe institute was founded by Yılmaz Tokad, professor at ITU (Istanbul Technical University), and four researchers under his supervision in the building of engineering at METU (Middle East Technical University)in 1972, with the name Electronic Research Unit. In 1995 the institute's name has become National Research Institute of Electronics and Cryptology and moved to Gebze, Kocaeli."
     },
     {
         "wikidata_id": "Q7855295",
@@ -4418,7 +4822,8 @@
         ],
         "latitude": 40.8103,
         "longitude": 29.2633,
-        "type": "university"
+        "type": "university",
+        "description": "The Turkish Naval Academy (Turkish: Deniz Harp Okulu) or as it is known historically and popularly Bahriye is a four-year co-educational military academy and part of the National Defense University in Turkey. It is located in the district of Tuzla in Istanbul. Its mission is to develop cadets mentally and physically for service as commissioned officers in the Turkish Navy."
     },
     {
         "wikidata_id": "Q74537598",
@@ -4428,7 +4833,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528976",
@@ -4438,7 +4844,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74557494",
@@ -4448,7 +4855,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529266",
@@ -4458,7 +4866,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74543967",
@@ -4468,7 +4877,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547122",
@@ -4478,7 +4888,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74553799",
@@ -4488,7 +4899,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74541689",
@@ -4498,7 +4910,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74556320",
@@ -4508,7 +4921,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1304582",
@@ -4518,7 +4932,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Turkish-German University (Turkish: Türk-Alman Üniversitesi, German: Türkisch-Deutsche Universität) is a state university located in Istanbul, Turkey. The university was founded in 2013 with the intent of having an institute merging academic traditions from both Germany and Turkey. The university offers courses in Turkish, English and German."
     },
     {
         "wikidata_id": "Q31211727",
@@ -4528,7 +4943,8 @@
         "aliases": null,
         "latitude": 40.9207,
         "longitude": 29.3196,
-        "type": "university"
+        "type": "university",
+        "description": "Turkish-Japanese Science and Technology University (Japanese: トルコ・日本科学技術大学; Turkish: Türk-Japon Bilim ve Teknoloji Üniversitesi), is a state university founded on June 18, 2017."
     },
     {
         "wikidata_id": "Q1449952",
@@ -4540,7 +4956,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "TÜBİTAK Space Technologies Research Institute (Turkish: TÜBİTAK Uzay Teknolojileri Araştırma Enstitüsü) or TÜBİTAK UZAY for short, is a Turkish institution carrying out research and development projects on space technology, electronics, information technology, and related fields. It was established in 1985, under the name \"Ankara Electronics Research and Development Institute\" within the campus of Middle East Technical University (ODTÜ) in cooperation with the Scientific and Technological Research Council of Turkey (Turkish: Türkiye Bilimsel ve Teknolojik Araştırma Kurumu, TÜBİTAK) and the university in Ankara. In 1995, the organization was renamed."
     },
     {
         "wikidata_id": "Q126898697",
@@ -4552,7 +4969,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74549591",
@@ -4562,7 +4980,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5299037",
@@ -4574,7 +4993,8 @@
         ],
         "latitude": 39.8268003,
         "longitude": 32.7297667,
-        "type": "university"
+        "type": "university",
+        "description": "Ufuk University (Turkish: Ufuk Üniversitesi) is a private university in Ankara, Turkey. The university was established by the Turkish Foundation of Traffic Accidents in 1999.\nThe university consists of Faculties of Medicine, Law, Education, Science-Literature (Statistics), Economics, Administrative and Social Sciences (Psychology, Management, Political Science and International Affairs, International Trade)."
     },
     {
         "wikidata_id": "Q19612850",
@@ -4587,7 +5007,8 @@
         ],
         "latitude": 41.0040278,
         "longitude": 29.0198611,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Health Sciences (Turkish: Sağlık Bilimleri Üniversitesi; SBÜ) is a public university in Turkey established in 2015. As of 2019, the rector of the university is Prof. Dr."
     },
     {
         "wikidata_id": "Q74526759",
@@ -4597,7 +5018,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6092476",
@@ -4609,7 +5031,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "University of Turkish Aeronautical Association (UTAA) (Turkish: Türk Hava Kurumu Üniversitesi, THKÜ) is a non-profit foundation university located in Ankara, Turkey. It was established on March 3, 2011, by Law No. 6114 and is supported by the Turkish Aeronautical Association Foundation."
     },
     {
         "wikidata_id": "Q74545541",
@@ -4619,7 +5042,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7905547",
@@ -4629,7 +5053,8 @@
         "aliases": null,
         "latitude": 38.6743611,
         "longitude": 29.3307222,
-        "type": "university"
+        "type": "university",
+        "description": "Uşak University is a university located in Uşak, Turkey. It was established in 2006. While it offers undergraduate education to more than 30,000 students with 14 faculties and one college, it prepares young people for the future with associate degree programs in 11 vocational schools and master's degree programs in one institute."
     },
     {
         "wikidata_id": "Q5995605",
@@ -4639,7 +5064,8 @@
         "aliases": null,
         "latitude": 38.4031111,
         "longitude": 27.0986944,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3671573",
@@ -4652,7 +5078,8 @@
         ],
         "latitude": 38.5663611,
         "longitude": 43.2881667,
-        "type": "university"
+        "type": "university",
+        "description": "Van Yüzüncü Yıl University (Turkish: Van Yüzüncü Yıl Üniversitesi) is a university in Van, Turkey. The name was \"Yüzüncü Yıl University\" until June 15, 2017."
     },
     {
         "wikidata_id": "Q6098789",
@@ -4662,7 +5089,8 @@
         "aliases": null,
         "latitude": 41.014337,
         "longitude": 28.958404,
-        "type": "university"
+        "type": "university",
+        "description": "Vefa High School (Turkish: Vefa Lisesi, Ottoman Turkish: وفا لیسەسی), is one of the oldest and internationally renowned high schools in Turkey. The first Mülkiye Lisesi (English: Non-military High School) training in Turkish language was Vefa Lisesi established in 1872 which forming and specializing as İdadi lessons and classes in Mekteb-i Mülkiye. Vefa S.K. was formed in this institution with initial players all being members of the school."
     },
     {
         "wikidata_id": "Q122840338",
@@ -4672,7 +5100,8 @@
         "aliases": null,
         "latitude": 41.0836143,
         "longitude": 29.0533276,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q8047517",
@@ -4682,7 +5111,8 @@
         "aliases": null,
         "latitude": 40.6526667,
         "longitude": 29.2196667,
-        "type": "university"
+        "type": "university",
+        "description": "Yalova University (Turkish: Yalova Üniversitesi) is a university in Turkey's Yalova Province.\nYalova University has been founded under the Law no 5765 on May 22, 2008, and Prof. Dr."
     },
     {
         "wikidata_id": "Q8050681",
@@ -4694,7 +5124,8 @@
         ],
         "latitude": 38.4544444,
         "longitude": 27.2025,
-        "type": "university"
+        "type": "university",
+        "description": "Yaşar University (Turkish: Yaşar Üniversitesi) is a university in İzmir, Turkey on the Aegean Sea. The university faculty teaches in English, with programs at both the undergraduate and postgraduate level."
     },
     {
         "wikidata_id": "Q478948",
@@ -4704,7 +5135,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Yeditepe University (Turkish: Yeditepe Üniversitesi) is a private non-profit university situated in Istanbul, Turkey. Established by the Istanbul Education and Culture Foundation (Turkish: İstanbul Eğitim ve Kültür Vakfı, İSTEK Vakfı) in 1996, Yeditepe University now claims to be the largest of the 74 private non-profit universities in Turkey. Students pay fees that vary according to discipline and faculty."
     },
     {
         "wikidata_id": "Q8052280",
@@ -4714,7 +5146,8 @@
         "aliases": null,
         "latitude": 41.016263,
         "longitude": 28.906906,
-        "type": "university"
+        "type": "university",
+        "description": "Istanbul Yeni Yüzyıl University (Turkish: İstanbul Yeni Yüzyıl Üniversitesi) was founded in 2009 in Turkey."
     },
     {
         "wikidata_id": "Q6075350",
@@ -4724,7 +5157,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74557787",
@@ -4734,7 +5168,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6085866",
@@ -4746,7 +5181,8 @@
         ],
         "latitude": 39.7749,
         "longitude": 34.7979,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6051343",
@@ -4756,7 +5192,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6053801",
@@ -4769,7 +5206,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6084324",
@@ -4782,7 +5220,8 @@
         ],
         "latitude": 39.9710278,
         "longitude": 32.8182778,
-        "type": "university"
+        "type": "university",
+        "description": "Ankara Yildirim Beyazit University (AYBU; Turkish: Ankara Yıldırım Beyazıt Üniversitesi) is a public university located in Ankara, Turkey. Established in 2010 as the fifth public university in the city, AYBU offers instruction in both Turkish and English and hosts a diverse student body, including a high proportion of international students.\nThe university is named after Bayezid the Thunderbolt (Yıldırım Beyazıt), 15th-century Ottoman sultan."
     },
     {
         "wikidata_id": "Q1093258",
@@ -4796,7 +5235,8 @@
         ],
         "latitude": 41.0517,
         "longitude": 29.0104,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74547885",
@@ -4806,7 +5246,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6499731",
@@ -4816,7 +5257,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5005278",
@@ -4829,7 +5271,8 @@
         ],
         "latitude": 41.4513889,
         "longitude": 31.7622222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q272576",
@@ -4845,7 +5288,8 @@
         ],
         "latitude": 40.1137,
         "longitude": 26.4087,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q272614",
@@ -4866,7 +5310,8 @@
         ],
         "latitude": 39.8191389,
         "longitude": 32.5643889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6098422",
@@ -4878,7 +5323,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74542669",
@@ -4888,7 +5334,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6035202",
@@ -4898,7 +5345,8 @@
         "aliases": null,
         "latitude": 36.977,
         "longitude": 35.076,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q272951",
@@ -4912,7 +5360,8 @@
         ],
         "latitude": 37.0513,
         "longitude": 35.3587,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q133846080",
@@ -4922,7 +5371,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q8079161",
@@ -4935,7 +5385,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6063394",
@@ -4945,7 +5396,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442667",
@@ -4955,7 +5407,8 @@
         "aliases": null,
         "latitude": 41.0232672,
         "longitude": 29.0405985,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442711",
@@ -4965,7 +5418,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442698",
@@ -4975,7 +5429,8 @@
         "aliases": null,
         "latitude": 41.0278172,
         "longitude": 29.1157775,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442712",
@@ -4985,7 +5440,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442713",
@@ -4995,7 +5451,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442688",
@@ -5005,7 +5462,8 @@
         "aliases": null,
         "latitude": 41.0249716,
         "longitude": 29.0389307,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442714",
@@ -5015,7 +5473,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442715",
@@ -5025,7 +5484,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442668",
@@ -5035,7 +5495,8 @@
         "aliases": null,
         "latitude": 41.0232672,
         "longitude": 29.0405985,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442690",
@@ -5045,7 +5506,8 @@
         "aliases": null,
         "latitude": 41.0249716,
         "longitude": 29.0389307,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442699",
@@ -5055,7 +5517,8 @@
         "aliases": null,
         "latitude": 41.0278172,
         "longitude": 29.1157775,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442717",
@@ -5065,7 +5528,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442691",
@@ -5075,7 +5539,8 @@
         "aliases": null,
         "latitude": 41.0249716,
         "longitude": 29.0389307,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442718",
@@ -5085,7 +5550,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442719",
@@ -5095,7 +5561,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442669",
@@ -5105,7 +5572,8 @@
         "aliases": null,
         "latitude": 41.0232672,
         "longitude": 29.0405985,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442720",
@@ -5115,7 +5583,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442692",
@@ -5125,7 +5594,8 @@
         "aliases": null,
         "latitude": 41.0249716,
         "longitude": 29.0389307,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442721",
@@ -5135,7 +5605,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442722",
@@ -5145,7 +5616,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442723",
@@ -5155,7 +5627,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442679",
@@ -5165,7 +5638,8 @@
         "aliases": null,
         "latitude": 41.0222294,
         "longitude": 29.0402348,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442724",
@@ -5175,7 +5649,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442725",
@@ -5185,7 +5660,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442693",
@@ -5195,7 +5671,8 @@
         "aliases": null,
         "latitude": 41.0249716,
         "longitude": 29.0389307,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442726",
@@ -5205,7 +5682,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442727",
@@ -5215,7 +5693,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442700",
@@ -5225,7 +5704,8 @@
         "aliases": null,
         "latitude": 41.0278172,
         "longitude": 29.1157775,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442680",
@@ -5235,7 +5715,8 @@
         "aliases": null,
         "latitude": 41.0222294,
         "longitude": 29.0402348,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442728",
@@ -5245,7 +5726,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442694",
@@ -5255,7 +5737,8 @@
         "aliases": null,
         "latitude": 41.0249716,
         "longitude": 29.0389307,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442670",
@@ -5265,7 +5748,8 @@
         "aliases": null,
         "latitude": 41.0232672,
         "longitude": 29.0405985,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442729",
@@ -5275,7 +5759,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442730",
@@ -5285,7 +5770,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442731",
@@ -5295,7 +5781,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442732",
@@ -5305,7 +5792,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442733",
@@ -5315,7 +5803,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442734",
@@ -5325,7 +5814,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442735",
@@ -5335,7 +5825,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442701",
@@ -5345,7 +5836,8 @@
         "aliases": null,
         "latitude": 41.0278172,
         "longitude": 29.1157775,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442695",
@@ -5355,7 +5847,8 @@
         "aliases": null,
         "latitude": 41.0249716,
         "longitude": 29.0389307,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442696",
@@ -5365,7 +5858,8 @@
         "aliases": null,
         "latitude": 41.0249716,
         "longitude": 29.0389307,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442672",
@@ -5375,7 +5869,8 @@
         "aliases": null,
         "latitude": 41.0232672,
         "longitude": 29.0405985,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442673",
@@ -5385,7 +5880,8 @@
         "aliases": null,
         "latitude": 41.0232672,
         "longitude": 29.0405985,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442675",
@@ -5395,7 +5891,8 @@
         "aliases": null,
         "latitude": 41.0232672,
         "longitude": 29.0405985,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442736",
@@ -5405,7 +5902,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442702",
@@ -5415,7 +5913,8 @@
         "aliases": null,
         "latitude": 41.0278172,
         "longitude": 29.1157775,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442703",
@@ -5425,7 +5924,8 @@
         "aliases": null,
         "latitude": 41.0278172,
         "longitude": 29.1157775,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442704",
@@ -5435,7 +5935,8 @@
         "aliases": null,
         "latitude": 41.0278172,
         "longitude": 29.1157775,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442737",
@@ -5445,7 +5946,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442705",
@@ -5455,7 +5957,8 @@
         "aliases": null,
         "latitude": 41.0278172,
         "longitude": 29.1157775,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442738",
@@ -5465,7 +5968,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442739",
@@ -5475,7 +5979,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442740",
@@ -5485,7 +5990,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442741",
@@ -5495,7 +6001,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442706",
@@ -5505,7 +6012,8 @@
         "aliases": null,
         "latitude": 41.0278172,
         "longitude": 29.1157775,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442742",
@@ -5515,7 +6023,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442707",
@@ -5525,7 +6034,8 @@
         "aliases": null,
         "latitude": 41.0278172,
         "longitude": 29.1157775,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442743",
@@ -5535,7 +6045,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442744",
@@ -5545,7 +6056,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442681",
@@ -5555,7 +6067,8 @@
         "aliases": null,
         "latitude": 41.0222294,
         "longitude": 29.0402348,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442745",
@@ -5565,7 +6078,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442708",
@@ -5575,7 +6089,8 @@
         "aliases": null,
         "latitude": 41.0278172,
         "longitude": 29.1157775,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442746",
@@ -5585,7 +6100,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442682",
@@ -5595,7 +6111,8 @@
         "aliases": null,
         "latitude": 41.0222294,
         "longitude": 29.0402348,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442683",
@@ -5605,7 +6122,8 @@
         "aliases": null,
         "latitude": 41.0222294,
         "longitude": 29.0402348,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442684",
@@ -5615,7 +6133,8 @@
         "aliases": null,
         "latitude": 41.0222294,
         "longitude": 29.0402348,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442685",
@@ -5625,7 +6144,8 @@
         "aliases": null,
         "latitude": 41.0222294,
         "longitude": 29.0402348,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442676",
@@ -5635,7 +6155,8 @@
         "aliases": null,
         "latitude": 41.0232672,
         "longitude": 29.0405985,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442677",
@@ -5645,7 +6166,8 @@
         "aliases": null,
         "latitude": 41.0232672,
         "longitude": 29.0405985,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442747",
@@ -5655,7 +6177,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442748",
@@ -5665,7 +6188,8 @@
         "aliases": null,
         "latitude": 41.024452,
         "longitude": 29.0192525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442709",
@@ -5675,7 +6199,8 @@
         "aliases": null,
         "latitude": 41.0278172,
         "longitude": 29.1157775,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442686",
@@ -5685,7 +6210,8 @@
         "aliases": null,
         "latitude": 41.0222294,
         "longitude": 29.0402348,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442697",
@@ -5695,7 +6221,8 @@
         "aliases": null,
         "latitude": 41.0249716,
         "longitude": 29.0389307,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442710",
@@ -5705,7 +6232,8 @@
         "aliases": null,
         "latitude": 41.0278172,
         "longitude": 29.1157775,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442678",
@@ -5715,7 +6243,8 @@
         "aliases": null,
         "latitude": 41.0232672,
         "longitude": 29.0405985,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442750",
@@ -5725,7 +6254,8 @@
         "aliases": null,
         "latitude": 41.03002,
         "longitude": 29.1143821,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442751",
@@ -5735,7 +6265,8 @@
         "aliases": null,
         "latitude": 41.03002,
         "longitude": 29.1143821,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134442752",
@@ -5745,7 +6276,8 @@
         "aliases": null,
         "latitude": 41.03002,
         "longitude": 29.1143821,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25477770",
@@ -5758,7 +6290,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Ibn Haldun University (Turkish: İbn Haldun Üniversitesi) or abbreviated as IHU, is a private foundation university located in Başakşehir, Istanbul. The university has a strong focus on the humanities and social sciences, and espouses a multilingual approach to education, namely in Turkish, English and Arabic."
     },
     {
         "wikidata_id": "Q343987",
@@ -5770,7 +6303,8 @@
         ],
         "latitude": 38.3330556,
         "longitude": 38.4388889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12812964",
@@ -5780,7 +6314,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131903156",
@@ -5790,7 +6325,8 @@
         "aliases": null,
         "latitude": 40.7570648,
         "longitude": 29.3860779,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135582161",
@@ -5800,7 +6336,8 @@
         "aliases": null,
         "latitude": 39.0684433,
         "longitude": 26.891655,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6082132",
@@ -5812,7 +6349,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Istanbul Topkapı University or formerly Istanbul Ayvansaray Üniversitesi and Plato College of Higher Education was founded with the Cabinet Decision number 14944, dated April 21, 2009. It gained its legal entity status subsequent to the cabinet decision being published in the T.C. Resmi Gazete."
     },
     {
         "wikidata_id": "Q118929813",
@@ -5822,7 +6360,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6092499",
@@ -5832,7 +6371,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19613837",
@@ -5844,7 +6384,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12813003",
@@ -5854,7 +6395,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28160625",
@@ -5864,7 +6406,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28054180",
@@ -5876,7 +6419,8 @@
         ],
         "latitude": 38.5817778,
         "longitude": 26.9641111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28221720",
@@ -5886,7 +6430,8 @@
         "aliases": null,
         "latitude": 38.39357,
         "longitude": 27.07377,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q344405",
@@ -5899,7 +6444,8 @@
         ],
         "latitude": 38.3191667,
         "longitude": 26.6425,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19613831",
@@ -5911,7 +6457,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16850737",
@@ -5924,7 +6471,8 @@
         ],
         "latitude": 38.5154167,
         "longitude": 27.0310278,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q52162244",
@@ -5936,7 +6484,8 @@
         ],
         "latitude": 38.407515,
         "longitude": 27.195457,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11271520",
@@ -5946,7 +6495,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4822444",
@@ -5961,7 +6511,8 @@
         ],
         "latitude": 38.3883333,
         "longitude": 27.0447222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q109383747",
@@ -5971,7 +6522,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136146983",
@@ -5981,7 +6533,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q8082518",
@@ -5991,7 +6544,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25474090",
@@ -6001,7 +6555,8 @@
         "aliases": null,
         "latitude": 38.3913383,
         "longitude": 27.1450443,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q8082628",
@@ -6011,6 +6566,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

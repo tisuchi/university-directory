@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 27.4391,
         "longitude": 90.4805,
-        "type": "university"
+        "type": "university",
+        "description": "The College of Language and Culture Studies (CLCS) is a school at the Royal University of Bhutan in Taktse, Trongsa, central Bhutan. It was formerly known as the Institute for Language and Culture Studies (ILCS).\n\nCLCS was founded in 1961 as a semi-monastic school at Wangditse."
     },
     {
         "wikidata_id": "Q15211235",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": 26.8503,
         "longitude": 89.394,
-        "type": "university"
+        "type": "university",
+        "description": "The College of Science and Technology is an engineering college under Royal University of Bhutan in Rinchending, Phuntsholing, Bhutan, that offers undergraduate as well as graduate education. The college provides bachelor's degrees in Civil Engineering, Electrical Engineering, Electronics and Communication Engineering, Information Technology Engineering, Architecture,Water Resources Engineering, Mechanical Engineering and Software Engineering as well as a Master of Engineering in Renewable Energy and Construction management. As of 2011, it was the only institution providing undergraduate education in engineering in Bhutan."
     },
     {
         "wikidata_id": "Q5516504",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": 26.922819,
         "longitude": 89.522039,
-        "type": "university"
+        "type": "university",
+        "description": "Gedu College of Business Studies (GCBS) is a public autonomous constituent college under the Royal University of Bhutan. Located in  Gedu, Chukha, it is the only college of the Royal University of Bhutan that specialises in business and management education.\nEstablished in 2008, the college offers a range of undergraduate and postgraduate programs in fields such as business administration, commerce, accounting, finance, marketing (Digital and Communication), human capital management, economics & business intelligence."
     },
     {
         "wikidata_id": "Q86663201",
@@ -42,7 +45,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Khesar Gyalpo University of Medical Sciences of Bhutan (KGUMSB) (Dzongkha: གེ་སར་རྒྱལ་པོ་གསོ་རིག་གཙུག་ལག་སློབ་སྡེ) is a medical university located in Thimphu, Bhutan. Founded in 2013, it is the first medical university to be established in Bhutan."
     },
     {
         "wikidata_id": "Q6666251",
@@ -52,7 +56,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Loden Foundation (བློ་ལྡེན་གཞི་ཚོགས་) is a registered Civil Society Organization (CSO) in Bhutan under the Civil Society Authority (CSOA), promoting education, social entrepreneurship, and Bhutan's culture and traditions since 1999."
     },
     {
         "wikidata_id": "Q7139349",
@@ -64,7 +69,8 @@
         ],
         "latitude": 27.417,
         "longitude": 89.4228,
-        "type": "university"
+        "type": "university",
+        "description": "Paro College of Education is one of the constituent colleges of the Royal University of Bhutan."
     },
     {
         "wikidata_id": "Q4233753",
@@ -74,7 +80,8 @@
         "aliases": null,
         "latitude": 27.4647222,
         "longitude": 89.6372222,
-        "type": "university"
+        "type": "university",
+        "description": "The Royal Institute of Health Sciences (RIHS) is one of two main medical education centers in Bhutan, the other being the Institute of Traditional Medicine Services. It was established in Thimphu in 1974, as a member college of the Royal University of Bhutan, and is associated with the National Referral Hospital. It offers diploma and certificate programmes for nurses, medical technicians and other primary health care workers."
     },
     {
         "wikidata_id": "Q7374919",
@@ -84,7 +91,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Royal Thimphu College is a private college in Thimphu, Bhutan under the Royal University of Bhutan. It is Bhutan's first private college.\nThe campus is located in an area of 25 acres of land in Ngabiphu, a rural area in Thimphu dzongkhag, located 7 km from the capital city of Thimphu."
     },
     {
         "wikidata_id": "Q2640138",
@@ -96,7 +104,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Royal University of Bhutan (Dzongkha: འབྲུག་རྒྱལ་འཛིན་གཙུག་ལག་སློབ་སྡེ་; Wylie: 'brug rgyal-'dzin gtsug-lag-slob-sde), founded on June 2, 2003, by a royal decree, is the national university of Bhutan. It is the first and the oldest university in Bhutan."
     },
     {
         "wikidata_id": "Q101000313",
@@ -106,7 +115,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q101000316",
@@ -116,7 +126,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q101000299",
@@ -126,7 +137,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7410660",
@@ -136,7 +148,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Samtse College of Education, a constituent college of the Royal University of Bhutan, is one of the two institutes in the country offering undergraduate degree programmes in education and post graduate diplomas in education. The college is in Samtse, Bhutan.\nIt was founded in 1968 as the Teacher Training Institute by King Jigme Dorji Wangchuck, the third king of Bhutan."
     },
     {
         "wikidata_id": "Q2017028",
@@ -146,6 +159,7 @@
         "aliases": null,
         "latitude": 27.287112,
         "longitude": 91.523677,
-        "type": "university"
+        "type": "university",
+        "description": "Sherubtse College is the first accredited college in Bhutan, founded in 1966 by a group of Jesuits under the leadership of Father William Mackey. The college was affiliated to the University of Delhi by a special act of the Indian parliament.\nIt became a part of the newly created Royal University of Bhutan in 2003, a system that comprises all public post-secondary schools in Bhutan."
     }
 ]

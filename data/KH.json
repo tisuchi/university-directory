@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 11.5771,
         "longitude": 104.893,
-        "type": "university"
+        "type": "university",
+        "description": "The American University of Phnom Penh (AUPP; Khmer: សាកលវិទ្យាល័យអាមេរិកាំងភ្នំពេញ, GD: Sakalvityealai Amerikang Phnom Penh [saːkɑlʋɨtjiəlaj ʔamerikaŋ pʰnom pəɲ]) is a private English-medium university founded in August 2013, with a campus in Phnom Penh, Cambodia. The university currently offers four-year American dual degree programs  as well as stand-alone Bachelor's and MBA programs.\"Master's Programs\"."
     },
     {
         "wikidata_id": "Q4763326",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": 13.350539,
         "longitude": 103.892415,
-        "type": "university"
+        "type": "university",
+        "description": "Angkor University (សាកលវិទ្យាល័យអង្គរ) is a higher education and research institution in Siem Reap Province, Cambodia.\nThe university is composed of seven academic faculties and three centers. According to a number of surveys, it is consistently ranked within the top 30 universities in Cambodia and is considered to be the best university in the Siem Reap province by the UniRank ranking."
     },
     {
         "wikidata_id": "Q16834536",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Asia Euro University (Khmer: សាកលវិទ្យាល័យអាស៊ីអឺរ៉ុប, Sakâlvĭtyéalai Asi Oerŏb) is a private university located in Phnom Penh, Cambodia. It was established in 2005 under sub-decree No. 05អនក្របក dated January 19, 2005."
     },
     {
         "wikidata_id": "Q100956882",
@@ -37,7 +40,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4986394",
@@ -47,7 +51,8 @@
         "aliases": null,
         "latitude": 13.3485,
         "longitude": 103.846,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16256278",
@@ -57,7 +62,8 @@
         "aliases": null,
         "latitude": 11.59126,
         "longitude": 104.899587,
-        "type": "university"
+        "type": "university",
+        "description": "Cambodia University of Specialties (CUS) is a private university based in Phnom Penh, Cambodia. The university, established in 2002, is one of the largest private universities in Cambodia."
     },
     {
         "wikidata_id": "Q5025158",
@@ -69,7 +75,8 @@
         ],
         "latitude": 11.5575,
         "longitude": 104.887,
-        "type": "university"
+        "type": "university",
+        "description": "Cambodian Mekong University (CMU) is a private university located in Phnom Penh, Cambodia. It is registered as a private higher education institution with the Ministry of Education, Youth and Sports. The university was established in 2003."
     },
     {
         "wikidata_id": "Q17063745",
@@ -79,7 +86,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "IIC University of Technology (IIC) came into existence in 2008 through the evolution of the International Institute of Cambodia, founded in 1999. IIC University is accredited by the Royal Government of Cambodia as specified in Sub-Decree No. 127ANK.BK. It is a member of the International Association of Universities."
     },
     {
         "wikidata_id": "Q122922491",
@@ -94,7 +102,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11812055",
@@ -108,7 +117,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Institute of Technology of Cambodia (ITC; Khmer: វិទ្យាស្ថានបច្ចេកវិទ្យាកម្ពុជា; French: Institut de Technologie du Cambodge), known for short as Sala Techno (Khmer: សាលាតិចណូ; lit. 'Techno School'), is a higher education institution in Phnom Penh, Cambodia that trains students in science, technology and engineering. Enrollment is approximately 3,500 undergraduate students and 200 graduate students."
     },
     {
         "wikidata_id": "Q6051143",
@@ -118,7 +128,8 @@
         "aliases": null,
         "latitude": 11.574755,
         "longitude": 104.878986,
-        "type": "university"
+        "type": "university",
+        "description": "International Institute of Cambodia (IIC) was created in 1999. In 2007, IIC merged with the Asean University to become the Phnom Penh International University (PPIU). But in 2008, PPIU separated into two parts."
     },
     {
         "wikidata_id": "Q3545832",
@@ -128,7 +139,8 @@
         "aliases": null,
         "latitude": 11.5761056,
         "longitude": 104.8969861,
-        "type": "university"
+        "type": "university",
+        "description": "International University (IU; Khmer: សាកលវិទ្យាល័យអន្តរជាតិ) is a private higher education  institution specializing in  medicine and medical science. Established in 2002, IU is recognized and nationally accredited by the government of Cambodia, the Ministry of Education, Youth and Sports and the Accreditation Committee of Cambodia (ACC). International University education standards are recognized by transnational medical institutions such as the Asia–Europe Foundation, Association of Southeast Asian Institutions of Higher Learning (ASAIHL), UN World Health Organization – including accreditation with the United States–based Educational Commission for Foreign Medical Graduates (ECFMG), Foundation for Advancement of International Medical Education and Research (FAIMER) and International Medical Education Directory (IMED) enabling medical school graduates to take the three complete steps of the United States Medical Licensing Examination (USMLE) and on successful completion can register for physician residency and practice medicine in the United States."
     },
     {
         "wikidata_id": "Q63348401",
@@ -138,7 +150,8 @@
         "aliases": null,
         "latitude": 11.3150556,
         "longitude": 104.0675278,
-        "type": "university"
+        "type": "university",
+        "description": "Kirirom Institute of Technology (KIT) is a private university in Cambodia that focuses on IT and was founded in 2014. Currently, it consists of two departments, Software engineering and International Leaders Hospitality Management with around 230 students from Cambodia and Japan."
     },
     {
         "wikidata_id": "Q116686439",
@@ -150,7 +163,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The National Institute of Education (NIE) is a higher education institution that trains teachers in the Kingdom of Cambodia."
     },
     {
         "wikidata_id": "Q6979258",
@@ -160,7 +174,8 @@
         "aliases": null,
         "latitude": 11.5746,
         "longitude": 104.919,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Management (NUM; Khmer: សាកលវិទ្យាល័យជាតិគ្រប់គ្រង, UNGEGN: Sakâlôvĭtyéaloăy Chéatĕ Króbkrông) is a business school in Phnom Penh, Cambodia, located near Phnom Penh Railway Station. The university provides training programmes to all people in the areas of management, economics, commerce, IT, business law, tourism, and foreign languages, accompanied by research and development in response to the needs of the job market."
     },
     {
         "wikidata_id": "Q3812404",
@@ -170,7 +185,8 @@
         "aliases": null,
         "latitude": 11.5547222,
         "longitude": 104.9283333,
-        "type": "university"
+        "type": "university",
+        "description": "Norton University (NU; Khmer: សាកលវិទ្យាល័យន័រតុន, ស.ន., UNGEGN: Sakâlôvĭtyéaloăy Noărtŏn, S.N.) is a private university in Cambodia registered with the Ministry of Education, Youth and Sport. It was established in 1996. The university was one of the first private Cambodian educational institutions."
     },
     {
         "wikidata_id": "Q15987680",
@@ -182,7 +198,8 @@
         ],
         "latitude": 11.58253,
         "longitude": 104.89818,
-        "type": "university"
+        "type": "university",
+        "description": "Paragon International University (Khmer: សាកលវិទ្យាល័យអន្តរជាតិផារ៉ាហ្គន), formerly Zaman University (Khmer: សាកលវិទ្យាល័យហ្សាម៉ាន់) from 2010 to 2018, is a private university located in Phnom Penh, Cambodia. The university is accredited by the Royal Government of Cambodia and the Accreditation Committee of Cambodia (ACC). At Paragon International University, the programs are taught in English."
     },
     {
         "wikidata_id": "Q30281766",
@@ -196,7 +213,8 @@
         ],
         "latitude": 11.581131,
         "longitude": 104.916944,
-        "type": "institute"
+        "type": "institute",
+        "description": "Institut Pasteur du Cambodge (IPC; Khmer: វិទ្យាស្ថាន​ប៉ាស្ទ័រ​កម្ពុជា) is a medical research centre and public health institute in Phnom Penh, Cambodia. It is part of the Pasteur Institute's international network of health centres and is partnered with the Ministry of Health. It was first established in 1953 and reopened in 1992 after the 1991 Paris Peace Agreements."
     },
     {
         "wikidata_id": "Q15988169",
@@ -206,7 +224,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Paññāsāstra University of Cambodia (PUC) is a private university located in Phnom Penh, Cambodia. It was originally established in 1997, and opened in 2000. It provides an English-based education in all subjects, and is accredited by the Royal Government of Cambodia's Ministry of Education, Youth and Sports."
     },
     {
         "wikidata_id": "Q17064187",
@@ -219,7 +238,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Phnom Penh Institute of Technology (PPIT; Khmer: វិទ្យាស្ថានបច្ចេកវិទ្យាភ្នំពេញ) is a national top-tier research university in Phnom Penh, Cambodia. PPIT is the largest private institution for higher education in Cambodia dedicated to science technology and engineering. PPIT enrolled 246 undergraduates students in 2012–2013."
     },
     {
         "wikidata_id": "Q25679951",
@@ -229,7 +249,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q108888192",
@@ -239,7 +260,8 @@
         "aliases": null,
         "latitude": 11.5635082,
         "longitude": 104.9341696,
-        "type": "university"
+        "type": "university",
+        "description": "Preah Sihanouk Raja Buddhist University is a non-profit public higher-education institution located in the metropolis of Phnom Penh in the Kingdom of Cambodia."
     },
     {
         "wikidata_id": "Q130532920",
@@ -252,7 +274,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7373572",
@@ -264,7 +287,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Royal Academy of Cambodia (RAC; Khmer: រាជបណ្ឌិត្យសភាកម្ពុជា, UNGEGN: Réachôbândĭtyâsâphéa Kâmpŭchéa, ALA-LC: Rājapaṇḍityasabhā Kambujā; French: Académie royale du Cambodge) is the national academy and university of Cambodia. RAC was originally established by a Royal Decree of 25 August 1965 and placed under the Office of the Council of Ministers. However, by the time war broke out in Cambodia in 1970 it had still not started operations, and in the following years it disappeared completely amidst the turmoil of the Khmer Rouge period."
     },
     {
         "wikidata_id": "Q7374951",
@@ -274,7 +298,8 @@
         "aliases": null,
         "latitude": 11.5132,
         "longitude": 104.9017,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7374953",
@@ -284,7 +309,8 @@
         "aliases": null,
         "latitude": 11.565119,
         "longitude": 104.928131,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7374954",
@@ -294,7 +320,8 @@
         "aliases": null,
         "latitude": 11.5357856,
         "longitude": 104.9251218,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1709572",
@@ -306,7 +333,8 @@
         ],
         "latitude": 11.569,
         "longitude": 104.8914,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100956886",
@@ -316,7 +344,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1707654",
@@ -326,7 +355,8 @@
         "aliases": null,
         "latitude": 11.5547,
         "longitude": 104.928,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895484",
@@ -336,7 +366,8 @@
         "aliases": null,
         "latitude": 11.5741,
         "longitude": 104.917,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896182",
@@ -346,7 +377,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100956880",
@@ -356,6 +388,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

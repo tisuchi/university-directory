@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 4.8918333,
         "longitude": 114.9416667,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Brunei History Centre (PSB; Malay: Pusat Sejarah Brunei) is a government institution which conducts research, documentation, publication and dissemination on matters pertaining to the history of Brunei. It was established in 1982 by the consent of Sultan Hassanal Bolkiah as an institute of historical research on Brunei for the benefit of the Bruneian people."
     },
     {
         "wikidata_id": "Q18205340",
@@ -19,7 +20,8 @@
         ],
         "latitude": 4.9048023,
         "longitude": 114.9308418,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Politeknik Brunei (PB or Brunei Polytechnic) is a polytechnic school situated in Bandar Seri Begawan, the capital of Brunei, founded in 2008."
     },
     {
         "wikidata_id": "Q38250826",
@@ -31,7 +33,8 @@
         ],
         "latitude": 4.7646667,
         "longitude": 114.8105,
-        "type": "university"
+        "type": "university",
+        "description": "IBTE Agro-Technology Campus, formerly known as Wasan Vocational School (Malay: Sekolah Vokasional Wasan) is a vocational school in Brunei and one of the campuses under the Institute of Brunei Technical Education (IBTE). It is located in Wasan, a rural settlement in Brunei-Muara District. The school provides training courses for knowledge and skills in agriculture and agro-technology."
     },
     {
         "wikidata_id": "Q19646171",
@@ -41,7 +44,8 @@
         "aliases": null,
         "latitude": 4.87869,
         "longitude": 114.888,
-        "type": "university"
+        "type": "university",
+        "description": "Kemuda Institute (KI) is a private college in Brunei. It was established in 2004 and has campuses in Beribi in Bandar Seri Begawan. Kemuda Institute mainly provides vocational courses in computing and information technology, leading up to BTEC qualification by Pearson as well as diplomas by NCC Education, two UK-based vocational qualifications providers."
     },
     {
         "wikidata_id": "Q24915008",
@@ -54,7 +58,8 @@
         ],
         "latitude": 4.8858611,
         "longitude": 114.92875,
-        "type": "university"
+        "type": "university",
+        "description": "The Kolej Universiti Perguruan Ugama Seri Begawan (KUPU SB or Seri Begawan Religious Teachers University College) is a public teacher-training university college situated in Bandar Seri Begawan, the capital of Brunei, founded in 2007. The institution aims to improve the standing of religious education in Brunei and create educators by integrating research and teaching knowledge based on Islamic principles and the Melayu Islam Beraja (MIB) concept."
     },
     {
         "wikidata_id": "Q569243",
@@ -67,7 +72,8 @@
         ],
         "latitude": 4.9752083,
         "longitude": 114.8908694,
-        "type": "university"
+        "type": "university",
+        "description": "The Universiti Brunei Darussalam (UBD or University of Brunei Darussalam) is a public national research university situated in Bandar Seri Begawan, the capital of Brunei, was founded in 1985 and is the oldest institution in the country. Nine research institutes, six academic service centres, and eight academic faculties make up the institution."
     },
     {
         "wikidata_id": "Q102225304",
@@ -77,7 +83,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6039029",
@@ -95,6 +102,7 @@
         ],
         "latitude": 4.9775,
         "longitude": 114.9001389,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Universiti Teknologi Brunei (UTB or University of Technology Brunei) is a public research university situated in Bandar Seri Begawan, the capital of Brunei, originally founded as Institut Teknologi Brunei (ITB) in 1986. The university focuses on engineering, business, computing, design, applied sciences, and mathematics."
     }
 ]

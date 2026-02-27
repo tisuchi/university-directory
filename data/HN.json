@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 14.0493333,
         "longitude": -87.1737889,
-        "type": "university"
+        "type": "university",
+        "description": "The Central American Technological University (Spanish: Universidad Tecnológica Centroamericana) (UNITEC) is a private coeducational institution with campuses in the three main cities of Honduras: Tegucigalpa, San Pedro Sula and La Ceiba."
     },
     {
         "wikidata_id": "Q104660724",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156613",
@@ -30,7 +32,8 @@
         ],
         "latitude": 14.0757222,
         "longitude": -87.187825,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3616162",
@@ -44,7 +47,8 @@
         ],
         "latitude": 14.0849611,
         "longitude": -87.1631639,
-        "type": "university"
+        "type": "university",
+        "description": "The National Autonomous University of Honduras (Spanish: Universidad Nacional Autónoma de Honduras) is the national public university of Honduras. Founded in 1847, it has over 140 programs from the Bachelor's level to the Doctorate, and is the largest and highest ranked university in Honduras."
     },
     {
         "wikidata_id": "Q8778145",
@@ -56,7 +60,8 @@
         ],
         "latitude": 14.009895,
         "longitude": -87.011206,
-        "type": "university"
+        "type": "university",
+        "description": "The Zamorano Pan-American Agricultural School  (Spanish: Escuela Agrícola Panamericana Zamorano), generally known as El Zamorano or Zamorano, is a private, coeducational, boarding school located in the valley of the Yeguare river, Honduras.  El Zamorano's main focus is agricultural and there are four different programs to choose from in the school. Enrollment stands at more than 1000 students."
     },
     {
         "wikidata_id": "Q6156590",
@@ -66,7 +71,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894251",
@@ -79,7 +85,8 @@
         ],
         "latitude": 14.1083222,
         "longitude": -87.1955583,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Católica de Honduras, officially named \"Universidad Católica de Honduras Nuestra Señora Reina de la Paz\" (Catholic University of Honduras Our Lady Queen of Peace), or \"UNICAH\" as it is affectionately called among its students, is a private university in Honduras run by the Catholic Church."
     },
     {
         "wikidata_id": "Q16644459",
@@ -89,7 +96,8 @@
         "aliases": null,
         "latitude": 15.4952053,
         "longitude": -87.9910147,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103020370",
@@ -99,7 +107,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156499",
@@ -112,7 +121,8 @@
         ],
         "latitude": 14.081527,
         "longitude": -87.2005301,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad José Cecilio del Valle (UJCV) is a private higher education institution in Honduras. It was established in 1978 through the Asociación Hondureña para el Fomento de la Educación Superior (AHFES). UJCV offers associate's degrees, as well as 4-to-5-year bachelor's degrees along with some master's programs."
     },
     {
         "wikidata_id": "Q16644485",
@@ -122,7 +132,8 @@
         "aliases": null,
         "latitude": 14.6680732,
         "longitude": -86.2208737,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103020400",
@@ -132,7 +143,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103020408",
@@ -142,7 +154,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103020411",
@@ -152,7 +165,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103020414",
@@ -162,7 +176,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103020422",
@@ -172,7 +187,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103020425",
@@ -182,7 +198,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103020432",
@@ -192,7 +209,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103020436",
@@ -202,7 +220,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q26940179",
@@ -215,7 +234,8 @@
         ],
         "latitude": 14.829813,
         "longitude": -85.8444326,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103020439",
@@ -225,7 +245,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894315",
@@ -237,7 +258,8 @@
         ],
         "latitude": 15.5513056,
         "longitude": -88.0125278,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad Tecnológica de Honduras (Technological University of Honduras) known by its acronym UTH, is a private university located in Honduras. It is known for its careers in Business Management, Law, Marketing and Tourism, and several engineering careers such as Industrial Production engineering, Computer Engineering and Electronics.\nThe university was born in the city of San Pedro Sula, where the main campus was established."
     },
     {
         "wikidata_id": "Q7896241",
@@ -249,6 +271,7 @@
         ],
         "latitude": 15.5185686,
         "longitude": -88.0317232,
-        "type": "university"
+        "type": "university",
+        "description": "The University of San Pedro Sula (USAP) is a private university located in San Pedro Sula, Honduras. Established on November 15, 1977, as the result of an initiative of prominent entrepreneurs, professionals, and cultural leaders, led by Jorge E. Jaar, who envisioned the creation of the country's first private university during a business round table in San Pedro Sula. It was the first private university in Honduras, it began operations on December 1, 1977."
     }
 ]

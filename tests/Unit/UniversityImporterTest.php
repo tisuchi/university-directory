@@ -17,6 +17,7 @@ function sampleUniversities(int $count = 1): array
             'latitude' => 48.0 + $i,
             'longitude' => 11.0 + $i,
             'type' => 'university',
+            'description' => "A university for testing {$i}.",
         ];
     }
 
@@ -56,6 +57,44 @@ test('sets correct attributes', function () {
     expect($uni->type->value)->toBe('university');
     expect($uni->official_website)->toBe('https://www.tum.de');
     expect($uni->aliases)->toBe(['TU Munich', 'TUM']);
+    expect($uni->description)->toBeNull();
+});
+
+test('imports description when provided', function () {
+    $importer = new UniversityImporter;
+    $importer->import([
+        [
+            'wikidata_id' => 'Q49108',
+            'name' => 'Technical University of Munich',
+            'short_name' => 'TUM',
+            'official_website' => 'https://www.tum.de',
+            'aliases' => ['TU Munich'],
+            'latitude' => 48.1497,
+            'longitude' => 11.5679,
+            'type' => 'university',
+            'description' => 'A leading research university in Munich, Germany.',
+        ],
+    ], 'DE');
+
+    expect(University::first()->description)->toBe('A leading research university in Munich, Germany.');
+});
+
+test('handles missing description gracefully', function () {
+    $importer = new UniversityImporter;
+    $importer->import([
+        [
+            'wikidata_id' => 'Q49108',
+            'name' => 'Technical University of Munich',
+            'short_name' => 'TUM',
+            'official_website' => null,
+            'aliases' => null,
+            'latitude' => null,
+            'longitude' => null,
+            'type' => 'university',
+        ],
+    ], 'DE');
+
+    expect(University::first()->description)->toBeNull();
 });
 
 test('returns correct created count', function () {

@@ -9,7 +9,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100267068",
@@ -21,7 +22,8 @@
         ],
         "latitude": 12.3765556,
         "longitude": -1.5015556,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q103017429",
@@ -31,7 +33,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30261334",
@@ -41,7 +44,8 @@
         "aliases": null,
         "latitude": 12.384496,
         "longitude": -1.506978,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100452188",
@@ -54,7 +58,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136361293",
@@ -64,7 +69,8 @@
         "aliases": null,
         "latitude": 12.3005485,
         "longitude": -1.5301037,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100452192",
@@ -77,7 +83,8 @@
         ],
         "latitude": 11.1664444,
         "longitude": -4.2398611,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100452195",
@@ -89,7 +96,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100452194",
@@ -102,7 +110,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30261877",
@@ -114,7 +123,8 @@
         ],
         "latitude": 12.376646,
         "longitude": -1.4987,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100955861",
@@ -127,7 +137,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q117800930",
@@ -137,7 +148,8 @@
         "aliases": null,
         "latitude": 11.160932,
         "longitude": -4.289012,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q21774103",
@@ -149,7 +161,8 @@
         ],
         "latitude": 12.37911,
         "longitude": -1.50386,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3075348",
@@ -163,7 +176,8 @@
         ],
         "latitude": 12.3791,
         "longitude": -1.50372,
-        "type": "institute"
+        "type": "institute",
+        "description": "The International Institute for Water and Environmental Engineering (2iE) is a higher education and research institute, a member of the Conférence des grandes écoles (CGE), based in Burkina Faso. Specializing in water, energy, environment, civil engineering, and mining, its engineering degrees have been accredited by the French Commission des Titres d'Ingénieur (CTI), granting them European recognition through the EUR-ACE label.\n2iE was established in 2007, resulting from the merger and restructuring of the former inter-state schools EIER (École d'Ingénieurs de l'Equipement Rural) and ETSHER (École des Techniciens de l'Hydraulique et de l'Equipement Rural), created respectively in 1968 and 1970 by 14 West and Central African states."
     },
     {
         "wikidata_id": "Q60750442",
@@ -173,7 +187,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "L’Université du Faso is a private, for-profit university in Ziniaré, 50 km (31 mi) from Ouagadougou, the capital of Burkina Faso. It also has a campus in Ouagadougou."
     },
     {
         "wikidata_id": "Q136260464",
@@ -185,7 +200,8 @@
         ],
         "latitude": 12.29814,
         "longitude": -1.5338366,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q137383315",
@@ -195,7 +211,8 @@
         "aliases": null,
         "latitude": 12.3367961,
         "longitude": -1.5013113,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136959541",
@@ -205,7 +222,8 @@
         "aliases": null,
         "latitude": 12.3173433,
         "longitude": -1.5028716,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q115739829",
@@ -215,7 +233,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q123382554",
@@ -225,7 +244,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q123382565",
@@ -235,7 +255,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135975395",
@@ -245,7 +266,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136230561",
@@ -255,7 +277,8 @@
         "aliases": null,
         "latitude": 12.3821424,
         "longitude": -1.4674902,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136261437",
@@ -265,7 +288,8 @@
         "aliases": null,
         "latitude": 12.3302939,
         "longitude": -1.5496929,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q137649338",
@@ -275,7 +299,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3049329",
@@ -285,7 +310,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103021008",
@@ -295,7 +321,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1076606",
@@ -314,7 +341,8 @@
         ],
         "latitude": 12.37722,
         "longitude": -1.50083,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Ouagadougou (UO; French: Université de Ouagadougou) is a university located in Ouagadougou, Burkina Faso. Founded in 1974, it was officially renamed in 2015 as l’Université Ouaga 1 Professeur Ki-Zerbo. The UO consists of seven Training and Research Units (UFR) and one institute."
     },
     {
         "wikidata_id": "Q126960902",
@@ -326,7 +354,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100452189",
@@ -338,7 +367,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100452197",
@@ -352,7 +382,8 @@
         ],
         "latitude": 12.3604444,
         "longitude": -1.4983889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100452187",
@@ -366,7 +397,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q79396645",
@@ -379,7 +411,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100452193",
@@ -391,7 +424,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100452185",
@@ -404,7 +438,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100452190",
@@ -417,7 +452,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551817",
@@ -432,7 +468,8 @@
         ],
         "latitude": 11.21,
         "longitude": -4.419,
-        "type": "university"
+        "type": "university",
+        "description": "The Nazi Boni University (Université Nazi Boni), founded as the Polytechnic University of Bobo-Dioulasso is a public university in Bobo-Dioulasso, Houet Province, Burkina Faso. It is one of three public universities in Burkina Faso (the others are the University of Koudougou and the University of Ouagadougou)."
     },
     {
         "wikidata_id": "Q3551610",
@@ -447,7 +484,8 @@
         ],
         "latitude": 12.24,
         "longitude": -2.399,
-        "type": "university"
+        "type": "university",
+        "description": "The Norbert Zongo University (French: Université Norbert Zongo; UNZ), formerly the University of Koudougou (French: Université de Koudougou; UK), is one of three public universities in Burkina Faso. It is located in the city of Koudougou.  As of 2015\/2016 it had the second highest enrollment of students nationally (16.2%) behind the University of Ouagadougou (renamed Université Ouaga 1 Professeur Joseph Ki-Zerbo, UO1-JKZ) which had 32.8% of the national total enrollment."
     },
     {
         "wikidata_id": "Q3551467",
@@ -461,7 +499,8 @@
         ],
         "latitude": 12.4699,
         "longitude": -1.3464,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100452196",
@@ -474,7 +513,8 @@
         ],
         "latitude": 12.4123611,
         "longitude": -1.4625556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551484",
@@ -487,7 +527,8 @@
         ],
         "latitude": 12.3845,
         "longitude": -1.4182778,
-        "type": "university"
+        "type": "university",
+        "description": "Saint Thomas Aquinas University (USTA) is a private university in West Africa located in Ouagadougou, the capital of Burkina Faso."
     },
     {
         "wikidata_id": "Q136260240",
@@ -499,6 +540,7 @@
         ],
         "latitude": 12.3085857,
         "longitude": -1.504798,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

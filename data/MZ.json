@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": -26.0469,
         "longitude": 32.33247,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q650358",
@@ -19,7 +20,8 @@
         ],
         "latitude": -19.8473,
         "longitude": 34.8654,
-        "type": "university"
+        "type": "university",
+        "description": "The Catholic University of Mozambique (Portuguese: Universidade Católica de Moçambique, UCM) is a university in Mozambique.\nUCM was founded on August 10, 1996, by the Mozambican conference of Bishops to make higher education available to central and northern Mozambique.  Before UCM's creation, higher education in Mozambique was only available in the capital, Maputo."
     },
     {
         "wikidata_id": "Q890884",
@@ -33,7 +35,8 @@
         ],
         "latitude": -25.949357,
         "longitude": 32.598775,
-        "type": "university"
+        "type": "university",
+        "description": "The Eduardo Mondlane University (Portuguese: Universidade Eduardo Mondlane; UEM) is the oldest and largest university in Mozambique. The UEM is a secular public university, unaffiliated with any religion, and does not discriminate on the basis of gender, race, ethnicity, or religion. The university is located in Maputo and has about 40,000 students enrolled."
     },
     {
         "wikidata_id": "Q34067758",
@@ -43,7 +46,8 @@
         "aliases": null,
         "latitude": -17.8743509,
         "longitude": 36.888974,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55264635",
@@ -53,7 +57,8 @@
         "aliases": null,
         "latitude": -19.839497,
         "longitude": 34.842458,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10317942",
@@ -63,7 +68,8 @@
         "aliases": null,
         "latitude": -25.96266,
         "longitude": 32.56477,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q33138007",
@@ -73,7 +79,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q34004168",
@@ -83,7 +90,8 @@
         "aliases": null,
         "latitude": -15.12122,
         "longitude": 39.2668,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100955845",
@@ -96,7 +104,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294207",
@@ -110,7 +119,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294237",
@@ -122,7 +132,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30294199",
@@ -134,7 +145,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10302679",
@@ -146,7 +158,8 @@
         ],
         "latitude": -19.0435694,
         "longitude": 33.4012222,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30294236",
@@ -158,7 +171,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20968825",
@@ -172,7 +186,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q76735919",
@@ -184,7 +199,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10387849",
@@ -196,7 +212,8 @@
         ],
         "latitude": -15.1277,
         "longitude": 39.2225,
-        "type": "university"
+        "type": "university",
+        "description": "Lúrio University (Portuguese: Universidade Lúrio), also known as UniLúrio, is a public university in Nampula Province, Mozambique. Established by decree on 26 December 2006, the university has since grown to comprise seven faculties. Lúrio offers degree programs in 21 disciplines, enrolling 1,430 total students, including both undergraduate and postgraduate students."
     },
     {
         "wikidata_id": "Q290662",
@@ -212,7 +229,8 @@
         ],
         "latitude": -25.97352,
         "longitude": 32.58513,
-        "type": "university"
+        "type": "university",
+        "description": "The Maputo University (Portuguese: Universidade Maputo) is one of Mozambique's principal universities.  The name of the university is abbreviated to UniMaputo or UM. As a university, it was the first and the only public fully dedicated to teacher education in the country. According to the institution's founding decree, its name is Maputo University, but it is commonly referred to as Maputo Pedagogical University."
     },
     {
         "wikidata_id": "Q34000155",
@@ -222,7 +240,8 @@
         "aliases": null,
         "latitude": -15.12052,
         "longitude": 39.26815,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7093426",
@@ -232,7 +251,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125852224",
@@ -242,7 +262,8 @@
         "aliases": null,
         "latitude": -12.9619876,
         "longitude": 40.498462,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125922025",
@@ -252,7 +273,8 @@
         "aliases": null,
         "latitude": -25.9636177,
         "longitude": 32.5955948,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q76737826",
@@ -264,7 +286,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q56354503",
@@ -274,7 +297,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20058950",
@@ -286,7 +310,8 @@
         ],
         "latitude": -19.831374,
         "longitude": 34.854417,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20060561",
@@ -299,7 +324,8 @@
         ],
         "latitude": -25.0195556,
         "longitude": 33.7971667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q116948645",
@@ -311,7 +337,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q76737841",
@@ -323,7 +350,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294228",
@@ -336,7 +364,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Technical University of Mozambique (Portuguese: Universidade Técnica de Moçambique) is one of Mozambique's principal private universities.  The name of the university is abbreviated to UDM. The UDM has its headquarters and main campus in Maputo."
     },
     {
         "wikidata_id": "Q18467864",
@@ -349,6 +378,7 @@
         ],
         "latitude": -19.83219,
         "longitude": 34.862772,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

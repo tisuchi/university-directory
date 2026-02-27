@@ -9,7 +9,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q113972136",
@@ -19,7 +20,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q98885689",
@@ -29,7 +31,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The ENI of Labé or École normale des instituteurs de Labé is a public general education institution in Guinea, located in Kouroula1 in the prefecture of Labé, in the northern part of the country.\nIt is under the supervision of the Ministry of Higher Education and Scientific Research."
     },
     {
         "wikidata_id": "Q110560827",
@@ -42,7 +45,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551412",
@@ -54,7 +58,8 @@
         ],
         "latitude": 9.67983,
         "longitude": -13.582,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q85766326",
@@ -68,7 +73,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Herbier National De Guinée (Index Herbariorum Code HNG.) is the national herbarium of the Republic of Guinea. Attached to the Gamal Abdel Nasser University of Conakry it was established in 2009 to house a collection of plant specimens found within the country. Its mission is to research and conserve Guinea's botanical heritage and create a network of regional herbaria and botanical gardens and is responsible for contributing to the implementation of the Government's national research policy in the field of plant knowledge."
     },
     {
         "wikidata_id": "Q107362863",
@@ -80,7 +86,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294209",
@@ -90,7 +97,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101426925",
@@ -100,7 +108,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97280593",
@@ -110,7 +119,8 @@
         "aliases": null,
         "latitude": 9.6157696,
         "longitude": -13.6339206,
-        "type": "university"
+        "type": "university",
+        "description": "The International University Cheick Modibo Diarra is a private university in West Africa located in Conakry.\nThe university is named in honor of Cheick Modibo Diarra, a Malian astrophysicist and statesman."
     },
     {
         "wikidata_id": "Q106227893",
@@ -120,7 +130,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q97126390",
@@ -130,7 +141,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Higher Institute of Information and Communication of Kountia (ISIC-Kountia) is a public higher education institution in Guinea that trains journalists and communicators. It is located in Kountia in the Coyah Prefecture.\nFounded in 2006, it operates under the supervision of the Ministry of Higher Education and Scientific Research."
     },
     {
         "wikidata_id": "Q3551423",
@@ -140,7 +152,8 @@
         "aliases": null,
         "latitude": 9.61549,
         "longitude": -13.6378,
-        "type": "university"
+        "type": "university",
+        "description": "The Kofi Annan University of Guinea (abbreviated as UKAG) is a private university in West Africa located in Nongo, Ratoma Commune, Republic of Guinea. It is the oldest private higher education institution in Guinea.\nFounded by Ousmane Kaba, it is named after the former Ghanaian diplomat Kofi Annan, who was the Secretary-General of the United Nations from 1997 to 2006."
     },
     {
         "wikidata_id": "Q108566129",
@@ -150,7 +163,8 @@
         "aliases": null,
         "latitude": 9.6434967,
         "longitude": -13.6112269,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q60038331",
@@ -163,7 +177,8 @@
         ],
         "latitude": 9.62,
         "longitude": -13.64,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q108935828",
@@ -173,7 +188,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q110126074",
@@ -183,7 +199,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111104475",
@@ -193,7 +210,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111449410",
@@ -203,7 +221,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111468454",
@@ -213,7 +232,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111520471",
@@ -223,7 +243,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111534339",
@@ -233,7 +254,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111540423",
@@ -243,7 +265,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111669744",
@@ -253,7 +276,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q114614598",
@@ -263,7 +287,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q115194059",
@@ -273,7 +298,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q116035749",
@@ -283,7 +309,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q120635510",
@@ -293,7 +320,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q123141089",
@@ -303,7 +331,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q123151098",
@@ -313,7 +342,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125399131",
@@ -323,7 +353,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125459267",
@@ -333,7 +364,8 @@
         "aliases": null,
         "latitude": 9.571817,
         "longitude": -13.6472585,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q137614152",
@@ -343,7 +375,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112680101",
@@ -355,7 +388,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6309990",
@@ -367,7 +401,8 @@
         ],
         "latitude": 10.3751,
         "longitude": -9.3017611,
-        "type": "university"
+        "type": "university",
+        "description": "Julius Nyerere University of Kankan (UJNK), also known as Université de Kankan is a university in Kankan, Guinea. It is named after Julius Nyerere, the first President of Tanzania."
     },
     {
         "wikidata_id": "Q2496012",
@@ -380,7 +415,8 @@
         ],
         "latitude": 9.5444444,
         "longitude": -13.6763889,
-        "type": "university"
+        "type": "university",
+        "description": "Gamal Abdel Nasser University of Conakry (in French L'Université Gamal Abdel Nasser de Conakry, UGANC), is the largest university in Guinea. It is located in Dixinn Commune, Conakry, Guinea. The name is generally shortened to the University of Conakry."
     },
     {
         "wikidata_id": "Q84079782",
@@ -390,7 +426,8 @@
         "aliases": null,
         "latitude": 9.9953676,
         "longitude": -12.9131308,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Kindia is a public university in West Africa, located in the sub-prefecture of Damakania (Kindia), the regional capital of Lower Guinea."
     },
     {
         "wikidata_id": "Q98900130",
@@ -400,7 +437,8 @@
         "aliases": null,
         "latitude": 11.3166667,
         "longitude": -12.2833333,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Labé (UL) is a public higher education institution in Guinea, located in Hafia in the Labé Prefecture. It operates under the supervision of the Ministry of Higher Education and Scientific Research."
     },
     {
         "wikidata_id": "Q107444354",
@@ -410,7 +448,8 @@
         "aliases": null,
         "latitude": 7.7327778,
         "longitude": -8.835,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Nzérékoré (UZ) is a public higher education institution in Guinea, located in Nzérékoré in the southeast of the country.\nThe university operates under the supervision of the Ministry of Higher Education and Scientific Research."
     },
     {
         "wikidata_id": "Q102228481",
@@ -420,6 +459,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

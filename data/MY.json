@@ -11,7 +11,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "42 is a private institution of education in computer science founded by Xavier Niel, Nicolas Sadirac (former executive director at Epitech), Kwame Yamgnane, and Florian Bucher (former executives at Epitech). The school opened in Paris in 2013. The school does not have any professors and is open 24\/7."
     },
     {
         "wikidata_id": "Q3077453",
@@ -21,7 +22,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Al-Madinah International University (MEDIU; Malay: Universiti Antarabangsa Al-Madinah ; Arabic: جامعة المدينة العالمية) is an independent educational institution in Malaysia. It was established in 2006, founded on Islamic principles and values.\nMEDIU is licensed by the Ministry of Higher Education (MOHE), government of Malaysia."
     },
     {
         "wikidata_id": "Q12712157",
@@ -31,7 +33,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16250609",
@@ -41,7 +44,8 @@
         "aliases": null,
         "latitude": 3.07726,
         "longitude": 101.58961,
-        "type": "university"
+        "type": "university",
+        "description": "ALFA University College, abbreviated as AUC, is a private, international college located in Subang Jaya, Selangor, Malaysia. The college currently offers certificate and diploma programs in design, education, and business."
     },
     {
         "wikidata_id": "Q4804103",
@@ -51,7 +55,8 @@
         "aliases": null,
         "latitude": 5.9633889,
         "longitude": 116.0644444,
-        "type": "university"
+        "type": "university",
+        "description": "Aseana College is a college in Kota Kinabalu, Sabah, Malaysia. Founded in 2008, the college provide courses on medical sciences. It is located on two campuses, with the main and administrative centre located in Sembulan, while the second campus is located kilometres away from the main campus."
     },
     {
         "wikidata_id": "Q15149334",
@@ -63,7 +68,8 @@
         ],
         "latitude": 3.0767654,
         "longitude": 101.5897472,
-        "type": "university"
+        "type": "university",
+        "description": "Asia e University (AeU) is a private university in Subang Jaya, Selangor, Malaysia that offers on-campus, blended and online learning mode programmes.  An institution set in Asia, by Asians, and for Asia – founded by the Asia Cooperation Dialogue foreign ministers. Asia Cooperation Dialogue is represented by the foreign ministers of 34 Asia Pacific countries, and it aims to promote cooperation in areas like education, through projects such as Asia e University at the Islamabad 2005 and Doha 2006 Asia Cooperation Dialogue ministerial meetings."
     },
     {
         "wikidata_id": "Q99285466",
@@ -73,7 +79,8 @@
         "aliases": null,
         "latitude": 1.5100833,
         "longitude": 103.8690278,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4653315",
@@ -85,7 +92,8 @@
         ],
         "latitude": 3.0483333,
         "longitude": 101.6925,
-        "type": "university"
+        "type": "university",
+        "description": "The Asia Pacific Institute of Information Technology (APIIT) is an educational organisation that provides education and training programs in computing and information technology. Founded by Datuk Parmjit Singh and originally based in Malaysia, APIIT has since established other centers in Pakistan, India, and Sri Lanka. The institute collaborates with selected universities in the United Kingdom and has produced more than 14,000 graduates."
     },
     {
         "wikidata_id": "Q16243161",
@@ -95,7 +103,8 @@
         "aliases": null,
         "latitude": 3.04806,
         "longitude": 101.692,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4806454",
@@ -105,7 +114,8 @@
         "aliases": null,
         "latitude": 3.0480556,
         "longitude": 101.6925,
-        "type": "university"
+        "type": "university",
+        "description": "The Asia Pacific University of Technology and Innovation (APU) is a private university in Malaysia established in 1993 as the Asia Pacific Institute of Information Technology (APIIT). It has produced more than 40,000 graduates under APIIT in association with Staffordshire University. Fifty one percent of its shares are owned by Ekuiti Nasional Berhad."
     },
     {
         "wikidata_id": "Q19891082",
@@ -117,7 +127,8 @@
         ],
         "latitude": 3.15556,
         "longitude": 101.69229,
-        "type": "university"
+        "type": "university",
+        "description": "Asia School of Business (ASB)  is a graduate business school in Kuala Lumpur, and ranked world's top 6% business schools via prestigious AACSB accreditation.  \nASB is a collaboration between MIT Sloan School of Management and Bank Negara Malaysia, the Central Bank of Malaysia, offering a flagship 12-month full-time MBA program and executive education classes for local and international students. Through the partnership, MIT Sloan and Bank Negara collaborate on academic program design, curriculum design, organizational design, admissions, and the administration of the Asia School of Business."
     },
     {
         "wikidata_id": "Q4806772",
@@ -127,7 +138,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q137600600",
@@ -139,7 +151,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q134716983",
@@ -149,7 +162,8 @@
         "aliases": null,
         "latitude": 5.42188,
         "longitude": 100.33568,
-        "type": "university"
+        "type": "university",
+        "description": "Convent Light Street was a missionary girls' school in George Town, Penang, Malaysia. Founded in 1852 by French Catholic nuns of the Sisters of the Infant Jesus, it was the oldest girls' school in Malaysia and the oldest missionary convent in Southeast Asia. The school was closed in 2023."
     },
     {
         "wikidata_id": "Q45086388",
@@ -159,7 +173,8 @@
         "aliases": null,
         "latitude": 1.5573611,
         "longitude": 103.8119167,
-        "type": "college"
+        "type": "college",
+        "description": "Crescendo International College is a college in Desa Cemerlang, Ulu Tiram, Johor Bahru, Johor, Malaysia."
     },
     {
         "wikidata_id": "Q74536445",
@@ -169,7 +184,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5195645",
@@ -182,7 +198,8 @@
         ],
         "latitude": 4.5116667,
         "longitude": 114.0166667,
-        "type": "university"
+        "type": "university",
+        "description": "Curtin University Malaysia is the Malaysian campus of Curtin University, a public university based in Australia. It is the university's largest campus outside of Australia with a total area of 1,200-hectare (3,000-acre) comprising academic and residential blocks. It offers undergraduate and postgraduate programs in various fields of commerce, engineering, computational sciences, humanities and health sciences."
     },
     {
         "wikidata_id": "Q118323933",
@@ -195,7 +212,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74558102",
@@ -205,7 +223,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q119240933",
@@ -215,7 +234,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q119240879",
@@ -225,7 +245,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q119240884",
@@ -235,7 +256,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q119240894",
@@ -245,7 +267,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5260490",
@@ -255,7 +278,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55886289",
@@ -265,7 +289,8 @@
         "aliases": null,
         "latitude": 5.4235258,
         "longitude": 100.3076998,
-        "type": "university"
+        "type": "university",
+        "description": "DISTED College is a private college within George Town, the capital city of the Malaysian state of Penang. It was established in 1987 as the first Penang-based private tertiary institution. The college provides various pre-university, diploma and degree courses, some of which are twinned with foreign universities."
     },
     {
         "wikidata_id": "Q132284989",
@@ -275,7 +300,8 @@
         "aliases": null,
         "latitude": 3.1208333,
         "longitude": 101.6563889,
-        "type": "university"
+        "type": "university",
+        "description": "The Faculty of Dentistry at the University of Malaya (UM) established in 1971 in Kuala Lumpur. It traces its origins to the Dental Department of the King Edward VII College of Medicine (1927–1949) and the University of Malaya’s Department of Dentistry in Singapore (1949–1961), making it the oldest dental school in the country. The faculty is located near the University Malaya Medical Centre, Malaysia’s largest teaching hospital."
     },
     {
         "wikidata_id": "Q74529326",
@@ -285,7 +311,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74557753",
@@ -295,7 +322,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q123568418",
@@ -307,7 +335,8 @@
         ],
         "latitude": 3.0680437,
         "longitude": 101.6047679,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q114566582",
@@ -317,7 +346,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Fire and Rescue Academy of Malaysia (Abbr.: FRAM; Malay: Akademi Bomba dan Penyelamat Malaysia) is a tertiary education institution in Malaysia that specialises in fire and safety education and training. The Fire and Rescue Department of Malaysia manages the academy, and enrollment is open to the general public. The institution offers education up through the advanced diploma level."
     },
     {
         "wikidata_id": "Q5469091",
@@ -330,7 +360,8 @@
         ],
         "latitude": 3.2369,
         "longitude": 101.6378,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Forest Research Institute Malaysia (FRIM; Malay: Institut Penyelidikan Perhutanan Malaysia) is a statutory agency of the Government of Malaysia, under the Natural Resources and Environmental Sustainability (NRES). It is a UNESCO World Heritage Site that promotes sustainable management and optimal use of forest resources in Malaysia by generating knowledge and technology through research, development and application in tropical forestry. FRIM is located in Kepong, near Kuala Lumpur."
     },
     {
         "wikidata_id": "Q5551021",
@@ -342,7 +373,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": "The GMI-University College of Applied Sciences (GMI-UcAS; German: Deutsch-Malaysisches Institut Malay: Institut Jerman-Malaysia) is the German-Malaysian educational institute in Malaysia.\nIt was located at Taman Shamelin Perkasa, Cheras, Kuala Lumpur but has moved to the new campus in Jalan Ilmiah, Taman Universiti, 43000 Kajang, Selangor.\nGMI started its first student enrollment in 1992, and upgraded into University College status in October 2024."
     },
     {
         "wikidata_id": "Q137600639",
@@ -354,7 +386,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5629445",
@@ -366,7 +399,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "HELP University (Malay: Universiti HELP; formerly known as HELP Institute) is a private university located in Kuala Lumpur, Malaysia. It was founded on 1 April 1986 by its current chancellor, Datuk Dr. Paul Chan Tuck Hoong, and his wife, Datin Chan-Low Kam Yoke."
     },
     {
         "wikidata_id": "Q28979049",
@@ -376,7 +410,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12712164",
@@ -388,7 +423,8 @@
         ],
         "latitude": 3.0597,
         "longitude": 101.6872,
-        "type": "university"
+        "type": "university",
+        "description": "The IMU University, (formerly known as the International Medical University) is a private, English language, health sciences university in Kuala Lumpur, Malaysia. The university offers programmes in medical and other health sciences as well as MSc and PhD programmes."
     },
     {
         "wikidata_id": "Q6441018",
@@ -401,7 +437,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Kuala Lumpur University of Science and Technology (KLUST)  formerly known as Infrastructure University Kuala Lumpur (IUKL); Malay: (Universiti Infrastruktur Kuala Lumpur) and Kuala Lumpur Infrastructure University College (KLIUC), is a university in Kajang, Hulu Langat District, Selangor, Malaysia. It is the first infrastructure university in Malaysia. It was established in 1998 following the privatisation of the Research and Training Institute of Public Works Department of Malaysia (IKRAM)."
     },
     {
         "wikidata_id": "Q18351659",
@@ -411,7 +448,8 @@
         "aliases": null,
         "latitude": 3.0920585,
         "longitude": 101.6868246,
-        "type": "university"
+        "type": "university",
+        "description": "Institut Latihan Perindustrian Kuala Lumpur  (ILPKL; English: Industrial Training Institute of Kuala Lumpur), is a public vocational college situated in a 13.7-acre land in Kuchai Lama, suburb of Kuala Lumpur, Malaysia. Founded in 1964 under Jabatan Tenaga Manusia (Manpower Department), ILPKL is the oldest institute of technology in Malaysia. It is one of 32 Institut Latihan Jabatan Tenaga Manusia, ILJTM (Manpower Department Training Institutes)."
     },
     {
         "wikidata_id": "Q6039015",
@@ -421,7 +459,8 @@
         "aliases": null,
         "latitude": 6.03675,
         "longitude": 116.147,
-        "type": "university"
+        "type": "university",
+        "description": "'Institut Sinaran' is an institute of higher education located in Kota Kinabalu, Sabah, Malaysia. It was founded in 1987 as Sabah Tshung Tsin Pre-University Centre to provide affordable, internationally recognized pre-university qualifications locally.\nThe campus was first situated at Sabah Tshung Tsin Secondary School along Jalan Damai."
     },
     {
         "wikidata_id": "Q112085377",
@@ -431,7 +470,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q17051611",
@@ -443,7 +483,8 @@
         ],
         "latitude": 3.21455,
         "longitude": 101.731,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q30280145",
@@ -455,7 +496,8 @@
         ],
         "latitude": 3.182346,
         "longitude": 101.70454,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q19646161",
@@ -471,7 +513,8 @@
         ],
         "latitude": 6.0384512,
         "longitude": 116.1152034,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute for Tropical Biology and Conservation (ITBC), in Bahasa Malaysia: Institut Biologi Tropika dan Pemuliharaan (IBTP) is a research institute of Universiti Malaysia Sabah in Kota Kinabalu, Sabah, Malaysia. Founded in 1996, its objectives have been to promote and carry out research on the biodiversity of tropical flora and fauna, especially of the Malaysian state of Sabah, and to build resources that facilitate this, such as technical laboratories for DNA analysis, organic chemistry, and microscopy, and the \"Borneensis\" natural history collection focusing on native flora and fauna.\nThe institute has had three directors: the founding director, entomologist Prof."
     },
     {
         "wikidata_id": "Q12688186",
@@ -483,7 +526,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute of Islamic Understanding Malaysia (Malay: Institut Kefahaman Islam Malaysia; Jawi: المعهد الماليزي للتفاهم الإسلامي‎; officially abbreviated as IKIM) is a Malaysian Islamic organisation and a government agency under the Prime Minister's Department. Established in 1992, its role is to provide an accurate understanding of Islam and conducts in-depth studies on Islamic teachings and interpretations. It also operates its own radio station, IKIMfm."
     },
     {
         "wikidata_id": "Q7353256",
@@ -495,7 +539,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25484207",
@@ -505,7 +550,8 @@
         "aliases": null,
         "latitude": 2.9284,
         "longitude": 101.7796,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6049076",
@@ -518,7 +564,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The International Center for Education in Islamic Finance (INCEIF) UNIVERSITY is a Malaysian Islamic university established in 2005 by Bank Negara Malaysia (Central Bank of Malaysia) in human capital for the Islamic finance industry. Commonly known as the Global University of Islamic Finance.\nIn August 2007, the Ministry of Higher Education Malaysia granted INCEIF university status."
     },
     {
         "wikidata_id": "Q17027513",
@@ -528,7 +575,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": "The International Islamic College (IIC; Malay: Kolej Islam Antarabangsa; Arabic: الكلية لإسلامية العالمية) is a private college located in Taman Batu Muda, Kuala Lumpur, Malaysia. The college was established in 2000 as a private higher education institution and is one of the private higher education institutions in Malaysia. It is owned by the International Islamic University Malaysia (IIUM) through its wholly-owned subsidiary, IIUM Higher Education."
     },
     {
         "wikidata_id": "Q1524992",
@@ -540,7 +588,8 @@
         ],
         "latitude": 3.2527778,
         "longitude": 101.7375,
-        "type": "university"
+        "type": "university",
+        "description": "The International Islamic University Malaysia (IIUM) is a public university in Malaysia. Headquartered in Gombak, Selangor, IIUM has six other campuses all over Malaysia: two medical-centric campuses and a Centre for Foundation Studies in Gambang, Pahang, two city campuses in Kuala Lumpur, and a language and tourism campus in Pagoh, Johor.\nThe university is sponsored by eight governments and the Organisation of the Islamic Cooperation (OIC)."
     },
     {
         "wikidata_id": "Q6051236",
@@ -550,7 +599,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q137600670",
@@ -562,7 +612,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12690299",
@@ -572,7 +623,8 @@
         "aliases": null,
         "latitude": 3.201,
         "longitude": 101.613,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74527438",
@@ -582,7 +634,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5972777",
@@ -592,7 +645,8 @@
         "aliases": null,
         "latitude": 2.8119444,
         "longitude": 101.7583333,
-        "type": "university"
+        "type": "university",
+        "description": "INTI International University is a private university located in Malaysia. The main campus was initially known as INTI University College until 31 May 2010 when the \nHigher Education Ministry announced its upgrade to university status.\nIt is owned by INTI Education Group, which formalised its partnership with Laureate International Universities in 2008 and ended the partnership in 2020."
     },
     {
         "wikidata_id": "Q119820159",
@@ -604,7 +658,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6083049",
@@ -614,7 +669,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Island College of Technology (Malay: Kolej Teknologi Pulau; abbreviated KICT) is a private college in Malaysia. Established in 1998, it shared a building with the Tabung Haji Complex; difficulties with this arrangement led to the college relocating to its present location at Sungai Rusa, Balik Pulau, Penang."
     },
     {
         "wikidata_id": "Q134383965",
@@ -629,7 +685,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q31186963",
@@ -639,7 +696,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6427187",
@@ -649,7 +707,8 @@
         "aliases": null,
         "latitude": 2.2833333,
         "longitude": 102.6,
-        "type": "college"
+        "type": "college",
+        "description": "Johor Matriculation College (Malay: Kolej Matrikulasi Johor) (KMJ) is a pre-university tertiary education college under Matriculation Division, Ministry of Education (MOE) (Malay: Bahagian Matrikulasi, Kementerian Pendidikan Malaysia) in preparing students for the entrance of university. The college was established in March 2002. Its campus is located in Tangkak District, Johor."
     },
     {
         "wikidata_id": "Q61113874",
@@ -659,7 +718,8 @@
         "aliases": null,
         "latitude": 5.87818,
         "longitude": 100.50933,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q61113789",
@@ -669,7 +729,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q25485496",
@@ -682,7 +743,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6441023",
@@ -692,7 +754,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16256213",
@@ -702,7 +765,8 @@
         "aliases": null,
         "latitude": 5.391057,
         "longitude": 100.304766,
-        "type": "college"
+        "type": "college",
+        "description": "Lam Wah Ee Nursing College (LWENC) is a private nursing college located in George Town, Penang, affiliated to Lam Wah Ee Hospital. It is the first private nursing college in northern region of Peninsular Malaysia.\nIts three-year diploma in nursing accredited by Malaysian Qualifications Agency, recognized by Malaysian Nursing Board and Ministry of Health Malaysia."
     },
     {
         "wikidata_id": "Q128566284",
@@ -712,7 +776,8 @@
         "aliases": null,
         "latitude": 6.3746,
         "longitude": 99.6846,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6517834",
@@ -722,7 +787,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "KTG Education Group (Abbreviation: KTG Malay: Kumpulan Pendidikan KTG) is a private college in Malaysia. Its main campus is located in Mantin, Negri Sembilan. The college offers undergraduate and graduate degrees, including a master's degree in IT, engineering and business."
     },
     {
         "wikidata_id": "Q17052838",
@@ -732,7 +798,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4119675",
@@ -742,7 +809,8 @@
         "aliases": null,
         "latitude": 2.94,
         "longitude": 101.6625,
-        "type": "university"
+        "type": "university",
+        "description": "Limkokwing University of Creative Technology (also called Limkokwing and LUCT) is a private university that has a presence across Africa, Europe, and Asia. With its main campus in Malaysia, the university has over 30,000 students from more than 150 countries.\nThe university offers a wide range of programs at the undergraduate and postgraduate levels in various fields of study, including design, multimedia, communication, business, and technology."
     },
     {
         "wikidata_id": "Q24933515",
@@ -754,7 +822,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Lincoln University College, Petaling Jaya, Malaysia, was founded in the year in 2002 as Lincoln College and in 2011 Lincoln College was upgraded to Lincoln University College. Lincoln University College is a British private institution that provides higher education, approved by the Malaysian Qualifications Agency (MQA, National Accreditation Board) and the Ministry of Higher Education. The University College has got 5 Star ranking by Ministry of Higher Education, Malaysia in 2017 and 2019."
     },
     {
         "wikidata_id": "Q12690281",
@@ -764,7 +833,8 @@
         "aliases": null,
         "latitude": 2.3308139,
         "longitude": 102.0881333,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q30296281",
@@ -777,7 +847,8 @@
         ],
         "latitude": 2.904163,
         "longitude": 101.767967,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6741875",
@@ -787,7 +858,8 @@
         "aliases": null,
         "latitude": 2.85126,
         "longitude": 101.73649,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1886891",
@@ -800,7 +872,8 @@
         ],
         "latitude": 3.105384,
         "longitude": 101.59186,
-        "type": "university"
+        "type": "university",
+        "description": "The Malaysia University of Science and Technology (MUST) was established in January 1997 when, then Prime Minister, Mahathir Mohamad and a delegation from Malaysia made a working visit to Massachusetts Institute of Technology (MIT) and endorsed the establishment of a university modeled after MIT.(MUST) is known for its focus on science, technology, and engineering education.\nMUST offers undergraduate and postgraduate degree programs in various fields, including engineering, computer science, business, and law. MUST is a separate university and has not affiliated or not have a direct relationship with the Universiti Sains Malaysia (USM) and Universiti Teknologi Malaysia (UTM)."
     },
     {
         "wikidata_id": "Q6741932",
@@ -812,7 +885,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q99539214",
@@ -824,7 +898,8 @@
         ],
         "latitude": 1.5558889,
         "longitude": 103.7349444,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q50422786",
@@ -836,7 +911,8 @@
         ],
         "latitude": 2.2632987,
         "longitude": 102.3059761,
-        "type": "college"
+        "type": "college",
+        "description": "Malaysian Han Studies (abbreviated as MAHANS), is a non-profit, private educational institution in Bukit Katil, Malacca, Malaysia which promotes the Chinese Traditional Moral Values."
     },
     {
         "wikidata_id": "Q6741972",
@@ -848,7 +924,8 @@
         ],
         "latitude": 3.21053,
         "longitude": 101.746,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q74544408",
@@ -858,7 +935,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6742008",
@@ -868,7 +946,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q40890302",
@@ -878,7 +957,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Malaysian Social Research Institute (MSRI) is a Kuala Lumpur-based non-governmental organization that serves refugees and asylum seekers from countries other than Myanmar. Originally established in 1959 as a research institute, hence its name, the MSRI transitioned to aid programmes during the Lebanese Civil War, though it still produces academic findings. There are over 150,000 refugees and asylum seekers registered with the United Nations High Commissioner for Refugees in Malaysia."
     },
     {
         "wikidata_id": "Q6742073",
@@ -888,7 +968,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12712163",
@@ -898,7 +979,8 @@
         "aliases": null,
         "latitude": 3.0775,
         "longitude": 101.553,
-        "type": "university"
+        "type": "university",
+        "description": "Management and Science University (abbreviated as MSU Malaysia or simply MSU) is a private university in Malaysia located in Shah Alam, Selangor. The university was founded in 2001 as University College of Technology & Management Malaysia before officially becoming a full fledged university in October 2004 as Management & Science University, when the current university building was inaugurated. \nManagement and Science University is a member of the MSU Holdings which comprises MSU College, Management & Science Institute, MSU Kids, MSU Medical Centre, MSU Foundation, Sekolah Bina Insan MSU Foundation, Jakarta Institute of Technology and Health, and Ilmu Ekonomi Penguji High School."
     },
     {
         "wikidata_id": "Q6752127",
@@ -908,7 +990,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29946580",
@@ -922,7 +1005,8 @@
         ],
         "latitude": 2.9046,
         "longitude": 101.8646,
-        "type": "university"
+        "type": "university",
+        "description": "MARA Japan Industrial Institute (MJII, formerly known as MARA Skills Training College Beranang (KKTMBeranang)) is a highly skilled college under management skills and Technical Division (BKT) MARA in Beranang, Malaysia. KKTMBeranang starts in 2004 with an area of 22 acres. KKTMBeranang began operations in June 2008 and the start of the academic session in January 2009."
     },
     {
         "wikidata_id": "Q7365454",
@@ -934,7 +1018,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7381216",
@@ -946,7 +1031,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16934243",
@@ -956,7 +1042,8 @@
         "aliases": null,
         "latitude": 3.064411,
         "longitude": 101.600682,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q107969736",
@@ -968,7 +1055,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1421182",
@@ -981,7 +1069,8 @@
         ],
         "latitude": 2.248889,
         "longitude": 102.276944,
-        "type": "university"
+        "type": "university",
+        "description": "Multimedia University (Malay: Universiti Multimedia; abbreviated as MMU), is a private research university in Cyberjaya, Selangor and Bukit Beruang, Melaka, Malaysia. Founded in 1997, it is the first private university within Malaysia and is a member of The Alliance of Government Linked Universities (GLU).\nIn 1996, the government of Malaysia initiated efforts to liberalize the country's higher education sector and engage the private education industry in advancing human capital development."
     },
     {
         "wikidata_id": "Q12690285",
@@ -991,7 +1080,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q94674366",
@@ -1003,7 +1093,8 @@
         ],
         "latitude": 1.4306111,
         "longitude": 103.6112778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30266507",
@@ -1015,7 +1106,8 @@
         ],
         "latitude": 1.429281,
         "longitude": 103.61354,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7036842",
@@ -1027,7 +1119,8 @@
         ],
         "latitude": 2.815262,
         "longitude": 101.7668013,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1723289",
@@ -1037,7 +1130,8 @@
         "aliases": null,
         "latitude": 6.457844,
         "longitude": 100.505583,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1390612",
@@ -1049,7 +1143,8 @@
         ],
         "latitude": 3.1597222,
         "longitude": 101.6913889,
-        "type": "university"
+        "type": "university",
+        "description": "Open University Malaysia, abbreviated as OUM (formerly UNITEM), is the seventh private university in Malaysia. It is owned by Multimedia Technology Enhancement Operations (METEOR) Sdn. Bhd, a consortium of 11 Malaysian public universities."
     },
     {
         "wikidata_id": "Q61113878",
@@ -1059,7 +1154,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q61113783",
@@ -1069,7 +1165,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7162219",
@@ -1079,7 +1176,8 @@
         "aliases": null,
         "latitude": 5.40269,
         "longitude": 100.304205,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12690288",
@@ -1091,7 +1189,8 @@
         ],
         "latitude": 5.49109,
         "longitude": 100.43621,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q17984793",
@@ -1103,7 +1202,8 @@
         ],
         "latitude": 2.980252,
         "longitude": 101.700031,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7210149",
@@ -1113,7 +1213,8 @@
         "aliases": null,
         "latitude": 1.5063889,
         "longitude": 103.9183333,
-        "type": "university"
+        "type": "university",
+        "description": "Ibrahim Sultan Polytechnic (PIS; Malay: Politeknik Ibrahim Sultan) is a polytechnic in Pasir Gudang, Johor, Malaysia.\nThe polytechnic specialises in engineering, communication design and hospitality, and offers 2-year skills certificate, 2-year diploma and 3-year degree programmes. PIS is organised into six departments: Mechanical Engineering, Electrical Engineering, Visual Design & Communication, Tourism & Hospitality, Science & Computer Science, and General Studies."
     },
     {
         "wikidata_id": "Q20458852",
@@ -1123,7 +1224,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7120996",
@@ -1133,7 +1235,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q113801487",
@@ -1143,7 +1246,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q113802034",
@@ -1153,7 +1257,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q12701145",
@@ -1163,7 +1268,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12701146",
@@ -1173,7 +1279,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12701147",
@@ -1183,7 +1290,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12701149",
@@ -1193,7 +1301,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12701150",
@@ -1203,7 +1312,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12701151",
@@ -1213,7 +1323,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12701153",
@@ -1223,7 +1334,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12701154",
@@ -1233,7 +1345,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12701156",
@@ -1243,7 +1356,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12701157",
@@ -1253,7 +1367,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12701158",
@@ -1263,7 +1378,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20458819",
@@ -1273,7 +1389,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20458835",
@@ -1283,7 +1400,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20458842",
@@ -1293,7 +1411,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5974518",
@@ -1305,7 +1424,8 @@
         ],
         "latitude": 3.166451,
         "longitude": 101.674191,
-        "type": "university"
+        "type": "university",
+        "description": "The International Institute of Islamic Thought and Civilisation (ISTAC) is a postgraduate institute in International Islamic University Malaysia (IIUM). \nISTAC – IIUM is an Islamic research institute that is dedicated towards engaging in advanced-level study and research about Islamic thought and civilisation at the national and global levels, with the goal to nurture comparative, cultural, and civilisational studies that is devoted to the renewal of Islam and human civilisation. \nThe institute is located at Taman Duta, Kuala Lumpur, about 20 kilometers from the main campus of International Islamic University Malaysia in Gombak."
     },
     {
         "wikidata_id": "Q30266508",
@@ -1317,7 +1437,8 @@
         ],
         "latitude": 1.4416667,
         "longitude": 103.6208333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q113001683",
@@ -1329,7 +1450,8 @@
         ],
         "latitude": 2.9235847,
         "longitude": 101.6509349,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7353230",
@@ -1339,7 +1461,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7432474",
@@ -1349,7 +1472,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7389672",
@@ -1359,7 +1483,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q61113786",
@@ -1369,7 +1494,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7391199",
@@ -1379,7 +1505,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7588136",
@@ -1389,7 +1516,8 @@
         "aliases": null,
         "latitude": 5.42233,
         "longitude": 100.307946,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6427192",
@@ -1401,7 +1529,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7227078",
@@ -1413,7 +1542,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1146766",
@@ -1425,7 +1555,8 @@
         ],
         "latitude": 3.6851111,
         "longitude": 101.5250722,
-        "type": "university"
+        "type": "university",
+        "description": "Sultan Idris Education University (Malay: Universiti Pendidikan Sultan Idris; commonly abbreviated as UPSI; Jawi: اونيۏرسيتي ڤنديديقن سلطان إدريس) is a public university located in Tanjung Malim, Perak, Malaysia. Established in 1922 as a teachers' college, it is one of the oldest continuously operating higher education institutions in the country. Since its founding, graduates of the institution have been referred to as \"Anak Kandung Suluh Budiman\" (lit. 'Children of the Beacon of Pure Character'), a tradition that continues to this day."
     },
     {
         "wikidata_id": "Q54958341",
@@ -1435,7 +1566,8 @@
         "aliases": null,
         "latitude": 3.0681,
         "longitude": 101.6041,
-        "type": "university"
+        "type": "university",
+        "description": "Sunway College is a private college based in Bandar Sunway, Subang Jaya, Selangor, Malaysia. It was established on 25 July 1987 by Jeffrey Cheah. It has a 10-hectare (24 acre) campus comprising academic and residential blocks adjacent to the Sunway Lagoon theme park."
     },
     {
         "wikidata_id": "Q30592824",
@@ -1445,7 +1577,8 @@
         "aliases": null,
         "latitude": 1.5596389,
         "longitude": 103.7799167,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q4475815",
@@ -1458,7 +1591,8 @@
         ],
         "latitude": 3.0684,
         "longitude": 101.604,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1568961",
@@ -1468,7 +1602,8 @@
         "aliases": null,
         "latitude": 1.5319444,
         "longitude": 110.3569444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7669433",
@@ -1480,7 +1615,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19646433",
@@ -1490,7 +1626,8 @@
         "aliases": null,
         "latitude": 3.075,
         "longitude": 101.591,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q841775",
@@ -1500,7 +1637,8 @@
         "aliases": null,
         "latitude": 3.075,
         "longitude": 101.591111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7755023",
@@ -1510,7 +1648,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q65093785",
@@ -1523,7 +1662,8 @@
         ],
         "latitude": 2.9668333,
         "longitude": 101.7326389,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q17058479",
@@ -1533,7 +1673,8 @@
         "aliases": null,
         "latitude": 3.145799,
         "longitude": 101.704259,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7853255",
@@ -1550,7 +1691,8 @@
         ],
         "latitude": 3.214591,
         "longitude": 101.726424,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7864125",
@@ -1560,7 +1702,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19646467",
@@ -1570,7 +1713,8 @@
         "aliases": null,
         "latitude": 3.071438,
         "longitude": 101.496168,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7878040",
@@ -1580,7 +1724,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2474260",
@@ -1590,7 +1735,8 @@
         "aliases": null,
         "latitude": 6.064257,
         "longitude": 116.135314,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7360055",
@@ -1600,7 +1746,8 @@
         "aliases": null,
         "latitude": 6.4457,
         "longitude": -100.2767,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136542440",
@@ -1610,7 +1757,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1142924",
@@ -1623,7 +1771,8 @@
         ],
         "latitude": 3.1208333,
         "longitude": 101.6563889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16248046",
@@ -1633,7 +1782,8 @@
         "aliases": null,
         "latitude": 3.1602161,
         "longitude": 101.6916728,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74539525",
@@ -1643,7 +1793,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1520668",
@@ -1656,7 +1807,8 @@
         ],
         "latitude": 6.164711,
         "longitude": 102.282904,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2496084",
@@ -1674,7 +1826,8 @@
         ],
         "latitude": 3.718548,
         "longitude": 103.121221,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q778594",
@@ -1689,7 +1842,8 @@
         ],
         "latitude": 6.447099,
         "longitude": 100.244052,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1142275",
@@ -1703,7 +1857,8 @@
         ],
         "latitude": 6.0365528,
         "longitude": 116.1186944,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1489002",
@@ -1717,7 +1872,8 @@
         ],
         "latitude": 5.405339,
         "longitude": 103.087682,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894430",
@@ -1729,7 +1885,8 @@
         ],
         "latitude": 3.2057778,
         "longitude": 113.0998611,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894433",
@@ -1741,7 +1898,8 @@
         ],
         "latitude": 2.84361,
         "longitude": 101.777,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894431",
@@ -1754,7 +1912,8 @@
         ],
         "latitude": 6.099199,
         "longitude": 102.280799,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2399323",
@@ -1764,7 +1923,8 @@
         "aliases": null,
         "latitude": 2.31382,
         "longitude": 102.318397,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74552595",
@@ -1774,7 +1934,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1576899",
@@ -1789,7 +1950,8 @@
         ],
         "latitude": 3.0698222,
         "longitude": 101.5036639,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894435",
@@ -1799,7 +1961,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2096395",
@@ -1809,7 +1972,8 @@
         "aliases": null,
         "latitude": 4.3863889,
         "longitude": 100.9797222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q94810",
@@ -1824,7 +1988,8 @@
         ],
         "latitude": 2.977345,
         "longitude": 101.73107,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894437",
@@ -1834,7 +1999,8 @@
         "aliases": null,
         "latitude": 3.2558333,
         "longitude": 101.3519444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2495812",
@@ -1846,7 +2012,8 @@
         ],
         "latitude": 1.853047,
         "longitude": 103.08628,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894438",
@@ -1858,7 +2025,8 @@
         ],
         "latitude": 4.339391,
         "longitude": 101.139766,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19600080",
@@ -1868,7 +2036,8 @@
         "aliases": null,
         "latitude": 2.3411111,
         "longitude": 111.8433333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1141386",
@@ -1882,7 +2051,8 @@
         ],
         "latitude": 1.4661111,
         "longitude": 110.4440833,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q22344812",
@@ -1894,7 +2064,8 @@
         ],
         "latitude": 2.9308333,
         "longitude": 101.6372222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895613",
@@ -1907,7 +2078,8 @@
         ],
         "latitude": 3.1592707,
         "longitude": 101.7013584,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013430",
@@ -1917,7 +2089,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111187950",
@@ -1929,7 +2102,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013432",
@@ -1939,7 +2113,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013433",
@@ -1949,7 +2124,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013434",
@@ -1959,7 +2135,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013435",
@@ -1969,7 +2146,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013437",
@@ -1979,7 +2157,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013438",
@@ -1989,7 +2168,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74544517",
@@ -1999,7 +2179,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4327703",
@@ -2009,7 +2190,8 @@
         "aliases": null,
         "latitude": 2.945,
         "longitude": 101.874,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q94673966",
@@ -2019,7 +2201,8 @@
         "aliases": null,
         "latitude": 1.43025,
         "longitude": 103.6157222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1973130",
@@ -2033,7 +2216,8 @@
         ],
         "latitude": 5.3569444,
         "longitude": 100.3013889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896290",
@@ -2045,7 +2229,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q83371852",
@@ -2055,7 +2240,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7936142",
@@ -2065,7 +2251,8 @@
         "aliases": null,
         "latitude": 3.1061,
         "longitude": 101.59985,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17052370",
@@ -2077,7 +2264,8 @@
         ],
         "latitude": 3.215038,
         "longitude": 101.731799,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q12712166",
@@ -2089,7 +2277,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55637988",
@@ -2099,6 +2288,7 @@
         "aliases": null,
         "latitude": 2.8329,
         "longitude": 101.7029,
-        "type": "university"
+        "type": "university",
+        "description": "Xiamen University Malaysia (abbreviated as XMUM) is an international branch campus of Xiamen University located in Sepang, Selangor, Malaysia. It is the first overseas campus set up by a Chinese public university, as well as the first Chinese university branch campus in Malaysia.\nXiamen University is a national public university located in Xiamen, Fujian, China."
     }
 ]

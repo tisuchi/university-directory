@@ -11,7 +11,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Alexander von Humboldt Biological Resources Research Institute  (Spanish: Instituto de Investigación de Recursos Biológicos Alexander von Humboldt), sometimes referred to as IAVH, is an independent non-regulatory research institute of the Executive Branch of the Government of Colombia charged with conducting scientific research on the biodiversity of the country including hydrobiology and genetic research. The institute is named after Alexander von Humboldt, a German naturalist who researched the biodiversity of Colombia and Latin America."
     },
     {
         "wikidata_id": "Q31871587",
@@ -21,7 +22,8 @@
         "aliases": null,
         "latitude": -4.20601,
         "longitude": -69.94352,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74558136",
@@ -31,7 +33,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q9091527",
@@ -43,7 +46,8 @@
         ],
         "latitude": 7.116816,
         "longitude": -73.10524,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Autónoma de Bucaramanga or UNAB (Autonomous University of Bucaramanga) is a private post-secondary education institution in Bucaramanga, Colombia. It was founded in 1952 under the name of Instituto Caldas. In 1956 the institution was recognized as a law school, and became a university under the current name in 1987."
     },
     {
         "wikidata_id": "Q6156355",
@@ -55,7 +59,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q27766479",
@@ -65,7 +70,8 @@
         "aliases": null,
         "latitude": 5.066894,
         "longitude": -75.505324,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131933743",
@@ -75,7 +81,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q596856",
@@ -85,7 +92,8 @@
         "aliases": null,
         "latitude": 4.595949,
         "longitude": -74.073887,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Caro and Cuervo Institute (Spanish: Instituto Caro y Cuervo) is an educative centre specialising in Spanish literature, philology and linguistics, with a focus on research and promotion of reading in Colombia. The institute produces editions of Colombian authors and promotes the preservation of the national literary heritage. The institute was named after two well-known Colombian linguists, former President Miguel Antonio Caro Tobar and Rufino José Cuervo Urisarri."
     },
     {
         "wikidata_id": "Q17155057",
@@ -97,7 +105,8 @@
         ],
         "latitude": 6.2594,
         "longitude": -75.5837,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4005879",
@@ -107,7 +116,8 @@
         "aliases": null,
         "latitude": 4.6341667,
         "longitude": -74.0669444,
-        "type": "university"
+        "type": "university",
+        "description": "The Catholic University of Colombia is a private institution of higher education. It was founded in Bogotá, Colombia in 1970, notable in its early loyalty to Catholic church doctrine. The institution had more than ten thousand students in September 2019, of which the majority were undergraduates."
     },
     {
         "wikidata_id": "Q6156396",
@@ -119,7 +129,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97066185",
@@ -129,7 +140,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5061952",
@@ -139,7 +151,8 @@
         "aliases": null,
         "latitude": 4.651371,
         "longitude": -74.071509,
-        "type": "university"
+        "type": "university",
+        "description": "The Central University (Universidad Central) is a private institution of higher education established 1966, whose two offices are at Bogotá, Colombia. It offers undergraduate and graduate programs in the areas of humanities, arts, economic and administrative sciences and engineering."
     },
     {
         "wikidata_id": "Q3699209",
@@ -149,7 +162,8 @@
         "aliases": null,
         "latitude": 4.0643,
         "longitude": -76.2025,
-        "type": "university"
+        "type": "university",
+        "description": "The Central Unit of Valle del Cauca (Spanish: Unidad Central del Valle del Cauca), also called UCEVA, is a public, departmental university based in the city of Tuluá, Valle del Cauca, Colombia."
     },
     {
         "wikidata_id": "Q74527055",
@@ -159,7 +173,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q127602015",
@@ -171,7 +186,8 @@
         ],
         "latitude": 4.6660305,
         "longitude": -74.0586043,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5761340",
@@ -183,7 +199,8 @@
         ],
         "latitude": 4.633882,
         "longitude": -74.086178,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q21511954",
@@ -196,7 +213,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156377",
@@ -206,7 +224,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5917112",
@@ -218,7 +237,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130469905",
@@ -228,7 +248,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q23717587",
@@ -238,7 +259,8 @@
         "aliases": null,
         "latitude": 4.63862,
         "longitude": -74.08424,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5777255",
@@ -248,7 +270,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5777009",
@@ -258,7 +281,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5147878",
@@ -268,7 +292,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Colombia Adventist University Corporation (Spanish: Corporacion Universitaria Adventista - UNAC) is a Seventh-day Adventist co-educational university located in Medellín, Colombia, and accredited by the Adventist Accrediting Association.\nIt is a part of the Seventh-day Adventist education system, the world's second largest Christian school system."
     },
     {
         "wikidata_id": "Q30263764",
@@ -283,7 +308,8 @@
         ],
         "latitude": 4.70592,
         "longitude": -74.23021,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q128536883",
@@ -293,7 +319,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29052734",
@@ -303,7 +330,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131948336",
@@ -315,7 +343,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131934273",
@@ -325,7 +354,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20856254",
@@ -335,7 +365,8 @@
         "aliases": null,
         "latitude": 4.651371,
         "longitude": -74.071509,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q132736128",
@@ -347,7 +378,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294026",
@@ -357,7 +389,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20014248",
@@ -369,7 +402,8 @@
         ],
         "latitude": 4.5985278,
         "longitude": -74.0725833,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131756794",
@@ -381,7 +415,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294058",
@@ -391,7 +426,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294089",
@@ -403,7 +439,8 @@
         ],
         "latitude": 9.3088593,
         "longitude": -75.3681719,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29052667",
@@ -413,7 +450,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5395262",
@@ -425,7 +463,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29052641",
@@ -435,7 +474,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29052711",
@@ -445,7 +485,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5788938",
@@ -457,7 +498,8 @@
         ],
         "latitude": 4.6983333,
         "longitude": -74.0891667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131934160",
@@ -467,7 +509,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18222713",
@@ -477,7 +520,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29052635",
@@ -489,7 +533,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q70800088",
@@ -499,7 +544,8 @@
         "aliases": null,
         "latitude": 4.6619444,
         "longitude": -74.0628056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3081395",
@@ -512,7 +558,8 @@
         ],
         "latitude": 4.6280556,
         "longitude": -74.0652778,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Distrital Francisco José de Caldas (Spanish: Universidad Distrital Francisco José de Caldas) is a public, coeducational, research university based in Bogotá, Colombia.  It is the second most important public higher education institution in the city, after the National University of Colombia, with a population of 26,140 students.  It was founded in 1948, by Priest Daniel de Caicedo, who would become its first rector, with the support of the Bogotá City Council, as the Municipal University of Bogotá (Spanish: Universidad Municipal de Bogotá)."
     },
     {
         "wikidata_id": "Q3997314",
@@ -525,7 +572,8 @@
         ],
         "latitude": 6.1997333,
         "longitude": -75.5786861,
-        "type": "university"
+        "type": "university",
+        "description": "EAFIT University (originally the acronym in Spanish: Escuela de Administración, Finanzas e Instituto Tecnológico, «School of Administration, Finance and Technological Institute») is a private Colombian university located in  Medellín offering 23 undergraduate programs, 70 specializations, 34 masters, and six doctoral programs. The university offers degrees in various disciplines through its schools of Management, Engineering, Law, Finance and Economics, Science, and Humanities.  Universidad EAFIT was approved by the Colombian Ministry of Education on May 6, 1971."
     },
     {
         "wikidata_id": "Q9091550",
@@ -535,7 +583,8 @@
         "aliases": null,
         "latitude": 4.6636673,
         "longitude": -74.0567257,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q106720935",
@@ -545,7 +594,8 @@
         "aliases": null,
         "latitude": 4.676481,
         "longitude": -74.056553,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q517861",
@@ -555,7 +605,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The El Bosque University (Spanish: Universidad El Bosque), is a coeducational, nonsectarian private university located in north Bogotá, Colombia. Founded in 1977, the university currently offers 20 undergraduate programs, as well as several specializations, Master's degrees and Doctorates."
     },
     {
         "wikidata_id": "Q74549568",
@@ -567,7 +618,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5397459",
@@ -581,7 +633,8 @@
         ],
         "latitude": 4.78222,
         "longitude": -74.0439,
-        "type": "university"
+        "type": "university",
+        "description": "The Escuela Colombiana de Ingeniería (Spanish for Colombian School of Engineering) Julio Garavito is a private engineering-based university. The school is located on a 70-acre (280,000 m2) campus in a beautiful natural environment in the north part of Bogotá and has approximately 4,600 students in undergraduate and graduate programs. It includes laboratories, computer systems, one of the largest collections of engineering texts and journals in Colombia as well as international and national access to information via the internet."
     },
     {
         "wikidata_id": "Q16440713",
@@ -591,7 +644,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Eladio Velez Art School, also known as Eladio Vélez School, is a high Art school technology  Colombia, of private character.\nIt was founded on February 2, 1979, by the Society of Public Improvements of Itagüí. It is a school specializing in the artistic and cultural world."
     },
     {
         "wikidata_id": "Q74550081",
@@ -601,7 +655,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74545546",
@@ -611,7 +666,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74558189",
@@ -621,7 +677,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q23005392",
@@ -634,7 +691,8 @@
         ],
         "latitude": 7.8815833,
         "longitude": -72.5023889,
-        "type": "university"
+        "type": "university",
+        "description": "FESC University (officially in Spanish: Fundación de Estudios Superiores Comfanorte, «Comfanorte Higher Studies Foundation»), commonly known as FESC, is a private Colombian university structured as a foundation. It serves the educational needs of the people of Norte de Santander and Colombia and operates under the regulations of Law 1740 of 2014 and Law 30 of 1992 of the Ministry of Education of Colombia. The main campus is located in Cúcuta, Norte de Santander, with an additional campus in the municipality of Ocaña."
     },
     {
         "wikidata_id": "Q74547093",
@@ -644,7 +702,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q989759",
@@ -654,7 +713,8 @@
         "aliases": null,
         "latitude": 7.899165,
         "longitude": -72.487489,
-        "type": "university"
+        "type": "university",
+        "description": "The Francisco de Paula Santander University (Spanish: Universidad Francisco de Paula Santander) is a public, coeducational, research university based primarily in the city of Cúcuta, Colombia, with regional campuses in Ocaña, Colombia, Chinacota and Tibú.\nIt is the largest university in the state with more than 25,000 students. It offers 50 academic programmes, including 37 undergraduate degrees and 13 graduate degrees."
     },
     {
         "wikidata_id": "Q131934278",
@@ -664,7 +724,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131948786",
@@ -676,7 +737,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29052688",
@@ -686,7 +748,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30293993",
@@ -696,7 +759,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16941774",
@@ -706,7 +770,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131756362",
@@ -716,7 +781,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21574117",
@@ -726,7 +792,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16570043",
@@ -739,7 +806,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25411265",
@@ -749,7 +817,8 @@
         "aliases": null,
         "latitude": 4.6577222,
         "longitude": -74.0623611,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131947490",
@@ -761,7 +830,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112751953",
@@ -773,7 +843,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5871530",
@@ -783,7 +854,8 @@
         "aliases": null,
         "latitude": 5.5250389,
         "longitude": -73.3656111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29052690",
@@ -793,7 +865,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29052693",
@@ -803,7 +876,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136192221",
@@ -813,7 +887,8 @@
         "aliases": null,
         "latitude": 2.473761,
         "longitude": -76.611113,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5838876",
@@ -826,7 +901,8 @@
         ],
         "latitude": 4.64445,
         "longitude": -74.09287,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q61549178",
@@ -839,7 +915,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16440720",
@@ -849,7 +926,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1053303",
@@ -861,7 +939,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Industrial University of Santander (Spanish: Universidad Industrial de Santander), abbreviated in Spanish with the acronym UIS, is a public university, based in a coeducational, and research model. The university serves the Santander Department, being the main campus located in the city of Bucaramanga, Santander, Colombia.  The university also has satellite campuses across the department in the cities of Barrancabermeja, Barbosa, Málaga, Piedecuesta, Socorro."
     },
     {
         "wikidata_id": "Q15075202",
@@ -871,7 +950,8 @@
         "aliases": null,
         "latitude": 10.9912,
         "longitude": -74.8071,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29052628",
@@ -881,7 +961,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5917115",
@@ -891,7 +972,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q108738282",
@@ -901,7 +983,8 @@
         "aliases": null,
         "latitude": 4.54175,
         "longitude": -75.6635556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294126",
@@ -914,7 +997,8 @@
         ],
         "latitude": 3.4263528,
         "longitude": -76.5371444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q115598856",
@@ -926,7 +1010,8 @@
         ],
         "latitude": 3.4263528,
         "longitude": -76.5371444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29052658",
@@ -936,7 +1021,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6081858",
@@ -949,7 +1035,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29052660",
@@ -959,7 +1046,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131756706",
@@ -969,7 +1057,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74541204",
@@ -983,7 +1072,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q130556193",
@@ -995,7 +1085,8 @@
         ],
         "latitude": 4.6357834,
         "longitude": -74.0804406,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30294129",
@@ -1005,7 +1096,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5858476",
@@ -1018,7 +1110,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q127605584",
@@ -1030,7 +1123,8 @@
         ],
         "latitude": 4.6596708,
         "longitude": -74.1062705,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74432283",
@@ -1040,7 +1134,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1054314",
@@ -1053,7 +1148,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The International Center for Tropical Agriculture (known as CIAT from its Spanish-language name Centro Internacional de Agricultura Tropical) is an international research and development organization dedicated to \"reducing hunger and poverty and preserving natural resources in developing countries\". It is based in Palmira, Colombia, where it employs over 300 scientists.\nCIAT is one of the 14 agricultural research centers of the CGIAR. In 2019, CIAT joined with Bioversity International (as the Alliance of Bioversity International and CIAT) to \"deliver research-based solutions that harness agricultural biodiversity and sustainably transform food systems to improve people’s lives\"."
     },
     {
         "wikidata_id": "Q5871527",
@@ -1063,7 +1159,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5937434",
@@ -1073,7 +1170,8 @@
         "aliases": null,
         "latitude": 4.6068056,
         "longitude": -74.0675556,
-        "type": "university"
+        "type": "university",
+        "description": "Jorge Tadeo Lozano University is a private university whose main campus is located in Bogotá, Colombia, with satellite campuses in Cartagena, Santa Marta and Chía. Established in 1954, the institution was named after the botanist, scientist and politician Jorge Tadeo Lozano.\nThe university was founded by Joaquín Molano Campuzano, Javier Pulgar Vidal and Jaime Forero Valdés at a time of great political commotion in Colombia."
     },
     {
         "wikidata_id": "Q5838703",
@@ -1086,7 +1184,8 @@
         ],
         "latitude": 4.6788889,
         "longitude": -74.0702778,
-        "type": "university"
+        "type": "university",
+        "description": "The Escuela Militar de Cadetes General José María Córdova (English: Colombian Army Military Academy \"General José María Córdova\", ESMIC) is a 4-year military academy in charge of the formation of the future combatant officers of the Colombian National Army. It is also an institution of higher education, where the cadets in training carry out undergraduate studies in various disciplines. It is located on Calle 80 Suba Avenue, in the north-west of the city of Bogotá\nIt was established on 1 June 1907 by decree 434 which was signed by President Rafael Reyes."
     },
     {
         "wikidata_id": "Q6156504",
@@ -1096,7 +1195,8 @@
         "aliases": null,
         "latitude": 4.601175,
         "longitude": -74.0656611,
-        "type": "university"
+        "type": "university",
+        "description": "La Gran Colombia University is a private university located in Bogotá, D.C., Colombia. It was founded on May 24, 1951, by Julio César García Valencia, recognized Colombian historian of the Twentieth century."
     },
     {
         "wikidata_id": "Q6465150",
@@ -1108,7 +1208,8 @@
         ],
         "latitude": 4.643957,
         "longitude": -74.060255,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5500137",
@@ -1118,7 +1219,8 @@
         "aliases": null,
         "latitude": 4.5952778,
         "longitude": -74.0755556,
-        "type": "university"
+        "type": "university",
+        "description": "Free University of Colombia (Spanish: Universidad Libre), also called Unilibre, is a nonsectarian, coeducational, private and nonprofit university based in Bogota, Colombia, with six satellite campuses located in Cali, Barranquilla, Pereira, Cartagena, Cúcuta, and Socorro. It is considered one of Colombia's most comprehensive universities, receiving a high quality accreditation from the Ministry of Education for 4 years, and offers sixty-seven degree programs at the undergraduate level and one hundred sixty-three graduate level programs.\nSince the original intention of this institution of higher education was to offer the space for unbiased learning during a radical political period in the country, the proper translation would be \"Freedom University,\" given it promotes freedom of speech and political thought."
     },
     {
         "wikidata_id": "Q7747060",
@@ -1130,7 +1232,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6753029",
@@ -1142,7 +1245,8 @@
         ],
         "latitude": 4.6422222,
         "longitude": -74.0544444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5871656",
@@ -1152,7 +1256,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q24960478",
@@ -1165,7 +1270,8 @@
         ],
         "latitude": 6.2736111,
         "longitude": -75.5887769,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16644479",
@@ -1177,7 +1283,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74536059",
@@ -1189,7 +1296,8 @@
         ],
         "latitude": 4.6517873,
         "longitude": -74.057571,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q21572744",
@@ -1201,7 +1309,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5556466",
@@ -1213,7 +1322,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2495711",
@@ -1225,7 +1335,8 @@
         ],
         "latitude": 4.6581389,
         "longitude": -74.0588333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6974078",
@@ -1238,7 +1349,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1150419",
@@ -1254,7 +1366,8 @@
         ],
         "latitude": 4.6355556,
         "longitude": -74.0827778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979233",
@@ -1264,7 +1377,8 @@
         "aliases": null,
         "latitude": 7.0163889,
         "longitude": -70.7444444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894591",
@@ -1282,7 +1396,8 @@
         ],
         "latitude": 4.63777,
         "longitude": -74.084,
-        "type": "university"
+        "type": "university",
+        "description": "The University City of Bogotá (Spanish: Ciudad Universitaria de Bogotá, CUB), also known as the White City (Spanish: Ciudad Blanca), is the flagship campus of the National University of Colombia, located near Teusaquillo, in Bogotá, Colombia.  It is the largest university campus in Colombia, with an overall area of 1,200,000 m2 (300 acres) and a constructed area of 308,541 m2 (76.242 acres), giving it ample green areas, open spaces, and pedestrian paths.  Amongst its buildings are seventeen that have been declared national monuments; these constitute a cross section of the last 60 years of Colombian architecture."
     },
     {
         "wikidata_id": "Q6979237",
@@ -1292,7 +1407,8 @@
         "aliases": null,
         "latitude": -4.193741,
         "longitude": -69.940746,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979236",
@@ -1302,7 +1418,8 @@
         "aliases": null,
         "latitude": 5.0556,
         "longitude": -75.4867,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979235",
@@ -1315,7 +1432,8 @@
         ],
         "latitude": 6.26219,
         "longitude": -75.576968,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979238",
@@ -1325,7 +1443,8 @@
         "aliases": null,
         "latitude": 3.511686,
         "longitude": -76.307688,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3997334",
@@ -1338,7 +1457,8 @@
         ],
         "latitude": 4.600231,
         "longitude": -74.073465,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100927384",
@@ -1348,7 +1468,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3067794",
@@ -1358,7 +1479,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7194466",
@@ -1368,7 +1490,8 @@
         "aliases": null,
         "latitude": 4.632222,
         "longitude": -74.065278,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q133208106",
@@ -1378,7 +1501,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q132856626",
@@ -1388,7 +1512,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q2038878",
@@ -1400,7 +1525,8 @@
         ],
         "latitude": 6.24245,
         "longitude": -75.5898333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74555359",
@@ -1410,7 +1536,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547828",
@@ -1420,7 +1547,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74536755",
@@ -1430,7 +1558,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74558211",
@@ -1440,7 +1569,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7229746",
@@ -1452,7 +1582,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74544521",
@@ -1462,7 +1593,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100881521",
@@ -1472,7 +1604,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q108700571",
@@ -1482,7 +1615,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q123736833",
@@ -1492,7 +1626,8 @@
         "aliases": null,
         "latitude": 2.442852,
         "longitude": -76.604774,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q129262433",
@@ -1502,7 +1637,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130358817",
@@ -1512,7 +1648,8 @@
         "aliases": null,
         "latitude": 2.933491,
         "longitude": -75.29893,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131947886",
@@ -1522,7 +1659,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135559092",
@@ -1532,7 +1670,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136006357",
@@ -1542,7 +1681,8 @@
         "aliases": null,
         "latitude": 3.3469286,
         "longitude": -76.5325876,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136307540",
@@ -1552,7 +1692,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q136376570",
@@ -1562,7 +1703,8 @@
         "aliases": null,
         "latitude": 4.6529962,
         "longitude": -74.14483,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25412585",
@@ -1572,7 +1714,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6048295",
@@ -1582,7 +1725,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74545485",
@@ -1592,7 +1736,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74557720",
@@ -1602,7 +1747,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5871533",
@@ -1614,7 +1760,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7402232",
@@ -1626,7 +1773,8 @@
         ],
         "latitude": 4.6380556,
         "longitude": -74.0644444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7454179",
@@ -1638,7 +1786,8 @@
         ],
         "latitude": 4.660803,
         "longitude": -74.059836,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16644549",
@@ -1648,7 +1797,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74554376",
@@ -1658,7 +1808,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4968008",
@@ -1668,7 +1819,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16143173",
@@ -1678,7 +1830,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29052717",
@@ -1690,7 +1843,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7692509",
@@ -1703,7 +1857,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131933566",
@@ -1713,7 +1868,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q648599",
@@ -1726,7 +1882,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131946828",
@@ -1736,7 +1893,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156336",
@@ -1746,7 +1904,8 @@
         "aliases": null,
         "latitude": 4.6500398,
         "longitude": -74.082329,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894240",
@@ -1758,7 +1917,8 @@
         ],
         "latitude": 3.35389,
         "longitude": -76.5228,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156365",
@@ -1770,7 +1930,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125956076",
@@ -1780,7 +1941,8 @@
         "aliases": null,
         "latitude": 2.4930355,
         "longitude": -76.5651808,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19521853",
@@ -1793,7 +1955,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74544965",
@@ -1803,7 +1966,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7894254",
@@ -1815,7 +1979,8 @@
         ],
         "latitude": 6.15045,
         "longitude": -75.36634,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad Católica de Oriente (UCO)  is a private Catholic university in Rionegro, Antioquia. Established in 1982, it is accredited by Ministry of National Education.\nThe university comprises eight academic faculties: which are the Faculty of Agricultural Sciences, Educational sciences, Health Sciences, Economic and Administrative sciences, Social sciences, Law, Engineering and the Faculty of Theology and Humanities."
     },
     {
         "wikidata_id": "Q6156401",
@@ -1825,7 +1990,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2878598",
@@ -1835,7 +2001,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Cooperative University of Colombia (Spanish: Universidad Cooperativa de Colombia) is a private institution of higher education founded in 1983, as a successor of the Instituto de Economía Social y Cooperativismo (Indesco)."
     },
     {
         "wikidata_id": "Q74548758",
@@ -1845,7 +2012,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74550846",
@@ -1855,7 +2023,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527848",
@@ -1865,7 +2034,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74538055",
@@ -1875,7 +2045,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74535869",
@@ -1885,7 +2056,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74536095",
@@ -1895,7 +2067,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528780",
@@ -1905,7 +2078,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7895227",
@@ -1915,7 +2089,8 @@
         "aliases": null,
         "latitude": 10.4255339,
         "longitude": -75.5498131,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Cartagena (Spanish: Universidad de Cartagena), also called UniCartagena, is a departmental public coeducational research university based primarily in the city of Cartagena, Bolívar, Colombia. The university offers education at undergraduate and postgraduate levels, including two doctoral programs.\nThe university is a member of the Association of Colombian Universities, the Iberoamerican Association of Postgraduate Universities, and the State University System (Spanish: Sistema Universitario Estatal)."
     },
     {
         "wikidata_id": "Q74552607",
@@ -1925,7 +2100,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528776",
@@ -1935,7 +2111,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156770",
@@ -1949,7 +2126,8 @@
         ],
         "latitude": 4.4482889,
         "longitude": -75.1989667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156833",
@@ -1959,7 +2137,8 @@
         "aliases": null,
         "latitude": 10.9947222,
         "longitude": -74.7911111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74547789",
@@ -1969,7 +2148,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74557793",
@@ -1979,7 +2159,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552197",
@@ -1989,7 +2170,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74543253",
@@ -1999,7 +2181,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156781",
@@ -2009,7 +2192,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74557414",
@@ -2019,7 +2203,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74535852",
@@ -2029,7 +2214,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74537953",
@@ -2039,7 +2225,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156813",
@@ -2051,7 +2238,8 @@
         ],
         "latitude": 4.75123,
         "longitude": -74.03002,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16644592",
@@ -2061,7 +2249,8 @@
         "aliases": null,
         "latitude": 3.344888,
         "longitude": -76.543862,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74548127",
@@ -2071,7 +2260,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74543988",
@@ -2081,7 +2271,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7894343",
@@ -2094,7 +2285,8 @@
         ],
         "latitude": 11.0180556,
         "longitude": -74.8511111,
-        "type": "university"
+        "type": "university",
+        "description": "The University of the North (Spanish: Universidad del Norte), also known as Uninorte, is a private university in Barranquilla, Atlántico, Colombia.  It was founded in 1966 by a business group led by American entrepreneur Karl C. Parrish. It started academic operation on July 11, 1966, with 58 students and 10 teachers in courses of business administration and engineering."
     },
     {
         "wikidata_id": "Q74551951",
@@ -2104,7 +2296,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74557151",
@@ -2114,7 +2307,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156853",
@@ -2124,7 +2318,8 @@
         "aliases": null,
         "latitude": 8.7671006,
         "longitude": -75.8851118,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74527422",
@@ -2134,7 +2329,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5808016",
@@ -2147,7 +2343,8 @@
         ],
         "latitude": 4.58617,
         "longitude": -74.13172,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74527813",
@@ -2157,7 +2354,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74536759",
@@ -2167,7 +2365,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74555725",
@@ -2177,7 +2376,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7894273",
@@ -2189,7 +2389,8 @@
         ],
         "latitude": 4.5958,
         "longitude": -74.0684,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Externado de Colombia (Externado University of Colombia) is a private university in Bogotá, Colombia. It has produced graduates including lawyers, academics, judges, financiers, journalists, as well as senior government officials and politicians. The institution grants 4 and 5-year professional degrees, as well as advanced Master and Doctoral degrees."
     },
     {
         "wikidata_id": "Q5969511",
@@ -2202,7 +2403,8 @@
         ],
         "latitude": 3.341571,
         "longitude": -76.530198,
-        "type": "university"
+        "type": "university",
+        "description": "Icesi University (Spanish: Universidad Icesi. Originally the initials of Instituto Colombiano de Estudios Superiores de Incolda, the Colombian Institute of Higher Studies of Incolda) is a private university located in Cali, Colombia. The campus is located in the area of Pance, south of the city."
     },
     {
         "wikidata_id": "Q74545639",
@@ -2212,7 +2414,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16302657",
@@ -2222,7 +2425,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156527",
@@ -2232,7 +2436,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74553264",
@@ -2242,7 +2447,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529679",
@@ -2252,7 +2458,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16644508",
@@ -2262,7 +2469,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74547420",
@@ -2272,7 +2480,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547455",
@@ -2282,7 +2491,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74555653",
@@ -2292,7 +2502,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74536465",
@@ -2302,7 +2513,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547873",
@@ -2312,7 +2524,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74543428",
@@ -2322,7 +2535,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16494704",
@@ -2332,7 +2546,8 @@
         "aliases": null,
         "latitude": 12.536718,
         "longitude": -81.711867,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74551495",
@@ -2342,7 +2557,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74538988",
@@ -2352,7 +2568,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74537563",
@@ -2362,7 +2579,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529999",
@@ -2372,7 +2590,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q124164118",
@@ -2382,7 +2601,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74528963",
@@ -2392,7 +2612,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156882",
@@ -2404,7 +2625,8 @@
         ],
         "latitude": 7.1385022,
         "longitude": -73.1241833,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131933644",
@@ -2414,7 +2636,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q64684504",
@@ -2424,7 +2647,8 @@
         "aliases": null,
         "latitude": 4.6642769,
         "longitude": -74.0604253,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q128213468",
@@ -2434,7 +2658,8 @@
         "aliases": null,
         "latitude": 4.6294237,
         "longitude": -74.0698828,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294027",
@@ -2446,7 +2671,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19006769",
@@ -2458,7 +2684,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11050122",
@@ -2471,7 +2698,8 @@
         ],
         "latitude": 4.601893,
         "longitude": -74.061818,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1258413",
@@ -2483,7 +2711,8 @@
         ],
         "latitude": 6.26706,
         "longitude": -75.56941,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Antioquia (Spanish: Universidad de Antioquia), also called UdeA, is primarily a public research-based university, located in the city of Medellín, Colombia. With regional campuses in Amalfi, Andes, Caucasia, Carmen de Viboral, Envigado, Puerto Berrío, Santa Fe de Antioquia, Segovia, Sonsón, Turbo and Yarumal, it remain one of the oldest university in the region. As of 2024, we can read on their publication site that, more than 272 groups and over 5,000 faculty students, are working on 1,200 collaborative projects."
     },
     {
         "wikidata_id": "Q1195830",
@@ -2495,7 +2724,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Applied and Environmental Sciences (UDCA) is a private university located in Bogotá, Colombia.\nIt has three campuses:\n\nthe university campus located at Calle 222 No. 55-37, Bogota\nthe schools of Economics, Management, and Finance, located in the Teusaquillo locality\nthe North Headquarters, located on Calle 72 in the Chapinero locality."
     },
     {
         "wikidata_id": "Q422166",
@@ -2507,7 +2737,8 @@
         ],
         "latitude": 11.0191934,
         "longitude": -74.8753886,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Atlántico (Spanish: Universidad del Atlántico), also called Uniatlántico, is a public, departmental, coeducational, research university based in the city of Barranquilla, Atlántico, Colombia.  It is the largest higher education institution by student population in the Colombian Caribbean region with 24,113 students, and a faculty of 656 full-time equivalent professors. The university was established by the ordinance No."
     },
     {
         "wikidata_id": "Q7895130",
@@ -2519,7 +2750,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Boyacá is a private university based in the city of Tunja, Boyacá, Colombia."
     },
     {
         "wikidata_id": "Q7895150",
@@ -2531,7 +2763,8 @@
         ],
         "latitude": 5.05611,
         "longitude": -75.4928,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Caldas (Spanish: Universidad de Caldas), is a public, coeducational, research university based in Manizales, Caldas, Colombia. It is the most important higher education institution in the Department of Caldas. It is a public university of national character, subject to inspection and surveillance through Law 1740 of 2014 and Law 30 of 1992 of the Ministry of Education of Colombia; it houses students from all corners of Colombia and abroad;  It is considered the best university in the \"eje cafetero\" and one of the best in Colombia."
     },
     {
         "wikidata_id": "Q1137779",
@@ -2541,7 +2774,8 @@
         "aliases": null,
         "latitude": 2.44083,
         "longitude": -76.60472,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Cauca (Spanish: Universidad del Cauca) is a public research university located in the city of Popayán, capital of the department of Cauca, Colombia. It was created on April 24, 1827, by a decree by the President Francisco de Paula Santander. It was installed on November 11, 1827 and the nationalization was ratified by Law 65 of 1964."
     },
     {
         "wikidata_id": "Q7895312",
@@ -2556,7 +2790,8 @@
         ],
         "latitude": 8.78778,
         "longitude": -75.8578,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Córdoba (UniCor) is a public, departmental, coeducational, research university based in the city of Montería, Córdoba, Colombia. It was founded in 1974 by Elías Bechara Zainúm. Over the next decade, graduate, nursing, and social work programs were established."
     },
     {
         "wikidata_id": "Q7895317",
@@ -2566,7 +2801,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Cundinamarca (Spanish: Universidad de Cundinamarca), is a public, departmental university located primarily in the city of Fusagasugá in Cundinamarca, Colombia. The university has satellite campuses across the department in the cities of Chía, Chocontá, Facatativá, Girardot, Soacha, Ubaté, and Zipaquirá."
     },
     {
         "wikidata_id": "Q192537",
@@ -2578,7 +2814,8 @@
         ],
         "latitude": 11.3810042,
         "longitude": -72.2610622,
-        "type": "university"
+        "type": "university",
+        "description": "The University of La Guajira (Spanish: Universidad de La Guajira, Wayuu: Shikii Ekirajia Pulee Wajira), also known as Uniguajira, is a public, departmental university based primarily in the city of Riohacha, La Guajira, Colombia.  The university was established by ordinance No. 011 and 012 of 1976, by the Departmental Assembly, and opened in February 1977."
     },
     {
         "wikidata_id": "Q7895617",
@@ -2590,7 +2827,8 @@
         ],
         "latitude": 4.86111,
         "longitude": -74.0336,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad de La Sabana is a private university in Colombia, supervised by the Colombian Ministry of Education. It was founded on September 21, 1979, by the Asociación para la Enseñanza Aspaen, its predecessor was the INSE \"Instituto Superior de Educación\", considered one of the first in distance education in the country and Latin America.\nLa Sabana is one of the best universities in the country according to several rankings."
     },
     {
         "wikidata_id": "Q23730901",
@@ -2600,7 +2838,8 @@
         "aliases": null,
         "latitude": 5.32336,
         "longitude": -72.29266,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895650",
@@ -2610,7 +2849,8 @@
         "aliases": null,
         "latitude": 11.22157,
         "longitude": -74.1862,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Magdalena (Spanish: Universidad del Magdalena), is a public, departmental, coeducational, research university based in the city of Santa Marta, Magdalena, Colombia.\nIt received high quality institutional accreditation from the Ministry of National Education on August 26, 2016, for a period of four years, being the second public university in the region to receive such accreditation."
     },
     {
         "wikidata_id": "Q6156785",
@@ -2623,7 +2863,8 @@
         ],
         "latitude": 6.2311,
         "longitude": -75.6115,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad de Medellín (UdeMedellín or UdeM) is a private university in Medellín, Colombia. It offers 27 undergraduate programs, 36 specializations, 21 masters, and six doctoral programs. It was founded on February 1, 1950, by a group of prominent professors and intellectuals in response to the intolerance and political persecution that existed in the country, with the goal of creating a secular and welcoming institution apart from the political ideologies of the time."
     },
     {
         "wikidata_id": "Q1547837",
@@ -2636,7 +2877,8 @@
         ],
         "latitude": 1.2341667,
         "longitude": -77.2852778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1424614",
@@ -2648,7 +2890,8 @@
         ],
         "latitude": 7.385946,
         "longitude": -72.649995,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896198",
@@ -2658,7 +2901,8 @@
         "aliases": null,
         "latitude": 4.555,
         "longitude": -75.6597,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156819",
@@ -2670,7 +2914,8 @@
         ],
         "latitude": 7.105563,
         "longitude": -73.095278,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5575968",
@@ -2680,7 +2925,8 @@
         "aliases": null,
         "latitude": 3.403412,
         "longitude": -76.547719,
-        "type": "university"
+        "type": "university",
+        "description": "The Santiago de Cali University (USC) is a private university, subject to inspection and surveillance through the Ministry of National Education of Colombia. Located in southwestern Colombia, with a main office in the Pampalinda neighborhood, and another office in the Santa Rosa neighborhood in the center of the city, in Cali. In addition to its main headquarters, it has a branch in Palmira, Cauca Valley."
     },
     {
         "wikidata_id": "Q7896369",
@@ -2692,7 +2938,8 @@
         ],
         "latitude": 9.31467,
         "longitude": -75.3884,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896685",
@@ -2702,7 +2949,8 @@
         "aliases": null,
         "latitude": 1.619816,
         "longitude": -75.604029,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1569421",
@@ -2719,7 +2967,8 @@
         ],
         "latitude": 4.6012,
         "longitude": -74.0657,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2495744",
@@ -2731,7 +2980,8 @@
         ],
         "latitude": 4.075,
         "longitude": -73.5853,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896713",
@@ -2743,7 +2993,8 @@
         ],
         "latitude": 3.8478,
         "longitude": -76.9992,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896472",
@@ -2755,7 +3006,8 @@
         ],
         "latitude": 4.428242,
         "longitude": -75.213478,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3117949",
@@ -2768,6 +3020,7 @@
         ],
         "latitude": 3.37501,
         "longitude": -76.53445,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

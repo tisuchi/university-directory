@@ -10,7 +10,8 @@
         ],
         "latitude": 42.5275,
         "longitude": 27.4488889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12271285",
@@ -20,7 +21,8 @@
         "aliases": null,
         "latitude": 42.14761,
         "longitude": 24.751005,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q92309223",
@@ -33,7 +35,8 @@
         ],
         "latitude": 42.6972222,
         "longitude": 23.2638889,
-        "type": "university"
+        "type": "university",
+        "description": "The Agricultural Academy (Bulgarian: Селскостопанска академия) is an organization with headquarters in Sofia, Bulgaria, for scientific research, for applied, service and support activities in the field of agriculture, animal husbandry, food industry.\nIt has the right to prepare doctoral students in the relevant scientific disciplines. In the past, from 1971 to 1975, the academy was a higher school, teaching undergraduate and postgraduate students."
     },
     {
         "wikidata_id": "Q30257336",
@@ -46,7 +49,8 @@
         ],
         "latitude": 42.134178,
         "longitude": 24.765491,
-        "type": "university"
+        "type": "university",
+        "description": "The Agricultural University of Plovdiv is a university in Plovdiv, Bulgaria"
     },
     {
         "wikidata_id": "Q469484",
@@ -56,7 +60,8 @@
         "aliases": null,
         "latitude": 42.0213889,
         "longitude": 23.095,
-        "type": "university"
+        "type": "university",
+        "description": "The American University in Bulgaria (AUBG) is a private university in Blagoevgrad, Bulgaria. Established in 1991, AUBG had 1,211 students (1,169 undergraduate and 42 graduate students) from over 40 countries on 5 continents as of spring 2025."
     },
     {
         "wikidata_id": "Q74557452",
@@ -66,7 +71,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q118038",
@@ -76,7 +82,8 @@
         "aliases": null,
         "latitude": 42.5036111,
         "longitude": 27.4688889,
-        "type": "university"
+        "type": "university",
+        "description": "Burgas Free University (BFU) is a private university located in Burgas, Bulgaria. It is one of the first non-state universities in Bulgaria, established in the industrial and cultural centеr in the south-eastern region of the country, Burgas."
     },
     {
         "wikidata_id": "Q53510785",
@@ -86,7 +93,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q5146682",
@@ -96,7 +104,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q52766541",
@@ -106,7 +115,8 @@
         "aliases": null,
         "latitude": 42.66,
         "longitude": 23.36,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q12283357",
@@ -120,7 +130,8 @@
         ],
         "latitude": 42.656084,
         "longitude": 23.347648,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q12283359",
@@ -130,7 +141,8 @@
         "aliases": null,
         "latitude": 43.205926,
         "longitude": 27.922749,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q12283358",
@@ -140,7 +152,8 @@
         "aliases": null,
         "latitude": 42.017149,
         "longitude": 23.100597,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q53511060",
@@ -150,7 +163,8 @@
         "aliases": null,
         "latitude": 43.2073889,
         "longitude": 27.9223333,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q12295453",
@@ -163,7 +177,8 @@
         ],
         "latitude": 43.62066,
         "longitude": 25.3440861,
-        "type": "university"
+        "type": "university",
+        "description": "D. A. Tsenov Academy of Economics (Bulgarian: Стопанска академия „Д. А. Ценов\") is a leading economics and business higher education institution in Svishtov, Bulgaria with more than 83 years of history, 145 000 alumni and a well-established reputation in education, science and project management. It was established in 1936 by the donation of the prominent and influential person and entrepreneur Dimitar Tsenov. His donation (5 million golden levs) is the second largest donation for the establishment of higher education institution in Bulgaria."
     },
     {
         "wikidata_id": "Q12297478",
@@ -173,7 +188,8 @@
         "aliases": null,
         "latitude": 43.464687,
         "longitude": 24.5294171,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12279431",
@@ -183,7 +199,8 @@
         "aliases": null,
         "latitude": 42.610847,
         "longitude": 23.040272,
-        "type": "university"
+        "type": "university",
+        "description": "The European Polytechnical University (Bulgarian: Европейски политехнически университет), or EPU, is a private engineering university, located in Pernik, Bulgaria. The university was founded in 2010.\nAs a member of the Multiversity Association of Universities, EPU benefits from numerous advantages, such as access to comprehensive digital library collections."
     },
     {
         "wikidata_id": "Q12283352",
@@ -193,7 +210,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q53510588",
@@ -203,7 +221,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q12270405",
@@ -213,7 +232,8 @@
         "aliases": null,
         "latitude": 42.726629,
         "longitude": 23.259568,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74552952",
@@ -223,7 +243,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12290859",
@@ -233,7 +254,8 @@
         "aliases": null,
         "latitude": 42.1527778,
         "longitude": 24.7477778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111514657",
@@ -245,7 +267,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q118384645",
@@ -255,7 +278,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12281773",
@@ -265,7 +289,8 @@
         "aliases": null,
         "latitude": 42.6524,
         "longitude": 23.3889,
-        "type": "institute"
+        "type": "institute",
+        "description": "Institute for Nuclear Research and Nuclear Energy (INRNE) of the Bulgarian Academy of Sciences is\nthe leading center for research and application of the nuclear physics in Bulgaria.\nThe research areas include:\n\nTheory of the elementary particles, string theory, theory of atomic nuclei, soliton interactions and quantum phenomena\nExperimental physics of the elementary particles\nGamma-astrophysics at very high energies\nNuclear reactions, structure of atomic nuclei\nNeutron interactions and cross sections, physics of the fission\nReactor physics, nuclear energy and nuclear safety and security\nDosimetry and radiation safety\nMonitoring and management of the environment, radioecology\nRadiochemistry, high precision analyses of substances, development and production of radioactive sources\nNuclear and neutron methods for investigations of substances\nNuclear instrument design and production\nThe institute's staff of about 320 (150 of them are scientific researchers) works in 16 laboratories, 2 scientific experimental facilities and 9 departments providing general support activities."
     },
     {
         "wikidata_id": "Q12281782",
@@ -277,7 +302,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q126112000",
@@ -287,7 +313,8 @@
         "aliases": null,
         "latitude": 42.6981563,
         "longitude": 23.3249143,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12281768",
@@ -297,7 +324,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6039903",
@@ -309,7 +337,8 @@
         ],
         "latitude": 42.6530556,
         "longitude": 23.3861111,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute of Astronomy of the Bulgarian Academy of Sciences is a leading Bulgarian research facility in the field of astronomy and astrophysics, located in Sofia, Bulgaria.\nThe institute co-operates closely with the other two institutions involved in the same field of research in the country - the Department of Astronomy at the Faculty of Physics of Sofia University and the Astronomical centre at the Faculty of Natural Sciences of Shumen University.\nIt owns and operates the Bulgarian National Rozhen Observatory located at an altitude of 1750 m in the Rhodopi mountains in south Bulgaria, as well as the Belogradchik Observatory situated at 650 m at the foot of the Western Balkan Mountains in north-west Bulgaria."
     },
     {
         "wikidata_id": "Q50040177",
@@ -321,7 +350,8 @@
         ],
         "latitude": 42.672668,
         "longitude": 23.365094,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30289826",
@@ -333,7 +363,8 @@
         ],
         "latitude": 42.6738,
         "longitude": 23.367,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q33121403",
@@ -346,7 +377,8 @@
         ],
         "latitude": 42.657629,
         "longitude": 23.316433,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30284381",
@@ -361,7 +393,8 @@
         ],
         "latitude": 42.675854,
         "longitude": 23.366949,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12281775",
@@ -371,7 +404,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12281784",
@@ -381,7 +415,8 @@
         "aliases": null,
         "latitude": 42.187706,
         "longitude": 24.750094,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q50035076",
@@ -394,7 +429,8 @@
         ],
         "latitude": 42.698014,
         "longitude": 23.325452,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12281778",
@@ -404,7 +440,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12281781",
@@ -421,7 +458,8 @@
         ],
         "latitude": 42.6751806,
         "longitude": 23.3685667,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute of Mathematics and Informatics was established in 1947 as Institute of Mathematics at the Bulgarian Academy of Sciences.\nIts name changed to Institute of Mathematics with Computing Centre in 1961, while from 1970 to 1988 the Institute together with the Faculty of Mathematics at Sofia University functioned in a unified structure, the Joint Centre of Mathematics and Mechanics.  The present name was adopted in 1995."
     },
     {
         "wikidata_id": "Q12281780",
@@ -431,7 +469,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q63139273",
@@ -441,7 +480,8 @@
         "aliases": null,
         "latitude": 42.676491,
         "longitude": 23.3684028,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11214596",
@@ -451,7 +491,8 @@
         "aliases": null,
         "latitude": 42.6525,
         "longitude": 23.3888889,
-        "type": "institute"
+        "type": "institute",
+        "description": "Institute of Solid State Physics is one of the physical institutes at the Bulgarian Academy of Sciences, currently known as the Georgi Nadjakov Institute of Solid State Physics. It provides scientific background of solid state electronics and optics in Bulgaria. Some reports and discussions are referred to below."
     },
     {
         "wikidata_id": "Q66545517",
@@ -461,7 +502,8 @@
         "aliases": null,
         "latitude": 42.675,
         "longitude": 23.3686111,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3404811",
@@ -471,7 +513,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Macedonian Scientific Institute (MSI; Bulgarian: Македонски научен институт) is a Bulgarian scientific organization, which studies the region of Macedonia and mostly the Macedonian Bulgarians. The institute issues the journal Macedonian Review."
     },
     {
         "wikidata_id": "Q101008812",
@@ -481,7 +524,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q648637",
@@ -494,7 +538,8 @@
         ],
         "latitude": 43.212222,
         "longitude": 27.921111,
-        "type": "university"
+        "type": "university",
+        "description": "The Medical University of Varna (MU-Varna) is a Bulgarian state school for higher education dedicated to training specialists in the fields of medicine and healthcare who graduate with the educational and qualification degrees of Master, Bachelor and Professional Bachelor. The university has a legal entity status with the following scope of business activities: training of cadres and professional qualification; training of PhD students; postgraduate education for medical and non-medical cadres; conducting medical diagnosis, prevention, consultation, rehabilitation, and expert services at the university hospitals; scientific research and applied sciences; international cooperation in the field of education and science; administrative, social, sport, publishing, information, and other activities.\nThe Medical University of Varna is the first university in Bulgaria to implement the EFQM® model for Business Excellence of the European Foundation for Quality Management in 2008."
     },
     {
         "wikidata_id": "Q1916598",
@@ -506,7 +551,8 @@
         ],
         "latitude": 43.4105556,
         "longitude": 24.6275,
-        "type": "university"
+        "type": "university",
+        "description": "Medical University - Pleven (Bulgarian: Медицински университет — Плевен, Meditsinski universitet — Pleven) is one of the four medical universities in Bulgaria. It is the only university in Pleven and was founded in 1974 on the basis of the former regional hospital established in 1865.\nThe university unifies a large modern preclinical base, a hospital with specialised clinics, and research sections."
     },
     {
         "wikidata_id": "Q74543303",
@@ -516,7 +562,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1497827",
@@ -529,7 +576,8 @@
         ],
         "latitude": 42.696331,
         "longitude": 23.324564,
-        "type": "institute"
+        "type": "institute",
+        "description": "The National Archaeological Museum (Bulgarian: Национален археологически музей, Natsionalen arheologicheski muzey) is an archaeological museum in the centre of Sofia, the capital of Bulgaria. It occupies the building of the largest and oldest former Ottoman mosque in the city, originally known as Koca Mahmut Paşa Camii. The construction started in 1451 under grand vizier Veli Mahmud Pasha but due to his death in 1474 the mosque was completed in 1494."
     },
     {
         "wikidata_id": "Q12287847",
@@ -539,7 +587,8 @@
         "aliases": null,
         "latitude": 42.6544444,
         "longitude": 23.3833333,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q65556815",
@@ -549,7 +598,8 @@
         "aliases": null,
         "latitude": 42.675,
         "longitude": 23.3686,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6974486",
@@ -562,7 +612,8 @@
         ],
         "latitude": 42.6956833,
         "longitude": 23.3284639,
-        "type": "institute"
+        "type": "institute",
+        "description": "The National Museum of Natural History (Bulgarian: Национален природонаучен музей, Natsionalen prirodonauchen muzey), or NMNHS, is a natural history museum in the Bulgarian capital of Sofia."
     },
     {
         "wikidata_id": "Q370968",
@@ -574,7 +625,8 @@
         ],
         "latitude": 42.6775,
         "longitude": 23.2530556,
-        "type": "university"
+        "type": "university",
+        "description": "New Bulgarian University (Bulgarian: Нов български университет, also known and abbreviated as НБУ, NBU) is a private university based in Sofia, Bulgaria. \nIts campus is in the western district of the city, known for its proximity to the Vitosha nature park. The university also owns multiple other buildings across the country, as well as its own publishing house and a library."
     },
     {
         "wikidata_id": "Q7035695",
@@ -586,7 +638,8 @@
         ],
         "latitude": 43.2122222,
         "longitude": 27.9330556,
-        "type": "university"
+        "type": "university",
+        "description": "Nikola Vaptsarov Naval Academy (NVNA) (Bulgarian: Висше Военноморско Училище \"Никола Йонков Вапцаров\", ВВМУ) is the oldest technical educational institution in the Republic of Bulgaria. Its history, past and present achievements establish the institution as the most prestigious centre for training maritime (merchant marine and Navy) specialists in the country. Its development over the years resembles a navigable river, into which many tributaries flow, as well as the \"prototypes\" of the present-day faculties, departments, and vocational colleges constituting the Nikola Vaptsarov Naval Academy."
     },
     {
         "wikidata_id": "Q35326544",
@@ -596,7 +649,8 @@
         "aliases": null,
         "latitude": 43.08397,
         "longitude": 25.60287,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7084220",
@@ -606,7 +660,8 @@
         "aliases": null,
         "latitude": 43.8441667,
         "longitude": 25.9545833,
-        "type": "university"
+        "type": "university",
+        "description": "The Old High School of Music (Bulgarian: Стара музикална гимназия, Stara muzikalna gimnaziya) is a historic building in Ruse, Bulgaria, located at 33 Borisova Street, which is to become a private numismatic museum and cultural center. It is currently in the process of restoration, with major work already completed as of 2019.\nThe building was constructed in 1900–1901 by Ruse's Protestant community to be used by the German Protestant school, as well as to accommodate its boarding house, kindergarten and orphanage."
     },
     {
         "wikidata_id": "Q3557727",
@@ -616,7 +671,8 @@
         "aliases": null,
         "latitude": 42.137981,
         "longitude": 24.735179,
-        "type": "university"
+        "type": "university",
+        "description": "The Medical University (Bulgarian: Медицински университет в Пловдив) in Plovdiv, Bulgaria was established in 1945.\nIt includes the Faculties of Medicine, Dental medicine, Pharmacy, Public Health, a Department of Languages and Specialized training, a medical college and a hospital with 2000 beds.  Facilities include laboratories, clinics and units for diagnostics and treatment, research activities and training of medical and dental students."
     },
     {
         "wikidata_id": "Q7205171",
@@ -629,7 +685,8 @@
         ],
         "latitude": 42.1380556,
         "longitude": 24.7508333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q106348320",
@@ -639,7 +696,8 @@
         "aliases": null,
         "latitude": 42.2116667,
         "longitude": 24.13,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12291592",
@@ -649,7 +707,8 @@
         "aliases": null,
         "latitude": 43.2119963,
         "longitude": 27.9329909,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q107723791",
@@ -659,7 +718,8 @@
         "aliases": null,
         "latitude": 43.2242857,
         "longitude": 27.9305345,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12275342",
@@ -669,7 +729,8 @@
         "aliases": null,
         "latitude": 44.108234,
         "longitude": 27.266283,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12283353",
@@ -679,7 +740,8 @@
         "aliases": null,
         "latitude": 43.224067,
         "longitude": 27.935185,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q12283354",
@@ -689,7 +751,8 @@
         "aliases": null,
         "latitude": 42.121364,
         "longitude": 24.758995,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12286374",
@@ -699,7 +762,8 @@
         "aliases": null,
         "latitude": 43.21598,
         "longitude": 27.913486,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q12290858",
@@ -709,7 +773,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12291001",
@@ -719,7 +784,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12295089",
@@ -729,7 +795,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12297584",
@@ -739,7 +806,8 @@
         "aliases": null,
         "latitude": 44.106539,
         "longitude": 27.249527,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12299008",
@@ -749,7 +817,8 @@
         "aliases": null,
         "latitude": 42.124816,
         "longitude": 24.775023,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q126101596",
@@ -759,7 +828,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q126101670",
@@ -769,7 +839,8 @@
         "aliases": null,
         "latitude": 42.676651,
         "longitude": 23.366698,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q126112062",
@@ -779,7 +850,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q135671259",
@@ -789,7 +861,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q137568946",
@@ -799,7 +872,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20499305",
@@ -809,7 +883,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21786759",
@@ -819,7 +894,8 @@
         "aliases": null,
         "latitude": 43.07547,
         "longitude": 25.60965,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21786760",
@@ -829,7 +905,8 @@
         "aliases": null,
         "latitude": 43.08306,
         "longitude": 25.63256,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21786764",
@@ -839,7 +916,8 @@
         "aliases": null,
         "latitude": 43.08063,
         "longitude": 25.63484,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q39861026",
@@ -849,7 +927,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q57736645",
@@ -859,7 +938,8 @@
         "aliases": null,
         "latitude": 42.4280278,
         "longitude": 25.6243806,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q60402927",
@@ -869,7 +949,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q61917084",
@@ -879,7 +960,8 @@
         "aliases": null,
         "latitude": 42.673543,
         "longitude": 23.366817,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q64772899",
@@ -889,7 +971,8 @@
         "aliases": null,
         "latitude": 42.1273681,
         "longitude": 24.7534769,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q69498225",
@@ -899,7 +982,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q70604739",
@@ -909,7 +993,8 @@
         "aliases": null,
         "latitude": 42.6722222,
         "longitude": 23.3647222,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q83365607",
@@ -919,7 +1004,8 @@
         "aliases": null,
         "latitude": 43.2247222,
         "longitude": 27.9147222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q87647474",
@@ -929,7 +1015,8 @@
         "aliases": null,
         "latitude": 43.5534444,
         "longitude": 27.8328611,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q30254762",
@@ -942,7 +1029,8 @@
         ],
         "latitude": 42.676609,
         "longitude": 23.366822,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1782652",
@@ -956,7 +1044,8 @@
         ],
         "latitude": 43.279915,
         "longitude": 26.946383,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25484589",
@@ -966,7 +1055,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74526682",
@@ -976,7 +1066,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74549229",
@@ -986,7 +1077,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1485112",
@@ -999,7 +1091,8 @@
         ],
         "latitude": 42.6833333,
         "longitude": 23.3072222,
-        "type": "university"
+        "type": "university",
+        "description": "The Medical University, Sofia  (Bulgarian: Медицински университет - София) is a public university in Sofia, Bulgaria which was founded in 1917. It is the oldest institution for higher medical education in Bulgaria."
     },
     {
         "wikidata_id": "Q841581",
@@ -1017,7 +1110,8 @@
         ],
         "latitude": 42.6936111,
         "longitude": 23.335,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19842479",
@@ -1027,7 +1121,8 @@
         "aliases": null,
         "latitude": 42.66691,
         "longitude": 23.352326,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2380350",
@@ -1039,7 +1134,8 @@
         ],
         "latitude": 42.018415,
         "longitude": 23.077568,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2606872",
@@ -1049,7 +1145,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q53511177",
@@ -1059,7 +1156,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q1622169",
@@ -1071,7 +1169,8 @@
         ],
         "latitude": 42.657646,
         "longitude": 23.387792,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2399293",
@@ -1081,7 +1180,8 @@
         "aliases": null,
         "latitude": 42.875599,
         "longitude": 25.307259,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2303775",
@@ -1093,7 +1193,8 @@
         ],
         "latitude": 42.6553,
         "longitude": 23.3552,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2399361",
@@ -1106,7 +1207,8 @@
         ],
         "latitude": 43.2239,
         "longitude": 27.9361,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12275343",
@@ -1116,7 +1218,8 @@
         "aliases": null,
         "latitude": 42.678971,
         "longitude": 23.381865,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3658386",
@@ -1129,7 +1232,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895055",
@@ -1141,7 +1245,8 @@
         ],
         "latitude": 42.6831,
         "longitude": 23.3314,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12298062",
@@ -1151,7 +1256,8 @@
         "aliases": null,
         "latitude": 42.656861,
         "longitude": 23.35777,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q493187",
@@ -1164,7 +1270,8 @@
         ],
         "latitude": 43.209,
         "longitude": 27.9235,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12297235",
@@ -1176,7 +1283,8 @@
         ],
         "latitude": 42.151718,
         "longitude": 24.731622,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895441",
@@ -1186,7 +1294,8 @@
         "aliases": null,
         "latitude": 42.6534,
         "longitude": 23.359,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2496195",
@@ -1199,7 +1308,8 @@
         ],
         "latitude": 42.6594,
         "longitude": 23.3534,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2496153",
@@ -1212,7 +1322,8 @@
         ],
         "latitude": 43.8544,
         "longitude": 25.9703,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q155522",
@@ -1222,7 +1333,8 @@
         "aliases": null,
         "latitude": 43.2579,
         "longitude": 28.0273,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12286392",
@@ -1234,7 +1346,8 @@
         ],
         "latitude": 43.212247,
         "longitude": 27.908898,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1629255",
@@ -1247,7 +1360,8 @@
         ],
         "latitude": 43.07838,
         "longitude": 25.64958,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12297580",
@@ -1259,6 +1373,7 @@
         ],
         "latitude": 43.1941479,
         "longitude": 23.5714947,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

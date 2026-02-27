@@ -10,7 +10,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q721103",
@@ -22,7 +23,8 @@
         ],
         "latitude": 9.5785077,
         "longitude": 44.0317681,
-        "type": "university"
+        "type": "university",
+        "description": "Admas University College–Hargeisa is a private research university located in Hargeisa, Somaliland and one of campuses of Admas University outside Ethiopia. The other campus is located in Garowe, Puntland, Somalia."
     },
     {
         "wikidata_id": "Q16207480",
@@ -32,7 +34,8 @@
         "aliases": null,
         "latitude": 8.3971335,
         "longitude": 48.4783059,
-        "type": "university"
+        "type": "university",
+        "description": "Admas University Garowe Campus is a tertiary higher education institution in Garowe, the administrative capital of the autonomous Puntland region in northeastern Somalia. A campus of the Addis Ababa-based Admas University, it was established in March 2014. The university also has a second campus in Hargeisa, the administrative capital of the autonomous Somaliland region in northwestern Somalia."
     },
     {
         "wikidata_id": "Q118144088",
@@ -42,7 +45,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3493066",
@@ -52,7 +56,8 @@
         "aliases": null,
         "latitude": 9.945,
         "longitude": 43.223,
-        "type": "university"
+        "type": "university",
+        "description": "Amoud University (Somali: Jaamacadda Camuud) is a comprehensive public university, located in the city of Borama in Somaliland.\nThe university started in 1998 with 66 students in two faculties (Education and Business Administration), and three teachers. It has a student population of 5,111 enrolled in 14 faculties\/schools, 238 teaching staff."
     },
     {
         "wikidata_id": "Q4860130",
@@ -62,7 +67,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Bardera Polytechnic (Somali: Kuliyada Farsamada Baardheere, Arabic: كلية لعلوم التطبيقية بارطيرآ) is a non-profit tertiary polytechnic education centre located in Bardera, Somalia. The college's full name is Bardera Polytechnic College (BPC). Bardera Polytechnic is the first post-secondary institution in Bardera and the larger Gedo region."
     },
     {
         "wikidata_id": "Q721109",
@@ -76,7 +82,8 @@
         ],
         "latitude": 2.0786,
         "longitude": 45.2395,
-        "type": "university"
+        "type": "university",
+        "description": "Benadir University (BU) (Somali: Jaamacadda Benaadir, Arabic: جامعـــة بنـــادر), also known as the University of Benadir, is a private university located in Mogadishu, Somalia."
     },
     {
         "wikidata_id": "Q4947121",
@@ -86,7 +93,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551573",
@@ -99,7 +107,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Burao UB is a university in Burao, Somalia. It is an independent community-based higher education institution established in 2004 in Burao second best university in Somaliland, the capital city of Togdheer region in Somalia. Six batches graduated from UB until 2016."
     },
     {
         "wikidata_id": "Q97267054",
@@ -111,7 +120,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5327643",
@@ -123,7 +133,8 @@
         ],
         "latitude": 11.2422222,
         "longitude": 49.2019444,
-        "type": "university"
+        "type": "university",
+        "description": "East Africa University (EAU) (Arabic: جامعة شرق أفريقيا) is a not-for-profit institution university in the autonomous Puntland state in northeastern Somalia, as well as in neighbouring Somaliland. Founded in the commercial capital of Bosaso, it has additional branches in Buhodle, Galdogob, Galkayo, Garowe, Qardho and Erigavo. The college offers courses in seven core departments including: Medicine, engineering, veterinary, Business Administration, Sharia studies, It also operates a distance learning center."
     },
     {
         "wikidata_id": "Q136564992",
@@ -135,7 +146,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19571872",
@@ -147,7 +159,8 @@
         ],
         "latitude": 6.75263,
         "longitude": 47.42356,
-        "type": "university"
+        "type": "university",
+        "description": "Galkayo University (GU) was established October 2010 in Galkayo, the capital city of the Mudug region of Somalia, with the objective to contribute and develop the educational provisions of higher education necessary to the inhabitants of Galmudug regions, its surrounding provinces and ultimately all over Somalia.\nGalkayo University is administered by Mudug Foundation for Education Development (MUFED) which is set up by 55 Somali professionals in Somalia and outside Somalia (doctors, engineers, lecturers, teachers, lawyers, computer scientists, business people and other respected individuals) founded Galkayo University."
     },
     {
         "wikidata_id": "Q5580839",
@@ -159,7 +172,8 @@
         ],
         "latitude": 9.56204,
         "longitude": 44.03829,
-        "type": "university"
+        "type": "university",
+        "description": "Gollis University (GU) is a privately owned university in Hargeisa, the capital of  Somaliland. It is situated near the Golis Mountains."
     },
     {
         "wikidata_id": "Q5899559",
@@ -169,7 +183,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Hope University (HU) is a national not-for-profit, cost recovering higher education establishment in Hargeisa, the capital of Somaliland. It was founded in 2008 by Najib Sheikh Abdulkarim. The institution aims to provide affordable higher learning opportunities in the fields of health, technology and management sciences."
     },
     {
         "wikidata_id": "Q100955860",
@@ -182,7 +197,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28220725",
@@ -194,7 +210,8 @@
         ],
         "latitude": 8.476,
         "longitude": 47.3658,
-        "type": "university"
+        "type": "university",
+        "description": "Ilays National University (INU), is a university in Las Anod, Somaliland.  The university was established by Prof. Tungub, who at first set up the Ilays Educational Academy."
     },
     {
         "wikidata_id": "Q22948349",
@@ -204,7 +221,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Indian Ocean University, known as IOU or Jaamacadda Bedweynta Hindiya, is the oldest private, nonprofit provider of accredited University education in Somalia, located in the city of Mogadishu. It was established in 1993 and is registered as a higher education institution under the Ministry of Higher Education and Culture."
     },
     {
         "wikidata_id": "Q6065859",
@@ -214,7 +232,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Iqra Institute for Higher Education is a Somali institute for higher education situated in the town of Badhan, in the Sanaag region of Somaliland. The institute was established in 2008 on the basis of providing opportunities for destitute youth in the region of Sanaag, focusing on vocational courses and other short courses in Management and languages, for its students to reduce poverty, and develop educated individuals who, in return, will help the community with their struggle against poverty."
     },
     {
         "wikidata_id": "Q17064749",
@@ -226,7 +245,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Jamhuriya University of Science and Technology (JUST; Arabic: جامعة جمهورية للعلوم والتكنولوجيا, Somali: Jaamacada Jamhuriya) is an accredited private, higher educational institution in Somalia.\nJUST was established in 2011."
     },
     {
         "wikidata_id": "Q100955858",
@@ -238,7 +258,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20982500",
@@ -251,7 +272,8 @@
         ],
         "latitude": 2.0321,
         "longitude": 45.30475,
-        "type": "university"
+        "type": "university",
+        "description": "Jaamacadda Jobkey or Jobkey University (JU), founded in 2011, is a university located in Somalia with its main campus in Mogadishu, Somalia's capital city. It is a chartered university and is approved by the Somali Federal Government and the Ministry of Higher Education and Culture. Its motto states, 'Success Starts Here'."
     },
     {
         "wikidata_id": "Q3551613",
@@ -263,7 +285,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Kismayo University is a private university located in Kismayo, Somalia's third largest city."
     },
     {
         "wikidata_id": "Q6471734",
@@ -275,7 +298,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Lafoole University, sometimes referred to as Lafoole College, is a teaching institution in Lafoole, Afgooye District, situated in the Lower Shebelle region in southern Somalia."
     },
     {
         "wikidata_id": "Q6721043",
@@ -285,7 +309,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Maakhir University (Somali: Jaamacada Maakhir, Arabic: جامعة ماخر) was a university created in 2010 by a group of Diaspora and supported by the Puntland government in the eastern Sanaag region. In september 2019, this university officially becomes a branch of Somali National University (Jaamacadda Ummadda Soomaaliyeed) in Puntland state."
     },
     {
         "wikidata_id": "Q721115",
@@ -297,7 +322,8 @@
         ],
         "latitude": 2.1104,
         "longitude": 45.33988,
-        "type": "university"
+        "type": "university",
+        "description": "Mogadishu University (Arabic: جامعة مقديشو, Somali: Jaamacadda Muqdisho) is an accredited non-state university in Mogadishu, Somalia."
     },
     {
         "wikidata_id": "Q3551763",
@@ -307,7 +333,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Nugaal University is a university in Las Anod, North eastern state, Somalia. It was established in 2004 with the purpose of providing higher education to the residents of Sool, Cayn and Sanaag. The university is taught by teachers from outside the country."
     },
     {
         "wikidata_id": "Q100955854",
@@ -319,7 +346,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7260603",
@@ -329,7 +357,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q119064447",
@@ -339,7 +368,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7415442",
@@ -351,7 +381,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17070468",
@@ -363,7 +394,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20982515",
@@ -375,7 +407,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q278455",
@@ -385,7 +418,8 @@
         "aliases": null,
         "latitude": 2.038,
         "longitude": 45.287,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7559188",
@@ -395,7 +429,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895443",
@@ -405,7 +440,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551671",
@@ -418,7 +454,8 @@
         ],
         "latitude": 2.034,
         "longitude": 45.308,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3538324",
@@ -428,7 +465,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q114658267",
@@ -441,6 +479,7 @@
         ],
         "latitude": 2.07024,
         "longitude": 45.26444,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

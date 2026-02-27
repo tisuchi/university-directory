@@ -11,7 +11,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "42 is a private institution of education in computer science founded by Xavier Niel, Nicolas Sadirac (former executive director at Epitech), Kwame Yamgnane, and Florian Bucher (former executives at Epitech). The school opened in Paris in 2013. The school does not have any professors and is open 24\/7."
     },
     {
         "wikidata_id": "Q30294743",
@@ -21,7 +22,8 @@
         "aliases": null,
         "latitude": 33.8829857,
         "longitude": 35.4954359,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q22080740",
@@ -31,7 +33,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Al Maaref University (MU) : Arabic: جامعة المعارف, is a private university in Lebanon. It is a subsidiary organization of the Islamic Association of Learning and Education (IALE) that has been operating since 1995."
     },
     {
         "wikidata_id": "Q4702653",
@@ -43,7 +46,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Al-Kafaàt University (AKU) (Arabic: جامعة الكفاءات) is a private and independent university in Beirut, Lebanon. It was founded in 1999 by the Al-Kafaàt Foundation, and is managed by a board of trustees appointed by the foundation board of trustees..."
     },
     {
         "wikidata_id": "Q16250922",
@@ -53,7 +57,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q116688162",
@@ -66,7 +71,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q469482",
@@ -80,7 +86,8 @@
         ],
         "latitude": 33.8999639,
         "longitude": 35.4822833,
-        "type": "university"
+        "type": "university",
+        "description": "The American University of Beirut (AUB; Arabic: الجامعة الأميركية في بيروت, romanized: al-Jāmiʿa l-Amērkiyya fī Bayrūt) is a private, non-sectarian, and independent university chartered in New York with its main campus in Beirut, Lebanon. AUB is governed by a private, autonomous board of trustees and offers programs leading to bachelor's, master's, MD, and PhD degrees.\nAUB has an operating budget of $423 million with an endowment of approximately $768 million."
     },
     {
         "wikidata_id": "Q101013301",
@@ -90,7 +97,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013305",
@@ -100,7 +108,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013310",
@@ -110,7 +119,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013312",
@@ -120,7 +130,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013314",
@@ -130,7 +141,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294741",
@@ -140,7 +152,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4745321",
@@ -150,7 +163,8 @@
         "aliases": null,
         "latitude": 33.884444,
         "longitude": 35.5225,
-        "type": "university"
+        "type": "university",
+        "description": "The American University of Science and Technology (AUST; Arabic: الجامعة الأميركية للعلوم والتكنولوجيا) is a private, non-sectarian, and co-educational American university in Lebanon.\nThe university was established in 1989 in Beirut, under the name American Universal College, by Decree No. 4897 as an External Degree Program of the State University of New York's Empire State College."
     },
     {
         "wikidata_id": "Q4745324",
@@ -160,7 +174,8 @@
         "aliases": null,
         "latitude": 34.423611,
         "longitude": 35.8325,
-        "type": "university"
+        "type": "university",
+        "description": "American University of Technology (AUT), is a private university established in Lebanon. It was founded in 1998 by Ghada Hinain near Byblos. The university is directed by an appointed Board of Trustees."
     },
     {
         "wikidata_id": "Q1604517",
@@ -170,7 +185,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Université Antonine (UA)  is a private university in Lebanon, administered by the Antonin Maronite Order."
     },
     {
         "wikidata_id": "Q48977859",
@@ -184,7 +200,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3679860",
@@ -194,7 +211,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Arab Open University (AOU) (Arabic: الجامعة العربية المفتوحة) is a non-profit university system in the Arab world. Headquartered in Kuwait, the system is composed of 16 campuses across 9 countries: Ardiya in Kuwait, Riyadh, Jeddah, Dammam, Madinah, Ḥail, Al-Ahsa in Saudi Arabia, Seeb in Oman, A'ali in Bahrain, Amman in Jordan, Al-Bireh in Palestine, Beirut, Antelias, Tripoli in Lebanon, El-Shorouk in Egypt and Khartoum in Sudan.\nThe university has a combined student body of 62,612 students, 61,886 of which are postgraduates while 742 of which are postgraduates, 1031 staff members and 77,037 living alumni."
     },
     {
         "wikidata_id": "Q65430112",
@@ -204,7 +222,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4801411",
@@ -216,7 +235,8 @@
         ],
         "latitude": 33.8772,
         "longitude": 35.49623,
-        "type": "university"
+        "type": "university",
+        "description": "Arts, Sciences and Technology University in Lebanon (AUL), is an independent and nondenominational Lebanese higher education institution with undergraduate and graduate degree programs.\nThe main campus of the university is in Cola, Beirut. AUL has a branch in Jadra, south of Beirut and five study centers in Tripoli - North Lebanon, Jounieh, Dekwaneh and Chtoura."
     },
     {
         "wikidata_id": "Q4813028",
@@ -226,7 +246,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Atelier de Recherche ALBA (Research Workshop ALBA) is a trans-disciplinary structure in the Académie Libanaise des Beaux-Arts ALBA, created and curated by Pierre Hage Boutros, Rana Haddad and Gregory Buchakjian."
     },
     {
         "wikidata_id": "Q2778441",
@@ -238,7 +259,8 @@
         ],
         "latitude": 33.8733,
         "longitude": 35.4969,
-        "type": "university"
+        "type": "university",
+        "description": "Beirut Arab University (BAU) (Arabic: جـامعة بيروت العربية, romanized: Jāmʻah Bayrūt al-ʻArabīyah) is a Lebanese private university mainly located in Beirut, Lebanon. It was founded by the Lebanese Waqf El-Bir wal Ihsan Society in 1960.\nThe university's main campus is situated close to the southern entrance of Beirut."
     },
     {
         "wikidata_id": "Q116837978",
@@ -251,7 +273,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6746945",
@@ -263,7 +286,8 @@
         ],
         "latitude": 33.8999639,
         "longitude": 35.4822833,
-        "type": "university"
+        "type": "university",
+        "description": "City University (جامعة المدينة), previously known as Al-Manar University of Tripoli (MUT; Arabic: جامعة المنار في طرابلس), also known as the Rashid Karami Institution for Higher Education, is a private accredited university located in Tripoli, Lebanon. The university was founded on 15 November 1990 by Presidential Decree No. 720."
     },
     {
         "wikidata_id": "Q2983635",
@@ -273,7 +297,8 @@
         "aliases": null,
         "latitude": 33.8327778,
         "longitude": 35.5638889,
-        "type": "college"
+        "type": "college",
+        "description": "Collège Notre-Dame de Jamhour (Arabic: مدرسة سيدة الجمهور) often known colloquially as Jamhour, is a private, Catholic, co-educational, primary and secondary school, located in Jamhour, in the Baabda District of the Mount Lebanon Governorate, Lebanon. It was founded by the Society of Jesus in 1850.\nThe school enrolls students from the pre-primary level — specifically, \"Douzième\" or \"Grande Section\" (equivalent to U.S. Kindergarten) up to \"Terminale\" (equivalent to U.S. 12th grade)."
     },
     {
         "wikidata_id": "Q5570748",
@@ -283,7 +308,8 @@
         "aliases": null,
         "latitude": 33.8902778,
         "longitude": 35.4969444,
-        "type": "university"
+        "type": "university",
+        "description": "Global University (GU; Arabic: الجامعة العالمية) is an educational institution at Beirut, Lebanon established in 1992."
     },
     {
         "wikidata_id": "Q465523",
@@ -295,7 +321,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Haigazian University (Arabic: جامعة هايكازيان; Armenian: Հայկազեան Համալսարան, pronounced Haygazyan Hamalsaran) is a higher education institution founded in 1955 in Beirut, Lebanon as Haigazian College. For a brief period starting 1992, the name was changed to Haigazian University College before the institution adopted the present name in 1996. It offers programs leading to Bachelor's degrees in the Arts and Sciences as well as  Business Administration and Economics, in addition to  Master's degrees in the Arts, Sciences and Business Administration."
     },
     {
         "wikidata_id": "Q1310333",
@@ -305,7 +332,8 @@
         "aliases": null,
         "latitude": 33.982074,
         "longitude": 35.618775,
-        "type": "university"
+        "type": "university",
+        "description": "The Holy Spirit University of Kaslik (USEK; Arabic: جامعة الرّوح القدس – الكسليك, Jāmiʿah al-Rūḥ al-Quddus – al-Kaslīk) is a private, non-profit, Catholic university in Jounieh, Lebanon. The university was founded by the Baladites in 1950 and ratified under the new Higher Education Law of 1962. USEK is the first university in Lebanon to be established by Lebanese citizens."
     },
     {
         "wikidata_id": "Q2917333",
@@ -317,7 +345,8 @@
         ],
         "latitude": 33.8866944,
         "longitude": 35.4855556,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute for Palestine Studies (IPS) is the oldest independent nonprofit public service research institute in the Arab world. It was established and incorporated in Beirut, Lebanon, in 1963 and has since served as a model for other such institutes in the region. It is the only institute solely concerned with analyzing and documenting Palestinian affairs and the Arab–Israeli conflict."
     },
     {
         "wikidata_id": "Q601277",
@@ -329,7 +358,8 @@
         ],
         "latitude": 36.016268,
         "longitude": 36.942801,
-        "type": "institute"
+        "type": "institute",
+        "description": "The International Center for Agricultural Research in the Dry Areas (ICARDA), a member of CGIAR, supported by the CGIAR Fund, is a non-profit agricultural research institute that aims to improve the livelihoods of the resource-poor across the world's dry areas."
     },
     {
         "wikidata_id": "Q16119681",
@@ -339,7 +369,8 @@
         "aliases": null,
         "latitude": 33.78167,
         "longitude": 35.47493,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12204415",
@@ -349,7 +380,8 @@
         "aliases": null,
         "latitude": 34.4097222,
         "longitude": 35.8466667,
-        "type": "university"
+        "type": "university",
+        "description": "Jinan University Lebanon (Arabic: جـامعة الجنان) is a private nonprofit institution of higher education with campuses located in the cities of Tripoli and Saïda in Lebanon, West Asia."
     },
     {
         "wikidata_id": "Q464361",
@@ -361,7 +393,8 @@
         ],
         "latitude": 33.8927778,
         "longitude": 35.4777778,
-        "type": "university"
+        "type": "university",
+        "description": "The Lebanese American University (LAU; Arabic: الجامعة اللبنانية الأميركية) is a secular private American university with campuses in Beirut, Byblos, and New York. It is chartered by the board of regents of the University of the State of New York and is recognized by the Lebanese Ministry of Education and Higher Education. It is accredited by the New England Commission of Higher Education (NECHE)."
     },
     {
         "wikidata_id": "Q101013326",
@@ -371,7 +404,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013327",
@@ -381,7 +415,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294740",
@@ -391,7 +426,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6510895",
@@ -401,7 +437,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551795",
@@ -413,7 +450,8 @@
         ],
         "latitude": 33.8847222,
         "longitude": 35.4955556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q975461",
@@ -423,7 +461,8 @@
         "aliases": null,
         "latitude": 33.827815,
         "longitude": 35.522189,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294754",
@@ -433,7 +472,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6841329",
@@ -445,7 +485,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q3551759",
@@ -455,7 +496,8 @@
         "aliases": null,
         "latitude": 33.873159,
         "longitude": 35.5669285,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6888922",
@@ -465,7 +507,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6975100",
@@ -475,7 +518,8 @@
         "aliases": null,
         "latitude": 33.8186111,
         "longitude": 35.5336111,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q1973138",
@@ -485,7 +529,8 @@
         "aliases": null,
         "latitude": 33.8977703,
         "longitude": 35.4818798,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1529514",
@@ -497,7 +542,8 @@
         ],
         "latitude": 33.9500833,
         "longitude": 35.6122806,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21190916",
@@ -507,7 +553,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q116192561",
@@ -517,7 +564,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q20511646",
@@ -527,7 +575,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q20512535",
@@ -537,7 +586,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q2322347",
@@ -547,7 +597,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3152181",
@@ -557,7 +608,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q63615801",
@@ -567,7 +619,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q87655824",
@@ -577,7 +630,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30266474",
@@ -589,7 +643,8 @@
         ],
         "latitude": 33.709774,
         "longitude": 35.454535,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1324082",
@@ -599,7 +654,8 @@
         "aliases": null,
         "latitude": 34.3661111,
         "longitude": 35.7822222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013333",
@@ -609,7 +665,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013334",
@@ -619,7 +676,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894846",
@@ -629,7 +687,8 @@
         "aliases": null,
         "latitude": 34.42096,
         "longitude": 35.85213,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2804577",
@@ -641,7 +700,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18396040",
@@ -651,7 +711,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q8078043",
@@ -666,6 +727,7 @@
         ],
         "latitude": 33.8986,
         "longitude": 35.4892,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

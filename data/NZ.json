@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": -44.3997222,
         "longitude": 171.2469444,
-        "type": "university"
+        "type": "university",
+        "description": "Aoraki Polytechnic was a public New Zealand tertiary education institution. Aoraki Polytechnic's main campus was based in central Timaru, South Canterbury, South Island. It also had campuses offering a variety of programmes in Ashburton, Oamaru, Christchurch and Dunedin."
     },
     {
         "wikidata_id": "Q24998538",
@@ -20,7 +21,8 @@
         ],
         "latitude": -43.538259,
         "longitude": 172.643189,
-        "type": "institute"
+        "type": "institute",
+        "description": "Ara Institute of Canterbury, often simply referred to as Ara, is an institute of technology in Canterbury, New Zealand. It was formed in 2016 from the merger of Christchurch Polytechnic Institute of Technology (CPIT) and Aoraki Polytechnic."
     },
     {
         "wikidata_id": "Q136971335",
@@ -30,7 +32,8 @@
         "aliases": null,
         "latitude": -36.90807,
         "longitude": 174.9032,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q65090583",
@@ -46,7 +49,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": "The Auckland College of Education, earlier known as the Auckland Training College and the Auckland Teachers' Training College, was a teachers' college in Auckland, New Zealand's largest city. It was established in 1881 and was based in the Auckland suburb of Epsom. In 2004, the College of Education amalgamated with the University of Auckland, merging with the university's School of Education to form the Faculty of Education, now the Faculty of Education and Social Work."
     },
     {
         "wikidata_id": "Q76859469",
@@ -56,7 +60,8 @@
         "aliases": null,
         "latitude": -36.857305,
         "longitude": 174.754134,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q76859445",
@@ -66,7 +71,8 @@
         "aliases": null,
         "latitude": -36.868873,
         "longitude": 174.7691,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19875507",
@@ -78,7 +84,8 @@
         ],
         "latitude": -36.8735722,
         "longitude": 174.7208917,
-        "type": "university"
+        "type": "university",
+        "description": "Auckland Institute of Studies (AIS) (formerly AIS St Helens; Māori: Te Whare Wānanga ki Hato Herena) is the leading privately owned tertiary institute in Auckland, New Zealand."
     },
     {
         "wikidata_id": "Q758659",
@@ -95,7 +102,8 @@
         ],
         "latitude": -36.8533,
         "longitude": 174.7667,
-        "type": "university"
+        "type": "university",
+        "description": "Auckland University of Technology (AUT; Māori: Te Wānanga Aronui o Tāmaki Makau Rau) is a public university in Auckland, New Zealand. It was established on 1 January 2000, when the Auckland Institute of Technology was incorporated into the newly created university by Order in Council under the Education Act 1989. The institution’s lineage dates to 1895, when the Auckland Technical School opened; it became Seddon Memorial Technical College in 1913 before later evolving into a tertiary institute."
     },
     {
         "wikidata_id": "Q101013488",
@@ -105,7 +113,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q76859463",
@@ -118,7 +127,8 @@
         ],
         "latitude": -36.870104,
         "longitude": 174.768479,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q27991341",
@@ -130,7 +140,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Bay of Plenty District Health Board (Bay of Plenty DHB or BOPDHB) was a district health board with the focus on providing healthcare to the Bay of Plenty area of New Zealand. In 2022, the Bay of Plenty DHB was dissolved as part of a national overhaul of the district health board system. Its former functions and responsibilities were assumed by Te Whatu Ora (Health New Zealand)."
     },
     {
         "wikidata_id": "Q112085329",
@@ -140,7 +151,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q137000548",
@@ -150,7 +162,8 @@
         "aliases": null,
         "latitude": -36.907436,
         "longitude": 174.903548,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q77288101",
@@ -160,7 +173,8 @@
         "aliases": null,
         "latitude": -42.25169,
         "longitude": 171.770922,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q77252403",
@@ -172,7 +186,8 @@
         ],
         "latitude": -41.37914,
         "longitude": 173.112957,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16256127",
@@ -182,7 +197,8 @@
         "aliases": null,
         "latitude": -41.2336556,
         "longitude": 174.9186694,
-        "type": "institute"
+        "type": "institute",
+        "description": "Callaghan Innovation is a New Zealand Crown entity responsible for making New Zealand business more innovative."
     },
     {
         "wikidata_id": "Q76928167",
@@ -192,7 +208,8 @@
         "aliases": null,
         "latitude": -37.8953,
         "longitude": 175.46794,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5055246",
@@ -202,7 +219,8 @@
         "aliases": null,
         "latitude": -41.271102,
         "longitude": 173.293297,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Cawthron Institute is a research institution in Nelson, New Zealand focused on freshwater and marine research. It was founded in 1919 by Thomas Cawthron and is New Zealand's largest independent science organisation. The institute employs approximately 300 scientists, laboratory technicians, researchers, and specialist staff from 26 countries."
     },
     {
         "wikidata_id": "Q119796821",
@@ -215,7 +233,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q124435171",
@@ -227,7 +246,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q77289535",
@@ -237,7 +257,8 @@
         "aliases": null,
         "latitude": -43.655791,
         "longitude": 172.705258,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134839086",
@@ -247,7 +268,8 @@
         "aliases": null,
         "latitude": -36.872923,
         "longitude": 174.759157,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5108636",
@@ -259,7 +281,8 @@
         ],
         "latitude": -43.5302,
         "longitude": 172.62604,
-        "type": "university"
+        "type": "university",
+        "description": "Christ's College Big School is a building of Christ's College in Christchurch, New Zealand. It is registered as a Category I heritage building with Heritage New Zealand."
     },
     {
         "wikidata_id": "Q77373942",
@@ -271,7 +294,8 @@
         ],
         "latitude": -43.53018,
         "longitude": 172.62724,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q77373993",
@@ -283,7 +307,8 @@
         ],
         "latitude": -43.530495,
         "longitude": 172.625649,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q77373985",
@@ -295,7 +320,8 @@
         ],
         "latitude": -43.529716,
         "longitude": 172.626014,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q116264562",
@@ -305,7 +331,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5109087",
@@ -319,7 +346,8 @@
         ],
         "latitude": -43.538259,
         "longitude": 172.643189,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Christchurch Polytechnic Institute of Technology (CPIT), formerly the Christchurch Technical College, was an institute of technology in Christchurch, New Zealand. It merged with Aoraki Polytechnic and became Ara Institute of Canterbury in 2016.\nCPIT provided full-time and part-time education in technologies and trades."
     },
     {
         "wikidata_id": "Q79300849",
@@ -332,7 +360,8 @@
         ],
         "latitude": -44.387976,
         "longitude": 171.225738,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5182213",
@@ -344,7 +373,8 @@
         ],
         "latitude": -43.5288889,
         "longitude": 172.63,
-        "type": "university"
+        "type": "university",
+        "description": "The Cranmer Centre (originally: Christchurch Girls' High School) was a historic building in Christchurch, New Zealand. Its original use, until 1986, was as the Christchurch Girls' High School, the second high school for girls in the country. Registered with the New Zealand Historic Places Trust as a Category I heritage building, it was purchased by Arts Centre of Christchurch Trust in 2001, and demolished in May 2011 following the February 2011 Christchurch earthquake."
     },
     {
         "wikidata_id": "Q5182214",
@@ -354,7 +384,8 @@
         "aliases": null,
         "latitude": -43.5263889,
         "longitude": 172.6308333,
-        "type": "university"
+        "type": "university",
+        "description": "Cranmer Court, the former Christchurch Normal School, was one of the most significant heritage buildings in Christchurch, New Zealand. Its demolition, due to some damage in the 2011 Christchurch earthquake, was controversial."
     },
     {
         "wikidata_id": "Q27991334",
@@ -364,7 +395,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q116039094",
@@ -379,7 +411,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q123398619",
@@ -391,7 +424,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q45135879",
@@ -404,7 +438,8 @@
         ],
         "latitude": -45.86704,
         "longitude": 170.50868,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131592675",
@@ -416,7 +451,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q134452209",
@@ -429,7 +465,8 @@
         ],
         "latitude": -36.800311,
         "longitude": 174.703325,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5330219",
@@ -444,7 +481,8 @@
         ],
         "latitude": -39.5468,
         "longitude": 176.8385,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Eastern Institute of Technology (EIT) is a government owned tertiary education institution with three campuses: Hawke’s Bay, Auckland, and Gisborne, New Zealand. It is also referred to as EIT Hawke's Bay, EIT Tairāwhiti, and EIT Auckland.  EIT serves as the main regional higher education centre for the Hawke's Bay and Gisborne regions."
     },
     {
         "wikidata_id": "Q124353826",
@@ -456,7 +494,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q79301026",
@@ -466,7 +505,8 @@
         "aliases": null,
         "latitude": -40.644304,
         "longitude": 175.704776,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74555713",
@@ -480,7 +520,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q116909053",
@@ -490,7 +531,8 @@
         "aliases": null,
         "latitude": -36.855598,
         "longitude": 174.759746,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q127272273",
@@ -502,7 +544,8 @@
         ],
         "latitude": -37.7836759,
         "longitude": 175.2803438,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q935203",
@@ -514,7 +557,8 @@
         ],
         "latitude": -41.195565,
         "longitude": 174.933175,
-        "type": "institute"
+        "type": "institute",
+        "description": "GNS Science (Māori: Te Pū Ao), officially registered as the Institute of Geological and Nuclear Sciences Limited, is a New Zealand Crown Research Institute. It focuses on geology, geophysics (including seismology and volcanology), and nuclear science (particularly ion-beam technologies, isotope science and carbon dating). On 1 July 2025 GNS Science became part of the new Public Research Organisation Earth Sciences New Zealand."
     },
     {
         "wikidata_id": "Q106597310",
@@ -527,7 +571,8 @@
         ],
         "latitude": -36.9245,
         "longitude": 175.6982,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q79301927",
@@ -537,7 +582,8 @@
         "aliases": null,
         "latitude": -40.621032,
         "longitude": 175.278822,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q27991338",
@@ -550,7 +596,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Hutt Valley District Health Board (Hutt Valley DHB) was a district health board that provided healthcare to the cities of Lower Hutt and Upper Hutt in New Zealand. In July 2022, the Hutt Valley DHB was merged into the national health service Te Whatu Ora (Health New Zealand)."
     },
     {
         "wikidata_id": "Q1661937",
@@ -562,7 +609,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "Industrial Research Limited (IRL) was a Crown Research Institute of New Zealand that was established in 1992 and merged into Callaghan Innovation, a new Crown entity, on 1 February 2013. IRL provided research, development and commercialisation services aimed at fostering industry development, economic growth and business expansion. It was established when the Department of Scientific and Industrial Research was disbanded and its staff and assets redistributed to form the research institutes in 1992."
     },
     {
         "wikidata_id": "Q133501720",
@@ -574,7 +622,8 @@
         ],
         "latitude": -36.937971,
         "longitude": 174.653397,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130604658",
@@ -586,7 +635,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q109902606",
@@ -598,7 +648,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6052301",
@@ -608,7 +659,8 @@
         "aliases": null,
         "latitude": -40.3902639,
         "longitude": 175.6394333,
-        "type": "college"
+        "type": "college",
+        "description": "Institute of the Pacific United is a Japanese and New Zealand private tertiary educational institution based in Palmerston North, New Zealand. Another network of the institute is International Pacific University, which was established in 2007 in Okayama, Japan. Students of IPU New Zealand come from more than 20 different countries around the world."
     },
     {
         "wikidata_id": "Q79302096",
@@ -618,7 +670,8 @@
         "aliases": null,
         "latitude": -42.546172,
         "longitude": 171.470569,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q79309341",
@@ -628,7 +681,8 @@
         "aliases": null,
         "latitude": -37.422147,
         "longitude": 175.723376,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q79309366",
@@ -638,7 +692,8 @@
         "aliases": null,
         "latitude": -37.551466,
         "longitude": 175.921271,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q79302168",
@@ -648,7 +703,8 @@
         "aliases": null,
         "latitude": -36.958629,
         "longitude": 174.838197,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q79302195",
@@ -658,7 +714,8 @@
         "aliases": null,
         "latitude": -45.85593,
         "longitude": 170.52485,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q95949656",
@@ -668,7 +725,8 @@
         "aliases": null,
         "latitude": -40.833343,
         "longitude": 175.659074,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q79311360",
@@ -678,7 +736,8 @@
         "aliases": null,
         "latitude": -36.733493,
         "longitude": 175.729747,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6545920",
@@ -690,7 +749,8 @@
         ],
         "latitude": -36.86231,
         "longitude": 174.76993,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1048626",
@@ -708,7 +768,8 @@
         ],
         "latitude": -43.6444444,
         "longitude": 172.4686111,
-        "type": "university"
+        "type": "university",
+        "description": "Lincoln University (Māori: Te Whare Wānaka o Aoraki) is a public university in New Zealand that was formed in 1990 when Lincoln College, Canterbury was made independent of the University of Canterbury. Founded in 1878, it is the oldest agricultural teaching institution in the Southern Hemisphere. It remains the smallest university in New Zealand (by enrolment) and one of the eight public universities."
     },
     {
         "wikidata_id": "Q101013628",
@@ -718,7 +779,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013629",
@@ -728,7 +790,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013630",
@@ -738,7 +801,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135456865",
@@ -748,7 +812,8 @@
         "aliases": null,
         "latitude": -36.901187,
         "longitude": 174.858531,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6721799",
@@ -760,7 +825,8 @@
         ],
         "latitude": -41.289246,
         "longitude": 174.767312,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1801980",
@@ -777,7 +843,8 @@
         ],
         "latitude": -43.6407083,
         "longitude": 172.4754417,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q79302331",
@@ -787,7 +854,8 @@
         "aliases": null,
         "latitude": -41.08596,
         "longitude": 175.455838,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q79302316",
@@ -799,7 +867,8 @@
         ],
         "latitude": -36.976305,
         "longitude": 174.795244,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12061476",
@@ -809,7 +878,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1134606",
@@ -821,7 +891,8 @@
         ],
         "latitude": -40.3848,
         "longitude": 175.6166,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100993158",
@@ -831,7 +902,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013640",
@@ -841,7 +913,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013641",
@@ -851,7 +924,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013643",
@@ -861,7 +935,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q79302446",
@@ -871,7 +946,8 @@
         "aliases": null,
         "latitude": -36.129965,
         "longitude": 174.184844,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q115478289",
@@ -883,7 +959,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6805479",
@@ -893,7 +970,8 @@
         "aliases": null,
         "latitude": -36.84249,
         "longitude": 174.75688,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q27991337",
@@ -907,7 +985,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q75753092",
@@ -919,7 +998,8 @@
         ],
         "latitude": -43.536965,
         "longitude": 172.578022,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135249566",
@@ -929,7 +1009,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q114592498",
@@ -939,7 +1020,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4819509",
@@ -949,7 +1031,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q138392532",
@@ -961,7 +1044,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q104519049",
@@ -973,7 +1057,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q27991339",
@@ -987,7 +1072,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q65679880",
@@ -997,7 +1083,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q15262121",
@@ -1009,7 +1096,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q131843577",
@@ -1019,7 +1107,8 @@
         "aliases": null,
         "latitude": -36.869211,
         "longitude": 174.774253,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134100623",
@@ -1031,7 +1120,8 @@
         ],
         "latitude": -36.896966,
         "longitude": 174.902924,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q79312493",
@@ -1046,7 +1136,8 @@
         ],
         "latitude": -41.2742,
         "longitude": 174.7796,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q27991333",
@@ -1056,7 +1147,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q79303071",
@@ -1068,7 +1160,8 @@
         ],
         "latitude": -45.87131,
         "longitude": 170.49551,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7108352",
@@ -1080,7 +1173,8 @@
         ],
         "latitude": -45.86596,
         "longitude": 170.51908,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q79303080",
@@ -1090,7 +1184,8 @@
         "aliases": null,
         "latitude": -36.953265,
         "longitude": 174.840535,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134702936",
@@ -1100,7 +1195,8 @@
         "aliases": null,
         "latitude": -36.941683,
         "longitude": 174.840175,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q137001360",
@@ -1110,7 +1206,8 @@
         "aliases": null,
         "latitude": -36.907402,
         "longitude": 174.903891,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q79310155",
@@ -1120,7 +1217,8 @@
         "aliases": null,
         "latitude": -36.862761,
         "longitude": 174.779117,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1503201",
@@ -1137,7 +1235,8 @@
         ],
         "latitude": -36.8908304,
         "longitude": 174.7258015,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q132128937",
@@ -1147,7 +1246,8 @@
         "aliases": null,
         "latitude": -36.842242,
         "longitude": 174.739009,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q121142179",
@@ -1161,7 +1261,8 @@
         ],
         "latitude": -43.4906389,
         "longitude": 172.5637778,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q132495562",
@@ -1175,7 +1276,8 @@
         ],
         "latitude": -36.889572,
         "longitude": 174.712528,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101152230",
@@ -1187,7 +1289,8 @@
         ],
         "latitude": -41.2777,
         "longitude": 173.28856,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q132128962",
@@ -1199,7 +1302,8 @@
         ],
         "latitude": -36.856027,
         "longitude": 174.739715,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7374578",
@@ -1211,7 +1315,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q79310453",
@@ -1221,7 +1326,8 @@
         "aliases": null,
         "latitude": -35.262044,
         "longitude": 174.123929,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104108177",
@@ -1234,7 +1340,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q132470706",
@@ -1244,7 +1351,8 @@
         "aliases": null,
         "latitude": -36.90793,
         "longitude": 174.651973,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q132178938",
@@ -1254,7 +1362,8 @@
         "aliases": null,
         "latitude": -36.880058,
         "longitude": 174.778683,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1983244",
@@ -1267,7 +1376,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q135265233",
@@ -1280,7 +1390,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q79303988",
@@ -1292,7 +1403,8 @@
         ],
         "latitude": -46.395088,
         "longitude": 168.35929,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q79304029",
@@ -1302,7 +1414,8 @@
         "aliases": null,
         "latitude": -44.870292,
         "longitude": 169.80937,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q133310674",
@@ -1312,7 +1425,8 @@
         "aliases": null,
         "latitude": -36.825182,
         "longitude": 174.797,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q79312057",
@@ -1322,7 +1436,8 @@
         "aliases": null,
         "latitude": -45.84625,
         "longitude": 170.57798,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q76909735",
@@ -1332,7 +1447,8 @@
         "aliases": null,
         "latitude": -43.527311,
         "longitude": 172.629801,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q75592087",
@@ -1342,7 +1458,8 @@
         "aliases": null,
         "latitude": -43.535076,
         "longitude": 172.633447,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135458304",
@@ -1354,7 +1471,8 @@
         ],
         "latitude": -36.913332,
         "longitude": 174.619965,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134593807",
@@ -1364,7 +1482,8 @@
         "aliases": null,
         "latitude": -39.6361304,
         "longitude": 176.846718,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7677155",
@@ -1374,7 +1493,8 @@
         "aliases": null,
         "latitude": -21.209,
         "longitude": -159.772,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7685571",
@@ -1384,7 +1504,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q108296100",
@@ -1396,7 +1517,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q113183731",
@@ -1410,7 +1532,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q106920280",
@@ -1420,7 +1543,8 @@
         "aliases": null,
         "latitude": -36.8649169,
         "longitude": 174.7643042,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7755183",
@@ -1434,7 +1558,8 @@
         ],
         "latitude": -41.21851,
         "longitude": 174.93127,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4874223",
@@ -1446,7 +1571,8 @@
         ],
         "latitude": -37.7334,
         "longitude": 176.15,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2495129",
@@ -1456,7 +1582,8 @@
         "aliases": null,
         "latitude": -36.8806,
         "longitude": 174.70784,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7893913",
@@ -1474,7 +1601,8 @@
         ],
         "latitude": -40.352482,
         "longitude": 175.61367,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5592018",
@@ -1487,7 +1615,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q492467",
@@ -1501,7 +1630,8 @@
         ],
         "latitude": -36.8501972,
         "longitude": 174.7694944,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013489",
@@ -1511,7 +1641,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013490",
@@ -1521,7 +1652,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013493",
@@ -1531,7 +1663,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013495",
@@ -1541,7 +1674,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013497",
@@ -1551,7 +1685,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013498",
@@ -1561,7 +1696,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013502",
@@ -1571,7 +1707,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013504",
@@ -1581,7 +1718,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013506",
@@ -1591,7 +1729,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013508",
@@ -1601,7 +1740,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013509",
@@ -1611,7 +1751,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013510",
@@ -1621,7 +1762,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013511",
@@ -1631,7 +1773,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013512",
@@ -1641,7 +1784,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013516",
@@ -1651,7 +1795,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013517",
@@ -1661,7 +1806,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013519",
@@ -1671,7 +1817,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013520",
@@ -1683,7 +1830,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013522",
@@ -1693,7 +1841,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013524",
@@ -1703,7 +1852,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013526",
@@ -1713,7 +1863,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013527",
@@ -1723,7 +1874,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013528",
@@ -1733,7 +1885,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013529",
@@ -1743,7 +1896,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013530",
@@ -1753,7 +1907,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013645",
@@ -1763,7 +1918,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013533",
@@ -1773,7 +1929,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q432475",
@@ -1790,7 +1947,8 @@
         ],
         "latitude": -43.5233333,
         "longitude": 172.5819444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013540",
@@ -1800,7 +1958,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q117788709",
@@ -1812,7 +1971,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013542",
@@ -1822,7 +1982,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013544",
@@ -1832,7 +1993,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013545",
@@ -1842,7 +2004,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013548",
@@ -1852,7 +2015,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013549",
@@ -1862,7 +2026,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013551",
@@ -1872,7 +2037,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013553",
@@ -1882,7 +2048,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135212737",
@@ -1892,7 +2059,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q117789075",
@@ -1904,7 +2072,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013554",
@@ -1916,7 +2085,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013556",
@@ -1926,7 +2096,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013559",
@@ -1936,7 +2107,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013561",
@@ -1946,7 +2118,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013563",
@@ -1956,7 +2129,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013565",
@@ -1966,7 +2140,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q864860",
@@ -1979,7 +2154,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1201513",
@@ -1993,7 +2169,8 @@
         ],
         "latitude": -45.8655556,
         "longitude": 170.5138889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013568",
@@ -2003,7 +2180,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013571",
@@ -2013,7 +2191,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013572",
@@ -2023,7 +2202,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013574",
@@ -2033,7 +2213,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013577",
@@ -2043,7 +2224,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013580",
@@ -2053,7 +2235,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013581",
@@ -2063,7 +2246,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013582",
@@ -2073,7 +2257,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013584",
@@ -2083,7 +2268,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013585",
@@ -2093,7 +2279,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013586",
@@ -2103,7 +2290,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013588",
@@ -2115,7 +2303,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013589",
@@ -2127,7 +2316,8 @@
         ],
         "latitude": -45.8644892,
         "longitude": 170.5143691,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013591",
@@ -2139,7 +2329,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013592",
@@ -2149,7 +2340,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013593",
@@ -2159,7 +2351,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Department of Physics is an academic department at the University of Otago located in the city of Dunedin, New Zealand. It is situated in the Science 3 building, at the northwest corner of the campus. The building is located at the intersection of Cumberland and St."
     },
     {
         "wikidata_id": "Q101013594",
@@ -2169,7 +2362,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013595",
@@ -2179,7 +2373,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013647",
@@ -2189,7 +2384,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013596",
@@ -2199,7 +2395,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013597",
@@ -2209,7 +2406,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013599",
@@ -2219,7 +2417,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013600",
@@ -2229,7 +2428,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100998799",
@@ -2239,7 +2439,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013601",
@@ -2249,7 +2450,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q606140",
@@ -2263,7 +2465,8 @@
         ],
         "latitude": -37.7869444,
         "longitude": 175.3138889,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Waikato (Māori: Te Whare Wānanga o Waikato), established in 1964, is a public research university located in Hamilton, New Zealand. An additional campus is located in Tauranga.\nThe university performs research in numerous disciplines such as education, social sciences, and management and is an innovator in environmental science, marine and freshwater ecology, engineering, computer science and artificial intelligence."
     },
     {
         "wikidata_id": "Q101013603",
@@ -2273,7 +2476,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013604",
@@ -2283,7 +2487,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013605",
@@ -2293,7 +2498,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013607",
@@ -2303,7 +2509,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013609",
@@ -2313,7 +2520,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013611",
@@ -2323,7 +2531,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013613",
@@ -2333,7 +2542,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013616",
@@ -2343,7 +2553,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013617",
@@ -2353,7 +2564,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013625",
@@ -2363,7 +2575,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013626",
@@ -2373,7 +2586,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1150437",
@@ -2392,7 +2606,8 @@
         ],
         "latitude": -41.2888889,
         "longitude": 174.7683333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q123906654",
@@ -2406,7 +2621,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013650",
@@ -2416,7 +2632,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013651",
@@ -2426,7 +2643,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013653",
@@ -2436,7 +2654,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013654",
@@ -2446,7 +2665,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013655",
@@ -2456,7 +2676,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013656",
@@ -2466,7 +2687,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013657",
@@ -2476,7 +2698,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q75156686",
@@ -2486,7 +2709,8 @@
         "aliases": null,
         "latitude": -43.51406,
         "longitude": 172.6335,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130469816",
@@ -2496,7 +2720,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7960000",
@@ -2508,7 +2733,8 @@
         ],
         "latitude": -37.7888889,
         "longitude": 175.2794444,
-        "type": "university"
+        "type": "university",
+        "description": "The Waikato Institute of Technology, also known as Wintec, is an institute of technology based in New Zealand's Waikato region. It was established in 1968 as the Waikato Technical Institute after the split of the Hamilton Technical College. Originally a small technical college, the Waikato Institute of Technology is now part of Te Pūkenga, one of the country's biggest tertiary education providers."
     },
     {
         "wikidata_id": "Q27991336",
@@ -2522,7 +2748,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q117840111",
@@ -2534,7 +2761,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q124282832",
@@ -2546,7 +2774,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7987965",
@@ -2556,7 +2785,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Western Institute of Technology at Taranaki (WITT) is the largest tertiary education institution in Taranaki, New Zealand."
     },
     {
         "wikidata_id": "Q60772018",
@@ -2566,7 +2796,8 @@
         "aliases": null,
         "latitude": -36.85651,
         "longitude": 174.7645,
-        "type": "college"
+        "type": "college",
+        "description": "Whitecliffe College is a private training establishment in New Zealand.\nWhitecliffe College was established as a fine arts, design and fashion school in Auckland by artist Greg Whitecliffe and Michele Whitecliffe in 1983.\nNew Zealand educator Feroz Ali acquired Whitecliffe, NZ Fashion Tech, New Zealand School of Art & Fashion, and Computer Power Plus in 2018, and merged these institutions in 2019."
     },
     {
         "wikidata_id": "Q7996527",
@@ -2579,7 +2810,8 @@
         ],
         "latitude": -41.1260444,
         "longitude": 174.8380556,
-        "type": "university"
+        "type": "university",
+        "description": "Whitireia New Zealand, previously called Whitireia Community Polytechnic and Parumoana Community College (Māori: Te Kura Matatini o Whitireia) is a subsidiary of Te Pūkenga – New Zealand Institute of Skills and Technology, a government-owned and funded vocational education provider in New Zealand. Whitireia was established as an independent tertiary education institute in 1986 on the shores of Porirua Harbour. Since 2015 it has shared its leadership council and chief executive with WelTec (Wellington Institute of Technology)."
     },
     {
         "wikidata_id": "Q52665480",
@@ -2592,7 +2824,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q132775554",
@@ -2602,7 +2835,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q8069107",
@@ -2612,6 +2846,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Zenith Applied Philosophy (ZAP) is a Christchurch, New Zealand based organisation founded by John Dalhoff (aka John Ultimate) in 1974. ZAP has a world view which is a combination of Scientology, Eastern mysticism and the ideas of the American John Birch Society. There was extensive overlap between the organisation and the Tax Reduction Integrity Movement."
     }
 ]

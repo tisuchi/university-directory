@@ -11,7 +11,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "42 is a private institution of education in computer science founded by Xavier Niel, Nicolas Sadirac (former executive director at Epitech), Kwame Yamgnane, and Florian Bucher (former executives at Epitech). The school opened in Paris in 2013. The school does not have any professors and is open 24\/7."
     },
     {
         "wikidata_id": "Q4699891",
@@ -21,7 +22,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Ajloun National University (ANU) is located in Ajloun, Jordan. Founded in 2008."
     },
     {
         "wikidata_id": "Q4705048",
@@ -34,7 +36,8 @@
         ],
         "latitude": 32.3356,
         "longitude": 36.2395,
-        "type": "university"
+        "type": "university",
+        "description": "Al al-Bayt University (often abbreviated AABU) is a public university in Jordan. It is located on the outskirts of the city of Mafraq, 65 Kilometers to the north-east of the capital Amman. The university has integrated academic facilities, student housing, and social services on one site, extending over an area of 7.539 square kilometers."
     },
     {
         "wikidata_id": "Q111461073",
@@ -44,7 +47,8 @@
         "aliases": null,
         "latitude": 32.01308,
         "longitude": 35.87434,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q4702162",
@@ -56,7 +60,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Ahliyya Amman University (AAU) (or Amman University, or Amman Private University)  is located in Amman, Jordan. Founded in 1990, it was the first private university in Jordan. The university is accredited by the Ministry of Higher Education and Scientific Research, Jordan, and is a member of four university associations."
     },
     {
         "wikidata_id": "Q4702271",
@@ -66,7 +71,8 @@
         "aliases": null,
         "latitude": 32.0240693,
         "longitude": 35.7167628,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Balqaʼ Applied University (BAU) (Arabic جامعة البلقاء التطبيقية) is a government-supported university located in Salt, Jordan, was founded in 1997, a distinctive state university in the field of Bachelor and associate degree Applied Education, at the capacity of more than 21,000 student distributed into 10,000 at the bachelor's degree program and 11,000 at the associate degree program.\nBalqa' Applied University was formed by merging several colleges distributed over almost all of the Jordanian provinces. The merger was the result of royal decree, under the auspices of his majesty the late King Hussein to provide qualified professionals who focus on applied technical studies."
     },
     {
         "wikidata_id": "Q4702538",
@@ -76,7 +82,8 @@
         "aliases": null,
         "latitude": 30.2663889,
         "longitude": 35.6811111,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Hussein Bin Talal University (AHU) (Arabic جامعة الحسين بن طلال) is a public coeducational university in the heart of the southern region of Jordan. It is 210 km from the capital city of Amman and about 9 km to the northwest of Ma'an. It was established by a Royal Decree on April 28, 1999."
     },
     {
         "wikidata_id": "Q12236070",
@@ -86,7 +93,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Quds College in Jordan was established in 1983 and is part of Luminus Education Group. Al Quds College is a private community college offering vocational two year diploma programs in six areas. All of its programs are accredited by the Ministry of Higher Education and Scientific Research through Al Balqa University."
     },
     {
         "wikidata_id": "Q1853678",
@@ -96,7 +104,8 @@
         "aliases": null,
         "latitude": 31.9130556,
         "longitude": 35.1994444,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Quds Open University (Arabic: جامعة  القدس المفتوحة) is an independent, distance education public university in Palestine. It was created by a decree issued by the Palestinian Liberation Organization (PLO) in 1991.\nQOU is the first Open learning institute in Palestine."
     },
     {
         "wikidata_id": "Q4506012",
@@ -106,7 +115,8 @@
         "aliases": null,
         "latitude": 31.8326,
         "longitude": 35.8927,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Zaytoonah University of Jordan (Arabic جامعة الزيتونة الأردنية), founded in 1993, is a private university located in Amman, Jordan. It is accredited by the Jordanian Ministry of Higher Education & Scientific Research. As of 2024 there were 8,663 students enrolled in the university of whom 2,652 were international students."
     },
     {
         "wikidata_id": "Q467174",
@@ -116,7 +126,8 @@
         "aliases": null,
         "latitude": 31.661199,
         "longitude": 35.800066,
-        "type": "university"
+        "type": "university",
+        "description": "The American University of Madaba (Arabic: الجامعة الاميركية في مادبا) is a non-profit university located in Madaba, Jordan. It opened in October 2011, and expects to eventually accommodate 8,000 students once the campus is completed. The standards of teaching qualifications and experience satisfy the accreditation requirements of the Higher Education Accreditation Commission (HEAC) in Jordan."
     },
     {
         "wikidata_id": "Q4747131",
@@ -126,7 +137,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Amman Arab University (Arabic: جامعة عمان العربية), abbreviated AAU,  is a private university in Amman, Jordan. It was established in 1997 as a non-profit private university for graduate studies. AAU was the first Jordanian university to  specialize in postgraduate programs for masters and doctoral studies."
     },
     {
         "wikidata_id": "Q4781580",
@@ -136,7 +148,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Applied Science Private University (ASU) is a private institution of higher education located in Jordan. Founded in 1989 and officially inaugurated in October 1991, ASU operates under the Arab International Company for Education and Investment. As one of Jordan's early private universities, it initially offered programs through three faculties: Arts and Humanities, Basic Sciences, and Economics."
     },
     {
         "wikidata_id": "Q54870504",
@@ -146,7 +159,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3679860",
@@ -156,7 +170,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Arab Open University (AOU) (Arabic: الجامعة العربية المفتوحة) is a non-profit university system in the Arab world. Headquartered in Kuwait, the system is composed of 16 campuses across 9 countries: Ardiya in Kuwait, Riyadh, Jeddah, Dammam, Madinah, Ḥail, Al-Ahsa in Saudi Arabia, Seeb in Oman, A'ali in Bahrain, Amman in Jordan, Al-Bireh in Palestine, Beirut, Antelias, Tripoli in Lebanon, El-Shorouk in Egypt and Khartoum in Sudan.\nThe university has a combined student body of 62,612 students, 61,886 of which are postgraduates while 742 of which are postgraduates, 1031 staff members and 77,037 living alumni."
     },
     {
         "wikidata_id": "Q12185346",
@@ -168,7 +183,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5149695",
@@ -178,7 +194,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "Columbia Global Centers are research outposts established by Columbia University in different locations around the world, as part of its initiative to further establish an international research university. The first of these centers opened in March 2009 in Beijing, China, and Amman, Jordan, and Columbia opened facilities in Paris, France, and Mumbai, India, in March 2010 and Istanbul, Turkey in November 2011. Locations in Nairobi, Rio de Janeiro and Santiago de Chile were opened in 2012 and 2013."
     },
     {
         "wikidata_id": "Q101012708",
@@ -188,7 +205,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012709",
@@ -198,7 +216,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1205614",
@@ -212,7 +231,8 @@
         ],
         "latitude": 31.774835,
         "longitude": 35.215162,
-        "type": "institute"
+        "type": "institute",
+        "description": "The German Protestant Institute of Archaeology (GPIA), Research Unit of the German Archaeological Institute, founded in 1900, is a leading biblical archaeological institute in Jerusalem. Its German name is Deutsches Evangelisches Institut für Altertumswissenschaft des Heiligen Landes (DEI) which translates literally to the German Protestant Institute for Classical and Ancient Studies in the Holy Land."
     },
     {
         "wikidata_id": "Q322668",
@@ -222,7 +242,8 @@
         "aliases": null,
         "latitude": 32.0255556,
         "longitude": 35.8772222,
-        "type": "university"
+        "type": "university",
+        "description": "German-Jordanian University (GJU) is a public university located near Madaba, Jordan. It offers more than 20 programs to over 6,000 students, primarily from Jordan and the Middle East. The curriculum differs from other Jordanian universities, with German language courses offered as preparation for the fourth academic year at a university of applied sciences in Germany and an introduction to German industry through an obligatory internship within the framework of the study program."
     },
     {
         "wikidata_id": "Q2281564",
@@ -232,7 +253,8 @@
         "aliases": null,
         "latitude": 32.1032,
         "longitude": 36.184,
-        "type": "university"
+        "type": "university",
+        "description": "The Hashemite University (الجامعة الهاشمية), often abbreviated HU, is a public university in Jordan. It was established in 1995. The university is located in the vicinity of the city of Zarqa."
     },
     {
         "wikidata_id": "Q101012778",
@@ -242,7 +264,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6047339",
@@ -252,7 +275,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6068365",
@@ -262,7 +286,8 @@
         "aliases": null,
         "latitude": 32.4833333,
         "longitude": 36,
-        "type": "university"
+        "type": "university",
+        "description": "Irbid National University (Arabic: جامعة إربد الأهلية, abbreviated INU) is a university in Jordan. Established in 1994, it is located in the northern town of Irbid. It has a student body of 6,000."
     },
     {
         "wikidata_id": "Q4702561",
@@ -272,7 +297,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Isra University (Arabic: جامعة الإسراء) is a private university in Amman, Jordan. It was established in 1989, the first scholastic year started in fall 1991. The university offers the Bachelor of Science (B.Sc) degree in thirty two majors in ten different faculties, and twelve Master's programs (M.Sc) The university started receiving the first batch of students in the educational fields in 1991\/1992."
     },
     {
         "wikidata_id": "Q6121200",
@@ -282,7 +308,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Jadara University (Arabic: جامعة جدارا) is a university located in the northern province of Irbid Governorate in Jordan, on the international highway to the north of the city of Irbid, the governorate's capital."
     },
     {
         "wikidata_id": "Q3551597",
@@ -294,7 +321,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16851556",
@@ -304,7 +332,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12183551",
@@ -314,7 +343,8 @@
         "aliases": null,
         "latitude": 31.970831,
         "longitude": 35.894899,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12244297",
@@ -324,7 +354,8 @@
         "aliases": null,
         "latitude": 32.013889,
         "longitude": 35.872778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2919325",
@@ -336,7 +367,8 @@
         ],
         "latitude": 32.4789,
         "longitude": 35.985,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012736",
@@ -346,7 +378,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6841366",
@@ -356,7 +389,8 @@
         "aliases": null,
         "latitude": 31.809299,
         "longitude": 35.9195,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6943648",
@@ -366,7 +400,8 @@
         "aliases": null,
         "latitude": 31.093552,
         "longitude": 35.717285,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012753",
@@ -376,7 +411,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q109259669",
@@ -386,7 +422,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551661",
@@ -398,7 +435,8 @@
         ],
         "latitude": 31.893409,
         "longitude": 35.87304,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7182844",
@@ -408,7 +446,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551722",
@@ -420,7 +459,8 @@
         ],
         "latitude": 32.0230556,
         "longitude": 35.8763889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q109298550",
@@ -430,7 +470,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q54874878",
@@ -440,7 +481,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7270490",
@@ -450,7 +492,8 @@
         "aliases": null,
         "latitude": 32.023056,
         "longitude": 35.876389,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7305002",
@@ -460,7 +503,8 @@
         "aliases": null,
         "latitude": 29.5166667,
         "longitude": 35,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4120508",
@@ -477,7 +521,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7678826",
@@ -487,7 +532,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q610253",
@@ -497,7 +543,8 @@
         "aliases": null,
         "latitude": 32.013889,
         "longitude": 35.872778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012717",
@@ -507,7 +554,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012718",
@@ -517,7 +565,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012719",
@@ -527,7 +576,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q54874823",
@@ -537,7 +587,8 @@
         "aliases": null,
         "latitude": 29.584395,
         "longitude": 35.022798,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q8035873",
@@ -547,7 +598,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q240784",
@@ -560,7 +612,8 @@
         ],
         "latitude": 32.537251,
         "longitude": 35.855491,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q8066876",
@@ -570,6 +623,7 @@
         "aliases": null,
         "latitude": 32.059026,
         "longitude": 36.155899,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

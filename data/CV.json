@@ -10,7 +10,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112266393",
@@ -22,7 +23,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q137383821",
@@ -34,7 +36,8 @@
         ],
         "latitude": 16.864114,
         "longitude": -24.986038,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294358",
@@ -47,7 +50,8 @@
         ],
         "latitude": 16.8898056,
         "longitude": -24.9855556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100706397",
@@ -60,7 +64,8 @@
         ],
         "latitude": 14.9191389,
         "longitude": -23.5117222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q47125639",
@@ -70,7 +75,8 @@
         "aliases": null,
         "latitude": 14.922469,
         "longitude": -23.5052,
-        "type": "university"
+        "type": "university",
+        "description": "Liceu Domingos Ramos is a public secondary school in the northern part of the city centre (Plateau) of Praia, Cape Verde. As of 2015, it has 2,300 students, 63 classes and 110 teachers. It was established as Liceu Adriano Moreira in 1960."
     },
     {
         "wikidata_id": "Q100706395",
@@ -83,7 +89,8 @@
         ],
         "latitude": 16.8863889,
         "longitude": -24.9859444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q47254981",
@@ -96,7 +103,8 @@
         ],
         "latitude": 15.09,
         "longitude": -23.67,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidade de Santiago (abbreviation: US) is a private Cape Verdean university. The main campus is in Assomada (subdivision Bolanha), located in the middle of the Island of Santiago. There are two satellite campuses, one in Praia (subdivision Prainha) and another one in Tarrafal."
     },
     {
         "wikidata_id": "Q100706396",
@@ -109,7 +117,8 @@
         ],
         "latitude": 14.9171667,
         "longitude": -23.5266389,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1707547",
@@ -123,7 +132,8 @@
         ],
         "latitude": 14.921792,
         "longitude": -23.538445,
-        "type": "university"
+        "type": "university",
+        "description": "The Jean Piaget University of Cape Verde (Portuguese: Universidade Jean Piaget de Cabo Verde) is a private university in Cape Verde. The university is named after the famous Swiss child psychologist and philosopher Jean Piaget. The university was established on 7 May 2001, and now has about 2,000 students and 380 academic staff."
     },
     {
         "wikidata_id": "Q38796860",
@@ -136,7 +146,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1707609",
@@ -150,7 +161,8 @@
         ],
         "latitude": 14.9228611,
         "longitude": -23.5484444,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Cape Verde (Portuguese: Universidade de Cabo Verde, abbreviated \"Uni-CV\") is the only public university of Cape Verde. The main campus is in Palmarejo, Praia, but there are also institutes in Mindelo, Assomada and São Jorge dos Órgãos. It has over 5000 students."
     },
     {
         "wikidata_id": "Q6041675",
@@ -166,6 +178,7 @@
         ],
         "latitude": 16.8895,
         "longitude": -24.9891,
-        "type": "university"
+        "type": "university",
+        "description": "University of Mindelo (Portuguese: Universidade do Mindelo) is an institute of higher education in the city of Mindelo, island of São Vicente, Cape Verde. It was established in 2002, and officially started operations on June 9, 2003 as the Instituto de Estudos Superiores Isidoro da Graça. It was converted into the University of Mindelo in 2010."
     }
 ]

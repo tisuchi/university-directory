@@ -9,7 +9,8 @@
         ],
         "latitude": 14.8588333,
         "longitude": 39.367,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30674326",
@@ -22,7 +23,8 @@
         ],
         "latitude": 15.3426944,
         "longitude": 38.9273611,
-        "type": "university"
+        "type": "university",
+        "description": "The Asmara College of Health Sciences is a public college in Asmara, Eritrea. It was founded in 1999 (1999) as one of the faculties at the University of Asmara with the aim of creating competent health professionals\nto meet the health needs of the nation. The college acquired its present independent status in 2005."
     },
     {
         "wikidata_id": "Q5389588",
@@ -36,7 +38,8 @@
         ],
         "latitude": 15.243,
         "longitude": 38.775,
-        "type": "university"
+        "type": "university",
+        "description": "The Eritrea Institute of Technology (EIT) or Mai-Nefhi College is a technological institute located near the town Himbrti, Mai Nefhi, Eritrea. It is situated about 12 km (7.5 mi) southwest of Asmara, near the Mai Nefhi dam. The institute has three colleges: Science, Engineering and Technology, and Education."
     },
     {
         "wikidata_id": "Q104629323",
@@ -49,7 +52,8 @@
         ],
         "latitude": 15.0563611,
         "longitude": 38.8344167,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q102228321",
@@ -63,7 +67,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104629318",
@@ -75,7 +80,8 @@
         ],
         "latitude": 15.60275,
         "longitude": 39.4366111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q23948496",
@@ -85,7 +91,8 @@
         "aliases": null,
         "latitude": 15.33444,
         "longitude": 38.92444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104629320",
@@ -99,7 +106,8 @@
         ],
         "latitude": 15.3366111,
         "longitude": 38.9250833,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1707483",
@@ -112,6 +120,7 @@
         ],
         "latitude": 15.3425,
         "longitude": 38.9275,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Asmara (UoA) was a public university in Asmara, Eritrea. The nation's first university, it was founded in 1958 by the \"Piae Madres Nigritiae\" (Comboni Sisters). The school was meant to provide for the local population, though its initial enrollment in the 1950s was entirely Italian."
     }
 ]

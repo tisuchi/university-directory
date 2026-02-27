@@ -13,7 +13,8 @@
         ],
         "latitude": 18.4607667,
         "longitude": -69.9178944,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Autónoma de Santo Domingo (UASD) (English: Autonomous University of Santo Domingo) is a public university system in Dominican Republic, with its flagship campus in  Ciudad Universitaria (lit. University City) neighborhood of Santo Domingo and regional campuses in many cities of the country. It was founded by Jose Gabriel Garcia and Emiliano Tejera in 1866 as the Professional Institute, replacing the former Universidad Santo Tomás de Aquino, one of the first universities of the Western Hemisphere (Americas), which was founded unofficially by a Papal bull in 1538, officially by royal decree in 1558, and closed in 1822."
     },
     {
         "wikidata_id": "Q29054537",
@@ -25,7 +26,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5290724",
@@ -35,7 +37,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Dominican Adventist University (Universidad Adventista Dominicana - UNAD)  is a Seventh-day Adventist co-educational university located in the Dominican Republic, and accredited by the Adventist Accrediting Association. UNAD offers undergraduate and graduate level degrees.\nIt is a part of the Seventh-day Adventist education system, the world's second largest Christian school system."
     },
     {
         "wikidata_id": "Q119857210",
@@ -47,7 +50,8 @@
         ],
         "latitude": 18.4737242,
         "longitude": -69.9116184,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q17073853",
@@ -59,7 +63,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Instituto de Ciencias Exactas (INCE) is a university in Santo Domingo in the Dominican Republic.\nIt was founded under the auspices of the Foundation National Institute of Sciences Inc., March 18, 1974, through Executive Order No. 5418 and then with the Decree No."
     },
     {
         "wikidata_id": "Q123185102",
@@ -69,7 +74,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6041598",
@@ -81,7 +87,8 @@
         ],
         "latitude": 18.451074,
         "longitude": -69.6627782,
-        "type": "university"
+        "type": "university",
+        "description": "The Instituto Tecnológico de las Américas (ITLA) (English: Las Americas Institute of Technology) is an institution specializing in higher technical studies in La Caleta, Boca Chica, Santo Domingo Province, Dominican Republic."
     },
     {
         "wikidata_id": "Q6041601",
@@ -93,7 +100,8 @@
         ],
         "latitude": 18.4878492,
         "longitude": -69.9625948,
-        "type": "university"
+        "type": "university",
+        "description": "Instituto Tecnológico de Santo Domingo (English: Santo Domingo Institute of Technology), also known as INTEC, is a private university located in Santo Domingo, Dominican Republic. It was founded on October 9, 1972, by a group of connoted professionals and is considered the best institute of technology in the country."
     },
     {
         "wikidata_id": "Q74529660",
@@ -103,7 +111,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q29054551",
@@ -113,7 +122,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29054535",
@@ -123,7 +133,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894302",
@@ -135,7 +146,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Organization & Method College or O&M College (Spanish: Universidad Organización y Método) is a university in Santo Domingo in the Dominican Republic. It was founded in 1966 by José Rafael Abinader. It has campus in other cities as well, Santiago de los Caballeros, La Romana, San José de Ocoa, San Felipe de Puerto Plata, Moca, Santo Domingo Este."
     },
     {
         "wikidata_id": "Q29054545",
@@ -145,7 +157,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q24952056",
@@ -155,7 +168,8 @@
         "aliases": null,
         "latitude": 18.4874861,
         "longitude": -69.8893,
-        "type": "university"
+        "type": "university",
+        "description": "Pedro Francisco Bono Institute (ISB) (formerly Pedro Francisco Bonó Philosophical Institute) was established in September 1985 offering philosophical and humanities studies for Jesuits preparing for the priesthood. Classes were held at the San Pedro Claver Juniorate on Samana Street, Santo Domingo, Dominican Republic. In 1989 the Institute moved to its present location and began offering Bachelor of Arts and Philosophy degrees."
     },
     {
         "wikidata_id": "Q7894297",
@@ -165,7 +179,8 @@
         "aliases": null,
         "latitude": 19.22131,
         "longitude": -70.52739,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Nacional Pedro Henríquez Ureña (also called UNPHU) is a Private, coeducational, university in Santo Domingo, Dominican Republic."
     },
     {
         "wikidata_id": "Q1548573",
@@ -178,7 +193,8 @@
         ],
         "latitude": 19.44376,
         "longitude": -70.68342,
-        "type": "university"
+        "type": "university",
+        "description": "Pontificia Universidad Católica Madre y Maestra (English: Pontifical Catholic University Madre y Maestra) or PUCMM is a private, coeducational Roman Catholic university in the Dominican Republic.  The university grants undergraduate, graduate, doctoral and professional degrees. It has three campuses: one in Santiago de los Caballeros, another in Santo Domingo and an extension in Puerto Plata."
     },
     {
         "wikidata_id": "Q132602885",
@@ -188,7 +204,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q24962008",
@@ -198,7 +215,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q29054558",
@@ -208,7 +226,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29054538",
@@ -218,7 +237,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4005839",
@@ -228,7 +248,8 @@
         "aliases": null,
         "latitude": 18.473688,
         "longitude": -69.9136853,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad APEC (Universidad Acción Pro-Educación y Cultura) (UNAPEC) is a private university located in Santo Domingo, Dominican Republic. It was founded in 1965 under the name of Instituto de Estudios Superiores (Institute of Higher Studies). Management, Spanish and Bilingual Executive Secretarial Science, and Accounting, were the first majors offered by this university."
     },
     {
         "wikidata_id": "Q5852878",
@@ -240,7 +261,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2120374",
@@ -254,7 +276,8 @@
         ],
         "latitude": 18.462669,
         "longitude": -69.922459,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad Católica Santo Domingo (\"Santo Domingo Catholic University\"; acronym, UCSD; also known as La Católica) is a private Catholic university located in the archdiocese of Santo Domingo, in the Dominican Republic. The university was established in 1982, with 65 students entering the school in the following year.\nThe university has a student body of 5,000 students with 250 faculty members."
     },
     {
         "wikidata_id": "Q5680372",
@@ -264,7 +287,8 @@
         "aliases": null,
         "latitude": 18.45936,
         "longitude": -69.29503,
-        "type": "university"
+        "type": "university",
+        "description": "Eastern Central University (Spanish: Universidad Central del Este; abbreviated as UCE) is a private university in the Dominican Republic, founded in San Pedro de Macorís on October 15, 1970, in the eastern region of the country. The university's Department of Medicine operates an important medical center located in the center of Santo Domingo. At an undergraduate level, the UCE has twelve academic departments: Medicine, Dentistry, Bioanalysis, Pharmaceutics, Business Sciences, Systems, Tourism, Production Sciences, Construction Sciences, Natural Resources, Law, and Social and Public Communication."
     },
     {
         "wikidata_id": "Q7894339",
@@ -274,7 +298,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad de la Tercera Edad (UTE) is a university in Santo Domingo in the Dominican Republic."
     },
     {
         "wikidata_id": "Q7894336",
@@ -289,7 +314,8 @@
         ],
         "latitude": 18.4335,
         "longitude": -69.951,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894261",
@@ -301,7 +327,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad Eugenio María de Hostos (UNIREMHOS) is a private, non-profit university in Santo Domingo, Dominican Republic, named after Puerto Rican educator and writer Eugenio María de Hostos. According to the university, it was authorized to award professional degrees by Decree No. 2047 of 8 June 1984."
     },
     {
         "wikidata_id": "Q7894264",
@@ -313,7 +340,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Félix Adam Experimental University (Spanish: \"Universidad Experimental Felix Adam\" (UNEFA)) is a private university in the Dominican Republic, founded in Santo Domingo, Distrito Nacional on February 14, 1996. The institution is sponsored by the Foundation Academia de Profesores para la Paz Mundial (APROPAZ, Professors for World Peace Academy), which was founded in 1991. The Dominican National Council of Higher Education (CONES) approved UNEFA through the resolution No."
     },
     {
         "wikidata_id": "Q7894266",
@@ -325,7 +353,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad Federico Henríquez y Carvajal (UFHEC) is a private university located in Santo Domingo in the Dominican Republic.\nThe university is coeducational institution located in the urban setting of the capital city of the Dominican Republic. It also has branch campuses in smaller Dominican communities such as La Romana, Baní and Moca."
     },
     {
         "wikidata_id": "Q7894275",
@@ -338,7 +367,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad Iberoamericana  (also known as UNIBE) is a private nonprofit coeducational university in Santo Domingo, Dominican Republic, that was founded in 1982 as a result of the initiative of the Iberoamerican-Cooperation Institute and a Steering Committee in the Dominican Republic. The document was signed on January 12, 1982, at a ceremony held at the Embassy of Spain."
     },
     {
         "wikidata_id": "Q7894272",
@@ -348,7 +378,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad Interamericana (UNICA) is a university in Santo Domingo in the Dominican Republic that was founded on October 1, 1977 (1977-10-01)."
     },
     {
         "wikidata_id": "Q2883867",
@@ -360,7 +391,8 @@
         ],
         "latitude": 18.462,
         "longitude": -69.917,
-        "type": "university"
+        "type": "university",
+        "description": "The University of St. Thomas Aquinas (Spanish: Universidad de Santo Tomás de Aquino) is, from an historical perspective, the first university founded in the Americas. It was established by the papal bull In Apostolatus Culmine, issued by Pope Paul III on October 28, 1538, at a time when royal approval through a “pase regio” was not yet required."
     },
     {
         "wikidata_id": "Q2629906",
@@ -372,6 +404,7 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Tecnológica de Santiago (UTESA), or Santiago University of Technology, is the largest private university of the Dominican Republic with more than 50,000 active students  and over 150,000 alumni. Its main campus is in the city of Santiago de los Caballeros, and it has other campus extensions in Santo Domingo, Puerto Plata, Moca, Dajabón, Santa Cruz de Mao and Gaspar Hernández. It was founded on November 12, 1974, by a group of professionals, and is one of the main research institutes in the country."
     }
 ]
