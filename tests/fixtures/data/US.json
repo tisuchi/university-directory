@@ -7,6 +7,7 @@
         "aliases": ["MIT"],
         "latitude": 42.3601,
         "longitude": -71.0942,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Massachusetts Institute of Technology is a private research university in Cambridge, Massachusetts. Established in 1861, MIT has played a key role in the development of modern technology and science."
     }
 ]

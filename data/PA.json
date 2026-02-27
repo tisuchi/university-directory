@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894249",
@@ -23,7 +24,8 @@
         ],
         "latitude": 9.0294,
         "longitude": -79.5209,
-        "type": "university"
+        "type": "university",
+        "description": "The Catholic University of Santa María La Antigua (Spanish: Universidad Católica Santa María La Antigua; USMA) is a private university in Panama City, Panama. It was established in 1965 as the first private university in Panama. As of 2021, it had 5,879 students, with more than 80 academic programs in both undergraduate and graduate degrees."
     },
     {
         "wikidata_id": "Q5150165",
@@ -33,7 +35,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Columbus University is an institution of higher education, established on October 12, 1992. It is authorized by the Panamanian Ministry of Education. It is recognized as a private university, by the Panamanian State, through Executive Decree (in Spanish, Decreto Ejecutivo) No."
     },
     {
         "wikidata_id": "Q101000503",
@@ -43,7 +46,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000509",
@@ -53,7 +57,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5461630",
@@ -65,7 +70,8 @@
         ],
         "latitude": 9.0052778,
         "longitude": -79.5894444,
-        "type": "university"
+        "type": "university",
+        "description": "Florida State University-Panama, or FSU-Panama is an international branch campus of Florida State University located on the isthmus of Panama. FSU has operating a broad curriculum program in Panama City of the Republic of Panama for over 50 years. The campus, located by the Miraflores Locks of the Panama Canal, provides students with many facilities, including the largest English-language library in the Republic of Panama, computer facilities, research facilities, student housing, and athletic facilities."
     },
     {
         "wikidata_id": "Q6041308",
@@ -77,7 +83,8 @@
         ],
         "latitude": 8.97039,
         "longitude": -79.533696,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Instituto Conmemorativo Gorgas de Estudios de la Salud (The Gorgas Memorial Institute for Health Studies (GMI)) is a medical research institution that has been dedicated for more than 80 years on investigating diseases in the tropics and preventive medicine.  Established in 1921, GMI had its building inaugurated in Panama City in 1928.  It was administered by the United States until 1990."
     },
     {
         "wikidata_id": "Q62503439",
@@ -87,7 +94,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6044567",
@@ -97,7 +105,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Inter-American Institute for Global Change Research (IAI) is an intergovernmental organization supported by 19 countries in the Americas, dedicated to pursuing the principles of scientific excellence, international cooperation, and the full and open exchange of scientific information to increase the understanding of global change phenomena (planetary-scale changes in the Earth system) and their socio-economic implications.\nRecognizing the need to better understand the natural and social processes which drive large scale environmental change, the IAI encourages interactive exchanges between scientists and policy makers. The goal of the IAI is to augment scientific capacity in the region and to provide information to policy makers in a useful and timely manner."
     },
     {
         "wikidata_id": "Q21006794",
@@ -107,7 +116,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17073944",
@@ -120,7 +130,8 @@
         ],
         "latitude": 8.94546,
         "longitude": -79.56236,
-        "type": "university"
+        "type": "university",
+        "description": "The International Maritime University of Panama (in Spanish: Universidad Marítima Internacional de Panamá, UMIP) is a maritime college in Balboa, Panama City.\nToday, the Maritime university is experiencing one of its best times.  Their cadets are recognized for their leadership, respect, honor, loyalty, discipline, and non-tolerance of dishonest acts."
     },
     {
         "wikidata_id": "Q29052365",
@@ -130,7 +141,8 @@
         "aliases": null,
         "latitude": 9.0314077,
         "longitude": -79.5174338,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29052369",
@@ -142,7 +154,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6496264",
@@ -152,7 +165,8 @@
         "aliases": null,
         "latitude": 9.0037,
         "longitude": -79.512,
-        "type": "university"
+        "type": "university",
+        "description": "The Latin American University of science and Technology-Laureate International Universities (in Spanish: Universidad Latinoamericana de Ciencia y Tecnología) (ULACIT-LIU) was a private university located in Panama City, Panama."
     },
     {
         "wikidata_id": "Q6496489",
@@ -162,7 +176,8 @@
         "aliases": null,
         "latitude": 9.0278,
         "longitude": -79.5183,
-        "type": "university"
+        "type": "university",
+        "description": "Latina University of Panama (Universidad Latina de Panamá) is a private university, located in Panama City, Panama. Established in 1991, it is now considered one of the largest private universities in the country."
     },
     {
         "wikidata_id": "Q29052371",
@@ -174,7 +189,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12185335",
@@ -184,7 +200,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q123457747",
@@ -194,7 +211,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q134617189",
@@ -204,7 +222,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136333137",
@@ -214,7 +233,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6156325",
@@ -224,7 +244,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q15813240",
@@ -234,7 +255,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Quality Leadership University (QLU) is a private university founded in Panama City, Republic of Panama on February 18, 1997 and authorized to operate in Panama by Executive Decree. It is located in 45th Street, Bella Vista in Panama City. It’s accredited by the Consejo Nacional de Evaluacion y Acreditacion Universitaria de Panama (CONEAUPA)."
     },
     {
         "wikidata_id": "Q1673980",
@@ -246,7 +268,8 @@
         ],
         "latitude": 9.16502,
         "longitude": -79.83686,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Smithsonian Tropical Research Institute (STRI, Spanish: Instituto Smithsonian de Investigaciones Tropicales) is located in Panama and is the only bureau of the Smithsonian Institution based outside of the United States. It is dedicated to understanding the past, present, and future of tropical ecosystems and their relevance to human welfare. STRI grew out of a small field station established in 1923 on Barro Colorado Island in the Panama Canal Zone to become one of the world's leading tropical research organizations."
     },
     {
         "wikidata_id": "Q3034637",
@@ -259,7 +282,8 @@
         ],
         "latitude": 9.023,
         "longitude": -79.531,
-        "type": "university"
+        "type": "university",
+        "description": "The Technological University of Panama, Universidad Tecnológica de Panamá (UTP) in Spanish, is the second largest university in Panama. It comprises six schools and has seven regional campuses nationwide. The 60-hectare (150-acre) main campus is in Panama City, the country's capital."
     },
     {
         "wikidata_id": "Q6156443",
@@ -271,7 +295,8 @@
         ],
         "latitude": 8.9714722,
         "longitude": -79.5626944,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894238",
@@ -285,7 +310,8 @@
         ],
         "latitude": 8.433,
         "longitude": -82.451,
-        "type": "university"
+        "type": "university",
+        "description": "The Autonomous University  of Chiriqui, in Spanish Universidad Autónoma de Chiriquí (UNACHI), is a Panamanian university. It was founded in 1995, and is the third autonomous state institution of higher education and the first in the western region of the country."
     },
     {
         "wikidata_id": "Q29052363",
@@ -295,7 +321,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29052364",
@@ -305,7 +332,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896059",
@@ -319,7 +347,8 @@
         ],
         "latitude": 8.9838889,
         "longitude": -79.5333333,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Panama (Spanish: Universidad de Panamá) is a public university in Panama City, Panama. It was founded on October 7, 1935. Initially, it had 175 students learning education, commerce, natural sciences, pharmacy, pre-engineering or law."
     },
     {
         "wikidata_id": "Q28517220",
@@ -329,7 +358,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17104498",
@@ -339,6 +369,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "West Coast University of Panama is a higher education provider based in Panama."
     }
 ]

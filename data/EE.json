@@ -10,7 +10,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5158965",
@@ -20,7 +21,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Concordia International University Estonia (CIUE) was a private university in Tallinn, Estonia.  It was established in 1993 as the Estonian campus of the Concordia International University, a private institution established in Milwaukee in 1992, renamed Wisconsin International University in 1995. It was accredited by the Estonia Minister of Education to offer a bachelor's degree in international business."
     },
     {
         "wikidata_id": "Q18625938",
@@ -33,7 +35,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18626500",
@@ -46,7 +49,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12361331",
@@ -56,7 +60,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18623058",
@@ -66,7 +71,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12361772",
@@ -76,7 +82,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1370318",
@@ -86,7 +93,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Estonian Academy of Arts (Estonian: Eesti Kunstiakadeemia, EKA) is the only public university in Estonia providing higher education in art, design, architecture, media, art history and conservation-restoration. It is based in Tallinn.\nAccording to the Statutes of the EKA, the main objective of activity at the Estonian Academy of Arts is to promote creativity and research, enabling the acquirement of a contemporary higher education based on integrated study, meeting the standard of higher education in the field of fine arts, design, media, architecture, art history, conservation-restoration and teacher education."
     },
     {
         "wikidata_id": "Q1370342",
@@ -99,7 +107,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Estonian Academy of Music and Theatre (Eesti Muusika- ja Teatriakadeemia) began as a mixed choir of the Estonia Society Musical Department (EMD) on the eve of World War I. The assembly of the Estonia Society created the Tallinn Higher Music School on November 17, 1918. The opening ceremony took place on September 28, 1919. In 1923 the educational institution was renamed the Tallinn Conservatoire."
     },
     {
         "wikidata_id": "Q5401535",
@@ -109,7 +118,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Estonian Biocentre (EBC; Estonian: Eesti Biokeskus) is a genetics and genomics research institute located in Tartu, Estonia. It's a joint venture between the University of Tartu and the National Institute of Chemical Physics and Biophysics. The goal of the EBC is to promote research and technological development (RTD) in gene and cell technologies in Estonia."
     },
     {
         "wikidata_id": "Q3741208",
@@ -122,7 +132,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Estonian Business School (EBS) is a private, higher-education university situated in Tallinn, Estonia. EBS offers business-related higher education in bachelor's-, master's- and doctoral levels. Estonian Business School also has a high school, named EBS Gümnaasium which offers high school education from 10th to 12th grade and a Executive Education Centre (EBS Juhtimiskoolituse Keskus) that offers different trainings and development programs."
     },
     {
         "wikidata_id": "Q16412957",
@@ -132,7 +143,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5401558",
@@ -144,7 +156,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Estonian Genome Project is a population-based biological database and biobank which was established in 2000 to improve public health in Estonia. It contains health records and biological specimens from a large percentage of the Estonian population."
     },
     {
         "wikidata_id": "Q12361234",
@@ -154,7 +167,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16413032",
@@ -164,7 +178,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12361454",
@@ -176,7 +191,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16409300",
@@ -186,7 +202,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5401565",
@@ -198,7 +215,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Estonian Institute of Zoology and Botany (Estonian: Zooloogia ja Botaanika Instituut) (ZBI) was a zoological and botanical research institute based in Tartu, Estonia. It was founded in 1947. Since 1997, it belonged to the Estonian University of Life Sciences as a central biological research institute in the country."
     },
     {
         "wikidata_id": "Q823031",
@@ -210,7 +228,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Estonian Literary Museum (ELM; Estonian: Eesti Kirjandusmuuseum), is a national research institute of the Ministry of Education and Research of the Republic of Estonia. Its mission is to improve the cultural heritage of Estonia, to collect, preserve, research and publish the results. The current Head of the Estonian Literary Museum is Piret Voolaid."
     },
     {
         "wikidata_id": "Q12361423",
@@ -220,7 +239,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12361309",
@@ -230,7 +250,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12361434",
@@ -243,7 +264,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q655542",
@@ -256,7 +278,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Estonian University of Life Sciences (Estonian: Eesti Maaülikool, EMÜ) is a public university located in Tartu, Estonia. Its roots trace back to 1802 when the Chair of Agriculture was founded in the University of Tartu. EMÜ is the fourth largest public university in Estonia."
     },
     {
         "wikidata_id": "Q12361314",
@@ -266,7 +289,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12362641",
@@ -276,7 +300,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q116739422",
@@ -286,7 +311,8 @@
         "aliases": null,
         "latitude": 59.431,
         "longitude": 24.7417,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12361313",
@@ -296,7 +322,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16409976",
@@ -306,7 +333,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12379487",
@@ -316,7 +344,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16411238",
@@ -326,7 +355,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16411226",
@@ -336,7 +366,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12358497",
@@ -348,7 +379,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16412915",
@@ -358,7 +390,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16411070",
@@ -368,7 +401,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute of Party History of the Central Committee of the Communist Party of Estonia (Estonian: Eestimaa Kommunistliku Partei Keskkomitee Partei Ajaloo Instituut) was a research body in the Estonian SSR, managed under the Central Committee of the Communist Party of Estonia. Founded in 1947, the institute functioned as the republic-level branch of the Marx–Engels–Lenin Institute of the All-Union Communist Party (Bolsheviks). The institute was based in Tallinn."
     },
     {
         "wikidata_id": "Q16409121",
@@ -378,7 +412,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q387634",
@@ -391,7 +426,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute of the Estonian Language (Estonian: Eesti Keele Instituut) is the official language-regulatory authority of the Estonian language. It is located in the capital city of Estonia, Tallinn and is managed by the Estonian Ministry of Education and Research. Its stated formal goal is to contribute to the long-term survival of the Estonian language and it serves as the main body regulating standard Estonian orthography."
     },
     {
         "wikidata_id": "Q1518505",
@@ -403,7 +439,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "International University Audentes (IUA; Estonian: Rahvusvaheline Ülikool Audentes) was Estonia's largest private university, situated in the country's capital city Tallinn.\nAs of 1 July 2008, it has merged with Tallinn University of Technology (TUT) and will constitute TUT's Faculty of Economics and Business Administration. The full structural merger was completed by June 2009."
     },
     {
         "wikidata_id": "Q5401562",
@@ -416,7 +453,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Estonian Information Technology College (EITC) (Estonian: Eesti Infotehnoloogia Kolledž (EIK)) was a private non-profit institution of professional higher education (university of applied sciences) in Estonia, located in Tallinn. EITC provided Estonian applied higher education diploma-level (at least 180 ECTS credit points; equal to the Bachelor's degree under the Bologna process) education in information technology in four main programmes (IT Systems Administration, IT Systems Development, Information Systems Analysis and Technical Communication), carried out shorter-term vocational training programmes as well as various R&D-oriented activities. In 2017 it merged with the Tallinn University of Technology."
     },
     {
         "wikidata_id": "Q131787391",
@@ -426,7 +464,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20531129",
@@ -436,7 +475,8 @@
         "aliases": null,
         "latitude": 59.3108819,
         "longitude": 24.4130732,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q61402557",
@@ -446,7 +486,8 @@
         "aliases": null,
         "latitude": 58.4063539,
         "longitude": 24.657817,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12373038",
@@ -458,7 +499,8 @@
         ],
         "latitude": 58.3833318,
         "longitude": 24.5057966,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18119686",
@@ -468,7 +510,8 @@
         "aliases": null,
         "latitude": 58.954361,
         "longitude": 22.926301,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16408972",
@@ -478,7 +521,8 @@
         "aliases": null,
         "latitude": 58.915091,
         "longitude": 22.211183,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q43752471",
@@ -488,7 +532,8 @@
         "aliases": null,
         "latitude": 59.0672955,
         "longitude": 26.561004,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25517901",
@@ -498,7 +543,8 @@
         "aliases": null,
         "latitude": 59.380813,
         "longitude": 28.1983956,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12376787",
@@ -508,7 +554,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6973622",
@@ -521,7 +568,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "National Institute of Chemical Physics and Biophysics (NICPB; Estonian  Keemilise ja Bioloogilise Füüsika Instituut, or KBFI) is public non-profit research institute that carries out fundamental and applied research and engages in the development of the novel directions in material sciences, physics, chemistry, gene- and biotechnology, environmental technology, and computer science. in  Estonia, Tallinn at the address Akadeemia tee 23."
     },
     {
         "wikidata_id": "Q16411212",
@@ -531,7 +579,8 @@
         "aliases": null,
         "latitude": 58.3827153,
         "longitude": 24.5004545,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16412526",
@@ -541,7 +590,8 @@
         "aliases": null,
         "latitude": 57.8114,
         "longitude": 27.4475,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12373159",
@@ -551,7 +601,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q21777204",
@@ -561,7 +612,8 @@
         "aliases": null,
         "latitude": 58.9071525,
         "longitude": 22.4102487,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q43536201",
@@ -571,7 +623,8 @@
         "aliases": null,
         "latitude": 59.3726322,
         "longitude": 27.0454108,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12358982",
@@ -581,7 +634,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12359065",
@@ -591,7 +645,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12360995",
@@ -601,7 +656,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12361317",
@@ -611,7 +667,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12361466",
@@ -621,7 +678,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12361848",
@@ -631,7 +689,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12361859",
@@ -641,7 +700,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12366724",
@@ -651,7 +711,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12366857",
@@ -661,7 +722,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12367724",
@@ -671,7 +733,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12367835",
@@ -681,7 +744,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12370435",
@@ -691,7 +755,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12370653",
@@ -701,7 +766,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12374021",
@@ -711,7 +777,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12374523",
@@ -721,7 +788,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12376000",
@@ -731,7 +799,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12377073",
@@ -741,7 +810,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12377593",
@@ -751,7 +821,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12379126",
@@ -761,7 +832,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16408974",
@@ -771,7 +843,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16409696",
@@ -781,7 +854,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16409730",
@@ -791,7 +865,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16409825",
@@ -801,7 +876,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16409880",
@@ -811,7 +887,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16409886",
@@ -821,7 +898,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16410513",
@@ -831,7 +909,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16410774",
@@ -841,7 +920,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16410872",
@@ -851,7 +931,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16411186",
@@ -861,7 +942,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16411258",
@@ -871,7 +953,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16411479",
@@ -881,7 +964,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16411535",
@@ -891,7 +975,8 @@
         "aliases": null,
         "latitude": 58.042101,
         "longitude": 27.072547,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16411576",
@@ -901,7 +986,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16411810",
@@ -911,7 +997,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16412374",
@@ -921,7 +1008,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18625755",
@@ -931,7 +1019,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18626497",
@@ -941,7 +1030,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18626542",
@@ -951,7 +1041,8 @@
         "aliases": null,
         "latitude": 57.7405193,
         "longitude": 26.7076886,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20529306",
@@ -961,7 +1052,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q43550740",
@@ -971,7 +1063,8 @@
         "aliases": null,
         "latitude": 58.6320606,
         "longitude": 25.9821641,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q44122485",
@@ -981,7 +1074,8 @@
         "aliases": null,
         "latitude": 59.1808011,
         "longitude": 25.1079161,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18627090",
@@ -991,7 +1085,8 @@
         "aliases": null,
         "latitude": 57.8487455,
         "longitude": 26.9961,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74530642",
@@ -1001,7 +1096,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q43535552",
@@ -1011,7 +1107,8 @@
         "aliases": null,
         "latitude": 59.3941779,
         "longitude": 27.2600331,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4450516",
@@ -1021,7 +1118,8 @@
         "aliases": null,
         "latitude": 59.3966,
         "longitude": 24.6697,
-        "type": "university"
+        "type": "university",
+        "description": "Tallinn Law School (TLS) (Estonian: TTÜ õiguse instituut) is one of the departments of Faculty of Social Sciences of Tallinn University of Technology and one of three law schools operating in Estonia. Although the law school offers basic education in all areas of law, it is focused in research and specialised studies in European law, public law and technology law.\nTLS consists of four structural units: Chair of Public Law, Chair of Law & Technology and Jean Monnet Chair of European Law and Human Rights Centre."
     },
     {
         "wikidata_id": "Q12376207",
@@ -1031,7 +1129,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1257946",
@@ -1046,7 +1145,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Tallinn University (TLU; Estonian: Tallinna Ülikool, TLÜ) is a public research university in Estonia. Located in the centre of Tallinn, the capital city of Estonia, Tallinn University is one of the three largest institutions of higher education in the country. Both QS World University and Times Higher Education rankings place it among the top 1000 universities in the world."
     },
     {
         "wikidata_id": "Q604487",
@@ -1061,7 +1161,8 @@
         ],
         "latitude": 59.3952861,
         "longitude": 24.6717944,
-        "type": "university"
+        "type": "university",
+        "description": "Established in 1918, Tallinn University of Technology (TalTech; Estonian: Tallinna Tehnikaülikool) is the only technical university in Estonia. TalTech, in the capital city of Tallinn, is a university for engineering, business, public administration and maritime affairs. TalTech has colleges in Tartu and Kohtla-Järve."
     },
     {
         "wikidata_id": "Q16411255",
@@ -1071,7 +1172,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7686864",
@@ -1081,7 +1183,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Tartu Academy of Theology (Estonian: Tartu Teoloogia Akadeemia) is a private university in Tartu, Estonia, founded on 16 September 1992 (1992-09-16)."
     },
     {
         "wikidata_id": "Q91068780",
@@ -1091,7 +1194,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q131758573",
@@ -1101,7 +1205,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18625048",
@@ -1111,7 +1216,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12376678",
@@ -1123,7 +1229,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "Tehnopol (also Tallinn Technology Park) is science and business park in Tallinn, Estonia.\nTehnopol is the biggest science park in the Baltic states. One of the main goal for Tehnopol is to help startup and small and medium-sized enterprises (SMEs) to grow faster."
     },
     {
         "wikidata_id": "Q16410217",
@@ -1133,7 +1240,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12377754",
@@ -1143,7 +1251,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q105223200",
@@ -1153,7 +1262,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q204181",
@@ -1168,7 +1278,8 @@
         ],
         "latitude": 58.3811111,
         "longitude": 26.7202778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12376505",
@@ -1180,7 +1291,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18625110",
@@ -1190,7 +1302,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q42888504",
@@ -1200,7 +1313,8 @@
         "aliases": null,
         "latitude": 58.9889635,
         "longitude": 26.9702699,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18625538",
@@ -1210,7 +1324,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q501367",
@@ -1222,7 +1337,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16410727",
@@ -1232,6 +1348,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     }
 ]

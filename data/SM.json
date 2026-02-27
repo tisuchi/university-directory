@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 43.937686,
         "longitude": 12.4450885,
-        "type": "university"
+        "type": "university",
+        "description": "The Scuola Superiore di Studi Storici di San Marino (Graduate School of Historical Studies at San Marino), established in 1988, is a doctoral institution in San Marino, dedicated to historical research and related humanities."
     },
     {
         "wikidata_id": "Q102228471",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q796723",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": 43.9364,
         "longitude": 12.446,
-        "type": "university"
+        "type": "university",
+        "description": "The University of the Republic of San Marino (in Italian: Università degli Studi della Repubblica di San Marino) is a public research university in the Republic of San Marino. It was created in 1985, but it started its activities with the Scuola Superiore di Studi Storici."
     },
     {
         "wikidata_id": "Q102228433",
@@ -37,6 +40,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

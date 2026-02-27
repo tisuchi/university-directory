@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 18.0434028,
         "longitude": -66.5751944,
-        "type": "university"
+        "type": "university",
+        "description": "Colegio Ponceño is a Roman Catholic, Piarist, pre K-12 preparatory school located in Ponce, Puerto Rico."
     },
     {
         "wikidata_id": "Q130553423",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Dewey University is a private university in Puerto Rico. The university currently has four campuses: the Hato Rey Main Campus and satellite campuses in Carolina, Juana Díaz, and Manatí."
     },
     {
         "wikidata_id": "Q133823569",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74553322",
@@ -37,7 +40,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74553228",
@@ -47,7 +51,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547109",
@@ -57,7 +62,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q117405688",
@@ -69,7 +75,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896167",
@@ -83,6 +90,7 @@
         ],
         "latitude": 18.4027778,
         "longitude": -66.05,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Puerto Rico, Río Piedras Campus (Spanish: Universidad de Puerto Rico, Recinto de Río Piedras; UPR-RP, or informally La IUPI) is a public land-grant research university in San Juan, Puerto Rico. It is the largest campus in the University of Puerto Rico system in terms of student population and it was Puerto Rico's first public university campus.\nThe university serves more than 18,000 students, 20% of whom are graduate students, and grants an average of over 3,000 degrees a year."
     }
 ]

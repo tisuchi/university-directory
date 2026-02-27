@@ -10,7 +10,8 @@
         ],
         "latitude": 12.67236,
         "longitude": -7.999286,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5333193",
@@ -22,7 +23,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "École Normale Supérieure (ENSUP; alternate, National Superior School of Mali) is a public school of higher education in Bamako, Mali."
     },
     {
         "wikidata_id": "Q130470358",
@@ -45,7 +47,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q9086948",
@@ -57,7 +60,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100267113",
@@ -67,7 +71,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q110663757",
@@ -77,7 +82,8 @@
         "aliases": null,
         "latitude": 12.5646558,
         "longitude": -8.0117889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111582462",
@@ -87,7 +93,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16643761",
@@ -97,7 +104,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1265294",
@@ -113,7 +121,8 @@
         ],
         "latitude": 16.7758333,
         "longitude": -3.0055556,
-        "type": "university"
+        "type": "university",
+        "description": "Sankoré Madrasa (also called the Sankoré Mosque, Sankoré Masjid or University of Sankoré) is one of three medieval mosques and centres of learning located in Timbuktu, Mali, the others being the Djinguereber and Sidi Yahya mosques. Founded in the 14th century, the Sankoré mosque went through multiple periods of patronage and renovation under both the Mali Empire and the Songhai Empire until its decline following the Battle of Tondibi in 1591. The mosque developed into a madrasa (meaning a school or college in Arabic), reaching its peak in the 16th century."
     },
     {
         "wikidata_id": "Q3551674",
@@ -123,7 +132,8 @@
         "aliases": null,
         "latitude": 13.4246538,
         "longitude": -6.3032921,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Ségou is a public university in Mali, located in the city of Ségou."
     },
     {
         "wikidata_id": "Q1442778",
@@ -135,7 +145,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Bamako (French: Université de Bamako) was the flagship public university in Bamako, the capital of Mali between 1996 and 2011.  It was also known as the University of Mali. University was legally established in 1993 by the merger of existing institutions of higher learning while it became operational in 1996."
     },
     {
         "wikidata_id": "Q3551742",
@@ -147,7 +158,8 @@
         ],
         "latitude": 12.6115373,
         "longitude": -7.9912274,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Legal and Political Sciences of Bamako is a public university located in Bamako, Mali."
     },
     {
         "wikidata_id": "Q7896465",
@@ -157,7 +169,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "\"University of Timbuktu\" is a collective term for the teaching community of three mosques in the city of Timbuktu in what is now Mali: the mosques of Sankore, Djinguereber, and Sidi Yahya. It was an organized scholastic community that endured for many centuries during the medieval period. The university contributed to the modern understanding of Islamic and academic studies in West Africa during the medieval period and produced a number of scholars and manuscripts taught under the Maliki school of thought."
     },
     {
         "wikidata_id": "Q3551732",
@@ -167,7 +180,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551743",
@@ -181,7 +195,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551733",
@@ -194,6 +209,7 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

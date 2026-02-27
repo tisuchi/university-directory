@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": -24.630036,
         "longitude": 25.89729,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4948645",
@@ -19,7 +20,8 @@
         ],
         "latitude": -24.684896,
         "longitude": 25.877846,
-        "type": "university"
+        "type": "university",
+        "description": "Botho University (formerly known as Botho College\/NIIT) is Botswana's largest private tertiary educational provider, founded in 1997. The college offers certificates, diplomas and graduate degrees in accountancy and computer science. It is the first private tertiary institution in the country to be accredited by the Tertiary Education Council (TEC)."
     },
     {
         "wikidata_id": "Q4948875",
@@ -32,7 +34,8 @@
         ],
         "latitude": -24.68035,
         "longitude": 25.9262222,
-        "type": "college"
+        "type": "college",
+        "description": "The Botswana Accountancy College, also known as BAC, is a business school which is headquartered in the city of Gaborone, Botswana. Initially funded and established through a joint venture between the Ministry of Finance and Development Planning and Debswana, the college caters for the accountancy and information technology tertiary needs of the country. The Botswana Accountancy College asserts itself as the center of excellence in Southern Africa and beyond."
     },
     {
         "wikidata_id": "Q100267066",
@@ -44,7 +47,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3151905",
@@ -56,7 +60,8 @@
         ],
         "latitude": -24.6652778,
         "longitude": 25.9358333,
-        "type": "university"
+        "type": "university",
+        "description": "The Botswana Institute of Administration and Commerce (BIAC) is a public university institution located in Gaborone, the capital of Botswana."
     },
     {
         "wikidata_id": "Q2856101",
@@ -69,7 +74,8 @@
         ],
         "latitude": -22.5946,
         "longitude": 27.1233,
-        "type": "university"
+        "type": "university",
+        "description": "The Botswana International University of Science & Technology, or BIUST, is an international university located in the town of Palapye, Botswana. It is the nation's second university, after the university of Botswana in the country's capital, Gaborone. The location is a 2,500-hectare (9.7 sq mi) site of gently sloping land on the outskirts of Palapye."
     },
     {
         "wikidata_id": "Q122382325",
@@ -83,7 +89,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q99678129",
@@ -95,7 +102,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q99680802",
@@ -108,7 +116,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q132462072",
@@ -118,7 +127,8 @@
         "aliases": null,
         "latitude": -22.540308,
         "longitude": 27.123347,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q48784175",
@@ -128,7 +138,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Tutume McConnell Community College  is a government Institution located in Tutume, Botswana."
     },
     {
         "wikidata_id": "Q493141",
@@ -143,7 +154,8 @@
         ],
         "latitude": -24.6667,
         "longitude": 25.9333,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Botswana (UB) was established in 1982, as the first institution of higher education in Botswana. The university currently has three campuses: one in the capital city Gaborone, one in Francistown, and another in Maun. The University of Botswana is divided into six faculties: Business, Education, Engineering, Humanities, Health Sciences, Science and Social Sciences and the Sir Ketumile Masire Teaching Hospital."
     },
     {
         "wikidata_id": "Q100946149",
@@ -153,7 +165,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946151",
@@ -163,7 +176,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946152",
@@ -175,7 +189,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946156",
@@ -185,7 +200,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946157",
@@ -195,7 +211,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946167",
@@ -205,7 +222,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100946165",
@@ -215,6 +233,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

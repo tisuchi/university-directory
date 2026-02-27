@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Divine Word University is a national Catholic university in Papua New Guinea. It is one of the newest tertiary institutions in the country. It was established as a university by an Act of Parliament in 1996."
     },
     {
         "wikidata_id": "Q6039982",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "IBSUniversity (IBSU), formerly known as the Institute of Business Studies (IBS), is a tertiary education provider in Papua New Guinea, offering academic and professional courses in the fields of Accounting, Business and Information Technology.\nIBSU offers a combination of locally developed and International courses ranging from Certificates, Diploma's and Degrees. The IBS produced the first two female Accountants of Papua New Guinea."
     },
     {
         "wikidata_id": "Q6811221",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Melanesia Nazarene Bible College (MNBC) is an undergraduate theological and ministerial training college owned and operated by the Church of the Nazarene through its Division of World Mission. MNBC is located near Mount Hagen, Papua New Guinea (PNG). MNBC was established in 1964 at Water Tun to train pastors for the Church of the Nazarene in Papua New Guinea, but is now located at Ningei, near the junction of Kindeng road and the Wara Tuman river."
     },
     {
         "wikidata_id": "Q7122279",
@@ -37,7 +40,8 @@
         "aliases": null,
         "latitude": -9.40575,
         "longitude": 147.27561,
-        "type": "university"
+        "type": "university",
+        "description": "Pacific Adventist University (PAU) is a tertiary institution located 21 kilometres (30 minutes) outside Port Moresby, Papua New Guinea, and operated by the South Pacific Division of the Seventh-day Adventist Church. Both the faculty and the student body are international in composition. While most students come from Papua New Guinea and other Pacific island nations such as Tonga, Fiji, Samoa, Vanuatu and the Solomon Islands, others have come from Africa, Australia, Pakistan, China, the Philippines, and the United States."
     },
     {
         "wikidata_id": "Q7133161",
@@ -50,7 +54,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Papua New Guinea Institute of Medical Research (PNG IMR) is the principal institution conducting health research in Papua New Guinea with a focus on health problems affecting the country's population."
     },
     {
         "wikidata_id": "Q7133170",
@@ -60,7 +65,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Papua New Guinea University of Natural Resources and Environment (formerly known as the University of Vudal) is a university located in East New Britain Province, Papua New Guinea.\nResearch at the university addresses some of the problems faced by the agricultural, fisheries, forestry and tourism industries of Papua New Guinea."
     },
     {
         "wikidata_id": "Q890684",
@@ -74,7 +80,8 @@
         ],
         "latitude": -6.667043,
         "longitude": 146.996984,
-        "type": "university"
+        "type": "university",
+        "description": "The Papua New Guinea University of Technology (Unitech) is a university located in Lae, Morobe Province of Papua New Guinea."
     },
     {
         "wikidata_id": "Q890541",
@@ -84,7 +91,8 @@
         "aliases": null,
         "latitude": -6.058613,
         "longitude": 145.391412,
-        "type": "university"
+        "type": "university",
+        "description": "University of Goroka (UOG) is a university in the Eastern Highlands Province of Papua New Guinea. It provides teaching in four schools (Postgraduate Studies, Education, Science & Technology, and Humanities) and in two institutes (Technical Vocational Education & Training and Distance & Flexible Learning). The university also runs a consulting arm, 'UniGor Consultancy Limited', with projects of nearly 7 million kina."
     },
     {
         "wikidata_id": "Q780975",
@@ -96,7 +104,8 @@
         ],
         "latitude": -9.405408,
         "longitude": 147.170388,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Papua New Guinea (UPNG) is a university located in Port Moresby, capital of Papua New Guinea. It was established by ordinance of the Australian administration in 1965. This followed the Currie Commission which had enquired into higher education in Papua New Guinea."
     },
     {
         "wikidata_id": "Q101000528",
@@ -106,7 +115,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000530",
@@ -116,7 +126,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7975093",
@@ -129,6 +140,7 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Wau Ecology Institute (WEI) was established in 1961 near the town of Wau, Papua New Guinea, in Morobe province, as a field station of the Bishop Museum.  In 1973 it became an independent environmental organisation.  It has laboratory space for visiting scientists, a herbarium and zoological reference collections."
     }
 ]

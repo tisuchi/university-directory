@@ -11,7 +11,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "42 is a private institution of education in computer science founded by Xavier Niel, Nicolas Sadirac (former executive director at Epitech), Kwame Yamgnane, and Florian Bucher (former executives at Epitech). The school opened in Paris in 2013. The school does not have any professors and is open 24\/7."
     },
     {
         "wikidata_id": "Q6668514",
@@ -21,7 +22,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4672246",
@@ -31,7 +33,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Accademia Italiana Thailand is a fashion and design institute founded in 2006 in Bangkok's Watthana District.\nAccademia Italiana Thailand no longer carries out any type of academic activity."
     },
     {
         "wikidata_id": "Q136684442",
@@ -43,7 +46,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530345",
@@ -53,7 +57,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q23130412",
@@ -63,7 +68,8 @@
         "aliases": null,
         "latitude": 13.76656,
         "longitude": 100.53561,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Armed Forces Research Institute of Medical Sciences (AFRIMS) (Thai: สถาบันวิจัยวิทยาศาสตร์การแพทย์ทหาร) is a United States Army project that started as a collaboration with the Government of Thailand to fight a cholera outbreak in Bangkok in 1958 and 1959. It subsequently expanded to conduct military medical research, primarily involving infectious diseases, across much of Southeast Asia and the Indian subcontinent."
     },
     {
         "wikidata_id": "Q726793",
@@ -73,7 +79,8 @@
         "aliases": null,
         "latitude": 14.674417,
         "longitude": 101.176869,
-        "type": "university"
+        "type": "university",
+        "description": "Asia-Pacific International University is a private Christian university located in Saraburi, Thailand. Its main campus is in the rural town of Muak Lek, Saraburi Province and the nursing school is located on the grounds of Bangkok Adventist Hospital in downtown Bangkok. It is the only tertiary education institution serving the Southeast Asia Union Mission of Seventh-day Adventists."
     },
     {
         "wikidata_id": "Q727675",
@@ -86,7 +93,8 @@
         ],
         "latitude": 14.0791167,
         "longitude": 100.6113556,
-        "type": "university"
+        "type": "university",
+        "description": "The Asian Institute of Technology, formerly known as the SEATO Graduate School of Engineering, was founded in 1959. It is an international organization for higher education situated 40 km north of Bangkok, Thailand. It specializes in engineering, advanced technologies, sustainable development, and management and planning."
     },
     {
         "wikidata_id": "Q727768",
@@ -96,7 +104,8 @@
         "aliases": null,
         "latitude": 12.8443561,
         "longitude": 101.0127211,
-        "type": "university"
+        "type": "university",
+        "description": "Asian University (Asian U), formerly the Asian University of Science and Technology, was founded in 1993, initially with the academic co-operation of Imperial College London. It was an international university using English as the language of instruction for all programs. Asian University was on the eastern seaboard, a 30 km drive from the seaside resort of Pattaya and two hours from Bangkok."
     },
     {
         "wikidata_id": "Q74530022",
@@ -106,7 +115,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q745391",
@@ -118,7 +128,8 @@
         ],
         "latitude": 13.6120556,
         "longitude": 100.8376944,
-        "type": "university"
+        "type": "university",
+        "description": "The Assumption University of Thailand (AU; Thai: มหาวิทยาลัยอัสสัมชัญ, also abbreviated ABAC) is a private, Catholic university in Bangkok, Thailand. It is administered by the Brothers of St. Gabriel."
     },
     {
         "wikidata_id": "Q100979652",
@@ -128,7 +139,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q806480",
@@ -141,7 +153,8 @@
         ],
         "latitude": 14.0395111,
         "longitude": 100.6153639,
-        "type": "university"
+        "type": "university",
+        "description": "Bangkok University (BU; Thai: มหาวิทยาลัยกรุงเทพ; RTGS: Mahawitthayalai Krung Thep), commonly known as  Mo Krung Thep (Thai: มอกรุงเทพ), has operated since 1962, is one of the oldest and largest private, non-profit universities in Thailand. Bangkok University began in the Kluay Nam Thai area of Bangkok. The university expanded its operation to a second and, now, main campus in Rangsit, Pathum Thani to accommodate its rapid growth."
     },
     {
         "wikidata_id": "Q100979653",
@@ -151,7 +164,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4855238",
@@ -161,7 +175,8 @@
         "aliases": null,
         "latitude": 13.766522,
         "longitude": 100.346503,
-        "type": "university"
+        "type": "university",
+        "description": "Bangkokthonburi University (BTU) is a higher education institute located in Thawi Watthana District, Bangkok, Thailand. Founded in 2002, the college offers undergraduate and graduate studies in business administration, law, political science, science, education and medicine."
     },
     {
         "wikidata_id": "Q16307033",
@@ -171,7 +186,8 @@
         "aliases": null,
         "latitude": 13.732199,
         "longitude": 100.488178,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q65280964",
@@ -181,7 +197,8 @@
         "aliases": null,
         "latitude": 9.124555,
         "longitude": 99.306239,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q458530",
@@ -191,7 +208,8 @@
         "aliases": null,
         "latitude": 13.276574,
         "longitude": 100.925351,
-        "type": "university"
+        "type": "university",
+        "description": "Burapha University (BUU) (Thai: มหาวิทยาลัยบูรพา) is one of Thailand's public universities. It is in the coastal town of Saen Suk, near the beach of Bangsaen in Chonburi province. It was established on 8 July 1955, originating from Bangsaen Educational College which was the first regional tertiary educational institute."
     },
     {
         "wikidata_id": "Q100979767",
@@ -201,7 +219,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74540756",
@@ -211,7 +230,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5059984",
@@ -221,7 +241,8 @@
         "aliases": null,
         "latitude": 14.079447,
         "longitude": 100.603835,
-        "type": "university"
+        "type": "university",
+        "description": "The Center of Excellence in Nanotechnology (CoEN) is a nanotechnology facility located at the Asian Institute of Technology (AIT). It is one of the 8 centers of excellence in Thailand.\nThe CoEN at the AIT is used for applied research and graduate education in nanotechnology."
     },
     {
         "wikidata_id": "Q1132505",
@@ -231,7 +252,8 @@
         "aliases": null,
         "latitude": 13.820401,
         "longitude": 100.577546,
-        "type": "university"
+        "type": "university",
+        "description": "Chandrakasem Rajabhat University (CRU) is a tertiary educational institution in the north of Bangkok, Thailand. It offers post-diploma certificates and degree level education from the bachelor's degree to master's degree, with Ph.D offered in several majors.\nFounded in 1940, Chandrakasem was Thailand's first training college for secondary school teachers."
     },
     {
         "wikidata_id": "Q845087",
@@ -241,7 +263,8 @@
         "aliases": null,
         "latitude": 15.7216053,
         "longitude": 100.0527692,
-        "type": "university"
+        "type": "university",
+        "description": "Chaopraya University is a university located in Nakhon Sawan Province, Thailand. Founded in 1988, the university offers undergraduate and graduate studies in business administration, sciences, communication arts, law, education, and public administration. The university is planning to open several other undergraduate programs in 2007 which will include hotel management, performing arts, and multi-media games."
     },
     {
         "wikidata_id": "Q1232267",
@@ -251,7 +274,8 @@
         "aliases": null,
         "latitude": 18.8072222,
         "longitude": 98.9866667,
-        "type": "university"
+        "type": "university",
+        "description": "Chiang Mai Rajabhat University (CMRU; Thai: มหาวิทยาลัยราชภัฏเชียงใหม่) is a university in the north of Thailand under the Royal Thai Ministry of Education. The university was founded in 1924 as an agricultural teacher training college. In 1948, it became Chiang Mai Teachers College and offered majors in a variety of subjects."
     },
     {
         "wikidata_id": "Q1071609",
@@ -261,7 +285,8 @@
         "aliases": null,
         "latitude": 18.8047222,
         "longitude": 98.955,
-        "type": "university"
+        "type": "university",
+        "description": "Chiang Mai University (CMU; Thai: มหาวิทยาลัยเชียงใหม่; Northern Thai: ᨾᩉᩣᩅᩥᨴᨿᩣᩱᩃ᩠ᨿᨩ᩠ᨿᨦᩉᩲ᩠ᨾ᩵) is a national public research university in northern Thailand founded in 1964. It has a strong emphasis on engineering, science, agriculture, and medicine. Its instructional mission includes undergraduate, graduate, professional, and continuing education offered through resident instruction."
     },
     {
         "wikidata_id": "Q100979728",
@@ -271,7 +296,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979729",
@@ -281,7 +307,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13018788",
@@ -291,7 +318,8 @@
         "aliases": null,
         "latitude": 19.98228,
         "longitude": 99.84821,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979756",
@@ -301,7 +329,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1089393",
@@ -311,7 +340,8 @@
         "aliases": null,
         "latitude": 13.8787611,
         "longitude": 100.5773222,
-        "type": "institute"
+        "type": "institute",
+        "description": "Chulabhorn Research Institute (Thai: สถาบันวิจัยจุฬาภรณ์) is a biomedical and chemistry research institute in Bangkok, Thailand. Initiated by Princess Chulabhorn in 1987, it was established as an independent agency funded by the Thai government.\nThe institute operates nine laboratories in biochemistry, biotechnology, medicinal chemistry, chemical carcinogenesis, environmental toxicology, immunology, natural products, organic synthesis and pharmacology."
     },
     {
         "wikidata_id": "Q855730",
@@ -330,7 +360,8 @@
         ],
         "latitude": 13.7383611,
         "longitude": 100.5321111,
-        "type": "university"
+        "type": "university",
+        "description": "Chulalongkorn University (CU; Thai: จฬ.; Thai: จุฬาลงกรณ์มหาวิทยาลัย, RTGS: Chulalongkon Mahawitthayalai) is a public autonomous research university in Bangkok, Thailand. The university was originally founded during King Chulalongkorn's reign as a school for training royal pages and civil servants in 1899 (B.E. 2442) at the Grand Palace. It was later established as a national university in 1917, making it the oldest institute of higher education in Thailand."
     },
     {
         "wikidata_id": "Q100979655",
@@ -340,7 +371,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979658",
@@ -350,7 +382,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979659",
@@ -360,7 +393,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979660",
@@ -370,7 +404,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979662",
@@ -380,7 +415,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979663",
@@ -390,7 +426,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979664",
@@ -400,7 +437,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979665",
@@ -410,7 +448,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979666",
@@ -420,7 +459,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979667",
@@ -430,7 +470,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979678",
@@ -440,7 +481,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979679",
@@ -450,7 +492,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100979680",
@@ -460,7 +503,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100979681",
@@ -470,7 +514,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100979682",
@@ -480,7 +525,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100979683",
@@ -490,7 +536,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74526717",
@@ -500,7 +547,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5146740",
@@ -510,7 +558,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Graduate School of eLearning, also known as GSeL, is a constituent of Assumption University of Thailand located in Suvarnabhumi area of Bangkok, Thailand. It is the first educational institution in Thailand to offer complete eLearning degree programs."
     },
     {
         "wikidata_id": "Q5146781",
@@ -520,7 +569,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The College of Music, Mahidol University (Thai: วิทยาลัยดุริยางคศิลป์), is a music school in Phutthamonthon, Nakhon Pathom (in the western suburbs of Bangkok, Thailand). The College of Music is a  faculty within Mahidol University. It was established in 1994 by Mahidol University under the leadership of Sugree Charoensook, the first music school in Thailand."
     },
     {
         "wikidata_id": "Q13021110",
@@ -530,7 +580,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q5260195",
@@ -540,7 +591,8 @@
         "aliases": null,
         "latitude": 13.735973,
         "longitude": 100.533865,
-        "type": "university"
+        "type": "university",
+        "description": "Chulalongkorn University in Thailand comprises nineteen constituent faculties, as well as six schools and colleges, which form the university's teaching units. Together, they offer 76 undergraduate and 375 postgraduate programmes, and (as of the 2018 academic year) host the university's 25,940 undergraduate and 11,424 postgraduate students. Each of the faculties is focused on a specific subject area."
     },
     {
         "wikidata_id": "Q74529046",
@@ -550,7 +602,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q64090378",
@@ -563,7 +616,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5268842",
@@ -573,7 +627,8 @@
         "aliases": null,
         "latitude": 14.073158,
         "longitude": 100.646392,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1132082",
@@ -583,7 +638,8 @@
         "aliases": null,
         "latitude": 13.8711,
         "longitude": 100.55,
-        "type": "university"
+        "type": "university",
+        "description": "Dhurakij Pundit University (Thai: มหาวิทยาลัยธุรกิจบัณฑิตย์; RTGS: maha witthayalai thurakit bandit, pronounced [mā.hǎː.wít.tʰā.jāː.lāj tʰú.rá.kìt bān.dìt]; thurakit translates to \"business\", pundit to \"scholar\") is a university in Bangkok, Thailand. Founded as Dhurakij Pundit College in 1968, and upgraded to university status in 1984, it is one of the larger Thai private universities. Undergraduate and graduate degree programs are offered through the university's nine faculties, the graduate school, and the international college."
     },
     {
         "wikidata_id": "Q74530627",
@@ -593,7 +649,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1267633",
@@ -603,7 +660,8 @@
         "aliases": null,
         "latitude": 13.6988,
         "longitude": 100.649,
-        "type": "college"
+        "type": "college",
+        "description": "Dusit Thani College (DTC) (Thai: วิทยาลัยดุสิตธานี) is a private institute in Bangkok, Thailand, specializing in hospitality and culinary arts management. It operates under Dusit International, a Thai-based hospitality group. Established over 40 years ago, the college has since expanded its programs internationally."
     },
     {
         "wikidata_id": "Q13018800",
@@ -613,7 +671,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979791",
@@ -623,7 +682,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5428916",
@@ -635,7 +695,8 @@
         ],
         "latitude": 13.739325,
         "longitude": 100.533538,
-        "type": "university"
+        "type": "university",
+        "description": "The Faculty of Arts, Chulalongkorn University (Thai: คณะอักษรศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย), was established in 1917. It was one of the first four faculties of the university. Its former name was \"Faculty of Arts and Science\"."
     },
     {
         "wikidata_id": "Q16434427",
@@ -645,7 +706,8 @@
         "aliases": null,
         "latitude": 13.73433,
         "longitude": 100.531603,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111589334",
@@ -655,7 +717,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Faculty of Medicine, Bangkokthonburi University is a private medical school in Thailand, operated by Bangkokthonburi University."
     },
     {
         "wikidata_id": "Q16305998",
@@ -665,7 +728,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13018797",
@@ -677,7 +741,8 @@
         ],
         "latitude": 6.598736,
         "longitude": 101.343499,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4922775",
@@ -687,7 +752,8 @@
         "aliases": null,
         "latitude": 6.98098,
         "longitude": 100.46544,
-        "type": "university"
+        "type": "university",
+        "description": "Hatyai University   (Thai: มหาวิทยาลัยหาดใหญ่) is a private university in Hat Yai, Songkhla Province, Thailand. Founded in 1997, the university offers undergraduate programs through its seven faculties: business administration, law, education and liberal arts, science and technology, political science, communication arts, and Didyasarin International College. Its graduate school offers in education administration, business administration programs, and doctoral programs."
     },
     {
         "wikidata_id": "Q1630653",
@@ -697,7 +763,8 @@
         "aliases": null,
         "latitude": 13.612757,
         "longitude": 100.758124,
-        "type": "university"
+        "type": "university",
+        "description": "Huachiew Chalermprakiet University (HCU) is a university in Samut Prakan Province, Thailand. It is organized into 13 faculties and a graduate school.\nHuachiew (Chinese: 華僑; pinyin: Huáqiáo) comes from Teochew dialect and means 'overseas Chinese'."
     },
     {
         "wikidata_id": "Q6633829",
@@ -707,7 +774,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6053071",
@@ -719,7 +787,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "International Schools Association of Thailand (ISAT) is an association of private international schools in Thailand, headquartered in Pak Kret, Nonthaburi Province in Greater Bangkok. Its principal 'raison d'etre' is to act as a link between its 45-member international schools, on the one hand, and the Ministry of Education and the Office of the Private Education Commission in particular."
     },
     {
         "wikidata_id": "Q1702536",
@@ -731,7 +800,8 @@
         ],
         "latitude": 13.639117,
         "longitude": 100.47532,
-        "type": "university"
+        "type": "university",
+        "description": "The Joint Graduate School of Energy and Environment (JGSEE) (Thai: บัณฑิตวิทยาลัยร่วมด้านพลังงานและสิ่งแวดล้อม) is an autonomous graduate school, operating as a consortium of five Thai universities. Established in 1998, it aims to be an internationally recognized premier centre in graduate education and research in the fields of energy and environmental technologies. The school receives funding from the Thai government through the CHE–ADB Higher Education Development Project and the Energy Conservation Promotion Fund of Thailand's Ministry of Energy."
     },
     {
         "wikidata_id": "Q2128631",
@@ -741,7 +811,8 @@
         "aliases": null,
         "latitude": 16.6357667,
         "longitude": 103.7724222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55615589",
@@ -751,7 +822,8 @@
         "aliases": null,
         "latitude": 16.6357667,
         "longitude": 103.7724222,
-        "type": "university"
+        "type": "university",
+        "description": "Kalasin University (Thai: มหาวิทยาลัยกาฬสินธุ์, RTGS: Mahawitthayalai Kalasin; KSU) is a government university located in Kalasin Province. It was established in 2015 from the merger of the Kalasin Rajabhat University and the Kalasin Campus of Rajamangala University of Technology Isan."
     },
     {
         "wikidata_id": "Q2128647",
@@ -761,7 +833,8 @@
         "aliases": null,
         "latitude": 14.062282,
         "longitude": 99.424595,
-        "type": "university"
+        "type": "university",
+        "description": "Kanchanaburi Rajabhat University (KRU) (Thai: มหาวิทยาลัยราชภัฏกาญจนบุรี) is a Thai public university under the Rajabhat University system. The campus is just outside Kanchanaburi."
     },
     {
         "wikidata_id": "Q1734895",
@@ -773,7 +846,8 @@
         ],
         "latitude": 13.7380556,
         "longitude": 100.6269722,
-        "type": "university"
+        "type": "university",
+        "description": "Kasem Bundit University (KBU) is a private university in Thailand. Established in 1987, it offers academic programs at graduate and undergraduate levels.\nAmong its institutes are the Institute of Digital Media Law at Kasem Bundit University."
     },
     {
         "wikidata_id": "Q452406",
@@ -786,7 +860,8 @@
         ],
         "latitude": 13.8485972,
         "longitude": 100.56805,
-        "type": "university"
+        "type": "university",
+        "description": "Kasetsart University (Thai: มหาวิทยาลัยเกษตรศาสตร์; RTGS: Mahawitthayalai Kasetsat; commonly Kaset or KU) is a public research university in Bangkok, Thailand. It is the largest university in Thailand.  It was Thailand's first agricultural university and Thailand's third oldest university."
     },
     {
         "wikidata_id": "Q100979684",
@@ -796,7 +871,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979689",
@@ -806,7 +882,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100979794",
@@ -816,7 +893,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979796",
@@ -826,7 +904,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q368329",
@@ -838,7 +917,8 @@
         ],
         "latitude": 16.4739914,
         "longitude": 102.8219891,
-        "type": "university"
+        "type": "university",
+        "description": "Khon Kaen University (Thai: มหาวิทยาลัยขอนแก่น; KKU) is a public research university. The university was the first institution of higher education in the northeastern Thailand and remains the oldest and the most competitive university in the region. The university is a hub of education in northeast Thailand."
     },
     {
         "wikidata_id": "Q100979771",
@@ -848,7 +928,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979776",
@@ -858,7 +939,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74536800",
@@ -868,7 +950,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q113115925",
@@ -881,7 +964,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74535537",
@@ -891,7 +975,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q849209",
@@ -901,7 +986,8 @@
         "aliases": null,
         "latitude": 13.726725,
         "longitude": 100.780125,
-        "type": "institute"
+        "type": "institute",
+        "description": "King Mongkut's Institute of Technology Ladkrabang (KMITL or KMIT Ladkrabang for short) is a research and educational institution in Thailand. It is situated in Lat Krabang District, Bangkok, approximately 30 kilometres (20 mi) east of the city center.  The university consists of nine faculties: engineering, architecture, science, industrial education and technology, agricultural technology, information technology, food industry, liberal arts, and medicine."
     },
     {
         "wikidata_id": "Q1742058",
@@ -911,7 +997,8 @@
         "aliases": null,
         "latitude": 13.8204,
         "longitude": 100.5152,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q476521",
@@ -921,7 +1008,8 @@
         "aliases": null,
         "latitude": 13.651361,
         "longitude": 100.493896,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979690",
@@ -931,7 +1019,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16141577",
@@ -943,7 +1032,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4924325",
@@ -953,7 +1043,8 @@
         "aliases": null,
         "latitude": 13.8734,
         "longitude": 100.6,
-        "type": "university"
+        "type": "university",
+        "description": "Krirk University  (Thai: มหาวิทยาลัยเกริก) is a university in Bang Khen District, Bangkok, Thailand. Founded as the Languages and Professions School in 1952, it was named after its founder, Dr. Krirk Mangkhlaphrik."
     },
     {
         "wikidata_id": "Q6440963",
@@ -963,7 +1054,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Kuakarun Faculty of Nursing (Thai: คณะพยาบาลศาสตร์เกื้อการุณย์; RTGS: Kuea Karun–) is a nursing school situated in Bangkok, Thailand. It is established by the Bangkok Metropolitan Administration (BMA), now it is a founding faculty of the recently founded University of Bangkok Metropolis (Navamindradhiraj University)."
     },
     {
         "wikidata_id": "Q1695599",
@@ -973,7 +1065,8 @@
         "aliases": null,
         "latitude": 18.234385,
         "longitude": 99.48722,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2128645",
@@ -983,7 +1076,8 @@
         "aliases": null,
         "latitude": 17.538192,
         "longitude": 101.719794,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1877281",
@@ -993,7 +1087,8 @@
         "aliases": null,
         "latitude": 16.849556,
         "longitude": 99.118333,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q958942",
@@ -1005,7 +1100,8 @@
         ],
         "latitude": 20.0451472,
         "longitude": 99.8948833,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979757",
@@ -1015,7 +1111,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979759",
@@ -1025,7 +1122,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979760",
@@ -1035,7 +1133,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q846382",
@@ -1047,7 +1146,8 @@
         ],
         "latitude": 18.897151,
         "longitude": 99.011117,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2128646",
@@ -1057,7 +1157,8 @@
         "aliases": null,
         "latitude": 16.19759,
         "longitude": 103.27275,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1186786",
@@ -1067,7 +1168,8 @@
         "aliases": null,
         "latitude": 14.19398,
         "longitude": 100.63399,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979691",
@@ -1077,7 +1179,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q115303540",
@@ -1087,7 +1190,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q206074",
@@ -1100,7 +1204,8 @@
         ],
         "latitude": 13.7592274,
         "longitude": 100.5014062,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2506557",
@@ -1110,7 +1215,8 @@
         "aliases": null,
         "latitude": 13.844128,
         "longitude": 100.85633,
-        "type": "university"
+        "type": "university",
+        "description": "Mahanakorn University of Technology (Thai: มหาวิทยาลัยเทคโนโลยีมหานคร, short MUT) is a university in Thailand. The university was established on February 27, 1990 at Nong Chok District, Bangkok. as Mahanakorn College by Prof."
     },
     {
         "wikidata_id": "Q1884771",
@@ -1120,7 +1226,8 @@
         "aliases": null,
         "latitude": 7.0046,
         "longitude": 100.4905472,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q766248",
@@ -1132,7 +1239,8 @@
         ],
         "latitude": 16.1992415,
         "longitude": 103.283152,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q626804",
@@ -1142,7 +1250,8 @@
         "aliases": null,
         "latitude": 13.793406,
         "longitude": 100.322514,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979692",
@@ -1152,7 +1261,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979694",
@@ -1162,7 +1272,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979695",
@@ -1172,7 +1283,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979696",
@@ -1182,7 +1294,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979805",
@@ -1192,7 +1305,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100979793",
@@ -1202,7 +1316,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100979803",
@@ -1212,7 +1327,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979799",
@@ -1222,7 +1338,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74544414",
@@ -1232,7 +1349,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q175777",
@@ -1242,7 +1360,8 @@
         "aliases": null,
         "latitude": 13.62094,
         "longitude": 99.5863,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1532301",
@@ -1252,7 +1371,8 @@
         "aliases": null,
         "latitude": 13.836533,
         "longitude": 100.028315,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q846379",
@@ -1262,7 +1382,8 @@
         "aliases": null,
         "latitude": 17.287,
         "longitude": 104.784,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q264974",
@@ -1272,7 +1393,8 @@
         "aliases": null,
         "latitude": 14.9840889,
         "longitude": 102.1146154,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2128656",
@@ -1282,7 +1404,8 @@
         "aliases": null,
         "latitude": 15.688658,
         "longitude": 100.106156,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16353838",
@@ -1292,7 +1415,8 @@
         "aliases": null,
         "latitude": 8.46365,
         "longitude": 99.86032,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1311551",
@@ -1302,7 +1426,8 @@
         "aliases": null,
         "latitude": 16.7453944,
         "longitude": 100.1911278,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979831",
@@ -1312,7 +1437,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q75419",
@@ -1322,7 +1448,8 @@
         "aliases": null,
         "latitude": 18.258366,
         "longitude": 99.5319378,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3808815",
@@ -1334,7 +1461,8 @@
         ],
         "latitude": 13.781,
         "longitude": 100.5051,
-        "type": "university"
+        "type": "university",
+        "description": "Navamindradhiraj University (NMU) (Thai: มหาวิทยาลัยนวมินทราธิราช; RTGS: Mahawitthayalai Nawaminthrathirat), formerly University of Bangkok Metropolis (Thai: มหาวิทยาลัยกรุงเทพมหานคร; RTGS: Mahawitthayalai Krung Thep Maha Nakhon), is a public university located in Bangkok, Thailand. The university focuses on medical science and public services such as medicine."
     },
     {
         "wikidata_id": "Q13018757",
@@ -1344,7 +1472,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6686727",
@@ -1354,7 +1483,8 @@
         "aliases": null,
         "latitude": 18.662352,
         "longitude": 98.919178,
-        "type": "university"
+        "type": "university",
+        "description": "North Chiang Mai University (NCU) (Thai: มหาวิทยาลัยนอร์ท-เชียงใหม่) is a private university in Chiang Mai, Chiang Mai Province, Thailand founded in 1999."
     },
     {
         "wikidata_id": "Q26722727",
@@ -1364,7 +1494,8 @@
         "aliases": null,
         "latitude": 16.421855,
         "longitude": 102.818588,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6583834",
@@ -1374,7 +1505,8 @@
         "aliases": null,
         "latitude": 14.01395,
         "longitude": 100.549135,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2056855",
@@ -1384,7 +1516,8 @@
         "aliases": null,
         "latitude": 13.74718,
         "longitude": 100.525384,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1309558",
@@ -1394,7 +1527,8 @@
         "aliases": null,
         "latitude": 18.794979,
         "longitude": 99.032711,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979752",
@@ -1404,7 +1538,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2128658",
@@ -1414,7 +1549,8 @@
         "aliases": null,
         "latitude": 16.45473,
         "longitude": 101.14621,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2128665",
@@ -1424,7 +1560,8 @@
         "aliases": null,
         "latitude": 16.828659,
         "longitude": 100.204869,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25338427",
@@ -1434,7 +1571,8 @@
         "aliases": null,
         "latitude": 13.835957,
         "longitude": 100.498364,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q1519696",
@@ -1447,7 +1585,8 @@
         ],
         "latitude": 7.007023,
         "longitude": 100.500628,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979842",
@@ -1457,7 +1596,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q99285616",
@@ -1467,7 +1607,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74527056",
@@ -1477,7 +1618,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q179146",
@@ -1487,7 +1629,8 @@
         "aliases": null,
         "latitude": 6.45698,
         "longitude": 101.78833,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979779",
@@ -1497,7 +1640,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979788",
@@ -1507,7 +1651,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q181918",
@@ -1517,7 +1662,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4361026",
@@ -1527,7 +1673,8 @@
         "aliases": null,
         "latitude": 18.810334,
         "longitude": 98.952673,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979840",
@@ -1537,7 +1684,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979841",
@@ -1547,7 +1695,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6583864",
@@ -1557,7 +1706,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13018826",
@@ -1567,7 +1717,8 @@
         "aliases": null,
         "latitude": 13.86387,
         "longitude": 100.48243,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13018822",
@@ -1577,7 +1728,8 @@
         "aliases": null,
         "latitude": 13.22936,
         "longitude": 100.95721,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13018814",
@@ -1590,7 +1742,8 @@
         ],
         "latitude": 13.7782,
         "longitude": 100.5571306,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6583860",
@@ -1602,7 +1755,8 @@
         ],
         "latitude": 14.03616,
         "longitude": 100.72628,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979727",
@@ -1612,7 +1766,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1185548",
@@ -1622,7 +1777,8 @@
         "aliases": null,
         "latitude": 13.756224,
         "longitude": 100.617425,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q474969",
@@ -1632,7 +1788,8 @@
         "aliases": null,
         "latitude": 13.964875,
         "longitude": 100.5864611,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979835",
@@ -1642,7 +1799,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13027435",
@@ -1652,7 +1810,8 @@
         "aliases": null,
         "latitude": 13.7843,
         "longitude": 100.5265,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q74527537",
@@ -1662,7 +1821,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100979708",
@@ -1672,7 +1832,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q283204",
@@ -1682,7 +1843,8 @@
         "aliases": null,
         "latitude": 17.1897489,
         "longitude": 104.0898585,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979761",
@@ -1692,7 +1854,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979762",
@@ -1702,7 +1865,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979763",
@@ -1712,7 +1876,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1541277",
@@ -1722,7 +1887,8 @@
         "aliases": null,
         "latitude": 14.0876095,
         "longitude": 100.4212832,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28112662",
@@ -1732,7 +1898,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q4381437",
@@ -1742,7 +1909,8 @@
         "aliases": null,
         "latitude": 13.7216667,
         "longitude": 100.4531944,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1209824",
@@ -1754,7 +1922,8 @@
         ],
         "latitude": 13.7531,
         "longitude": 100.490203,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979800",
@@ -1764,7 +1933,8 @@
         "aliases": null,
         "latitude": 13.8170044,
         "longitude": 100.042388,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13021118",
@@ -1776,7 +1946,8 @@
         ],
         "latitude": 13.726727,
         "longitude": 100.514372,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q100979709",
@@ -1786,7 +1957,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q611360",
@@ -1796,7 +1968,8 @@
         "aliases": null,
         "latitude": 14.068857,
         "longitude": 100.607423,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2128652",
@@ -1806,7 +1979,8 @@
         "aliases": null,
         "latitude": 15.11965,
         "longitude": 104.35911,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13021920",
@@ -1818,7 +1992,8 @@
         ],
         "latitude": 13.734158,
         "longitude": 100.532509,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q251989",
@@ -1828,7 +2003,8 @@
         "aliases": null,
         "latitude": 7.16788,
         "longitude": 100.61269,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1047745",
@@ -1840,7 +2016,8 @@
         ],
         "latitude": 13.745,
         "longitude": 100.565,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1627659",
@@ -1850,7 +2027,8 @@
         "aliases": null,
         "latitude": 13.8552681,
         "longitude": 100.5853218,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2329481",
@@ -1860,7 +2038,8 @@
         "aliases": null,
         "latitude": 13.7347,
         "longitude": 100.662,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13018784",
@@ -1872,7 +2051,8 @@
         ],
         "latitude": 13.77589,
         "longitude": 100.5103,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979718",
@@ -1882,7 +2062,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74551827",
@@ -1892,7 +2073,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2015579",
@@ -1902,7 +2084,8 @@
         "aliases": null,
         "latitude": 13.9102778,
         "longitude": 100.5366667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979816",
@@ -1912,7 +2095,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q670307",
@@ -1924,7 +2108,8 @@
         ],
         "latitude": 14.8729162,
         "longitude": 102.0236993,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979801",
@@ -1934,7 +2119,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28916358",
@@ -1946,7 +2132,8 @@
         ],
         "latitude": 9.158846,
         "longitude": 99.345764,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q13018787",
@@ -1958,7 +2145,8 @@
         ],
         "latitude": 9.08373,
         "longitude": 99.36359,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2393562",
@@ -1970,7 +2158,8 @@
         ],
         "latitude": 9.1264167,
         "longitude": 99.3181861,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q74536391",
@@ -1980,7 +2169,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100979720",
@@ -1990,7 +2180,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6633856",
@@ -2000,7 +2191,8 @@
         "aliases": null,
         "latitude": 13.764933,
         "longitude": 100.60518,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q21016421",
@@ -2010,7 +2202,8 @@
         "aliases": null,
         "latitude": 14.079009,
         "longitude": 100.601265,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q97225734",
@@ -2022,7 +2215,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1519674",
@@ -2032,7 +2226,8 @@
         "aliases": null,
         "latitude": 7.1631707,
         "longitude": 100.6089735,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q99285617",
@@ -2042,7 +2237,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1209733",
@@ -2058,7 +2254,8 @@
         ],
         "latitude": 13.7575,
         "longitude": 100.49,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979721",
@@ -2068,7 +2265,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979825",
@@ -2078,7 +2276,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q13021120",
@@ -2088,7 +2287,8 @@
         "aliases": null,
         "latitude": 13.742944,
         "longitude": 100.526766,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q13018790",
@@ -2098,7 +2298,8 @@
         "aliases": null,
         "latitude": 14.79966,
         "longitude": 100.622363,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q31352105",
@@ -2108,7 +2309,8 @@
         "aliases": null,
         "latitude": 13.7379917,
         "longitude": 100.4594022,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q18394263",
@@ -2118,7 +2320,8 @@
         "aliases": null,
         "latitude": 13.716313,
         "longitude": 100.347485,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13018786",
@@ -2128,7 +2331,8 @@
         "aliases": null,
         "latitude": 15.246795,
         "longitude": 104.848205,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2496176",
@@ -2138,7 +2342,8 @@
         "aliases": null,
         "latitude": 15.127344,
         "longitude": 104.919396,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q22704858",
@@ -2148,7 +2353,8 @@
         "aliases": null,
         "latitude": 17.3975,
         "longitude": 102.7941667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13018768",
@@ -2158,7 +2364,8 @@
         "aliases": null,
         "latitude": 19.028575,
         "longitude": 99.896251,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1799929",
@@ -2170,7 +2377,8 @@
         ],
         "latitude": 13.779839,
         "longitude": 100.560361,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2128674",
@@ -2180,7 +2388,8 @@
         "aliases": null,
         "latitude": 17.6327,
         "longitude": 100.093,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13018781",
@@ -2192,7 +2401,8 @@
         ],
         "latitude": 14.13331,
         "longitude": 100.61142,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q31350659",
@@ -2204,7 +2414,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4924344",
@@ -2214,7 +2425,8 @@
         "aliases": null,
         "latitude": 15.002435,
         "longitude": 102.117594,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q844581",
@@ -2224,7 +2436,8 @@
         "aliases": null,
         "latitude": 8.6410195,
         "longitude": 99.8972225,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979802",
@@ -2234,7 +2447,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6583865",
@@ -2244,7 +2458,8 @@
         "aliases": null,
         "latitude": 12.657058,
         "longitude": 99.851288,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q132131743",
@@ -2256,7 +2471,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100979770",
@@ -2266,7 +2482,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q8047291",
@@ -2276,6 +2493,7 @@
         "aliases": null,
         "latitude": 6.550524,
         "longitude": 101.28727,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

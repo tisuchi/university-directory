@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Central American Adventist University (Universidad Adventista de Centro America - UNADECA) is a Seventh-day Adventist co-educational university located in Alajuela, Costa Rica, and accredited by the Association of Private Universities of Central America and Panama (AUPRICA), the United Association of Private University Rectors of Costa Rica (UNIRE), and the Adventist Accrediting Association.\nIt is a part of the Seventh-day Adventist education system, the world's second largest Christian school system."
     },
     {
         "wikidata_id": "Q74558154",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q99517810",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": 9.966241,
         "longitude": -84.137582,
-        "type": "university"
+        "type": "university",
+        "description": "The Conservatorio de Castella (Castella Conservatory) is an arts institute located on the Pan American Highway, in Heredia, Costa Rica. In 2016 the school was honored by a Declaratoria de Benemérito de la Patria, (Declaration of Merit of the Homeland), which recognized the historical distinction of the school, and also provided for campuses of the school to be established in each of the seven provinces in Costa Rica."
     },
     {
         "wikidata_id": "Q5174858",
@@ -44,7 +47,8 @@
         ],
         "latitude": 9.8545474,
         "longitude": -83.9090366,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Costa Rica Institute of Technology (TEC) (Spanish: Tecnológico de Costa Rica) is a university in Costa Rica specializing in engineering and advanced science and research, modeled as an institute of technology. Its main campus is located in the Dulce Nombre district of Cartago canton in the Cartago Province of Costa Rica, 24 km (15 mi) east of the capital San José.\nThe TEC is a national autonomous institution of higher education, dedicated to teaching, research and extension in technology and associated sciences."
     },
     {
         "wikidata_id": "Q6156446",
@@ -59,7 +63,8 @@
         ],
         "latitude": 9.9407,
         "longitude": -84.0479,
-        "type": "university"
+        "type": "university",
+        "description": "The Distance State University (Universidad Estatal a Distancia) (UNED), is one of five public universities in the Republic of Costa Rica. It is in Mercedes, Montes de Oca. UNED is the second university in number of students, and it is the largest coverage in the country."
     },
     {
         "wikidata_id": "Q5322516",
@@ -71,7 +76,8 @@
         ],
         "latitude": 10.2199278,
         "longitude": -83.5917833,
-        "type": "university"
+        "type": "university",
+        "description": "EARTH University (Universidad EARTH, Escuela de Agricultura de la Región Tropical Húmeda) is a private, non-profit  university that offers one program of study: an undergraduate licenciatura degree in agricultural sciences."
     },
     {
         "wikidata_id": "Q20014874",
@@ -81,7 +87,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74543343",
@@ -91,7 +98,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5446836",
@@ -103,7 +111,8 @@
         ],
         "latitude": 9.9333889,
         "longitude": -84.0350278,
-        "type": "university"
+        "type": "university",
+        "description": "Fidélitas University is a private university in Lourdes, Montes de Oca, San José, Costa Rica. Fidelitas offers fifteen careers in various fields such as engineering, education, business, law and psychology."
     },
     {
         "wikidata_id": "Q74557725",
@@ -113,7 +122,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156489",
@@ -123,7 +133,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q31917701",
@@ -133,7 +144,8 @@
         "aliases": null,
         "latitude": 8.4503,
         "longitude": -83.49101,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6465335",
@@ -143,7 +155,8 @@
         "aliases": null,
         "latitude": 10.4486409,
         "longitude": -83.7822814,
-        "type": "university"
+        "type": "university",
+        "description": "La Suerte Biological Field School, located in Northeastern Costa Rica, is one of two field schools operated by the Maderas Rainforest Conservancy (the other being the Ometepe Biological Field School in Nicaragua). The site is situated in a tropical rainforest basin. It houses courses in primatology, ecology, botany, and other courses related to the flora and fauna of Northeastern Costa Rica."
     },
     {
         "wikidata_id": "Q255898",
@@ -158,7 +171,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Latin American Faculty of Social Sciences (Spanish: Facultad Latinoamericana de Ciencias Sociales, Portuguese: Faculdade Latino-Americana de Ciências Sociais or FLACSO) is a graduate-only university and inter-governmental autonomous organization for Latin America dedicated to research, teaching and spreading of social sciences. Headquartered in Costa Rica, it has several campuses and centers spread across Latin America.\nIt was created on April 17, 1957, following a UNESCO initiative at the Latin American Conference on Social Sciences in Rio de Janeiro."
     },
     {
         "wikidata_id": "Q6156516",
@@ -168,7 +182,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6496487",
@@ -178,7 +193,8 @@
         "aliases": null,
         "latitude": 9.9326,
         "longitude": -84.0433639,
-        "type": "university"
+        "type": "university",
+        "description": "Latin University of Costa Rica (Spanish: Universidad Latina de Costa Rica), commonly called ULatina, is the largest private university in Costa Rica, with more than 16,000 students enrolled in undergraduate and graduate programs in Business, Education, Engineering, Health Sciences, and Social Sciences. It was founded in 1989. The university is accredited by the National Council of Higher Education (CONESUP)."
     },
     {
         "wikidata_id": "Q2001178",
@@ -191,7 +207,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Instituto Nacional de Biodiversidad (INBio) is the national institute for biodiversity and conservation in Costa Rica. Created at the end of the 1980s, despite having national status, it is a privately run institution that works closely with various government agencies, universities, the business sector and other public and private entities inside and outside of the country. The goals of the institute are to complete an inventory of the natural heritage of Costa Rica, promote conservation and identify chemical compounds and genetic material present in living organisms that could be used by industries such as pharmaceuticals, cosmetics or others."
     },
     {
         "wikidata_id": "Q111487447",
@@ -204,7 +221,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q31867",
@@ -220,7 +238,8 @@
         ],
         "latitude": 9.999,
         "longitude": -84.1115,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Costa Rica (in Spanish, Universidad Nacional de Costa Rica, abbreviated UNA) is one of five public universities in the Republic of Costa Rica, in Central America. The main campus is located in the city of Heredia. According to recent international studies, The National University of Costa Rica ranks 85th in Latin America and 1576th in the world ."
     },
     {
         "wikidata_id": "Q31928852",
@@ -230,7 +249,8 @@
         "aliases": null,
         "latitude": 10.45135,
         "longitude": -85.1254,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q56811017",
@@ -240,7 +260,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5682829",
@@ -250,7 +271,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156441",
@@ -260,7 +282,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28517224",
@@ -270,7 +293,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17183894",
@@ -283,7 +307,8 @@
         ],
         "latitude": 9.8931194,
         "longitude": -83.6543528,
-        "type": "university"
+        "type": "university",
+        "description": "The Tropical Agricultural Research and Higher Education Center (Centro Agronómico Tropical de Investigación y Enseñanza or CATIE) is an international institute for agricultural development and biological conservation in Central America and the Caribbean, combining science, education and innovation. CATIE is the first graduate school in Agricultural Sciences in Latin America."
     },
     {
         "wikidata_id": "Q6156349",
@@ -293,7 +318,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29049248",
@@ -303,7 +329,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5407181",
@@ -315,7 +342,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894258",
@@ -325,7 +353,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad Cristiana del Sur (Southern Christian University) is a university in San José, Costa Rica. It offers Associate, Bachelor and Licentiate degrees under Ministry of Education accreditation and some other programs via articulation agreements.\nFounded in 1997 the university offers on-campus instruction in English, and Spanish."
     },
     {
         "wikidata_id": "Q7894323",
@@ -335,7 +364,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Medical Sciences (Spanish: Universidad de Ciencias Médicas, UCIMED) is a private medical university in San José, Costa Rica. It is the largest and oldest private medical school in Costa Rica. Currently the main campus is located in the country's capital."
     },
     {
         "wikidata_id": "Q23746441",
@@ -345,7 +375,8 @@
         "aliases": null,
         "latitude": 10.08631,
         "longitude": -84.47971,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74555988",
@@ -355,7 +386,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552173",
@@ -365,7 +397,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74537103",
@@ -375,7 +408,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74537973",
@@ -385,7 +419,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74537146",
@@ -395,7 +430,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74550848",
@@ -405,7 +441,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547173",
@@ -415,7 +452,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156821",
@@ -425,7 +463,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894260",
@@ -435,7 +474,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad Empresarial de Costa Rica, also known as UNEM or Business University of Costa Rica, is a private university in the city of San José, Costa Rica. It is approved by the Consejo Nacional de Enseñanza Superior Universitaria Privada, the national council of higher education of Costa Rica, to award undergraduate degrees in accounting and business administration, and master's degrees in business administration.\nThe degree programs offered by UNEM are not among those accredited by the Sistema Nacional de Acreditación de la Educación Superior (SINAES), the national accreditation agency of Costa Rica."
     },
     {
         "wikidata_id": "Q7894269",
@@ -447,7 +487,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Hispanoamericana is a major private university in San José, Costa Rica that specializes in business administration, engineering, psychology and medical studies. It was founded in 1982.\nThe programs, techniques, and facilities are modern — creating driven professionals with internationally recognised degrees."
     },
     {
         "wikidata_id": "Q6156477",
@@ -457,7 +498,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16644482",
@@ -467,7 +509,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74546042",
@@ -477,7 +520,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530704",
@@ -487,7 +531,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74537540",
@@ -497,7 +542,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74546081",
@@ -507,7 +553,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7894289",
@@ -517,7 +564,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The School for International Relations of the Universidad Nacional was born as a proposal of Father Dr. Benjamín Núñez, founder and first rector of the university.\nThe school for International Relations is nowadays one of the leading institutes in the study of international affairs in Costa Rica and in Central America."
     },
     {
         "wikidata_id": "Q7894313",
@@ -527,7 +575,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad San Juan de la Cruz, also known as San Juan de la Cruz University, is a private university located in Costa Rica. It is authorized and accredited by the Consejo Nacional de Enseñanza Superior Universitaria Privada, the national council of higher education of Costa Rica. It has been authorized to award degrees in accounting and business administration since 1996, and in law since 1998."
     },
     {
         "wikidata_id": "Q392774",
@@ -539,7 +588,8 @@
         ],
         "latitude": 9.9194444,
         "longitude": -84.2727778,
-        "type": "university"
+        "type": "university",
+        "description": "The University for Peace (UPEACE) is an international university and intergovernmental organization established as a treaty organisation by the United Nations General Assembly (UNGA) in 1980. The university offers postgraduate, doctoral, and executive programmes related to the study of peace and conflict, environment and development, and international law.\nThe headquarters of the University for Peace are located in a natural area near Ciudad Colón, Costa Rica."
     },
     {
         "wikidata_id": "Q1305486",
@@ -553,7 +603,8 @@
         ],
         "latitude": 9.9358333,
         "longitude": -84.0505556,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Costa Rica (Spanish: Universidad de Costa Rica, abbreviated UCR) is a public university in the Republic of Costa Rica, in Central America.  Its main campus, Ciudad Universitaria Rodrigo Facio,  is located in San Pedro Montes de Oca, in the province of San José.  It is the oldest and largest institution of higher learning in Costa Rica, originally established as the Universidad de Santo Tomás in 1843."
     },
     {
         "wikidata_id": "Q74550828",
@@ -565,7 +616,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74541674",
@@ -575,6 +627,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     }
 ]

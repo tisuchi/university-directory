@@ -11,7 +11,8 @@
         ],
         "latitude": -15.40327,
         "longitude": 28.27859,
-        "type": "university"
+        "type": "university",
+        "description": "Cavendish University Zambia (CUZ) is a private university located in Lusaka, Zambia. It was opened in 2004 as a subsidiary of Cavendish College London and is the first private university to operate in Zambia. The university is registered with the Higher Education Authority which is a grant aided institution established under the Higher Education Act No."
     },
     {
         "wikidata_id": "Q104880219",
@@ -21,7 +22,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Central Africa Baptist University is a private Christian university located in Kitwe, Zambia."
     },
     {
         "wikidata_id": "Q5062472",
@@ -31,7 +33,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Centre for Infectious Disease Research in Zambia (CIDRZ) is a non-profit organisation founded in 2001 as collaboration between the University of Alabama at Birmingham, USA, the Ministry of Health of Zambia and the University of Zambia School of Medicine. In 2011, CIDRZ became an independent, Zambian, non-governmental organisation able to collaborate with multiple local and international universities.\nCIDRZ has managed more than 100 grants supporting program implementation and research in key health areas, including HIV\/AIDS prevention and treatment, tuberculosis diagnosis and control, maternal and reproductive health, child and newborn care, and initiatives to strengthen health systems."
     },
     {
         "wikidata_id": "Q96374720",
@@ -43,7 +46,8 @@
         ],
         "latitude": -15.384,
         "longitude": 28.703,
-        "type": "university"
+        "type": "university",
+        "description": "Chalimbana University is located in Chongwe, Lusaka, Zambia.It was founded in 1939 as Jeanes Training Centre."
     },
     {
         "wikidata_id": "Q104844709",
@@ -55,7 +59,8 @@
         ],
         "latitude": -15.6691667,
         "longitude": 28.5497222,
-        "type": "university"
+        "type": "university",
+        "description": "Chreso University (CU) is a non-profit private higher-education institution located in the urban setting of the metropolis of Lusaka, Zambia. Established in 2010, this institution also has a branch campus in Ndola. Officially recognized by the Ministry of Higher Education of Zambia, Chreso University (CU) is a small (uniRank enrollment range: 2,000-2,999 students) coeducational Zambian higher education institution."
     },
     {
         "wikidata_id": "Q339314",
@@ -68,7 +73,8 @@
         ],
         "latitude": -12.8055556,
         "longitude": 28.2402778,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Copperbelt University is a public university in Kitwe, Zambia. It is the second largest public university in Zambia. The language of instruction at the university is English."
     },
     {
         "wikidata_id": "Q100948543",
@@ -78,7 +84,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948544",
@@ -88,7 +95,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948546",
@@ -98,7 +106,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948547",
@@ -108,7 +117,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948548",
@@ -118,7 +128,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5168854",
@@ -130,7 +141,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Copperstone University is located in Luanshya District, Copperbelt Province, Zambia (25 km north of Luanshya). It is on the Ndola-Kitwe Dual Carriageway (T3 Road). It was founded in 2004."
     },
     {
         "wikidata_id": "Q25043205",
@@ -142,7 +154,8 @@
         ],
         "latitude": -15.2944444,
         "longitude": 28.2691667,
-        "type": "university"
+        "type": "university",
+        "description": "DMI–St. Eugene university is a multi-campus private university in Zambia, that is affiliated with the Roman Catholic Archdiocese of Lusaka. The university is administered by the Daughters of Mary Immaculate."
     },
     {
         "wikidata_id": "Q17000225",
@@ -156,7 +169,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Evangelical University (EU), formerly known as Theological College of Central Africa (TCCA), is a private Christian university administered by the Evangelical Fellowship of Zambia (EFZ) located in Ndola in the Copperbelt Province of Zambia. The university was developed with a help from Africa Evangelical Fellowship (AEF) and the Evangelical Church in Zambia (ECZ).  It is one of the principal universities of Zambia."
     },
     {
         "wikidata_id": "Q100943881",
@@ -169,7 +183,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6373986",
@@ -179,7 +194,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Kasama College of Education (KACE) is a Zambian teacher training college situated in Kasama District, the provincial headquarters of Northern Province. The college is about three kilometers from the Kasama Central Business District, and is owned by the Zambian government through the Ministry of Higher Education."
     },
     {
         "wikidata_id": "Q104847179",
@@ -191,7 +207,8 @@
         ],
         "latitude": -15.385,
         "longitude": 28.3538889,
-        "type": "university"
+        "type": "university",
+        "description": "Levy Mwanawasa Medical University (LMMU), is a public university in Lusaka, Zambia. It is the country’s first ever specialized University for health studies."
     },
     {
         "wikidata_id": "Q57752822",
@@ -201,7 +218,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18378066",
@@ -213,7 +231,8 @@
         ],
         "latitude": -12.7228,
         "longitude": 28.1529,
-        "type": "university"
+        "type": "university",
+        "description": "Mukuba University is a public university in Garneton (Itimpi), Kitwe, Zambia. The Mukuba University, formerly Copperbelt Secondary Teachers College (COSETCO), was established in 1974 by the Ministry of Education to train Teachers of Science  for deployment in secondary schools around the country. Since its inception, COSETCO as an institution trained teachers of mathematics, natural sciences, and home economics."
     },
     {
         "wikidata_id": "Q3643633",
@@ -226,7 +245,8 @@
         ],
         "latitude": -14.4485,
         "longitude": 28.4456,
-        "type": "university"
+        "type": "university",
+        "description": "Mulungushi University is one of the public universities of Zambia. Previously known as the National College of Management and Development Studies, it was turned into a university by the Zambian Government in a public-private partnership with Konkola Copper Mines in 2008. The university consists of three campuses: the Main Campus, or Great North Road Campus, located 26 kilometers North of Kabwe on the banks of the Mulungushi River; the Town Campus, located along Mubanga Road, off Munkoyo Street, near the center of Kabwe town; and the Livingstone Campus, located within the Livingstone Hospital, which is home to the medical school."
     },
     {
         "wikidata_id": "Q100943885",
@@ -236,7 +256,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943887",
@@ -246,7 +267,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100948541",
@@ -256,7 +278,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948542",
@@ -266,7 +289,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q108068262",
@@ -276,7 +300,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7042646",
@@ -291,7 +316,8 @@
         ],
         "latitude": -15.4,
         "longitude": 28.3333333,
-        "type": "university"
+        "type": "university",
+        "description": "Kwame Nkrumah University (KNU) is a public university in Zambia."
     },
     {
         "wikidata_id": "Q2001151",
@@ -303,7 +329,8 @@
         ],
         "latitude": -12.980999,
         "longitude": 28.580012,
-        "type": "university"
+        "type": "university",
+        "description": "Northrise University is a private, Christ-Centered University in Ndola, Zambia. It was founded in 2003 by Dr. Moffat Zimba and Mrs."
     },
     {
         "wikidata_id": "Q39086437",
@@ -313,7 +340,8 @@
         "aliases": null,
         "latitude": -14.453,
         "longitude": 28.4451,
-        "type": "university"
+        "type": "university",
+        "description": "Paglory University is a Christian private university of education, that is located in the town of Kabwe, within the Central Province of Zambia."
     },
     {
         "wikidata_id": "Q48802955",
@@ -323,7 +351,8 @@
         "aliases": null,
         "latitude": -15.379,
         "longitude": 28.279,
-        "type": "university"
+        "type": "university",
+        "description": "Rockview University is privately owned and operated university located in Lusaka, Zambia. It is one of the fastest growing universities in Zambia and keeps seeing an exponential increase in the number of admissions each and every year. Every year, Rockview embarks on a country-wide interview program in which it awards bursaries to school leavers as well as those in service and would like to upgrade their studies."
     },
     {
         "wikidata_id": "Q7380634",
@@ -337,7 +366,8 @@
         ],
         "latitude": -16.2,
         "longitude": 27.484,
-        "type": "university"
+        "type": "university",
+        "description": "Rusangu University, formerly known as Zambia Adventist University, is a private coeducational Christian university based in Rusangu Mission near Monze in Zambia. It is owned and operated by the Seventh-day Adventist Church.  This is considered one of the best universities in Zambia and in Africa region."
     },
     {
         "wikidata_id": "Q100945370",
@@ -347,7 +377,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945371",
@@ -357,7 +388,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945375",
@@ -367,7 +399,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945379",
@@ -377,7 +410,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945381",
@@ -387,7 +421,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945384",
@@ -397,7 +432,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945386",
@@ -407,7 +443,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124433222",
@@ -417,7 +454,8 @@
         "aliases": null,
         "latitude": -14.04541,
         "longitude": 28.63056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100955870",
@@ -429,7 +467,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29026751",
@@ -441,7 +480,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Texila American University Zambia (TAU–Z) is a private university in Lusaka, Zambia, established in 2016 after gaining its charter from the Higher Education Authority (HEA) of Zambia. TAU–Z offers a comprehensive range of bachelor’s, master’s, and doctoral programs, particularly in medicine, public health, business administration, and information technology.\nThe university is a member of the Zambia Chamber of Commerce and Industry (ZACCI), the Association of African Universities (AAU), the Distance Education Association of Southern Africa (DEASA), and the Zambia Institute of Human Resource Management (ZIHRM)."
     },
     {
         "wikidata_id": "Q7888438",
@@ -451,7 +491,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The United Nations Institute for Namibia (UNIN) was an educational body set up by the United Nations Council for Namibia from 1976 to 1990. Based in Zambia's capital of Lusaka, UNIN was the brainchild of United Nations Commissioner for Namibia Seán MacBride, the proposal creating UNIN was adopted by the United Nations General Assembly in December 1974. The forerunner to the current University of Namibia, UNIN sought to educate Namibians for roles in an independent Republic of Namibia."
     },
     {
         "wikidata_id": "Q7895649",
@@ -464,7 +505,8 @@
         ],
         "latitude": -15.3919,
         "longitude": 28.3272,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2096836",
@@ -477,7 +519,8 @@
         ],
         "latitude": -15.3947222,
         "longitude": 28.3322222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948549",
@@ -487,7 +530,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948550",
@@ -497,7 +541,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131387466",
@@ -511,7 +556,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131387445",
@@ -525,7 +571,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948552",
@@ -535,7 +582,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948553",
@@ -545,7 +593,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100948554",
@@ -555,7 +604,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948555",
@@ -565,7 +615,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948556",
@@ -575,7 +626,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948557",
@@ -585,7 +637,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948558",
@@ -595,7 +648,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130546426",
@@ -607,7 +661,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q96413961",
@@ -617,7 +672,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q8065671",
@@ -629,7 +685,8 @@
         ],
         "latitude": -12.8383,
         "longitude": 28.0856,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q145487",
@@ -639,7 +696,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q145501",
@@ -651,7 +709,8 @@
         ],
         "latitude": -12.85517,
         "longitude": 28.35642,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q8065704",
@@ -664,6 +723,7 @@
         ],
         "latitude": -15.427,
         "longitude": 28.1995,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

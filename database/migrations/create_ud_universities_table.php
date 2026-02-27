@@ -20,6 +20,7 @@ return new class extends Migration
             $table->json('aliases')->nullable();
             $table->decimal('latitude', 10, 7)->nullable();
             $table->decimal('longitude', 10, 7)->nullable();
+            $table->text('description')->nullable();
             $table->timestamps();
 
             $table->index(['country_code', 'type']);

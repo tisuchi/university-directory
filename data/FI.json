@@ -11,7 +11,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "42 is a private institution of education in computer science founded by Xavier Niel, Nicolas Sadirac (former executive director at Epitech), Kwame Yamgnane, and Florian Bucher (former executives at Epitech). The school opened in Paris in 2013. The school does not have any professors and is open 24\/7."
     },
     {
         "wikidata_id": "Q300980",
@@ -36,7 +37,8 @@
         ],
         "latitude": 60.186111,
         "longitude": 24.828611,
-        "type": "university"
+        "type": "university",
+        "description": "Aalto University (Finnish: Aalto-yliopisto; Swedish: Aalto-universitetet) is a public research university located in Espoo, Finland. It was established in 2010 as a merger of three major Finnish universities: the Helsinki University of Technology, the Helsinki School of Economics and the University of Art and Design Helsinki. The close collaboration between the scientific, business and arts communities is intended to foster multi-disciplinary education and research."
     },
     {
         "wikidata_id": "Q2591673",
@@ -48,7 +50,8 @@
         ],
         "latitude": 60.2094444,
         "longitude": 24.9769444,
-        "type": "university"
+        "type": "university",
+        "description": "Aalto University School of Arts, Design and Architecture (Finnish: Aalto-yliopiston taiteiden ja suunnittelun korkeakoulu; Swedish: Aalto-universitetets högskola för konst, design och arkitektur) was formed of two separate schools: the faculty of architecture (previously part of the Helsinki University of Technology) and the University of Art and Design Helsinki (UIAH, known in Finnish as TaiK). TaiK, founded in 1871, was the largest art university in the Nordic countries. The university awards the following academic degrees: Bachelor of Science in Technology, Architect, Bachelor of Arts, Master of Arts, and Doctor of Arts."
     },
     {
         "wikidata_id": "Q4661412",
@@ -58,7 +61,8 @@
         "aliases": null,
         "latitude": 60.183649,
         "longitude": 24.822193,
-        "type": "university"
+        "type": "university",
+        "description": "Aalto University School of Engineering (Finnish: Aalto-yliopiston insinööritieteiden korkeakoulu, Swedish: Aalto-universitetets högskola för ingenjörsvetenskaper) is part of Aalto University. It is one of the four new schools of technology established on 1 January 2011 from Aalto University School of Science and Technology, formerly known as Helsinki University of Technology. The four new schools continue to offer education and research that promotes advances in science and technology."
     },
     {
         "wikidata_id": "Q109660034",
@@ -68,7 +72,8 @@
         "aliases": null,
         "latitude": 60.1820861,
         "longitude": 24.9605111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112593407",
@@ -78,7 +83,8 @@
         "aliases": null,
         "latitude": 60.596246,
         "longitude": 24.803989,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q108798566",
@@ -90,7 +96,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Alandica Shipping Academy (ASA) provides maritime education and training in Åland, Finland. It commenced operations in 2020. ASA offers basic and refresher courses for seafarers, as well as training at the vocational high school and college levels."
     },
     {
         "wikidata_id": "Q55026138",
@@ -100,7 +107,8 @@
         "aliases": null,
         "latitude": 65.0110508,
         "longitude": 25.4641396,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112650945",
@@ -110,7 +118,8 @@
         "aliases": null,
         "latitude": 60.4608214,
         "longitude": 24.8001319,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55027683",
@@ -120,7 +129,8 @@
         "aliases": null,
         "latitude": 63.3999613,
         "longitude": 22.4462485,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q82525049",
@@ -130,7 +140,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3330350",
@@ -149,7 +160,8 @@
         ],
         "latitude": 60.1631015,
         "longitude": 24.9465576,
-        "type": "university"
+        "type": "university",
+        "description": "The Architecture & Design Museum (also known as the AD Museum; formerly the Design Museum and the Museum of Applied Arts) is a museum in Helsinki devoted to the exhibition of both Finnish and foreign design and architecture, including industrial design, fashion, and graphic design. The building is situated in Kaartinkaupunki, on Korkeavuorenkatu Street, and is owned by the Republic of Finland through Senate Properties. The building was completed in 1895 and originally built as a school building for the Swedish-language school Läroverket för gossar och flickor."
     },
     {
         "wikidata_id": "Q4787499",
@@ -159,7 +171,8 @@
         "aliases": null,
         "latitude": 66.5075,
         "longitude": 25.725278,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Arctic Centre, University of Lapland is Finland’s national institute for Arctic expertise. It is based at the University of Lapland, the northernmost university in Finland and the EU, and is located in the Arktikum building by the Ounasjoki river in Rovaniemi near the Arctic Circle.\nThe Arctic Centre is internationally recognized for the quality and relevance of its multidisciplinary Arctic research."
     },
     {
         "wikidata_id": "Q11862189",
@@ -169,7 +182,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q90500259",
@@ -179,7 +193,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18694344",
@@ -192,7 +207,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q105442618",
@@ -205,7 +221,8 @@
         ],
         "latitude": 60.2216944,
         "longitude": 24.1706667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101094571",
@@ -217,7 +234,8 @@
         ],
         "latitude": 60.223,
         "longitude": 24.678,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74526714",
@@ -227,7 +245,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5492478",
@@ -237,7 +256,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5185954",
@@ -255,7 +275,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "CMI – Martti Ahtisaari Peace Foundation sr (in 2000–2021 Crisis Management Initiative ry) is an independent Finnish non-governmental organisation that works to prevent and resolve conflict through informal dialogue and mediation. Nobel Peace Prize laureate and former President of Finland Martti Ahtisaari founded CMI in 2000. CMI has offices in Helsinki and Brussels as well as a presence in selected countries."
     },
     {
         "wikidata_id": "Q11871066",
@@ -265,7 +286,8 @@
         "aliases": null,
         "latitude": 62.560123,
         "longitude": 25.879797,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5014065",
@@ -279,7 +301,8 @@
         ],
         "latitude": 60.17826,
         "longitude": 24.832871,
-        "type": "institute"
+        "type": "institute",
+        "description": "CSC – IT Center for Science Ltd. (also known as Finnish IT Center for Science, natively CSC – Tieteen tietotekniikan keskus Oy) provides IT support and modeling, computing and information services for academia, research institutes and companies in Finland. It is owned by the Finnish state and Finnish higher education institutions, administered by the Ministry of Education and Culture, and operated on a non-profit principle."
     },
     {
         "wikidata_id": "Q55026073",
@@ -289,7 +312,8 @@
         "aliases": null,
         "latitude": 65.0141747,
         "longitude": 25.466951,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q23869963",
@@ -299,7 +323,8 @@
         "aliases": null,
         "latitude": 62.23,
         "longitude": 25.7402894,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q31834120",
@@ -309,7 +334,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11868295",
@@ -319,7 +345,8 @@
         "aliases": null,
         "latitude": 62.229691,
         "longitude": 25.740869,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q109665459",
@@ -329,7 +356,8 @@
         "aliases": null,
         "latitude": 60.1991278,
         "longitude": 24.96905,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4353987",
@@ -342,7 +370,8 @@
         ],
         "latitude": 60.45502,
         "longitude": 22.27909,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Donner Institute for Research in Religious and Cultural History (or The Donner Institute, Swedish: Donnerska Institutet) is a private institute in Finland maintained by the Åbo Akademi University.  The Institute was founded in 1959 with an extensive donation by Uno and Olly Donner. It hosts the largest special library on Comparative Religion in the Nordic countries, supports research in the area of the Institute through grants, and organizes conferences and seminars."
     },
     {
         "wikidata_id": "Q7315105",
@@ -356,7 +385,8 @@
         ],
         "latitude": 60.1715522,
         "longitude": 24.9252036,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q41094318",
@@ -368,7 +398,8 @@
         ],
         "latitude": 60.183854,
         "longitude": 24.961891,
-        "type": "institute"
+        "type": "institute",
+        "description": "The European Centre of Excellence for Countering Hybrid Threats (Hybrid CoE; Finnish: Euroopan hybridiuhkien torjunnan osaamiskeskus) is a network-based international and independent hub for practitioners and experts based in Helsinki, Finland."
     },
     {
         "wikidata_id": "Q580400",
@@ -380,7 +411,8 @@
         ],
         "latitude": 41.344861,
         "longitude": 2.104244,
-        "type": "institute"
+        "type": "institute",
+        "description": "The European Forest Institute (EFI) is an international organization established by the European states.\nIt has 30 Member Countries, and c. 130 member organizations from 40 countries working in diverse research fields."
     },
     {
         "wikidata_id": "Q20083717",
@@ -392,7 +424,8 @@
         ],
         "latitude": 60.1645633,
         "longitude": 24.9383953,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55024558",
@@ -402,7 +435,8 @@
         "aliases": null,
         "latitude": 61.2156712,
         "longitude": 25.1335917,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q55019721",
@@ -412,7 +446,8 @@
         "aliases": null,
         "latitude": 60.8162449,
         "longitude": 23.6247808,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5477868",
@@ -422,7 +457,8 @@
         "aliases": null,
         "latitude": 60.456917,
         "longitude": 22.257614,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q112085352",
@@ -432,7 +468,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10501589",
@@ -444,7 +481,8 @@
         ],
         "latitude": 60.153611,
         "longitude": 25.054722,
-        "type": "university"
+        "type": "university",
+        "description": "Finnish Defence Forces International Centre FINCENT (Finnish: Puolustusvoimien kansainvälinen keskus PVKVK, Swedish: Försvarsmaktens internationella center) is a unit of Finnish Defense Forces located in Helsinki."
     },
     {
         "wikidata_id": "Q105592738",
@@ -454,7 +492,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3067270",
@@ -466,7 +505,8 @@
         ],
         "latitude": 60.178333,
         "longitude": 24.915,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Finnish Environment Institute (SYKE) (Finnish: Suomen ympäristökeskus, Swedish: Finlands miljöcentral) is a multidisciplinary research and expert institute under the Ministry of the Environment, Finland. SYKE has four office and research facilities in Helsinki, Oulu, Jyväskylä and Joensuu."
     },
     {
         "wikidata_id": "Q11857432",
@@ -482,7 +522,8 @@
         ],
         "latitude": 60.2281,
         "longitude": 25.02135,
-        "type": "institute"
+        "type": "institute",
+        "description": "Finnish Food Safety Authority (Evira, Finnish: Elintarviketurvallisuusvirasto, Swedish Livsmedelssäkerhetsverket)  is a centralised body operating under the Ministry of Agriculture and Forestry in Finland.   Its statutory purpose is to ensure food safety, promote animal health and welfare, and develop the prerequisites for plant and animal production, and plant health.\nThe authority was founded in 2006, and its first director general was Jaana Husu-Kallio."
     },
     {
         "wikidata_id": "Q1438364",
@@ -494,7 +535,8 @@
         ],
         "latitude": 60.2908333,
         "longitude": 25.0552778,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Finnish Forest Research Institute (Finnish: Metsäntutkimuslaitos, Swedish: Skogsforskningsinstitutet), known as Metla, is a subordinate agency to the Ministry of Agriculture and Forestry of the Government of Finland. It has statutory duties to promote, through research, the economical, ecological, and socially sustainable management and use of forests. Metla is one of Europe's largest forestry research institutes, with an annual budget of around €40 million and its regional network comprises 9 main research units across the country (in Joensuu, Kannus, Kolari, Loppi's Läyliäinen, Parkano, Savonlinna's Punkaharju, Rovaniemi, Suonenjoki and Vantaa)."
     },
     {
         "wikidata_id": "Q11890728",
@@ -506,7 +548,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5450776",
@@ -518,7 +561,8 @@
         ],
         "latitude": 60.1611111,
         "longitude": 24.5483333,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q31087137",
@@ -530,7 +574,8 @@
         ],
         "latitude": 60.16097,
         "longitude": 24.546,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Finnish Geospatial Research Institute (Finnish: Paikkatietokeskus), formerly Finnish Geodetic Institute (FGI, Finnish: Geodeettinen laitos, Swedish: Geodetiska institutet) is a research institute in Finland specializing in geodesy and geospatial information science and technology. It merged into the National Land Survey of Finland in 2015, when its name was changed. It is located in Masala, Kirkkonummi."
     },
     {
         "wikidata_id": "Q4115362",
@@ -544,7 +589,8 @@
         ],
         "latitude": 60.171671,
         "longitude": 24.924895,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4412217",
@@ -557,7 +603,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q21015571",
@@ -570,7 +617,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5397226",
@@ -580,7 +628,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124034194",
@@ -590,7 +639,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3266959",
@@ -604,7 +654,8 @@
         ],
         "latitude": 60.2040506,
         "longitude": 24.9612111,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q120089370",
@@ -614,7 +665,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q120089744",
@@ -626,7 +678,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q55055070",
@@ -636,7 +689,8 @@
         "aliases": null,
         "latitude": 60.8085048,
         "longitude": 23.7512386,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55021622",
@@ -651,7 +705,8 @@
         ],
         "latitude": 60.1656811,
         "longitude": 24.9416764,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55022806",
@@ -661,7 +716,8 @@
         "aliases": null,
         "latitude": 60.1879876,
         "longitude": 24.9435979,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55023940",
@@ -674,7 +730,8 @@
         ],
         "latitude": 60.170543,
         "longitude": 24.957087,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q113522272",
@@ -684,7 +741,8 @@
         "aliases": null,
         "latitude": 60.7358083,
         "longitude": 24.772895,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55025466",
@@ -694,7 +752,8 @@
         "aliases": null,
         "latitude": 61.4963179,
         "longitude": 23.7480634,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11859839",
@@ -704,7 +763,8 @@
         "aliases": null,
         "latitude": 60.8141,
         "longitude": 23.63455,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17489347",
@@ -718,7 +778,8 @@
         ],
         "latitude": 60.1802,
         "longitude": 24.8301,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q112593277",
@@ -728,7 +789,8 @@
         "aliases": null,
         "latitude": 60.615179,
         "longitude": 24.870984,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1558586",
@@ -744,7 +806,8 @@
         ],
         "latitude": 60.1708333,
         "longitude": 24.9241667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5710503",
@@ -754,7 +817,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11860196",
@@ -764,7 +828,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18658963",
@@ -774,7 +839,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1646874",
@@ -789,7 +855,8 @@
         ],
         "latitude": 60.1858333,
         "longitude": 24.8277778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q41776836",
@@ -799,7 +866,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55019970",
@@ -809,7 +877,8 @@
         "aliases": null,
         "latitude": 60.3416985,
         "longitude": 24.1872124,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q27991322",
@@ -819,7 +888,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q13570720",
@@ -833,7 +903,8 @@
         ],
         "latitude": 60.1708652,
         "longitude": 24.9579179,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112586497",
@@ -843,7 +914,8 @@
         "aliases": null,
         "latitude": 60.635489,
         "longitude": 24.853471,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11863962",
@@ -853,7 +925,8 @@
         "aliases": null,
         "latitude": 60.627449,
         "longitude": 24.854165,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112586572",
@@ -863,7 +936,8 @@
         "aliases": null,
         "latitude": 60.637488,
         "longitude": 24.867697,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55022716",
@@ -873,7 +947,8 @@
         "aliases": null,
         "latitude": 60.9971826,
         "longitude": 24.449848,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112589285",
@@ -883,7 +958,8 @@
         "aliases": null,
         "latitude": 60.633873,
         "longitude": 24.837235,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30296228",
@@ -896,7 +972,8 @@
         ],
         "latitude": 60.19139,
         "longitude": 24.903942,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute for Molecular Medicine Finland (FIMM) is an international research institute which investigates the molecular mechanism of diseases by methods involving genetics and medical systems biology. The research combines technology and high-level research with unique patients and biobank materials. The aim of FIMM is to transfer research data to medical use in healthcare, i.e."
     },
     {
         "wikidata_id": "Q3361959",
@@ -909,7 +986,8 @@
         ],
         "latitude": 60.1785481,
         "longitude": 24.9549936,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q115676010",
@@ -919,7 +997,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20918221",
@@ -929,7 +1008,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q108324315",
@@ -939,7 +1019,8 @@
         "aliases": null,
         "latitude": 60.3990661,
         "longitude": 25.1191568,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q109332632",
@@ -949,7 +1030,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30167281",
@@ -959,7 +1041,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q55078419",
@@ -969,7 +1052,8 @@
         "aliases": null,
         "latitude": 60.4565348,
         "longitude": 25.0802372,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55025021",
@@ -981,7 +1065,8 @@
         ],
         "latitude": 62.4661998,
         "longitude": 22.0293403,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55025033",
@@ -991,7 +1076,8 @@
         "aliases": null,
         "latitude": 64.2299878,
         "longitude": 27.7215223,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122828319",
@@ -1001,7 +1087,8 @@
         "aliases": null,
         "latitude": 60.1841618,
         "longitude": 24.9794428,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11871037",
@@ -1011,7 +1098,8 @@
         "aliases": null,
         "latitude": 60.449541,
         "longitude": 22.2834686,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q113699886",
@@ -1021,7 +1109,8 @@
         "aliases": null,
         "latitude": 62.29865,
         "longitude": 27.15267,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q138389060",
@@ -1031,7 +1120,8 @@
         "aliases": null,
         "latitude": 61.1224417,
         "longitude": 28.505791,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q113706723",
@@ -1041,7 +1131,8 @@
         "aliases": null,
         "latitude": 62.30124,
         "longitude": 27.13206,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q113952325",
@@ -1054,7 +1145,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q15695007",
@@ -1064,7 +1156,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55023429",
@@ -1074,7 +1167,8 @@
         "aliases": null,
         "latitude": 62.3733769,
         "longitude": 25.9382119,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100697744",
@@ -1084,7 +1178,8 @@
         "aliases": null,
         "latitude": 60.1833,
         "longitude": 24.601,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q109929485",
@@ -1094,7 +1189,8 @@
         "aliases": null,
         "latitude": 61.29864,
         "longitude": 29.887112,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q112594529",
@@ -1104,7 +1200,8 @@
         "aliases": null,
         "latitude": 60.90965,
         "longitude": 26.64015,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11886507",
@@ -1116,7 +1213,8 @@
         ],
         "latitude": 60.176953,
         "longitude": 24.948994,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1809949",
@@ -1131,7 +1229,8 @@
         ],
         "latitude": 61.06456,
         "longitude": 28.09024,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112586778",
@@ -1141,7 +1240,8 @@
         "aliases": null,
         "latitude": 60.626416,
         "longitude": 24.855357,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q98418365",
@@ -1154,7 +1254,8 @@
         ],
         "latitude": 60.170705,
         "longitude": 24.955929,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112650996",
@@ -1164,7 +1265,8 @@
         "aliases": null,
         "latitude": 60.3965903,
         "longitude": 24.6404558,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55596001",
@@ -1176,7 +1278,8 @@
         ],
         "latitude": 60.1744578,
         "longitude": 24.9605436,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55025780",
@@ -1186,7 +1289,8 @@
         "aliases": null,
         "latitude": 64.8011526,
         "longitude": 25.4178939,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28464215",
@@ -1198,7 +1302,8 @@
         ],
         "latitude": 62.2363058,
         "longitude": 25.7324491,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17382475",
@@ -1210,7 +1315,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q55078421",
@@ -1222,7 +1328,8 @@
         ],
         "latitude": 62.7898479,
         "longitude": 22.8308861,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11882005",
@@ -1232,7 +1339,8 @@
         "aliases": null,
         "latitude": 62.7699092,
         "longitude": 30.9720234,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5408511",
@@ -1242,7 +1350,8 @@
         "aliases": null,
         "latitude": 60.1905966,
         "longitude": 24.9059053,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20250085",
@@ -1255,7 +1364,8 @@
         ],
         "latitude": 69.0666667,
         "longitude": 27.0833333,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18760038",
@@ -1270,7 +1380,8 @@
         ],
         "latitude": 60.1955281,
         "longitude": 24.8737648,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112585866",
@@ -1280,7 +1391,8 @@
         "aliases": null,
         "latitude": 60.630369,
         "longitude": 24.857331,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30285087",
@@ -1293,7 +1405,8 @@
         ],
         "latitude": 60.172727,
         "longitude": 24.950374,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3041652",
@@ -1309,7 +1422,8 @@
         ],
         "latitude": 60.1536111,
         "longitude": 25.0547222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4354916",
@@ -1323,7 +1437,8 @@
         ],
         "latitude": 60.180278,
         "longitude": 24.826389,
-        "type": "institute"
+        "type": "institute",
+        "description": "From the beginning of 2015, the Centre for Metrology (MIKES) (Finnish: Mittatekniikan keskus; Swedish: Mätteknikcentralen) formerly the Centre for Metrology and Accreditation has been part of VTT Technical Research Centre of Finland Ltd. As the National Metrology Institute of Finland, MIKES is responsible for the implementation and development of the national measurement standards system and realisation of the SI units in Finland. MIKES designates other National Standards Laboratories in Finland."
     },
     {
         "wikidata_id": "Q6975115",
@@ -1336,7 +1451,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11894155",
@@ -1350,7 +1466,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18694264",
@@ -1363,7 +1480,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10595134",
@@ -1373,7 +1491,8 @@
         "aliases": null,
         "latitude": 60.0952778,
         "longitude": 19.9302778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55025693",
@@ -1383,7 +1502,8 @@
         "aliases": null,
         "latitude": 60.3268037,
         "longitude": 22.3975086,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74536379",
@@ -1393,7 +1513,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11895531",
@@ -1406,7 +1527,8 @@
         ],
         "latitude": 60.1632833,
         "longitude": 24.9512333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112651044",
@@ -1416,7 +1538,8 @@
         "aliases": null,
         "latitude": 60.5288569,
         "longitude": 24.9131475,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4411550",
@@ -1426,7 +1549,8 @@
         "aliases": null,
         "latitude": 60.4518833,
         "longitude": 22.279667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112583796",
@@ -1436,7 +1560,8 @@
         "aliases": null,
         "latitude": 60.5579308,
         "longitude": 24.973315,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55078420",
@@ -1448,7 +1573,8 @@
         ],
         "latitude": 60.1630953,
         "longitude": 24.9313409,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74547515",
@@ -1458,7 +1584,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q55025393",
@@ -1468,7 +1595,8 @@
         "aliases": null,
         "latitude": 65.0248969,
         "longitude": 25.4601006,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18661175",
@@ -1478,7 +1606,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11886586",
@@ -1488,7 +1617,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q120648625",
@@ -1498,7 +1628,8 @@
         "aliases": null,
         "latitude": 61.0589667,
         "longitude": 28.1963331,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q27991321",
@@ -1508,7 +1639,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q112586557",
@@ -1518,7 +1650,8 @@
         "aliases": null,
         "latitude": 60.639954,
         "longitude": 24.857014,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55024725",
@@ -1528,7 +1661,8 @@
         "aliases": null,
         "latitude": 60.3895066,
         "longitude": 25.6663269,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q42904159",
@@ -1541,7 +1675,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25453513",
@@ -1551,7 +1686,8 @@
         "aliases": null,
         "latitude": 60.616736,
         "longitude": 24.840846,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105617580",
@@ -1561,7 +1697,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q106327581",
@@ -1571,7 +1708,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q108578177",
@@ -1581,7 +1719,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q110646495",
@@ -1591,7 +1730,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112080291",
@@ -1601,7 +1741,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112081143",
@@ -1611,7 +1752,8 @@
         "aliases": null,
         "latitude": 60.1893333,
         "longitude": 24.11425,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112111131",
@@ -1621,7 +1763,8 @@
         "aliases": null,
         "latitude": 60.1760833,
         "longitude": 24.0895,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112111172",
@@ -1631,7 +1774,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q113542878",
@@ -1641,7 +1785,8 @@
         "aliases": null,
         "latitude": 62.96559,
         "longitude": 23.0055,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q115642110",
@@ -1651,7 +1796,8 @@
         "aliases": null,
         "latitude": 60.2248333,
         "longitude": 24.8091667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q116233416",
@@ -1661,7 +1807,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11854270",
@@ -1671,7 +1818,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11855677",
@@ -1681,7 +1829,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11855825",
@@ -1691,7 +1840,8 @@
         "aliases": null,
         "latitude": 60.4594444,
         "longitude": 26.9330556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11857641",
@@ -1701,7 +1851,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11863914",
@@ -1711,7 +1862,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11869691",
@@ -1721,7 +1873,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11874143",
@@ -1731,7 +1884,8 @@
         "aliases": null,
         "latitude": 60.4821502,
         "longitude": 22.2872843,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11875794",
@@ -1741,7 +1895,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11881479",
@@ -1751,7 +1906,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11882088",
@@ -1761,7 +1917,8 @@
         "aliases": null,
         "latitude": 60.449442,
         "longitude": 22.294994,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11884261",
@@ -1771,7 +1928,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11885741",
@@ -1781,7 +1939,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11896314",
@@ -1791,7 +1950,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11896317",
@@ -1801,7 +1961,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11896325",
@@ -1811,7 +1972,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11896327",
@@ -1821,7 +1983,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11896328",
@@ -1831,7 +1994,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11896330",
@@ -1841,7 +2005,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11896822",
@@ -1851,7 +2016,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11898820",
@@ -1861,7 +2027,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11898856",
@@ -1871,7 +2038,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11900273",
@@ -1881,7 +2049,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q122156814",
@@ -1891,7 +2060,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q123682805",
@@ -1901,7 +2071,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q124128199",
@@ -1911,7 +2082,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128200",
@@ -1921,7 +2093,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128201",
@@ -1931,7 +2104,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128202",
@@ -1941,7 +2115,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128203",
@@ -1951,7 +2126,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128204",
@@ -1961,7 +2137,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128205",
@@ -1971,7 +2148,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128206",
@@ -1981,7 +2159,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128207",
@@ -1991,7 +2170,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128209",
@@ -2001,7 +2181,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128210",
@@ -2011,7 +2192,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128211",
@@ -2021,7 +2203,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128212",
@@ -2031,7 +2214,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128213",
@@ -2041,7 +2225,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128214",
@@ -2051,7 +2236,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128215",
@@ -2061,7 +2247,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128216",
@@ -2071,7 +2258,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128217",
@@ -2081,7 +2269,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128219",
@@ -2091,7 +2280,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128220",
@@ -2101,7 +2291,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128222",
@@ -2111,7 +2302,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128224",
@@ -2121,7 +2313,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128225",
@@ -2131,7 +2324,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128226",
@@ -2141,7 +2335,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128227",
@@ -2151,7 +2346,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128228",
@@ -2161,7 +2357,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128229",
@@ -2171,7 +2368,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128230",
@@ -2181,7 +2379,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124128231",
@@ -2191,7 +2390,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125192946",
@@ -2201,7 +2401,8 @@
         "aliases": null,
         "latitude": 60.2498,
         "longitude": 24.9985,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134385739",
@@ -2211,7 +2412,8 @@
         "aliases": null,
         "latitude": 60.1925,
         "longitude": 24.9036,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136036043",
@@ -2221,7 +2423,8 @@
         "aliases": null,
         "latitude": 62.02596,
         "longitude": 24.508608,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136907991",
@@ -2231,7 +2434,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q136996740",
@@ -2241,7 +2445,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q136996750",
@@ -2251,7 +2456,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q137777956",
@@ -2261,7 +2467,8 @@
         "aliases": null,
         "latitude": 63.0905556,
         "longitude": 21.6175,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q137778917",
@@ -2271,7 +2478,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q137887422",
@@ -2281,7 +2489,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q138011503",
@@ -2291,7 +2500,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q138201584",
@@ -2301,7 +2511,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q138201585",
@@ -2311,7 +2522,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q138201603",
@@ -2321,7 +2533,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q138201604",
@@ -2331,7 +2544,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q138201605",
@@ -2341,7 +2555,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q138201606",
@@ -2351,7 +2566,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q138201609",
@@ -2361,7 +2577,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q14116182",
@@ -2371,7 +2588,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q17383286",
@@ -2381,7 +2599,8 @@
         "aliases": null,
         "latitude": 61.4944467,
         "longitude": 23.7523069,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18450798",
@@ -2391,7 +2610,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18659110",
@@ -2401,7 +2621,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18659274",
@@ -2411,7 +2632,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18660767",
@@ -2421,7 +2643,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18661507",
@@ -2431,7 +2654,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18661998",
@@ -2441,7 +2665,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18662582",
@@ -2453,7 +2678,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18663019",
@@ -2463,7 +2689,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18694288",
@@ -2473,7 +2700,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18694330",
@@ -2483,7 +2711,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18694355",
@@ -2493,7 +2722,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q23045133",
@@ -2503,7 +2733,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q28721149",
@@ -2513,7 +2744,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q28721517",
@@ -2523,7 +2755,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q31086129",
@@ -2533,7 +2766,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q31087035",
@@ -2543,7 +2777,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q31087161",
@@ -2553,7 +2788,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3376199",
@@ -2563,7 +2799,8 @@
         "aliases": null,
         "latitude": 61.0989004,
         "longitude": 22.3364193,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q422070",
@@ -2573,7 +2810,8 @@
         "aliases": null,
         "latitude": 61.4816917,
         "longitude": 21.789975,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q43181997",
@@ -2583,7 +2821,8 @@
         "aliases": null,
         "latitude": 61.5541667,
         "longitude": 23.5866667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q52424386",
@@ -2593,7 +2832,8 @@
         "aliases": null,
         "latitude": 62.2463889,
         "longitude": 25.7497222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5484023",
@@ -2603,7 +2843,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q56302024",
@@ -2613,7 +2854,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q56401073",
@@ -2623,7 +2865,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q65240295",
@@ -2633,7 +2876,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q65245771",
@@ -2643,7 +2887,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q71546032",
@@ -2655,7 +2900,8 @@
         ],
         "latitude": 62.25003,
         "longitude": 24.44345,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q85485356",
@@ -2665,7 +2911,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q86042395",
@@ -2675,7 +2922,8 @@
         "aliases": null,
         "latitude": 61.49261,
         "longitude": 21.79884,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97197353",
@@ -2685,7 +2933,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97200804",
@@ -2695,7 +2944,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q97340887",
@@ -2705,7 +2955,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97340900",
@@ -2715,7 +2966,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q97341280",
@@ -2725,7 +2977,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q99694130",
@@ -2735,7 +2988,8 @@
         "aliases": null,
         "latitude": 61.4714111,
         "longitude": 23.6884528,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q99694329",
@@ -2745,7 +2999,8 @@
         "aliases": null,
         "latitude": 61.4709583,
         "longitude": 23.6883694,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112651124",
@@ -2755,7 +3010,8 @@
         "aliases": null,
         "latitude": 60.5290686,
         "longitude": 24.7539644,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112651103",
@@ -2765,7 +3021,8 @@
         "aliases": null,
         "latitude": 60.5289981,
         "longitude": 24.7553308,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112651110",
@@ -2775,7 +3032,8 @@
         "aliases": null,
         "latitude": 60.5289981,
         "longitude": 24.7553308,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q414481",
@@ -2787,7 +3045,8 @@
         ],
         "latitude": 60.4516444,
         "longitude": 22.2798778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4201398",
@@ -2799,7 +3058,8 @@
         ],
         "latitude": 60.1704,
         "longitude": 24.9317,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q98433056",
@@ -2813,7 +3073,8 @@
         ],
         "latitude": 60.179289,
         "longitude": 24.921657,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q110935154",
@@ -2823,7 +3084,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55596038",
@@ -2833,7 +3095,8 @@
         "aliases": null,
         "latitude": 62.8923292,
         "longitude": 27.6298263,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55595978",
@@ -2843,7 +3106,8 @@
         "aliases": null,
         "latitude": 59.9745857,
         "longitude": 23.4509959,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55595975",
@@ -2853,7 +3117,8 @@
         "aliases": null,
         "latitude": 60.46073,
         "longitude": 25.089219,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55595999",
@@ -2863,7 +3128,8 @@
         "aliases": null,
         "latitude": 64.1423541,
         "longitude": 25.4225689,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55595995",
@@ -2873,7 +3139,8 @@
         "aliases": null,
         "latitude": 60.5348769,
         "longitude": 27.5527178,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55595993",
@@ -2883,7 +3150,8 @@
         "aliases": null,
         "latitude": 61.2055309,
         "longitude": 26.0303281,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55595980",
@@ -2893,7 +3161,8 @@
         "aliases": null,
         "latitude": 60.1709112,
         "longitude": 24.950271,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55595974",
@@ -2903,7 +3172,8 @@
         "aliases": null,
         "latitude": 64.2299221,
         "longitude": 27.7214097,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55596062",
@@ -2913,7 +3183,8 @@
         "aliases": null,
         "latitude": 60.4822504,
         "longitude": 22.2871938,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55595979",
@@ -2923,7 +3194,8 @@
         "aliases": null,
         "latitude": 60.9775398,
         "longitude": 25.6343727,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55595991",
@@ -2933,7 +3205,8 @@
         "aliases": null,
         "latitude": 61.115763,
         "longitude": 24.3233261,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55595996",
@@ -2943,7 +3216,8 @@
         "aliases": null,
         "latitude": 60.8190101,
         "longitude": 23.7687732,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55596059",
@@ -2953,7 +3227,8 @@
         "aliases": null,
         "latitude": 60.3264552,
         "longitude": 22.3968155,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55596014",
@@ -2963,7 +3238,8 @@
         "aliases": null,
         "latitude": 60.9986298,
         "longitude": 24.4618319,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55595984",
@@ -2973,7 +3249,8 @@
         "aliases": null,
         "latitude": 60.9649776,
         "longitude": 24.4926299,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55595961",
@@ -2983,7 +3260,8 @@
         "aliases": null,
         "latitude": 64.6934853,
         "longitude": 24.4671525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55595998",
@@ -2993,7 +3271,8 @@
         "aliases": null,
         "latitude": 60.7357007,
         "longitude": 24.7740847,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55595962",
@@ -3003,7 +3282,8 @@
         "aliases": null,
         "latitude": 61.1311523,
         "longitude": 21.4960963,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55596041",
@@ -3013,7 +3293,8 @@
         "aliases": null,
         "latitude": 62.6671557,
         "longitude": 25.3098293,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55596061",
@@ -3023,7 +3304,8 @@
         "aliases": null,
         "latitude": 60.2556628,
         "longitude": 22.9574086,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55596000",
@@ -3033,7 +3315,8 @@
         "aliases": null,
         "latitude": 62.546952,
         "longitude": 24.1399867,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55595983",
@@ -3046,7 +3329,8 @@
         ],
         "latitude": 60.175226,
         "longitude": 24.947817,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55596043",
@@ -3056,7 +3340,8 @@
         "aliases": null,
         "latitude": 60.4534295,
         "longitude": 22.2835067,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55024602",
@@ -3066,7 +3351,8 @@
         "aliases": null,
         "latitude": 61.1142462,
         "longitude": 26.0082714,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55048925",
@@ -3076,7 +3362,8 @@
         "aliases": null,
         "latitude": 62.8989559,
         "longitude": 27.6876698,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55021460",
@@ -3086,7 +3373,8 @@
         "aliases": null,
         "latitude": 64.2518449,
         "longitude": 27.731522,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q518851",
@@ -3107,7 +3395,8 @@
         ],
         "latitude": 60.1716667,
         "longitude": 24.9325,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q96623168",
@@ -3117,7 +3406,8 @@
         "aliases": null,
         "latitude": 60.7316752,
         "longitude": 28.6976838,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10511376",
@@ -3127,7 +3417,8 @@
         "aliases": null,
         "latitude": 60.216763,
         "longitude": 24.8909,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q102382899",
@@ -3137,7 +3428,8 @@
         "aliases": null,
         "latitude": 60.148,
         "longitude": 24.666,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11894595",
@@ -3147,7 +3439,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55026769",
@@ -3157,7 +3450,8 @@
         "aliases": null,
         "latitude": 67.1529823,
         "longitude": 27.2835516,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112589267",
@@ -3167,7 +3461,8 @@
         "aliases": null,
         "latitude": 60.629467,
         "longitude": 24.837604,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55024849",
@@ -3177,7 +3472,8 @@
         "aliases": null,
         "latitude": 63.8361265,
         "longitude": 23.1307123,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10685597",
@@ -3190,7 +3486,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7681760",
@@ -3202,7 +3499,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q56403399",
@@ -3215,7 +3513,8 @@
         ],
         "latitude": 61.4494444,
         "longitude": 23.86,
-        "type": "university"
+        "type": "university",
+        "description": "Tampere University (Finnish: Tampereen yliopisto, shortened TAU) is a multidisclipinary public university located in the city of Tampere, Finland. It is the second largest university in the country by student enrollment.\nThe university was established on January 1, 2019, as a merger between the former University of Tampere and Tampere University of Technology."
     },
     {
         "wikidata_id": "Q277664",
@@ -3227,7 +3526,8 @@
         ],
         "latitude": 61.4494444,
         "longitude": 23.86,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18662302",
@@ -3237,7 +3537,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q113519389",
@@ -3247,7 +3548,8 @@
         "aliases": null,
         "latitude": 60.7330914,
         "longitude": 24.764665,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4349860",
@@ -3260,7 +3562,8 @@
         ],
         "latitude": 60.2,
         "longitude": 24.9264,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74544529",
@@ -3270,7 +3573,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10585127",
@@ -3282,7 +3586,8 @@
         ],
         "latitude": 61.92411,
         "longitude": 25.748151,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q55027427",
@@ -3292,7 +3597,8 @@
         "aliases": null,
         "latitude": 65.8528594,
         "longitude": 24.1397784,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4411694",
@@ -3302,7 +3608,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "Turku Centre for Computer Science (abbr. TUCS, Finnish: Turun tietotekniikan tutkimus- ja koulutuskeskus, Swedish: Åbo datatekniska forsknings- och utbildningscentrum) is a joint department of University of Turku and Åbo Akademi University. TUCS was founded on March 21, 1994."
     },
     {
         "wikidata_id": "Q19152599",
@@ -3314,7 +3621,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Applied Sciences (UAS; Finnish: ammattikorkeakoulu (AMK); Swedish: yrkeshögskola) in Finland is a type of institute of higher education offering tertiary level instruction with a heavy emphasis on professional practice. The UAS are qualitatively different from Finnish universities.\nUnlike universities, the UAS focus on R&D by applying previous knowledge, rather than scientific discovery."
     },
     {
         "wikidata_id": "Q2093139",
@@ -3328,7 +3636,8 @@
         ],
         "latitude": 62.8925,
         "longitude": 27.6783,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28695",
@@ -3351,7 +3660,8 @@
         ],
         "latitude": 60.1694444,
         "longitude": 24.95,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55024020",
@@ -3364,7 +3674,8 @@
         ],
         "latitude": 60.1727258,
         "longitude": 24.9522417,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1393776",
@@ -3376,7 +3687,8 @@
         ],
         "latitude": 60.1695265,
         "longitude": 24.9504274,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3238666",
@@ -3386,7 +3698,8 @@
         "aliases": null,
         "latitude": 62.6027781,
         "longitude": 29.7472219,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q578326",
@@ -3400,7 +3713,8 @@
         ],
         "latitude": 62.23625,
         "longitude": 25.7326667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q9091642",
@@ -3412,7 +3726,8 @@
         ],
         "latitude": 62.8922219,
         "longitude": 27.6333331,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1742604",
@@ -3428,7 +3743,8 @@
         ],
         "latitude": 66.4853,
         "longitude": 25.7149,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1357517",
@@ -3443,7 +3759,8 @@
         ],
         "latitude": 65.0666667,
         "longitude": 25.45,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Oulu (Finnish: Oulun yliopisto) is one of the largest universities in Finland, located in the city of Oulu. It was founded on July 8, 1958. The university has around 14,200 students and 3,800 staff."
     },
     {
         "wikidata_id": "Q1544881",
@@ -3457,7 +3774,8 @@
         ],
         "latitude": 61.4941667,
         "longitude": 23.7780556,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Tampere (UTA) (Finnish: Tampereen yliopisto (Tay), Latin: Universitas Tamperensis) was a public university in Tampere, Finland that was merged with Tampere University of Technology to create the new Tampere University on 1 January 2019.\nThe university offered undergraduate, postgraduate and doctoral programmes with 20,178 degree students and 1,981 employees as of 2016. Founded in 1925 in Helsinki as the Civic College (Finnish: Kansalaiskorkeakoulu) and from 1930 onwards known as the School of Social Sciences (Finnish: Yhteiskunnallinen korkeakoulu), the institution relocated to Tampere in 1960 and was renamed as the University of Tampere in 1966."
     },
     {
         "wikidata_id": "Q4352418",
@@ -3473,7 +3791,8 @@
         ],
         "latitude": 60.17406,
         "longitude": 24.9346,
-        "type": "university"
+        "type": "university",
+        "description": "The University of the Arts Helsinki (Finnish: Taideyliopisto, Swedish: Konstuniversitetet), also known as Uniarts Helsinki, is a Finnish arts university that was launched in the beginning of 2013. Apart from a few exceptions, it is the only university in Finland that provides education in the fields it represents.\nThe University of the Arts Helsinki is located mainly in Helsinki, but it also has operations in Kuopio (department of church music) and Seinäjoki at the University Consortium of Seinäjoki (department of popular and folk music)."
     },
     {
         "wikidata_id": "Q501841",
@@ -3489,7 +3808,8 @@
         ],
         "latitude": 60.4541667,
         "longitude": 22.2847222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q63455753",
@@ -3502,7 +3822,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131692243",
@@ -3518,7 +3839,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1724372",
@@ -3532,7 +3854,8 @@
         ],
         "latitude": 63.1055,
         "longitude": 21.5929,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112651061",
@@ -3542,7 +3865,8 @@
         "aliases": null,
         "latitude": 60.4464594,
         "longitude": 24.7082881,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55023960",
@@ -3554,7 +3878,8 @@
         ],
         "latitude": 63.0923583,
         "longitude": 21.615999,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q109458790",
@@ -3564,7 +3889,8 @@
         "aliases": null,
         "latitude": 60.5689724,
         "longitude": 27.1899114,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111704031",
@@ -3576,7 +3902,8 @@
         ],
         "latitude": 60.2966093,
         "longitude": 25.0409523,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4356162",
@@ -3586,7 +3913,8 @@
         "aliases": null,
         "latitude": 63.0944399,
         "longitude": 21.6085832,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q56357594",
@@ -3596,7 +3924,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q55055145",
@@ -3606,7 +3935,8 @@
         "aliases": null,
         "latitude": 63.6001522,
         "longitude": 27.3326737,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112587022",
@@ -3616,7 +3946,8 @@
         "aliases": null,
         "latitude": 60.642797,
         "longitude": 24.863874,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1791348",
@@ -3629,7 +3960,8 @@
         ],
         "latitude": 60.1864774,
         "longitude": 24.8133327,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30560594",
@@ -3639,7 +3971,8 @@
         "aliases": null,
         "latitude": 60.3460505,
         "longitude": 24.2708503,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74454254",
@@ -3649,7 +3982,8 @@
         "aliases": null,
         "latitude": 60.1744537,
         "longitude": 24.9605869,
-        "type": "university"
+        "type": "university",
+        "description": "War College (Finnish: Sotakorkeakoulu, abbreviated SKK) is a Finnish war college, nowadays the senior part of the National Defence University. The college was an independent organisation from 1924 to 1992. Founded first as a temporary institute, it was made permanent in 1930."
     },
     {
         "wikidata_id": "Q4411952",
@@ -3661,7 +3995,8 @@
         ],
         "latitude": 60.1653333,
         "longitude": 24.9638889,
-        "type": "institute"
+        "type": "institute",
+        "description": "The United Nations University World Institute for Development Economics Research (UNU-WIDER) is part of the United Nations University (UNU). UNU-WIDER, the first research and training centre to be established by the UNU, is an international academic organization set up with the aim of promoting peace and progress by bringing together leading scholars from around the world to tackle pressing global problems."
     },
     {
         "wikidata_id": "Q917874",
@@ -3675,7 +4010,8 @@
         ],
         "latitude": 60.4538889,
         "longitude": 22.2786111,
-        "type": "university"
+        "type": "university",
+        "description": "Åbo Akademi University (Swedish: Åbo Akademi [ˈǒːbʊ akadɛˈmiː], Finland Swedish: [ˈoːbu ɑkɑdeˈmiː]) is the only exclusively Swedish language multi-faculty university in Finland (or anywhere outside Sweden). It is located mainly in Turku (Åbo is the Swedish name of the city) but has also activities in Vaasa. Åbo Akademi should not be confused with the Royal Academy of Åbo, which was founded in 1640, but moved to Helsinki after the Turku fire of 1827 and is today known as the University of Helsinki."
     },
     {
         "wikidata_id": "Q55025263",
@@ -3685,7 +4021,8 @@
         "aliases": null,
         "latitude": 63.0979883,
         "longitude": 21.6065405,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5477245",
@@ -3698,6 +4035,7 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Åland Islands Peace Institute in Mariehamn, Finland, conducts projects and research into peace and conflict issues in a broadly defined sense from the vantage-point of Åland and the special status that Åland enjoys under international law. It focuses on autonomy in various forms, -minority-related issues, demilitarisation and conflict management. The Institute was founded in 1992 as an independent charitable foundation."
     }
 ]

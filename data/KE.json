@@ -9,7 +9,8 @@
         ],
         "latitude": -1.401239,
         "longitude": 36.722595,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16250182",
@@ -22,7 +23,8 @@
         ],
         "latitude": -1.301763,
         "longitude": 36.689759,
-        "type": "university"
+        "type": "university",
+        "description": "Africa International University is a Christian university in Karen, Nairobi, Kenya."
     },
     {
         "wikidata_id": "Q100946582",
@@ -32,7 +34,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4689577",
@@ -44,7 +47,8 @@
         ],
         "latitude": -1.401424,
         "longitude": 36.789923,
-        "type": "university"
+        "type": "university",
+        "description": "Africa Nazarene University is a private Christian-founded university in, Kenya, and an affiliate of The Church of the Nazarene Colleges and Universities around the world. Africa Nazarene University is fully accredited by the Commission for University Education and the International Board of Education."
     },
     {
         "wikidata_id": "Q22110458",
@@ -54,7 +58,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30267817",
@@ -66,7 +71,8 @@
         ],
         "latitude": -1.289562,
         "longitude": 36.807289,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100943509",
@@ -76,7 +82,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q48816436",
@@ -88,7 +95,8 @@
         ],
         "latitude": -1.3192778,
         "longitude": 36.8099167,
-        "type": "university"
+        "type": "university",
+        "description": "Amref International University  is located in Nairobi in Kenya.It is run by Amref Health Africa"
     },
     {
         "wikidata_id": "Q4809868",
@@ -98,7 +106,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Association of International Schools in Africa (AISA) is a professional association of international schools in Africa. It was founded in 1969."
     },
     {
         "wikidata_id": "Q111913897",
@@ -108,7 +117,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Bomet University College (BUC) is a Constituent College of Moi University established under a Legal Notice Number 145 of 27 July 2017. Bomet University College is the first public University in Bomet County and is strategically placed at the heart of Bomet Town, Bomet County, Kenya. Its establishment is a step towards the realization of a fully-fledged University in line with the government policy to establish at least one University in every County in Kenya."
     },
     {
         "wikidata_id": "Q100943516",
@@ -118,7 +128,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946588",
@@ -128,7 +139,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16258266",
@@ -141,7 +153,8 @@
         ],
         "latitude": -0.3191667,
         "longitude": 37.65725,
-        "type": "university"
+        "type": "university",
+        "description": "Chuka University is a public university in Kenya."
     },
     {
         "wikidata_id": "Q5156380",
@@ -151,7 +164,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Compit Educational Centre, or Compit for short, is a privately-operated Islamic primary and secondary day school located in Easleigh, Nairobi, Kenya."
     },
     {
         "wikidata_id": "Q5157222",
@@ -161,7 +175,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5243437",
@@ -175,7 +190,8 @@
         ],
         "latitude": -1.2975278,
         "longitude": 36.8022778,
-        "type": "university"
+        "type": "university",
+        "description": "Daystar University is a private Christian liberal arts university in Nairobi.\nDaystar's original campus is close to Nairobi city centre, but there was no room to expand at that location.  Therefore, in 1992 a new campus was  built at Athi River, some 40 km to the south-east of the city,  5km off Mombasa Road which became the main campus."
     },
     {
         "wikidata_id": "Q100943526",
@@ -185,7 +201,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943531",
@@ -195,7 +212,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943536",
@@ -205,7 +223,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5249724",
@@ -219,7 +238,8 @@
         ],
         "latitude": -0.395307,
         "longitude": 36.962371,
-        "type": "university"
+        "type": "university",
+        "description": "Dedan Kimathi University of Technology (or DeKUT) is a public university in Nyeri, Kenya. It is one of 22 public universities in Kenya, having started as a constituent college of Jomo Kenyatta University of Agriculture and Technology since the year 2007 until it was chartered to become a fully fledged public university on 14 December 2012.\nIt was the first university in Kenya to be chartered under the new universities act of 2012 and the eighth public university to be established in the country."
     },
     {
         "wikidata_id": "Q100946731",
@@ -229,7 +249,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946732",
@@ -239,7 +260,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943538",
@@ -249,7 +271,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3915401",
@@ -263,7 +286,8 @@
         ],
         "latitude": -0.369685,
         "longitude": 35.935847,
-        "type": "university"
+        "type": "university",
+        "description": "Egerton University is a public university in Kenya. It is the oldest institution of higher education in Kenya."
     },
     {
         "wikidata_id": "Q100945101",
@@ -273,7 +297,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945103",
@@ -283,7 +308,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q27825700",
@@ -300,7 +326,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q127447429",
@@ -312,7 +339,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19749298",
@@ -325,7 +353,8 @@
         ],
         "latitude": -0.449019,
         "longitude": 39.6619,
-        "type": "university"
+        "type": "university",
+        "description": "Garissa University is a public university in Garissa, Kenya. Its charter was awarded on October 23, 2017, by President Uhuru Muigai Kenyatta."
     },
     {
         "wikidata_id": "Q5599489",
@@ -337,7 +366,8 @@
         ],
         "latitude": -0.1075556,
         "longitude": 34.7680278,
-        "type": "university"
+        "type": "university",
+        "description": "Great Lakes University of Kisumu (or GLUK) is a Kenyan private chartered  university. The idea of establishing the Great Lakes University of Kisumu originated in the Tropical Institute of Community Health and Development (TICH) in Africa, which spearheaded the application for authority to operate as a university. The establishment of TICH in 1998 was inspired by a number of sources expressing the need for a formal course in Community Based Health Care leading to a recognized academic qualification."
     },
     {
         "wikidata_id": "Q5607783",
@@ -349,7 +379,8 @@
         ],
         "latitude": -1.053184,
         "longitude": 37.094411,
-        "type": "university"
+        "type": "university",
+        "description": "Gretsa University is a private university in Thika Municipality in Kenya that provides certificate, diploma and degree programmes."
     },
     {
         "wikidata_id": "Q16979416",
@@ -362,7 +393,8 @@
         ],
         "latitude": -1.269312,
         "longitude": 36.819878,
-        "type": "university"
+        "type": "university",
+        "description": "The International University of Professional Studies (IUPS), formerly known as Inoorero University (IU), was a university located in Nairobi in Kenya. It was formerly a middle-level college."
     },
     {
         "wikidata_id": "Q100946590",
@@ -372,7 +404,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30281921",
@@ -384,7 +417,8 @@
         ],
         "latitude": -1.337249,
         "longitude": 36.71508,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6049130",
@@ -398,7 +432,8 @@
         ],
         "latitude": 1.2219343,
         "longitude": 36.8966543,
-        "type": "institute"
+        "type": "institute",
+        "description": "The International Centre of Insect Physiology and Ecology (ICIPE, branded as icipe) is an international scientific research institute, headquartered in Nairobi, Kenya that works towards improving lives and livelihoods of people in Africa.\nIcipe was founded in 1970 by a Kenyan entomologist, Thomas Odhiambo, with strong encouragement from Carl Djerassi, a professor of Chemistry at Stanford University.\nIcipe is a member of Association of International Research and Development Centers for Agriculture (AIRCA)."
     },
     {
         "wikidata_id": "Q6049135",
@@ -410,7 +445,8 @@
         ],
         "latitude": -1.062755,
         "longitude": 37.157831,
-        "type": "university"
+        "type": "university",
+        "description": "International Centre of Technology (ICT) is a college located in the outskirts of Thika in the Central Province of Kenya. The college was established in January 2007 and was registered by Kenyan Ministry of Higher Education, Science and Technology in 2011.\nRegistration No."
     },
     {
         "wikidata_id": "Q100942473",
@@ -423,7 +459,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1666743",
@@ -435,7 +472,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The International Livestock Research Institute  or ILRI is an international agricultural research institute within the CGIAR – formerly the Consultative Group for International Agricultural Research. It was established in 1994 by merger of the International Laboratory for Research on Animal Diseases in Nairobi in Kenya, and the International Livestock Centre for Africa in Addis Ababa in Ethiopia. It is a non-profit, non-governmental organisation."
     },
     {
         "wikidata_id": "Q16851003",
@@ -448,7 +486,8 @@
         ],
         "latitude": -0.093889,
         "longitude": 34.258611,
-        "type": "university"
+        "type": "university",
+        "description": "Jaramogi Oginga Odinga University of Science and Technology (JOOUST) is a public university in Bondo in Siaya County, Kenya. It is named after  Kenya's first vice-president Jaramogi Oginga Odinga.\nProf."
     },
     {
         "wikidata_id": "Q100946435",
@@ -458,7 +497,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946436",
@@ -468,7 +508,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946439",
@@ -478,7 +519,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946440",
@@ -488,7 +530,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946441",
@@ -498,7 +541,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946444",
@@ -508,7 +552,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1702696",
@@ -521,7 +566,8 @@
         ],
         "latitude": -1.095148,
         "longitude": 37.014631,
-        "type": "university"
+        "type": "university",
+        "description": "Jomo Kenyatta University of Agriculture and Technology (JKUAT) is a public university that is situated in Juja, 36 kilometres northeast of Nairobi, along the Nairobi-Thika SuperHighway, off Exit 15. It offers courses in technology, engineering, medicine, science, commerce, management and building sciences and holds a strong  research interest in the areas of biotechnology and engineering. Notable alumni include Dr."
     },
     {
         "wikidata_id": "Q100946595",
@@ -531,7 +577,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946597",
@@ -541,7 +588,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6343885",
@@ -554,7 +602,8 @@
         ],
         "latitude": -0.1671,
         "longitude": 35.966,
-        "type": "university"
+        "type": "university",
+        "description": "Kabarak University is a private institution of higher education in Kenya, established in 2002 by the second President of Kenya, H.E. Daniel Toroitich Arap Moi. The University is located in Rongai constituency in Nakuru County, about 20 km from Nakuru town and 12 km off the Nakuru-Eldama Ravine road. The University offers a wide range of courses in various faculties, including business, economics, education, social sciences, music, performing arts, law, pharmacy, medicine, health sciences and pure and applied sciences."
     },
     {
         "wikidata_id": "Q100946647",
@@ -564,7 +613,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100946739",
@@ -574,7 +624,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101110417",
@@ -584,7 +635,8 @@
         "aliases": null,
         "latitude": -1.5913056,
         "longitude": 36.9191389,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q90920549",
@@ -594,7 +646,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q15036625",
@@ -609,7 +662,8 @@
         ],
         "latitude": -0.3893994,
         "longitude": 37.1449977,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6326561",
@@ -623,7 +677,8 @@
         ],
         "latitude": -1.252936,
         "longitude": 36.860136,
-        "type": "university"
+        "type": "university",
+        "description": "KCA University (KCAU) is a private, non-profit institution that was founded in July 1989 as the Kenya College of Accountancy (KCA) by the Institute of Certified Public Accountants of Kenya (ICPAK) to improve the quality of accountancy and financial management training in the country. KCAU is located on Thika Road in Ruaraka, Nairobi, Kenya. The institution also maintains satellite colleges under the School of Professional Programmes in Nairobi CBD Githunguri, Kericho, Eldoret, Kisumu, Amagoro, and Kitengela."
     },
     {
         "wikidata_id": "Q100946600",
@@ -633,7 +688,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30285023",
@@ -645,7 +701,8 @@
         ],
         "latitude": -1.21566,
         "longitude": 36.646058,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16999351",
@@ -657,7 +714,8 @@
         ],
         "latitude": -0.369559,
         "longitude": 35.267472,
-        "type": "university"
+        "type": "university",
+        "description": "Kenya Highlands University (formerly Kenya Highlands Evangelical University)is fully-fledged (Chartered) private institution of higher learning. It is located in Kericho in Kenya."
     },
     {
         "wikidata_id": "Q104438578",
@@ -667,7 +725,8 @@
         "aliases": null,
         "latitude": -3.064933,
         "longitude": 29.8761609,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16916920",
@@ -677,7 +736,8 @@
         "aliases": null,
         "latitude": 1.3008,
         "longitude": 36.8078,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6392603",
@@ -690,7 +750,8 @@
         ],
         "latitude": 0.0837222,
         "longitude": 37.6483056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q66712956",
@@ -702,7 +763,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q46756",
@@ -715,7 +777,8 @@
         ],
         "latitude": -1.1797222,
         "longitude": 36.9333333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946601",
@@ -725,7 +788,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946602",
@@ -735,7 +799,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943544",
@@ -745,7 +810,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946603",
@@ -755,7 +821,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946604",
@@ -765,7 +832,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946605",
@@ -775,7 +843,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946608",
@@ -785,7 +854,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946609",
@@ -795,7 +865,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946611",
@@ -805,7 +876,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946612",
@@ -815,7 +887,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946613",
@@ -825,7 +898,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946614",
@@ -835,7 +909,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946616",
@@ -845,7 +920,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q24236523",
@@ -858,7 +934,8 @@
         ],
         "latitude": 0.6174722,
         "longitude": 34.5236667,
-        "type": "university"
+        "type": "university",
+        "description": "Kibabii University  is a public university in Kenya located in Bungoma County along Bungoma-Chwele highway. Previously a constituent college of Masinde Muliro University of Science and Technology, the university was granted its Charter by President Kenyatta in November 2015. It offers, among other programs, the Bachelor of Commerce."
     },
     {
         "wikidata_id": "Q28223356",
@@ -872,7 +949,8 @@
         ],
         "latitude": -0.5666944,
         "longitude": 37.3202222,
-        "type": "university"
+        "type": "university",
+        "description": "Kirinyaga University is a public university situated in Kutus Kerugoya in Kirinyaga County, Kenya."
     },
     {
         "wikidata_id": "Q6415328",
@@ -884,7 +962,8 @@
         ],
         "latitude": -1.2821958,
         "longitude": 36.8236433,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q15036631",
@@ -897,7 +976,8 @@
         ],
         "latitude": -0.691231,
         "longitude": 34.783058,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q23807973",
@@ -907,7 +987,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Koitaleel Samoei University College is a planned university in Nandi County, Kenya, due to open in 2015.\nThe County Government of Nandi agreed with the University of Nairobi to build a new university to be named after a legendary leader, Koitalel Samoei, killed in 1905 by the colonialists. As of 2014 the university was in the process of admitting students to Koitalel Arap Samoei University College for courses to begin in January 2015."
     },
     {
         "wikidata_id": "Q15036634",
@@ -919,7 +1000,8 @@
         ],
         "latitude": 0.041,
         "longitude": 36.3225,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101110418",
@@ -931,7 +1013,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17037289",
@@ -944,7 +1027,8 @@
         ],
         "latitude": -1.0957778,
         "longitude": 35.8553889,
-        "type": "university"
+        "type": "university",
+        "description": "Maasai Mara University (MMU), (formerly Narok University College, Moi University Narok Town Campus), is a public university located in Narok County, Kenya."
     },
     {
         "wikidata_id": "Q6723389",
@@ -954,7 +1038,8 @@
         "aliases": null,
         "latitude": -1.530666,
         "longitude": 37.262446,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28223358",
@@ -964,7 +1049,8 @@
         "aliases": null,
         "latitude": -1.5315833,
         "longitude": 37.2624722,
-        "type": "university"
+        "type": "university",
+        "description": "Machakos University is a public university in Machakos, Kenya. Founded in 1957 as a Technical Rural Training School by the colonial government, it was later renamed Machakos Technical and Trade School in 1958, Machakos Technical School in 1967, and Machakos Technical Training Institute (MTTI) in 1987. In 2011, the institution was upgraded to Machakos University College through Legal Notice No."
     },
     {
         "wikidata_id": "Q100942474",
@@ -976,7 +1062,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551629",
@@ -989,7 +1076,8 @@
         ],
         "latitude": -0.004822,
         "longitude": 34.60045,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946570",
@@ -999,7 +1087,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946574",
@@ -1009,7 +1098,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946568",
@@ -1019,7 +1109,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946569",
@@ -1029,7 +1120,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6783284",
@@ -1043,7 +1135,8 @@
         ],
         "latitude": 0.290435,
         "longitude": 34.763893,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6820757",
@@ -1057,7 +1150,8 @@
         ],
         "latitude": 0.1349167,
         "longitude": 37.7084167,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13122809",
@@ -1071,7 +1165,8 @@
         ],
         "latitude": 0.283393,
         "longitude": 35.295,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946453",
@@ -1081,7 +1176,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946457",
@@ -1091,7 +1187,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946458",
@@ -1101,7 +1198,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946459",
@@ -1111,7 +1209,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946460",
@@ -1121,7 +1220,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946461",
@@ -1131,7 +1231,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946462",
@@ -1141,7 +1242,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946463",
@@ -1151,7 +1253,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100942471",
@@ -1161,7 +1264,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946464",
@@ -1171,7 +1275,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946466",
@@ -1181,7 +1286,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946467",
@@ -1191,7 +1297,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q15045626",
@@ -1205,7 +1312,8 @@
         ],
         "latitude": -1.045162,
         "longitude": 37.080903,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946734",
@@ -1215,7 +1323,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946735",
@@ -1225,7 +1334,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946738",
@@ -1235,7 +1345,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16954019",
@@ -1249,7 +1360,8 @@
         ],
         "latitude": -1.3813,
         "longitude": 36.7676,
-        "type": "university"
+        "type": "university",
+        "description": "The Multimedia University of Kenya (MMU) is a public university located in Nairobi. The university offers IT & related courses, Mass media, Business, Engineering, Physical Sciences (Physics and Chemistry) and Social sciences education."
     },
     {
         "wikidata_id": "Q18391408",
@@ -1261,7 +1373,8 @@
         ],
         "latitude": -0.716,
         "longitude": 37.147,
-        "type": "university"
+        "type": "university",
+        "description": "Murang'a University of Technology (MUT) is the successor of Murang'a University College (MRUC), a former constituent college of Jomo Kenyatta University of Agriculture and Technology (JKUAT) after being elevated from Murang'a College of Technology (MCT). The university is located 1.5 km from Murang'a town in Muranga County, 85 km northeast of Nairobi, 70 km southeast of Nyeri and 50 km southwest of Embu.\nMUT offers masters, degree, diploma, certificate, and craft courses in engineering, information technology, computing, business, commerce, human resource management, hospitality management, tourism management,  pure and applied sciences."
     },
     {
         "wikidata_id": "Q7129540",
@@ -1275,7 +1388,8 @@
         ],
         "latitude": -1.215987,
         "longitude": 36.884524,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30266511",
@@ -1287,7 +1401,8 @@
         ],
         "latitude": -1.27215,
         "longitude": 36.828118,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946473",
@@ -1297,7 +1412,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946474",
@@ -1307,7 +1423,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946475",
@@ -1317,7 +1434,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946477",
@@ -1327,7 +1445,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946478",
@@ -1337,7 +1456,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946479",
@@ -1347,7 +1467,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17110774",
@@ -1360,7 +1481,8 @@
         ],
         "latitude": -3.6207144,
         "longitude": 39.844392,
-        "type": "university"
+        "type": "university",
+        "description": "Pwani University is a public university in the Kilifi County in the coastal region of Kenya,  located 60 km north of Mombasa in the resort town of Kilifi, within the larger Kilifi County. Prior to the award of a charter, the university was a constituent college of Kenyatta University. The college, formerly the Kilifi Institute of Agriculture, was established on 23 August 2007 by an order signed by His Excellency President Mwai Kibaki."
     },
     {
         "wikidata_id": "Q100946480",
@@ -1370,7 +1492,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946482",
@@ -1380,7 +1503,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946483",
@@ -1390,7 +1514,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946484",
@@ -1400,7 +1525,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946485",
@@ -1410,7 +1536,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101110434",
@@ -1422,7 +1549,8 @@
         ],
         "latitude": -1.6486389,
         "longitude": 36.8711111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17110806",
@@ -1434,7 +1562,8 @@
         ],
         "latitude": -1.314722,
         "longitude": 36.807,
-        "type": "university"
+        "type": "university",
+        "description": "Riara University is a Private University located along Mbagathi Way in Nairobi, Kenya."
     },
     {
         "wikidata_id": "Q100943560",
@@ -1444,7 +1573,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943562",
@@ -1454,7 +1584,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q90571011",
@@ -1467,7 +1598,8 @@
         ],
         "latitude": -0.76021,
         "longitude": 34.599763,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q24236287",
@@ -1480,7 +1612,8 @@
         ],
         "latitude": -1.5,
         "longitude": 37.2666667,
-        "type": "university"
+        "type": "university",
+        "description": "Scott Christian University (SCU) is a private Christian university in Machakos, Kenya.\nHistory\nScott is the National Theological College of the Africa Inland Church (AIC) in Kenya inaugurated in 1962 Its purpose was and still is to provide training for Church ministries at a more advanced academic level than was available through most of the Bible schools here in Kenya Though affiliated to AIC, it has existed to serve all the evangelical Churches in East and Central Africa and even beyond Until 1982 it was offering Diplomas in Theology However, in 1986, Scott began offering Bachelor of Theology Degree (B Th.) In 1979 Scott was chartered by the Accrediting Council of Theological Education in Africa (ACTEA) and later in 1997, it was chartered by the Government of Kenya now operating under the Commission for Higher Education (CHE). In 2006 the university was re-inspected and granted a certificate as an affirmation of quality assurance This dual accreditation has ensured high quality education which is recognized world wide.It was established by the Africa Inland Mission in 1962 as Scott Theological College (STC), and named after AIM's founder, Peter Cameron Scott."
     },
     {
         "wikidata_id": "Q121940080",
@@ -1490,7 +1623,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q16258314",
@@ -1503,7 +1637,8 @@
         ],
         "latitude": -1.3075556,
         "longitude": 37.7545,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946488",
@@ -1513,7 +1648,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946489",
@@ -1523,7 +1659,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946491",
@@ -1533,7 +1670,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946492",
@@ -1543,7 +1681,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946564",
@@ -1553,7 +1692,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946562",
@@ -1563,7 +1703,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946563",
@@ -1573,7 +1714,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946566",
@@ -1583,7 +1725,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946567",
@@ -1593,7 +1736,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294242",
@@ -1606,7 +1750,8 @@
         ],
         "latitude": -1.1476944,
         "longitude": 36.6658056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q85802938",
@@ -1616,7 +1761,8 @@
         "aliases": null,
         "latitude": 0.8780556,
         "longitude": 37.3163889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7622156",
@@ -1630,7 +1776,8 @@
         ],
         "latitude": -1.31056,
         "longitude": 36.8125,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946619",
@@ -1640,7 +1787,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946618",
@@ -1650,7 +1798,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943569",
@@ -1664,7 +1813,8 @@
         ],
         "latitude": -3.4190833,
         "longitude": 38.4980556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136524138",
@@ -1674,7 +1824,8 @@
         "aliases": null,
         "latitude": -1.3486111,
         "longitude": 36.7488889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692311",
@@ -1687,7 +1838,8 @@
         ],
         "latitude": -1.2919444,
         "longitude": 36.8244444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946622",
@@ -1697,7 +1849,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946621",
@@ -1707,7 +1860,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946624",
@@ -1717,7 +1871,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946625",
@@ -1727,7 +1882,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946626",
@@ -1737,7 +1893,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946628",
@@ -1747,7 +1904,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946630",
@@ -1757,7 +1915,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7692314",
@@ -1770,7 +1929,8 @@
         ],
         "latitude": -1.09515,
         "longitude": 37.0146,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q129255622",
@@ -1785,7 +1945,8 @@
         ],
         "latitude": -0.0933333,
         "longitude": 37.9888889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101110432",
@@ -1798,7 +1959,8 @@
         ],
         "latitude": -1.2814444,
         "longitude": 36.8208056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16890793",
@@ -1810,7 +1972,8 @@
         ],
         "latitude": -1.65,
         "longitude": 36.9006,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7240808",
@@ -1822,7 +1985,8 @@
         ],
         "latitude": -1.2716765,
         "longitude": 36.6693273,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q114385531",
@@ -1834,7 +1998,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29467429",
@@ -1847,7 +2012,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Umma University is the first Islamic institution of higher education in Kenya, offering certificate, diploma, degree and postgraduate studies. Umma University was founded in 1997. The main campus is located in Kajiado County."
     },
     {
         "wikidata_id": "Q19720584",
@@ -1861,7 +2027,8 @@
         ],
         "latitude": -1.21806,
         "longitude": 36.8792,
-        "type": "university"
+        "type": "university",
+        "description": "United States International University-Africa, also known as USIU-Africa, is a private university in Kenya. The university is accredited by the Commission for Higher Education (CUE) in Kenya and by the Western Association of Schools and Colleges (WASC) in the United States. \nThe university is currently headed by Prof."
     },
     {
         "wikidata_id": "Q100946631",
@@ -1871,7 +2038,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946632",
@@ -1881,7 +2049,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q557172",
@@ -1891,7 +2060,8 @@
         "aliases": null,
         "latitude": -6.780556,
         "longitude": 39.203333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943474",
@@ -1901,7 +2071,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943479",
@@ -1911,7 +2082,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943482",
@@ -1921,7 +2093,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943486",
@@ -1931,7 +2104,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q662087",
@@ -1943,7 +2117,8 @@
         ],
         "latitude": 0.255459,
         "longitude": 35.0826,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895375",
@@ -1957,7 +2132,8 @@
         ],
         "latitude": 0.5790278,
         "longitude": 35.306,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q24236250",
@@ -1971,7 +2147,8 @@
         ],
         "latitude": -0.5122556,
         "longitude": 37.4561333,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Embu (UoEm) is a public research university located in Embu County, Kenya. Established in 2011 as a constituent college of the University of Nairobi and chartered as a full-fledged university in 2016, it offers undergraduate, postgraduate, and research programs across diverse disciplines. The institution serves as a key center for higher education and research in the region, with a focus on agriculture, science, business, education, and technology."
     },
     {
         "wikidata_id": "Q15036648",
@@ -1983,7 +2160,8 @@
         ],
         "latitude": -0.4458611,
         "longitude": 35.1380833,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q649998",
@@ -1998,7 +2176,8 @@
         ],
         "latitude": -1.27967,
         "longitude": 36.8165,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946635",
@@ -2008,7 +2187,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946636",
@@ -2018,7 +2198,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946638",
@@ -2028,7 +2209,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943563",
@@ -2038,7 +2220,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100946642",
@@ -2048,7 +2231,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946646",
@@ -2058,7 +2242,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943568",
@@ -2070,7 +2255,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q123582196",
@@ -2082,7 +2268,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q8069744",
@@ -2092,7 +2279,8 @@
         "aliases": null,
         "latitude": -1.263,
         "longitude": 36.8036,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q101110419",
@@ -2104,6 +2292,7 @@
         ],
         "latitude": -1.1492222,
         "longitude": 36.9619722,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1117071",
@@ -19,7 +20,8 @@
         ],
         "latitude": -8.127258,
         "longitude": -79.031669,
-        "type": "university"
+        "type": "university",
+        "description": "The Antenor Orrego Private University is a Peruvian private university located in Trujillo, La Libertad Region.\nThe university was named after the Peruvian journalist and political philosopher Antenor Orrego Espinoza."
     },
     {
         "wikidata_id": "Q58332915",
@@ -29,7 +31,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5053268",
@@ -41,7 +44,8 @@
         ],
         "latitude": -16.4061786,
         "longitude": -71.5476298,
-        "type": "university"
+        "type": "university",
+        "description": "The Catholic University of Santa María (UCSM) (Spanish: Universidad Católica de Santa María) is a local private University in Arequipa, Peru, and has been in continuous operation since it was founded on 6 December 1961. It was founded by William Daniel Morris Christy, an American priest from St. Louis, Missouri."
     },
     {
         "wikidata_id": "Q1033788",
@@ -51,7 +55,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Catholic University of Trujillo (Spanish: Universidad Católica de Trujillo) is a Peruvian private university located in Trujillo, Peru. It was born as an initiative of the Archdiocese of Trujillo on December 12, 1999, being Archbishop of Trujillo Héctor Miguel Cabrejos Vidarte, and taking as the first President of the Commission of Government the person of Jose Maria Garcia Madariaga. The operation of the university was authorized by resolution UCT 147-2000-CONAFU on November 13, 2000, and academic activities began on January 2, 2001."
     },
     {
         "wikidata_id": "Q5055311",
@@ -64,7 +69,8 @@
         ],
         "latitude": -12.023552,
         "longitude": -77.0563689,
-        "type": "university"
+        "type": "university",
+        "description": "Cayetano Heredia University (Spanish: Universidad Peruana Cayetano Heredia, UPCH; or simply Cayetano Heredia) is a private nonprofit university located in Lima, Peru. It was named in honor of Cayetano Heredia, one of the eminent Peruvian physicians of the 19th century. The university is overseen by a board of trustees (patronato) and is not owned by any private or state entity."
     },
     {
         "wikidata_id": "Q2340018",
@@ -77,7 +83,8 @@
         ],
         "latitude": -8.12945,
         "longitude": -79.0436389,
-        "type": "university"
+        "type": "university",
+        "description": "The  César Vallejo University (Spanish: Universidad César Vallejo, UCV) is a private Peruvian university located in Victor Larco district in Trujillo city, on the coast of La Libertad Region.\nThe university was named after the Peruvian poet César Vallejo. It was founded on November 12, 1991 by César Acuña Peralta."
     },
     {
         "wikidata_id": "Q5116125",
@@ -87,7 +94,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Chuluncayani Adventist University, named in Spanish as Universidad Chuluncayani Adventista, is a small private university and a campus of Peruvian Union University. It is found near the city of Puno on the edge of Lake Titicaca, a major tourist destination of Peru. The university is affiliated with the Seventh-day Adventist Church, being one of two Adventist universities in Peru."
     },
     {
         "wikidata_id": "Q5202300",
@@ -99,7 +107,8 @@
         ],
         "latitude": -12.2208,
         "longitude": -76.9784,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124094423",
@@ -111,7 +120,8 @@
         ],
         "latitude": -12.1136232,
         "longitude": -77.0389375,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112620604",
@@ -121,7 +131,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q22110503",
@@ -133,7 +144,8 @@
         ],
         "latitude": -12.1119978,
         "longitude": -76.972063,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q667748",
@@ -145,7 +157,8 @@
         ],
         "latitude": -10.668205,
         "longitude": -76.253137,
-        "type": "university"
+        "type": "university",
+        "description": "The Daniel Alcides Carrión National University  (Universidad Nacional Daniel Alcides Carrión), or UNDAC for short, is the public university of Cerro de Pasco, Peru. It was founded by decree law no. 15527 on April 12, 1965."
     },
     {
         "wikidata_id": "Q6156439",
@@ -155,7 +168,8 @@
         "aliases": null,
         "latitude": -12.105,
         "longitude": -76.961,
-        "type": "university"
+        "type": "university",
+        "description": "ESAN University or Universidad ESAN in Spanish (acronym: ESAN) is a non-profit private university, located in Lima, Peru.\nESAN University is a leading academic institution in business education, that was founded in 1963 as ESAN - Escuela de Administración de Negocios para Graduados, the first graduate business school in the Spanish speaking world and in Peru. Throughout these years ESAN has achieved a relevant role in Peru and Latin America, based on the quality of its MBA program, specialized masters, advanced management and executive education programs among others."
     },
     {
         "wikidata_id": "Q30841075",
@@ -165,7 +179,8 @@
         "aliases": null,
         "latitude": -12.078815,
         "longitude": -76.947244,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5855032",
@@ -177,7 +192,8 @@
         ],
         "latitude": -12.0572222,
         "longitude": -77.0813889,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74539532",
@@ -187,7 +203,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q28791047",
@@ -199,7 +216,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q51735914",
@@ -209,7 +227,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5650493",
@@ -221,7 +240,8 @@
         ],
         "latitude": -12.0678229,
         "longitude": -77.0464487,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74557497",
@@ -231,7 +251,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16579253",
@@ -241,7 +262,8 @@
         "aliases": null,
         "latitude": -3.817266,
         "longitude": -73.320837,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5487987",
@@ -253,7 +275,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q96201348",
@@ -265,7 +288,8 @@
         ],
         "latitude": -12.1254167,
         "longitude": -77.0248056,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q74434752",
@@ -277,7 +301,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1054322",
@@ -287,7 +312,8 @@
         "aliases": null,
         "latitude": -12.0769444,
         "longitude": -76.9461111,
-        "type": "institute"
+        "type": "institute",
+        "description": "The International Potato Center (known as CIP from its Spanish-language name Centro Internacional de la Papa) is a research facility based in Lima, Peru, that seeks to reduce poverty and achieve food security on a sustained basis in developing countries through scientific research and related activities on potato, sweet potato, other root and tuber crops, and on the improved management of natural resources in the Andes and other mountain areas."
     },
     {
         "wikidata_id": "Q56377773",
@@ -297,7 +323,8 @@
         "aliases": null,
         "latitude": -12.08504,
         "longitude": -77.05483,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156567",
@@ -307,7 +334,8 @@
         "aliases": null,
         "latitude": -18.02502,
         "longitude": -70.24959,
-        "type": "university"
+        "type": "university",
+        "description": "The Jorge Basadre Grohmann National University (Spanish: Universidad Nacional Jorge Basadre Grohmann) is a public university located in the city of Tacna, Peru. It was founded by Decree Law No. 1894 on August 26, 1971; academic activities started on May 13, 1972."
     },
     {
         "wikidata_id": "Q30294035",
@@ -317,7 +345,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1106363",
@@ -327,7 +356,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Leonardo Da Vinci University is a Peruvian private university founded on April 1, 2010, in the city of Trujillo, La Libertad Region. This institution of higher learning has its headquarters in the city of Trujillo."
     },
     {
         "wikidata_id": "Q961303",
@@ -337,7 +367,8 @@
         "aliases": null,
         "latitude": -12.041284,
         "longitude": -75.191486,
-        "type": "university"
+        "type": "university",
+        "description": "The Los Andes Peruvian University (UPLA) (Spanish: Universidad Peruana Los Andes) is an educational institution created on December 30, 1983 (Law Nº 23.757). The main campus is situated in Huancayo, Peru. It is one of the most prosperous  universities in the central region of the country."
     },
     {
         "wikidata_id": "Q74540266",
@@ -347,7 +378,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3551806",
@@ -360,7 +392,8 @@
         ],
         "latitude": -12.082,
         "longitude": -76.948,
-        "type": "university"
+        "type": "university",
+        "description": "The National Agrarian University, also formally called National Agrarian University – La Molina  (Spanish: Universidad Nacional Agraria La Molina) (UNALM), is a public university in Lima, Peru. Of particular renown in the fields of agricultural, biological, and forestry sciences, it is also the only university in Peru offering degrees in meteorology. The university is organized into eight faculties which contain twelve academic departments."
     },
     {
         "wikidata_id": "Q16644493",
@@ -370,7 +403,8 @@
         "aliases": null,
         "latitude": -9.3176005,
         "longitude": -75.9965933,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q57987898",
@@ -380,7 +414,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q27139634",
@@ -390,7 +425,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q57987734",
@@ -400,7 +436,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q51736099",
@@ -412,7 +449,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5202236",
@@ -425,7 +463,8 @@
         ],
         "latitude": -12.0463889,
         "longitude": -77.0238889,
-        "type": "university"
+        "type": "university",
+        "description": "The National Superior Autonomous School of Fine Arts (Spanish: Escuela Nacional Superior Autónoma de Bellas Artes del Perú, ENSABAP) is a fine art school in Lima, Peru. It is located in Barrios Altos, a suburb of Lima District. It was founded in 1918, by President José Pardo y Barreda and Peruvian painter Daniel Hernández Morillo, who was its first director."
     },
     {
         "wikidata_id": "Q6156576",
@@ -437,7 +476,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156603",
@@ -447,7 +487,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q57987995",
@@ -457,7 +498,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979226",
@@ -467,7 +509,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Cajamarca (Spanish: Universidad Nacional de Cajamarca), or UNC for short, is a major public university located in Cajamarca, Peru; capital of the department of Cajamarca. The university was formally established on February 13, 1962, in accordance with a government decree.\nUNC currently has approximately 8,152 students in ten different academic faculties, making it one of the largest universities in the north of the country."
     },
     {
         "wikidata_id": "Q442106",
@@ -477,7 +520,8 @@
         "aliases": null,
         "latitude": -12.06114,
         "longitude": -77.117308,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Callao is a post-secondary institution in the Bellavista District of the Constitutional Province of Callao in the country of Peru. It was established on 2 September 1966.\nThis scholarly institute retains its original technical character, unique to Peru."
     },
     {
         "wikidata_id": "Q57987212",
@@ -487,7 +531,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6979244",
@@ -499,7 +544,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5202403",
@@ -509,7 +555,8 @@
         "aliases": null,
         "latitude": -12.0197222,
         "longitude": -77.0486111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q27139633",
@@ -519,7 +566,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q27139631",
@@ -529,7 +577,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156585",
@@ -539,7 +588,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5479494",
@@ -551,7 +601,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5784190",
@@ -565,7 +616,8 @@
         ],
         "latitude": -12.048088,
         "longitude": -77.0312529,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q916367",
@@ -578,7 +630,8 @@
         ],
         "latitude": -13.5216667,
         "longitude": -71.9586111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q24236924",
@@ -591,7 +644,8 @@
         ],
         "latitude": -6.4848428,
         "longitude": -76.3777414,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5576631",
@@ -603,7 +657,8 @@
         ],
         "latitude": -16.40446,
         "longitude": -71.52454,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5391928",
@@ -613,7 +668,8 @@
         "aliases": null,
         "latitude": -12.0330464,
         "longitude": -75.237332,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156601",
@@ -626,7 +682,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1634051",
@@ -638,7 +695,8 @@
         ],
         "latitude": -8.114656,
         "longitude": -79.038595,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q9091571",
@@ -650,7 +708,8 @@
         ],
         "latitude": -6.2329682,
         "longitude": -77.8531624,
-        "type": "university"
+        "type": "university",
+        "description": "The National University Toribio Rodríguez de Mendoza (UNTRM) is a state-owned university in Chachapoyas, Peru. The UNTRM was founded on September 18, 2000."
     },
     {
         "wikidata_id": "Q124282965",
@@ -660,7 +719,8 @@
         "aliases": null,
         "latitude": -12.0515599,
         "longitude": -77.0152684,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156570",
@@ -670,7 +730,8 @@
         "aliases": null,
         "latitude": -6.707215,
         "longitude": -79.90792,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12176521",
@@ -680,7 +741,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3551703",
@@ -690,7 +752,8 @@
         "aliases": null,
         "latitude": -11.9899167,
         "longitude": -76.8413056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5202363",
@@ -700,7 +763,8 @@
         "aliases": null,
         "latitude": -12.1035139,
         "longitude": -76.9631051,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q200601",
@@ -715,7 +779,8 @@
         ],
         "latitude": -12.0694444,
         "longitude": -77.0794444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74556346",
@@ -725,7 +790,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q9091600",
@@ -735,7 +801,8 @@
         "aliases": null,
         "latitude": -18.0058389,
         "longitude": -70.2254838,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551837",
@@ -747,7 +814,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1107277",
@@ -757,7 +825,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100146689",
@@ -767,7 +836,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q122961093",
@@ -777,7 +847,8 @@
         "aliases": null,
         "latitude": -12.057013,
         "longitude": -77.08729,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125199867",
@@ -787,7 +858,8 @@
         "aliases": null,
         "latitude": -12.06969,
         "longitude": -76.95477,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125210630",
@@ -797,7 +869,8 @@
         "aliases": null,
         "latitude": -12.016147,
         "longitude": -76.827909,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125388903",
@@ -807,7 +880,8 @@
         "aliases": null,
         "latitude": -12.07579,
         "longitude": -77.03146,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q137945754",
@@ -817,7 +891,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q137945876",
@@ -827,7 +902,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20016896",
@@ -837,7 +913,8 @@
         "aliases": null,
         "latitude": -12.0541983,
         "longitude": -77.0872143,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q42761455",
@@ -847,7 +924,8 @@
         "aliases": null,
         "latitude": -9.5764421,
         "longitude": -77.1775016,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5917554",
@@ -857,7 +935,8 @@
         "aliases": null,
         "latitude": -12.0841283,
         "longitude": -76.9966115,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2067204",
@@ -869,7 +948,8 @@
         ],
         "latitude": -12.1331,
         "longitude": -76.9805,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7413580",
@@ -881,7 +961,8 @@
         ],
         "latitude": -13.148,
         "longitude": -74.22,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2884868",
@@ -891,7 +972,8 @@
         "aliases": null,
         "latitude": -16.4495719,
         "longitude": -71.600257,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7414732",
@@ -904,7 +986,8 @@
         ],
         "latitude": -14.087,
         "longitude": -75.733,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124094411",
@@ -914,7 +997,8 @@
         "aliases": null,
         "latitude": -12.1135066,
         "longitude": -76.9883707,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156327",
@@ -926,7 +1010,8 @@
         ],
         "latitude": -12.0693482,
         "longitude": -77.0513295,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156333",
@@ -936,7 +1021,8 @@
         "aliases": null,
         "latitude": -13.5375735,
         "longitude": -71.9038466,
-        "type": "university"
+        "type": "university",
+        "description": "The Andean University of Cuzco (Spanish: Universidad Andina del Cusco, UAC) is a private university headquartered in Cuzco, Peru."
     },
     {
         "wikidata_id": "Q11046083",
@@ -946,7 +1032,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156337",
@@ -958,7 +1045,8 @@
         ],
         "latitude": -12.07012,
         "longitude": -77.058695,
-        "type": "university"
+        "type": "university",
+        "description": "Antonio Ruiz de Montoya University (Universidad Antonio Ruiz de Montoya – UARM) is a private, non-profit university located in the city of Lima, Peru, in the district of Pueblo Libre. It was founded by the Society of Jesus on 4 July 2003. It incorporated the School of Pedagogy, Philosophy, and Literature Antonio Ruiz de Montoya which had been founded in 1991."
     },
     {
         "wikidata_id": "Q111411243",
@@ -968,7 +1056,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q24960158",
@@ -980,7 +1069,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156384",
@@ -990,7 +1080,8 @@
         "aliases": null,
         "latitude": -16.3897524,
         "longitude": -71.5356732,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5792136",
@@ -1000,7 +1091,8 @@
         "aliases": null,
         "latitude": -6.760456,
         "longitude": -79.863203,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5839556",
@@ -1012,7 +1104,8 @@
         ],
         "latitude": -12.0002632,
         "longitude": -77.0639117,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156418",
@@ -1022,7 +1115,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156429",
@@ -1032,7 +1126,8 @@
         "aliases": null,
         "latitude": -12.0474264,
         "longitude": -75.1986533,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74550118",
@@ -1042,7 +1137,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q17632382",
@@ -1052,7 +1148,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29054166",
@@ -1062,7 +1159,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30266525",
@@ -1074,7 +1172,8 @@
         ],
         "latitude": -11.961328,
         "longitude": -77.065695,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156769",
@@ -1084,7 +1183,8 @@
         "aliases": null,
         "latitude": -9.8900907,
         "longitude": -76.2198475,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74528678",
@@ -1094,7 +1194,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74554913",
@@ -1104,7 +1205,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530263",
@@ -1114,7 +1216,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74548765",
@@ -1124,7 +1227,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2636927",
@@ -1134,7 +1238,8 @@
         "aliases": null,
         "latitude": -12.0839,
         "longitude": -77.0483,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29054169",
@@ -1144,7 +1249,8 @@
         "aliases": null,
         "latitude": -12.0716389,
         "longitude": -76.9650778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156474",
@@ -1154,7 +1260,8 @@
         "aliases": null,
         "latitude": -12.0828363,
         "longitude": -77.1046225,
-        "type": "university"
+        "type": "university",
+        "description": "The Inca Garcilaso de la Vega University (UIGV) is a private university located in the city of Lima, Peru. Founded on December 21, 1964, during the first government of President Fernando Belaúnde Terry. It is currently in the period of cessation of activities due to the fact that the Superintendencia Nacional de Educación Superior Universitaria (SUNEDU) denied his licensing."
     },
     {
         "wikidata_id": "Q111423680",
@@ -1167,7 +1274,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111468303",
@@ -1177,7 +1285,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111423631",
@@ -1187,7 +1296,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294002",
@@ -1197,7 +1307,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q65973058",
@@ -1207,7 +1318,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156552",
@@ -1217,7 +1329,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111423517",
@@ -1227,7 +1340,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111423810",
@@ -1237,7 +1351,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156575",
@@ -1247,7 +1362,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q118744854",
@@ -1259,7 +1375,8 @@
         ],
         "latitude": -13.5190145,
         "longitude": -71.9827008,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5845222",
@@ -1269,7 +1386,8 @@
         "aliases": null,
         "latitude": -12.7785256,
         "longitude": -74.9608594,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20022058",
@@ -1281,7 +1399,8 @@
         ],
         "latitude": -5.1819691,
         "longitude": -80.6190151,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74555965",
@@ -1291,7 +1410,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530725",
@@ -1301,7 +1421,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74557161",
@@ -1311,7 +1432,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156594",
@@ -1323,7 +1445,8 @@
         ],
         "latitude": -3.582867,
         "longitude": -80.444137,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156595",
@@ -1333,7 +1456,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74535494",
@@ -1343,7 +1467,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5646483",
@@ -1353,7 +1478,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5202383",
@@ -1363,7 +1489,8 @@
         "aliases": null,
         "latitude": -12.075382,
         "longitude": -77.091943,
-        "type": "university"
+        "type": "university",
+        "description": "Federico Villarreal National University (Spanish: Universidad Nacional Federico Villarreal, UNFV) is a public university located in Lima, Peru. It was named in honor of the Peruvian mathematician Federico Villarreal."
     },
     {
         "wikidata_id": "Q6156563",
@@ -1375,7 +1502,8 @@
         ],
         "latitude": -9.948099,
         "longitude": -76.2500844,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156565",
@@ -1385,7 +1513,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111423326",
@@ -1395,7 +1524,8 @@
         "aliases": null,
         "latitude": -12.8567222,
         "longitude": -72.6917778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156569",
@@ -1405,7 +1535,8 @@
         "aliases": null,
         "latitude": -11.1238889,
         "longitude": -77.6088889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18590697",
@@ -1415,7 +1546,8 @@
         "aliases": null,
         "latitude": -13.657192,
         "longitude": -73.387937,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894295",
@@ -1428,7 +1560,8 @@
         ],
         "latitude": -13.617037,
         "longitude": -72.868011,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74528120",
@@ -1438,7 +1571,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q29054205",
@@ -1448,7 +1582,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5396521",
@@ -1458,7 +1593,8 @@
         "aliases": null,
         "latitude": -12.072111,
         "longitude": -77.0419639,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156620",
@@ -1468,7 +1604,8 @@
         "aliases": null,
         "latitude": -12.0632379,
         "longitude": -77.0377636,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111423887",
@@ -1478,7 +1615,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294023",
@@ -1488,7 +1626,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111468315",
@@ -1498,7 +1637,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29054165",
@@ -1508,7 +1648,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16644538",
@@ -1518,7 +1659,8 @@
         "aliases": null,
         "latitude": -16.4074783,
         "longitude": -71.5271182,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16644541",
@@ -1528,7 +1670,8 @@
         "aliases": null,
         "latitude": -16.4037582,
         "longitude": -71.5342454,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111423393",
@@ -1538,7 +1681,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111902587",
@@ -1548,7 +1692,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294043",
@@ -1558,7 +1703,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111468338",
@@ -1568,7 +1714,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111411411",
@@ -1578,7 +1725,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894308",
@@ -1588,7 +1736,8 @@
         "aliases": null,
         "latitude": -12.1964814,
         "longitude": -77.0075561,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad Privada San Juan Bautista is a private university in the city of Lima, Peru. It offers 16 career programs categorized in 4 schools."
     },
     {
         "wikidata_id": "Q30294051",
@@ -1598,7 +1747,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101500273",
@@ -1608,7 +1758,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74554481",
@@ -1618,7 +1769,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7894314",
@@ -1630,7 +1782,8 @@
         ],
         "latitude": -12.0725,
         "longitude": -76.9517,
-        "type": "university"
+        "type": "university",
+        "description": "St. Ignatius of Loyola University (Spanish: Universidad San Ignacio de Loyola) (USIL) is a private institution for higher education and research in Lima, Peru. It was founded in 1995, as part of the Educational Corporation San Ignacio de Loyola, by Raúl Diez Canseco."
     },
     {
         "wikidata_id": "Q74547767",
@@ -1640,7 +1793,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156676",
@@ -1650,7 +1804,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111468371",
@@ -1660,7 +1815,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q66809733",
@@ -1670,7 +1826,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156685",
@@ -1680,7 +1837,8 @@
         "aliases": null,
         "latitude": -6.7948812,
         "longitude": -79.8853325,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q9366787",
@@ -1692,7 +1850,8 @@
         ],
         "latitude": -13.6333,
         "longitude": -72.8833,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156715",
@@ -1702,7 +1861,8 @@
         "aliases": null,
         "latitude": -12.064799,
         "longitude": -77.036626,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28858107",
@@ -1712,7 +1872,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156772",
@@ -1725,7 +1886,8 @@
         ],
         "latitude": -12.1349312,
         "longitude": -77.021722,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29675",
@@ -1738,7 +1900,8 @@
         ],
         "latitude": -12.084761,
         "longitude": -76.970816,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5202348",
@@ -1750,7 +1913,8 @@
         ],
         "latitude": -5.1766923,
         "longitude": -80.6346434,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3438435",
@@ -1763,7 +1927,8 @@
         ],
         "latitude": -12.0453812,
         "longitude": -76.9700475,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294029",
@@ -1777,7 +1942,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17226734",
@@ -1789,6 +1955,7 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     }
 ]

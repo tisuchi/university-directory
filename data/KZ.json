@@ -10,7 +10,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4235249",
@@ -20,7 +21,8 @@
         "aliases": null,
         "latitude": 53.214,
         "longitude": 63.6282,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134513435",
@@ -42,7 +44,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q3739702",
@@ -55,7 +58,8 @@
         ],
         "latitude": 43.243682,
         "longitude": 76.920421,
-        "type": "university"
+        "type": "university",
+        "description": "The Kazakh Ablai Khan University of International Relations and World Languages (KAUIR&WL, Kazakh Ablai Khan University) is a university in Almaty, Kazakhstan, that has provided foreign language education for 75 years. It used to be known as the Almaty Pedogogical Teacher's Institute of Foreign Languages."
     },
     {
         "wikidata_id": "Q4059222",
@@ -65,7 +69,8 @@
         "aliases": null,
         "latitude": 43.251,
         "longitude": 76.9266,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4059229",
@@ -75,7 +80,8 @@
         "aliases": null,
         "latitude": 43.35472,
         "longitude": 77.00556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4059209",
@@ -85,7 +91,8 @@
         "aliases": null,
         "latitude": 43.22,
         "longitude": 76.89,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q31194976",
@@ -95,7 +102,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12577259",
@@ -107,7 +115,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q401546",
@@ -122,7 +131,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Qoja Ahmet Yassawi International Kazakh-Turkish University, or simply Ahmet Yassawi University (Kazakh: Ахмет Ясауи университеті, Ahmet İasaui universitetı; Turkish: Ahmet Yesevi Üniversitesi) is a university in the city of Turkistan in Kazakhstan, named for the twelfth-century Sufi poet Khoja Akhmet Yassawi. Akhmet Yassawi International Kazakh-Turkish University (Akhmet Yassawi University) established in 1991 on the personal initiative of the President Nursultan Nazarbayev and based on the Intergovernmental Agreement between Kazakhstan and Turkey to train modern highly qualified specialists from young Turkic-speaking countries, the spiritual center of the Turkic world – Turkestan and is the first university that received the status of an international institution of higher education."
     },
     {
         "wikidata_id": "Q100969225",
@@ -132,7 +142,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25502201",
@@ -145,7 +156,8 @@
         ],
         "latitude": 50.2892,
         "longitude": 57.1539,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q427677",
@@ -161,7 +173,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Farabi Kazakh National University (Kazakh: Әл-Фараби атындағы Қазақ ұлттық университеті), also called KazNU or KazGU, is a national research university located in Almaty, Kazakhstan. Named after philosopher and scholar al-Farabi, it is one of the country's largest universities.\nKazNU is Kazakhstan's oldest classical university."
     },
     {
         "wikidata_id": "Q74543224",
@@ -171,7 +184,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q121743262",
@@ -181,7 +195,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12528547",
@@ -191,7 +206,8 @@
         "aliases": null,
         "latitude": 43.239,
         "longitude": 76.9105,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q100969212",
@@ -201,7 +217,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2399553",
@@ -211,7 +228,8 @@
         "aliases": null,
         "latitude": 43.252414,
         "longitude": 76.926666,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4287774",
@@ -225,7 +243,8 @@
         ],
         "latitude": 51.1814,
         "longitude": 71.4157,
-        "type": "university"
+        "type": "university",
+        "description": "Astana Medical University is a higher educational medical institution in the city of Astana, founded by an order of the Council of Ministers of the Kazakh SSR dated October 26, 1964. Initially, the university was named Tselinograd State Medical Institute (TSMI). In 2009 it was renamed Astana Medical University and became the first joint-stock company among medical universities in Kazakhstan."
     },
     {
         "wikidata_id": "Q4072317",
@@ -238,7 +257,8 @@
         ],
         "latitude": 47.11139,
         "longitude": 51.92222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136090438",
@@ -252,7 +272,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20486289",
@@ -268,7 +289,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4216726",
@@ -280,7 +302,8 @@
         ],
         "latitude": 43.257097,
         "longitude": 76.931957,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q43149037",
@@ -290,7 +313,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q60852541",
@@ -306,7 +330,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12557451",
@@ -316,7 +341,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12575887",
@@ -330,7 +356,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4451485",
@@ -344,7 +371,8 @@
         ],
         "latitude": 42.9018,
         "longitude": 71.3659,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4126490",
@@ -356,7 +384,8 @@
         ],
         "latitude": 49.9607,
         "longitude": 82.5913,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4126492",
@@ -372,7 +401,8 @@
         ],
         "latitude": 49.956861,
         "longitude": 82.591,
-        "type": "university"
+        "type": "university",
+        "description": "D. Serikbayev East Kazakhstan Technical University (Kazakh: Дәулет Серікбаев атындағы Шығыс Қазақстан техникалық университеті, Däulet Serıkbaev atyndağy Şyğys Qazaqstan tehnikalyq universitetı; Russian: Восточно-Казахстанский технический университет имени Даулета Серикбаева) is located in Oskemen, Kazakhstan.\nFounded in 1958 as Ust-Kamenogorskij stroitelno-dorozhnyj institut, UKSDI (literally: Ust-Kamenogorsk Road Construction Institute), the university is named after the first rector Serikbayev Daulet Mirkasymovich, a famous public figure and social activist who ensured the status of a leading science and technology university.\nAccording to the Republican Ranking Agency, the university is in the second place among technical universities of Kazakhstan."
     },
     {
         "wikidata_id": "Q4062778",
@@ -386,7 +416,8 @@
         ],
         "latitude": 43.2344444,
         "longitude": 76.9311111,
-        "type": "university"
+        "type": "university",
+        "description": "Almaty University of Power Engineering and Telecommunications (AUPET) (Kazakh: Алматы Энергетика және байланыс университеті, Almaty İenergetika jäne bailanys universitetı) is a technical engineering university in Almaty, Kazakhstan. It is located at 126 Baitursynov Street in Almaty and has around 4,000 students. It is one of the best-known universities in the field of power engineering and telecommunications in the Central Asian region."
     },
     {
         "wikidata_id": "Q752122",
@@ -398,7 +429,8 @@
         ],
         "latitude": 43.1771389,
         "longitude": 76.9660833,
-        "type": "institute"
+        "type": "institute",
+        "description": "Fesenkov Astrophysical Institute (Астрофизический институт имени В. Г. Фесенкова, АФИФ), or FAI, is a research institute in Almaty, Kazakhstan. The institute was founded in 1941 as the Institute for Astronomy and Physics of the Kazakh branch of the USSR Academy of Sciences, when a group of Soviet astronomers was evacuated during World War II from the European parts of the USSR to Almaty. In 1948 G.A. Tikhov had organized an independent sector of astrobotany, and in 1950 astronomers established the Astrophysical Institute of the Kazakh SSR. In 1989 the institute was renamed after Vasily Fesenkov, one of its founders."
     },
     {
         "wikidata_id": "Q4059265",
@@ -408,7 +440,8 @@
         "aliases": null,
         "latitude": 50.9763889,
         "longitude": 71.3538889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16250079",
@@ -418,7 +451,8 @@
         "aliases": null,
         "latitude": 52.2635556,
         "longitude": 76.9596389,
-        "type": "university"
+        "type": "university",
+        "description": "Innovative University of Eurasia (Pavlodar, Kazakhstan) is a multi-discipline university in Kazakhstan, offering 57 programs in Engineering, Economics, Law, Natural Sciences, and Humanities."
     },
     {
         "wikidata_id": "Q74528094",
@@ -428,7 +462,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16432804",
@@ -440,7 +475,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12547525",
@@ -452,7 +488,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q125365002",
@@ -462,7 +499,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12572201",
@@ -472,7 +510,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4483563",
@@ -484,7 +523,8 @@
         ],
         "latitude": 43.352493,
         "longitude": 77.143592,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4201426",
@@ -494,7 +534,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4288591",
@@ -504,7 +545,8 @@
         "aliases": null,
         "latitude": 43.235,
         "longitude": 76.909,
-        "type": "university"
+        "type": "university",
+        "description": "International IT University or International university of information technologies  (Kazakh: Халықаралық ақпараттық технологиялар университеті, Halyqaralyq aqparattyq tehnologııalar ýnıversıteti) - established in close collaboration with educational organization iCarnegie which represents American IT university Carnegie Mellon in 2009 by order of President of Kazakhstan. Formation of the qualified, international recognized IT specialists in Kazakhstan became the purpose of creation of a higher educational institution of a similar profile. International IT University provided with grants from the government of Kazakhstan and national \ninfocommunication companies, which cover disciplines by Kazakhstan and the U.S. educational systems."
     },
     {
         "wikidata_id": "Q4178633",
@@ -514,7 +556,8 @@
         "aliases": null,
         "latitude": 47.802,
         "longitude": 67.696,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28942624",
@@ -526,7 +569,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q939175",
@@ -536,7 +580,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16434402",
@@ -548,7 +593,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4213691",
@@ -558,7 +604,8 @@
         "aliases": null,
         "latitude": 49.8184917,
         "longitude": 73.1043917,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q920456",
@@ -568,7 +615,8 @@
         "aliases": null,
         "latitude": 49.77,
         "longitude": 73.126,
-        "type": "university"
+        "type": "university",
+        "description": "Karaganda State University (Kazakh: Қарағанды мемлекеттік университеті, Qarağandy memlekettık universitetı) named after E. A. Buketov is a university in Karaganda, Kazakhstan, founded in 1972.\nKaraganda State University is the second university in the history of Kazakhstan, and it is one of the largest universities in the country.\nKSU, being a classical university, has an important social and cultural mission."
     },
     {
         "wikidata_id": "Q100969224",
@@ -578,7 +626,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q106910960",
@@ -588,7 +637,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Zhas Ulan Republican School named after Talgat Begeldinov (Russian: Республиканская школа Жаса Улана имени Талгат Бегельдинов) also known as the Karaganda Zhas Ulan Republican School is a military boarding school in Kazakhstan's Armed Forces which specializes in the training of Kazakh youth who want to join the military."
     },
     {
         "wikidata_id": "Q4208074",
@@ -598,7 +648,8 @@
         "aliases": null,
         "latitude": 43.2671,
         "longitude": 76.9343,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4208076",
@@ -610,7 +661,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4208086",
@@ -623,7 +675,8 @@
         ],
         "latitude": 51.18802,
         "longitude": 71.408995,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4208085",
@@ -633,7 +686,8 @@
         "aliases": null,
         "latitude": 43.2521944,
         "longitude": 76.8559167,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4208077",
@@ -645,7 +699,8 @@
         ],
         "latitude": 43.2051,
         "longitude": 76.8755,
-        "type": "university"
+        "type": "university",
+        "description": "Kazakh Leading Academy of Architecture and Civil Engineering (Kazakh: Қазақ бас сәулет-құрылыс академиясы (ҚазБСҚА), romanized: Qazaq bas säulet-qūrylys akademiiasy (QazBSQA) is a top institution among the higher education institutions of the Republic of Kazakhstan in fields of Architecture, Design, Civil Engineering, Environmental Engineering, Economics and Management in Construction."
     },
     {
         "wikidata_id": "Q4208080",
@@ -655,7 +710,8 @@
         "aliases": null,
         "latitude": 43.2518,
         "longitude": 76.9445,
-        "type": "university"
+        "type": "university",
+        "description": "The T.K. Zhurgenov Kazakh National Academy of Arts (Kazakh: Т. Қ. Жүргенов атындағы Қазақ ұлттық өнер академиясы, T. Q. Jürgenov atyndağy Qazaq ūlttyq öner akademiasy; abbr. KazNAA) is the main theatre, film, drama, and fine arts and design school in Almaty, Kazakhstan. The Academy began as the theatrical faculty of the Kurmangazy Institute of Arts, known today as the Kazakh National Conservatory, in 1955."
     },
     {
         "wikidata_id": "Q4208096",
@@ -671,7 +727,8 @@
         ],
         "latitude": 43.241943,
         "longitude": 76.952001,
-        "type": "university"
+        "type": "university",
+        "description": "The Kazakh National Agrarian University (Kazakh: Қазақ ұлттық аграрлық университеті, romanized: Qazaq ūlttyq agrarlyq universitetı) is a leading university in Almaty, Kazakhstan that trains specialists for agriculture."
     },
     {
         "wikidata_id": "Q4208094",
@@ -683,7 +740,8 @@
         ],
         "latitude": 43.2530556,
         "longitude": 76.9313889,
-        "type": "university"
+        "type": "university",
+        "description": "Kazakh National Medical University is a university in Almaty, Kazakhstan. It was established in 1931, and the first rector was S.D. Asfendiyarov. In 2001, the government classified it as a \"national\" university."
     },
     {
         "wikidata_id": "Q4208095",
@@ -695,7 +753,8 @@
         ],
         "latitude": 51.1228,
         "longitude": 71.4729,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13417870",
@@ -707,7 +766,8 @@
         ],
         "latitude": 43.2525,
         "longitude": 76.926667,
-        "type": "university"
+        "type": "university",
+        "description": "The Kazakh National Women's Teacher Training University (Kazakh: Қазақ ұлттық қыздар педагогикалық университеті, romanized: Qazaq ūlttyq qyzdar pedagogikalyq universitetı) is a women-only Kazakhstani higher education institution in Almaty."
     },
     {
         "wikidata_id": "Q65173974",
@@ -719,7 +779,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q22031734",
@@ -729,7 +790,8 @@
         "aliases": null,
         "latitude": 51.935,
         "longitude": 71.2726,
-        "type": "university"
+        "type": "university",
+        "description": "The Esil University (Kazakh: Qazaq Ekonomika, Qarjy jäne Halyqaralyq Sauda Universitetı), also referred simply as KazUEFIT, is a private university in Astana, Kazakhstan."
     },
     {
         "wikidata_id": "Q4208100",
@@ -739,7 +801,8 @@
         "aliases": null,
         "latitude": 43.2021,
         "longitude": 76.8716,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1734762",
@@ -751,7 +814,8 @@
         ],
         "latitude": 43.255689,
         "longitude": 76.943124,
-        "type": "university"
+        "type": "university",
+        "description": "Kazakh-British Technical University (KBTU) is a public university located in Almaty, Kazakhstan. It was founded in 2001. KBTU’s research is focused in the main sectors of the Kazakhstani economy – oil and gas, information technologies, banking and finance, management and telecommunications."
     },
     {
         "wikidata_id": "Q373642",
@@ -764,7 +828,8 @@
         ],
         "latitude": 43.249,
         "longitude": 76.9541,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100969218",
@@ -774,7 +839,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100969216",
@@ -784,7 +850,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4072315",
@@ -796,7 +863,8 @@
         ],
         "latitude": 47.09778,
         "longitude": 51.91222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1046224",
@@ -808,7 +876,8 @@
         ],
         "latitude": 43.241951,
         "longitude": 76.955312,
-        "type": "university"
+        "type": "university",
+        "description": "KIMEP University, formerly Kazakhstan Institute of Management, Economics, and Forecasting, is a private university founded in 1992 in Almaty, Kazakhstan."
     },
     {
         "wikidata_id": "Q4227527",
@@ -821,7 +890,8 @@
         ],
         "latitude": 53.2832,
         "longitude": 69.3707,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16434809",
@@ -838,7 +908,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q22814817",
@@ -848,7 +919,8 @@
         "aliases": null,
         "latitude": 53.1825,
         "longitude": 63.6094444,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q131765600",
@@ -864,7 +936,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q127745",
@@ -877,7 +950,8 @@
         ],
         "latitude": 51.1602,
         "longitude": 71.4648,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4208090",
@@ -889,7 +963,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4062692",
@@ -899,7 +974,8 @@
         "aliases": null,
         "latitude": 43.63417,
         "longitude": 76.9275,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1046493",
@@ -914,7 +990,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4315136",
@@ -924,7 +1001,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30893047",
@@ -934,7 +1012,8 @@
         "aliases": null,
         "latitude": 51.0775,
         "longitude": 71.39222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12577825",
@@ -946,7 +1025,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4059208",
@@ -956,7 +1036,8 @@
         "aliases": null,
         "latitude": 43.218,
         "longitude": 76.96,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2783344",
@@ -968,7 +1049,8 @@
         ],
         "latitude": 51.09,
         "longitude": 71.3994444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124731186",
@@ -978,7 +1060,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4412495",
@@ -994,7 +1077,8 @@
         ],
         "latitude": 54.876,
         "longitude": 69.134,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q137332395",
@@ -1004,7 +1088,8 @@
         "aliases": null,
         "latitude": 52.2960671,
         "longitude": 76.9457001,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q74528464",
@@ -1014,7 +1099,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q43147119",
@@ -1028,7 +1114,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12528530",
@@ -1038,7 +1125,8 @@
         "aliases": null,
         "latitude": 43.25306,
         "longitude": 76.92278,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q12561937",
@@ -1048,7 +1136,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q133446743",
@@ -1058,7 +1147,8 @@
         "aliases": null,
         "latitude": 43.246011,
         "longitude": 76.9530916,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q133458287",
@@ -1068,7 +1158,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q134580098",
@@ -1078,7 +1169,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16656960",
@@ -1088,7 +1180,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16656963",
@@ -1098,7 +1191,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19909857",
@@ -1108,7 +1202,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q21655345",
@@ -1118,7 +1213,8 @@
         "aliases": null,
         "latitude": 51.74222,
         "longitude": 75.32167,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q2495843",
@@ -1128,7 +1224,8 @@
         "aliases": null,
         "latitude": 43.24216,
         "longitude": 76.949389,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25390884",
@@ -1138,7 +1235,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28669124",
@@ -1148,7 +1246,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4060165",
@@ -1158,7 +1257,8 @@
         "aliases": null,
         "latitude": 50.28889,
         "longitude": 57.15028,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q4208127",
@@ -1168,7 +1268,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q43147299",
@@ -1178,7 +1279,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4341874",
@@ -1188,7 +1290,8 @@
         "aliases": null,
         "latitude": 52.298,
         "longitude": 76.95,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q4476775",
@@ -1198,7 +1301,8 @@
         "aliases": null,
         "latitude": 51.193,
         "longitude": 51.376,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16432001",
@@ -1213,7 +1317,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4399515",
@@ -1223,7 +1328,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100969228",
@@ -1233,7 +1339,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1513804",
@@ -1243,7 +1350,8 @@
         "aliases": null,
         "latitude": 43.23648,
         "longitude": 76.931569,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12074569",
@@ -1256,7 +1364,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2370088",
@@ -1268,7 +1377,8 @@
         ],
         "latitude": 43.208,
         "longitude": 76.67,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2324449",
@@ -1280,7 +1390,8 @@
         ],
         "latitude": 50.405939,
         "longitude": 80.243947,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12532200",
@@ -1294,7 +1405,8 @@
         ],
         "latitude": 43.225,
         "longitude": 76.92111,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q991502",
@@ -1307,7 +1419,8 @@
         ],
         "latitude": 50.398866,
         "longitude": 80.21268,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q120985652",
@@ -1317,7 +1430,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4447937",
@@ -1327,7 +1441,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25502792",
@@ -1337,7 +1452,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12528526",
@@ -1347,7 +1463,8 @@
         "aliases": null,
         "latitude": 43.2024,
         "longitude": 76.88,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q2324530",
@@ -1361,7 +1478,8 @@
         ],
         "latitude": 52.266318,
         "longitude": 76.966674,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4465695",
@@ -1371,7 +1489,8 @@
         "aliases": null,
         "latitude": 43.2373,
         "longitude": 76.9399,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100969222",
@@ -1381,7 +1500,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q137321740",
@@ -1391,7 +1511,8 @@
         "aliases": null,
         "latitude": 51.181807,
         "longitude": 71.4309809,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4186452",
@@ -1401,7 +1522,8 @@
         "aliases": null,
         "latitude": 51.178524,
         "longitude": 51.309548,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100969227",
@@ -1411,7 +1533,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12532257",
@@ -1421,7 +1544,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4186453",
@@ -1433,7 +1557,8 @@
         ],
         "latitude": 51.193,
         "longitude": 51.376,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4186447",
@@ -1445,7 +1570,8 @@
         ],
         "latitude": 51.2141,
         "longitude": 51.3671,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4533962",
@@ -1458,7 +1584,8 @@
         ],
         "latitude": 42.3202,
         "longitude": 69.592,
-        "type": "university"
+        "type": "university",
+        "description": "The M. O. Auezov South Kazakhstan State University (Kazakh: М. О. Әуезов атындағы Оңтүстік Қазақстан мемлекеттік университеті, romanized: M. O. Äuezov atyndağy Oñtüstık Qazaqstan memlekettık universitetı) also known as Mukhtar Auezov South Kazakhstan University, is a multidisciplinary higher educational institution in the city of Shymkent, which provides training in 76 technical and humanitarian specialties. It was founded in 1943."
     },
     {
         "wikidata_id": "Q13415076",
@@ -1470,7 +1597,8 @@
         ],
         "latitude": 45.0088,
         "longitude": 78.35,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12544310",
@@ -1483,6 +1611,7 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

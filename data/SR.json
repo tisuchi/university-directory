@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 5.8253333,
         "longitude": -55.1526667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q115656546",
@@ -20,7 +21,8 @@
         ],
         "latitude": 5.8776667,
         "longitude": -56.9895833,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1975617",
@@ -30,7 +32,8 @@
         "aliases": null,
         "latitude": 5.81402,
         "longitude": -55.21626,
-        "type": "university"
+        "type": "university",
+        "description": "Anton de Kom University (Dutch: Anton de Kom Universiteit van Suriname) is the only university in Suriname. It is located in the capital, Paramaribo, and named for Anton de Kom, an anti-colonialist activist who was killed by the Nazis while in exile in the Netherlands."
     },
     {
         "wikidata_id": "Q98399568",
@@ -40,7 +43,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q115281888",
@@ -50,7 +54,8 @@
         "aliases": null,
         "latitude": 5.8154167,
         "longitude": -55.2184722,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q115633569",
@@ -64,7 +69,8 @@
         ],
         "latitude": 5.8149444,
         "longitude": -55.2150833,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q98221557",
@@ -74,7 +80,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q98399207",
@@ -84,7 +91,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q98399211",
@@ -94,7 +102,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q98399204",
@@ -104,7 +113,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q56612636",
@@ -114,7 +124,8 @@
         "aliases": null,
         "latitude": 5.828833,
         "longitude": -55.154917,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q98406613",
@@ -124,7 +135,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q98399570",
@@ -134,7 +146,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q98384026",
@@ -147,7 +160,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q115647942",
@@ -159,7 +173,8 @@
         ],
         "latitude": 5.8139722,
         "longitude": -55.2166667,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q86820713",
@@ -169,7 +184,8 @@
         "aliases": null,
         "latitude": 5.827641,
         "longitude": -55.181079,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2196554",
@@ -181,7 +197,8 @@
         ],
         "latitude": 5.81303,
         "longitude": -55.21615,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q115645933",
@@ -193,7 +210,8 @@
         ],
         "latitude": 5.8149722,
         "longitude": -55.2194444,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q64871009",
@@ -203,7 +221,8 @@
         "aliases": null,
         "latitude": 5.815368,
         "longitude": -55.198665,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q98398887",
@@ -215,7 +234,8 @@
         ],
         "latitude": 5.8494444,
         "longitude": -55.14,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q98406620",
@@ -227,7 +247,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q98406578",
@@ -237,7 +258,8 @@
         "aliases": null,
         "latitude": 5.8286111,
         "longitude": -55.1533333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q23198422",
@@ -247,7 +269,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "NAKS (Sranan Tongo: Na Afrikan Kulturu fu Sranan, English: Our African Culture of Suriname) is a social and cultural organization which promotes Afro-Surinamese culture and expression in Suriname and worldwide. The organisation was founded in 1948 with Eugène Drenthe as its first president, when it emerged as the successor of association football club T.O.P. (Tot Ons Plezier) which was founded a year prior.\nOriginally a multi-sports club, NAKS (then known as Na Arbeid Komt Sport) eventually evolved into a social and cultural organization promoting language, sports, music, arts and crafts of the African diaspora."
     },
     {
         "wikidata_id": "Q115596447",
@@ -263,7 +286,8 @@
         ],
         "latitude": 5.8149444,
         "longitude": -55.2150833,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q115626920",
@@ -277,7 +301,8 @@
         ],
         "latitude": 5.8149444,
         "longitude": -55.2150833,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q28777878",
@@ -287,7 +312,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q104643395",
@@ -297,7 +323,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q98398517",
@@ -307,7 +334,8 @@
         "aliases": null,
         "latitude": 5.8161111,
         "longitude": -55.1963889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q115648582",
@@ -319,7 +347,8 @@
         ],
         "latitude": 5.8130833,
         "longitude": -55.2171389,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q98398523",
@@ -332,6 +361,7 @@
         ],
         "latitude": 5.8091667,
         "longitude": -55.2119444,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

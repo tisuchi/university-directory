@@ -9,7 +9,8 @@
         ],
         "latitude": 36.8233206,
         "longitude": 10.18135,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551799",
@@ -25,7 +26,8 @@
         ],
         "latitude": 36.820585,
         "longitude": 10.186978,
-        "type": "university"
+        "type": "university",
+        "description": "The Bouebdelli University (BU), formerly known as the Tunisia Private University (ULT), is a university in Tunis, Tunisia. It was founded in 1992 and is organized in six faculties."
     },
     {
         "wikidata_id": "Q852223",
@@ -38,7 +40,8 @@
         ],
         "latitude": 36.8705556,
         "longitude": 10.3344444,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Carthage (French: Université de Carthage, Arabic: جامعة قرطاج) is a university located in Tunis, Tunisia, and was founded in 1988."
     },
     {
         "wikidata_id": "Q30261696",
@@ -50,7 +53,8 @@
         ],
         "latitude": 36.839789,
         "longitude": 10.197308,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30261707",
@@ -63,7 +67,8 @@
         ],
         "latitude": 36.70922,
         "longitude": 10.426818,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3551531",
@@ -76,7 +81,8 @@
         ],
         "latitude": 36.8178,
         "longitude": 10.1829,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30284479",
@@ -89,7 +95,8 @@
         ],
         "latitude": 36.456498,
         "longitude": 10.714995,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30282076",
@@ -103,7 +110,8 @@
         ],
         "latitude": 36.839957,
         "longitude": 10.191697,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30261437",
@@ -115,7 +123,8 @@
         ],
         "latitude": 36.919289,
         "longitude": 10.079495,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30281513",
@@ -127,7 +136,8 @@
         ],
         "latitude": 34.773596,
         "longitude": 10.803273,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5149695",
@@ -137,7 +147,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "Columbia Global Centers are research outposts established by Columbia University in different locations around the world, as part of its initiative to further establish an international research university. The first of these centers opened in March 2009 in Beijing, China, and Amman, Jordan, and Columbia opened facilities in Paris, France, and Mumbai, India, in March 2010 and Istanbul, Turkey in November 2011. Locations in Nairobi, Rio de Janeiro and Santiago de Chile were opened in 2012 and 2013."
     },
     {
         "wikidata_id": "Q59535245",
@@ -149,7 +160,8 @@
         ],
         "latitude": 34.838991,
         "longitude": 10.756543,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q428136",
@@ -164,7 +176,8 @@
         ],
         "latitude": 36.7944667,
         "longitude": 10.1641194,
-        "type": "university"
+        "type": "university",
+        "description": "Ez-Zitouna University (Arabic: جامعة الزيتونة, romanized: Jāmi‘a al-Zaytūna, French: Université Ez-Zitouna) is a medieval public university in Tunis, Tunisia. The university originated in the Al-Zaytuna Mosque, founded at the end of the 7th or in the early 8th century, which developed into a major Islamic centre of learning in North Africa. It consists of the Oldest and Higher Institute of Theology and the Higher Institute of Islamic Civilisation in Tunis and a research institution, the Centre of Islamic Studies, in Kairouan."
     },
     {
         "wikidata_id": "Q105004248",
@@ -176,7 +189,8 @@
         ],
         "latitude": 36.8142522,
         "longitude": 10.178096,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105004249",
@@ -188,7 +202,8 @@
         ],
         "latitude": 35.8452338,
         "longitude": 10.5903899,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12237991",
@@ -198,7 +213,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Fondation Temimi pour la recherche scientifique et l'information (Temimi Foundation for Scientific Research and Information) (Arabic: مؤسسة التميمي للبحث العلمي والمعلومات)   is a Tunisian private research institution founded by historian Abdeljelil Temimi, which specializes in human and social sciences. It is cited as \"the first private academic foundation in the Arab world serving researchers and organizing conferences\"."
     },
     {
         "wikidata_id": "Q30294290",
@@ -210,7 +226,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18086063",
@@ -222,7 +239,8 @@
         ],
         "latitude": 36.8173,
         "longitude": 10.1849,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294263",
@@ -237,7 +255,8 @@
         ],
         "latitude": 36.823287,
         "longitude": 10.17741,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3152179",
@@ -249,7 +268,8 @@
         ],
         "latitude": 33.501324,
         "longitude": 10.642576,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q105094211",
@@ -261,7 +281,8 @@
         ],
         "latitude": 36.7958109,
         "longitude": 10.0985553,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q113995889",
@@ -271,7 +292,8 @@
         "aliases": null,
         "latitude": 36.80062,
         "longitude": 10.18263,
-        "type": "university"
+        "type": "university",
+        "description": "The Institut maghrébin des sciences économiques et technologiques (IMSET) is a private vocational school based in Tunis, Tunisia. Since 2017, it has been part of Honoris United Universities. IMSET has campus facilities in Tunis, Sousse, Gabès and Nabeul."
     },
     {
         "wikidata_id": "Q30254553",
@@ -283,7 +305,8 @@
         ],
         "latitude": 36.84566,
         "longitude": 10.190607,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30261859",
@@ -295,7 +318,8 @@
         ],
         "latitude": 36.816368,
         "longitude": 10.176565,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30256990",
@@ -308,7 +332,8 @@
         ],
         "latitude": 36.843799,
         "longitude": 10.325486,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q105094216",
@@ -320,7 +345,8 @@
         ],
         "latitude": 35.8099924,
         "longitude": 10.6092874,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105094215",
@@ -332,7 +358,8 @@
         ],
         "latitude": 35.8355304,
         "longitude": 10.612799,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105094214",
@@ -344,7 +371,8 @@
         ],
         "latitude": 36.8194102,
         "longitude": 10.1794239,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12193459",
@@ -354,7 +382,8 @@
         "aliases": null,
         "latitude": 35.8246147,
         "longitude": 10.6295509,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105094207",
@@ -364,7 +393,8 @@
         "aliases": null,
         "latitude": 35.6746479,
         "longitude": 10.1008417,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105425271",
@@ -374,7 +404,8 @@
         "aliases": null,
         "latitude": 35.8667991,
         "longitude": 10.6066715,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105094210",
@@ -386,7 +417,8 @@
         ],
         "latitude": 35.839718,
         "longitude": 10.5983693,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105094208",
@@ -396,7 +428,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105094205",
@@ -408,7 +441,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30254816",
@@ -422,7 +456,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q17005849",
@@ -434,7 +469,8 @@
         ],
         "latitude": 34.7423367,
         "longitude": 10.7358001,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105004244",
@@ -446,7 +482,8 @@
         ],
         "latitude": 34.7291018,
         "longitude": 10.7378992,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551783",
@@ -459,7 +496,8 @@
         ],
         "latitude": 36.8410174,
         "longitude": 10.2059606,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105004247",
@@ -471,7 +509,8 @@
         ],
         "latitude": 36.4548316,
         "longitude": 10.7411046,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16682082",
@@ -483,7 +522,8 @@
         ],
         "latitude": 36.8164043,
         "longitude": 10.1847707,
-        "type": "university"
+        "type": "university",
+        "description": "Mahmoud el Materi University (UMM) (Arabic: جامعة محمود الماطري) is a private Tunisian university located in Tunis, accredited by the State of Tunisia, which specializes in health studies.\nIt holds the name of doctor Mahmoud El Materi. His daughter, Anissa El Materi Hached, is the founding president of the university."
     },
     {
         "wikidata_id": "Q3551710",
@@ -496,7 +536,8 @@
         ],
         "latitude": 36.8160304,
         "longitude": 10.0593571,
-        "type": "university"
+        "type": "university",
+        "description": "Manouba University is a public university in Manouba, Tunisia."
     },
     {
         "wikidata_id": "Q136090565",
@@ -508,7 +549,8 @@
         ],
         "latitude": 36.845798,
         "longitude": 10.269064,
-        "type": "institute"
+        "type": "institute",
+        "description": "Founded in 2014, the Mediterranean Institute of Technology (MedTech) is part of the South Mediterranean University which focuses on engineering and technology. It is and English-speaking university in Tunisia. MedTech provides courses in different areas such as Software Engineering, Computer Systems Engineering, Renewable Energies, Artificial Intelligence, and Blockchain applications."
     },
     {
         "wikidata_id": "Q96272025",
@@ -518,7 +560,8 @@
         "aliases": null,
         "latitude": 36.711356,
         "longitude": 10.427883,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q96272016",
@@ -528,7 +571,8 @@
         "aliases": null,
         "latitude": 36.917304,
         "longitude": 10.076188,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3152426",
@@ -538,7 +582,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12193536",
@@ -550,7 +595,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25451774",
@@ -560,7 +606,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2945213",
@@ -570,7 +617,8 @@
         "aliases": null,
         "latitude": 36.8332,
         "longitude": 10.1886,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2945458",
@@ -580,7 +628,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q96271988",
@@ -590,7 +639,8 @@
         "aliases": null,
         "latitude": 36.708603,
         "longitude": 10.426112,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q96272005",
@@ -600,7 +650,8 @@
         "aliases": null,
         "latitude": 36.716822,
         "longitude": 10.427143,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q96272040",
@@ -610,7 +661,8 @@
         "aliases": null,
         "latitude": 35.818259,
         "longitude": 10.595983,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q96272610",
@@ -620,7 +672,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30261701",
@@ -633,7 +686,8 @@
         ],
         "latitude": 36.893588,
         "longitude": 10.188878,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30261714",
@@ -645,7 +699,8 @@
         ],
         "latitude": 36.723521,
         "longitude": 10.343935,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30294297",
@@ -655,7 +710,8 @@
         "aliases": null,
         "latitude": 36.845798,
         "longitude": 10.269064,
-        "type": "university"
+        "type": "university",
+        "description": "South Mediterranean University was founded in 2002 and it is located in the Berges du Lac district of Tunis. It is the first English-speaking university in Tunisia. The university has benefited from the support of its founding members, which include companies, business leaders, professionals, and Tunisian academics."
     },
     {
         "wikidata_id": "Q3551719",
@@ -667,7 +723,8 @@
         ],
         "latitude": 36.8078,
         "longitude": 10.1778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294265",
@@ -680,7 +737,8 @@
         ],
         "latitude": 36.8976693,
         "longitude": 10.1935019,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16511675",
@@ -692,7 +750,8 @@
         ],
         "latitude": 36.8781,
         "longitude": 10.2646,
-        "type": "university"
+        "type": "university",
+        "description": "Tunis Carthage University (Arabic: جامعة تونس قرطاج), also known as UTC, is a private university in La Soukra, a residential suburb near Tunis, Tunisia. Founded in 1993, it is one of the oldest private institutions of higher education in Tunisia.\nAll degrees awarded by UTC are recognized by the Ministry of Higher Education and Scientific Research and internationally."
     },
     {
         "wikidata_id": "Q3551684",
@@ -707,7 +766,8 @@
         ],
         "latitude": 36.8292,
         "longitude": 10.1463,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Tunis El Manar (UTM, French: Université de Tunis El Manar, Arabic: جامعة تونس المنار) is a university located in Tunis, Tunisia. It was founded in 2000 and is organized in 11 Faculties."
     },
     {
         "wikidata_id": "Q3551686",
@@ -720,7 +780,8 @@
         ],
         "latitude": 36.7975965,
         "longitude": 10.1620454,
-        "type": "university"
+        "type": "university",
+        "description": "Tunis University (Arabic: جامعة تونس, French: Université de Tunis) is a public university in Tunis, Tunisia. It was founded in 1960 on the basis of earlier educational establishments.\nThe University of Tunis is a member of the Mediterranean University Union (UNIMED) and of Agence universitaire de la Francophonie."
     },
     {
         "wikidata_id": "Q105094223",
@@ -732,7 +793,8 @@
         ],
         "latitude": 36.844522,
         "longitude": 10.286983,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30261883",
@@ -744,7 +806,8 @@
         ],
         "latitude": 36.808882,
         "longitude": 10.178637,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30294270",
@@ -757,7 +820,8 @@
         ],
         "latitude": 36.8535781,
         "longitude": 10.2082299,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q649578",
@@ -770,7 +834,8 @@
         ],
         "latitude": 33.8533,
         "longitude": 10.1018,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Gabès (Arabic: جامعة قابس, French: Université de Gabès) is a public university located in southern Tunisia with its headquarters in Gabès."
     },
     {
         "wikidata_id": "Q3551586",
@@ -782,7 +847,8 @@
         ],
         "latitude": 34.4232502,
         "longitude": 8.7471305,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Gafsa (Arabic: جامعة قفصة) is a public university located in Gafsa, Tunisia."
     },
     {
         "wikidata_id": "Q3551596",
@@ -794,7 +860,8 @@
         ],
         "latitude": 36.5115238,
         "longitude": 8.7581192,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Jendouba (Arabic: جامعة جندوبة) is a public university in Jendouba, Tunisia. The university is oriented primarily toward sciences and information technology."
     },
     {
         "wikidata_id": "Q3551602",
@@ -806,7 +873,8 @@
         ],
         "latitude": 35.6767,
         "longitude": 10.1053,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Kairouan is a public research university located in Kairouan, Tunisia, and it was founded 2 September 2004."
     },
     {
         "wikidata_id": "Q3551637",
@@ -818,7 +886,8 @@
         ],
         "latitude": 35.7633611,
         "longitude": 10.8290278,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Monastir (Arabic: جامعة المنستير) or UM is a Tunisian multidisciplinary university with its own financial and administrative autonomy located in Monastir, Tunisia. It was founded in 2004 following the reform of the university higher education system and is organized in 5 Faculties, 2 graduate schools and 9 institutes.\nIts main activities are related to higher education, learning and research in a broad sense, with the aim of decentralizing services, supervising and improving the profitability of the higher education system."
     },
     {
         "wikidata_id": "Q540341",
@@ -830,7 +899,8 @@
         ],
         "latitude": 34.7371,
         "longitude": 10.7436,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551673",
@@ -842,7 +912,8 @@
         ],
         "latitude": 35.8348207,
         "longitude": 10.6276692,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294267",
@@ -854,7 +925,8 @@
         ],
         "latitude": 36.80831,
         "longitude": 10.181711,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q26709157",
@@ -866,7 +938,8 @@
         ],
         "latitude": 36.8312772,
         "longitude": 10.302461,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294292",
@@ -878,7 +951,8 @@
         ],
         "latitude": 36.820476,
         "longitude": 10.189712,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294258",
@@ -890,7 +964,8 @@
         ],
         "latitude": 36.8223975,
         "longitude": 10.1906834,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3151817",
@@ -902,7 +977,8 @@
         ],
         "latitude": 36.8169,
         "longitude": 10.1702,
-        "type": "university"
+        "type": "university",
+        "description": "The University Paris-Dauphine Tunis, officially known as University Paris Dauphine-PSL, Tunis Campus, is a private higher education and research institution based in Tunis, Tunisia. It was the first international campus of Paris-Dauphine University upon its establishment."
     },
     {
         "wikidata_id": "Q30294253",
@@ -912,7 +988,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551828",
@@ -924,7 +1001,8 @@
         ],
         "latitude": 35.8080905,
         "longitude": 10.610487,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105094206",
@@ -936,7 +1014,8 @@
         ],
         "latitude": 36.7686096,
         "longitude": 10.2451534,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294262",
@@ -948,7 +1027,8 @@
         ],
         "latitude": 34.7463286,
         "longitude": 10.7617028,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105094213",
@@ -960,7 +1040,8 @@
         ],
         "latitude": 36.8984003,
         "longitude": 10.1922589,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97368337",
@@ -970,7 +1051,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "UPSAT is a private higher education institution located in Tunis, Tunisia. Part of the Honoris United Universities network since 2018, UPSAT is also present in Sousse and Sfax.\nThe institute offers courses in the field of healthcare."
     },
     {
         "wikidata_id": "Q3551862",
@@ -982,7 +1064,8 @@
         ],
         "latitude": 36.8175194,
         "longitude": 10.1849667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105094224",
@@ -992,7 +1075,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105004252",
@@ -1004,7 +1088,8 @@
         ],
         "latitude": 36.8368897,
         "longitude": 10.2315651,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105094220",
@@ -1016,7 +1101,8 @@
         ],
         "latitude": 36.8372207,
         "longitude": 10.2315867,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105004253",
@@ -1028,7 +1114,8 @@
         ],
         "latitude": 34.8353891,
         "longitude": 10.7517163,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105094209",
@@ -1040,7 +1127,8 @@
         ],
         "latitude": 35.6462506,
         "longitude": 10.96295,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105094218",
@@ -1052,7 +1140,8 @@
         ],
         "latitude": 35.8264623,
         "longitude": 10.5890239,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105094217",
@@ -1064,7 +1153,8 @@
         ],
         "latitude": 36.8207855,
         "longitude": 10.1807519,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105004251",
@@ -1076,7 +1166,8 @@
         ],
         "latitude": 36.8407099,
         "longitude": 10.2442009,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105094219",
@@ -1088,7 +1179,8 @@
         ],
         "latitude": 36.8316882,
         "longitude": 10.3058432,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105094222",
@@ -1100,7 +1192,8 @@
         ],
         "latitude": 35.8105852,
         "longitude": 10.6092736,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105094212",
@@ -1112,7 +1205,8 @@
         ],
         "latitude": 35.7655017,
         "longitude": 10.8088087,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q65145744",
@@ -1124,7 +1218,8 @@
         ],
         "latitude": 35.8948139,
         "longitude": 10.5815739,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105094204",
@@ -1136,7 +1231,8 @@
         ],
         "latitude": 36.4429701,
         "longitude": 10.7103972,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105004246",
@@ -1148,6 +1244,7 @@
         ],
         "latitude": 36.8542473,
         "longitude": 10.2003323,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 18.027312,
         "longitude": -76.796382,
-        "type": "university"
+        "type": "university",
+        "description": "All American Institute of Medical Sciences is a private medical school located in the town of Black River, St. Elizabeth Parish, Jamaica, which began operations in 2009. It was chartered by the Government of Jamaica in 2009, and provisionally accredited by the Caribbean Accreditation Authority for Education in Medicine and other Health Professions (CAAM-HP) in 2010 with an annual renewal to 2015."
     },
     {
         "wikidata_id": "Q127688694",
@@ -19,7 +20,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5126853",
@@ -29,7 +31,8 @@
         "aliases": null,
         "latitude": 18.087851,
         "longitude": -77.271717,
-        "type": "college"
+        "type": "college",
+        "description": "Clarendon College, commonly called CC, is a high school in the town of Chapelton in northern Clarendon, Jamaica."
     },
     {
         "wikidata_id": "Q114099750",
@@ -42,7 +45,8 @@
         ],
         "latitude": 18.0253028,
         "longitude": -76.980043,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6838941",
@@ -52,7 +56,8 @@
         "aliases": null,
         "latitude": 17.988509,
         "longitude": -76.787739,
-        "type": "university"
+        "type": "university",
+        "description": "The Mico University College is an institution of higher education in Kingston, Jamaica."
     },
     {
         "wikidata_id": "Q6898852",
@@ -62,7 +67,8 @@
         "aliases": null,
         "latitude": 18.2765366,
         "longitude": -77.1141744,
-        "type": "college"
+        "type": "college",
+        "description": "Moneague College is a multidisciplinary institution located in Moneague,  Saint Ann, Jamaica on the main road between Kingston and Ocho Rios. The college is partly situated in the former colonial-era Moneague Hotel."
     },
     {
         "wikidata_id": "Q3551705",
@@ -72,7 +78,8 @@
         "aliases": null,
         "latitude": 18.0149,
         "longitude": -77.4982,
-        "type": "university"
+        "type": "university",
+        "description": "Northern Caribbean University (NCU) is a university in Mandeville, Manchester, Jamaica.\nNCU, founded in 1907, is owned and operated by the Seventh-day Adventist Church, and also has campuses in Kingston, Montego Bay, and Runaway Bay. The university offers a number of professional, pre-professional and vocational programmes."
     },
     {
         "wikidata_id": "Q123479379",
@@ -82,7 +89,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q1584459",
@@ -95,7 +103,8 @@
         ],
         "latitude": 18.0182,
         "longitude": -76.7441,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Technology, Jamaica (UTech, Ja.),  formerly the College of Arts, Science and Technology, is a public university in Jamaica."
     },
     {
         "wikidata_id": "Q101012678",
@@ -105,7 +114,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894663",
@@ -117,7 +127,8 @@
         ],
         "latitude": 18.007568,
         "longitude": -76.7813,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q746153",
@@ -133,7 +144,8 @@
         ],
         "latitude": 18.0058,
         "longitude": -76.7467,
-        "type": "university"
+        "type": "university",
+        "description": "The University of the West Indies (UWI), originally University College of the West Indies, is a public university system established to serve the higher education needs of the residents of 18 English-speaking countries and territories in the Caribbean: Anguilla, Antigua and Barbuda, The Bahamas, Barbados, Belize, Bermuda, British Virgin Islands, Cayman Islands, Dominica, Grenada, Guyana, Jamaica, Montserrat, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, and Turks and Caicos Islands.\nEach country is either a member of the Commonwealth of Nations or a British Overseas Territory.\nThe university has five major university centres: UWI Mona (Jamaica), UWI Cave Hill (Barbados), UWI St."
     },
     {
         "wikidata_id": "Q33527385",
@@ -145,7 +157,8 @@
         ],
         "latitude": 18.004793,
         "longitude": -76.74681,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012684",
@@ -155,7 +168,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012682",
@@ -165,7 +179,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012689",
@@ -175,7 +190,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012690",
@@ -185,7 +201,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012694",
@@ -195,7 +212,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012695",
@@ -205,7 +223,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100993113",
@@ -215,6 +234,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     }
 ]

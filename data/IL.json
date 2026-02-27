@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 32.175558,
         "longitude": 34.8350691,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q55649500",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": 32.1753868,
         "longitude": 34.8354394,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q138005831",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": 32.0744561,
         "longitude": 34.795623,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q2909288",
@@ -37,7 +40,8 @@
         "aliases": null,
         "latitude": 31.744245,
         "longitude": 34.774046,
-        "type": "college"
+        "type": "college",
+        "description": "Achva Academic College is a public academic institution located within the jurisdiction of Beer Tuvia Regional Council.\nAchva Academic College offers accredited undergraduate and graduate programs in various fields such as science, education, social sciences, and humanities. With 3,200 students, 500 lecturers, and 20 fields of study including special education, mathematics teaching, psychology, and more, the college also provides diploma studies, continuing education, and preparatory programs."
     },
     {
         "wikidata_id": "Q4686016",
@@ -47,7 +51,8 @@
         "aliases": null,
         "latitude": 32.0621667,
         "longitude": 34.7746389,
-        "type": "institute"
+        "type": "institute",
+        "description": "Adva Center is a non-partisan Israeli policy analysis center based in Tel Aviv."
     },
     {
         "wikidata_id": "Q2904100",
@@ -59,7 +64,8 @@
         ],
         "latitude": 32.115046,
         "longitude": 34.817779,
-        "type": "college"
+        "type": "college",
+        "description": "The Afeka — The Academic College of Engineering in Tel Aviv (Hebrew: אפקה - המכללה האקדמית להנדסה בתל אביב) is a public college in Tel Aviv, Israel. Afeka was established in 1996 and grants Bachelor and Masters degrees in engineering. The college offers 5 undergraduate programs with 17 fields of specialization as well as 5 graduate programs."
     },
     {
         "wikidata_id": "Q12236066",
@@ -72,7 +78,8 @@
         ],
         "latitude": 32.4217222,
         "longitude": 35.034,
-        "type": "college"
+        "type": "college",
+        "description": "The Al-Qasemi Academic College of Education is an academic college located in the city of Baqa al-Gharbiyye in the Haifa District in Israel.\nThe College was founded in 1989 as a college for Sharia and Islamic Studies, is authorized by the Council for Higher Education in Israel and specializes in the following fields: Islamic Studies, Arabic Language and Literature, English Language and Literature, Mathematics and Computers in the elementary and secondary tracks, Early Childhood Education track, Special Education track.\nThe college employs 120 faculty members, both Arabs and Jews."
     },
     {
         "wikidata_id": "Q4712692",
@@ -82,7 +89,8 @@
         "aliases": null,
         "latitude": 31.7865005,
         "longitude": 35.2310689,
-        "type": "institute"
+        "type": "institute",
+        "description": "The W. F. Albright Institute of Archaeological Research (AIAR) is an archaeological research institution located in East Jerusalem. It is the oldest American research center for ancient Near Eastern studies in the Middle East. Founded in 1900 as the American School of Oriental Research, it was renamed in 1970 after its most distinguished director and the father of biblical archaeology, William F. Albright."
     },
     {
         "wikidata_id": "Q55649755",
@@ -94,7 +102,8 @@
         ],
         "latitude": 31.7725231,
         "longitude": 35.1967876,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q130356552",
@@ -104,7 +113,8 @@
         "aliases": null,
         "latitude": 32.9729687,
         "longitude": 35.2795176,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4784481",
@@ -114,7 +124,8 @@
         "aliases": null,
         "latitude": 29.9676,
         "longitude": 35.0709,
-        "type": "university"
+        "type": "university",
+        "description": "The Arava Institute for Environmental Studies is an academic studies and research institute located in Kibbutz Ketura on the Israeli side of the Arava Valley. The Arava Institute's stated mission is to advance cross-border environmental cooperation in the face of political conflict."
     },
     {
         "wikidata_id": "Q114836180",
@@ -124,7 +135,8 @@
         "aliases": null,
         "latitude": 31.7916371,
         "longitude": 35.2005311,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q201325",
@@ -136,7 +148,8 @@
         ],
         "latitude": 32.1038889,
         "longitude": 35.2078056,
-        "type": "college"
+        "type": "college",
+        "description": "Ariel University (Hebrew: אוניברסיטת אריאל), previously a public college known as the Ariel University Center of Samaria, is an Israeli university located in the urban Israeli settlement of Ariel in the West Bank.\nThe college  was founded in 1982 as a regional branch of Bar-Ilan University and was originally located in the settlement of Kedumim, After moving  to a larger campus in Ariel, it  became the largest Israeli public college. In 2004–2005, the affiliation with Bar-Ilan ended and it became an independent college."
     },
     {
         "wikidata_id": "Q101012488",
@@ -146,7 +159,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012491",
@@ -156,7 +170,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q123909868",
@@ -176,7 +191,8 @@
         ],
         "latitude": 31.7778279,
         "longitude": 34.6582172,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6982862",
@@ -186,7 +202,8 @@
         "aliases": null,
         "latitude": 32.7738194,
         "longitude": 35.0205111,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Norman and Helen Asher Space Research Institute (ASRI) is a specialized research institute dedicated to multidisciplinary scientific research at Technion - Israel Institute of Technology, in Haifa, Israel.\nASRI was established in February, 1984. Its members come from a few Technion faculties, and it has a technical staff of Technion scientists in a variety of space-related fields (Physics, Aerospace Engineering, Mechanical Engineering, Electrical Engineering, Autonomous Systems and Computer Sciences)."
     },
     {
         "wikidata_id": "Q4584790",
@@ -196,7 +213,8 @@
         "aliases": null,
         "latitude": 31.6690528,
         "longitude": 34.5716583,
-        "type": "college"
+        "type": "college",
+        "description": "Ashkelon Academic College (Hebrew: המכללה האקדמית אשקלון, HaMiklala HaAkademit Ashkelon) is a public college in Ashkelon, Israel. The college has two faculties, the School of Economics and Social Work, for management, logistics, banking, and accounting, in which undergraduate and graduate studies take place, as well as the School of Health Sciences, for undergraduate studies in nutrition, nursing, and public health.\nThe college provides programs in undergraduate studies in the fields of politics and government, computer science, sociology and anthropology, psychology, criminology, Land of Israel studies, tourism and multidisciplinary studies in the social sciences."
     },
     {
         "wikidata_id": "Q117536118",
@@ -208,7 +226,8 @@
         ],
         "latitude": 32.1884821,
         "longitude": 34.8878081,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q13639277",
@@ -220,7 +239,8 @@
         ],
         "latitude": 31.7687667,
         "longitude": 35.1938444,
-        "type": "college"
+        "type": "college",
+        "description": "Azrieli College of Engineering Jerusalem (Hebrew: עזריאלי-המכללה להנדסה ירושלים) is an Israeli public academic college that trains engineers. It is located in the Ramat Beit HaKerem neighborhood of Jerusalem, between Jerusalem's two major high-tech industrial areas, Har Hotzvim and the Jerusalem Technology Park."
     },
     {
         "wikidata_id": "Q101012575",
@@ -230,7 +250,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012582",
@@ -240,7 +261,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012570",
@@ -250,7 +272,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012571",
@@ -260,7 +283,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012572",
@@ -270,7 +294,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012584",
@@ -280,7 +305,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012586",
@@ -290,7 +316,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012588",
@@ -300,7 +327,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012576",
@@ -310,7 +338,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012585",
@@ -322,7 +351,8 @@
         ],
         "latitude": 32.0675919,
         "longitude": 34.8428389,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4880478",
@@ -332,7 +362,8 @@
         "aliases": null,
         "latitude": 32.0677778,
         "longitude": 34.8425,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Begin–Sadat Center for Strategic Studies (BESA Center; Hebrew: מרכז בֶּגין-סַאדאת למחקרים אסטרטגיים, romanized: mirkaz began-sadt lemachakrim astrategi'im) is an Israeli right-leaning think tank affiliated with Bar-Ilan University and supported by the NATO Mediterranean Initiative, conducting policy-relevant research on Middle Eastern and global strategic affairs, particularly as they relate to the national security and foreign policy of Israel and regional peace and stability. The center's mission is to contribute to promoting peace and security in the Middle East, through policy-oriented researches on national security in the Middle East. It is located at the Social Sciences Faculty of Bar-Ilan University."
     },
     {
         "wikidata_id": "Q2890642",
@@ -345,7 +376,8 @@
         ],
         "latitude": 32.2011444,
         "longitude": 34.9262528,
-        "type": "college"
+        "type": "college",
+        "description": "Beit Berl College is a multi-disciplinary academic college for higher education located in Beit Berl in the Sharon region of Israel. It is one of the oldest colleges in Israel.\nThe college grants undergraduate degrees (B.Ed and B.Ed.F.A.) and graduate degrees (M.Ed and M.Teach) in a variety of disciplines in teaching and education (formal and informal), in the arts (fine arts, film, art education, art therapy), humanities and social sciences."
     },
     {
         "wikidata_id": "Q61125370",
@@ -355,7 +387,8 @@
         "aliases": null,
         "latitude": 30.8558862,
         "longitude": 34.7815764,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2620416",
@@ -365,7 +398,8 @@
         "aliases": null,
         "latitude": 30.8534944,
         "longitude": 34.7834861,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Ben-Gurion National Solar Energy Center at Midreshet Ben-Gurion is the national alternative energy research institute of Israel.  It was established in 1987 by the Ministry of National Infrastructures to study promising alternative and clean energy technologies, particularly those involving solar power.  Since July 1991, the center has been operated by Ben-Gurion University of the Negev's Jacob Blaustein Institutes for Desert Research."
     },
     {
         "wikidata_id": "Q101012498",
@@ -375,7 +409,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012500",
@@ -385,7 +420,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q737332",
@@ -398,7 +434,8 @@
         ],
         "latitude": 31.2621917,
         "longitude": 34.8015111,
-        "type": "university"
+        "type": "university",
+        "description": "Ben-Gurion University of the Negev (BGU) (Hebrew: אוניברסיטת בן-גוריון בנגב, Universitat Ben-Guriyon baNegev) is a  public research university in Beersheba, Israel. Named after Israeli national founder David Ben-Gurion, the university was founded in 1969 and currently has five campuses; three in Beersheba, one in Sede Boqer and one in Eilat.\nBen-Gurion University has about 20,000 students."
     },
     {
         "wikidata_id": "Q101012503",
@@ -408,7 +445,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012505",
@@ -418,7 +456,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012506",
@@ -428,7 +467,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012492",
@@ -438,7 +478,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012507",
@@ -448,7 +489,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012510",
@@ -458,7 +500,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012493",
@@ -468,7 +511,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012495",
@@ -478,7 +522,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012511",
@@ -488,7 +533,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012512",
@@ -498,7 +544,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012513",
@@ -508,7 +555,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4902449",
@@ -518,7 +566,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "Bialik Institute (Hebrew: מוסד ביאליק, romanized: Mosad Bialik) is a research institution and publishing house, mostly dealing with the history and culture of the Hebrew language. It was established in 1935 by the World Zionist Executive and the Executive of the Jewish Agency and named after the Hebrew poet Hayim Nahman Bialik. Its works are mostly published in Hebrew and in English."
     },
     {
         "wikidata_id": "Q44515640",
@@ -528,7 +577,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q112241120",
@@ -538,7 +588,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136203782",
@@ -548,7 +599,8 @@
         "aliases": null,
         "latitude": 32.1276263,
         "longitude": 34.8040133,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q182867",
@@ -558,7 +610,8 @@
         "aliases": null,
         "latitude": 32.7626272,
         "longitude": 35.0181587,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Bucerius Institute for Research of Contemporary German History and Society at the University of Haifa was founded in 2001. The institute was started by the ZEIT-Stiftung Ebelin und Gerd Bucerius and Professor Dres. h.c."
     },
     {
         "wikidata_id": "Q7054016",
@@ -571,7 +624,8 @@
         ],
         "latitude": 32.0629722,
         "longitude": 34.7814444,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q110618545",
@@ -583,7 +637,8 @@
         ],
         "latitude": 32.7798233,
         "longitude": 35.0229807,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6662698",
@@ -593,7 +648,8 @@
         "aliases": null,
         "latitude": 32.8183333,
         "longitude": 35.0015,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6588031",
@@ -605,7 +661,8 @@
         ],
         "latitude": 31.77429,
         "longitude": 35.196445,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20502101",
@@ -615,7 +672,8 @@
         "aliases": null,
         "latitude": 32.0665268,
         "longitude": 34.8418751,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q19892171",
@@ -625,7 +683,8 @@
         "aliases": null,
         "latitude": 31.7758333,
         "longitude": 35.2,
-        "type": "university"
+        "type": "university",
+        "description": "The Center for Jewish Art (CJA) is a research institute at the Hebrew University of Jerusalem, devoted to the documentation and research of Jewish visual culture. Established in 1979, it documented and researched objects of Jewish art in ca. 800 museums, libraries, private collections and synagogues in about 50 countries."
     },
     {
         "wikidata_id": "Q108761847",
@@ -637,7 +696,8 @@
         ],
         "latitude": 32.8156707,
         "longitude": 34.9659916,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q115728031",
@@ -649,7 +709,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16128744",
@@ -661,7 +722,8 @@
         ],
         "latitude": 32.1129167,
         "longitude": 34.8045556,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2904541",
@@ -671,7 +733,8 @@
         "aliases": null,
         "latitude": 31.97035,
         "longitude": 34.772104,
-        "type": "college"
+        "type": "college",
+        "description": "The College of Management Academic Studies (COLMAN) is a college located in the city of Rishon LeZion, Israel, and is the largest college in the country. Founded in 1978, COLMAN is the first non-subsidized, not-for-profit research academic institution in Israel to be recognized and certified by the Council for Higher Education in Israel. It offers bachelor's and master's degrees in business administration, law, media, economics, design, innovation and entrepreneurship, educational consulting, computer science, behavioural sciences, family studies, and various interdisciplinary programs."
     },
     {
         "wikidata_id": "Q12406725",
@@ -683,7 +746,8 @@
         ],
         "latitude": 31.7819,
         "longitude": 35.1906,
-        "type": "college"
+        "type": "college",
+        "description": "David Yellin College of Education is an academic teachers' college in Jerusalem, Israel established in 1913.\nThe college is one of the first teachers' colleges in Mandatory Palestine that taught in Hebrew.  Known as \"Seminar Beit Hakerem\" it was situated on a hilltop facing the Jerusalem neighbourhood of Beit Hakerem."
     },
     {
         "wikidata_id": "Q135787684",
@@ -693,7 +757,8 @@
         "aliases": null,
         "latitude": 32.067592,
         "longitude": 34.842839,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q55649262",
@@ -706,7 +771,8 @@
         ],
         "latitude": 32.0691667,
         "longitude": 34.8436111,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q60628264",
@@ -716,7 +782,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20502074",
@@ -726,7 +793,8 @@
         "aliases": null,
         "latitude": 32.066764,
         "longitude": 34.8421239,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q42873271",
@@ -739,7 +807,8 @@
         ],
         "latitude": 31.7746944,
         "longitude": 35.1979167,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Einstein Institute of Mathematics (Hebrew: מָכוֹן אַייְנְשְׁטַייְן לְמָתֶמָטִיקָה) is a centre for scientific research in mathematics at the Hebrew University of Jerusalem, founded in 1925 with the opening of the university. A leading research institute, the institute's faculty has included recipients of the Nobel Prize, Fields Medal, Wolf Prize, and Israel Prize."
     },
     {
         "wikidata_id": "Q20502032",
@@ -749,7 +818,8 @@
         "aliases": null,
         "latitude": 33.0060194,
         "longitude": 35.4417111,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q105602327",
@@ -759,7 +829,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6540452",
@@ -769,7 +840,8 @@
         "aliases": null,
         "latitude": 31.7545556,
         "longitude": 35.2193611,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6622840",
@@ -779,7 +851,8 @@
         "aliases": null,
         "latitude": 31.9083333,
         "longitude": 34.8118889,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q55650750",
@@ -789,7 +862,8 @@
         "aliases": null,
         "latitude": 32.0668568,
         "longitude": 34.775196,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q16128754",
@@ -802,7 +876,8 @@
         ],
         "latitude": 33.196098,
         "longitude": 35.575847,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q111395820",
@@ -812,7 +887,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Gazit Institute is an Israeli research institute. The institute is part of the research department unit of Aman. It is named after the former head of Aman, Major General Shlomo Gazit."
     },
     {
         "wikidata_id": "Q5512991",
@@ -822,7 +898,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "GCI Gemological Laboratories & College is a gemological laboratory and a college for educational services founded in 1998."
     },
     {
         "wikidata_id": "Q137785722",
@@ -832,7 +909,8 @@
         "aliases": null,
         "latitude": 32.0675919,
         "longitude": 34.8428389,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7065244",
@@ -845,7 +923,8 @@
         ],
         "latitude": 31.772049,
         "longitude": 35.224812,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Geological Survey of Israel (in Hebrew: המכון הגיאולוגי לישראל) is a national research institution in the field of earth sciences, operating within the framework of the Earth Sciences Administration of the Ministry of Energy and Infrastructure. The institute houses a database of geological studies conducted in the State of Israel and during the British Mandate period. The institute maintains professional cooperation with government research institutions, universities and other entities in Israel and abroad."
     },
     {
         "wikidata_id": "Q1205614",
@@ -859,7 +938,8 @@
         ],
         "latitude": 31.7861944,
         "longitude": 35.2505556,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q90814624",
@@ -873,7 +953,8 @@
         ],
         "latitude": 32.0489509,
         "longitude": 34.8442428,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Gertner Institute for Epidemiology and Health Policy Research is an Israeli think tank for the Ministry of Health (Israel) founded by Mordechai Shani in Tel HaShomer in 1992. Eldad Katorza was named director in 2021."
     },
     {
         "wikidata_id": "Q2920231",
@@ -883,7 +964,8 @@
         "aliases": null,
         "latitude": 31.8174972,
         "longitude": 34.7289,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q138005956",
@@ -893,7 +975,8 @@
         "aliases": null,
         "latitude": 31.8169318,
         "longitude": 34.7286021,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7001462",
@@ -905,7 +988,8 @@
         ],
         "latitude": 32.8249589,
         "longitude": 34.9691861,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q1569179",
@@ -915,7 +999,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q61126994",
@@ -928,7 +1013,8 @@
         ],
         "latitude": 31.7917178,
         "longitude": 35.2464349,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30272113",
@@ -940,7 +1026,8 @@
         ],
         "latitude": 31.793173,
         "longitude": 35.24806,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q174158",
@@ -957,7 +1044,8 @@
         ],
         "latitude": 31.7758333,
         "longitude": 35.2,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012541",
@@ -967,7 +1055,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012542",
@@ -977,7 +1066,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012543",
@@ -987,7 +1077,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012545",
@@ -997,7 +1088,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012623",
@@ -1009,7 +1101,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012626",
@@ -1019,7 +1112,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012565",
@@ -1031,7 +1125,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012548",
@@ -1041,7 +1136,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012549",
@@ -1051,7 +1147,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012550",
@@ -1061,7 +1158,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012551",
@@ -1071,7 +1169,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012552",
@@ -1081,7 +1180,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012554",
@@ -1091,7 +1191,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012627",
@@ -1101,7 +1202,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012555",
@@ -1111,7 +1213,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7038131",
@@ -1123,7 +1226,8 @@
         ],
         "latitude": 31.7702778,
         "longitude": 35.1972222,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q101012562",
@@ -1133,7 +1237,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012563",
@@ -1143,7 +1248,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012564",
@@ -1153,7 +1259,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6749105",
@@ -1165,7 +1272,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q22668350",
@@ -1177,7 +1285,8 @@
         ],
         "latitude": 31.4314722,
         "longitude": 34.5926667,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6771011",
@@ -1187,7 +1296,8 @@
         "aliases": null,
         "latitude": 31.7586364,
         "longitude": 35.1642871,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5884192",
@@ -1200,7 +1310,8 @@
         ],
         "latitude": 32.0143222,
         "longitude": 34.7738194,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5968840",
@@ -1212,7 +1323,8 @@
         ],
         "latitude": 32.7652,
         "longitude": 35.0156,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5972026",
@@ -1225,7 +1337,8 @@
         ],
         "latitude": 32.788304,
         "longitude": 35.039288,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6849585",
@@ -1237,7 +1350,8 @@
         ],
         "latitude": 31.7924722,
         "longitude": 35.2461667,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q131378467",
@@ -1247,7 +1361,8 @@
         "aliases": null,
         "latitude": 32.8182055,
         "longitude": 35.0012294,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q24910793",
@@ -1257,7 +1372,8 @@
         "aliases": null,
         "latitude": 31.7641667,
         "longitude": 35.15,
-        "type": "institute"
+        "type": "institute",
+        "description": "Institute for Medical Research, Israel-Canada (IMRIC) is a research institute affiliated with the Faculty of Medicine of the Hebrew University of Jerusalem."
     },
     {
         "wikidata_id": "Q4630508",
@@ -1276,7 +1392,8 @@
         ],
         "latitude": 32.1083333,
         "longitude": 34.8019444,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12406717",
@@ -1290,7 +1407,8 @@
         ],
         "latitude": 32.1754444,
         "longitude": 34.8353333,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q55649134",
@@ -1300,7 +1418,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6807019",
@@ -1312,7 +1431,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6046099",
@@ -1322,7 +1442,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124680837",
@@ -1332,7 +1453,8 @@
         "aliases": null,
         "latitude": 32.176575,
         "longitude": 34.835625,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q138007545",
@@ -1345,7 +1467,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q731328",
@@ -1358,7 +1481,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q63284228",
@@ -1370,7 +1494,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25495003",
@@ -1380,7 +1505,8 @@
         "aliases": null,
         "latitude": 31.7730556,
         "longitude": 35.1963889,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18639767",
@@ -1390,7 +1516,8 @@
         "aliases": null,
         "latitude": 32.3145556,
         "longitude": 34.8739722,
-        "type": "college"
+        "type": "college",
+        "description": "Israel College of the Bible (Hebrew: המכללה למקרא), also known as ONE FOR ISRAEL Bible College is a Christian Reformed fundamentalist private Hebrew-speaking Messianic Bible college in Netanya, Israel. It is an independent academically accredited institution not recognized by the State of Israel."
     },
     {
         "wikidata_id": "Q1674700",
@@ -1400,7 +1527,8 @@
         "aliases": null,
         "latitude": 31.924681,
         "longitude": 34.791658,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q136747766",
@@ -1410,7 +1538,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30296508",
@@ -1422,7 +1551,8 @@
         ],
         "latitude": 32.026826,
         "longitude": 34.778127,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18191685",
@@ -1432,7 +1562,8 @@
         "aliases": null,
         "latitude": 31.2618606,
         "longitude": 34.7997476,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q118383935",
@@ -1444,7 +1575,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2906825",
@@ -1454,7 +1586,8 @@
         "aliases": null,
         "latitude": 32.0731,
         "longitude": 34.775,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6118385",
@@ -1466,7 +1599,8 @@
         ],
         "latitude": 30.8541583,
         "longitude": 34.7824778,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q261894",
@@ -1482,7 +1616,8 @@
         ],
         "latitude": 31.7647222,
         "longitude": 35.1911111,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6185149",
@@ -1494,7 +1629,8 @@
         ],
         "latitude": 31.7512652,
         "longitude": 35.2270444,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6980444",
@@ -1504,7 +1640,8 @@
         "aliases": null,
         "latitude": 31.7834167,
         "longitude": 35.2211944,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q137361413",
@@ -1517,7 +1654,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6185200",
@@ -1531,7 +1669,8 @@
         ],
         "latitude": 31.7711389,
         "longitude": 35.2273972,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q104858711",
@@ -1544,7 +1683,8 @@
         ],
         "latitude": 31.76835,
         "longitude": 35.2189557,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q137010925",
@@ -1554,7 +1694,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6380511",
@@ -1564,7 +1705,8 @@
         "aliases": null,
         "latitude": 31.2709356,
         "longitude": 34.7809287,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q4971000",
@@ -1576,7 +1718,8 @@
         ],
         "latitude": 31.7928889,
         "longitude": 35.2314444,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q55084666",
@@ -1588,7 +1731,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6414075",
@@ -1598,7 +1742,8 @@
         "aliases": null,
         "latitude": 32.7053917,
         "longitude": 35.5909833,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6834573",
@@ -1608,7 +1753,8 @@
         "aliases": null,
         "latitude": 31.7767157,
         "longitude": 35.205482,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6591629",
@@ -1618,7 +1764,8 @@
         "aliases": null,
         "latitude": 31.7893333,
         "longitude": 35.1862778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6720613",
@@ -1628,7 +1775,8 @@
         "aliases": null,
         "latitude": 31.7874392,
         "longitude": 35.1876769,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16132249",
@@ -1640,7 +1788,8 @@
         ],
         "latitude": 32.0747841,
         "longitude": 34.8452514,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q124151072",
@@ -1650,7 +1799,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q31197546",
@@ -1660,7 +1810,8 @@
         "aliases": null,
         "latitude": 32.0730556,
         "longitude": 34.7909722,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q794566",
@@ -1675,7 +1826,8 @@
         ],
         "latitude": 32.6511722,
         "longitude": 35.2935139,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6688704",
@@ -1685,7 +1837,8 @@
         "aliases": null,
         "latitude": 32.25485,
         "longitude": 34.86968,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12409168",
@@ -1697,7 +1850,8 @@
         ],
         "latitude": 31.7756457,
         "longitude": 35.2147871,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30527198",
@@ -1707,7 +1861,8 @@
         "aliases": null,
         "latitude": 32.1366389,
         "longitude": 34.7973333,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6758047",
@@ -1717,7 +1872,8 @@
         "aliases": null,
         "latitude": 31.7605556,
         "longitude": 35.1922222,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q16130926",
@@ -1731,7 +1887,8 @@
         ],
         "latitude": 32.4582876,
         "longitude": 35.0217211,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q116266056",
@@ -1745,7 +1902,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q138161521",
@@ -1757,7 +1915,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20502082",
@@ -1767,7 +1926,8 @@
         "aliases": null,
         "latitude": 31.73975,
         "longitude": 34.9497222,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q111846884",
@@ -1781,7 +1941,8 @@
         ],
         "latitude": 31.2500526,
         "longitude": 34.7988402,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2905352",
@@ -1794,7 +1955,8 @@
         ],
         "latitude": 32.3072278,
         "longitude": 34.8798111,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6659751",
@@ -1804,7 +1966,8 @@
         "aliases": null,
         "latitude": 31.3127778,
         "longitude": 34.62,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7094417",
@@ -1814,7 +1977,8 @@
         "aliases": null,
         "latitude": 32.0491972,
         "longitude": 34.8620556,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q1423960",
@@ -1828,7 +1992,8 @@
         ],
         "latitude": 32.1886694,
         "longitude": 34.8878028,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012567",
@@ -1838,7 +2003,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012568",
@@ -1848,7 +2014,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294423",
@@ -1858,7 +2025,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6839159",
@@ -1868,7 +2036,8 @@
         "aliases": null,
         "latitude": 32.1151046,
         "longitude": 35.0321915,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q3655709",
@@ -1878,7 +2047,8 @@
         "aliases": null,
         "latitude": 32.9143778,
         "longitude": 35.2825917,
-        "type": "college"
+        "type": "college",
+        "description": "Braude Academic College of Engineering (Hebrew: המִכְלָלָה האָקָדֶמִית להַנְדָּסָה בראודה, romanized: ha-mikhlala ha-akademit le-handasa Braude) is a college in the city of Karmiel, Israel."
     },
     {
         "wikidata_id": "Q7072953",
@@ -1888,7 +2058,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12409185",
@@ -1898,7 +2069,8 @@
         "aliases": null,
         "latitude": 32.0560833,
         "longitude": 34.8039444,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7127302",
@@ -1908,7 +2080,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Palestine Institute of Folklore and Ethnology was formed by Raphael Patai in Jerusalem in 1944. The Institute produced a journal series, Edoth (Hebrew: \"Communities\"), of which only three volumes were published (the last one in May 1948). The Institute published a series of monographs as well and was a unique enterprise in mandatory Palestine."
     },
     {
         "wikidata_id": "Q7021584",
@@ -1918,7 +2091,8 @@
         "aliases": null,
         "latitude": 31.9006111,
         "longitude": 34.7898611,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7209798",
@@ -1930,7 +2104,8 @@
         ],
         "latitude": 31.7831111,
         "longitude": 35.2265556,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q55955575",
@@ -1940,7 +2115,8 @@
         "aliases": null,
         "latitude": 31.7752778,
         "longitude": 35.2230556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18192107",
@@ -1952,7 +2128,8 @@
         ],
         "latitude": 32.0923611,
         "longitude": 34.8390278,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q107204070",
@@ -1962,7 +2139,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q110559351",
@@ -1972,7 +2150,8 @@
         "aliases": null,
         "latitude": 32.7753316,
         "longitude": 35.0253643,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q110581993",
@@ -1982,7 +2161,8 @@
         "aliases": null,
         "latitude": 31.9839864,
         "longitude": 34.7761598,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q117358033",
@@ -1992,7 +2172,8 @@
         "aliases": null,
         "latitude": 31.774467,
         "longitude": 35.1974077,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12406722",
@@ -2002,7 +2183,8 @@
         "aliases": null,
         "latitude": 32.2913391,
         "longitude": 34.8641777,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q131781603",
@@ -2012,7 +2194,8 @@
         "aliases": null,
         "latitude": 32.0703122,
         "longitude": 34.78305,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q135472699",
@@ -2022,7 +2205,8 @@
         "aliases": null,
         "latitude": 32.0885616,
         "longitude": 34.80253,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16128736",
@@ -2032,7 +2216,8 @@
         "aliases": null,
         "latitude": 32.7052581,
         "longitude": 35.5914721,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16128918",
@@ -2042,7 +2227,8 @@
         "aliases": null,
         "latitude": 31.9705672,
         "longitude": 34.7724045,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16132969",
@@ -2052,7 +2238,8 @@
         "aliases": null,
         "latitude": 32.1112289,
         "longitude": 34.8025546,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18191675",
@@ -2062,7 +2249,8 @@
         "aliases": null,
         "latitude": 31.7943346,
         "longitude": 35.2424687,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2087255",
@@ -2072,7 +2260,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25493406",
@@ -2082,7 +2271,8 @@
         "aliases": null,
         "latitude": 32.7781479,
         "longitude": 35.0226686,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q54554024",
@@ -2092,7 +2282,8 @@
         "aliases": null,
         "latitude": 32.1034259,
         "longitude": 35.2077719,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6570597",
@@ -2102,7 +2293,8 @@
         "aliases": null,
         "latitude": 32.1919,
         "longitude": 34.874,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6574220",
@@ -2112,7 +2304,8 @@
         "aliases": null,
         "latitude": 31.794497,
         "longitude": 35.2427144,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6576567",
@@ -2122,7 +2315,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6595009",
@@ -2132,7 +2326,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6760845",
@@ -2142,7 +2337,8 @@
         "aliases": null,
         "latitude": 32.7793473,
         "longitude": 35.021346,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6851671",
@@ -2152,7 +2348,8 @@
         "aliases": null,
         "latitude": 32.1193179,
         "longitude": 34.8049134,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6852974",
@@ -2162,7 +2359,8 @@
         "aliases": null,
         "latitude": 31.7497778,
         "longitude": 35.1867222,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6924254",
@@ -2172,7 +2370,8 @@
         "aliases": null,
         "latitude": 32.1357735,
         "longitude": 34.7969131,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6964205",
@@ -2182,7 +2381,8 @@
         "aliases": null,
         "latitude": 32.1125833,
         "longitude": 34.8046111,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7006174",
@@ -2192,7 +2392,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q73989374",
@@ -2202,7 +2403,8 @@
         "aliases": null,
         "latitude": 31.9928889,
         "longitude": 34.8657222,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6770696",
@@ -2212,7 +2414,8 @@
         "aliases": null,
         "latitude": 32.0647778,
         "longitude": 34.8320278,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q2908845",
@@ -2230,7 +2433,8 @@
         ],
         "latitude": 32.176575,
         "longitude": 34.835625,
-        "type": "university"
+        "type": "university",
+        "description": "Reichman University (Hebrew: אוניברסיטת רייכמן) is a private university located in Herzliya, a city in the northern Tel Aviv District of the central coast of Israel. It was founded in 1994 as the Interdisciplinary Center Herzliya (IDC Herzliya, Hebrew: המרכז הבינתחומי הרצליה) private college, before being rebranded in 2021.\nIt receives no direct government funding, and in August 2021 became Israel's first private university."
     },
     {
         "wikidata_id": "Q64799593",
@@ -2242,7 +2446,8 @@
         ],
         "latitude": 32.7616667,
         "longitude": 35.0188889,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q108888150",
@@ -2252,7 +2457,8 @@
         "aliases": null,
         "latitude": 31.7928611,
         "longitude": 35.2461111,
-        "type": "university"
+        "type": "university",
+        "description": "The Rothberg International School (Hebrew: ע\"ש רוטברג בית הספר לתלמידים מחוץ לארץ, romanized: Beit ha-Sefer le-Talmidim mi-Chutz la-Aretz al shem Rothberg; abbreviated RIS), is a school for international students at the Hebrew University of Jerusalem. It offers programs for undergraduate students, graduate students, summer courses, researchers and new immigrants. The school is housed in the Boyar Building on the university’s Mt."
     },
     {
         "wikidata_id": "Q7067243",
@@ -2264,7 +2470,8 @@
         ],
         "latitude": 32.3425,
         "longitude": 34.9122222,
-        "type": "college"
+        "type": "college",
+        "description": "Ruppin Academic Center (Hebrew: הַמֶרְכָּז הַאָקָדֶמִי רוּפִּין), also known as Ruppin College, is a college in Israel, which has the status of an institutional settlement. It was established in 1949, is named after Arthur Ruppin, and is located near the moshav Kfar Monash, and within the Hefer Valley Regional Council area. In 2015, it had 4,500 students, whilst the village had a population of 293 in 2023."
     },
     {
         "wikidata_id": "Q7381357",
@@ -2276,7 +2483,8 @@
         ],
         "latitude": 32.7775,
         "longitude": 35.0216667,
-        "type": "university"
+        "type": "university",
+        "description": "The Russell Berrie Nanotechnology Institute (RBNI) was established in January 2005 as a joint endeavour of the Russell Berrie Foundation, the government of  Israel and the Technion, Israel Institute of Technology. It is one of the largest academic programs in Israel and is among the largest nanotechnology centers in the world.\nProf."
     },
     {
         "wikidata_id": "Q45137547",
@@ -2289,7 +2497,8 @@
         ],
         "latitude": 32.7776801,
         "longitude": 35.0215799,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q136093039",
@@ -2301,7 +2510,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Harry and Michael Sacher Institute for Legislative Research and Comparative Law (Hebrew: המכון למחקרי חקיקה ולמשפט השוואתי על שם הארי ומיכאל סאקר; commonly known as the Sacher Institute) is an Israeli research institute and publishing house operating within the Faculty of Law at the Hebrew University of Jerusalem. The institute was established in 1959 and specializes in legislation and comparative law.\nIn its early years, the institute advised on legislative matters for the Ministry of Justice and official bodies by producing research and position papers and assisting in drafting legislative proposals."
     },
     {
         "wikidata_id": "Q118524226",
@@ -2313,7 +2523,8 @@
         ],
         "latitude": 32.8596431,
         "longitude": 35.3105691,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q56612468",
@@ -2325,7 +2536,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q905937",
@@ -2335,7 +2547,8 @@
         "aliases": null,
         "latitude": 31.5092593,
         "longitude": 34.5955278,
-        "type": "college"
+        "type": "college",
+        "description": "Sapir College (Hebrew: המכללה האקדמית ספיר, HaMikhlela HaAkademit Sapir) is a college in Israel, located in the northwestern Negev desert near Sderot.\nIt is one of Israel’s largest public colleges and the largest employer in the Gaza Envelope region. The college has 7,500 students from a diverse range of backgrounds in academic and vocational programs; and employs 1,300 faculty and staff members."
     },
     {
         "wikidata_id": "Q7431023",
@@ -2345,7 +2558,8 @@
         "aliases": null,
         "latitude": 31.7703611,
         "longitude": 35.2043889,
-        "type": "university"
+        "type": "university",
+        "description": "Schechter Institute of Jewish Studies (Hebrew: מכון שכטר למדעי היהדות, Machon Schechter), located in the Neve Granot neighborhood of Jerusalem, is an Israeli academic institution."
     },
     {
         "wikidata_id": "Q6770485",
@@ -2355,7 +2569,8 @@
         "aliases": null,
         "latitude": 32.1117222,
         "longitude": 34.8038333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6595739",
@@ -2367,7 +2582,8 @@
         ],
         "latitude": 32.1556583,
         "longitude": 34.9007,
-        "type": "college"
+        "type": "college",
+        "description": "The Academic Center for Law and Science (Hebrew: המרכז האקדמי שערי מדע ומשפט), previously Sha'arei Mishpat Academic Center and earlier Sha'arei Mishpat College is a private college in Hod HaSharon, Israel. It was established in 1995. Justice Prof."
     },
     {
         "wikidata_id": "Q16129483",
@@ -2379,7 +2595,8 @@
         ],
         "latitude": 32.8358389,
         "longitude": 35.0692817,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7487171",
@@ -2391,7 +2608,8 @@
         ],
         "latitude": 31.7519722,
         "longitude": 35.2280583,
-        "type": "college"
+        "type": "college",
+        "description": "Shalem College (Hebrew: המרכז האקדמי שלם, HaMerkaz HaAkademi Shalem) is a private liberal arts college in Jerusalem, Israel, offering an undergraduate education with the aim of producing \"broadly educated citizens for lives of influence and service.\" It is the only Israeli institution of higher education to offer a broad-based Core Curriculum as the basis for a first degree, as opposed to the general practice in Israeli universities and colleges of restricting a student's courses to a single department or field.\nCandidates to the college are selected on the basis of intellectual capabilities and demonstrated commitment to public service, which are assessed by exams, written assignments, and interviews. Accepted applicants receive substantial financial aid packages."
     },
     {
         "wikidata_id": "Q115782067",
@@ -2401,7 +2619,8 @@
         "aliases": null,
         "latitude": 32.98984,
         "longitude": 35.6964912,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5176480",
@@ -2413,7 +2632,8 @@
         ],
         "latitude": 32.0901472,
         "longitude": 34.8031528,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q30100857",
@@ -2425,7 +2645,8 @@
         ],
         "latitude": 32.1112295,
         "longitude": 34.8024947,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q47492546",
@@ -2435,7 +2656,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6577918",
@@ -2445,7 +2667,8 @@
         "aliases": null,
         "latitude": 31.7759189,
         "longitude": 35.2146081,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6958492",
@@ -2455,7 +2678,8 @@
         "aliases": null,
         "latitude": 32.7760676,
         "longitude": 35.0258952,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1434936",
@@ -2465,7 +2689,8 @@
         "aliases": null,
         "latitude": 32.1121,
         "longitude": 34.8048,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7680319",
@@ -2478,7 +2703,8 @@
         ],
         "latitude": 32.0094487,
         "longitude": 34.7633173,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q22096376",
@@ -2488,7 +2714,8 @@
         "aliases": null,
         "latitude": 31.7272222,
         "longitude": 35.2019444,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6603600",
@@ -2498,7 +2725,8 @@
         "aliases": null,
         "latitude": 31.7710278,
         "longitude": 35.2133056,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q333705",
@@ -2512,7 +2740,8 @@
         ],
         "latitude": 32.7775,
         "longitude": 35.0216667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q319239",
@@ -2526,7 +2755,8 @@
         ],
         "latitude": 32.1125,
         "longitude": 34.805,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012589",
@@ -2536,7 +2766,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012610",
@@ -2546,7 +2777,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012590",
@@ -2556,7 +2788,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012591",
@@ -2566,7 +2799,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012616",
@@ -2576,7 +2810,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012569",
@@ -2586,7 +2821,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012617",
@@ -2596,7 +2832,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012593",
@@ -2606,7 +2843,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012594",
@@ -2616,7 +2854,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012595",
@@ -2626,7 +2865,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012599",
@@ -2636,7 +2876,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012600",
@@ -2646,7 +2887,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012601",
@@ -2656,7 +2898,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012602",
@@ -2666,7 +2909,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012606",
@@ -2676,7 +2920,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100998795",
@@ -2686,7 +2931,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q116270279",
@@ -2696,7 +2942,8 @@
         "aliases": null,
         "latitude": 32.1152938,
         "longitude": 34.8059503,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012608",
@@ -2706,7 +2953,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012609",
@@ -2716,7 +2964,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012598",
@@ -2726,7 +2975,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012618",
@@ -2736,7 +2986,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7695526",
@@ -2748,7 +2999,8 @@
         ],
         "latitude": 33.2356,
         "longitude": 35.5789,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6556129",
@@ -2760,7 +3012,8 @@
         ],
         "latitude": 32.3195,
         "longitude": 34.871,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6975176",
@@ -2775,7 +3028,8 @@
         ],
         "latitude": 32.0469722,
         "longitude": 34.7603056,
-        "type": "college"
+        "type": "college",
+        "description": "The Academic College of Tel Aviv-Yafo (Hebrew: המכללה האקדמית תל אביב יפו, HaAkademit Tel Aviv Yaffo) is a public college based in Tel Aviv, Israel. It is authorized to grant its graduates bachelor's degrees (BA, BSc and BSN) and masters degrees (MA, MSc and MBA)."
     },
     {
         "wikidata_id": "Q6652842",
@@ -2788,7 +3042,8 @@
         ],
         "latitude": 32.7980833,
         "longitude": 35.0163333,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6613293",
@@ -2798,7 +3053,8 @@
         "aliases": null,
         "latitude": 30.8486111,
         "longitude": 34.7819444,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q62560120",
@@ -2808,7 +3064,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6579575",
@@ -2818,7 +3075,8 @@
         "aliases": null,
         "latitude": 32.0628571,
         "longitude": 34.7778913,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16133537",
@@ -2828,7 +3086,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16132934",
@@ -2838,7 +3097,8 @@
         "aliases": null,
         "latitude": 32.1112683,
         "longitude": 34.8025352,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111803084",
@@ -2851,7 +3111,8 @@
         ],
         "latitude": 32.1133944,
         "longitude": 34.8054498,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16128936",
@@ -2861,7 +3122,8 @@
         "aliases": null,
         "latitude": 31.7782792,
         "longitude": 35.1960879,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q124814195",
@@ -2873,7 +3135,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7742175",
@@ -2886,7 +3149,8 @@
         ],
         "latitude": 31.7781,
         "longitude": 35.1961,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Israel Institute for Advanced Studies (Hebrew: הַמָכוֹן לְלִימוּדִים מִתְקַדְמִים; IIAS, or IAS in Israel) is a research institute in Jerusalem, devoted to academic research in physics, mathematics, the life sciences, economics, and comparative religion.  It is a self-governing body, both in its administrative function as well as its academic pursuits.  It is one of the nine members of the symposium Some Institutes for Advanced Study (SIAS)."
     },
     {
         "wikidata_id": "Q6561470",
@@ -2896,7 +3160,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6696247",
@@ -2908,7 +3173,8 @@
         ],
         "latitude": 29.5016667,
         "longitude": 34.9166667,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16128761",
@@ -2918,7 +3184,8 @@
         "aliases": null,
         "latitude": 31.7719722,
         "longitude": 35.1678611,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q30527163",
@@ -2928,7 +3195,8 @@
         "aliases": null,
         "latitude": 32.7622919,
         "longitude": 35.0193577,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q102211578",
@@ -2938,7 +3206,8 @@
         "aliases": null,
         "latitude": 31.2614003,
         "longitude": 34.8049704,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6622194",
@@ -2948,7 +3217,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6912272",
@@ -2958,7 +3228,8 @@
         "aliases": null,
         "latitude": 31.7751241,
         "longitude": 35.1981392,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Racah Institute of Physics (Hebrew: מכון רקח לפיסיקה) is an institute at the Hebrew University of Jerusalem, part of the faculty of Mathematics and Natural Sciences on the Edmund J. Safra Campus in the Givat Ram neighborhood of Jerusalem.\nThe institute is the center for all research and teaching in the various fields of physics at the Hebrew University.  These include astrophysics, high energy physics, quantum physics, nuclear physics, solid state physics, laser and plasma physics, biophysics, non-linear and statistical physics, and nanophysics."
     },
     {
         "wikidata_id": "Q126132990",
@@ -2968,7 +3239,8 @@
         "aliases": null,
         "latitude": 32.1145512,
         "longitude": 34.8059141,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6847055",
@@ -2981,7 +3253,8 @@
         ],
         "latitude": 32.1119922,
         "longitude": 34.8048411,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6602763",
@@ -2993,7 +3266,8 @@
         ],
         "latitude": 32.774,
         "longitude": 35.0243,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6546716",
@@ -3005,7 +3279,8 @@
         ],
         "latitude": 32.0950556,
         "longitude": 34.9452222,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q101012518",
@@ -3015,7 +3290,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012620",
@@ -3025,7 +3301,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012519",
@@ -3035,7 +3312,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012521",
@@ -3045,7 +3323,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012523",
@@ -3055,7 +3334,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012525",
@@ -3065,7 +3345,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012526",
@@ -3075,7 +3356,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012527",
@@ -3085,7 +3367,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012529",
@@ -3095,7 +3378,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012530",
@@ -3105,7 +3389,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012537",
@@ -3115,7 +3400,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012538",
@@ -3125,7 +3411,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7913486",
@@ -3137,7 +3424,8 @@
         ],
         "latitude": 31.77,
         "longitude": 35.2153,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7927676",
@@ -3147,7 +3435,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4182",
@@ -3169,7 +3458,8 @@
         ],
         "latitude": 31.9075,
         "longitude": 34.8091667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3334689",
@@ -3179,7 +3469,8 @@
         "aliases": null,
         "latitude": 32.9367,
         "longitude": 35.0864,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q156591",
@@ -3191,7 +3482,8 @@
         ],
         "latitude": 31.7744237,
         "longitude": 35.1772481,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12022215",
@@ -3204,7 +3496,8 @@
         ],
         "latitude": 32.4577778,
         "longitude": 35.0208333,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3571277",
@@ -3220,7 +3513,8 @@
         ],
         "latitude": 31.7759194,
         "longitude": 35.2146083,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q113515108",
@@ -3230,6 +3524,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     }
 ]

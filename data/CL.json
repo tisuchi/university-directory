@@ -9,7 +9,8 @@
         ],
         "latitude": -33.4375,
         "longitude": -70.6275,
-        "type": "university"
+        "type": "university",
+        "description": "The Academy of Christian Humanism University (UAHC) (Spanish: Universidad Academia de Humanismo Cristiano) is a Chilean non-profit private university, founded in 1988 but whose origins date back to 1975 when establishing the Academy of Christian Humanism, led by Cardinal Raúl Silva Henríquez (SDB), whose purpose was to bring together a group of intellectuals to discuss the politics, society, economy and culture of Chile.\nThis university, also known simply as La Academia (The Academy) is accredited in the areas of Institutional Management and Undergraduate Studies by the National Commission on Accreditation, an organization that ensures the quality of higher education in Chile, for a period of 4 years from August 2022 and August 2026.\nThe University now offers 44 courses leading to diploma and degree graduates, special programs and 3 master's programs in the areas of Social Sciences, Education, Arts and Culture, State, Economy and Management, and also a PhD in Latin American Studies with 10 years of experience."
     },
     {
         "wikidata_id": "Q611995",
@@ -19,7 +20,8 @@
         "aliases": null,
         "latitude": -33.486,
         "longitude": -70.518,
-        "type": "university"
+        "type": "university",
+        "description": "The Adolfo Ibáñez University (Spanish: Universidad Adolfo Ibáñez) (UAI) is a private research university in Santiago, Chile, associated with the Adolfo Ibáñez Foundation. In 1988, in accordance with new educational legislation, a new university was founded based on the Valparaiso Business School (Escuela de Negocios de Valparaiso), an older institution for professional teaching in business administration founded in 1953 by Adolfo Ibáñez Boggiano. The newer university would take its name some decades later."
     },
     {
         "wikidata_id": "Q5655738",
@@ -29,7 +31,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4712073",
@@ -41,7 +44,8 @@
         ],
         "latitude": -33.4448167,
         "longitude": -70.6620444,
-        "type": "university"
+        "type": "university",
+        "description": "Alberto Hurtado University (Spanish: Universidad Alberto Hurtado – UAH) is a Jesuit university located in Santiago, Chile. Established in 1997, the university was created from the merger of three separate institutes: Instituto Latinoamericano de Doctrina y Estudios Sociales (ILADES), the Centro de Investigación, Desarrollo de la Educación (CIDE), and the Fundación Educacional Roberto Bellarmino.  The university is named after a famous Chilean Jesuit Saint, Father Alberto Hurtado."
     },
     {
         "wikidata_id": "Q3348434",
@@ -53,7 +57,8 @@
         ],
         "latitude": -33.451563,
         "longitude": -70.667915,
-        "type": "university"
+        "type": "university",
+        "description": "The Andrés Bello University (Spanish: Universidad Andrés Bello or Universidad Nacional Andrés Bello; UNAB) is a Chilean private university founded in 1988."
     },
     {
         "wikidata_id": "Q101108247",
@@ -63,7 +68,8 @@
         "aliases": null,
         "latitude": -33.042983,
         "longitude": -71.626943,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124363001",
@@ -75,7 +81,8 @@
         ],
         "latitude": -23.5801983,
         "longitude": -70.3907581,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q23660725",
@@ -85,7 +92,8 @@
         "aliases": null,
         "latitude": -33.02471,
         "longitude": -71.63882,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4801467",
@@ -99,7 +107,8 @@
         ],
         "latitude": -33.439083,
         "longitude": -70.654694,
-        "type": "university"
+        "type": "university",
+        "description": "The Arts Faculty, University of Chile (Spanish: Facultad de Artes de la Universidad de Chile), is an academic discipline within at the University of Chile, which is located in the capital city of Santiago. Within the Arts Faculty the following departments are represented: visual arts, dance, music, sound, theatre, and arts theory; which occupy three buildings on campus."
     },
     {
         "wikidata_id": "Q3551323",
@@ -111,7 +120,8 @@
         ],
         "latitude": -20.2436111,
         "longitude": -70.1413889,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad Arturo Prat is a university in Chile. It is a derivative university part of the Chilean Traditional Universities.\nThe university was created in 1981 from the former campus of the University of Chile in Iquique."
     },
     {
         "wikidata_id": "Q961982",
@@ -126,7 +136,8 @@
         ],
         "latitude": -39.8073,
         "longitude": -73.2511,
-        "type": "university"
+        "type": "university",
+        "description": "Austral University of Chile (Spanish: Universidad Austral de Chile or UACh) is a Chilean research university based primarily in Valdivia, with satellite campuses in Puerto Montt and Coyhaique. Founded on September 7, 1954, it is one of the eight original Chilean Traditional Universities. It operates as a  nonprofit self-owned corporation under private law, and receives significant state-funding."
     },
     {
         "wikidata_id": "Q9091535",
@@ -136,7 +147,8 @@
         "aliases": null,
         "latitude": -33.427555,
         "longitude": -70.611492,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Autónoma de Chile (UAutónoma) is a private Chilean university. It has campuses in Temuco, Talca and Santiago (Providencia and Llano Subercaseaux).\nIt is affiliated to SUA (Single Admission System of Rector's Council of Chilean Universities)."
     },
     {
         "wikidata_id": "Q23073238",
@@ -146,7 +158,8 @@
         "aliases": null,
         "latitude": -45.5707,
         "longitude": -72.0756,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156370",
@@ -158,7 +171,8 @@
         ],
         "latitude": -33.467225,
         "longitude": -70.657605,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4939500",
@@ -168,7 +182,8 @@
         "aliases": null,
         "latitude": -33.440554,
         "longitude": -70.661216,
-        "type": "university"
+        "type": "university",
+        "description": "The Bolivarian University of Chile (Spanish: Universidad Bolivariana de Chile) is a Chilean university established in 1987. It has around 7000 students.\nThe university obtained functional autonomy in 2002."
     },
     {
         "wikidata_id": "Q67221884",
@@ -178,7 +193,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q50349282",
@@ -190,7 +206,8 @@
         ],
         "latitude": -33.4408333,
         "longitude": -70.641,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5053274",
@@ -202,7 +219,8 @@
         ],
         "latitude": -35.4354,
         "longitude": -71.6196,
-        "type": "university"
+        "type": "university",
+        "description": "Catholic University of Maule (Spanish: Universidad Católica del Maule, UCM) is a university in Maule, Chile. It is a derivative university part of the Chilean Traditional Universities.\nThis university was created in 1991, in what was the former Talca campus of the Pontifical Catholic University of Chile."
     },
     {
         "wikidata_id": "Q1251039",
@@ -214,7 +232,8 @@
         ],
         "latitude": -36.798882,
         "longitude": -73.056092,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Católica de la Santísima Concepción, translated into English as \"Catholic University of the Most Immaculate Conception\", is a private catholic university in Chile. It is part of the Chilean Traditional Universities."
     },
     {
         "wikidata_id": "Q3244385",
@@ -226,7 +245,8 @@
         ],
         "latitude": -29.964725,
         "longitude": -71.34789,
-        "type": "institute"
+        "type": "institute",
+        "description": "Catholic University of the North (Spanish: Universidad Católica del Norte (UCN)) is a university in Chile. It is part of the Chilean Traditional Universities. It is located in Antofagasta, Chile."
     },
     {
         "wikidata_id": "Q38931749",
@@ -236,7 +256,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q24933786",
@@ -246,7 +267,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112044553",
@@ -256,7 +278,8 @@
         "aliases": null,
         "latitude": -39.794722,
         "longitude": -73.25281,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5059754",
@@ -266,7 +289,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Center for Mathematical Modeling (CMM) was created in 2000 to encompass research and training activities that were being conducted by members of the Department of Mathematical Engineering at Universidad de Chile. Today, it features a range of activities from fundamental research in applied mathematics to industry-oriented research and education. The Center is a base for international collaboration; it hosts an increasing number of engineering and Ph.D. students as well as postdoctoral fellows, and provides a scientific counterpart to their industrial partners."
     },
     {
         "wikidata_id": "Q47486715",
@@ -278,7 +302,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q108737234",
@@ -290,7 +315,8 @@
         ],
         "latitude": -33.4412552,
         "longitude": -70.6434793,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74557767",
@@ -300,7 +326,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529978",
@@ -310,7 +337,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q112267441",
@@ -320,7 +348,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74549242",
@@ -330,7 +359,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530617",
@@ -340,7 +370,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74550863",
@@ -350,7 +381,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5693965",
@@ -360,7 +392,8 @@
         "aliases": null,
         "latitude": -33.4411222,
         "longitude": -70.6449167,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74556728",
@@ -372,7 +405,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5149695",
@@ -382,7 +416,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "Columbia Global Centers are research outposts established by Columbia University in different locations around the world, as part of its initiative to further establish an international research university. The first of these centers opened in March 2009 in Beijing, China, and Amman, Jordan, and Columbia opened facilities in Paris, France, and Mumbai, India, in March 2010 and Istanbul, Turkey in November 2011. Locations in Nairobi, Rio de Janeiro and Santiago de Chile were opened in 2012 and 2013."
     },
     {
         "wikidata_id": "Q131675664",
@@ -394,7 +429,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74550456",
@@ -404,7 +440,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1316229",
@@ -417,7 +454,8 @@
         ],
         "latitude": -33.451355,
         "longitude": -70.659757,
-        "type": "university"
+        "type": "university",
+        "description": "Diego Portales University (Spanish: Universidad Diego Portales, UDP) is one of the first private universities founded in Chile and is named after the Chilean statesman Diego Portales.\nUDP has campuses in the Barrio Universitario de Santiago and Huechuraba."
     },
     {
         "wikidata_id": "Q124130372",
@@ -429,7 +467,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74541257",
@@ -439,7 +478,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74549245",
@@ -449,7 +489,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q137643929",
@@ -459,7 +500,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "ESE Business School is a graduate business school of the University of the Andes (UA), a private university founded in 1989 and located in Santiago, Chile. Its academic activity is focused on postgraduate education and executive education in the fields of management and organizational leadership.\nThe school is academically and administratively integrated into the general structure of its parent institution, in accordance with the university’s statutes and internal regulations."
     },
     {
         "wikidata_id": "Q31903960",
@@ -469,7 +511,8 @@
         "aliases": null,
         "latitude": -20.4833333,
         "longitude": -69.3811111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156452",
@@ -479,7 +522,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74528113",
@@ -489,7 +533,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74543203",
@@ -499,7 +544,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q23660677",
@@ -509,7 +555,8 @@
         "aliases": null,
         "latitude": -32.89098,
         "longitude": -71.20819,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q457793",
@@ -527,7 +574,8 @@
         ],
         "latitude": -33.035021,
         "longitude": -71.595079,
-        "type": "university"
+        "type": "university",
+        "description": "The Federico Santa María Technical University (Spanish: Universidad Técnica Federico Santa María, UTFSM, or simply Santa Maria University) is a Chilean university member of the Rector's Council, founded in 1931 in Valparaíso, Chile.\nThe university has campuses in Valparaiso, Viña del Mar, Santiago (Vitacura and San Joaquín), Concepcion, as well as in Guayaquil, Ecuador. The Federico Santa María Technical University is the alma mater of several prominent businessmen, engineers and Chilean scientists."
     },
     {
         "wikidata_id": "Q23660678",
@@ -537,7 +585,8 @@
         "aliases": null,
         "latitude": -33.03639,
         "longitude": -71.48696,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q110152503",
@@ -549,7 +598,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527830",
@@ -559,7 +609,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5515968",
@@ -571,7 +622,8 @@
         ],
         "latitude": -33.4272222,
         "longitude": -70.6219444,
-        "type": "university"
+        "type": "university",
+        "description": "Gabriela Mistral University (Spanish: Universidad Gabriela Mistral) is a privately funded university in Santiago, Chile.\nWaldo L. Parra, the author of the national bestseller Masones & Libertadores teaches law at this university."
     },
     {
         "wikidata_id": "Q74530347",
@@ -581,7 +633,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1594001",
@@ -591,7 +644,8 @@
         "aliases": null,
         "latitude": -33.428239,
         "longitude": -70.604471,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Heidelberg Center for Latin America (Spanish: Heidelberg Center para América Latina; German: Heidelberg Center Lateinamerika) is a postgraduate institute in Santiago de Chile affiliated with Heidelberg University. It was founded in 2001 and officially opened on 9 April 2002. It is the only European-affiliated university in Chile."
     },
     {
         "wikidata_id": "Q6156471",
@@ -601,7 +655,8 @@
         "aliases": null,
         "latitude": -33.4495528,
         "longitude": -70.6579278,
-        "type": "university"
+        "type": "university",
+        "description": "The Iberoamerican University of Science and Technology  or UIBERO (in the past UNICIT) is a private university Chilean accredited by the National Commission of Accreditation (CNA-Chile). It finds  situated in the city of Santiago of Chile.\nIn 2016, the ránking of AméricaEconomía situated it in the 47th place of a total of 57 universities considered, whereas the ránking Webometrics situated it in the place 74th place of a total of 79 Chilean universities considered."
     },
     {
         "wikidata_id": "Q5914808",
@@ -611,7 +666,8 @@
         "aliases": null,
         "latitude": -33.380186,
         "longitude": -70.541049,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q23660720",
@@ -621,7 +677,8 @@
         "aliases": null,
         "latitude": -33.04203,
         "longitude": -71.62753,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q23775060",
@@ -631,7 +688,8 @@
         "aliases": null,
         "latitude": -33.0395526,
         "longitude": -71.6290232,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547424",
@@ -641,7 +699,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18939169",
@@ -651,7 +710,8 @@
         "aliases": null,
         "latitude": -33.431352,
         "longitude": -70.622153,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5917653",
@@ -661,7 +721,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30293974",
@@ -671,7 +732,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q23660723",
@@ -681,7 +743,8 @@
         "aliases": null,
         "latitude": -33.04453,
         "longitude": -71.6124,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156501",
@@ -691,7 +754,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16644471",
@@ -701,7 +765,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q23660721",
@@ -711,7 +776,8 @@
         "aliases": null,
         "latitude": -33.03917,
         "longitude": -71.60057,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q23660715",
@@ -721,7 +787,8 @@
         "aliases": null,
         "latitude": -33.01304,
         "longitude": -71.5397,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156533",
@@ -731,7 +798,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q106473107",
@@ -741,7 +809,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6825306",
@@ -754,7 +823,8 @@
         ],
         "latitude": -33.461808,
         "longitude": -70.597319,
-        "type": "university"
+        "type": "university",
+        "description": "The Metropolitan University of Educational Sciences (Spanish: Universidad Metropolitana de Ciencias de la Educación (UMCE), is a public and traditional university located in the commune of Ñuñoa, Chile. It is the fourth oldest university in the country, founded in 1889 as college of the University of Chile."
     },
     {
         "wikidata_id": "Q6825309",
@@ -766,7 +836,8 @@
         ],
         "latitude": -33.448507,
         "longitude": -70.658056,
-        "type": "university"
+        "type": "university",
+        "description": "Metropolitan University of Technology (Spanish: Universidad Tecnológica Metropolitana) is a university in Chile. It is part of the Chilean Traditional Universities.The Metropolitan Technological University, better known by its acronym as UTEM, is a state institution of public higher education in Chile, founded on August 30, 1993, after the breakup of the University of Chile.\nIt is one of the sixteen universities of the Consortium of Universities of the State of Chile, and belongs to the Council of Rectors of Chilean Universities."
     },
     {
         "wikidata_id": "Q6844861",
@@ -776,7 +847,8 @@
         "aliases": null,
         "latitude": -33.4386111,
         "longitude": -70.6475,
-        "type": "university"
+        "type": "university",
+        "description": "Miguel de Cervantes University (Spanish: Universidad Miguel de Cervantes) is a private university located in Santiago de Chile and was established in 1996. This university had around 853 students in 2010. It is accredited by Chile's National Accreditation Commission (CNA-Chile)."
     },
     {
         "wikidata_id": "Q110524002",
@@ -789,7 +861,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q116971294",
@@ -799,7 +872,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q23660724",
@@ -809,7 +883,8 @@
         "aliases": null,
         "latitude": -33.04488,
         "longitude": -71.60679,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q634259",
@@ -821,7 +896,8 @@
         ],
         "latitude": -33.0244223,
         "longitude": -71.6407731,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1129925",
@@ -836,7 +912,8 @@
         ],
         "latitude": -33.441148,
         "longitude": -70.640694,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5918229",
@@ -846,7 +923,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5854612",
@@ -858,7 +936,8 @@
         ],
         "latitude": -33.4417222,
         "longitude": -70.6394528,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1284408",
@@ -871,7 +950,8 @@
         ],
         "latitude": -33.0447,
         "longitude": -71.6056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74536399",
@@ -881,7 +961,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74542215",
@@ -891,7 +972,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74542158",
@@ -901,7 +983,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74541324",
@@ -911,7 +994,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527811",
@@ -921,7 +1005,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q23660714",
@@ -931,7 +1016,8 @@
         "aliases": null,
         "latitude": -33.03085,
         "longitude": -71.53013,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156657",
@@ -941,7 +1027,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q23660719",
@@ -951,7 +1038,8 @@
         "aliases": null,
         "latitude": -33.02681,
         "longitude": -71.58237,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q110639075",
@@ -961,7 +1049,8 @@
         "aliases": null,
         "latitude": -33.4411522,
         "longitude": -70.6412584,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q119826558",
@@ -971,7 +1060,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q122950298",
@@ -981,7 +1071,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2883156",
@@ -991,7 +1082,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5918307",
@@ -1001,7 +1093,8 @@
         "aliases": null,
         "latitude": -33.50146,
         "longitude": -70.59274,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5975099",
@@ -1011,7 +1104,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q65159345",
@@ -1021,7 +1115,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q23660722",
@@ -1031,7 +1126,8 @@
         "aliases": null,
         "latitude": -33.04459,
         "longitude": -71.61366,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2134722",
@@ -1041,7 +1137,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74528103",
@@ -1051,7 +1148,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156669",
@@ -1063,7 +1161,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1631474",
@@ -1077,7 +1176,8 @@
         ],
         "latitude": -36.81382,
         "longitude": -73.04432,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156483",
@@ -1087,7 +1187,8 @@
         "aliases": null,
         "latitude": -33.430456,
         "longitude": -70.626428,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74556710",
@@ -1097,7 +1198,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74546597",
@@ -1107,7 +1209,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q23660363",
@@ -1117,7 +1220,8 @@
         "aliases": null,
         "latitude": -39.81571,
         "longitude": -73.22688,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111076576",
@@ -1127,7 +1231,8 @@
         "aliases": null,
         "latitude": -33.4523991,
         "longitude": -70.5921308,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2744138",
@@ -1137,7 +1242,8 @@
         "aliases": null,
         "latitude": -38.7372,
         "longitude": -72.6006,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74528726",
@@ -1147,7 +1253,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527420",
@@ -1157,7 +1264,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3551514",
@@ -1169,7 +1277,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74540191",
@@ -1179,7 +1288,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156332",
@@ -1192,7 +1302,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74530677",
@@ -1204,7 +1315,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74542239",
@@ -1214,7 +1326,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74557745",
@@ -1224,7 +1337,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74537595",
@@ -1234,7 +1348,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156390",
@@ -1244,7 +1359,8 @@
         "aliases": null,
         "latitude": -33.446444,
         "longitude": -70.641697,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q662422",
@@ -1256,7 +1372,8 @@
         ],
         "latitude": -33.452937,
         "longitude": -70.660008,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74540194",
@@ -1266,7 +1383,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5406597",
@@ -1279,7 +1397,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": "Duoc UC is an accredited, non-profit private institute of higher education in Chile. It was founded under the umbrella of the Pontificia Universidad Católica de Chile in 1968, which provides technical and professional degrees through practical and industry-focused programs.\nNowadays it has 20 campuses, more than 103,000 students and ca."
     },
     {
         "wikidata_id": "Q74542330",
@@ -1289,7 +1408,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74548704",
@@ -1299,7 +1419,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527417",
@@ -1311,7 +1432,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74556682",
@@ -1321,7 +1443,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530082",
@@ -1331,7 +1454,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552577",
@@ -1341,7 +1465,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74539544",
@@ -1351,7 +1476,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547835",
@@ -1361,7 +1487,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74540215",
@@ -1371,7 +1498,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74537955",
@@ -1381,7 +1509,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74544911",
@@ -1391,7 +1520,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q940031",
@@ -1404,7 +1534,8 @@
         ],
         "latitude": -33.404007,
         "longitude": -70.507468,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895645",
@@ -1414,7 +1545,8 @@
         "aliases": null,
         "latitude": -40.5871667,
         "longitude": -73.0891639,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74558090",
@@ -1424,7 +1556,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74526744",
@@ -1434,7 +1567,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547799",
@@ -1444,7 +1578,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74554918",
@@ -1454,7 +1589,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74553000",
@@ -1464,7 +1600,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1778689",
@@ -1476,7 +1613,8 @@
         ],
         "latitude": -36.821455,
         "longitude": -73.0365469,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156850",
@@ -1486,7 +1624,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1812621",
@@ -1498,7 +1637,8 @@
         ],
         "latitude": -33.436959,
         "longitude": -70.60851,
-        "type": "university"
+        "type": "university",
+        "description": "Universidad Finis Terrae (English: Finis Terrae University) (UFT) is a Chilean university. It is a private autonomous institution in Santiago de Chile owned by the Anahuac University Network."
     },
     {
         "wikidata_id": "Q6156506",
@@ -1508,7 +1648,8 @@
         "aliases": null,
         "latitude": -33.44173,
         "longitude": -70.662599,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q27163201",
@@ -1518,7 +1659,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156519",
@@ -1528,7 +1670,8 @@
         "aliases": null,
         "latitude": -33.448229,
         "longitude": -70.651947,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29731",
@@ -1540,7 +1683,8 @@
         ],
         "latitude": -33.421251,
         "longitude": -70.604917,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156822",
@@ -1550,7 +1694,8 @@
         "aliases": null,
         "latitude": -33.4357138,
         "longitude": -70.6505658,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894312",
@@ -1560,7 +1705,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156681",
@@ -1570,7 +1716,8 @@
         "aliases": null,
         "latitude": -33.448726,
         "longitude": -70.660882,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156725",
@@ -1584,7 +1731,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895000",
@@ -1596,7 +1744,8 @@
         ],
         "latitude": -33.444195,
         "longitude": -70.622957,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156740",
@@ -1606,7 +1755,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156616",
@@ -1616,7 +1766,8 @@
         "aliases": null,
         "latitude": -33.4491068,
         "longitude": -70.661294,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3077517",
@@ -1629,7 +1780,8 @@
         ],
         "latitude": -23.669118,
         "longitude": -70.405554,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895089",
@@ -1645,7 +1797,8 @@
         ],
         "latitude": -33.446334,
         "longitude": -70.673362,
-        "type": "university"
+        "type": "university",
+        "description": "University of Art & Social Sciences (Spanish: Universidad de Arte y Ciencias Sociales - UARCIS) was a private university in Chile. It was founded on 1982 and the headquarters were in Santiago de Chile."
     },
     {
         "wikidata_id": "Q7895095",
@@ -1655,7 +1808,8 @@
         "aliases": null,
         "latitude": -27.3566667,
         "longitude": -70.3525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q232141",
@@ -1669,7 +1823,8 @@
         ],
         "latitude": -33.4445489,
         "longitude": -70.6509539,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q119981737",
@@ -1679,7 +1834,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q199948",
@@ -1694,7 +1850,8 @@
         ],
         "latitude": -36.8294765,
         "longitude": -73.0341825,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1306537",
@@ -1704,7 +1861,8 @@
         "aliases": null,
         "latitude": -33.427405,
         "longitude": -70.610511,
-        "type": "university"
+        "type": "university",
+        "description": "University Ucinf was a Chilean private university specializing in informatics. The UCINF had 7 faculties and  3 Technological Institutes dedicated to the teaching of technical careers.\nThe UCINF was recognized as the 48th Chilean university according to the classification of the Superior Council of Scientific Research or CSIC, in July 2011, and 25th according to the ranking of El Mercurio."
     },
     {
         "wikidata_id": "Q3551326",
@@ -1716,7 +1874,8 @@
         ],
         "latitude": -38.74742,
         "longitude": -72.61775,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551327",
@@ -1726,7 +1885,8 @@
         "aliases": null,
         "latitude": -29.9138889,
         "longitude": -71.2413889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895620",
@@ -1736,7 +1896,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5947836",
@@ -1749,7 +1910,8 @@
         ],
         "latitude": -53.1361444,
         "longitude": -70.8802889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21284627",
@@ -1761,7 +1923,8 @@
         ],
         "latitude": -34.16442,
         "longitude": -70.74194,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156808",
@@ -1771,7 +1934,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156810",
@@ -1781,7 +1945,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1259453",
@@ -1793,7 +1958,8 @@
         ],
         "latitude": -33.448942,
         "longitude": -70.682766,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551328",
@@ -1803,7 +1969,8 @@
         "aliases": null,
         "latitude": -35.4054,
         "longitude": -71.6331,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3138071",
@@ -1815,7 +1982,8 @@
         ],
         "latitude": -18.4881111,
         "longitude": -70.2945833,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896686",
@@ -1829,7 +1997,8 @@
         ],
         "latitude": -33.43673,
         "longitude": -70.615872,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q38779",
@@ -1843,7 +2012,8 @@
         ],
         "latitude": -36.82062,
         "longitude": -73.01492,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3247805",
@@ -1853,7 +2023,8 @@
         "aliases": null,
         "latitude": -33.378676,
         "longitude": -70.528074,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1546014",
@@ -1865,7 +2036,8 @@
         ],
         "latitude": -33.0407143,
         "longitude": -71.6254608,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7938058",
@@ -1875,6 +2047,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

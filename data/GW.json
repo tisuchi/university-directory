@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 11.5786,
         "longitude": -15.47266,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10274361",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1654110",
@@ -33,7 +35,8 @@
         ],
         "latitude": 11.8559,
         "longitude": -15.611,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidade Amílcar Cabral  (UAC; in english: Amílcar Cabral University) is a public higher education institution in Guinea-Bissau. It is the only public university in the country.\nFounded in 1999 with the mission of federating the nation's various top institutions, it was abruptly closed in 2008."
     },
     {
         "wikidata_id": "Q1654102",
@@ -47,7 +50,8 @@
         ],
         "latitude": 11.8815,
         "longitude": -15.6407,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidade Colinas de Boé  (UCB) is a private institution of higher education in Guinea-Bissau. It was founded in September 2003 and the first university in Guinea-Bissau, just before the creation of the Universidade Amílcar Cabral, the only public university in the country. In 2007, it established a cooperation agreement with the Polytechnic Institute of Leiria (IPL)."
     },
     {
         "wikidata_id": "Q30294233",
@@ -57,6 +61,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

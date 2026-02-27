@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": -18.1416,
         "longitude": 178.4419,
-        "type": "university"
+        "type": "university",
+        "description": "Fiji National University is a public university in Fiji that was formally constituted on 15 February 2010 under the Fiji National University Act 2009.\nBy 2019, student numbers at the University had grown to almost 27,000.  While each of the colleges has its own campus, the University also has two out-reach campuses in Ba and Labasa, which offer a range of programmes from different colleges, supported by distance learning, to broaden access to higher education across the country."
     },
     {
         "wikidata_id": "Q64689342",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q65425918",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q1707347",
@@ -37,7 +40,8 @@
         "aliases": null,
         "latitude": -18.12612,
         "longitude": 178.44806,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Fiji is a university based in Saweni, Lautoka, Fiji. It was established in December 2004 under academic leadership of the Fiji Institute of Applied Studies and financial sponsorship of the Arya Pratinidhi Sabha of Fiji, a Hindu religious organization dedicated to education.\" On 14 February 2016, the Native Lands Trust Board (NLTB) signed a 99-year lease with the university for the 5-hectare property, for which the university paid F$100,000.  The university agreed in return to provide two scholarships annually for the children of landowners."
     },
     {
         "wikidata_id": "Q1062121",
@@ -51,7 +55,8 @@
         ],
         "latitude": -18.14898,
         "longitude": 178.4445019,
-        "type": "university"
+        "type": "university",
+        "description": "The University of the South Pacific (USP) is a public research university with locations spread throughout a dozen countries in Oceania. Established in 1968, the university is organised as an intergovernmental organisation and is owned by the governments of 12 Pacific island countries: the Cook Islands, Fiji, Kiribati, Marshall Islands, Nauru, Niue, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu and Vanuatu.\nUSP is an international centre for teaching and research on Pacific culture and environment, with almost 30,000 students in 2017."
     },
     {
         "wikidata_id": "Q100923972",
@@ -61,7 +66,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100923973",
@@ -71,7 +77,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100923974",
@@ -81,6 +88,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

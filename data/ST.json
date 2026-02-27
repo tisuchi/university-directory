@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 0.3386111,
         "longitude": 6.7405556,
-        "type": "university"
+        "type": "university",
+        "description": "National Lyceum (Liceu Nacional) is a lyceum (secondary school) located at Avenida Marginal 12 Julho in the city of São Tomé, São Tomé and Príncipe. It is one of the oldest secondary schools in the nation. It currently has an estimate of 6,000 students."
     },
     {
         "wikidata_id": "Q45133457",
@@ -21,7 +22,8 @@
         ],
         "latitude": 0.336228,
         "longitude": 6.730875,
-        "type": "university"
+        "type": "university",
+        "description": "Patrice Lumumba Preparatory School (Portuguese: Escola Preparatória Patrice Lumumba, abbreviation: EPLP) is a lyceum located in the southwestern part of the city centre of São Tomé, São Tomé and Príncipe. It is the oldest secondary school in the country, established in 1952. It currently has about 3,000 students."
     },
     {
         "wikidata_id": "Q6041504",
@@ -33,6 +35,7 @@
         ],
         "latitude": 0.326237,
         "longitude": 6.7300538,
-        "type": "university"
+        "type": "university",
+        "description": "The University of São Tomé and Príncipe (Portuguese: Universidade de São Tomé e Príncipe), USTP, is a public institution of higher education in São Tomé and Príncipe. It is the country's main institution dedicated to teaching, research, and university extension. It was established in 2014 by merging three older institutions of higher education: ISP (Instituto Superior Politécnico de São Tomé e Príncipe, also ISPSTP), EFOPE (Escola de Formação de Professores e Educadores) and ICS (Instituto de Ciências de Saúde)."
     }
 ]

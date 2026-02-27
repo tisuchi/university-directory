@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q121305569",
@@ -25,7 +26,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1666906",
@@ -37,7 +39,8 @@
         ],
         "latitude": 22.42545,
         "longitude": 114.206621,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5894236",
@@ -49,7 +52,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "Hong Kong Applied Science and Technology Research Institute (ASTRI) was founded by the Government of the Hong Kong Special Administrative Region in 2000 with the mission of enhancing Hong Kong’s competitiveness through applied research. ASTRI’s core R&D competence in various areas is grouped under five Technology Divisions: Advanced Electronic Components and Systems; Artificial Intelligence and Trust Technologies; Communications Technologies; Intelligent Perception and Control Technologies, and IoT Sensing and AI Technologies. It is applied across six core areas which are Smart City, Financial Technologies, New Industrialisation and Intelligent Manufacturing, Digital Health, Application Specific Integrated Circuits and Metaverse."
     },
     {
         "wikidata_id": "Q74558097",
@@ -59,7 +63,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552229",
@@ -69,7 +74,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74551862",
@@ -79,7 +85,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547117",
@@ -89,7 +96,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74558112",
@@ -99,6 +107,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     }
 ]

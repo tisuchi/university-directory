@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 35.8983333,
         "longitude": 14.5155556,
-        "type": "college"
+        "type": "college",
+        "description": "The Collegium Melitense was a Jesuit college in Valletta, Hospitaller Malta, which existed between 1592 and 1769. Lectures at the educational institution began in 1593, and it moved to a purpose-built building adjacent to a Jesuit church in 1597. The 17th century saw an expansion of its curriculum and an increase in the number of students in the college, and in 1727 it was recognised as a university and subsequently it also became known as the Academia Parthenia."
     },
     {
         "wikidata_id": "Q56296536",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q116455367",
@@ -29,7 +31,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74550538",
@@ -39,7 +42,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5520444",
@@ -51,7 +55,8 @@
         ],
         "latitude": 35.892667,
         "longitude": 14.489,
-        "type": "college"
+        "type": "college",
+        "description": "Ġ.F. Abela Junior College, commonly known as the Junior College (JC), is a further education college in Msida, Malta, which prepares students for the Matriculation Certificate. It was established in 1995 by the University of Malta. It is named after the 17th-century Maltese historian Giovanni Francesco Abela."
     },
     {
         "wikidata_id": "Q125957217",
@@ -61,7 +66,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6714831",
@@ -74,7 +80,8 @@
         ],
         "latitude": 35.8773,
         "longitude": 14.5063,
-        "type": "college"
+        "type": "college",
+        "description": "The Malta College of Arts, Science and Technology (MCAST) is a vocational education and training institution in Malta, consisting of seven institutes over four campuses.\nEstablished in 2001, the MCAST offers 180 full-time and over 300 part-time vocational and higher education courses ranging from certificates to Doctoral degrees (MQF Level 1 to Level 8)."
     },
     {
         "wikidata_id": "Q107424494",
@@ -86,7 +93,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130387177",
@@ -96,7 +104,8 @@
         "aliases": null,
         "latitude": 35.9012461,
         "longitude": 14.5122782,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131993783",
@@ -106,7 +115,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q107547042",
@@ -121,7 +131,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q125960086",
@@ -131,7 +142,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7591175",
@@ -141,7 +153,8 @@
         "aliases": null,
         "latitude": 35.881,
         "longitude": 14.396,
-        "type": "college"
+        "type": "college",
+        "description": "St. Paul's Missionary College (abbreviated to SPMC) is a Maltese Junior School and Secondary School situated on Emmanuele Vitale Street in Rabat, Northern Region."
     },
     {
         "wikidata_id": "Q426045",
@@ -154,7 +167,8 @@
         ],
         "latitude": 35.9025,
         "longitude": 14.4833333,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Malta (Maltese: L-Università ta' Malta; UM; formerly UOM) is a public research university in the towns of Msida and Valletta, Malta. It serves as the flagship and national university of the Republic of Malta.\nIt offers undergraduate bachelor's degrees, postgraduate master's degrees and postgraduate doctorates."
     },
     {
         "wikidata_id": "Q101013398",
@@ -164,7 +178,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013402",
@@ -174,7 +189,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013404",
@@ -184,7 +200,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013406",
@@ -194,7 +211,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013407",
@@ -204,7 +222,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013408",
@@ -214,6 +233,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

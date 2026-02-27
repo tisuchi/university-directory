@@ -26,6 +26,7 @@ class UniversityFactory extends Factory
             'aliases' => [$this->faker->company()],
             'latitude' => $this->faker->latitude(),
             'longitude' => $this->faker->longitude(),
+            'description' => $this->faker->optional(0.7)->sentence(15),
         ];
     }
 }

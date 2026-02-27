@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q107942183",
@@ -20,7 +21,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5776907",
@@ -30,7 +32,8 @@
         "aliases": null,
         "latitude": -25.2832,
         "longitude": -57.5559,
-        "type": "college"
+        "type": "college",
+        "description": "Colegio Goethe (German: Deutsche Schule Asunción, Goethe-Schule) is a German international school in Asunción, Paraguay. The school serves pre-primary education through bachillerato\/Abitur-level (senior high school) education."
     },
     {
         "wikidata_id": "Q107943470",
@@ -43,7 +46,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q29054122",
@@ -53,7 +57,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74529270",
@@ -63,7 +68,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q52789496",
@@ -75,7 +81,8 @@
         ],
         "latitude": -25.342212,
         "longitude": -57.542262,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29054125",
@@ -87,7 +94,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q110109160",
@@ -99,7 +107,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Taiwan-Paraguay Polytechnic University (Chinese: 臺灣-巴拉圭科技大學, Spanish: Universidad Politécnica Taiwán - Paraguay), abbreviated as 台巴科大 or  UPTP, is a technological university located in Luque, Paraguay. It is a public university jointly established by National Taiwan University of Science and Technology and the government of Paraguay.\nUPTP comprises four departments supported by faculty from National Taiwan University of Science and Technology."
     },
     {
         "wikidata_id": "Q131857856",
@@ -109,7 +118,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134017277",
@@ -119,7 +129,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q136433554",
@@ -129,7 +140,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q138257290",
@@ -141,7 +153,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q65246420",
@@ -151,7 +164,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1750155",
@@ -161,7 +175,8 @@
         "aliases": null,
         "latitude": -25.2786,
         "longitude": -57.5994,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Americana (Spanish for American University) is a private university located in Paraguay.\nFounded in 1994, the university has two teaching facilities in Asunción, one in Ciudad del Este and one in Encarnación. It has 4,000 students, and more than 200 professors."
     },
     {
         "wikidata_id": "Q549311",
@@ -173,7 +188,8 @@
         ],
         "latitude": -25.287358,
         "longitude": -57.643032,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Autónoma de Asunción (lit. 'Autonomous University of Asunción') is a private university in Asunción, Paraguay. It was founded in 1978 (1978) as the Escuela Superior de Administración de Empresas (Superior School of Business Administration); it obtained its title of university in 1991 (1991). As of 2006, it has 5000 students (undergraduate and graduate) and 350 professors."
     },
     {
         "wikidata_id": "Q61483495",
@@ -183,7 +199,8 @@
         "aliases": null,
         "latitude": -27.3374167,
         "longitude": -55.8595,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q662015",
@@ -195,7 +212,8 @@
         ],
         "latitude": -25.281,
         "longitude": -57.6322,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Católica Nuestra Señora de la Asunción, also known as Universidad Católica de Asunción (UCA) is a pontifical university of Catholic obedience in Paraguay. It is also one of Paraguay's oldest universities and one of the most recognized educational institutions in the country and in Latin America."
     },
     {
         "wikidata_id": "Q264035",
@@ -205,7 +223,8 @@
         "aliases": null,
         "latitude": -25.2859056,
         "longitude": -57.6297667,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Columbia del Paraguay (Columbia University of Paraguay) is a private university. It was founded in 1943 (1943); it obtained the title of university in 1991 (1991). In 60 years it had more than 200,000 students."
     },
     {
         "wikidata_id": "Q74528085",
@@ -215,7 +234,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74537964",
@@ -225,7 +245,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30294146",
@@ -235,7 +256,8 @@
         "aliases": null,
         "latitude": -25.2746814,
         "longitude": -57.5941531,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q62163467",
@@ -247,7 +269,8 @@
         ],
         "latitude": -25.2856667,
         "longitude": -57.6174722,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2039033",
@@ -263,7 +286,8 @@
         ],
         "latitude": -25.33562,
         "longitude": -57.5199864,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Nacional de Asunción (UNA) is a public research university in San Lorenzo, Paraguay. Founded in 1889, it is the oldest and most traditional university in the country."
     },
     {
         "wikidata_id": "Q74529348",
@@ -273,7 +297,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528744",
@@ -283,7 +308,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530081",
@@ -293,7 +319,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q108737566",
@@ -305,7 +332,8 @@
         ],
         "latitude": -25.28312,
         "longitude": -57.62839,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97168846",
@@ -315,7 +343,8 @@
         "aliases": null,
         "latitude": -24.0748201,
         "longitude": -54.306073,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q108737361",
@@ -327,7 +356,8 @@
         ],
         "latitude": -23.409347,
         "longitude": -57.41219,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894300",
@@ -339,7 +369,8 @@
         ],
         "latitude": -27.3066303,
         "longitude": -55.8884131,
-        "type": "university"
+        "type": "university",
+        "description": "National University of Itapua (Acronym: UNI) is a Paraguayan national university with a range of degree offerings. UNI's campus is located on the Itapúa Department in the city of Encarnacion."
     },
     {
         "wikidata_id": "Q1570663",
@@ -349,7 +380,8 @@
         "aliases": null,
         "latitude": -26.8531924,
         "longitude": -58.3100044,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Pilar (Acronym: UNP) is a Paraguayan national and public university with a range of degree offerings. The main campus is located in the capital of the Ñeembucú department, the city of Pilar. It was founded in 1991 and created by law in 1994."
     },
     {
         "wikidata_id": "Q2495702",
@@ -359,7 +391,8 @@
         "aliases": null,
         "latitude": -25.484104,
         "longitude": -54.6699442,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30293958",
@@ -369,6 +402,7 @@
         "aliases": null,
         "latitude": -25.5516389,
         "longitude": -54.6158333,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 64.5611111,
         "longitude": -21.7697222,
-        "type": "college"
+        "type": "college",
+        "description": "The Agricultural University of Iceland (AUI) is an educational and research institution focusing on agricultural, environmental sciences, landscape architecture and planning founded in 2005. The university's main location is in Hvanneyri, near Borgarnes, Iceland, but it also operates research locations in Reykjavík (Kednaholt). AUI offers vocational training in agriculture, undergraduate and graduate studies in agricultural sciences, environmental sciences, equine sciences, forest sciences, landscape architecture, planning, restoration ecology and environmental changes at higher latitudes."
     },
     {
         "wikidata_id": "Q4701979",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": 65.6765,
         "longitude": -18.0944,
-        "type": "college"
+        "type": "college",
+        "description": "The Akureyri Junior College (Icelandic: Menntaskólinn á Akureyri [ˈmɛn̥taˌskouːlɪn au ˈaːkʏrˌeiːrɪ], regionally also [ˈmɛntʰa-, ˈaːkʰʏr-]; Latin: Schola Akureyrensis) is an Icelandic gymnasium (academic secondary school). It is one of the oldest educational institutions in Iceland.\nThe Menntaskólinn á Akureyri traces its roots to the ancient school in Hólar in Hjaltadalur valley, founded in the beginning of Jón Ögmundsson's episcopacy in 1130."
     },
     {
         "wikidata_id": "Q3107095",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": 64.7668,
         "longitude": -21.5519,
-        "type": "university"
+        "type": "university",
+        "description": "Bifröst University (Icelandic pronunciation: [ˈpɪvˌrœst]) is a private university located in the valley of Norðurárdalur, approximately 30 kilometers north of Borgarnes, Iceland. Originally a business school, it also offers degrees in law and social sciences, at both bachelor's and master's level, as well as a remedial university preparatory course. As of 2011, the university had 573 enrolled students."
     },
     {
         "wikidata_id": "Q133889726",
@@ -37,7 +40,8 @@
         "aliases": null,
         "latitude": 64.144987,
         "longitude": -21.93875,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1523183",
@@ -50,7 +54,8 @@
         ],
         "latitude": 65.7336,
         "longitude": -19.1135,
-        "type": "university"
+        "type": "university",
+        "description": "Hólar University is located in Hólar, Iceland, an important historical centre of education. The university was the first post-secondary school in Hólar, founded in 1106. It was renamed Hólar Agricultural College in 1882 and became Hólar University in 2007."
     },
     {
         "wikidata_id": "Q1134292",
@@ -63,7 +68,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Iceland University of the Arts (Icelandic: Listaháskóli Íslands [ˈlɪstaˌhauːˌskouːlɪ ˈistlan(t)s]) is an Icelandic institution of higher art education, located in Reykjavík, which offers the only university-level degrees in the arts in Iceland. The institution was founded on 21 September 1998 by consolidating the Iceland Drama School and the Reykjavík Arts School, and classes began in autumn 1999."
     },
     {
         "wikidata_id": "Q125592331",
@@ -76,7 +82,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16422638",
@@ -91,7 +98,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": "The Icelandic College of Arts and Crafts (Icelandic: Myndlista- og handíðaskóli Íslands) was founded in 1939 under the name Handíðaskólinn (The School of Industrial Arts), which was later changed to Myndlista- og handíðaskóli Íslands (MHÍ). When the Iceland University of the Arts (Icelandic: Listaháskóli Íslands, or LHÍ) was established in 1999, MHÍ merged with the institution and became Myndlistar- og Hönnunardeild LHÍ. (Arts and Design Division of LHÍ)."
     },
     {
         "wikidata_id": "Q74537205",
@@ -101,7 +109,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16419748",
@@ -111,7 +120,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1542418",
@@ -124,7 +134,8 @@
         ],
         "latitude": 64.1236111,
         "longitude": -21.9269444,
-        "type": "university"
+        "type": "university",
+        "description": "Reykjavík University (RU; Icelandic: Háskólinn í Reykjavík, pronounced [ˈhauːˌskouːlɪn iː ˈreiːcaˌviːk], lit. 'The University in Reykjavík') is the largest private university in Iceland with approximately 3,300 students. It is chartered by the Chamber of Commerce, the Federation of Icelandic Industries, and the Confederation of Icelandic Employers. \nThe university consists of seven academic departments in two schools."
     },
     {
         "wikidata_id": "Q16429196",
@@ -134,7 +145,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20575892",
@@ -144,7 +156,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30263303",
@@ -154,7 +167,8 @@
         "aliases": null,
         "latitude": 66.069802,
         "longitude": -23.124203,
-        "type": "university"
+        "type": "university",
+        "description": "The University Centre of the Westfjords (Icelandic: Háskólasetur Vestfjarða) is a higher education and research institute located in Ísafjörður, Iceland. It offers integrated master's programmes in Coastal and Marine Management, Marine Innovation and Regional Development, in cooperation with the University of Akureyri, as well as courses in Icelandic language."
     },
     {
         "wikidata_id": "Q1463356",
@@ -166,7 +180,8 @@
         ],
         "latitude": 65.6855,
         "longitude": -18.1224,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Akureyri (Icelandic: Háskólinn á Akureyri [ˈhauːˌskouːlɪn au ˈaːkʏrˌeiːrɪ], regionally also [ˈaːkʰʏr-]) was founded in 1987 in the town of Akureyri in the northeastern part of Iceland. It is today a school of Humanities and Social science, and a school of Health, Business and Natural science. Over 2800 students attended the university in the autumn semester of 2024, around half of them through flexible learning, making the university the largest provider of distance education in the country."
     },
     {
         "wikidata_id": "Q196559",
@@ -179,7 +194,8 @@
         ],
         "latitude": 64.1405556,
         "longitude": -21.9494444,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Iceland (Icelandic: Háskóli Íslands [ˈhauːˌskouːlɪ ˈistlan(t)s]) is a public research university in Reykjavík, Iceland, and the country's oldest and largest institution of higher education. Founded in 1911, it has grown steadily from a small civil servants' school to a modern comprehensive university, providing instruction for about 14,000 students in twenty-five faculties. Teaching and research is conducted in social sciences, humanities, law, medicine, natural sciences, engineering and teacher education."
     },
     {
         "wikidata_id": "Q5985674",
@@ -189,7 +205,8 @@
         "aliases": null,
         "latitude": 64.1368694,
         "longitude": -21.9025861,
-        "type": "university"
+        "type": "university",
+        "description": "Iceland College of Education was a normal college in Iceland. It merged with the University of Iceland in July 2008 and is now called the School of Education. Enrollment was around 2300 students with more than half of them being distance learning students."
     },
     {
         "wikidata_id": "Q101012667",
@@ -199,7 +216,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74536069",
@@ -209,7 +227,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q627418",
@@ -221,6 +240,7 @@
         ],
         "latitude": 64.1388889,
         "longitude": -21.9513889,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Árni Magnússon Institute for Icelandic Studies (Icelandic: Stofnun Árna Magnússonar í íslenskum fræðum [ˈstɔpnʏn ˈau(r)tna ˈmaknusˌsɔːnar iː ˈistlɛnskʏm ˈfraiːðʏm]; abbreviated to Árnastofnun [ˈau(r)tnaˌstɔpnʏn]) is a university-level institute, which operates on an independent budget under the auspices of the Ministry of Culture, Innovation and Higher Education. The institute fosters close links with the University of Iceland, and forms part of its academic community.\nAccording to Act 2006 no."
     }
 ]
