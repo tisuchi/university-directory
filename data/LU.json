@@ -11,7 +11,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "42 is a private institution of education in computer science founded by Xavier Niel, Nicolas Sadirac (former executive director at Epitech), Kwame Yamgnane, and Florian Bucher (former executives at Epitech). The school opened in Paris in 2013. The school does not have any professors and is open 24\/7."
     },
     {
         "wikidata_id": "Q16366351",
@@ -23,7 +24,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131722921",
@@ -36,7 +38,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q31734989",
@@ -46,7 +49,8 @@
         "aliases": null,
         "latitude": 49.5846111,
         "longitude": 6.1280833,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74538541",
@@ -56,7 +60,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1968289",
@@ -68,7 +73,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q27961796",
@@ -80,7 +86,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16366441",
@@ -90,7 +97,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13102047",
@@ -102,7 +110,8 @@
         ],
         "latitude": 49.6202,
         "longitude": 6.0961,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q13103842",
@@ -114,7 +123,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Luxembourg Institute of Science and Technology (abbreviated as LIST) is a public research institute created on January 1, 2015, by the merger of the Henri-Tudor Public Research Center and the Gabriel-Lippmann Public Research Center, both in Luxembourg.\nThis research and technology organization is active in the fields of materials, environment, information technologies and space. It is placed under the supervision of the Ministry of Higher Education and Research."
     },
     {
         "wikidata_id": "Q13103855",
@@ -124,7 +134,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13103859",
@@ -136,7 +147,8 @@
         ],
         "latitude": 49.85003,
         "longitude": 6.09802,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6707487",
@@ -148,7 +160,8 @@
         ],
         "latitude": 49.62,
         "longitude": 6.0308333,
-        "type": "university"
+        "type": "university",
+        "description": "Lycée Josy Barthel (English: Josy Barthel High School), abbreviated to LJBM, is a high school in Mamer, in south-western Luxembourg. It was opened in September 2003, and cost €67.4m to build.  It comprises 60 classrooms and 16 workshops, and has a capacity of 1,300 students."
     },
     {
         "wikidata_id": "Q16366450",
@@ -158,7 +171,8 @@
         "aliases": null,
         "latitude": 49.61922,
         "longitude": 6.09975,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13103857",
@@ -170,7 +184,8 @@
         ],
         "latitude": 49.6828,
         "longitude": 6.44247,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3247727",
@@ -182,7 +197,8 @@
         ],
         "latitude": 49.5214,
         "longitude": 5.8891,
-        "type": "university"
+        "type": "university",
+        "description": "The Miami University John E. Dolibois European Center (MUDEC) is an overseas campus of Miami University based in Differdange, Luxembourg. Established in 1968, the program is based in Differdange Castle in southwestern Luxembourg and enrolls around 125 students each semester from Miami and other American universities. The center is named after John E. Dolibois, a native Luxembourger who was a Miami University graduate and administrator as well as the United States Ambassador to Luxembourg from 1981 to 1985."
     },
     {
         "wikidata_id": "Q13103860",
@@ -192,7 +208,8 @@
         "aliases": null,
         "latitude": 49.62417,
         "longitude": 6.11585,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131643048",
@@ -202,7 +219,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16366368",
@@ -212,7 +230,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1528530",
@@ -222,7 +241,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Sacred Heart University Luxembourg (SHULU) was a branch campus of Sacred Heart University that offered graduate-level business programs in Luxembourg City. Established in 1991 and tailored to the needs of working professionals, the campus closed in 2022."
     },
     {
         "wikidata_id": "Q59668",
@@ -235,7 +255,8 @@
         ],
         "latitude": 49.50425,
         "longitude": 5.9483889,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Luxembourg (French: Université du Luxembourg; German: Universität Luxemburg; Luxembourgish: Universitéit Lëtzebuerg) is a public research university in Esch-sur-Alzette and Luxembourg City, Luxembourg. It was founded in 2003 and is the only public university in Luxembourg."
     },
     {
         "wikidata_id": "Q103021062",
@@ -245,7 +266,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103021065",
@@ -255,7 +277,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103021068",
@@ -265,6 +288,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

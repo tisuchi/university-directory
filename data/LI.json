@@ -11,7 +11,8 @@
         ],
         "latitude": 47.2112021,
         "longitude": 9.5074224,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2111101",
@@ -21,7 +22,8 @@
         "aliases": null,
         "latitude": 47.1081944,
         "longitude": 9.5265833,
-        "type": "university"
+        "type": "university",
+        "description": "The Private University in the Principality of Liechtenstein (German: Private Universität im Fürstentum Liechtenstein (UFL)) is one of the four centers for higher education in the Principality of Liechtenstein. It focuses on two main fields of study: Medical Sciences and Law. The university is located in Triesen."
     },
     {
         "wikidata_id": "Q974328",
@@ -33,6 +35,7 @@
         ],
         "latitude": 47.1498,
         "longitude": 9.5162,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Liechtenstein (UniLi, German: Universität Liechtenstein) is a public research university located in Vaduz, serving as the national university of the Principality of Liechtenstein. It focuses on two fields of study – architecture and business economics (entrepreneurship, finance, information systems, business law). The students and faculty come from 40 countries, and the university has partnerships with 80 other institutions."
     }
 ]

@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Bo Teacher's College is a three year college located in Bo, the second largest city of Sierra Leone.\nThe college trains prospective teachers for primary and junior secondary school levels (form 1-3). after successfully completing the programme, candidates qualify for the Teachers Certificate (TC) and the Higher Teachers Certificate (HTC)."
     },
     {
         "wikidata_id": "Q1278215",
@@ -19,7 +20,8 @@
         ],
         "latitude": 7.876,
         "longitude": -11.1822,
-        "type": "university"
+        "type": "university",
+        "description": "Eastern Technical University is a university located in Kenema, the third largest city of Sierra Leone, along with the Kenema campus, Eastern Technical University was designed as a multi-campus institution with a campus at Bunumbu in the Kailahun District, (this campus was destroyed in the Sierra Leone Civil War) another at Woama in the Kono District (this campus was planned after the war and two buildings were erected but the site has been abandoned). The college was established as a result of a merger of two prominent government institutions; the Bunumbu Teachers College and the Government Technical Institute. Both institutions had a long history of contribution towards education in Sierra Leone."
     },
     {
         "wikidata_id": "Q1506926",
@@ -29,7 +31,8 @@
         "aliases": null,
         "latitude": 8.47719,
         "longitude": -13.2212,
-        "type": "university"
+        "type": "university",
+        "description": "Fourah Bay College is a public university in the neighbourhood of Mount Aureol in Freetown, Sierra Leone. Founded on 18 February 1827,  it is the first western-style university built in Sub-Saharan Africa and, furthermore, the first university-level institution in Africa. It is a constituent college of the University of Sierra Leone (USL) and was formerly affiliated with Durham University (1876–1967)."
     },
     {
         "wikidata_id": "Q6729779",
@@ -39,7 +42,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Magburaka Technical Institute is a two-year technical college located in Magburaka, Tonkolili District, Sierra Leone. It was established in 1975. The school awards diplomas and certificates in areas such as Engineering, Electrician, Carpentry, Plumbing, Business Management and Agricultural science."
     },
     {
         "wikidata_id": "Q6739256",
@@ -49,7 +53,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Makeni Teacher's College formerly St Augustine’s Teachers College is a two to three years public college located in Makeni, Bombali District, Sierra Leone. It was founded in 1964. The college trains prospective teachers for primary and junior secondary school levels (form 1-3)."
     },
     {
         "wikidata_id": "Q7042386",
@@ -62,7 +67,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Njala University (NU) is a public university located in Njala and Bo, Sierra Leone. It is the second largest university in Sierra Leone (after the University of Sierra Leone). The largest and main campus of Njala University is in Njala, Moyamba District; the other campus is Bo, the second largest city in Sierra Leone."
     },
     {
         "wikidata_id": "Q7230761",
@@ -72,7 +78,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Port Loko Teacher's College is a college located in Port Loko, Sierra Leone. It was founded in 1968. The college trains prospective teachers for the primary and junior secondary school levels (form 1–3)."
     },
     {
         "wikidata_id": "Q7895660",
@@ -85,7 +92,8 @@
         ],
         "latitude": 8.887413,
         "longitude": -12.056168,
-        "type": "university"
+        "type": "university",
+        "description": "University of Makeni (formerly known as the Fatima Institute and often known as UNIMAK) is the first private, Catholic, university located in Makeni, Sierra Leone."
     },
     {
         "wikidata_id": "Q15045868",
@@ -98,6 +106,7 @@
         ],
         "latitude": 8.49222,
         "longitude": -13.2094,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Sierra Leone is the name of the former unitary public university system in Sierra Leone. Established in February 1827, it is the oldest university in Africa. \nAs of May 2005, the University of Sierra Leone was reconstituted into the individual colleges of Fourah Bay College and Njala University college."
     }
 ]

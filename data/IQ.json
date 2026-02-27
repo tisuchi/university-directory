@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 32.6415217,
         "longitude": 43.9945133,
-        "type": "university"
+        "type": "university",
+        "description": "Ahl Al Bayt University is a private Iraqi university established in 2003 in Karbala, Iraq by Dr. Muhsin Baqir al-Qazwini.The university was first initiated as a virtual university appearing on the internet in 2000 as the Ahl Al Bayt International University, and it taught Management, Law, Arabic Literature and Islamic law. Whilst the university was virtual, it had offices in different cities like London, Beirut, Kuwait, Damascus and Manama, for students to go and take their mid-term and final exams."
     },
     {
         "wikidata_id": "Q26856065",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": 33.29949,
         "longitude": 44.32561,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4704378",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": 33.315,
         "longitude": 44.4283333,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Mansour University College is a private Iraqi university established in 1988 in Baghdad, Iraq."
     },
     {
         "wikidata_id": "Q4704691",
@@ -37,7 +40,8 @@
         "aliases": null,
         "latitude": 33.2847222,
         "longitude": 44.3094444,
-        "type": "university"
+        "type": "university",
+        "description": "Al Rasheed University College is a private Iraqi university established  in Baghdad, Iraq."
     },
     {
         "wikidata_id": "Q4705001",
@@ -47,7 +51,8 @@
         "aliases": null,
         "latitude": 33.3,
         "longitude": 44.4444444,
-        "type": "university"
+        "type": "university",
+        "description": "Al Yarmouk University College is a private Iraqi university established in 1996 in Diyala and the Medical Departments lie in Baghdad, Iraq."
     },
     {
         "wikidata_id": "Q54874667",
@@ -57,7 +62,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q54874669",
@@ -67,7 +73,8 @@
         "aliases": null,
         "latitude": 31.0676023,
         "longitude": 46.2608494,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130478447",
@@ -79,7 +86,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450402",
@@ -89,7 +97,8 @@
         "aliases": null,
         "latitude": 33.2589247,
         "longitude": 44.4055264,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450401",
@@ -99,7 +108,8 @@
         "aliases": null,
         "latitude": 33.27035,
         "longitude": 44.360969,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4702441",
@@ -111,7 +121,8 @@
         ],
         "latitude": 36.34456,
         "longitude": 43.14462,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Hadba University is a private Iraqi university established in 1994 as Al Hadbaa University College, in Mosul, Iraq."
     },
     {
         "wikidata_id": "Q25450690",
@@ -121,7 +132,8 @@
         "aliases": null,
         "latitude": 33.2261716,
         "longitude": 44.406284,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4702513",
@@ -131,7 +143,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Hikma University college (Arabic: كليةالحكمةالجامعة) was a university in Baghdad founded in 1956 by members of the New England Province of the Society of Jesus. Al hikma means \"wisdom\" in English."
     },
     {
         "wikidata_id": "Q25450394",
@@ -141,7 +154,8 @@
         "aliases": null,
         "latitude": 35.7600806,
         "longitude": 44.1553121,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450403",
@@ -153,7 +167,8 @@
         ],
         "latitude": 30.5331369,
         "longitude": 47.8076409,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q114756495",
@@ -163,7 +178,8 @@
         "aliases": null,
         "latitude": 30.5571044,
         "longitude": 47.7965301,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130543674",
@@ -173,7 +189,8 @@
         "aliases": null,
         "latitude": 30.410556,
         "longitude": 47.722875,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q310842",
@@ -185,7 +202,8 @@
         ],
         "latitude": 33.3669473,
         "longitude": 44.3996353,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Mustansiriya University (Arabic: الجامعة المستنصرية, romanized: al-Jāmiʿa al-Mustanṣariyya) is a public university located in Baghdad, Iraq. It traces its origin back to 1227. The modern form of the university was founded in 1963."
     },
     {
         "wikidata_id": "Q25450310",
@@ -195,7 +213,8 @@
         "aliases": null,
         "latitude": 32.396567,
         "longitude": 44.4042888,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4702996",
@@ -205,7 +224,8 @@
         "aliases": null,
         "latitude": 31.3386111,
         "longitude": 45.2888889,
-        "type": "university"
+        "type": "university",
+        "description": "Al Muthanna University is an Iraqi university located in Samawah, Al Muthanna Province, Iraq. It was established in 2007."
     },
     {
         "wikidata_id": "Q25450407",
@@ -219,7 +239,8 @@
         ],
         "latitude": 33.304367,
         "longitude": 44.35539,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450382",
@@ -229,7 +250,8 @@
         "aliases": null,
         "latitude": 35.4824739,
         "longitude": 44.465766,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16121188",
@@ -239,7 +261,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130478582",
@@ -251,7 +274,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4704901",
@@ -261,7 +285,8 @@
         "aliases": null,
         "latitude": 33.3184627,
         "longitude": 44.3607596,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Turath University (Arabic: جامعة التراث) is a private Iraqi university and the oldest of such type in Iraq. Established in 1988 in the Mansour district of Baghdad, The name al-turath (التراث) means \"heritage\" or \"tradition\"."
     },
     {
         "wikidata_id": "Q79468205",
@@ -271,7 +296,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450349",
@@ -281,7 +307,8 @@
         "aliases": null,
         "latitude": 32.5192325,
         "longitude": 44.1192925,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28715338",
@@ -294,7 +321,8 @@
         ],
         "latitude": 33.2844746,
         "longitude": 44.2819447,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Bayan University (Arabic:جامعة البيان) is a university in Baghdad, Iraq."
     },
     {
         "wikidata_id": "Q42332086",
@@ -306,7 +334,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450337",
@@ -319,7 +348,8 @@
         ],
         "latitude": 36.3507739,
         "longitude": 43.3663946,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4735687",
@@ -329,7 +359,8 @@
         "aliases": null,
         "latitude": 33.3641667,
         "longitude": 44.4072222,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Rafidain University College is a private academic institution in higher education of public interest established on November 23, 1988. It was founded by The Iraqi Society for Statistical Sciences. The actual work study started in 1988\/1989 and is considered one of the oldest private academic colleges in Iraq."
     },
     {
         "wikidata_id": "Q107675529",
@@ -339,7 +370,8 @@
         "aliases": null,
         "latitude": 33.284564,
         "longitude": 44.2564836,
-        "type": "university"
+        "type": "university",
+        "description": "The American University of Iraq – Baghdad (AUIB) is a private, not-for-profit university located in Baghdad, Iraq. Established in 2021, the university is situated within the Al-Faw Presidential Palace, a former presidential site that has been transformed into a university campus. AUIB offers liberal arts-based education modeled on American higher education standards, with English as the language of instruction."
     },
     {
         "wikidata_id": "Q18162019",
@@ -352,7 +384,8 @@
         ],
         "latitude": 36.8614389,
         "longitude": 42.861675,
-        "type": "university"
+        "type": "university",
+        "description": "The American University of Kurdistan (AUK) (Sorani Kurdish: زانكۆی ئەمریکی لە کوردستان, Zanîngeha Emrîkî ya Kurdistanê; Arabic: الجامعة الأمريكية في كردستان) is a public, not-for-profit, university in Duhok, Kurdistan Region of Iraq. It was founded in 2014 to provide comprehensive liberal arts education and to encourage cross-disciplinary research in the region."
     },
     {
         "wikidata_id": "Q130473927",
@@ -365,7 +398,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4841812",
@@ -375,7 +409,8 @@
         "aliases": null,
         "latitude": 33.3408333,
         "longitude": 44.3347222,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Iraqia Science University is a private Iraqi university established in 1996 in Baghdad, Iraq."
     },
     {
         "wikidata_id": "Q1448977",
@@ -385,7 +420,8 @@
         "aliases": null,
         "latitude": 33.3497143,
         "longitude": 44.382707,
-        "type": "university"
+        "type": "university",
+        "description": "Baghdad College of Medical Sciences is a private Iraqi university established by the Iraqi Pharmacists Syndicate in accordance to the law and regulations of Ministry of Higher Education and scientific research (MOHE) governing the establishment and administration of private universities and colleges. The college is specified that it is a special scientific establishment with a general benefit, and it has its financial and administrative independence and it enjoys all the rights and specifications that are listed in the law. \nThe license to establish the college was granted on 14 September 2000."
     },
     {
         "wikidata_id": "Q26856062",
@@ -395,7 +431,8 @@
         "aliases": null,
         "latitude": 30.45567,
         "longitude": 47.77166,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450518",
@@ -408,7 +445,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450410",
@@ -421,7 +459,8 @@
         ],
         "latitude": 33.7790458,
         "longitude": 44.6028479,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28221491",
@@ -433,7 +472,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Catholic University in Erbil (CUE) (Syriac: ܒܹܝܬܼ ܨܵܘܒܵܐ ܩܵܬܼܘܿܠܝܼܩܵܝܵܐ ܒܐܲܪܒܝܠ) is a private non-profit institution of higher education and research located in the Erbil suburb of Ankawa, Kurdistan Region, Iraq\nIt was founded in December 2015 by the Archbishop Bashar Warda of the Chaldean Catholic Church, and provides degrees in the arts and sciences recognized by the Kurdistan Regional Government.\nIts foundation stone was laid on 20 October 2012. 30,000 square metres of land were made available for the campus."
     },
     {
         "wikidata_id": "Q25450431",
@@ -446,7 +486,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q106916672",
@@ -458,7 +499,8 @@
         ],
         "latitude": 36.8784211,
         "longitude": 42.8868742,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18347698",
@@ -468,7 +510,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Cihan University (Kurdish: زانكۆى جیهان, Arabic: جامعة جيهان) is an educational institution in Erbil, capital of the autonomous Kurdistan Region of Iraq. It was established in 2007 by the A University Company for Scientific Investment which is a part of Cihan Group. Cihan is the first private university in the Kurdistan Region."
     },
     {
         "wikidata_id": "Q74551479",
@@ -478,7 +521,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528117",
@@ -488,7 +532,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74550123",
@@ -498,7 +543,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552579",
@@ -508,7 +554,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12235873",
@@ -520,7 +567,8 @@
         ],
         "latitude": 33.3722771,
         "longitude": 44.357446,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q22689357",
@@ -530,7 +578,8 @@
         "aliases": null,
         "latitude": 33.3779399,
         "longitude": 44.4228469,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q4120429",
@@ -540,7 +589,8 @@
         "aliases": null,
         "latitude": 33.2613667,
         "longitude": 44.4129565,
-        "type": "university"
+        "type": "university",
+        "description": "Dijlah University College is a general university in Iraq. The university was founded in Baghdad according to decree No. 3322, issued by the Ministry of Higher Education and Scientific Research on 27 October 2004 in accordance with the law establishing private colleges and universities No."
     },
     {
         "wikidata_id": "Q20181523",
@@ -552,7 +602,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q26856052",
@@ -562,7 +613,8 @@
         "aliases": null,
         "latitude": 36.86137,
         "longitude": 42.98034,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q114756355",
@@ -574,7 +626,8 @@
         ],
         "latitude": 33.2224223,
         "longitude": 44.3888203,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3666590",
@@ -586,7 +639,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Hawler Medical University (Kurdish: Zankoy Hewlêrî Pizîşkî\/زانكۆی هه‌ولێری پزیشكی) is a public university located in the heart of Erbil, the capital city of the Kurdistan Region of Iraq. It was established in 2005 by the Kurdistan Regional Government's Council of Ministers. The university was founded to house the medical colleges that were previously part of the Salahaddin University-Erbil."
     },
     {
         "wikidata_id": "Q125055038",
@@ -596,7 +650,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450384",
@@ -606,7 +661,8 @@
         "aliases": null,
         "latitude": 32.3234136,
         "longitude": 44.3867591,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12204403",
@@ -616,7 +672,8 @@
         "aliases": null,
         "latitude": 33.3768166,
         "longitude": 44.3961627,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q23308948",
@@ -626,7 +683,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111937424",
@@ -636,7 +694,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The International University of Erbil (Arabic: جامعة اربيل الدولية) is an educational institution in Erbil, the flourishing capital of the Kurdistan Region, Iraq. It was established in 2009 after being restructured and named into a new entity. The university has a former name called Sabis University founded in 2007."
     },
     {
         "wikidata_id": "Q12204410",
@@ -646,7 +705,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12235872",
@@ -656,7 +716,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6068104",
@@ -666,7 +727,8 @@
         "aliases": null,
         "latitude": 33.4011111,
         "longitude": 44.3583333,
-        "type": "university"
+        "type": "university",
+        "description": "The Iraqi University (Al Iraqia University) offers bachelor's and graduate university degrees. It is located in the Adhamiyah district of Baghdad, Iraq. It was founded in 1989 and was formerly named the Islamic University."
     },
     {
         "wikidata_id": "Q6082651",
@@ -678,7 +740,8 @@
         ],
         "latitude": 32.013272,
         "longitude": 44.360216,
-        "type": "university"
+        "type": "university",
+        "description": "Islamic University College is a private university established in 2004 in Najaf, Iraq. The university was established in 2004 by Sadiruldeen Al-Gubanchi. The university currently enrolls approximately 7000 students."
     },
     {
         "wikidata_id": "Q26856078",
@@ -688,7 +751,8 @@
         "aliases": null,
         "latitude": 32.5754,
         "longitude": 44.1732,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q38916258",
@@ -700,7 +764,8 @@
         ],
         "latitude": 36.113511,
         "longitude": 44.045642,
-        "type": "university"
+        "type": "university",
+        "description": "The Knowledge University (Kurdish: زانکۆی نۆلج; Arabic: جامعة نولج) is a private university located in Erbil, Iraqi Kurdistan, and licensed from the ministry of higher education and scientific research in Kurdistan Region of Iraq. Currently the university consists of 6 colleges."
     },
     {
         "wikidata_id": "Q23308978",
@@ -710,7 +775,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q22081778",
@@ -722,7 +788,8 @@
         ],
         "latitude": 35.5921863,
         "longitude": 45.3619602,
-        "type": "university"
+        "type": "university",
+        "description": "Komar University of Science and Technology (KUST)  is a private university located in the city of Sulaymaniyah in Kurdistan region. It was founded in 2009."
     },
     {
         "wikidata_id": "Q1450490",
@@ -732,7 +799,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Koya University is a public university located in Koy Sanjaq, near Erbil (Hewlêr), capital of the Erbil Governorate in the Iraqi Kurdistan region of Iraq. It was established in 2003."
     },
     {
         "wikidata_id": "Q25450393",
@@ -742,7 +810,8 @@
         "aliases": null,
         "latitude": 33.3166431,
         "longitude": 44.4267993,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12236072",
@@ -752,7 +821,8 @@
         "aliases": null,
         "latitude": 32.4197649,
         "longitude": 45.9293408,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4836010",
@@ -764,7 +834,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6727119",
@@ -776,7 +847,8 @@
         ],
         "latitude": 33.3942932,
         "longitude": 44.3082036,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q110499462",
@@ -786,7 +858,8 @@
         "aliases": null,
         "latitude": 33.2744708,
         "longitude": 44.2709889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q23048583",
@@ -798,7 +871,8 @@
         ],
         "latitude": 33.3195317,
         "longitude": 44.3654852,
-        "type": "university"
+        "type": "university",
+        "description": "Middle Technical University (Arabic: الجامعة التقنية الوسطى) is a technical university in Baghdad, the capital city of Iraq."
     },
     {
         "wikidata_id": "Q37765",
@@ -811,7 +885,8 @@
         ],
         "latitude": 33.278,
         "longitude": 44.376,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450689",
@@ -824,7 +899,8 @@
         ],
         "latitude": 31.0439984,
         "longitude": 46.2706724,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12204548",
@@ -836,7 +912,8 @@
         ],
         "latitude": 36.860566,
         "longitude": 42.896437,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450390",
@@ -846,7 +923,8 @@
         "aliases": null,
         "latitude": 33.3546045,
         "longitude": 44.3873937,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q109840266",
@@ -856,7 +934,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q114757071",
@@ -866,7 +945,8 @@
         "aliases": null,
         "latitude": 33.3085184,
         "longitude": 44.2025198,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q115012701",
@@ -876,7 +956,8 @@
         "aliases": null,
         "latitude": 33.268799,
         "longitude": 44.379015,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q12211271",
@@ -886,7 +967,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q12236028",
@@ -896,7 +978,8 @@
         "aliases": null,
         "latitude": 30.5145374,
         "longitude": 47.8434029,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12236151",
@@ -906,7 +989,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q16123213",
@@ -916,7 +1000,8 @@
         "aliases": null,
         "latitude": 33.3009052,
         "longitude": 44.3385281,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16123227",
@@ -926,7 +1011,8 @@
         "aliases": null,
         "latitude": 30.4977202,
         "longitude": 47.8288691,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q22689359",
@@ -936,7 +1022,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q22689360",
@@ -946,7 +1033,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450302",
@@ -956,7 +1044,8 @@
         "aliases": null,
         "latitude": 33.298357,
         "longitude": 44.3421869,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450311",
@@ -966,7 +1055,8 @@
         "aliases": null,
         "latitude": 32.6238744,
         "longitude": 44.0065784,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450385",
@@ -976,7 +1066,8 @@
         "aliases": null,
         "latitude": 32.5069353,
         "longitude": 44.1327979,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450392",
@@ -986,7 +1077,8 @@
         "aliases": null,
         "latitude": 33.3616081,
         "longitude": 44.3998655,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450404",
@@ -996,7 +1088,8 @@
         "aliases": null,
         "latitude": 32.6026286,
         "longitude": 44.0461509,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450405",
@@ -1006,7 +1099,8 @@
         "aliases": null,
         "latitude": 33.3131427,
         "longitude": 44.3581577,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450406",
@@ -1016,7 +1110,8 @@
         "aliases": null,
         "latitude": 31.9998958,
         "longitude": 44.3285556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450680",
@@ -1026,7 +1121,8 @@
         "aliases": null,
         "latitude": 33.2933511,
         "longitude": 44.4034616,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q26856070",
@@ -1036,7 +1132,8 @@
         "aliases": null,
         "latitude": 33.37028,
         "longitude": 44.38151,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q26856076",
@@ -1046,7 +1143,8 @@
         "aliases": null,
         "latitude": 30.568,
         "longitude": 47.749,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q40378891",
@@ -1056,7 +1154,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5942573",
@@ -1066,7 +1165,8 @@
         "aliases": null,
         "latitude": 32.616367,
         "longitude": 44.032303,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6862113",
@@ -1076,7 +1176,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7184253",
@@ -1086,7 +1187,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q369629",
@@ -1099,7 +1201,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125497428",
@@ -1109,7 +1212,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7490673",
@@ -1119,7 +1223,8 @@
         "aliases": null,
         "latitude": 30.5441667,
         "longitude": 47.7883333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7492948",
@@ -1129,7 +1234,8 @@
         "aliases": null,
         "latitude": 33.2287083,
         "longitude": 44.3696594,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q15261242",
@@ -1141,7 +1247,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Sulaimani Polytechnic University (SPU) (in Kurdish: زانکۆی پۆلیتەکنیکی سلێمانی) is a public university and a member of International Association of Universities (IAU). It is located in the city of Sulaymaniyah, Qirga District in the Kurdistan Region of Iraq. It is one of the important scientific and cultural centers in the region."
     },
     {
         "wikidata_id": "Q7563285",
@@ -1151,7 +1258,8 @@
         "aliases": null,
         "latitude": 36.6968,
         "longitude": 44.5289,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450428",
@@ -1161,7 +1269,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q22687006",
@@ -1173,7 +1282,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124363130",
@@ -1185,7 +1295,8 @@
         ],
         "latitude": 33.7516667,
         "longitude": 44.6444444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4115450",
@@ -1199,7 +1310,8 @@
         ],
         "latitude": 35.573149,
         "longitude": 45.3534492,
-        "type": "university"
+        "type": "university",
+        "description": "American University of Iraq, Sulaimani (AUIS) (Kurdish: زانکۆی ئەمریکی لە عێراق، سلێمانی; Arabic: الجامعة الأمريكية في العراق، السليمانية) is a not-for-profit, private institution located in Sulaymaniyah, in the Kurdistan Region of Iraq. The university offers an American-style liberal arts education."
     },
     {
         "wikidata_id": "Q6080223",
@@ -1212,7 +1324,8 @@
         ],
         "latitude": 36.169547,
         "longitude": 43.95729,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q54874671",
@@ -1224,7 +1337,8 @@
         ],
         "latitude": 32.5582421,
         "longitude": 44.0739446,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450318",
@@ -1234,7 +1348,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Al-Hamdaniya. (Arabic: جامعة الحمدانية) is an Iraqi public university. It is based in Nineveh Plain."
     },
     {
         "wikidata_id": "Q12236075",
@@ -1248,7 +1363,8 @@
         ],
         "latitude": 33.337733,
         "longitude": 44.339853,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4704329",
@@ -1258,7 +1374,8 @@
         "aliases": null,
         "latitude": 33.4310097,
         "longitude": 43.3372472,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4120068",
@@ -1270,7 +1387,8 @@
         ],
         "latitude": 32.0006,
         "longitude": 44.8786,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5939496",
@@ -1282,7 +1400,8 @@
         ],
         "latitude": 32.0686344,
         "longitude": 44.2901682,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7492970",
@@ -1296,7 +1415,8 @@
         ],
         "latitude": 31.998097,
         "longitude": 44.3368766,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895053",
@@ -1306,7 +1426,8 @@
         "aliases": null,
         "latitude": 33.4027,
         "longitude": 43.2623,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895102",
@@ -1316,7 +1437,8 @@
         "aliases": null,
         "latitude": 32.3927,
         "longitude": 44.4013,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q550376",
@@ -1328,7 +1450,8 @@
         ],
         "latitude": 33.2701111,
         "longitude": 44.3817194,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1477607",
@@ -1340,7 +1463,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4120041",
@@ -1350,7 +1474,8 @@
         "aliases": null,
         "latitude": 33.6789,
         "longitude": 44.5983,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3666468",
@@ -1364,7 +1489,8 @@
         ],
         "latitude": 36.8592422,
         "longitude": 42.9216828,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012635",
@@ -1374,7 +1500,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q22686995",
@@ -1384,7 +1511,8 @@
         "aliases": null,
         "latitude": 33.357192,
         "longitude": 43.793413,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21714634",
@@ -1394,7 +1522,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Halabja, orUoH (زانكۆى هه‌ڵه‌بجه‌ in Kurdish) is one of the Iraqi Kurdistan public universities founded in 2011 in the city of Halabja, Halabja Governorate. The university offers a variety of programs such as human sciences, law, physical education, engineering, sciences. Programs last for four years and students receive BA degrees in their corresponding fields at the end of the fourth year."
     },
     {
         "wikidata_id": "Q5989870",
@@ -1406,7 +1535,8 @@
         ],
         "latitude": 35.52931,
         "longitude": 45.495838,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q22933983",
@@ -1419,7 +1549,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Information Technology and Communications (UoITC) is an Iraqi public university located in the city of Baghdad. It is considered the first university dedicated to Information technology and communication in Iraq. It was established by the Iraqi Ministry of Higher Education in 2014 as the first Iraqi university to specialize in  information technology and communications."
     },
     {
         "wikidata_id": "Q4120426",
@@ -1429,7 +1560,8 @@
         "aliases": null,
         "latitude": 32.6092,
         "longitude": 44.0031,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4115996",
@@ -1439,7 +1571,8 @@
         "aliases": null,
         "latitude": 35.44607,
         "longitude": 44.3796,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4120419",
@@ -1449,7 +1582,8 @@
         "aliases": null,
         "latitude": 32.0196,
         "longitude": 44.3761,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3668446",
@@ -1461,7 +1595,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012638",
@@ -1471,7 +1606,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012639",
@@ -1481,7 +1617,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895817",
@@ -1491,7 +1628,8 @@
         "aliases": null,
         "latitude": 31.8108,
         "longitude": 47.1758,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2743336",
@@ -1501,7 +1639,8 @@
         "aliases": null,
         "latitude": 36.3764806,
         "longitude": 43.1421889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101012653",
@@ -1511,7 +1650,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5990205",
@@ -1521,7 +1661,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12204493",
@@ -1531,7 +1672,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3666593",
@@ -1544,7 +1686,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4120423",
@@ -1556,7 +1699,8 @@
         ],
         "latitude": 33.31132,
         "longitude": 44.4475,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1532864",
@@ -1566,7 +1710,8 @@
         "aliases": null,
         "latitude": 31.0506,
         "longitude": 46.2208,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896464",
@@ -1576,7 +1721,8 @@
         "aliases": null,
         "latitude": 34.6808,
         "longitude": 43.6548,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q40378878",
@@ -1589,7 +1735,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4120037",
@@ -1601,7 +1748,8 @@
         ],
         "latitude": 32.5002,
         "longitude": 45.8385,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896677",
@@ -1614,7 +1762,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25450682",
@@ -1624,6 +1773,7 @@
         "aliases": null,
         "latitude": 33.3088022,
         "longitude": 44.4396216,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

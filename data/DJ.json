@@ -10,7 +10,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3551582",
@@ -22,6 +23,7 @@
         ],
         "latitude": 11.5380556,
         "longitude": 43.117,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Djibouti is a public university in Djibouti City, the capital of Djibouti."
     }
 ]

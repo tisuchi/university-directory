@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4822213",
@@ -20,7 +21,8 @@
         ],
         "latitude": 46.1736389,
         "longitude": 21.3171389,
-        "type": "university"
+        "type": "university",
+        "description": "Aurel Vlaicu University of Arad is a public university founded in 1990 in Arad, Romania. It was named in honor of the  Romanian engineer and aviation pioneer Aurel Vlaicu."
     },
     {
         "wikidata_id": "Q42753022",
@@ -30,7 +32,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12742867",
@@ -40,7 +43,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "\"Drăgan\" European University of Lugoj (DEU) is an institution of higher education, juridical person of private law and public use, part of the Romanian national system of education, located in Lugoj, Timiș County, Romania.\nIt was founded through the initiative and the resources of Professor Iosif Constantin Drăgan. The university has had a significant contribution to the revival of Lugoj, an old and traditional cultural center of Banat."
     },
     {
         "wikidata_id": "Q74540728",
@@ -50,7 +54,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18548907",
@@ -62,7 +67,8 @@
         ],
         "latitude": 46.767683,
         "longitude": 23.591111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74542186",
@@ -72,7 +78,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2053266",
@@ -82,7 +89,8 @@
         "aliases": null,
         "latitude": 46.069,
         "longitude": 23.5724,
-        "type": "university"
+        "type": "university",
+        "description": "1 Decembrie 1918 University of Alba Iulia is a public higher education and research institution founded in 1991 in Alba Iulia, Romania. It is a state institution, integrated into the national higher education system, which functions based on the Constitution of Romania, the Law of Education, the University Charter, and its own regulations."
     },
     {
         "wikidata_id": "Q27957524",
@@ -94,7 +102,8 @@
         ],
         "latitude": 47.1803494,
         "longitude": 27.5709383,
-        "type": "institute"
+        "type": "institute",
+        "description": "The A.D. Xenopol Institute of History (Romanian: Institutul de Istorie „A.D. Xenopol”) in Iași is an institution of research in the field of history under the auspices of the Romanian Academy. The institute was named in honour of Romanian historian Alexandru Dimitrie Xenopol.\nThe institute was founded in 1941 by Professor Ilie Minea as the \"A.D. Xenopol Institute for the History of Romanians\" within the Alexandru Ioan Cuza University, and became an independent entity in 1943, as the \"A.D. Xenopol Institute of National History\"."
     },
     {
         "wikidata_id": "Q12719861",
@@ -106,7 +115,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12719865",
@@ -119,7 +129,8 @@
         ],
         "latitude": 44.4466667,
         "longitude": 26.0983333,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4693576",
@@ -132,7 +143,8 @@
         ],
         "latitude": 47.048562,
         "longitude": 21.951542,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4721162",
@@ -142,7 +154,8 @@
         "aliases": null,
         "latitude": 45.7028845,
         "longitude": 27.190465,
-        "type": "university"
+        "type": "university",
+        "description": "Alexandru Ioan Cuza National College (Romanian: Colegiul Național \"Alexandru Ioan Cuza\") is a high school in Focșani, Vrancea County, Romania. It was founded in 1864, after Alexandru Ioan Cuza, the first Domnitor of the United Principalities of Moldavia and Wallachia, enacted a Law on Education, establishing tuition-free and compulsory public education for primary schools.\nThe main building dates to 1930–1931."
     },
     {
         "wikidata_id": "Q18537214",
@@ -154,7 +167,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1523902",
@@ -171,7 +185,8 @@
         ],
         "latitude": 47.1742306,
         "longitude": 27.5716917,
-        "type": "university"
+        "type": "university",
+        "description": "The Alexandru Ioan Cuza University (Romanian: Universitatea \"Alexandru Ioan Cuza\"; acronym: UAIC) is a public university located in Iași, Romania. Founded by an 1860 decree of Prince Alexandru Ioan Cuza, under whom the former Academia Mihăileană was converted to a university, the University of Iași, as it was named at first, is one of the oldest universities of Romania, and one of its advanced research and education institutions. It is one of the five members of the Universitaria Consortium (the group of elite Romanian universities)."
     },
     {
         "wikidata_id": "Q74554915",
@@ -181,7 +196,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74543209",
@@ -191,7 +207,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16821658",
@@ -201,7 +218,8 @@
         "aliases": null,
         "latitude": 47.15744,
         "longitude": 27.59819,
-        "type": "university"
+        "type": "university",
+        "description": "The Apollonia University is a private university in Iași, Romania. Founded in 1991, it was named in honor of the Saint Apollonia."
     },
     {
         "wikidata_id": "Q74550436",
@@ -211,7 +229,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q835079",
@@ -225,7 +244,8 @@
         ],
         "latitude": 46.779407,
         "longitude": 23.618435,
-        "type": "university"
+        "type": "university",
+        "description": "The Art and Design University (Romanian: Universitatea de Artă şi Design, UAD;) is an art university located in Cluj-Napoca, Romania. It was founded on November 15, 1925, as the Fine Arts School of Cluj. It was formerly known as Academy of Visual Arts \"Ioan Andreescu\" until 30 June 2000."
     },
     {
         "wikidata_id": "Q18162308",
@@ -235,7 +255,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Artifex University of Bucharest is a private higher education institution. It was established in 1992 and accredited in 2005. The university traces its history to an institution founded in 1919."
     },
     {
         "wikidata_id": "Q74551543",
@@ -245,7 +266,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74543856",
@@ -255,7 +277,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74555648",
@@ -265,7 +288,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74549162",
@@ -275,7 +299,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529356",
@@ -285,7 +310,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74546581",
@@ -295,7 +321,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74549196",
@@ -305,7 +332,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74542262",
@@ -315,7 +343,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q538452",
@@ -335,7 +364,8 @@
         ],
         "latitude": 46.7677778,
         "longitude": 23.5911111,
-        "type": "university"
+        "type": "university",
+        "description": "The Babeș-Bolyai University (Romanian: Universitatea Babeș-Bolyai [ˈbabeʃ ˈbojɒ.i], Hungarian: Babeș-Bolyai Tudományegyetem, commonly known as UBB) is a public research university located in Cluj-Napoca, Romania. Established in 1581 as Academia Claudiopolitana, it underwent several reorganizations over the centuries, eventually taking its current form in 1959 through the merger of Bolyai University (founded in 1945) and Victor Babeș University (founded in 1919). It occupies the first position in the University Metaranking, initiated by the Romanian Ministry of Education and Research in 2016."
     },
     {
         "wikidata_id": "Q124359933",
@@ -345,7 +375,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3551380",
@@ -355,7 +386,8 @@
         "aliases": null,
         "latitude": 44.4989,
         "longitude": 26.0644,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28726216",
@@ -365,7 +397,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q834219",
@@ -375,7 +408,8 @@
         "aliases": null,
         "latitude": 46.767683,
         "longitude": 23.591111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74541711",
@@ -385,7 +419,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528066",
@@ -395,7 +430,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1474930",
@@ -408,7 +444,8 @@
         ],
         "latitude": 44.4436667,
         "longitude": 26.0901667,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Arts in Bucharest  (Romanian: Universitatea Națională de Arte) is a university in Bucharest preparing students in fine arts.\nThe National University of Arts is a higher education institution in Bucharest."
     },
     {
         "wikidata_id": "Q1167563",
@@ -423,7 +460,8 @@
         ],
         "latitude": 44.4475667,
         "longitude": 26.09665,
-        "type": "university"
+        "type": "university",
+        "description": "The Bucharest Academy of Economic Studies (Romanian: Academia de Studii Economice din București, abbreviated ASE) is a public university in Bucharest, Romania. Founded in 1913 as the Academy of Higher-level Commercial and Industrial Studies (Academia de Înalte Studii Comerciale și Industriale (AISCI)), it has become one of the largest economic higher education institutes in both Romania and South-Eastern Europe. The Bucharest Academy of Economic Studies is classified as an advanced research and education university by the Ministry of Education."
     },
     {
         "wikidata_id": "Q1916637",
@@ -435,7 +473,8 @@
         ],
         "latitude": 44.4346111,
         "longitude": 26.0696111,
-        "type": "university"
+        "type": "university",
+        "description": "Carol Davila University of Medicine and Pharmacy (Romanian: Universitatea de Medicină și Farmacie „Carol Davila”) or University of Medicine and Pharmacy Bucharest, commonly known by the abbreviation UMFCD, is a public health sciences university in Bucharest, Romania. It is one of the largest and oldest institutions of its kind in Romania. The university uses the facilities of over 20 clinical hospitals all over Bucharest."
     },
     {
         "wikidata_id": "Q5044392",
@@ -447,7 +486,8 @@
         ],
         "latitude": 44.3191667,
         "longitude": 23.7919444,
-        "type": "university"
+        "type": "university",
+        "description": "The Carol I National College (Romanian: Colegiul Național Carol I din Craiova) is a high school located in central Craiova, Romania, on Ioan Maiorescu Street. It is one of the most prestigious secondary education institutions in Romania.\nBetween 1947 and 1997 it operated under the name of Nicolae Bălcescu High School."
     },
     {
         "wikidata_id": "Q114019985",
@@ -457,7 +497,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74530589",
@@ -467,7 +508,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74555639",
@@ -477,7 +519,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74535839",
@@ -487,7 +530,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552186",
@@ -497,7 +541,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74544536",
@@ -507,7 +552,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q47522779",
@@ -517,7 +563,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5152449",
@@ -527,7 +574,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Commercial Academy of Satu Mare is a university founded in 1997 in Satu Mare, Romania, with branches in several other counties. The university is currently constructing a new campus on a 8,500 m2 (91,000 sq ft) plot located in the largest park in Satu Mare, the Garden of Rome that was completed in 2010."
     },
     {
         "wikidata_id": "Q74549200",
@@ -537,7 +585,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12742865",
@@ -547,7 +596,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551390",
@@ -560,7 +610,8 @@
         ],
         "latitude": 44.869968,
         "longitude": 24.859868,
-        "type": "university"
+        "type": "university",
+        "description": "The Constantin Brâncoveanu University is a private university in Pitești, Romania, founded in 1991."
     },
     {
         "wikidata_id": "Q3551393",
@@ -570,7 +621,8 @@
         "aliases": null,
         "latitude": 45.039707,
         "longitude": 23.271209,
-        "type": "university"
+        "type": "university",
+        "description": "Constantin Brâncuși University of Târgu Jiu (Romanian: Universitatea „Constantin Brâncuși” din Târgu Jiu) is an accredited higher education institution of public interest, with legal personality and non-profit character, established in accordance with the legal provisions, according to the Romanian Government Decision no. 288 \/ 01.06.1992, and operates on the basis of the principles of university autonomy and academic freedom, under the coordination of the Ministry of National Education - central specialized authority. Constantin Brâncuși University of Târgu-Jiu is a university concerned, especially, in offering young people the chance to choose various study programs, in accordance with the requirements of the highly qualified labor market."
     },
     {
         "wikidata_id": "Q111831979",
@@ -580,7 +632,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74536425",
@@ -590,7 +643,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547807",
@@ -600,7 +654,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3551535",
@@ -610,7 +665,8 @@
         "aliases": null,
         "latitude": 44.4146,
         "longitude": 26.1152,
-        "type": "university"
+        "type": "university",
+        "description": "Dimitrie Cantemir Christian University (Romanian: Universitatea Creștină \"Dimitrie Cantemir\") is a private university in Bucharest. The university was founded in 1990 by Momcilo Luburici and Corina-Adriana Dumitrescu as the Dimitrie Cantemir Independent University, which has since developed 17 faculties in Bucharest, Brașov, Cluj-Napoca, Constanța and Timișoara."
     },
     {
         "wikidata_id": "Q74530648",
@@ -622,7 +678,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18539937",
@@ -632,7 +689,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q52636297",
@@ -642,7 +700,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q61931436",
@@ -654,7 +713,8 @@
         ],
         "latitude": 44.448613,
         "longitude": 26.086264,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74535535",
@@ -664,7 +724,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74550511",
@@ -674,7 +735,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74537992",
@@ -684,7 +746,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12728079",
@@ -696,7 +759,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74529272",
@@ -706,7 +770,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74550747",
@@ -716,7 +781,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74539064",
@@ -726,7 +792,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74543896",
@@ -736,7 +803,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74549237",
@@ -746,7 +814,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5453769",
@@ -756,7 +825,8 @@
         "aliases": null,
         "latitude": 45.6358,
         "longitude": 25.5812,
-        "type": "university"
+        "type": "university",
+        "description": "The First Romanian School (Romanian: Prima școală românească) is located on the grounds of the 15th-century St. Nicholas Church, itself located in the historic district of Șcheii Brașovului, in what is now Brașov, Romania. This is the first school on the territory of present-day Romania where Romanian language was used in teaching (in 1583; up to then, Romanians used Church Slavonic language in education)."
     },
     {
         "wikidata_id": "Q74546160",
@@ -766,7 +836,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74540652",
@@ -776,7 +847,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q131469220",
@@ -789,7 +861,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20900773",
@@ -802,7 +875,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The National Institute for Research and Development of Marine Geology and Geoecology – GeoEcoMar (Romanian: Institutul Național de Cercetare - Dezvoltare pentru Geologie și Geoecologie Marină - GeoEcoMar) is a Romanian institute of geology and geo-ecology founded in 1993. It was initially named Romanian Centre for Marine Geology and Geo-ecology. Its administrative and scientific headquarters is in the capital of Romania, Bucharest; but the operational center, with the research vessels and marine infrastructure, is in Constanța, an important harbor on the Black Sea."
     },
     {
         "wikidata_id": "Q3551731",
@@ -814,7 +888,8 @@
         ],
         "latitude": 47.1645,
         "longitude": 27.5776944,
-        "type": "university"
+        "type": "university",
+        "description": "The George Enescu National University of Arts (Romanian: Universitatea Națională de Arte „George Enescu”) is a public university in Iași, Romania, founded in 1860. It was named in honor of the composer George Enescu."
     },
     {
         "wikidata_id": "Q458666",
@@ -827,7 +902,8 @@
         ],
         "latitude": 47.1544,
         "longitude": 27.5959,
-        "type": "university"
+        "type": "university",
+        "description": "The Gheorghe Asachi Technical University of Iași (Romanian: Universitatea Tehnică „Gheorghe Asachi” din Iași; acronym: TUIASI) is a public university located in Iași, Iași County, Western Moldavia, Romania. Classified by the Ministry of Education as an advanced research and education university, it has the oldest tradition in Romania in engineering education. Gheorghe Asachi Technical University is a member of the Romanian Alliance of Technical Universities (ARUT)."
     },
     {
         "wikidata_id": "Q5556427",
@@ -837,7 +913,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Gheorghe Zane University was a private university in Iaşi, Romania. Founded in 1996, it was named in honor of the Romanian economist Gheorghe Zane.\nIn September 2013, Gheorghe Zane University was absorbed into Petre Andrei University of Iași."
     },
     {
         "wikidata_id": "Q107840794",
@@ -847,7 +924,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q2779762",
@@ -862,7 +940,8 @@
         ],
         "latitude": 47.1683,
         "longitude": 27.5847,
-        "type": "university"
+        "type": "university",
+        "description": "Grigore T. Popa University of Medicine and Pharmacy (Romanian: Universitatea de Medicină și Farmacie „Grigore T. Popa”, or UMF Iași) is a public university-level medical school located in Iași, Romania. Named in honor of the scientist Grigore T. Popa, it is classified by the Ministry of Education as an advanced research and education university."
     },
     {
         "wikidata_id": "Q12730485",
@@ -872,7 +951,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74557146",
@@ -882,7 +962,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3551414",
@@ -894,7 +975,8 @@
         ],
         "latitude": 44.4327388,
         "longitude": 26.1254889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q195081",
@@ -909,7 +991,8 @@
         ],
         "latitude": 44.437541,
         "longitude": 26.129853,
-        "type": "university"
+        "type": "university",
+        "description": "The I. L. Caragiale National University of Theatre and Film (Romanian: Universitatea Națională de Artă Teatrală și Cinematografică \"I. L. Caragiale\") is a public university in Bucharest, Romania, founded in 1954. It is named in honour of playwright Ion Luca Caragiale."
     },
     {
         "wikidata_id": "Q12730159",
@@ -921,7 +1004,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q27957523",
@@ -931,7 +1015,8 @@
         "aliases": null,
         "latitude": 47.1791917,
         "longitude": 27.5728306,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Iași Institute of Archaeology (Romanian: Institutul de Arheologie Iași; abbreviation: IAI) is an institution of research in the field of archaeology under the auspices of the Romanian Academy. The institute was founded in 1990 in Iași, when the archaeology section of the A.D. Xenopol Institute of History and Archaeology split off."
     },
     {
         "wikidata_id": "Q287299",
@@ -944,7 +1029,8 @@
         ],
         "latitude": 47.1916667,
         "longitude": 27.5561111,
-        "type": "university"
+        "type": "university",
+        "description": "The Ion Ionescu de la Brad University of Life Sciences of Iași (IULS) (Romanian: Universitatea de Științele Vieții „Ion Ionescu de la Brad” din Iași; acronym: USV Iași) is a public university in Iași, Romania. It was named in honor of the scientist Ion Ionescu de la Brad."
     },
     {
         "wikidata_id": "Q110939929",
@@ -954,7 +1040,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12730171",
@@ -966,7 +1053,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74555285",
@@ -976,7 +1064,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74546550",
@@ -986,7 +1075,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18540941",
@@ -996,7 +1086,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12730493",
@@ -1008,7 +1099,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q52634070",
@@ -1018,7 +1110,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10302891",
@@ -1030,7 +1123,8 @@
         ],
         "latitude": 44.4440972,
         "longitude": 26.0884972,
-        "type": "institute"
+        "type": "institute",
+        "description": "The \"Simion Stoilow\" Institute of Mathematics of the Romanian Academy is a research institute in Bucharest, Romania.  It is affiliated with the Romanian Academy, and it is named after Simion Stoilow, one of its founders."
     },
     {
         "wikidata_id": "Q12730504",
@@ -1042,7 +1136,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74545660",
@@ -1052,7 +1147,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528453",
@@ -1062,7 +1158,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q17505374",
@@ -1074,7 +1171,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30284958",
@@ -1088,7 +1186,8 @@
         ],
         "latitude": 44.213917,
         "longitude": 28.645378,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30257524",
@@ -1098,7 +1197,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q976926",
@@ -1108,7 +1208,8 @@
         "aliases": null,
         "latitude": 44.4365278,
         "longitude": 26.1,
-        "type": "university"
+        "type": "university",
+        "description": "The Ion Mincu University of Architecture and Urban Planning (Romanian: Universitatea de Arhitectură și Urbanism \"Ion Mincu\" din București) is a public university for architectural and urbanism studies located at 18–20 Academiei Street in Sector 1 of Bucharest, Romania. The university is named after the architect and engineer Ion Mincu. It was formerly named Superior School of Architecture in Bucharest (Romanian: Școala Superioară de Arhitectură din București)."
     },
     {
         "wikidata_id": "Q1141880",
@@ -1121,7 +1222,8 @@
         ],
         "latitude": 46.762061,
         "longitude": 23.5836,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1619447",
@@ -1134,7 +1236,8 @@
         ],
         "latitude": 45.7905,
         "longitude": 24.1457222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12742869",
@@ -1144,7 +1247,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6845144",
@@ -1156,7 +1260,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Mihail Kogălniceanu University is a private university in Iaşi, Romania. Founded in 1990, it was named in honor of the Romanian historian and statesman Mihail Kogălniceanu."
     },
     {
         "wikidata_id": "Q636034",
@@ -1168,7 +1273,8 @@
         ],
         "latitude": 44.418512,
         "longitude": 26.085805,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12719874",
@@ -1182,7 +1288,8 @@
         ],
         "latitude": 44.1836111,
         "longitude": 28.6191667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74528164",
@@ -1192,7 +1299,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2822447",
@@ -1206,7 +1314,8 @@
         ],
         "latitude": 44.439093,
         "longitude": 26.070588,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18539109",
@@ -1216,7 +1325,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q52661526",
@@ -1228,7 +1338,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30294593",
@@ -1241,7 +1352,8 @@
         ],
         "latitude": 44.355568,
         "longitude": 26.034287,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30284865",
@@ -1253,7 +1365,8 @@
         ],
         "latitude": 44.434845,
         "longitude": 26.006044,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30274335",
@@ -1265,7 +1378,8 @@
         ],
         "latitude": 44.415192,
         "longitude": 26.132028,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547850",
@@ -1275,7 +1389,8 @@
         "aliases": null,
         "latitude": 44.45527,
         "longitude": 26.11405,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18540951",
@@ -1287,7 +1402,8 @@
         ],
         "latitude": 44.3491885,
         "longitude": 26.0302652,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12730482",
@@ -1297,7 +1413,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12730167",
@@ -1309,7 +1426,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18540952",
@@ -1319,7 +1437,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12730483",
@@ -1331,7 +1450,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18537218",
@@ -1343,7 +1463,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The National Intelligence Academy (Romanian: Academia Națională de Informații) is a Romanian university run by the Romanian Intelligence Service intended to train intelligence officers. In its 20 years of existence, it had trained over 4000 intelligence officers.\nFor the class starting in 2014, the admission was based on an exam and it had 30 places for undergraduate studies (3 years), as well as 35 places for Master's degree."
     },
     {
         "wikidata_id": "Q18540179",
@@ -1358,7 +1479,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3578107",
@@ -1370,7 +1492,8 @@
         ],
         "latitude": 44.449835,
         "longitude": 26.093988,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1888128",
@@ -1385,7 +1508,8 @@
         ],
         "latitude": 44.4391667,
         "longitude": 26.0902778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74549582",
@@ -1395,7 +1519,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530054",
@@ -1405,7 +1530,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18541099",
@@ -1415,7 +1541,8 @@
         "aliases": null,
         "latitude": 44.455471,
         "longitude": 26.0854321,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Nicolae Iorga Institute of History (Romanian: Institutul de Istorie „Nicolae Iorga”; abbreviation: IINI) is an institution of research in the field of history under the auspices of the Romanian Academy. The institute is located at 1 Bulevardul Aviatorilor in Sector 1 of Bucharest, Romania."
     },
     {
         "wikidata_id": "Q3551461",
@@ -1425,7 +1552,8 @@
         "aliases": null,
         "latitude": 44.4143,
         "longitude": 26.1148,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q296709",
@@ -1438,7 +1566,8 @@
         ],
         "latitude": 44.9143,
         "longitude": 26.037,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q768651",
@@ -1448,7 +1577,8 @@
         "aliases": null,
         "latitude": 47.056529,
         "longitude": 21.923465,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q73745573",
@@ -1458,7 +1588,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551478",
@@ -1468,7 +1599,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1532212",
@@ -1480,7 +1612,8 @@
         ],
         "latitude": 46.5466667,
         "longitude": 24.5683333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1465448",
@@ -1495,7 +1628,8 @@
         ],
         "latitude": 44.4383333,
         "longitude": 26.0513889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1475126",
@@ -1508,7 +1642,8 @@
         ],
         "latitude": 45.7455556,
         "longitude": 21.23,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74542207",
@@ -1518,7 +1653,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q532460",
@@ -1528,7 +1664,8 @@
         "aliases": null,
         "latitude": 46.7732222,
         "longitude": 23.5953889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74536749",
@@ -1538,7 +1675,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q107972831",
@@ -1548,7 +1686,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12724359",
@@ -1558,7 +1697,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q12744215",
@@ -1568,7 +1708,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12744218",
@@ -1578,7 +1719,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134376723",
@@ -1588,7 +1730,8 @@
         "aliases": null,
         "latitude": 45.1084734,
         "longitude": 24.3616341,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q1472691",
@@ -1598,7 +1741,8 @@
         "aliases": null,
         "latitude": 46.78,
         "longitude": 23.5594444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28725888",
@@ -1608,7 +1752,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q42750445",
@@ -1618,7 +1763,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q42888727",
@@ -1628,7 +1774,8 @@
         "aliases": null,
         "latitude": 45.85157,
         "longitude": 26.190651,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q61085475",
@@ -1638,7 +1785,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q64828728",
@@ -1648,7 +1796,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12738897",
@@ -1660,7 +1809,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552887",
@@ -1670,7 +1820,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12730496",
@@ -1680,7 +1831,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74548121",
@@ -1692,7 +1844,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q97463691",
@@ -1702,7 +1855,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74551197",
@@ -1712,7 +1866,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q39418041",
@@ -1722,7 +1877,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74535541",
@@ -1734,7 +1890,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74536387",
@@ -1744,7 +1901,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74555280",
@@ -1754,7 +1912,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74553325",
@@ -1764,7 +1923,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74553642",
@@ -1774,7 +1934,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12730480",
@@ -1787,7 +1948,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74550526",
@@ -1797,7 +1959,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74542297",
@@ -1807,7 +1970,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74549119",
@@ -1817,7 +1981,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3551855",
@@ -1827,7 +1992,8 @@
         "aliases": null,
         "latitude": 44.4081,
         "longitude": 26.1442,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2175735",
@@ -1839,7 +2005,8 @@
         ],
         "latitude": 44.4732222,
         "longitude": 26.0653056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1729725",
@@ -1849,7 +2016,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q724027",
@@ -1861,7 +2029,8 @@
         ],
         "latitude": 46.7676833,
         "longitude": 23.5911111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74538000",
@@ -1871,7 +2040,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528704",
@@ -1883,7 +2053,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1132587",
@@ -1893,7 +2064,8 @@
         "aliases": null,
         "latitude": 44.433155,
         "longitude": 26.101289,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q653439",
@@ -1910,7 +2082,8 @@
         ],
         "latitude": 47.641167,
         "longitude": 26.245257,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q42889290",
@@ -1920,7 +2093,8 @@
         "aliases": null,
         "latitude": 45.866032,
         "longitude": 25.78725,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q493294",
@@ -1936,7 +2110,8 @@
         ],
         "latitude": 44.4635,
         "longitude": 26.1247,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q729296",
@@ -1948,7 +2123,8 @@
         ],
         "latitude": 46.7691667,
         "longitude": 23.5855556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7059097",
@@ -1958,7 +2134,8 @@
         "aliases": null,
         "latitude": 47.6602778,
         "longitude": 23.545,
-        "type": "university"
+        "type": "university",
+        "description": "The Technical University of Cluj-Napoca - North University Centre of Baia Mare (Romanian: Universitatea Tehnică din Cluj-Napoca - Centrul Universitar Nord din Baia Mare) is the campus of Technical University of Cluj-Napoca, in Baia Mare, Romania."
     },
     {
         "wikidata_id": "Q89125681",
@@ -1974,7 +2151,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q26690209",
@@ -1984,7 +2162,8 @@
         "aliases": null,
         "latitude": 46.765661,
         "longitude": 23.548117,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Tiberiu Popoviciu Institute of Numerical Analysis Romanian: Institutul de Calcul \"Tiberiu Popoviciu\" (ICTP) is a mathematics research institute of the Romanian Academy, based in Cluj-Napoca, Romania. \nICTP is coordinated by the Mathematical Section and belongs to the Cluj-Napoca Branch of the Romanian Academy. The Institute performs fundamental research mainly in the field of Numerical Analysis."
     },
     {
         "wikidata_id": "Q1128467",
@@ -1994,7 +2173,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1475250",
@@ -2004,7 +2184,8 @@
         "aliases": null,
         "latitude": 44.4148333,
         "longitude": 26.1141944,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1475400",
@@ -2018,7 +2199,8 @@
         ],
         "latitude": 45.6451944,
         "longitude": 25.5891111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q120985901",
@@ -2030,7 +2212,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74536780",
@@ -2040,7 +2223,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2496038",
@@ -2050,7 +2234,8 @@
         "aliases": null,
         "latitude": 46.5597,
         "longitude": 26.9143,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74541160",
@@ -2060,7 +2245,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12742860",
@@ -2070,7 +2256,8 @@
         "aliases": null,
         "latitude": 45.2927,
         "longitude": 21.8841,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q528377",
@@ -2084,7 +2271,8 @@
         ],
         "latitude": 46.7611,
         "longitude": 23.5711,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q636060",
@@ -2096,7 +2284,8 @@
         ],
         "latitude": 44.471706,
         "longitude": 26.070447,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74541747",
@@ -2106,7 +2295,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1165715",
@@ -2116,7 +2306,8 @@
         "aliases": null,
         "latitude": 46.542937,
         "longitude": 24.561706,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q495258",
@@ -2129,7 +2320,8 @@
         ],
         "latitude": 46.5542,
         "longitude": 26.9134,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q608338",
@@ -2147,7 +2339,8 @@
         ],
         "latitude": 44.4355556,
         "longitude": 26.1011167,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74555997",
@@ -2157,7 +2350,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529028",
@@ -2167,7 +2361,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527794",
@@ -2177,7 +2372,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74551579",
@@ -2187,7 +2383,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547416",
@@ -2197,7 +2394,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q494096",
@@ -2209,7 +2407,8 @@
         ],
         "latitude": 44.3192,
         "longitude": 23.8006,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1266339",
@@ -2225,7 +2424,8 @@
         ],
         "latitude": 45.43864,
         "longitude": 28.055857,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q824493",
@@ -2237,7 +2437,8 @@
         ],
         "latitude": 45.782676,
         "longitude": 21.216778,
-        "type": "university"
+        "type": "university",
+        "description": "The King Mihai I University of Life Sciences (Romanian: Universitatea de Științele Vieții „Regele Mihai I”; abbreviated USVT), known until 2022 as the University of Agricultural Sciences and Veterinary Medicine of Banat, is a public university in Timișoara, Romania, which specializes in life sciences and veterinary medicine. It was named in honor of King Michael I of Romania."
     },
     {
         "wikidata_id": "Q74530650",
@@ -2250,7 +2451,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1465437",
@@ -2262,7 +2464,8 @@
         ],
         "latitude": 47.0456944,
         "longitude": 21.9200028,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Oradea (UO or U of O) (Romanian: Universitatea din Oradea) is an accredited public university located in Oradea in north-western Romania.\nWith 15 faculties, the university has a total of 123 fields of study for undergraduates and 151 post-graduate specialisation degrees. The university employs 1600 people, of which 935 are teaching personnel, and over 19,000 students (including all forms of studies)."
     },
     {
         "wikidata_id": "Q74541753",
@@ -2272,7 +2475,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74548286",
@@ -2282,7 +2486,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74545613",
@@ -2292,7 +2497,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q636074",
@@ -2302,7 +2508,8 @@
         "aliases": null,
         "latitude": 44.8696667,
         "longitude": 24.8601389,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Piteşti (Romanian: Universitatea din Pitești, abbreviated UPIT) is a public university in Piteşti, Romania, founded in 1991."
     },
     {
         "wikidata_id": "Q7896551",
@@ -2312,7 +2519,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Foundation for the Promotion of European Education F.I.N.E. - University of Wales, Romania (Romanian: Fundaţia Pentru Promovarea Învăţământalui European F.I.N.E – Universitatea Wales România), a university located in Bucharest, Romania, was established in 2001 and received authorisation to function from the Romanian Ministry of Education, Research and Youth in 2003. Classes are taught during the day and 3-year degrees in Management and Marketing are awarded."
     },
     {
         "wikidata_id": "Q74528768",
@@ -2322,7 +2530,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q114020486",
@@ -2334,7 +2543,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551502",
@@ -2344,7 +2554,8 @@
         "aliases": null,
         "latitude": 44.9239,
         "longitude": 25.4575,
-        "type": "university"
+        "type": "university",
+        "description": "The Valahia University of Târgovişte is a university in Târgoviște, Dâmbovița County, Romania."
     },
     {
         "wikidata_id": "Q2031813",
@@ -2357,7 +2568,8 @@
         ],
         "latitude": 46.3719444,
         "longitude": 22.1302778,
-        "type": "university"
+        "type": "university",
+        "description": "\"Vasile Goldiș\" Western University of Arad (Romanian: Universitatea de Vest \"Vasile Goldiș\") is a private university located in Arad, Romania.\nThe spiritual patron of the university is Vasile Goldiș, a prominent Romanian politician, pedagogue, publicist, member of the Romanian Academy and a key figure of the Union of Transylvania with Romania in 1918. Subsequent to the union he was a member of the  Ion I. C. Brătianu, Artur Văitoianu and Alexandru Averescu cabinets and a deputy in the Romanian Parliament."
     },
     {
         "wikidata_id": "Q12730486",
@@ -2370,7 +2582,8 @@
         ],
         "latitude": 44.433207,
         "longitude": 26.082212,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q60213954",
@@ -2380,7 +2593,8 @@
         "aliases": null,
         "latitude": 46.767683,
         "longitude": 23.591111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q851648",
@@ -2394,7 +2608,8 @@
         ],
         "latitude": 45.756772,
         "longitude": 21.236743,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q837657",
@@ -2412,7 +2627,8 @@
         ],
         "latitude": 45.7471,
         "longitude": 21.2315,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97463845",
@@ -2422,7 +2638,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74548238",
@@ -2432,7 +2649,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q129485993",
@@ -2444,6 +2662,7 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     }
 ]

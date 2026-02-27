@@ -12,7 +12,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Bolivarian Military Technical Academy COL Juan Vicente Bolívar y Ponte (in Spanish Academia Técnica Militar Bolivariana), is an academy to train officers of technical and administrative services in the National Bolivarian Armed Forces of Venezuela.\nFormerly the Armed Forces Basic School, it was given its current charter and was renamed to its present name in 2010, with its main campus in Maracay with branches in Caracas, Michelena and Caita La Mar."
     },
     {
         "wikidata_id": "Q4760155",
@@ -24,7 +25,8 @@
         ],
         "latitude": 10.4642778,
         "longitude": -66.9759444,
-        "type": "university"
+        "type": "university",
+        "description": "Andrés Bello Catholic University (Spanish: Universidad Católica Andrés Bello) is a private university in Venezuela. One of the largest universities in Venezuela, UCAB has campuses in several cities, such as Caracas (main campus), Los Teques, Guayana, and Coro.\nNamed for Venezuelan writer Andrés Bello, UCAB was founded in October 1953 by the Society of Jesus (Episcopado Venezolano a la Compañía de Jesús)."
     },
     {
         "wikidata_id": "Q4801770",
@@ -34,7 +36,8 @@
         "aliases": null,
         "latitude": 10.2733333,
         "longitude": -68.0030556,
-        "type": "university"
+        "type": "university",
+        "description": "The Arturo Michelena University (Spanish: Universidad Arturo Michelena, UAM) is the biggest private university in Valencia, Venezuela. It offers graduate and postgraduate studies in different areas, and has around 20,000 students, mostly coming from the central part of the country. The name comes from the Venezuelan artist Arturo Michelena."
     },
     {
         "wikidata_id": "Q74548164",
@@ -44,7 +47,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q638434",
@@ -56,7 +60,8 @@
         ],
         "latitude": 10.4875,
         "longitude": -66.8858333,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidad Bolivariana de Venezuela (UBV, English: Bolivarian University of Venezuela) is a state university in Venezuela founded in 2003 by decree of President Hugo Chávez.\nThe UBV is a part of the Chávez government's \"Mission Sucre\" social programs, which aim to provide free higher education. Consequently, enrollment at the UBV is free and open to all."
     },
     {
         "wikidata_id": "Q936476",
@@ -70,7 +75,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Central University of Venezuela (Spanish: Universidad Central de Venezuela; UCV) is a public university located in Caracas, Venezuela. Founded in 1721, it is the oldest university in Venezuela and one of the oldest in the Western Hemisphere.\nThe main university campus, Ciudad Universitaria de Caracas, was designed by architect Carlos Raúl Villanueva and it is considered a masterpiece of urban planning and was declared a World Heritage Site by UNESCO in 2000s."
     },
     {
         "wikidata_id": "Q74551525",
@@ -80,7 +86,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16550254",
@@ -92,7 +99,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74542180",
@@ -102,7 +110,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5968527",
@@ -114,7 +123,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Escuela Iberoamericana de Cine Documental  (Iberoamerican Documentary Film School) or IBERDOC is the first training center in the region devoted exclusively to training Latin American professionals in the documentary genre. It is located in Santiago de los Caballeros de Mérida, state of Mérida, Venezuela."
     },
     {
         "wikidata_id": "Q2885018",
@@ -127,7 +137,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Instituto de Estudios Superiores de Administración (Institute of Advanced Studies in Administration, IESA) is a private non-profit Venezuelan business school with campuses in Caracas, Maracaibo and Valencia. It was founded in 1965."
     },
     {
         "wikidata_id": "Q121774542",
@@ -139,7 +150,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q74543233",
@@ -149,7 +161,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25631114",
@@ -159,7 +172,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74546015",
@@ -169,7 +183,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q65093814",
@@ -182,7 +197,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19615470",
@@ -192,7 +208,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Santiago Mariño Polytechnic University Institute (Spanish: Instituto Universitario Politécnico \"Santiago Mariño\", IUPSM) is a private university located in Barcelona, Venezuela."
     },
     {
         "wikidata_id": "Q30294100",
@@ -202,7 +219,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156664",
@@ -215,7 +233,8 @@
         ],
         "latitude": 10.6933,
         "longitude": -71.6337,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18344889",
@@ -225,7 +244,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Military Academy of Troop Officers Commander in Chief Hugo Rafael Chávez Frías (in Spanish Academia Militar de Oficiales de Tropa Comandante en Jefe Hugo Rafael Chávez Frías), is a military academy to train officers of the National Bolivarian Armed Forces of Venezuela within basic command echelons. It is also one of the two youngest component academies of the Bolivarian Military University of Venezuela, opened on June 1, 2012. Unlike the rest of the academies, the AMOTCH is a joint service academy, only serving experienced corporals and junior ranked NCOs with a potential to become officers of the Armed Forces."
     },
     {
         "wikidata_id": "Q22673595",
@@ -240,7 +260,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Military Academy of Health Sciences (in Spanish Academia Militar de Medicina (AMMED)), is an academy to train medical sciences to the National Bolivarian Armed Forces of Venezuela (FANB)."
     },
     {
         "wikidata_id": "Q3234085",
@@ -252,7 +273,8 @@
         ],
         "latitude": 10.4565,
         "longitude": -66.9086,
-        "type": "university"
+        "type": "university",
+        "description": "The Military Academy of the Bolivarian Army (in Spanish Academia Militar del Ejército Bolivariano), previously called Military Academy of Venezuela, is an academy to train members of the officer corps of the National Army of the Bolivarian Republic of Venezuela, attached to Bolivarian Military University of Venezuela. It is also the oldest military academy in the country and one of the oldest in Latin America, having been founded on September 2, 1810.\nIts campus is in Fort Tiuna in Caracas, shared with the National Guard Military Academy."
     },
     {
         "wikidata_id": "Q18344894",
@@ -265,7 +287,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Military Academy of the Bolivarian Aviation (in Spanish Academia Militar de la Aviación Bolivariana), is an academy to train members of the officer corps of the Bolivarian Venezuelan Military Aviation. Based in Maracay, it has been active since 1920, and is one of the oldest air force academies ever to be established."
     },
     {
         "wikidata_id": "Q22575798",
@@ -279,7 +302,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The National Guard Military Academy (in Spanish Academia Militar de la Guardia Nacional Bolivariana), opened in 1936, is a military academy training future officers of the Venezuelan National Guard. It shares its campus in Caracas's Fort Tiuna with the Military Academy of the Bolivarian Army."
     },
     {
         "wikidata_id": "Q5838788",
@@ -292,7 +316,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Military Academy of the Bolivarian Navy (in Spanish Academia Militar de la Armada Bolivariana), is an academy to train future officers of the Bolivarian Navy of Venezuela. Established in 1811, it is Venezuela's and America's oldest existing naval academy. At the end of training, the successful naval cadet graduates as an Officer of the Navy, and is commissioned to the military rank of Lieutenant Junior Grade."
     },
     {
         "wikidata_id": "Q5421133",
@@ -304,7 +329,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Experimental Security University (UNES, Universidad Nacional Experimental de la Seguridad) is a state university in Venezuela founded in 2009. It specialises in providing training for Venezuelan police and security forces, in particular the new Policía Nacional Bolivariana."
     },
     {
         "wikidata_id": "Q6972526",
@@ -317,7 +343,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The National Experimental University of the Armed Forces (Spanish: Universidad Nacional Experimental Politécnica de la Fuerza Armada Bolivariana, UNEFA) is a Venezuelan public university associated with the Venezuelan armed forces. Founded in 1974 by the former president Rafael Caldera as the National Armed Forces Higher Polytechnical Institution (Instituto Universitario Politécnico de las Fuerzas Armadas Nacionales), it was renamed by the Venezuelan president Hugo Chavez in 1999.\n\nIn 2009 it had 61 campuses, and was present in every Venezuelan state except Monagas, with 235,000 students enrolled in May 2009."
     },
     {
         "wikidata_id": "Q56240907",
@@ -327,7 +354,8 @@
         "aliases": null,
         "latitude": 10.5091,
         "longitude": -66.9142,
-        "type": "university"
+        "type": "university",
+        "description": "The National Experimental University of Greater Caracas (UNEXCAA) is a public university in Venezuela. It is co-supervised by the Ministry of Popular Power for University Education, Science and Technology (MPPEUCT). Its campus is located in the La Floresta Urbanization, Chacao Parish, Municipality Chacao, east of the geographic center of Greater Caracas."
     },
     {
         "wikidata_id": "Q16141447",
@@ -337,7 +365,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136687913",
@@ -347,7 +376,8 @@
         "aliases": null,
         "latitude": 10.3181546,
         "longitude": -68.7473266,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136745144",
@@ -357,7 +387,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q43015155",
@@ -367,7 +398,8 @@
         "aliases": null,
         "latitude": 9.74408,
         "longitude": -63.1769446,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156331",
@@ -377,7 +409,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156472",
@@ -387,7 +420,8 @@
         "aliases": null,
         "latitude": 10.4892278,
         "longitude": -66.8910667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156630",
@@ -397,7 +431,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156679",
@@ -407,7 +442,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156800",
@@ -417,7 +453,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156801",
@@ -427,7 +464,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156666",
@@ -437,7 +475,8 @@
         "aliases": null,
         "latitude": 10.65,
         "longitude": -71.595833,
-        "type": "university"
+        "type": "university",
+        "description": "Rafael Urdaneta University; URU (Spanish: Universidad Rafael Urdaneta) is a private, non-profit university founded in 1973, located at La Vereda del Lago (Maracaibo, Venezuela), by the Rafael Urdaneta foundation and the Rafael Urdaneta university civic association. It receives its name from the general Rafael Urdaneta, Zulian father of Venezuelan independence.\nRafael Urdaneta University is a higher education institute whose purpose is to generate and apply the imparted knowledge to contribute to the evolution of the human being and to the formation of professionals with values, independent, competitive and compromised to the scientific, technical and humanistic development of the social environment to elaborate sustainable projects that resolve the problems of the State and the Nation."
     },
     {
         "wikidata_id": "Q7521438",
@@ -449,7 +488,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2093477",
@@ -462,7 +502,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894230",
@@ -472,7 +513,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156372",
@@ -482,7 +524,8 @@
         "aliases": null,
         "latitude": 10.2325,
         "longitude": -67.5283333,
-        "type": "university"
+        "type": "university",
+        "description": "The \"Universidad Bicentenaria de Aragua\" (UBA) is a private institution of higher education in Turmero, Aragua State, Venezuela."
     },
     {
         "wikidata_id": "Q6156379",
@@ -492,7 +535,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156385",
@@ -504,7 +548,8 @@
         ],
         "latitude": 10.4892278,
         "longitude": -66.8910667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156414",
@@ -514,7 +559,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74546606",
@@ -524,7 +570,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74550839",
@@ -534,7 +581,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74537627",
@@ -544,7 +592,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7894256",
@@ -556,7 +605,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74552196",
@@ -566,7 +616,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529002",
@@ -578,7 +629,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74558051",
@@ -588,7 +640,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156765",
@@ -600,7 +653,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74526708",
@@ -610,7 +664,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74553680",
@@ -620,7 +675,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7894330",
@@ -633,7 +689,8 @@
         ],
         "latitude": 10.4691667,
         "longitude": -64.1572222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156796",
@@ -643,7 +700,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74530738",
@@ -653,7 +711,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156858",
@@ -665,7 +724,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5690215",
@@ -675,7 +735,8 @@
         "aliases": null,
         "latitude": 10.4892278,
         "longitude": -66.8910667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29052463",
@@ -687,7 +748,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156554",
@@ -700,7 +762,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Francisco de Miranda National Experimental University (UNEFM) (Español: Universidad Nacional Experimental Francisco de Miranda) is a public institute of higher education in Venezuela, with headquarters in the state Falcón, founded in July of 1977. Today it is one of the most famous and prestigious universities in the country. It has a newspaper, a radio station (Unefm 104.1 FM) and an open television channel (TV Unefm)."
     },
     {
         "wikidata_id": "Q6156465",
@@ -712,7 +775,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894279",
@@ -724,7 +788,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111309232",
@@ -736,7 +801,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894281",
@@ -748,7 +814,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q935378",
@@ -760,7 +827,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894286",
@@ -770,7 +838,8 @@
         "aliases": null,
         "latitude": 10.4994,
         "longitude": -66.7847,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894290",
@@ -782,7 +851,8 @@
         ],
         "latitude": 10.4779,
         "longitude": -66.8413,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16644491",
@@ -792,7 +862,8 @@
         "aliases": null,
         "latitude": 10.51002,
         "longitude": -66.89989,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156556",
@@ -802,7 +873,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156559",
@@ -814,7 +886,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q65088552",
@@ -826,7 +899,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156560",
@@ -838,7 +912,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29052455",
@@ -850,7 +925,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16644499",
@@ -860,7 +936,8 @@
         "aliases": null,
         "latitude": 10.5983333,
         "longitude": -67.0313889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q979134",
@@ -878,7 +955,8 @@
         ],
         "latitude": 8.2797222,
         "longitude": -62.7301389,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5841184",
@@ -890,7 +968,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5941668",
@@ -903,7 +982,8 @@
         ],
         "latitude": 9.90075,
         "longitude": -67.3957778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894294",
@@ -913,7 +993,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894301",
@@ -923,7 +1004,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156612",
@@ -936,7 +1018,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74530088",
@@ -946,7 +1029,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6156629",
@@ -956,7 +1040,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5917968",
@@ -966,7 +1051,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20015680",
@@ -978,7 +1064,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q542248",
@@ -990,7 +1077,8 @@
         ],
         "latitude": 10.4922,
         "longitude": -66.78,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156692",
@@ -1003,7 +1091,8 @@
         ],
         "latitude": 10.2058333,
         "longitude": -67.8758333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q24960119",
@@ -1016,7 +1105,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29052446",
@@ -1026,7 +1116,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6156457",
@@ -1038,7 +1129,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q367429",
@@ -1050,7 +1142,8 @@
         ],
         "latitude": 10.2708333,
         "longitude": -68.0058333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q119314455",
@@ -1060,7 +1153,8 @@
         "aliases": null,
         "latitude": 10.4953636,
         "longitude": -66.9314979,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q760690",
@@ -1072,7 +1166,8 @@
         ],
         "latitude": 8.6183333,
         "longitude": -71.1394444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16644505",
@@ -1084,7 +1179,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q192539",
@@ -1097,7 +1193,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7919813",
@@ -1107,7 +1204,8 @@
         "aliases": null,
         "latitude": 10.1494,
         "longitude": -68.5171,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5871539",
@@ -1119,7 +1217,8 @@
         ],
         "latitude": 10.4720833,
         "longitude": -66.8088333,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3152786",
@@ -1129,6 +1228,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

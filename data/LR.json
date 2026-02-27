@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "African Bible Colleges is an entity comprising multiple Bible college in Africa.  The three campuses offer university-level education from a Christian perspective, with the aim of training men and women for Christian leadership and service."
     },
     {
         "wikidata_id": "Q4689862",
@@ -19,7 +20,8 @@
         ],
         "latitude": 6.3106285,
         "longitude": -10.8011504,
-        "type": "university"
+        "type": "university",
+        "description": "The African Methodist Episcopal University (AMEU) is a private institution of higher learning located in Monrovia, in the West African nation of Liberia. Located on Camp Johnson Road, the school is the second largest college in Liberia with over 5,000 students. The school was established in 1995 by the African Methodist Episcopal Church, and chartered by the Liberian Legislature in 1996."
     },
     {
         "wikidata_id": "Q5197010",
@@ -32,7 +34,8 @@
         ],
         "latitude": 7.04,
         "longitude": -9.554167,
-        "type": "university"
+        "type": "university",
+        "description": "Cuttington University is a private university in Suacoco, Liberia. Founded in 1889 as Cuttington College by the Episcopal Church of the United States (ECUSA), it is the oldest private, coeducational, four-year, degree-granting institution in sub-Saharan Africa."
     },
     {
         "wikidata_id": "Q1528161",
@@ -45,7 +48,8 @@
         ],
         "latitude": 4.40021,
         "longitude": -7.69655,
-        "type": "university"
+        "type": "university",
+        "description": "William V. S. Tubman University, commonly known as Tubman University, is a public university located in Harper, Maryland County, Liberia. The university is named after William Tubman, the 19th President of Liberia.\nFounded in 1978 as the William V. S. Tubman College of Technology, the school originally offered associate's degrees in architecture, civil engineering, electrical engineering, electronics and mechanical engineering."
     },
     {
         "wikidata_id": "Q16902330",
@@ -57,7 +61,8 @@
         ],
         "latitude": 6.31764,
         "longitude": -10.8053,
-        "type": "university"
+        "type": "university",
+        "description": "The United Methodist University (UMU) is a private institution of higher learning located in Monrovia in the West African nation of Liberia. Established in 1998 and opened in 2000, the school had 9,118 students as of 2016. UMU is certified by the Liberian government's National Commission on Higher Education to grant both bachelor's and master's degrees."
     },
     {
         "wikidata_id": "Q3044628",
@@ -72,7 +77,8 @@
         ],
         "latitude": 6.29917,
         "longitude": -10.7947,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Liberia (UL or LU in older versions of abbreviation) is a publicly funded institution of higher learning located in Monrovia, Liberia. Authorized by the national government in 1851, the university opened in 1862 as Liberia College. UL has four campuses: the Capitol Hill Campus in Monrovia, the Fendall campus in Louisiana, outside Monrovia, the Medical School Campus in Congo Town, and the Straz-Sinje Campus in Sinje Grand Cape Mount County."
     },
     {
         "wikidata_id": "Q100943571",
@@ -82,6 +88,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

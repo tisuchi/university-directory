@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 54.399963,
         "longitude": 24.06759,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q16458989",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": 55.0818389,
         "longitude": 23.7984806,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q21148473",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30285236",
@@ -39,7 +42,8 @@
         ],
         "latitude": 54.9172901,
         "longitude": 23.9064918,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1779338",
@@ -52,7 +56,8 @@
         ],
         "latitude": 55.699191,
         "longitude": 21.135579,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q74538564",
@@ -62,7 +67,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16458919",
@@ -72,7 +78,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74537176",
@@ -82,7 +89,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74541762",
@@ -92,7 +100,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12654580",
@@ -104,7 +113,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1501626",
@@ -116,7 +126,8 @@
         ],
         "latitude": 54.70234,
         "longitude": 25.313433,
-        "type": "university"
+        "type": "university",
+        "description": "The General Jonas Žemaitis Military Academy of Lithuania (Generolo Jono Žemaičio Lietuvos karo akademija) is a state-sponsored institution of higher learning based in Vilnius, Lithuania. It was founded in 1994 by the Lithuanian Seimas, and is overseen by the Ministry of National Defense. It is named in honor of General Jonas Žemaitis, commander of the armed anti-Soviet resistance in Lithuania."
     },
     {
         "wikidata_id": "Q12655268",
@@ -126,7 +137,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12649082",
@@ -136,7 +148,8 @@
         "aliases": null,
         "latitude": 54.8969444,
         "longitude": 23.9558333,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12651278",
@@ -148,7 +161,8 @@
         ],
         "latitude": 54.71655,
         "longitude": 25.184249,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12656737",
@@ -158,7 +172,8 @@
         "aliases": null,
         "latitude": 54.7522222,
         "longitude": 25.2738889,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q15709822",
@@ -168,7 +183,8 @@
         "aliases": null,
         "latitude": 54.695264,
         "longitude": 25.305689,
-        "type": "university"
+        "type": "university",
+        "description": "The Institute of Lithuanian Literature and Folklore (Lithuanian: Lietuvių literatūros ir tautosakos institutas)   is a scientific institution in Lithuania. It conducts research in Lithuanian literature and folklore. It resides in the former Vileišis Palace in Antakalnis district of Vilnius."
     },
     {
         "wikidata_id": "Q13638216",
@@ -178,7 +194,8 @@
         "aliases": null,
         "latitude": 54.6951,
         "longitude": 25.3054,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute of the Lithuanian Language (Lithuanian: Lietuvių kalbos institutas) in Vilnius is a state-funded research institute that focuses on research into the Lithuanian language. The Institute of the Lithuanian Language is a research establishment with longstanding traditions. Founded in Vilnius back in 1941 on the basis of the Institute for Lithuanian Studies of Antanas Smetona (which itself was founded in Kaunas in 1939 and relocated to Vilnius in 1940)."
     },
     {
         "wikidata_id": "Q1667287",
@@ -190,7 +207,8 @@
         ],
         "latitude": 54.700143,
         "longitude": 25.220769,
-        "type": "university"
+        "type": "university",
+        "description": "Homo infinitum, formerly known as the  International School of Law and Business (ISLB, Lithuanian: Tarptautinė teisės ir verslo aukštoji mokykla or TTVAM) is a former private college in Vilnius (Laisvės prospektas 58, Viršuliškės), Lithuania. The ISLB closed down in July 2024, and subsequently lost its accreditation in 2025.\nISLB was founded on September 1, 1998, as Daugvilienė Business High School (Daugvilienės aukštesnioji verslo mokykla) and 2001 as the Vilnius Law and Business College (Vilniaus teisės ir verslo kolegija)."
     },
     {
         "wikidata_id": "Q1626754",
@@ -200,7 +218,8 @@
         "aliases": null,
         "latitude": 54.6752778,
         "longitude": 25.2875,
-        "type": "university"
+        "type": "university",
+        "description": "ISM University of Management and Economics (Lithuanian: ISM Vadybos ir ekonomikos universitetas) is an institution of undergraduate, graduate and post-graduate education in business, management and economics. The university serves as a centre of market analysis, executive training and academic thought.\nISM was established in Kaunas in 1999 as the first privately owned institution of management education in Lithuania."
     },
     {
         "wikidata_id": "Q16453881",
@@ -210,7 +229,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q13580310",
@@ -224,7 +244,8 @@
         ],
         "latitude": 54.92,
         "longitude": 23.9844444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12660045",
@@ -239,7 +260,8 @@
         ],
         "latitude": 54.9136111,
         "longitude": 23.9286111,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q1489862",
@@ -249,7 +271,8 @@
         "aliases": null,
         "latitude": 54.8988889,
         "longitude": 23.8930556,
-        "type": "university"
+        "type": "university",
+        "description": "Kaunas Cultural Centre of Various Nations is a cultural and educational institution intended to preserve the cultural identities of national minorities and encourage their positive integration into the Lithuanian society. The institution promotes international and national tolerance and strives to develop civil society."
     },
     {
         "wikidata_id": "Q15248060",
@@ -262,7 +285,8 @@
         ],
         "latitude": 54.8561111,
         "longitude": 24.0458333,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q1353563",
@@ -272,7 +296,8 @@
         "aliases": null,
         "latitude": 54.897,
         "longitude": 23.884,
-        "type": "university"
+        "type": "university",
+        "description": "Kaunas Priest Seminary (Lithuanian: Kauno kunigų seminarija) is the largest seminary in Lithuania serving the Roman Catholic Archdiocese of Kaunas. It is part of the Faculty of Theology of Vytautas Magnus University. Its current rector is Aurelijus Žukauskas."
     },
     {
         "wikidata_id": "Q132734684",
@@ -290,7 +315,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q625158",
@@ -303,7 +329,8 @@
         ],
         "latitude": 54.8988889,
         "longitude": 23.9125,
-        "type": "university"
+        "type": "university",
+        "description": "The Kaunas University of Technology (abbreviated as KTU, Lithuanian: Kauno technologijos universitetas) is a public research university located in Kaunas, Lithuania. Established in 1922, KTU has been seen as one of Lithuania's top science education centers. In 2021, KTU was ranked the second-best university in Lithuania."
     },
     {
         "wikidata_id": "Q565119",
@@ -313,7 +340,8 @@
         "aliases": null,
         "latitude": 54.9008333,
         "longitude": 23.9005556,
-        "type": "university"
+        "type": "university",
+        "description": "Kaunas School of Arts (Lithuanian: Kauno meno mokykla) was a public art school, which operated from 1922 to 1940 in Kaunas, Lithuania. At the time, it was the only operating art school in Lithuania. The institution continued to exist (under other names) in the Lithuanian SSR, as well as in modern Lithuania, after the restoration of Latvian independence."
     },
     {
         "wikidata_id": "Q1737499",
@@ -323,7 +351,8 @@
         "aliases": null,
         "latitude": 54.6702778,
         "longitude": 25.2627778,
-        "type": "university"
+        "type": "university",
+        "description": "Kazimieras Simonavičius University (previously: Vilnius Academy of Business Law (VABL), Lithuanian: Vilniaus verslo teisės akademija) is a private, state-accredited research university in Vilnius, Lithuania. The Ministry of Education and Science of the Republic of Lithuania licensed the former Vilnius Academy of Business Law on August 26, 2003. Teaching started in 2004."
     },
     {
         "wikidata_id": "Q103154262",
@@ -333,7 +362,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103154270",
@@ -343,7 +373,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103154279",
@@ -353,7 +384,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103154286",
@@ -363,7 +395,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q103154311",
@@ -373,7 +406,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q171932",
@@ -386,7 +420,8 @@
         ],
         "latitude": 55.72627,
         "longitude": 21.17135,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q175686",
@@ -396,7 +431,8 @@
         "aliases": null,
         "latitude": 55.71948,
         "longitude": 21.13461,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q178200",
@@ -408,7 +444,8 @@
         ],
         "latitude": 55.7245833,
         "longitude": 21.1237778,
-        "type": "university"
+        "type": "university",
+        "description": "Klaipėda University (Lithuanian: Klaipėdos universitetas or KU) is a university in the Lithuanian port city of Klaipėda."
     },
     {
         "wikidata_id": "Q12661027",
@@ -421,7 +458,8 @@
         ],
         "latitude": 54.898088,
         "longitude": 23.887088,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q1584915",
@@ -431,7 +469,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute of Law (Lithuanian: Teisės institutas) is a law research establishment, founded in 1991 by the Government of the Republic of Lithuania seeking to coordinate the reform of the legal system and law institutions, to combine it with the economic and social reorganization carried in the country. The founder of the Institute is the Ministry of Justice of the Republic of Lithuania. The main areas of research interests of the Law Institute are as follows: public law (paying most attention to the problems of criminal law, constitutional law and criminal justice) and criminology."
     },
     {
         "wikidata_id": "Q1667494",
@@ -441,7 +480,8 @@
         "aliases": null,
         "latitude": 55.7311111,
         "longitude": 21.1333333,
-        "type": "university"
+        "type": "university",
+        "description": "LCC International University, formerly Lithuania Christian College (LCC), is a liberal arts institution in the city of Klaipėda, Lithuania, established in 1991 by a joint venture of Lithuanian, Canadian and American foundations.\nIt is a member of the European Colleges of Liberal Arts and Sciences."
     },
     {
         "wikidata_id": "Q16458807",
@@ -451,7 +491,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12663374",
@@ -461,7 +502,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1787936",
@@ -471,7 +513,8 @@
         "aliases": null,
         "latitude": 54.6885833,
         "longitude": 25.26975,
-        "type": "university"
+        "type": "university",
+        "description": "The Lithuanian Academy of Music and Theatre in Vilnius, Lithuania, is a state-supported conservatory that trains students in music, theatre, and multimedia arts."
     },
     {
         "wikidata_id": "Q12663298",
@@ -484,7 +527,8 @@
         ],
         "latitude": 54.895,
         "longitude": 23.9541667,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6648382",
@@ -494,7 +538,8 @@
         "aliases": null,
         "latitude": 54.6902287,
         "longitude": 25.2661507,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Lithuanian Institute of History (Lithuanian: Lietuvos istorijos institutas) is a state-funded research institution in Lithuania. Governed by national law, it is the country's main institution of history research, concentrating mostly on the history of Lithuania and its neighbouring states.\nThe institute employs 126 people; 64 of them have Ph.D. degrees and 4 are habilitated doctors."
     },
     {
         "wikidata_id": "Q2264750",
@@ -507,7 +552,8 @@
         ],
         "latitude": 55.71651,
         "longitude": 21.12456,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q826358",
@@ -520,7 +566,8 @@
         ],
         "latitude": 54.8983333,
         "longitude": 23.9344444,
-        "type": "university"
+        "type": "university",
+        "description": "Lithuanian Sports University or LSU is a university in Kaunas, Lithuania, specializing in sports, physical activities, and physiology. It is headquartered in Žaliakalnis neighbourhood, in close proximity to the Kaunas Sports Hall and the S. Darius and S. Girėnas Stadium."
     },
     {
         "wikidata_id": "Q56860",
@@ -534,7 +581,8 @@
         ],
         "latitude": 54.6964167,
         "longitude": 25.2624444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2092640",
@@ -544,7 +592,8 @@
         "aliases": null,
         "latitude": 54.8941667,
         "longitude": 23.9163889,
-        "type": "university"
+        "type": "university",
+        "description": "Lithuanian University of Health Sciences (Lithuanian: Lietuvos sveikatos mokslų universitetas, LSMU) is a medical school in Kaunas, Lithuania. The present-day Lithuanian University of Health Sciences is a consolidation of two institutions of higher education, Kaunas University of Medicine and the Lithuanian Veterinary Academy. It uses the Hospital of Lithuanian University of Health Sciences Kaunas Clinics and the Kaunas Red Cross Hospital as teaching hospitals."
     },
     {
         "wikidata_id": "Q1779334",
@@ -554,7 +603,8 @@
         "aliases": null,
         "latitude": 54.53281,
         "longitude": 23.350255,
-        "type": "college"
+        "type": "college",
+        "description": "Marijampolė University of Applied Sciences (Lithuanian: Marijampolės kolegija, MARKO) is an institution of higher education located in Marijampolė, Lithuania. It was established in 2001 after merger of Marijampole Pedagogical High School, and Marijampole Agricultural High School. The university offers 9 undergraduate and 2 post-graduate courses."
     },
     {
         "wikidata_id": "Q12664739",
@@ -564,7 +614,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1247342",
@@ -576,7 +627,8 @@
         ],
         "latitude": 54.7338889,
         "longitude": 25.2588889,
-        "type": "university"
+        "type": "university",
+        "description": "Mykolas Romeris University (MRU) is the largest specialized university for social sciences and humanities in Lithuania located in Vilnius, Kaunas and Marijampolė. It is named after the patriarch of Lithuania‘s Constitutional Law Professor Mykolas Romeris (1880-1945).\nMRU offers a wide range of social science study programs, making up 95% of its entire academic portfolio (according to the AIKOS database)."
     },
     {
         "wikidata_id": "Q15115554",
@@ -588,7 +640,8 @@
         ],
         "latitude": 54.751818,
         "longitude": 25.282175,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16478151",
@@ -598,7 +651,8 @@
         "aliases": null,
         "latitude": 55.9108333,
         "longitude": 23.2741667,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q15859710",
@@ -608,7 +662,8 @@
         "aliases": null,
         "latitude": 55.7275,
         "longitude": 24.3616667,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q16468849",
@@ -618,7 +673,8 @@
         "aliases": null,
         "latitude": 54.6871555,
         "longitude": 25.2796514,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q9366817",
@@ -628,7 +684,8 @@
         "aliases": null,
         "latitude": 54.6741,
         "longitude": 25.2784,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12653934",
@@ -638,7 +695,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12654582",
@@ -648,7 +706,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12654878",
@@ -658,7 +717,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12656341",
@@ -668,7 +728,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12663488",
@@ -678,7 +739,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q135465643",
@@ -688,7 +750,8 @@
         "aliases": null,
         "latitude": 54.67875,
         "longitude": 25.285733,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16443137",
@@ -698,7 +761,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16455766",
@@ -708,7 +772,8 @@
         "aliases": null,
         "latitude": 54.9177778,
         "longitude": 23.9961111,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16458553",
@@ -718,7 +783,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16458554",
@@ -728,7 +794,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16459036",
@@ -738,7 +805,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16459049",
@@ -748,7 +816,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16464920",
@@ -758,7 +827,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18412215",
@@ -768,7 +838,8 @@
         "aliases": null,
         "latitude": 54.70581,
         "longitude": 25.31019,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25494690",
@@ -778,7 +849,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12663398",
@@ -792,7 +864,8 @@
         ],
         "latitude": 54.6871555,
         "longitude": 25.2796514,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12670505",
@@ -802,7 +875,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16472825",
@@ -812,7 +886,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528376",
@@ -822,7 +897,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1967259",
@@ -832,7 +908,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The word Tarbut (תרבות) means \"Culture\" in Hebrew.\nThe Tarbut movement was a network of secular, Hebrew-language schools in parts of the former Jewish Pale of Settlement, specifically in Poland, Romania and Lithuania. It operated primarily between the world wars."
     },
     {
         "wikidata_id": "Q866107",
@@ -842,7 +919,8 @@
         "aliases": null,
         "latitude": 55.982694,
         "longitude": 22.245347,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1431447",
@@ -855,7 +933,8 @@
         ],
         "latitude": 55.4991944,
         "longitude": 25.6013889,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q119132040",
@@ -867,7 +946,8 @@
         ],
         "latitude": 54.68725,
         "longitude": 25.27712,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1476319",
@@ -879,7 +959,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12677532",
@@ -891,7 +972,8 @@
         ],
         "latitude": 54.696111,
         "longitude": 25.256944,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q12677534",
@@ -901,7 +983,8 @@
         "aliases": null,
         "latitude": 54.697222,
         "longitude": 25.275,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q389852",
@@ -915,7 +998,8 @@
         ],
         "latitude": 54.7222222,
         "longitude": 25.3358333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74544931",
@@ -925,7 +1009,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1355626",
@@ -937,7 +1022,8 @@
         ],
         "latitude": 54.7381,
         "longitude": 25.2786,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q658192",
@@ -952,7 +1038,8 @@
         ],
         "latitude": 54.6825,
         "longitude": 25.2872222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12677592",
@@ -962,7 +1049,8 @@
         "aliases": null,
         "latitude": 54.725,
         "longitude": 25.3364,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q14634723",
@@ -974,7 +1062,8 @@
         ],
         "latitude": 54.6830828,
         "longitude": 25.2871832,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q130745363",
@@ -987,7 +1076,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1756541",
@@ -1001,7 +1091,8 @@
         ],
         "latitude": 54.8983333,
         "longitude": 23.9138889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1479914",
@@ -1015,7 +1106,8 @@
         ],
         "latitude": 54.8938611,
         "longitude": 23.8353056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1263211",
@@ -1025,7 +1117,8 @@
         "aliases": null,
         "latitude": 55.729644,
         "longitude": 21.928911,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q2324588",
@@ -1035,7 +1128,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q1784353",
@@ -1045,7 +1139,8 @@
         "aliases": null,
         "latitude": 55.9264167,
         "longitude": 23.3244722,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25303227",
@@ -1055,6 +1150,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

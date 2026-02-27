@@ -9,7 +9,8 @@
         ],
         "latitude": 13.442188,
         "longitude": -16.718831,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16251004",
@@ -23,7 +24,8 @@
         ],
         "latitude": 13.46329,
         "longitude": -16.673883,
-        "type": "university"
+        "type": "university",
+        "description": "American International University West Africa is a medical school in Serekunda, The Gambia. Established in January 2011, the university offers medical programs leading to a Doctor of Medicine (MD) Degree. The curriculum is based on American medical school systems."
     },
     {
         "wikidata_id": "Q3046238",
@@ -37,7 +39,8 @@
         ],
         "latitude": 13.406532,
         "longitude": -16.727173,
-        "type": "university"
+        "type": "university",
+        "description": "EUCLID, also called Pôle Universitaire Euclide or Euclid University, is an international intergovernmental organization with a university charter established in 2008. It has official headquarters in The Gambia and in the Central African Republic, but also maintains an executive office in Washington, D.C. Its primary mandate is to train officials for its participating states, but its programs are also offered to the general public. The institution's current secretary-general is Winston Dookeran."
     },
     {
         "wikidata_id": "Q100267090",
@@ -47,7 +50,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1492951",
@@ -59,7 +63,8 @@
         ],
         "latitude": 13.457,
         "longitude": -16.6638056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16850113",
@@ -73,7 +78,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The International Open University (IOU) is a private distance education university headquartered in Kanifing, The Gambia. It was founded by Bilal Philips, in 2007 and offers undergraduate and graduate degrees."
     },
     {
         "wikidata_id": "Q1666998",
@@ -83,7 +89,8 @@
         "aliases": null,
         "latitude": 13.4349158,
         "longitude": -16.7247108,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1703224",
@@ -93,7 +100,8 @@
         "aliases": null,
         "latitude": 13.4582266,
         "longitude": -16.6756536,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30280323",
@@ -106,7 +114,8 @@
         ],
         "latitude": 13.474655,
         "longitude": -16.688735,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30266918",
@@ -118,7 +127,8 @@
         ],
         "latitude": 13.454936,
         "longitude": -16.579155,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1492903",
@@ -128,7 +138,8 @@
         "aliases": null,
         "latitude": 13.2855556,
         "longitude": -16.6572222,
-        "type": "university"
+        "type": "university",
+        "description": "The Gambia College is a Gambian tertiary institution with campuses located in Banjul and Brikama. Its origins lie in the Yundum Teachers Training College, which was founded in 1952 (1952) and became the Yundum College in 1955 (1955), and the Gambia School of Nursing and Midwifery, the School of Agriculture and the School of Public Health. \nIn 1978 (1978), those hitherto separated institutions were merged by an Act of Parliament and The Gambia College was established."
     },
     {
         "wikidata_id": "Q597030",
@@ -142,6 +153,7 @@
         ],
         "latitude": 13.4572222,
         "longitude": -16.6855556,
-        "type": "university"
+        "type": "university",
+        "description": "The University of the Gambia (UTG) is an institution of higher education located in Kanifing, Banjul and Faraba Banta Campus the Gambia. UTG serves as the primary center for academic excellence and research in the Gambia."
     }
 ]

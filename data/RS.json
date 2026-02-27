@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 44.531471,
         "longitude": 19.223575,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4671423",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": 44.815,
         "longitude": 20.458,
-        "type": "university"
+        "type": "university",
+        "description": "The Academy of Arts (Serbian: Академија уметности) is a private higher education institution in Belgrade, Serbia dedicated to the study of dramatic arts, including acting, production, and directing for theatre, film, and television. It was founded in 1994, by Aleksandar Pantelić, Velimir Abramović and Milan Đoković."
     },
     {
         "wikidata_id": "Q132718164",
@@ -33,7 +35,8 @@
         ],
         "latitude": 43.3297354,
         "longitude": 21.8895666,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131894396",
@@ -50,7 +53,8 @@
         ],
         "latitude": 44.826402,
         "longitude": 20.401387,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q132450977",
@@ -64,7 +68,8 @@
         ],
         "latitude": 44.7596813,
         "longitude": 19.697529,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16082891",
@@ -79,7 +84,8 @@
         ],
         "latitude": 44.81769,
         "longitude": 20.45646,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q126900770",
@@ -95,7 +101,8 @@
         ],
         "latitude": 44.8043284,
         "longitude": 20.4810069,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74556707",
@@ -105,7 +112,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q136346646",
@@ -115,7 +123,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Belgrade Dance Institute (Институт за уметничку игру) is a private, accredited university-level institution located in Belgrade, Serbia. Founded in 2014, it is the first and only higher dance education institution in Serbia and the wider region dedicated exclusively to the field of dance, offering accredited programs at the bachelor's, master's, and doctoral levels.\nThe Institute was established to provide professional, university-level education in various fields of dance, including classical ballet, contemporary dance, choreography, and dance pedagogy, areas that were previously not available in the Serbian higher education system."
     },
     {
         "wikidata_id": "Q97202024",
@@ -130,7 +139,8 @@
         ],
         "latitude": 44.8039371,
         "longitude": 20.4906899,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125823268",
@@ -144,7 +154,8 @@
         ],
         "latitude": 45.2448983,
         "longitude": 19.8512486,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124512376",
@@ -159,7 +170,8 @@
         ],
         "latitude": 44.7629101,
         "longitude": 20.4825608,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124513893",
@@ -173,7 +185,8 @@
         ],
         "latitude": 44.8073904,
         "longitude": 20.4945654,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124512625",
@@ -188,7 +201,8 @@
         ],
         "latitude": 44.8404748,
         "longitude": 20.403809,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q110044947",
@@ -202,7 +216,8 @@
         ],
         "latitude": 44.8144132,
         "longitude": 20.4845006,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125822969",
@@ -216,7 +231,8 @@
         ],
         "latitude": 43.305303,
         "longitude": 21.9513359,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q132675096",
@@ -230,7 +246,8 @@
         ],
         "latitude": 44.9677462,
         "longitude": 19.6131396,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q31185084",
@@ -246,7 +263,8 @@
         ],
         "latitude": 44.8033217,
         "longitude": 20.4199963,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124211969",
@@ -260,7 +278,8 @@
         ],
         "latitude": 44.8119553,
         "longitude": 20.4614653,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130456703",
@@ -275,7 +294,8 @@
         ],
         "latitude": 45.8249187,
         "longitude": 20.4562786,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125793262",
@@ -289,7 +309,8 @@
         ],
         "latitude": 45.252916,
         "longitude": 19.8415339,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20435802",
@@ -299,7 +320,8 @@
         "aliases": null,
         "latitude": 44.77961,
         "longitude": 20.460508,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1659815",
@@ -309,7 +331,8 @@
         "aliases": null,
         "latitude": 44.8196324,
         "longitude": 20.4588818,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74555631",
@@ -319,7 +342,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q119085918",
@@ -329,7 +353,8 @@
         "aliases": null,
         "latitude": 44.8191863,
         "longitude": 20.4570692,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30263491",
@@ -339,7 +364,8 @@
         "aliases": null,
         "latitude": 45.2275444,
         "longitude": 19.8514194,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q52662348",
@@ -349,7 +375,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q89046046",
@@ -359,7 +386,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89035107",
@@ -369,7 +397,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89034203",
@@ -379,7 +408,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89046123",
@@ -389,7 +419,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89024692",
@@ -399,7 +430,8 @@
         "aliases": null,
         "latitude": 44.81067,
         "longitude": 20.45672,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89029208",
@@ -409,7 +441,8 @@
         "aliases": null,
         "latitude": 44.8758,
         "longitude": 20.66045,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89046135",
@@ -419,7 +452,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89046329",
@@ -429,7 +463,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89046814",
@@ -439,7 +474,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89046598",
@@ -449,7 +485,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89046818",
@@ -459,7 +496,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89034173",
@@ -469,7 +507,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89040629",
@@ -479,7 +518,8 @@
         "aliases": null,
         "latitude": 44.841863,
         "longitude": 20.3828952,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89040579",
@@ -489,7 +529,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89045232",
@@ -499,7 +540,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89034152",
@@ -509,7 +551,8 @@
         "aliases": null,
         "latitude": 44.81885,
         "longitude": 20.46483,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89034333",
@@ -519,7 +562,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89040626",
@@ -529,7 +573,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89045240",
@@ -539,7 +584,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89040633",
@@ -549,7 +595,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89035072",
@@ -559,7 +606,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3578536",
@@ -569,7 +617,8 @@
         "aliases": null,
         "latitude": 44.824,
         "longitude": 20.4595,
-        "type": "university"
+        "type": "university",
+        "description": "Elementary school at Dorćol is located in Belgrade, in 23, Cara Dušana Street, and it has the status of a cultural monument."
     },
     {
         "wikidata_id": "Q89045709",
@@ -579,7 +628,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89046111",
@@ -589,7 +639,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89046141",
@@ -599,7 +650,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89044960",
@@ -609,7 +661,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89045212",
@@ -619,7 +672,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3578540",
@@ -629,7 +683,8 @@
         "aliases": null,
         "latitude": 44.8184,
         "longitude": 20.4529,
-        "type": "university"
+        "type": "university",
+        "description": "King Petar I Elementary School (Serbian: Основна школа \"Краљ Петар Први\") is an elementary school in Belgrade, Serbia. The original school was founded in 1718 and is the oldest surviving cultural and educational institution in Serbia, predating the foundations of the Gymnasium of Karlovci (1796), Great School (modern Belgrade University; 1808), Matica Srpska (1826) and Society of Serbian Scholarship (modern Serbian Academy of Sciences and Arts; 1841). It was the first school in Serbia which introduced the teacher notebooks and gym classes and is the location of the first basketball match played in Belgrade."
     },
     {
         "wikidata_id": "Q89047121",
@@ -639,7 +694,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89047289",
@@ -649,7 +705,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89040606",
@@ -659,7 +716,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89040677",
@@ -669,7 +727,8 @@
         "aliases": null,
         "latitude": 44.77521,
         "longitude": 20.46537,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134474816",
@@ -679,7 +738,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q132679807",
@@ -693,7 +753,8 @@
         ],
         "latitude": 44.8158468,
         "longitude": 20.4659307,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q98098449",
@@ -705,7 +766,8 @@
         ],
         "latitude": 44.8055556,
         "longitude": 20.4677778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895606",
@@ -715,7 +777,8 @@
         "aliases": null,
         "latitude": 43.896092,
         "longitude": 20.34455,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18354662",
@@ -725,7 +788,8 @@
         "aliases": null,
         "latitude": 43.3231,
         "longitude": 21.8933,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5428936",
@@ -735,7 +799,8 @@
         "aliases": null,
         "latitude": 44.794448,
         "longitude": 20.436284,
-        "type": "university"
+        "type": "university",
+        "description": "FEFA (Serbian: ФЕФА \/ FEFA), officially Metropolitan University - FEFA (Serbian: Универзитет Метрополитан - ФЕФА \/ Univerzitet Metropolitan - FEFA), formerly known as Faculty of Economics, Finance and Administration as a part of Singidunum University is a faculty in Novi Beograd, Belgrade, Serbia. It has been founded in 2003, and while de facto remaining independent, it was initially a member of Singidunum University and now is a member of the Metropolitan University. This higher education institution received its accreditation certificate in 2008, as first economics and management school in the country to do so under rules established by new Law on Higher Education, renewing these certificates in 2014, 2017 and 2024."
     },
     {
         "wikidata_id": "Q124515256",
@@ -750,7 +815,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124515156",
@@ -765,7 +831,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74543908",
@@ -775,7 +842,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5429074",
@@ -791,7 +859,8 @@
         ],
         "latitude": 45.2499282,
         "longitude": 19.8529587,
-        "type": "university"
+        "type": "university",
+        "description": "The Faculty of Sport and Psychology (Serbian: Факултет за спорт и психологију, Fakultet za sport i psihologiju, TIMS) is a state-accredited private institution of high education located in Novi Sad, Serbia. The Faculty was founded in 2004 and consists of three departments - Sport, Tourism and Psychology.\nSince its founding, the Faculty has educated 209 bachelors, 36 magisters and masters, as well as 10 doctors."
     },
     {
         "wikidata_id": "Q61133793",
@@ -803,7 +872,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12750161",
@@ -815,7 +885,8 @@
         ],
         "latitude": 44.8169622,
         "longitude": 20.4565926,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q124515093",
@@ -830,7 +901,8 @@
         ],
         "latitude": 44.7904054,
         "longitude": 20.508838,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20435510",
@@ -845,7 +917,8 @@
         ],
         "latitude": 44.7684322,
         "longitude": 20.4799136,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124512309",
@@ -860,7 +933,8 @@
         ],
         "latitude": 44.7733365,
         "longitude": 20.4110177,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12749802",
@@ -875,7 +949,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124514852",
@@ -889,7 +964,8 @@
         ],
         "latitude": 44.8267587,
         "longitude": 20.401202,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124513716",
@@ -904,7 +980,8 @@
         ],
         "latitude": 44.8586058,
         "longitude": 20.3807122,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124513256",
@@ -918,7 +995,8 @@
         ],
         "latitude": 44.8106224,
         "longitude": 20.4782756,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q132680282",
@@ -935,7 +1013,8 @@
         ],
         "latitude": 44.7647574,
         "longitude": 19.6763593,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q132678621",
@@ -949,7 +1028,8 @@
         ],
         "latitude": 44.7957779,
         "longitude": 20.4406804,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q132680171",
@@ -967,7 +1047,8 @@
         ],
         "latitude": 44.747864,
         "longitude": 19.7120542,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q61126072",
@@ -981,7 +1062,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20435503",
@@ -995,7 +1077,8 @@
         ],
         "latitude": 44.8140515,
         "longitude": 20.48285,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q83386076",
@@ -1010,7 +1093,8 @@
         ],
         "latitude": 44.770288,
         "longitude": 20.425952,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q12749803",
@@ -1025,7 +1109,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125822738",
@@ -1040,7 +1125,8 @@
         ],
         "latitude": 44.0073989,
         "longitude": 20.9165065,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131863489",
@@ -1052,7 +1138,8 @@
         ],
         "latitude": 44.7946369,
         "longitude": 20.4366283,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20436551",
@@ -1062,7 +1149,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12752320",
@@ -1075,7 +1163,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16083781",
@@ -1087,7 +1176,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute for Balkan Studies of the Serbian Academy of Sciences and Arts (Serbian: Балканолошки институт САНУ, romanized: Balkanološki institut SANU) is a division of the Serbian Academy of Sciences and Arts that focuses on the historical, social, and anthropological study of the Balkans and its peoples. It is in the building of the Serbian Academy of Sciences and Arts in downtown Belgrade."
     },
     {
         "wikidata_id": "Q52637739",
@@ -1099,7 +1189,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q110049463",
@@ -1111,7 +1202,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74546089",
@@ -1121,7 +1213,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q125391964",
@@ -1137,7 +1230,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q52609523",
@@ -1147,7 +1241,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q110044982",
@@ -1157,7 +1252,8 @@
         "aliases": null,
         "latitude": 44.8125689,
         "longitude": 20.4642249,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute for Recent History of Serbia (Serbo-Croatian: Институт за новију историју Србије, Institut za noviju istoriju Srbije) is a research institute based in Belgrade, Serbia. It is committed to the academic exploration and analysis of Serbian and Yugoslav history in the 20th and 21st century."
     },
     {
         "wikidata_id": "Q16082649",
@@ -1170,7 +1266,8 @@
         ],
         "latitude": 44.8176639,
         "longitude": 20.4563389,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q33121399",
@@ -1182,7 +1279,8 @@
         ],
         "latitude": 44.805605,
         "longitude": 20.476293,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q126836750",
@@ -1192,7 +1290,8 @@
         "aliases": null,
         "latitude": 44.8046884,
         "longitude": 20.4671685,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q110044984",
@@ -1202,7 +1301,8 @@
         "aliases": null,
         "latitude": 44.8127639,
         "longitude": 20.4636054,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute of Contemporary History (Serbo-Croatian: Институт за савремену историју, Institut za savremenu istoriju) is a research institute based in Belgrade, Serbia. The institution was originally established as a federal Yugoslav body when in 1969 the Department of Historical Sciences of the Institute for Social Sciences and the Department for History of the Yugoslav Workers’ Movement were merged into a single institute."
     },
     {
         "wikidata_id": "Q52636822",
@@ -1212,7 +1312,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q85769550",
@@ -1224,7 +1325,8 @@
         ],
         "latitude": 44.8181978,
         "longitude": 20.4568555,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute of History (Serbian: Istorijski Institut) is a Serbian historical society dedicated to historical research covering the Middle Ages to the establishment of the Kingdom of Serbs, Croats and Slovenes in 1918. The institute was founded on 15 July 1947, in Belgrade, under the director Viktor Novak, and deputy director of Georgy Ostrogorski. The institute was part of the Serbian Academy of Sciences and Arts until 1961, when it became independent."
     },
     {
         "wikidata_id": "Q1665128",
@@ -1234,7 +1336,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25425862",
@@ -1246,7 +1349,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16085340",
@@ -1259,7 +1363,8 @@
         ],
         "latitude": 44.8183027,
         "longitude": 20.4568792,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30289960",
@@ -1272,7 +1377,8 @@
         ],
         "latitude": 44.8551843,
         "longitude": 20.3887904,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q61931554",
@@ -1284,7 +1390,8 @@
         ],
         "latitude": 44.8082475,
         "longitude": 20.4622893,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30282286",
@@ -1294,7 +1401,8 @@
         "aliases": null,
         "latitude": 44.817803,
         "longitude": 20.456691,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q85994917",
@@ -1306,7 +1414,8 @@
         ],
         "latitude": 44.7457488,
         "longitude": 20.4957069,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q763105",
@@ -1322,7 +1431,8 @@
         ],
         "latitude": 43.15617,
         "longitude": 20.53078,
-        "type": "university"
+        "type": "university",
+        "description": "The International University of Novi Pazar (Serbian: Интернационални универзитет у Новом Пазару; Bosnian: Internacionalni univerzitet u Novom Pazaru) is a private university founded in 2002 in Novi Pazar, Serbia as a charitable endowment (wakf) by Muamer Zukorlić."
     },
     {
         "wikidata_id": "Q125113689",
@@ -1332,7 +1442,8 @@
         "aliases": null,
         "latitude": 44.7794305,
         "longitude": 20.4555462,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124211133",
@@ -1347,7 +1458,8 @@
         ],
         "latitude": 44.7686808,
         "longitude": 20.467112,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q118783",
@@ -1361,7 +1473,8 @@
         ],
         "latitude": 44.831278,
         "longitude": 20.415639,
-        "type": "university"
+        "type": "university",
+        "description": "Megatrend University (Serbian: Универзитет Мегатренд, romanized: Univerzitet Megatrend) is a private university located in New Belgrade, the city of Belgrade, Serbia. It was founded in 1989 as the Megatrend Business School, which later became Megatrend University.\nIn 2015, the Council of Megatrend University changed the name of the institution to University John Naisbitt, which was changed back two years later."
     },
     {
         "wikidata_id": "Q12760364",
@@ -1371,7 +1484,8 @@
         "aliases": null,
         "latitude": 44.8305833,
         "longitude": 20.4551944,
-        "type": "university"
+        "type": "university",
+        "description": "The Metropolitan University is a private-owned university located in Belgrade, Serbia. The university came as the join of the Faculty of Information Technology (FIT) (founded in 2005) and other governing departments of the university in 2010, which previously existed as an individual institution. As of 2023–24 academic year, it has 2,053 students and 184 academic staff."
     },
     {
         "wikidata_id": "Q16083729",
@@ -1381,7 +1495,8 @@
         "aliases": null,
         "latitude": 44.8132619,
         "longitude": 20.4873304,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12756338",
@@ -1391,7 +1506,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Novi Sad Open University, also known as NOU, was a center offering many courses. It was located in Novi Sad, Serbia. Currently, NOU is a children's cultural center."
     },
     {
         "wikidata_id": "Q31181786",
@@ -1401,7 +1517,8 @@
         "aliases": null,
         "latitude": 44.5492203,
         "longitude": 19.5260109,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7178472",
@@ -1411,7 +1528,8 @@
         "aliases": null,
         "latitude": 44.2533176,
         "longitude": 19.9287543,
-        "type": "university"
+        "type": "university",
+        "description": "Petnica Science Center (pronounced [pɛ̌ːtnitsa]) (PSC) (Serbian: Истраживачка станица Петница, romanized: Istraživačka stanica Petnica) is an independent and nonprofit organization for extracurricular, formal and informal, science education located near Valjevo, Serbia. PSC has organized more than 3000 programs (seminars, workshops, research camps, conferences, etc.) since its opening, for nearly 50,000 students and science teachers in 15 disciplines of science, technology and humanities, with more than 7,000 lecturers."
     },
     {
         "wikidata_id": "Q132452159",
@@ -1429,7 +1547,8 @@
         ],
         "latitude": 44.7607936,
         "longitude": 19.6978187,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q110045054",
@@ -1439,7 +1558,8 @@
         "aliases": null,
         "latitude": 44.6228321,
         "longitude": 21.1832204,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q110218747",
@@ -1449,7 +1569,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12747362",
@@ -1459,7 +1580,8 @@
         "aliases": null,
         "latitude": 45.2502314,
         "longitude": 19.8353372,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12749834",
@@ -1469,7 +1591,8 @@
         "aliases": null,
         "latitude": 42.9986215,
         "longitude": 21.957091,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1293188",
@@ -1479,7 +1602,8 @@
         "aliases": null,
         "latitude": 46.0945028,
         "longitude": 19.6621,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134369234",
@@ -1489,7 +1613,8 @@
         "aliases": null,
         "latitude": 44.79449,
         "longitude": 20.436072,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16082344",
@@ -1499,7 +1624,8 @@
         "aliases": null,
         "latitude": 43.2962086,
         "longitude": 21.2871849,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16082607",
@@ -1509,7 +1635,8 @@
         "aliases": null,
         "latitude": 43.0004174,
         "longitude": 21.9493686,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16086038",
@@ -1519,7 +1646,8 @@
         "aliases": null,
         "latitude": 44.35285,
         "longitude": 19.892441,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16511714",
@@ -1529,7 +1657,8 @@
         "aliases": null,
         "latitude": 44.5644,
         "longitude": 20.4011,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17204995",
@@ -1539,7 +1668,8 @@
         "aliases": null,
         "latitude": 44.0143592,
         "longitude": 20.9121246,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20435517",
@@ -1549,7 +1679,8 @@
         "aliases": null,
         "latitude": 42.5426844,
         "longitude": 21.905365,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20436530",
@@ -1559,7 +1690,8 @@
         "aliases": null,
         "latitude": 42.5556646,
         "longitude": 21.894861,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25464298",
@@ -1569,7 +1701,8 @@
         "aliases": null,
         "latitude": 44.2702521,
         "longitude": 19.8857465,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25465287",
@@ -1579,7 +1712,8 @@
         "aliases": null,
         "latitude": 44.7487713,
         "longitude": 20.4932679,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q31184461",
@@ -1589,7 +1723,8 @@
         "aliases": null,
         "latitude": 43.835471,
         "longitude": 21.867737,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q61363524",
@@ -1599,7 +1734,8 @@
         "aliases": null,
         "latitude": 43.1541264,
         "longitude": 22.5898281,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q89046847",
@@ -1609,7 +1745,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97467209",
@@ -1619,7 +1756,8 @@
         "aliases": null,
         "latitude": 44.904219,
         "longitude": 20.880329,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74555294",
@@ -1629,7 +1767,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74548235",
@@ -1639,7 +1778,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74547869",
@@ -1649,7 +1789,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2496161",
@@ -1659,7 +1800,8 @@
         "aliases": null,
         "latitude": 44.7821667,
         "longitude": 20.4791389,
-        "type": "university"
+        "type": "university",
+        "description": "Singidunum University (Serbian: Универзитет Сингидунум, romanized: Univerzitet Singidunum) is a private university in Belgrade, Serbia which offers undergraduate, master and doctoral academics studies in three scientific fields – social sciences and humanities; technical sciences; and natural sciences and mathematics. As of 2023–24 academic year, the university consists of three faculties, has 391 academic staff and 9,330 enrolled students, which makes it the largest private university in Serbia.\nThe first faculty was founded in 1999, and the university itself was established on 17 January 2005."
     },
     {
         "wikidata_id": "Q74555981",
@@ -1669,7 +1811,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q137844992",
@@ -1679,7 +1822,8 @@
         "aliases": null,
         "latitude": 42.994328,
         "longitude": 21.95195,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25469185",
@@ -1689,7 +1833,8 @@
         "aliases": null,
         "latitude": 44.561151,
         "longitude": 20.589145,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3557943",
@@ -1699,7 +1844,8 @@
         "aliases": null,
         "latitude": 44.7582,
         "longitude": 20.4168,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1546392",
@@ -1714,7 +1860,8 @@
         ],
         "latitude": 43.138333,
         "longitude": 20.521111,
-        "type": "university"
+        "type": "university",
+        "description": "The State University of Novi Pazar (Serbian: Државни Универзитет у Новом Пазару, romanized: Državni Univerzitet u Novom Pazaru) is a public university in Serbia. It was founded in 2006 and has one faculty with headquarters in Novi Pazar."
     },
     {
         "wikidata_id": "Q7691194",
@@ -1726,7 +1873,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Teachers' Training College of Kruševac, Serbia, has been operating since 1973. The main purpose of the school to train teachers for work at preschools. Studies last two years (four semesters), after which graduates pass the sixth level of education."
     },
     {
         "wikidata_id": "Q12749801",
@@ -1740,7 +1888,8 @@
         ],
         "latitude": 44.8266864,
         "longitude": 20.401855,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131257249",
@@ -1752,7 +1901,8 @@
         ],
         "latitude": 45.2556,
         "longitude": 19.8379333,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16081573",
@@ -1762,7 +1912,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12751539",
@@ -1774,7 +1925,8 @@
         ],
         "latitude": 44.7952059,
         "longitude": 20.441249,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527508",
@@ -1784,7 +1936,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q931442",
@@ -1794,7 +1947,8 @@
         "aliases": null,
         "latitude": 44.8165461,
         "longitude": 20.4526922,
-        "type": "university"
+        "type": "university",
+        "description": "Union University (Универзитет Унион) is a higher education institution with headquarters in Belgrade, Serbia. Founded on 21 June 2005, it has 3,616 enrolled students as of 2023–24 academic year, which makes it the fifth largest private university in Serbia."
     },
     {
         "wikidata_id": "Q118185578",
@@ -1808,7 +1962,8 @@
         ],
         "latitude": 45.24475,
         "longitude": 19.8179444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1479582",
@@ -1821,7 +1976,8 @@
         ],
         "latitude": 44.8180556,
         "longitude": 20.4508333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q240631",
@@ -1836,7 +1992,8 @@
         ],
         "latitude": 44.8186111,
         "longitude": 20.4575,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4864983",
@@ -1851,7 +2008,8 @@
         ],
         "latitude": 44.8117,
         "longitude": 20.4551,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74550788",
@@ -1861,7 +2019,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q110045525",
@@ -1871,7 +2030,8 @@
         "aliases": null,
         "latitude": 44.8555698,
         "longitude": 20.3846471,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4475847",
@@ -1883,7 +2043,8 @@
         ],
         "latitude": 44.7703,
         "longitude": 20.4684,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104152705",
@@ -1897,7 +2058,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2303907",
@@ -1910,7 +2072,8 @@
         ],
         "latitude": 43.8833333,
         "longitude": 20.3166667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1388776",
@@ -1922,7 +2085,8 @@
         ],
         "latitude": 43.3333333,
         "longitude": 21.85,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1263535",
@@ -1935,7 +2099,8 @@
         ],
         "latitude": 45.247485,
         "longitude": 19.853974,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74527839",
@@ -1945,7 +2110,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q13527017",
@@ -1958,7 +2124,8 @@
         ],
         "latitude": 42.8997778,
         "longitude": 20.8650556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12758570",
@@ -1968,7 +2135,8 @@
         "aliases": null,
         "latitude": 44.7658,
         "longitude": 20.483,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11213494",
@@ -1981,7 +2149,8 @@
         ],
         "latitude": 44.8218509,
         "longitude": 20.4630133,
-        "type": "university"
+        "type": "university",
+        "description": "The Union – Nikola Tesla University is a private university located in Belgrade, established in 2010. As of 2023–24 academic year, it has 5,319 enrolled students and 457 academic staff.\nIt consists of nine faculties, with most of them located in Belgrade, and also in Sremski Karlovci, and Niš."
     },
     {
         "wikidata_id": "Q1664939",
@@ -1994,7 +2163,8 @@
         ],
         "latitude": 44.7597222,
         "longitude": 20.5947222,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q124512467",
@@ -2008,6 +2178,7 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

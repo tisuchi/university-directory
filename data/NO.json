@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17748319",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11957585",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4743461",
@@ -37,7 +40,8 @@
         "aliases": null,
         "latitude": 59.439625,
         "longitude": 10.6693444,
-        "type": "university"
+        "type": "university",
+        "description": "The American College of Norway (commonly referred to as ACN) is a private non-accredited institution located in Moss, Norway. It states that it is based on the American liberal arts college model, but is not accredited as a college or other higher education institution in Norway. Its degrees are not recognized by Norwegian universities."
     },
     {
         "wikidata_id": "Q74550530",
@@ -47,7 +51,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4891549",
@@ -57,7 +62,8 @@
         "aliases": null,
         "latitude": 60.4097222,
         "longitude": 5.3221111,
-        "type": "university"
+        "type": "university",
+        "description": "Bergen School of Architecture or BAS (Norwegian: Bergen Arkitekt Skole) is a private and academically independent school located in Bergen, Norway.\nBAS offers two master's degree programs: Master of Architecture and Master of Architecture with specialization in Landscape. In the Norwegian context, these two programs stand as alternatives to those offered by the two public architecture schools in Norway (AHO in Oslo and NTNU in Trondheim)."
     },
     {
         "wikidata_id": "Q11960678",
@@ -67,7 +73,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Bergen Teacher Training College (Norwegian: Bergen lærerhøgskole) was a tertiary education institution for training teachers in Bergen, Norway.\nThe school was established in 1953 under the name Statens lærerskoleklasser i Bergen (Bergen State Teacher Training School). The school was renamed Bergen offentlige lærerskole (Bergen Public Teacher Training School) in 1962."
     },
     {
         "wikidata_id": "Q1792422",
@@ -77,7 +84,8 @@
         "aliases": null,
         "latitude": 59.6677778,
         "longitude": 10.7658333,
-        "type": "institute"
+        "type": "institute",
+        "description": "Norwegian Institute for Agricultural and Environmental Research (Bioforsk) was a national Norwegian R&D institute specialising in the fields of agriculture and food production, environmental protection and natural resource management. In 2015, it became part of the merger that resulted in the Norwegian Institute of Bioeconomy Research (NIBIO)."
     },
     {
         "wikidata_id": "Q4571989",
@@ -87,7 +95,8 @@
         "aliases": null,
         "latitude": 63.4273611,
         "longitude": 10.3913889,
-        "type": "university"
+        "type": "university",
+        "description": "Birralee International School Trondheim is a certified Cambridge International School. It was founded in 1973 and is one of the oldest international schools in Norway. The Australian founder gave the school the name \"Birralee,\" meaning a \"safe place for children\"."
     },
     {
         "wikidata_id": "Q17750423",
@@ -97,7 +106,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16827459",
@@ -107,7 +117,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Bjerknes Centre for Climate Research is a climate research centre in Bergen, Norway. The centres key areas of research is natural variability in the Earth system and man-made climate change. The centre combines observations with theoretical and modelling studies of past, present and future climates."
     },
     {
         "wikidata_id": "Q4919825",
@@ -117,7 +128,8 @@
         "aliases": null,
         "latitude": 59.9316389,
         "longitude": 10.7455,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q74545075",
@@ -127,7 +139,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q98818247",
@@ -137,7 +150,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q19372218",
@@ -147,7 +161,8 @@
         "aliases": null,
         "latitude": 66.312778,
         "longitude": 14.142778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74536109",
@@ -157,7 +172,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11999940",
@@ -167,7 +183,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Centre for Advanced Study at the Norwegian Academy of Science and Letters (CAS; Norwegian: Senter for grunnforskning ved Det Norske Videnskaps-Akademi) is an independent research foundation funded by the Norwegian Ministry of Education and Research. CAS is located in Oslo, Norway."
     },
     {
         "wikidata_id": "Q25430473",
@@ -177,7 +194,8 @@
         "aliases": null,
         "latitude": 69.651089,
         "longitude": 18.954823,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11999957",
@@ -187,7 +205,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "academy"
+        "type": "academy",
+        "description": "The Centre for Gender Research (Norwegian: Senter for tverrfaglig kjønnsforskning; STK) is a research centre in Oslo, Norway, that is affiliated with the University of Oslo. It was established in 1986, originally named the Centre for Women's Studies, and received its current name in 2008. It was established with support from the Research Council of Norway as an independent entity, and is not part of the ordinary structure of the university."
     },
     {
         "wikidata_id": "Q110685241",
@@ -197,7 +216,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5062658",
@@ -207,7 +227,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Centre of Marine Resource Management or MaReMa Centre or simply MaReMa is an interdisciplinary research centre established by the Norwegian College of Fishery Science at University of Tromsø in 2004. The centre performs research within the area of fisheries and coastal zone management issues internationally, covering disciplines as resource biology, harvest technology, bioeconomics and social science."
     },
     {
         "wikidata_id": "Q5105606",
@@ -217,7 +238,8 @@
         "aliases": null,
         "latitude": 60.341472,
         "longitude": 5.355447,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11963679",
@@ -227,7 +249,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11005470",
@@ -237,7 +260,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The CICERO Center for International Climate Research (abbreviated CICERO; Norwegian: CICERO Senter for klimaforskning) is an interdisciplinary research centre for climate research and environmental science\/environmental studies in Oslo. CICERO was established as an independent foundation by the Government of Norway in 1990. The current director is Kristin Halvorsen, former Minister of Finance."
     },
     {
         "wikidata_id": "Q74550759",
@@ -247,7 +271,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q56878091",
@@ -257,7 +282,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30299658",
@@ -267,7 +293,8 @@
         "aliases": null,
         "latitude": 60.386866,
         "longitude": 5.320496,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552618",
@@ -277,7 +304,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q105713692",
@@ -287,7 +315,8 @@
         "aliases": null,
         "latitude": 60.380791,
         "longitude": 5.3321788,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q19375739",
@@ -297,7 +326,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "academy"
+        "type": "academy",
+        "description": null
     },
     {
         "wikidata_id": "Q119823261",
@@ -307,7 +337,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "academy"
+        "type": "academy",
+        "description": null
     },
     {
         "wikidata_id": "Q20112556",
@@ -317,7 +348,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "academy"
+        "type": "academy",
+        "description": null
     },
     {
         "wikidata_id": "Q5260439",
@@ -327,7 +359,8 @@
         "aliases": null,
         "latitude": 63.411,
         "longitude": 10.4096,
-        "type": "academy"
+        "type": "academy",
+        "description": null
     },
     {
         "wikidata_id": "Q11996441",
@@ -337,7 +370,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "academy"
+        "type": "academy",
+        "description": "The Department of Psychology (Norwegian: Psykologisk institutt) at the University of Oslo is the oldest and largest research institute and educational institution in psychology in Norway. It is Norway's main research institution in clinical psychology, cognitive psychology, developmental psychology, personality psychology, and social and cultural psychology, and one of the main research environments in neuroscience. The institute is located in the Harald Schjelderup Building adjacent to Oslo University Hospital, Rikshospitalet in the Gaustad area of Oslo; the building is shared with parts of the Faculty of Medicine, while Oslo University Hospital occupies surrounding buildings."
     },
     {
         "wikidata_id": "Q19385805",
@@ -347,7 +381,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11977416",
@@ -357,7 +392,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Department of Sociology and Human Geography (Norwegian: Institutt for sosiologi og samfunnsgeografi) at the University of Oslo is the oldest and largest research institute and educational institution in sociology in Norway. The department had a central role in the development of sociology as a discipline in Norway in the postwar era, and several of its academics, such as Vilhelm Aubert and Erik Grønseth, have been internationally noted in the history of sociology.\nThe Department of Sociology was established on 7 January 1950, and was originally part of the Faculty of Humanities."
     },
     {
         "wikidata_id": "Q105826767",
@@ -367,7 +403,8 @@
         "aliases": null,
         "latitude": 59.930867,
         "longitude": 10.722648,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q17769315",
@@ -377,7 +414,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Eik Normal School (Norwegian: Eik lærerhøgskole) was a Norwegian school for teacher education."
     },
     {
         "wikidata_id": "Q11967275",
@@ -387,7 +425,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5429350",
@@ -397,7 +436,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Fafo Research Foundation, also known as the Fafo Foundation or just Fafo (Norwegian: Forskningsstiftelsen Fafo), is a Norwegian research foundation and owner of the research institute: The Fafo Institute for Labour and Social Research. The institute conducts social research both in Norway and internationally. Fafo has its main office in Oslo and an office in Beijing."
     },
     {
         "wikidata_id": "Q55924975",
@@ -407,7 +447,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q73631590",
@@ -417,7 +458,8 @@
         "aliases": null,
         "latitude": 60.79425,
         "longitude": 11.0740833,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q22222756",
@@ -427,7 +469,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11971800",
@@ -437,7 +480,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q56405089",
@@ -447,7 +491,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "academy"
+        "type": "academy",
+        "description": null
     },
     {
         "wikidata_id": "Q11976497",
@@ -457,7 +502,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6039240",
@@ -467,7 +513,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute for Comparative Research in Human Culture (Norwegian: Instituttet for sammenlignende kulturforskning) is a humanities research institute based in Oslo, Norway.\nIt was established in 1922 by Fredrik Stang. An independent institute, its task is to sponsor research mainly in the fields of comparative linguistics, folklore, religion, ethnology, archaeology and ethnography."
     },
     {
         "wikidata_id": "Q1777633",
@@ -477,7 +524,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "Institute for Energy Technology (IFE) is a Norwegian research institute. It was established in 1948 as the Institute for Nuclear Energy (IFA). The name was changed in 1980."
     },
     {
         "wikidata_id": "Q11977394",
@@ -487,7 +535,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q139359",
@@ -497,7 +546,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "academy"
+        "type": "academy",
+        "description": "Institute of Clinical Dentistry is of the two institutions at the Faculty of Dentistry at the University of Oslo\nThe institute serves more than 50,000 patients annually, and trains dental assistants, dentists and dental specialists, as well as PhD candidates."
     },
     {
         "wikidata_id": "Q11977403",
@@ -507,7 +557,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "academy"
+        "type": "academy",
+        "description": null
     },
     {
         "wikidata_id": "Q4581256",
@@ -517,7 +568,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute of Transport Economics (Transportøkonomisk institutt –TØI) is a national, Norwegian institution for multidisciplinary transport research. Its mission is to develop and disseminate transportation knowledge of scientific quality and practical application. The Institute is an independent, non-profit research foundation."
     },
     {
         "wikidata_id": "Q74535470",
@@ -527,7 +579,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6514382",
@@ -537,7 +590,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6049101",
@@ -547,7 +601,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The International Centre for Geohazards (ICG) is a Norwegian, multidisciplinary research and educational institute, hosted at the Norwegian Geotechnical Institute (NGI). According to the institute's website, ICG's research activities focus on the assessment, prevention and mitigation of geohazards, in which the latter is defined as a geological state that represents or has the potential to develop further in a situation leading to damage or uncontrolled risk. From this definition, it becomes clear that geohazards are widespread, both spatially and temporally, and are always related to geological conditions and processes in both offshore, coastal and onshore environments."
     },
     {
         "wikidata_id": "Q11977465",
@@ -557,7 +612,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11979410",
@@ -567,7 +623,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6379331",
@@ -577,7 +634,8 @@
         "aliases": null,
         "latitude": 63.4207,
         "longitude": 10.3925,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11157224",
@@ -587,7 +645,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11976495",
@@ -597,7 +656,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74540296",
@@ -607,7 +667,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30259507",
@@ -617,7 +678,8 @@
         "aliases": null,
         "latitude": 59.91178,
         "longitude": 10.744819,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6516648",
@@ -627,7 +689,8 @@
         "aliases": null,
         "latitude": 59.932775,
         "longitude": 10.7135194,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11990472",
@@ -637,7 +700,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11990474",
@@ -647,7 +711,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11990475",
@@ -657,7 +722,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20751768",
@@ -667,7 +733,8 @@
         "aliases": null,
         "latitude": 62.73651,
         "longitude": 7.109221,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11990844",
@@ -677,7 +744,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11990882",
@@ -687,7 +755,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6973574",
@@ -697,7 +766,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q120728008",
@@ -707,7 +777,8 @@
         "aliases": null,
         "latitude": 59.9185765,
         "longitude": 10.7168139,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74556364",
@@ -717,7 +788,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q19382279",
@@ -727,7 +799,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7061114",
@@ -737,7 +810,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q56407219",
@@ -747,7 +821,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q21079372",
@@ -757,7 +832,8 @@
         "aliases": null,
         "latitude": 67.288889,
         "longitude": 14.560278,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74538531",
@@ -767,7 +843,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11991900",
@@ -777,7 +854,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19383634",
@@ -787,7 +865,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7053181",
@@ -797,7 +876,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q1037544",
@@ -807,7 +887,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74558040",
@@ -817,7 +898,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3076178",
@@ -827,7 +909,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7058916",
@@ -837,7 +920,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q19383917",
@@ -847,7 +931,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7061045",
@@ -857,7 +942,8 @@
         "aliases": null,
         "latitude": 59.949657,
         "longitude": 10.768459,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q494857",
@@ -867,7 +953,8 @@
         "aliases": null,
         "latitude": 69.6828306,
         "longitude": 18.9734694,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q3172737",
@@ -877,7 +964,8 @@
         "aliases": null,
         "latitude": 61.149722,
         "longitude": 10.422778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7061116",
@@ -887,7 +975,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q876791",
@@ -897,7 +986,8 @@
         "aliases": null,
         "latitude": 59.9755306,
         "longitude": 11.0528194,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4111227",
@@ -907,7 +997,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4579380",
@@ -917,7 +1008,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7061146",
@@ -927,7 +1019,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Norwegian Institute for Strategic Studies (Norwegian: Norsk institutt for strategiske studier, NORISS) is a strategic studies research institute based in Oslo, Norway.\nIt was established as an independent institution on 1 January 2006. Structurally, it was organized as a \"stiftelse\" (foundation) from the start, but was transformed into an \"aksjeselskap\" (stock company) in 2009."
     },
     {
         "wikidata_id": "Q4573844",
@@ -937,7 +1030,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11992468",
@@ -947,7 +1041,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q19383916",
@@ -957,7 +1052,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4589992",
@@ -967,7 +1063,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6515551",
@@ -977,7 +1074,8 @@
         "aliases": null,
         "latitude": 60.3999611,
         "longitude": 5.3038917,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25424345",
@@ -987,7 +1085,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30253635",
@@ -997,7 +1096,8 @@
         "aliases": null,
         "latitude": 63.424055,
         "longitude": 10.435277,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1772730",
@@ -1007,7 +1107,8 @@
         "aliases": null,
         "latitude": 59.925517,
         "longitude": 10.754392,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7061250",
@@ -1017,7 +1118,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": "Norwegian School of Information Technology (Norwegian: Norges Informasjonsteknologiske Høgskole, NITH) is a Norwegian information technology university college located in Oslo, Norway.\nIt previously had schools located in Bergen, Stavanger and Bærum, but these were later shut down.\nIt was established in 1995 as a merger of NHI Datahøgskolen and NKI Ingeniørhøgskolen."
     },
     {
         "wikidata_id": "Q1769401",
@@ -1027,7 +1129,8 @@
         "aliases": null,
         "latitude": 59.966799,
         "longitude": 10.732559,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7061259",
@@ -1037,7 +1140,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "Norwegian Social Research (Norwegian: Norsk institutt for forskning om oppvekst, velferd og aldring, NOVA) is a state social science research institute based in Oslo, Norway. It is part of Oslo Metropolitan University, and was formerly an independent state agency from its establishment in 1996 until 2014. Together with the Work Research Institute, the Norwegian Institute for Urban and Regional Research and the National Institute for Consumer Research, it now forms the Centre for Welfare and Labour Research at Oslo Metropolitan University."
     },
     {
         "wikidata_id": "Q1725075",
@@ -1047,7 +1151,8 @@
         "aliases": null,
         "latitude": 59.6651083,
         "longitude": 10.7652278,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q314536",
@@ -1057,7 +1162,8 @@
         "aliases": null,
         "latitude": 63.4194444,
         "longitude": 10.4025,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74528078",
@@ -1067,7 +1173,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74546072",
@@ -1077,7 +1184,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q119821163",
@@ -1087,7 +1195,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "academy"
+        "type": "academy",
+        "description": null
     },
     {
         "wikidata_id": "Q12009574",
@@ -1097,7 +1206,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q19382482",
@@ -1107,7 +1217,8 @@
         "aliases": null,
         "latitude": 63.408741,
         "longitude": 10.464694,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11960277",
@@ -1117,7 +1228,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11993982",
@@ -1127,7 +1239,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q47249304",
@@ -1137,7 +1250,8 @@
         "aliases": null,
         "latitude": 59.9218694,
         "longitude": 10.7334056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7132678",
@@ -1147,7 +1261,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Paper and Fibre Research Institute (PFI) (Norwegian: Papir- og fiberinstituttet AS (PFI)) is a centre of expertise for wood fibres, pulp and paper, new biobased materials and sustainable biorefining.\nPFI was established in Kristiania in 1923 as the Norwegian Pulp and Paper Research Institute. PFI moved to Trondheim in 1997\/98, and established a close cooperation with the Department of Chemical Engineering at the Norwegian University of Science and Technology."
     },
     {
         "wikidata_id": "Q1660691",
@@ -1157,7 +1272,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11971302",
@@ -1167,7 +1283,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1625885",
@@ -1177,7 +1294,8 @@
         "aliases": null,
         "latitude": 77,
         "longitude": 15.55,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q111730979",
@@ -1187,7 +1305,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "academy"
+        "type": "academy",
+        "description": null
     },
     {
         "wikidata_id": "Q113030373",
@@ -1197,7 +1316,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q114007820",
@@ -1207,7 +1327,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "academy"
+        "type": "academy",
+        "description": null
     },
     {
         "wikidata_id": "Q11957008",
@@ -1217,7 +1338,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11957009",
@@ -1227,7 +1349,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11958636",
@@ -1237,7 +1360,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11960279",
@@ -1247,7 +1371,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11961746",
@@ -1257,7 +1382,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11962612",
@@ -1267,7 +1393,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11965233",
@@ -1277,7 +1404,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11966015",
@@ -1287,7 +1415,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11967677",
@@ -1297,7 +1426,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11968953",
@@ -1307,7 +1437,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11971303",
@@ -1317,7 +1448,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11973833",
@@ -1327,7 +1459,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11974603",
@@ -1337,7 +1470,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11974604",
@@ -1347,7 +1481,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11975698",
@@ -1357,7 +1492,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11976498",
@@ -1367,7 +1503,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11977339",
@@ -1377,7 +1514,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11977392",
@@ -1387,7 +1525,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "academy"
+        "type": "academy",
+        "description": null
     },
     {
         "wikidata_id": "Q11980734",
@@ -1397,7 +1536,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11981683",
@@ -1407,7 +1547,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11990473",
@@ -1417,7 +1558,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11990805",
@@ -1427,7 +1569,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11992082",
@@ -1437,7 +1580,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11992088",
@@ -1447,7 +1591,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11994134",
@@ -1457,7 +1602,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11994233",
@@ -1467,7 +1613,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11994286",
@@ -1477,7 +1624,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11997699",
@@ -1487,7 +1635,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11999662",
@@ -1497,7 +1646,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12000692",
@@ -1507,7 +1657,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12001741",
@@ -1517,7 +1668,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12002094",
@@ -1527,7 +1679,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12002099",
@@ -1537,7 +1690,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12002584",
@@ -1547,7 +1701,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12002693",
@@ -1557,7 +1712,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12002699",
@@ -1567,7 +1723,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12002701",
@@ -1577,7 +1734,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12002702",
@@ -1587,7 +1745,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12002703",
@@ -1597,7 +1756,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12002707",
@@ -1607,7 +1767,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12002708",
@@ -1617,7 +1778,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12002713",
@@ -1627,7 +1789,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12002716",
@@ -1637,7 +1800,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12002796",
@@ -1647,7 +1811,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12003383",
@@ -1657,7 +1822,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12004525",
@@ -1667,7 +1833,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12005411",
@@ -1677,7 +1844,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12005413",
@@ -1687,7 +1855,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12005418",
@@ -1697,7 +1866,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12005437",
@@ -1707,7 +1877,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12007553",
@@ -1717,7 +1888,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12007637",
@@ -1727,7 +1899,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12009195",
@@ -1737,7 +1910,8 @@
         "aliases": null,
         "latitude": 60.1729722,
         "longitude": 10.22325,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12009396",
@@ -1747,7 +1921,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12011944",
@@ -1757,7 +1932,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12011947",
@@ -1767,7 +1943,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12011956",
@@ -1777,7 +1954,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q121521371",
@@ -1787,7 +1965,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q121521579",
@@ -1797,7 +1976,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12719473",
@@ -1807,7 +1987,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q14437898",
@@ -1817,7 +1998,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17195087",
@@ -1827,7 +2009,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17750202",
@@ -1837,7 +2020,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17750203",
@@ -1847,7 +2031,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17750205",
@@ -1857,7 +2042,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17766285",
@@ -1867,7 +2053,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17772301",
@@ -1877,7 +2064,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17773348",
@@ -1887,7 +2075,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17776343",
@@ -1897,7 +2086,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18647801",
@@ -1907,7 +2097,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "academy"
+        "type": "academy",
+        "description": null
     },
     {
         "wikidata_id": "Q19373771",
@@ -1917,7 +2108,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19373778",
@@ -1927,7 +2119,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19373795",
@@ -1937,7 +2130,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19374772",
@@ -1947,7 +2141,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19375175",
@@ -1957,7 +2152,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19375176",
@@ -1967,7 +2163,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19378187",
@@ -1977,7 +2174,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19382223",
@@ -1987,7 +2185,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19382278",
@@ -1997,7 +2196,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19382869",
@@ -2007,7 +2207,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19383123",
@@ -2017,7 +2218,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19383261",
@@ -2027,7 +2229,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19383495",
@@ -2037,7 +2240,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19383511",
@@ -2047,7 +2251,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19383833",
@@ -2057,7 +2262,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19383909",
@@ -2067,7 +2273,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19384815",
@@ -2077,7 +2284,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19388613",
@@ -2087,7 +2295,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19389513",
@@ -2097,7 +2306,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19389514",
@@ -2107,7 +2317,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19389519",
@@ -2117,7 +2328,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19389748",
@@ -2127,7 +2339,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19390277",
@@ -2137,7 +2350,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19390292",
@@ -2147,7 +2361,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19390295",
@@ -2157,7 +2372,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19390300",
@@ -2167,7 +2383,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19390342",
@@ -2177,7 +2394,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19390633",
@@ -2187,7 +2405,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19391470",
@@ -2197,7 +2416,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19391472",
@@ -2207,7 +2427,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19393129",
@@ -2217,7 +2438,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19393171",
@@ -2227,7 +2449,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19393172",
@@ -2237,7 +2460,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19393185",
@@ -2247,7 +2471,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19393807",
@@ -2257,7 +2482,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19397910",
@@ -2267,7 +2493,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19399410",
@@ -2277,7 +2504,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19399412",
@@ -2287,7 +2515,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25425172",
@@ -2297,7 +2526,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30139905",
@@ -2307,7 +2537,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q56404235",
@@ -2317,7 +2548,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q127872791",
@@ -2327,7 +2559,8 @@
         "aliases": null,
         "latitude": 69.734364,
         "longitude": 18.327,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7357653",
@@ -2337,7 +2570,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Rogaland College was a privately owned college situated about 40 kilometers (25 mi) south of Stavanger in Norway. In January 2006 the college moved to Sandnes 10 km south of Stavanger. Later the same year it merged with Diakonhjemmet University College in Oslo and became Diakonhjemmet University College Campus Rogaland, now it is part of the VID Specialized University."
     },
     {
         "wikidata_id": "Q11998193",
@@ -2347,7 +2581,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7377341",
@@ -2357,7 +2592,8 @@
         "aliases": null,
         "latitude": 59.9236,
         "longitude": 10.716852,
-        "type": "university"
+        "type": "university",
+        "description": "Rudolf Steiner University College (Norwegian: Rudolf Steinerhøyskolen; RSH) is a state-accredited and state-funded private university college in Oslo, Norway.\n\nIt was founded in 1981 and is recognised under the Law for Private University Colleges and is fully state-funded (state funding increased gradually from 50% in 1983 to 100% from 1997 onwards). The university college offers bachelor's degrees in Waldorf education for teachers and kindergarten teachers, a master's degree in Waldorf education, and various other courses."
     },
     {
         "wikidata_id": "Q19387357",
@@ -2367,7 +2603,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124043858",
@@ -2377,7 +2614,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7521282",
@@ -2387,7 +2625,8 @@
         "aliases": null,
         "latitude": 59.9173373,
         "longitude": 10.7358681,
-        "type": "institute"
+        "type": "institute",
+        "description": "Simula Research Laboratory (also known as Simula) is a Norwegian non-profit research organisation located in Oslo, Norway.\nSimula was founded in 2001 by the Norwegian government to conduct fundamental, long-term research within information and communication technology (ICT). Simula's research is concentrated on five areas: communication systems, scientific computing, software engineering, cyber security, and artificial intelligence."
     },
     {
         "wikidata_id": "Q38910776",
@@ -2397,7 +2636,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12000733",
@@ -2407,7 +2647,8 @@
         "aliases": null,
         "latitude": 62.738259,
         "longitude": 7.133953,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q15614797",
@@ -2417,7 +2658,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12002694",
@@ -2427,7 +2669,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12005408",
@@ -2437,7 +2680,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4616898",
@@ -2447,7 +2691,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "Telemark Research Institute (Norwegian: Telemarksforsking) is a Norwegian government-funded research institute, headquartered in Bø, Telemark. It was founded in 1986 and is one of nine regional research institutes in Norway which are funded by the Research Council of Norway. It is organised as a foundation."
     },
     {
         "wikidata_id": "Q74546112",
@@ -2457,7 +2702,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74545647",
@@ -2467,7 +2713,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74551510",
@@ -2477,7 +2724,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q19383865",
@@ -2487,7 +2735,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12007555",
@@ -2497,7 +2746,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q11977399",
@@ -2507,7 +2757,8 @@
         "aliases": null,
         "latitude": 59.9436931,
         "longitude": 10.717179,
-        "type": "academy"
+        "type": "academy",
+        "description": "The Department of Informatics (Norwegian: Institutt for informatikk) at the University of Oslo is the oldest and largest department for informatics in Norway. The department was in 2017 ranked number 1 in Norway, 3rd in Europe, and 12th in the world in Computer Science and Engineering by Academic Ranking of World Universities.\n\nFamous researchers that have been associated with the department includes Turing Award winners such as Kristen Nygaard, Ole-Johan Dahl and Donald Knuth."
     },
     {
         "wikidata_id": "Q7884665",
@@ -2517,7 +2768,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "Uni Research Health is a department in Uni Research, one of the largest research companies in Norway. The Research Director of Uni Research Health is Professor Hege R. Eriksen.\nUni Research Health has approximately 125 employees, most of them located in Bergen, Norway."
     },
     {
         "wikidata_id": "Q6978054",
@@ -2527,7 +2779,8 @@
         "aliases": null,
         "latitude": 59.9752,
         "longitude": 11.0445,
-        "type": "institute"
+        "type": "institute",
+        "description": "The University Graduate Center (UNIK) was a research foundation at Kjeller in Norway up to 2016. University of Oslo tok over the operation from 1. January 2017."
     },
     {
         "wikidata_id": "Q1543126",
@@ -2537,7 +2790,8 @@
         "aliases": null,
         "latitude": 78.222608,
         "longitude": 15.651784,
-        "type": "university"
+        "type": "university",
+        "description": "The University Centre in Svalbard (Norwegian: Universitetssenteret på Svalbard AS; UNIS) is a Norwegian state-owned limited company that is involved in research and provides some higher education in Arctic studies. The company is wholly owned by the Ministry of Education and Research, and the universities of Oslo, Bergen, Tromsø, NTNU and NMBU appoint the board of directors. It is led by a director appointed by the board for a four-year term."
     },
     {
         "wikidata_id": "Q1470769",
@@ -2547,7 +2801,8 @@
         "aliases": null,
         "latitude": 58.1630056,
         "longitude": 8.0032222,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Agder (Norwegian: Universitetet i Agder), formerly known as Agder College and Agder University College, is a public university with campuses in Kristiansand and Grimstad, Norway. The institution was established as a university college (høgskole) in 1994 through the merger of the Agder University College and five other colleges, including a technical college and a nursing school, and was granted the status of a full university in 2007."
     },
     {
         "wikidata_id": "Q204457",
@@ -2557,7 +2812,8 @@
         "aliases": null,
         "latitude": 60.3880861,
         "longitude": 5.3228722,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Bergen (Norwegian: Universitetet i Bergen) is a public research university in Bergen, Norway. As of 2021, the university had over 4,000 employees and 19,000 students. It was established by an act of parliament in 1946 consolidating several scientific institutions that dated as far back as 1825."
     },
     {
         "wikidata_id": "Q123681271",
@@ -2567,7 +2823,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "academy"
+        "type": "academy",
+        "description": null
     },
     {
         "wikidata_id": "Q116768581",
@@ -2577,7 +2834,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "academy"
+        "type": "academy",
+        "description": null
     },
     {
         "wikidata_id": "Q74551554",
@@ -2587,7 +2845,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q11971811",
@@ -2597,7 +2856,8 @@
         "aliases": null,
         "latitude": 60.3836,
         "longitude": 5.3321,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q27050380",
@@ -2607,7 +2867,8 @@
         "aliases": null,
         "latitude": 61.13668,
         "longitude": 11.368446,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Inland Norway (also known as INN University, Norwegian: Universitetet i Innlandet) is a state university in Innlandet county, Norway. It was established in 2017 as the Inland Norway University of Applied Sciences, from the merger of the Hedmark University College and Lillehammer University College. It has six campuses, of which the campus in Lillehammer is the biggest, located at the television and radio center built for the 1994 Winter Olympic Games."
     },
     {
         "wikidata_id": "Q1779468",
@@ -2617,7 +2878,8 @@
         "aliases": null,
         "latitude": 67.288889,
         "longitude": 14.560278,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Nordland, (Abbreviation: UiN; Norwegian: Universitetet i Nordland) previously Bodø University College, was a public university located in Bodø, Norway. In January 2016, the university was merged with Nesna University College and Nord-Trøndelag University College, becoming Nord University.\nIt offers a wide range of undergraduate and graduate programs in various fields such as arts, humanities, social sciences, natural sciences, technology, education, health, and business."
     },
     {
         "wikidata_id": "Q486156",
@@ -2627,7 +2889,8 @@
         "aliases": null,
         "latitude": 59.9399361,
         "longitude": 10.7220639,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Oslo (Norwegian: Universitetet i Oslo; Latin: Universitas Osloensis) is a public research university located in Oslo, Norway. It is the oldest university in Norway. Originally named the Royal Frederick University, the university was established in 1811 as the de facto Norwegian continuation of Denmark-Norway's common university, the University of Copenhagen, with which it shares many traditions."
     },
     {
         "wikidata_id": "Q74540785",
@@ -2637,7 +2900,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20112014",
@@ -2647,7 +2911,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The University of South-Eastern Norway (Norwegian: Universitetet i Sørøst-Norge), commonly known as USN, is a Norwegian state university. It has campuses in Bø in Telemark, Porsgrunn, Notodden, Rauland, Drammen, Hønefoss, Kongsberg and Horten. USN is a continuation of the three former university colleges, Telemark University College, Buskerud University College and Vestfold University College, which merged between 2014 and 2016 to form the University College of South-Eastern Norway."
     },
     {
         "wikidata_id": "Q498401",
@@ -2657,7 +2922,8 @@
         "aliases": null,
         "latitude": 58.9375056,
         "longitude": 5.6974167,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Stavanger (Norwegian: Universitetet i Stavanger, UiS) is a public research university located in Stavanger, Norway. It was established in 2005 when the Stavanger University College received university status.\nThe university is organised in six faculties."
     },
     {
         "wikidata_id": "Q74550005",
@@ -2667,7 +2933,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q279724",
@@ -2677,7 +2944,8 @@
         "aliases": null,
         "latitude": 69.6805111,
         "longitude": 18.9731333,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Tromsø – The Arctic University of Norway (Norwegian: Universitetet i Tromsø – Norges arktiske universitet; Northern Sami: Romssa universitehta – Norgga árktalaš universitehta) is a state university in Norway and the world's northernmost university. Located in the city of Tromsø, Norway, it was established by an act of parliament in 1968 as Norway's fourth university, and opened in 1972 as University of Tromsø. As of 2024, it is the largest research and educational institution in Northern Norway and the fifth-largest university in Norway."
     },
     {
         "wikidata_id": "Q47473770",
@@ -2687,7 +2955,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21070475",
@@ -2697,7 +2966,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3438645",
@@ -2707,7 +2977,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q106472496",
@@ -2717,7 +2988,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q8034589",
@@ -2727,6 +2999,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     }
 ]

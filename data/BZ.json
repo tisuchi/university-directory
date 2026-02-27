@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 18.36519,
         "longitude": -88.436134,
-        "type": "college"
+        "type": "college",
+        "description": "Belize Adventist Junior College is a Christian Junior college in the Calcutta Village of the Corozal District in Belize. The Belize Adventist Junior College provides students with an education in a Christian setting.\nIt is a part of the Seventh-day Adventist education system, the world's second largest Christian school system."
     },
     {
         "wikidata_id": "Q5062823",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": 18.304818,
         "longitude": -88.508726,
-        "type": "college"
+        "type": "college",
+        "description": "Centro Escolar Mexico Junior College is a tertiary level institution in San Roman Village in the Corozal District of Belize. It was funded by the Mexican government in 2007. This junior college functions mainly as a vocational institution."
     },
     {
         "wikidata_id": "Q97488033",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q5172347",
@@ -37,7 +40,8 @@
         "aliases": null,
         "latitude": 18.39505,
         "longitude": -88.40335,
-        "type": "college"
+        "type": "college",
+        "description": "Corozal Junior College is a college in Corozal Town, Belize. It was established in 1986."
     },
     {
         "wikidata_id": "Q1707030",
@@ -47,7 +51,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Galen University is an independent university in Belize, Central America, with sustainable development as one of its core values. Its main campus is in Central Farm at mile 64 George Price Highway, in the Cayo District. The university is chartered and recognized by the Ministry of Education of the Government of Belize to offer degrees at undergraduate and graduate levels in educational programs such as business, arts, sciences, and education."
     },
     {
         "wikidata_id": "Q18351291",
@@ -57,7 +62,8 @@
         "aliases": null,
         "latitude": 16.537273,
         "longitude": -88.426579,
-        "type": "college"
+        "type": "college",
+        "description": "Independence Junior College was established in 2007 to offer tertiary-level education opportunities in Independence Village, Stann Creek District, Belize."
     },
     {
         "wikidata_id": "Q6806452",
@@ -69,7 +75,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Medical University of the Americas – Belize (MUA-B) was a medical school located in San Pedro Town, Belize from 2001 to 2007. As of January 25, 2010, MUA-B is no longer a recognized institution in Belize."
     },
     {
         "wikidata_id": "Q6932026",
@@ -79,7 +86,8 @@
         "aliases": null,
         "latitude": 18.0951222,
         "longitude": -88.5400694,
-        "type": "college"
+        "type": "college",
+        "description": "Muffles Junior College is a Catholic junior university college, located in Orange Walk District, Belize. Established in 1954 by the Society of Jesus, the college has been administered by the Sisters of Mercy since 1967."
     },
     {
         "wikidata_id": "Q7397228",
@@ -89,7 +97,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": "Sacred Heart Junior College was established in 1999 to offer tertiary-level education opportunities in the Cayo District, Belize. When it was first established, it offered Network Administration, International Business,  Biology, Environmental Science, Computer Science, Marketing and Tourism Management, of which the Tourism Management, Environmental Science, Network Administration and Computer Technician programmes were trailblazing programmes within Belize. Since then, General Studies and Primary School Education programmes have been added."
     },
     {
         "wikidata_id": "Q18354464",
@@ -99,7 +108,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "San Pedro Junior College is a public university in San Pedro Town. In 2022, the college signed an agreement with police to offer scholarships to officers. In 2024, the graduating class had 54 students."
     },
     {
         "wikidata_id": "Q7588645",
@@ -109,7 +119,8 @@
         "aliases": null,
         "latitude": 17.5123692,
         "longitude": -88.1985855,
-        "type": "university"
+        "type": "university",
+        "description": "St. John's College (abbreviated as SJC, and locally known as St. John's or John's) is a private Catholic selective secondary school for boys and private co-educational university college, located in Belize City, Belize."
     },
     {
         "wikidata_id": "Q7600111",
@@ -119,7 +130,8 @@
         "aliases": null,
         "latitude": 16.963184,
         "longitude": -88.226429,
-        "type": "college"
+        "type": "college",
+        "description": "Stann Creek Ecumenical Junior College is a college in Dangriga, Belize."
     },
     {
         "wikidata_id": "Q97260945",
@@ -129,7 +141,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7895116",
@@ -142,7 +155,8 @@
         ],
         "latitude": 17.2436,
         "longitude": -88.7602,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Belize (UB) is an English-speaking multi-locational institute for higher education, and the national university of Belize. The institution offers certificates, diplomas, associate degrees, bachelor's degrees, and a graduate degree. The UB Central Campus is  in Belmopan City."
     },
     {
         "wikidata_id": "Q7895115",
@@ -152,7 +166,8 @@
         "aliases": null,
         "latitude": 17.243639,
         "longitude": -88.760153,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7983945",
@@ -162,6 +177,7 @@
         "aliases": null,
         "latitude": 17.48728,
         "longitude": -88.1904,
-        "type": "college"
+        "type": "college",
+        "description": "Wesley Junior College (WJC) is a Christian college in Belize. It offers innovative  educational programs at the junior college level in business, science."
     }
 ]

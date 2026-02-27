@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 6.923718,
         "longitude": 79.861448,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q109561815",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Aquinas College of Higher Studies also known as Aquinas University College is a Sri Lankan nonprofit private Tertiary education institute that provides both academic degrees and vocational training."
     },
     {
         "wikidata_id": "Q4984185",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Bhiksu University of Sri Lanka was founded in 1996 and is located in Anuradhapura in Sri Lanka."
     },
     {
         "wikidata_id": "Q4984263",
@@ -37,7 +40,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Buddhist and Pali University of Sri Lanka is a Buddhist university in Homagama, Sri Lanka. It was founded in 1981 and is organized in two faculties."
     },
     {
         "wikidata_id": "Q97172301",
@@ -47,7 +51,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "Centre for Defence Research and Development (CDRD) is a Sri Lankan Research and Development (R&D) institute under the Ministry of Defence responsible for the development technology for the Armed Forces of Sri Lanka. The CDRD cooperates with various branches of the military as well as other entities and is engaged in the development of both military and civilian technologies."
     },
     {
         "wikidata_id": "Q5148023",
@@ -57,7 +62,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Colombo Institute of Research and Psychology  (CIRP)  is a private institute of higher education in Colombo, Sri Lanka, the commercial capital of the country. CIRP primarily provides higher education and training in psychology and related areas.  The main campus is housed in two units known as Sea Side Campus and Land Side Campus facing each other on the Colombo – Galle main road."
     },
     {
         "wikidata_id": "Q5148025",
@@ -71,7 +77,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The CINEC campus (pronounced  SIN-eck) is a Sri Lankan private institute of higher education. It is registered as a private limited liability company under the Companies Act. It is also the largest maritime educational training facility approved by the Directorate of Merchant Shipping in Sri Lanka."
     },
     {
         "wikidata_id": "Q5260196",
@@ -81,7 +88,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Department of Computer Engineering is the youngest department of the Faculty of Engineering, University of Peradeniya established in 2001 with 20 undergraduate students. At present, there are approximately 60 students in each batch."
     },
     {
         "wikidata_id": "Q74546007",
@@ -91,7 +99,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5330549",
@@ -105,7 +114,8 @@
         ],
         "latitude": 7.7976111,
         "longitude": 81.582,
-        "type": "university"
+        "type": "university",
+        "description": "The Eastern University Sri Lanka (abbreviated as EUSL) is a public university in Vantharumoolai, Eastern Province, Sri Lanka. It was established on 1 October 1986. The university was preceded by the Batticaloa University College established on 1 August 1981 which was started in the buildings of the Vantharumoolai Madya Maha Vidyalayam."
     },
     {
         "wikidata_id": "Q5428911",
@@ -115,7 +125,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5532198",
@@ -127,7 +138,8 @@
         ],
         "latitude": 6.8177,
         "longitude": 79.8903,
-        "type": "university"
+        "type": "university",
+        "description": "General Sir John Kotelawala Defence University (KDU) (Sinhala: ජෙනරාල් ශ්‍රිමත් ජෝන් කොතලාවල ආරක්ෂක විශ්ව විද්‍යාලය General Sir John Kotelawala Arakshaka Vishva Vidyalaya) located at Kandawala, Ratmalana, Colombo, is the state defense university of Sri Lanka which is administered by the Ministry of Defense.\nThe General Sir John Kotelawala Defence Academy was established in 1980 by the Sir John Kotelawala Defence Academy Act, No. 68 of 1981 as the joint defence service training institute of the Sri Lankan Armed Forces, where cadets of the three services, Sri Lanka Army, Sri Lanka Navy and Sri Lanka Air Force undergo academic training together before they go on to respective service academy for further pre-commission training."
     },
     {
         "wikidata_id": "Q107570103",
@@ -140,7 +152,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q16914802",
@@ -152,7 +165,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute of Biochemistry, Molecular Biology and Biotechnology (IBMBB), Sri Lanka, is the National Node for European Molecular Biology Network (EMBnet) and is designated as a Resource Centre for Molecular Life Sciences by the International Programme in Chemical Sciences, University of Uppsala, Sweden."
     },
     {
         "wikidata_id": "Q18351676",
@@ -162,7 +176,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Institute of Higher National Diploma in Engineering (HNDE) is a public institute in Sri Lanka mainly focused on higher education. Since 1986 the Higher National Diploma in Engineering (HNDE) program has been the pioneer in producing incorporated engineers for the local and international industry."
     },
     {
         "wikidata_id": "Q6041089",
@@ -172,7 +187,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Institution of Engineers, Sri Lanka (IESL) is a multidisciplinary professional engineering institution in Sri Lanka."
     },
     {
         "wikidata_id": "Q12979943",
@@ -182,7 +198,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q3529297",
@@ -192,7 +209,8 @@
         "aliases": null,
         "latitude": 6.9222222,
         "longitude": 79.8747222,
-        "type": "college"
+        "type": "college",
+        "description": "Nalanda College (Sinhala: නාලන්දා විද්‍යාලය) is a Buddhist school in Sri Lanka that provides primary and secondary education for boys. The school was founded by Patrick de Silva Kularatne as an offshoot of Ananda College, Colombo, and was officially registered as a separate institution on 1 November 1925."
     },
     {
         "wikidata_id": "Q108325308",
@@ -202,7 +220,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The National Defence College, located in Colombo, is the defence service training institute and highest seat of strategic learning for officers of the Sri Lankan Armed Forces, Sri Lanka Police and the Public Services. This is a very prestigious course attended only by selected officers of One-Star rank and public servants of the senior grade of class 1. Foreign course participants from friendly foreign countries including India are also invited to attend."
     },
     {
         "wikidata_id": "Q6040330",
@@ -215,7 +234,8 @@
         ],
         "latitude": 7.2838889,
         "longitude": 80.6322222,
-        "type": "institute"
+        "type": "institute",
+        "description": "The National Institute of Fundamental Studies (NIFS) (Sinhala: ජාතික මූලික අධ්‍යන ආයතනය) is a government multidisciplinary research institute in Sri Lanka, established in 1981. The NIFS is the only Institute in Sri Lanka which exists for the sole purpose of conducting research in natural and social sciences and philosophy for national development and scientific advancement.\nThe NIFS is engaged in basic, high caliber research focusing on 16 different thematic research areas under 6 research departments."
     },
     {
         "wikidata_id": "Q96397188",
@@ -225,7 +245,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Army War College (AWC) is a defence service training institution of the Sri Lanka Army located in Buttala, Monaragala District, Uva Province. The AWC provides command and staff courses for mid career  officers of Sri Lanka Army as well as to a limited number of officers from Sri Lanka Navy, Sri Lanka Air Force and officers of various allied forces. \nIt was opened on 23 January 2012 as the Officer Career Development Centre (OCDC) and was renamed the Army War College in 2021."
     },
     {
         "wikidata_id": "Q3537680",
@@ -235,7 +256,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Open University of Sri Lanka (OUSL; Sinhala: ශ්‍රී ලංකා විවෘත විශ්වවිද්‍යාලය, Tamil: இலங்கை திறந்த பல்கலைக்கழகம்) is a national university in Sri Lanka. It is unique within the Sri Lankan national university system for being the only university to offer programs of study leading to certificate, diploma, degrees and postgraduate degrees up to PhD level through the Open and Distance Mode of Learning (ODL). The degrees awarded by the university are treated as equivalent to degrees awarded by any other Sri Lankan University under the preview of the University Grants Commission."
     },
     {
         "wikidata_id": "Q7285789",
@@ -245,7 +267,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Rajarata University of Sri Lanka (Sinhala: ශ්‍රී ලංකා රජරට විශ්වවිද්‍යාලය, Tamil: இலங்கை ரஜரட்ட பல்கலைக்கழகம், abbreviated RUSL) is a public university located in the historic city of Mihintale, near Anuradhapura, Sri Lanka. The Rajarata University of Sri Lanka was established as the eleventh University in Sri Lanka and was opened on 31 January 1996 by President Chandrika Kumaratunga.\nOver the years, the university has developed to become a centre of excellence in higher education in the North Central Province as well as in Sri Lanka."
     },
     {
         "wikidata_id": "Q74540113",
@@ -255,7 +278,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3529302",
@@ -265,7 +289,8 @@
         "aliases": null,
         "latitude": 6.0528806,
         "longitude": 80.204725,
-        "type": "college"
+        "type": "college",
+        "description": "Richmond College (Sinhala: රිච්මන්ඩ් විද්‍යාලය) is a primary and secondary school in Galle, Sri Lanka which was established as the Galle High School in 1876. The founder of the school was the Wesleyan Missionary George Bough. The first principal of the school was Rev Samuel Langdon."
     },
     {
         "wikidata_id": "Q1378292",
@@ -275,7 +300,8 @@
         "aliases": null,
         "latitude": 6.7148179,
         "longitude": 80.7871728,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131583781",
@@ -285,7 +311,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7515547",
@@ -295,7 +322,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q112829847",
@@ -309,7 +337,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7567162",
@@ -319,7 +348,8 @@
         "aliases": null,
         "latitude": 7.3009722,
         "longitude": 81.8553056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7585935",
@@ -329,7 +359,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7595310",
@@ -339,7 +370,8 @@
         "aliases": null,
         "latitude": 6.8807,
         "longitude": 79.8608,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7894702",
@@ -349,7 +381,8 @@
         "aliases": null,
         "latitude": 6.9163628,
         "longitude": 79.8669637,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895254",
@@ -359,7 +392,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013344",
@@ -369,7 +403,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3534875",
@@ -381,7 +416,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3399947",
@@ -394,7 +430,8 @@
         ],
         "latitude": 9.68469,
         "longitude": 80.0219,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013347",
@@ -404,7 +441,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3534731",
@@ -417,7 +455,8 @@
         ],
         "latitude": 6.972946,
         "longitude": 79.91588,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013354",
@@ -427,7 +466,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3523254",
@@ -437,7 +477,8 @@
         "aliases": null,
         "latitude": 6.79639,
         "longitude": 79.9008,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3083280",
@@ -447,7 +488,8 @@
         "aliases": null,
         "latitude": 7.25417,
         "longitude": 80.5967,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013372",
@@ -457,7 +499,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013375",
@@ -467,7 +510,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013377",
@@ -477,7 +521,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013381",
@@ -487,7 +532,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013382",
@@ -497,7 +543,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12975239",
@@ -507,7 +554,8 @@
         "aliases": null,
         "latitude": 5.9392038,
         "longitude": 80.5762198,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013362",
@@ -517,7 +565,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013365",
@@ -527,7 +576,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74551541",
@@ -537,7 +587,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q720958",
@@ -549,7 +600,8 @@
         ],
         "latitude": 6.8540453,
         "longitude": 79.903585,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101013369",
@@ -559,7 +611,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896783",
@@ -569,7 +622,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q107334343",
@@ -579,7 +633,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19736428",
@@ -589,7 +644,8 @@
         "aliases": null,
         "latitude": 7.25417,
         "longitude": 80.5967,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7903611",
@@ -599,7 +655,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7975840",
@@ -609,6 +666,7 @@
         "aliases": null,
         "latitude": 7.4689855,
         "longitude": 80.0220467,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

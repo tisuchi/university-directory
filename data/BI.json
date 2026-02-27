@@ -9,7 +9,8 @@
         ],
         "latitude": -3.3627778,
         "longitude": 29.3849167,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124059433",
@@ -23,7 +24,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100523641",
@@ -35,7 +37,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19462316",
@@ -49,7 +52,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Hills University (in French called \"Université des Collines\") is a private university founded in 2009 in Bujumbura, Burundi, recognized by the Ministry of Education."
     },
     {
         "wikidata_id": "Q100523645",
@@ -62,7 +66,8 @@
         ],
         "latitude": -3.373258,
         "longitude": 29.360263,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294312",
@@ -75,7 +80,8 @@
         ],
         "latitude": -3.3803889,
         "longitude": 29.3700556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100523647",
@@ -87,7 +93,8 @@
         ],
         "latitude": -3.3838333,
         "longitude": 29.356,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100523639",
@@ -99,7 +106,8 @@
         ],
         "latitude": -3.3595556,
         "longitude": 29.36925,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21332486",
@@ -109,7 +117,8 @@
         "aliases": null,
         "latitude": -3.37886,
         "longitude": 29.38384,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100523633",
@@ -122,7 +131,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551641",
@@ -135,7 +145,8 @@
         ],
         "latitude": -3.53083,
         "longitude": 29.7452,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Mwaro (French: Université de Mwaro) is a private university in the Commune of Kayokwe, Mwaro Province, Burundi."
     },
     {
         "wikidata_id": "Q3551654",
@@ -149,7 +160,8 @@
         ],
         "latitude": -2.9044444,
         "longitude": 29.8311111,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Ngozi (UNG), also Ngozi University, is a private university in Burundi. It was established on 17 April 1999 by the Constituent Assembly and was approved by Ministerial Ordinance No. 530\/264 on 7 May 1999."
     },
     {
         "wikidata_id": "Q30294313",
@@ -162,7 +174,8 @@
         ],
         "latitude": -3.379457,
         "longitude": 29.365275,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q719925",
@@ -176,7 +189,8 @@
         ],
         "latitude": -3.3788889,
         "longitude": 29.3844444,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Burundi (Kirundi: Kaminuza y'Uburundi, French: Université du Burundi, UB) is the biggest public university in Burundi, with its main campus located in Bujumbura, Burundi. Founded in 1964, it comprises eight faculties and five institutes and has a student enrollment of approximately 13,000. It is based in three campuses in Bujumbura and a fourth in Gitega."
     },
     {
         "wikidata_id": "Q3551752",
@@ -189,7 +203,8 @@
         ],
         "latitude": -3.3575556,
         "longitude": 29.3810278,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2687972",
@@ -203,7 +218,8 @@
         ],
         "latitude": -3.34742,
         "longitude": 29.37119,
-        "type": "university"
+        "type": "university",
+        "description": "Hope Africa University (HAU) was established in 2000 with support from the Free Methodist Church in Karen, Kenya. It relocated to Bujumbura in December 2003. At that time, it had 110 students."
     },
     {
         "wikidata_id": "Q3551434",
@@ -216,7 +232,8 @@
         ],
         "latitude": -3.3748056,
         "longitude": 29.3968611,
-        "type": "university"
+        "type": "university",
+        "description": "Bujumbura Light University (French: Université Lumière de Bujumbura, or ULBU) is a private university located in Bujumbura, founded in 2000 by the Center for the Production and Distribution of Christian Literature (CEPRODILIC), a non-profit association in Burundi."
     },
     {
         "wikidata_id": "Q100523638",
@@ -229,7 +246,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100523654",
@@ -242,7 +260,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100523631",
@@ -255,7 +274,8 @@
         ],
         "latitude": -2.8843889,
         "longitude": 29.1236944,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100523652",
@@ -268,7 +288,8 @@
         ],
         "latitude": -3.3416111,
         "longitude": 29.4020278,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100523642",
@@ -281,7 +302,8 @@
         ],
         "latitude": -3.4008056,
         "longitude": 29.3596667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97041886",
@@ -295,6 +317,7 @@
         ],
         "latitude": -3.37825,
         "longitude": 29.3859167,
-        "type": "university"
+        "type": "university",
+        "description": "The Higher Normal School of Bujumbura (ENS) is a public higher education institution in Burundi."
     }
 ]

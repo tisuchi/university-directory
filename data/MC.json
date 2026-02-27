@@ -11,7 +11,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30296139",
@@ -25,6 +26,7 @@
         ],
         "latitude": 43.733676,
         "longitude": 7.427158,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Scientific Centre of Monaco (French: Centre Scientifique de Monaco, CSM) is a public establishment providing the Principality of Monaco with means to conduct scientific research. CSM is specialized in the study of corals and coral reefs, as well as fight against cancer in partnership with the Flavien Foundation. CSM is grouped into three departments aimed at studying the functioning of organisms in order to acquire better understanding, foresee the effects of environmental stress (Physiology of Conservation) or discover therapeutic treatments (Translational Biology)."
     }
 ]

@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Seychelles Polytechnic is a government-owned tertiary institution located in Anse Royale, Mahé. The institution currently offer three programme areas in Business & Secretarial Studies, Visual Arts and the Manchester Twinning Programme, a first-year degree programme obtained in partnership with the University of Manchester."
     },
     {
         "wikidata_id": "Q7896291",
@@ -17,6 +18,7 @@
         "aliases": null,
         "latitude": -4.7404104,
         "longitude": 55.5163627,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Seychelles, informally also called UniSey, is the primary institution of higher education in Seychelles."
     }
 ]

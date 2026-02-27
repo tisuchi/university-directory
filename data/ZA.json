@@ -9,7 +9,8 @@
         ],
         "latitude": -25.74774,
         "longitude": 28.18467,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4689771",
@@ -21,7 +22,8 @@
         ],
         "latitude": -33.9596944,
         "longitude": 18.4595,
-        "type": "university"
+        "type": "university",
+        "description": "The African Gender Institute (AGI) is a feminist research and teaching group that studies issues related to gender in Africa. It has become a department at the University of Cape Town (UCT), administered within the School of African and Gender Studies, Social Anthropology and Linguistics."
     },
     {
         "wikidata_id": "Q2826172",
@@ -33,7 +35,8 @@
         ],
         "latitude": -34.1072,
         "longitude": 18.4706,
-        "type": "institute"
+        "type": "institute",
+        "description": "The African Institute for Mathematical Sciences (AIMS) is a pan-African network of postgraduate schools teaching mathematical sciences. Established in 2003 in Cape Town, South Africa, AIMS offers postgraduate training, research, and public engagement programs aimed at building scientific capacity across Africa. The institute was founded by physicist Neil Turok to educate African students in STEM fields to support the continent's development."
     },
     {
         "wikidata_id": "Q97482632",
@@ -43,7 +46,8 @@
         "aliases": null,
         "latitude": -25.8513395,
         "longitude": 28.2006623,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74541826",
@@ -53,7 +57,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q42116192",
@@ -68,7 +73,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74549678",
@@ -78,7 +84,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4809932",
@@ -90,7 +97,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Association of Muslim Schools (SA) is a national network of Muslim Schools in South Africa.\nThe association consists of 68 schools nationally. AMS-SA encompasses both primary and high schools as well as independent and state-aided schools."
     },
     {
         "wikidata_id": "Q61357565",
@@ -100,7 +108,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": "The Bloemfontein Teachers' Training College was one of several names and forms taken over a century by a training institution for teachers in Bloemfontein, the capital of Free State, South Africa.\nThe Normaalskool opened on October 12, 1898, on the recommendation of Dr. John Brebner of the Free State Volksraad, with P.J. du Pré le Roux as its first president."
     },
     {
         "wikidata_id": "Q2694118",
@@ -110,7 +119,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4997932",
@@ -120,7 +130,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Bunting Road Campus Auckland Park, also known as APB, is one of the four urban campuses of the University of Johannesburg. The APB was originally a campus of  the Technikon Witwatersrand.\nUniquely, the campus is an enclosed section of a suburb."
     },
     {
         "wikidata_id": "Q5001756",
@@ -130,7 +141,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Business Management Training College (BMT College) is a private higher education institution based in South Africa. It specialises in undergraduate qualifications in Business Management and Human Resource Management. The college is registered with the Department of Higher Education and Training (DHET) (Reg No 2011\/HE07\/002) as a distance education provider."
     },
     {
         "wikidata_id": "Q1034468",
@@ -145,7 +157,8 @@
         ],
         "latitude": -33.932222,
         "longitude": 18.640278,
-        "type": "university"
+        "type": "university",
+        "description": "Cape Peninsula University of Technology (Afrikaans: Kaapse Skiereiland Universiteit van Tegnologie), commonly referred to simply as CPUT, is a university of technology based in Cape Town, South Africa.\nIt is the only university of technology in the Western Cape province, and is also the largest university in the province by student population, with over 35,000 enrolled as of 2026. The institution was established in 2005, through the merging of the Cape Technikon, Peninsula Technikon, and a few other independent colleges."
     },
     {
         "wikidata_id": "Q100948129",
@@ -155,7 +168,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5056947",
@@ -165,7 +179,8 @@
         "aliases": null,
         "latitude": -29.5333333,
         "longitude": 30.2833333,
-        "type": "college"
+        "type": "college",
+        "description": "Cedara College of Agriculture is an agricultural college and research station near Howick, KwaZulu-Natal, South Africa, founded partly by Thomas Robertson Sim. The foundation stone of the \"School of Agriculture and Forestry\" was laid on 28 April 1905. The original prospectus advertised lectures in Forestry, Horticulture, Dairying, Veterinary Science, Chemistry, Elementary Mathematics, Bookkeeping, Farm Surveying, Zoology, and Fish Husbandry."
     },
     {
         "wikidata_id": "Q56512191",
@@ -175,7 +190,8 @@
         "aliases": null,
         "latitude": -25.4063,
         "longitude": 30.99056,
-        "type": "college"
+        "type": "college",
+        "description": "Cefups Academy is a private and boarding high school in Nelspruit in Mpumalanga, South Africa founded by Dr Simon Mkhatshwa."
     },
     {
         "wikidata_id": "Q1054047",
@@ -189,7 +205,8 @@
         ],
         "latitude": -29.121389,
         "longitude": 26.213611,
-        "type": "university"
+        "type": "university",
+        "description": "The Central University of Technology, Free State (CUT) is a public technology university with campuses in Bloemfontein and Welkom, Free State province, South Africa.\nIt was established in 1981 as \"Technikon Free State.\" As part of the South African government's restructuring of tertiary education for the new millennium it was promoted to university of technology status.\nIt is currently part of the BRICS Universities League, a consortium of leading research universities from Brazil, Russia, India, China, and South Africa."
     },
     {
         "wikidata_id": "Q100267075",
@@ -201,7 +218,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5062405",
@@ -214,7 +232,8 @@
         ],
         "latitude": -26.179105,
         "longitude": 28.030602,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5062463",
@@ -224,7 +243,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Centre for Human Rights at the University of Pretoria Faculty of Law, South Africa, is an organisation dedicated to promoting human rights on the continent of Africa. The centre, founded in 1986, promotes human rights through educational outreach, including multinational conferences, seminars and publications such as Human Rights Law in Africa, The African Human Rights Law Journal, the African Human Rights Law Reports and The Constitutional Law of South Africa. The centre, which was founded during Apartheid, assisted in adapting a Bill of Rights for South Africa and contributed to creating the South African Constitution."
     },
     {
         "wikidata_id": "Q109609635",
@@ -234,7 +254,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "CityVarsity School of Media and Creative Arts is a private higher education institution in South Africa with a campus in Cape Town. It falls under Educor and offers full-time, short, and online degrees, diplomas, and certificates in the creative arts and media."
     },
     {
         "wikidata_id": "Q63368322",
@@ -244,7 +265,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q105561064",
@@ -256,7 +278,8 @@
         ],
         "latitude": -33.9732889,
         "longitude": 18.5121306,
-        "type": "university"
+        "type": "university",
+        "description": "College of Cape Town (CCT), is a public TVET College located in Cape Town, South Africa, in the province of Western Cape, and it mainly serves students from the Southern Suburbs, Northern Suburbs region, along with Klipfontein District. The college is one of the oldest TVET institutions in Cape Town. CCT was founded in 1900 making it the oldest TVET college in South Africa."
     },
     {
         "wikidata_id": "Q5146753",
@@ -266,7 +289,8 @@
         "aliases": null,
         "latitude": -33.98348,
         "longitude": 18.481387,
-        "type": "university"
+        "type": "university",
+        "description": "College of Magic is a nonprofit organization (007-517 NPO\/NGO) based in Cape Town, South Africa that teaches magic. The Director, David Gore, has been with the organization since its inception."
     },
     {
         "wikidata_id": "Q74550059",
@@ -276,7 +300,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5014573",
@@ -286,7 +311,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The CTI Education Group (CTI) was a registered, private higher education institution in South Africa. Full-time and part-time students can study within the fields of Information Technology, Psychology & Counselling, Creative Arts & Graphic Design, Commerce and Law on campuses spread throughout South Africa."
     },
     {
         "wikidata_id": "Q43662119",
@@ -296,7 +322,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Curro Holdings Limited, often referred to simply as Curro, is a South African educational holding company, with private schools across all nine South African provinces.\nFounded in 1998, Curro is headquartered in Bellville, Western Cape, and is listed on the JSE Limited, with a 2025 market capitalization of around R5 billion.\nAs of 2025, Curro operates a total of 189 schools across 81 campuses."
     },
     {
         "wikidata_id": "Q5212152",
@@ -306,7 +333,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": "Damelin (officially Damelin Pty Ltd) is a private South African tertiary education institution founded in 1943. It has 6 campuses in South Africa and is owned by Educor (the Education Investment Corporation Limited) group. \nThe institution offers degrees, diplomas, and other higher qualifications."
     },
     {
         "wikidata_id": "Q16954016",
@@ -316,7 +344,8 @@
         "aliases": null,
         "latitude": -33.89215,
         "longitude": 18.51754,
-        "type": "university"
+        "type": "university",
+        "description": "Damelin Correspondence College is a South African private correspondence college, owned by private tertiary education institution holding company Educor. It was founded in 1955 by Johann Brumer, a teacher who started his career at Damelin and started developing long distance study materials.\nThe college offers diplomas and certificates under six schools: the Business School, Computer School, General School, Technical School and Vocational School."
     },
     {
         "wikidata_id": "Q5225794",
@@ -326,7 +355,8 @@
         "aliases": null,
         "latitude": -26.35942,
         "longitude": 27.89726,
-        "type": "university"
+        "type": "university",
+        "description": "Darul Uloom Zakariyya  (Arabic: دار العلوم زكريا) is a madrasa in Lenasia, South Africa. Opened in 1983 in an agricultural area not far from Johannesburg, it is now surrounded by a suburb which was named in its honor (Zakariyya Park). The institute was initially called Madrasah Zakariyya and was finally changed to Darul Uloom Zakariyya to reflect its true educational purpose as an Institute of higher Islamic learning."
     },
     {
         "wikidata_id": "Q131179269",
@@ -336,7 +366,8 @@
         "aliases": null,
         "latitude": -33.9287911,
         "longitude": 18.4446481,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100267085",
@@ -348,7 +379,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q116865363",
@@ -361,7 +393,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74557707",
@@ -371,7 +404,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q60792038",
@@ -385,7 +419,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "DITSELA (the Development Institute for Training, Support and Education for Labour), also known as the DITSELA Workers' Education Institute is a union education organisation in South Africa. It was founded in 1996 by the main union federations, and is mandated to provide programmes that develop union capacity, provide workers and trade unionists access to higher education, recognise workers' experiential knowledge, and promote critical thinking and activism. DITSELA was described in a 2007 International Labour Organization report as the 'largest union education institute in Africa'."
     },
     {
         "wikidata_id": "Q926710",
@@ -399,7 +434,8 @@
         ],
         "latitude": -29.8513889,
         "longitude": 31.0072222,
-        "type": "university"
+        "type": "university",
+        "description": "The Durban University of Technology (DUT) is a multi-campus university situated in KwaZulu-Natal, South Africa. It was formed in 2002 following the merger of Technikon Natal and ML Sultan Technikon and it was initially known as the Durban Institute of Technology. It has five campuses in Durban, and another two in Pietermaritzburg."
     },
     {
         "wikidata_id": "Q100948169",
@@ -409,7 +445,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2236456",
@@ -419,7 +456,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Eastern Cape Technikon was an institution of higher education in South Africa. It was first established as an engineering campus of the University of Transkei in 1985 and received autonomy in 1994. In 2004, almost 9000 students registered at its four campuses."
     },
     {
         "wikidata_id": "Q61933628",
@@ -432,7 +470,8 @@
         ],
         "latitude": -33.920694,
         "longitude": 18.38315,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4893546",
@@ -444,7 +483,8 @@
         ],
         "latitude": -26.193,
         "longitude": 28.0291,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Evolutionary Studies Institute (ESI) is a paleontological, paleoanthropological and archeological research institute operated through the Faculty of Science of the University of the Witwatersrand, Johannesburg, South Africa. Previously known as the  Bernard Price Institute for Palaeontological Research (BPI) it was renamed the Evolutionary Studies Institute in 2013 to better showcase the scope of its research."
     },
     {
         "wikidata_id": "Q5428964",
@@ -454,7 +494,8 @@
         "aliases": null,
         "latitude": -26.1916,
         "longitude": 28.027,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74550031",
@@ -464,7 +505,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5432623",
@@ -474,7 +516,8 @@
         "aliases": null,
         "latitude": -34.1072222,
         "longitude": 18.4686111,
-        "type": "college"
+        "type": "college",
+        "description": "False Bay College is in Cape Town, South Africa.\nFalse Bay TVET College offers vocational, occupational and skills programmes in a range of fields: Engineering, Business, Hospitality, Information Technology, Safety in Society, Education Studies, 2D Animation, Tourism and Boat Building."
     },
     {
         "wikidata_id": "Q2070244",
@@ -484,7 +527,8 @@
         "aliases": null,
         "latitude": -33.9564113,
         "longitude": 18.4611377,
-        "type": "institute"
+        "type": "institute",
+        "description": "The FitzPatrick Institute of African Ornithology is a South African biological research and conservation institute based at the University of Cape Town (UCT).  The mission statement of the institute is \"to promote and undertake scientific studies involving birds, and contribute to the practice affecting the maintenance of biological diversity and the sustained use of biological resources\"."
     },
     {
         "wikidata_id": "Q129514110",
@@ -497,7 +541,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q112085397",
@@ -510,7 +555,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3129583",
@@ -520,7 +566,8 @@
         "aliases": null,
         "latitude": -34.05,
         "longitude": 18.8430556,
-        "type": "college"
+        "type": "college",
+        "description": "Helderberg College of Higher Education is a private higher education institution situated in Somerset West, South Africa, about thirty minutes from Cape Town. It was established in 1893, and was the first Seventh-day Adventist College established outside of North America under the name \"Union College.\"  It moved to its present location in 1928, making it the oldest Adventist college on the continent of Africa. It is owned and operated by the Southern Africa Union Conference of Seventh-day Adventists, with headquarters in Bloemfontein, South Africa."
     },
     {
         "wikidata_id": "Q112315559",
@@ -530,7 +577,8 @@
         "aliases": null,
         "latitude": -33.9300276,
         "longitude": 18.4137704,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q385450",
@@ -543,7 +591,8 @@
         ],
         "latitude": -33.6380556,
         "longitude": 19.0108333,
-        "type": "university"
+        "type": "university",
+        "description": "The Huguenot College in Wellington, South Africa, is a private institute focused on training social and church service workers."
     },
     {
         "wikidata_id": "Q11020151",
@@ -557,7 +606,8 @@
         ],
         "latitude": -25.7477418,
         "longitude": 28.1843504,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Human Sciences Research Council (HSRC) of South Africa is Africa's largest dedicated social science and humanities research agency and policy think tank. It primarily conducts large-scale, policy-relevant, social-scientific projects for public-sector users, for non governmental organisations and international development agencies in support of development nationally, in the Southern African Development Community (SADC) and in Africa. \nThe HSRC also seeks to contribute to the research and development strategy of the HSRC's parent Department of Science and Technology, especially through its mission to focus on the contribution of science and technology to addressing poverty."
     },
     {
         "wikidata_id": "Q176667",
@@ -570,7 +620,8 @@
         ],
         "latitude": -26.0833333,
         "longitude": 27.8769444,
-        "type": "university"
+        "type": "university",
+        "description": "The IIE MSA, formerly known as Monash South Africa, is a university located in Johannesburg, Gauteng, South Africa."
     },
     {
         "wikidata_id": "Q18575815",
@@ -580,7 +631,8 @@
         "aliases": null,
         "latitude": -26.1931,
         "longitude": 28.0297,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6037157",
@@ -590,7 +642,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": "Inscape Education Group (previously Inscape Design College), is a higher education institution which offers contact learning located at campuses in Durban, Cape Town, Pretoria and Johannesburg in South Africa. The institution also offers distance learning through an online platform. In 2018, the Inscape expanded its operations to the United Arab Emirates, establishing a campus in Dubai."
     },
     {
         "wikidata_id": "Q100267096",
@@ -602,7 +655,8 @@
         ],
         "latitude": -33.9299727,
         "longitude": 18.4576492,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74546628",
@@ -612,7 +666,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18126017",
@@ -627,7 +682,8 @@
         ],
         "latitude": -25.773393,
         "longitude": 28.2349012,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74535543",
@@ -637,7 +693,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25613931",
@@ -651,7 +708,8 @@
         ],
         "latitude": -34.026984,
         "longitude": 18.747289,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74535445",
@@ -661,7 +719,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6496842",
@@ -671,7 +730,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Latitude Varsity is a small university located in Bellville, South Africa. It specializes in computer science, business education, and finance."
     },
     {
         "wikidata_id": "Q57736299",
@@ -683,7 +743,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q74547862",
@@ -695,7 +756,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74546620",
@@ -705,7 +767,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6707245",
@@ -715,7 +778,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q6588080",
@@ -728,7 +792,8 @@
         ],
         "latitude": -29.9701,
         "longitude": 30.9137,
-        "type": "university"
+        "type": "university",
+        "description": "Mangosuthu University of Technology (MUT) is a university of technology situated in Umlazi near the city of Durban, South Africa, on a site overlooking the Indian Ocean. MUT is located in the academic hub in the eThekwini metropole. It is a residential university."
     },
     {
         "wikidata_id": "Q6842964",
@@ -738,7 +803,8 @@
         "aliases": null,
         "latitude": -26.02058,
         "longitude": 28.1340556,
-        "type": "university"
+        "type": "university",
+        "description": "Eduvos that is formerly Pearson Institute of Higher Education and Midrand Graduate Institute (MGI) and Computer Training Institute (CTI) is a South African private higher education institution that is headquartered in Midrand, Gauteng.\nAs of 2026, Eduvos operates 12 campuses across South Africa, and has a total enrolment of over 23,000 students."
     },
     {
         "wikidata_id": "Q2307926",
@@ -748,7 +814,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q47486748",
@@ -762,7 +829,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q38911300",
@@ -772,7 +840,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6978050",
@@ -787,7 +856,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "South Africa’s National Research Foundation (NRF) is the intermediary agency between the policies and strategies of the Government of South Africa and South Africa's research institutions."
     },
     {
         "wikidata_id": "Q110952922",
@@ -797,7 +867,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948409",
@@ -807,7 +878,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74530661",
@@ -817,7 +889,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1331614",
@@ -831,7 +904,8 @@
         ],
         "latitude": -34.00842,
         "longitude": 25.67778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135820626",
@@ -841,7 +915,8 @@
         "aliases": null,
         "latitude": -29.8514011,
         "longitude": 31.0100316,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q1998811",
@@ -856,7 +931,8 @@
         ],
         "latitude": -26.693492,
         "longitude": 27.093062,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948414",
@@ -866,7 +942,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948415",
@@ -876,7 +953,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943857",
@@ -886,7 +964,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100943880",
@@ -896,7 +975,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55625471",
@@ -906,7 +986,8 @@
         "aliases": null,
         "latitude": -33.902,
         "longitude": 18.6383,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q111589520",
@@ -916,7 +997,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q97671062",
@@ -926,7 +1008,8 @@
         "aliases": null,
         "latitude": -33.92503,
         "longitude": 18.41912,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74540301",
@@ -936,7 +1019,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q30296412",
@@ -950,7 +1034,8 @@
         ],
         "latitude": -25.651158,
         "longitude": 28.184399,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74527846",
@@ -960,7 +1045,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2059560",
@@ -975,7 +1061,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7234783",
@@ -985,7 +1072,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Potchefstroom University for Christian Higher Education (abbreviated as PU for CHE) was a South African university located in Potchefstroom. Instruction was mainly in Afrikaans. In 2004, the university was merged with other institutions to create the North-West University."
     },
     {
         "wikidata_id": "Q74546139",
@@ -995,7 +1083,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2285622",
@@ -1008,7 +1097,8 @@
         ],
         "latitude": -26.1833333,
         "longitude": 27.9988889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q114456880",
@@ -1018,7 +1108,8 @@
         "aliases": null,
         "latitude": -33.933446,
         "longitude": 18.460598,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74546617",
@@ -1028,7 +1119,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q377757",
@@ -1042,7 +1134,8 @@
         ],
         "latitude": -33.3136111,
         "longitude": 26.5197222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948200",
@@ -1052,7 +1145,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948202",
@@ -1062,7 +1156,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948203",
@@ -1072,7 +1167,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948204",
@@ -1082,7 +1178,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948208",
@@ -1092,7 +1189,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948210",
@@ -1102,7 +1200,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948213",
@@ -1112,7 +1211,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948215",
@@ -1122,7 +1222,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943814",
@@ -1132,7 +1233,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943816",
@@ -1142,7 +1244,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943822",
@@ -1152,7 +1255,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100943824",
@@ -1162,7 +1266,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948330",
@@ -1172,7 +1277,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74557466",
@@ -1182,7 +1288,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q114968137",
@@ -1192,7 +1299,8 @@
         "aliases": null,
         "latitude": -29.8509335,
         "longitude": 31.0088501,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18378064",
@@ -1202,7 +1310,8 @@
         "aliases": null,
         "latitude": -26.1931,
         "longitude": 28.0297,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19843419",
@@ -1216,7 +1325,8 @@
         ],
         "latitude": -25.6172667,
         "longitude": 28.0165111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7507387",
@@ -1226,7 +1336,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Sicambeni Rural University is an independently funded project in the village of Sicambeni (OR Tambo District Municipality) 15 km inland from Port St Johns on the East Coast of South Africa. The University is the brainchild of Luke Boshier and his volunteer program based in Port St. Johns."
     },
     {
         "wikidata_id": "Q74530720",
@@ -1236,7 +1347,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q17090884",
@@ -1249,7 +1361,8 @@
         ],
         "latitude": -28.7451182,
         "longitude": 24.764276,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q13036063",
@@ -1261,7 +1374,8 @@
         ],
         "latitude": -25.8146052,
         "longitude": 28.2274475,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q227807",
@@ -1273,7 +1387,8 @@
         ],
         "latitude": -33.9343611,
         "longitude": 18.4773889,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7565676",
@@ -1283,7 +1398,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": "The South African College was an educational institution in Cape Town, South Africa, which developed into the University of Cape Town (UCT) and the South African College Schools (SACS)."
     },
     {
         "wikidata_id": "Q7565708",
@@ -1296,7 +1412,8 @@
         ],
         "latitude": -33.3105556,
         "longitude": 26.5197222,
-        "type": "institute"
+        "type": "institute",
+        "description": "The South African Institute for Aquatic Biodiversity (SAIAB), is involved in research, education and in applications of its knowledge and research to African fish fauna, for either economic or conservation benefit.\nThe institute originally established in 1969, was formerly named the JLB Smith Institute of Ichthyology, in honour of Professor James Leonard Brierley Smith, who named and described the living coelacanth Latimeria chalumnae. The JLB Smith Institute of Ichthyology received recognition as a national research entity, renamed as the South African Institute of Aquatic Biodiversity in 1999."
     },
     {
         "wikidata_id": "Q7565710",
@@ -1308,7 +1425,8 @@
         ],
         "latitude": -26.1905,
         "longitude": 28.0319,
-        "type": "institute"
+        "type": "institute",
+        "description": "The South African Institute of International Affairs (SAIIA) is an independent public policy and foreign relations think tank based in Johannesburg, South Africa. Founded in 1934 in Cape Town, the institute has been located on the campus of the University of the Witwatersrand since 1944.\nThe institute is organised under four research programmes in the fields of 'Foreign Policy', 'African Governance and Diplomacy', 'Economic Resilience and Inclusion', and 'Climate and Natural Resources'."
     },
     {
         "wikidata_id": "Q30296386",
@@ -1324,7 +1442,8 @@
         ],
         "latitude": -25.737216,
         "longitude": 28.275968,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74546618",
@@ -1334,7 +1453,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528434",
@@ -1344,7 +1464,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74546623",
@@ -1354,7 +1475,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74543396",
@@ -1364,7 +1486,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74549682",
@@ -1374,7 +1497,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552170",
@@ -1384,7 +1508,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100267117",
@@ -1396,7 +1521,8 @@
         ],
         "latitude": -33.9570101,
         "longitude": 18.4658608,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74543978",
@@ -1406,7 +1532,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74541770",
@@ -1416,7 +1543,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74542806",
@@ -1426,7 +1554,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q136450274",
@@ -1436,7 +1565,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q121591104",
@@ -1446,7 +1576,8 @@
         "aliases": null,
         "latitude": -25.7768159,
         "longitude": 28.2270295,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55829926",
@@ -1458,7 +1589,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1066492",
@@ -1476,7 +1608,8 @@
         ],
         "latitude": -33.9327778,
         "longitude": 18.8641667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948367",
@@ -1486,7 +1619,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q133896104",
@@ -1496,7 +1630,8 @@
         "aliases": null,
         "latitude": -33.9344,
         "longitude": 18.8662,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948368",
@@ -1506,7 +1641,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948369",
@@ -1516,7 +1652,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948370",
@@ -1526,7 +1663,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948371",
@@ -1536,7 +1674,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948372",
@@ -1546,7 +1685,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948157",
@@ -1556,7 +1696,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74526673",
@@ -1566,7 +1707,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74555956",
@@ -1576,7 +1718,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74542832",
@@ -1586,7 +1729,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74528367",
@@ -1596,7 +1740,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7607517",
@@ -1606,7 +1751,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Stenden South Africa is an Institution of Higher Education, located in Port Alfred in the Eastern Cape province of South Africa. It is owned by NHL Stenden University of Applied Sciences in The Netherlands. It was founded in 2002 and offers two specialised degree programmes: Bachelor of Business Administration (BBA) in Disaster Management and Bachelor of Commerce (BCom) in Hospitality Management."
     },
     {
         "wikidata_id": "Q106154248",
@@ -1616,7 +1762,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2799475",
@@ -1626,7 +1773,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2929441",
@@ -1639,7 +1787,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2554086",
@@ -1649,7 +1798,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74545061",
@@ -1659,7 +1809,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74536795",
@@ -1669,7 +1820,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q17111350",
@@ -1679,7 +1831,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7835396",
@@ -1689,7 +1842,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1147874",
@@ -1702,7 +1856,8 @@
         ],
         "latitude": -25.7322,
         "longitude": 28.1617,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q951305",
@@ -1716,7 +1871,8 @@
         ],
         "latitude": -33.9575,
         "longitude": 18.4605556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948511",
@@ -1726,7 +1882,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100948515",
@@ -1736,7 +1893,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948516",
@@ -1746,7 +1904,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948517",
@@ -1756,7 +1915,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948518",
@@ -1766,7 +1926,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945346",
@@ -1776,7 +1937,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948159",
@@ -1786,7 +1948,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948519",
@@ -1796,7 +1959,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948520",
@@ -1806,7 +1970,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948399",
@@ -1816,7 +1981,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q99290798",
@@ -1826,7 +1992,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948160",
@@ -1836,7 +2003,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948398",
@@ -1846,7 +2014,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948397",
@@ -1856,7 +2025,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948521",
@@ -1866,7 +2036,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948522",
@@ -1876,7 +2047,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948523",
@@ -1886,7 +2058,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948161",
@@ -1896,7 +2069,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948162",
@@ -1906,7 +2080,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948400",
@@ -1916,7 +2091,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100948401",
@@ -1926,7 +2102,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4355025",
@@ -1936,7 +2113,8 @@
         "aliases": null,
         "latitude": -29.82,
         "longitude": 30.946,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2005511",
@@ -1950,7 +2128,8 @@
         ],
         "latitude": -32.7875,
         "longitude": 26.8475,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948040",
@@ -1960,7 +2139,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948044",
@@ -1970,7 +2150,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1972050",
@@ -1983,7 +2164,8 @@
         ],
         "latitude": -26.1833333,
         "longitude": 27.9988889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948045",
@@ -1993,7 +2175,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948046",
@@ -2003,7 +2186,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948331",
@@ -2016,7 +2200,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948048",
@@ -2026,7 +2211,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q106606004",
@@ -2038,7 +2224,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74543429",
@@ -2048,7 +2235,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q727516",
@@ -2061,7 +2249,8 @@
         ],
         "latitude": -29.8675,
         "longitude": 30.9808,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945348",
@@ -2071,7 +2260,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948175",
@@ -2081,7 +2271,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948176",
@@ -2091,7 +2282,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945319",
@@ -2101,7 +2293,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948404",
@@ -2111,7 +2304,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948179",
@@ -2121,7 +2315,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948180",
@@ -2131,7 +2326,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q39910516",
@@ -2141,7 +2337,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948406",
@@ -2151,7 +2348,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948181",
@@ -2161,7 +2359,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948182",
@@ -2171,7 +2370,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948183",
@@ -2181,7 +2381,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945351",
@@ -2191,7 +2392,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948184",
@@ -2201,7 +2403,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948186",
@@ -2211,7 +2414,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948188",
@@ -2221,7 +2425,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948191",
@@ -2231,7 +2436,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948408",
@@ -2241,7 +2447,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948192",
@@ -2253,7 +2460,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948194",
@@ -2263,7 +2471,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q45612",
@@ -2276,7 +2485,8 @@
         ],
         "latitude": -23.8861111,
         "longitude": 29.7380556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945338",
@@ -2286,7 +2496,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945343",
@@ -2296,7 +2507,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q14979352",
@@ -2309,7 +2521,8 @@
         ],
         "latitude": -25.4365196,
         "longitude": 30.9818024,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2021166",
@@ -2322,7 +2535,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2680908",
@@ -2337,7 +2551,8 @@
         ],
         "latitude": -34.0084,
         "longitude": 25.6706,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q604444",
@@ -2355,7 +2570,8 @@
         ],
         "latitude": -25.7536,
         "longitude": 28.2297,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948491",
@@ -2365,7 +2581,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948492",
@@ -2375,7 +2592,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948493",
@@ -2385,7 +2603,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948495",
@@ -2395,7 +2614,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948496",
@@ -2405,7 +2625,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948497",
@@ -2415,7 +2636,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896157",
@@ -2425,7 +2647,8 @@
         "aliases": null,
         "latitude": -25.6506195,
         "longitude": 28.1824741,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948505",
@@ -2435,7 +2658,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100948504",
@@ -2445,7 +2669,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100948506",
@@ -2455,7 +2680,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948507",
@@ -2465,7 +2691,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948509",
@@ -2477,7 +2704,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948510",
@@ -2487,7 +2715,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948333",
@@ -2497,7 +2726,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552168",
@@ -2507,7 +2737,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q677993",
@@ -2521,7 +2752,8 @@
         ],
         "latitude": -25.7672222,
         "longitude": 28.1994444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943866",
@@ -2531,7 +2763,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943868",
@@ -2541,7 +2774,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100942505",
@@ -2551,7 +2785,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943870",
@@ -2561,7 +2796,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943871",
@@ -2571,7 +2807,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943833",
@@ -2581,7 +2818,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100943872",
@@ -2591,7 +2829,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943874",
@@ -2601,7 +2840,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100943876",
@@ -2611,7 +2851,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945360",
@@ -2621,7 +2862,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948381",
@@ -2631,7 +2873,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948537",
@@ -2641,7 +2884,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948383",
@@ -2651,7 +2895,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948164",
@@ -2661,7 +2906,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948384",
@@ -2671,7 +2917,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948385",
@@ -2681,7 +2928,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948165",
@@ -2691,7 +2939,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945362",
@@ -2701,7 +2950,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896694",
@@ -2713,7 +2963,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1678733",
@@ -2728,7 +2979,8 @@
         ],
         "latitude": -29.1044,
         "longitude": 26.1752,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948133",
@@ -2738,7 +2990,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q475700",
@@ -2756,7 +3009,8 @@
         ],
         "latitude": -33.9333,
         "longitude": 18.6333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131002189",
@@ -2771,7 +3025,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948053",
@@ -2781,7 +3036,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948540",
@@ -2791,7 +3047,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948056",
@@ -2801,7 +3058,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948127",
@@ -2811,7 +3069,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948126",
@@ -2821,7 +3080,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q534643",
@@ -2838,7 +3098,8 @@
         ],
         "latitude": -26.1908333,
         "longitude": 28.0302778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948334",
@@ -2848,7 +3109,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948402",
@@ -2858,7 +3120,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948337",
@@ -2868,7 +3131,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948340",
@@ -2878,7 +3142,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945365",
@@ -2888,7 +3153,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948343",
@@ -2898,7 +3164,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948344",
@@ -2908,7 +3175,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948345",
@@ -2918,7 +3186,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5428988",
@@ -2928,7 +3197,8 @@
         "aliases": null,
         "latitude": -26.1919,
         "longitude": 28.0294,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948347",
@@ -2938,7 +3208,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948195",
@@ -2948,7 +3219,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948403",
@@ -2958,7 +3230,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948348",
@@ -2968,7 +3241,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948350",
@@ -2978,7 +3252,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945368",
@@ -2988,7 +3263,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948352",
@@ -2998,7 +3274,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948353",
@@ -3008,7 +3285,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948357",
@@ -3018,7 +3296,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948358",
@@ -3028,7 +3307,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948359",
@@ -3038,7 +3318,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948361",
@@ -3048,7 +3329,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948362",
@@ -3058,7 +3340,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q263265",
@@ -3068,7 +3351,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q892543",
@@ -3082,7 +3366,8 @@
         ],
         "latitude": -22.9755556,
         "longitude": 30.4444444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948528",
@@ -3092,7 +3377,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948529",
@@ -3102,7 +3388,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948530",
@@ -3112,7 +3399,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948531",
@@ -3122,7 +3410,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948532",
@@ -3132,7 +3421,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948533",
@@ -3142,7 +3432,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948364",
@@ -3152,7 +3443,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948365",
@@ -3162,7 +3454,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2496192",
@@ -3175,7 +3468,8 @@
         ],
         "latitude": -28.858018,
         "longitude": 31.841082,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2399345",
@@ -3188,7 +3482,8 @@
         ],
         "latitude": -26.71058,
         "longitude": 27.8609,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25212582",
@@ -3198,7 +3493,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1860280",
@@ -3208,7 +3504,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q248919",
@@ -3221,7 +3518,8 @@
         ],
         "latitude": -32.3002196,
         "longitude": 28.2047474,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100948391",
@@ -3231,7 +3529,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q138036253",
@@ -3241,6 +3540,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     }
 ]

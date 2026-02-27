@@ -11,7 +11,8 @@
         ],
         "latitude": 0.4201111,
         "longitude": 9.4273056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104631932",
@@ -23,7 +24,8 @@
         ],
         "latitude": 0.4210278,
         "longitude": 9.4416111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104631948",
@@ -37,7 +39,8 @@
         ],
         "latitude": 0.3863056,
         "longitude": 9.4480833,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30296089",
@@ -49,7 +52,8 @@
         ],
         "latitude": -0.700023,
         "longitude": 10.237466,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q104631936",
@@ -62,7 +66,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104631929",
@@ -75,7 +80,8 @@
         ],
         "latitude": 0.3906667,
         "longitude": 9.4491111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104631931",
@@ -88,7 +94,8 @@
         ],
         "latitude": 0.5179444,
         "longitude": 9.3948333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104631940",
@@ -101,7 +108,8 @@
         ],
         "latitude": 0.4193056,
         "longitude": 9.4329722,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104631946",
@@ -114,7 +122,8 @@
         ],
         "latitude": 0.3728333,
         "longitude": 9.4638611,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104631941",
@@ -127,7 +136,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104631944",
@@ -139,7 +149,8 @@
         ],
         "latitude": 0.3899444,
         "longitude": 9.4798333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q116419633",
@@ -149,7 +160,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16643774",
@@ -159,7 +171,8 @@
         "aliases": null,
         "latitude": 0.5106356,
         "longitude": 9.3821005,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104631947",
@@ -172,7 +185,8 @@
         ],
         "latitude": 0.3471944,
         "longitude": 9.4744444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104631939",
@@ -186,7 +200,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551737",
@@ -201,7 +216,8 @@
         ],
         "latitude": -1.63039,
         "longitude": 13.5523,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55280985",
@@ -215,7 +231,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551470",
@@ -231,7 +248,8 @@
         ],
         "latitude": 0.423211,
         "longitude": 9.445244,
-        "type": "university"
+        "type": "university",
+        "description": "Omar Bongo University (French: Université Omar Bongo) is a public university which was founded as the National University of Gabon in 1970. It was renamed in honor of President Omar Bongo in 1978. It is based in Libreville, and was the country's first university."
     },
     {
         "wikidata_id": "Q104631933",
@@ -244,7 +262,8 @@
         ],
         "latitude": 0.3793056,
         "longitude": 9.4993056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104631949",
@@ -257,7 +276,8 @@
         ],
         "latitude": -1.5370833,
         "longitude": 13.24325,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104631930",
@@ -271,7 +291,8 @@
         ],
         "latitude": 0.6086322,
         "longitude": 9.3285541,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104631935",
@@ -286,7 +307,8 @@
         ],
         "latitude": 0.4233889,
         "longitude": 9.4455278,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q50361417",
@@ -301,7 +323,8 @@
         ],
         "latitude": 0.4253611,
         "longitude": 9.4430278,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104631934",
@@ -311,7 +334,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104631942",
@@ -325,7 +349,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104631945",
@@ -338,6 +363,7 @@
         ],
         "latitude": 0.3515833,
         "longitude": 9.4728333,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

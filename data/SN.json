@@ -10,7 +10,8 @@
         ],
         "latitude": 14.6623333,
         "longitude": -17.4389167,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q122204264",
@@ -20,7 +21,8 @@
         "aliases": null,
         "latitude": 14.73375,
         "longitude": -17.19719,
-        "type": "university"
+        "type": "university",
+        "description": "Amadou-Mahtar M'Bow University is a modern university in Senegal located in Diamniadio. It was inaugurated on 1 December 2022."
     },
     {
         "wikidata_id": "Q3551694",
@@ -37,7 +39,8 @@
         ],
         "latitude": 12.5482,
         "longitude": -16.2868,
-        "type": "university"
+        "type": "university",
+        "description": "Ziguinchor University or (French: Université de Ziguinchor or UDZ) is located in Ziguinchor, Casamance, Senegal. It was founded in 2007."
     },
     {
         "wikidata_id": "Q106464830",
@@ -51,7 +54,8 @@
         ],
         "latitude": 14.7146786,
         "longitude": -17.453369,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q767720",
@@ -64,7 +68,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Brighton International University - School of Medicine is an institution with final authorization delivered by the Ministry of Education of the Republic of Senegal. BIU is the first University and the first School of Medicine to operate south of the capital of the country, Dakar, in the region of Casamance.  There is at least an administrative office in Boca Raton, Florida (United States of America)."
     },
     {
         "wikidata_id": "Q1054183",
@@ -78,7 +83,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Centre de linguistique appliquée de Dakar (French for \"Center of Applied Linguistics of Dakar\"), abbreviated CLAD, is a language institute, which especially plays an important role in the orthographical standardization of the Wolof language.\nThe institute is located in Dakar (Senegal) and belongs to the Cheikh Anta Diop University ( \"Université Cheikh Anta Diop\")."
     },
     {
         "wikidata_id": "Q97621094",
@@ -88,7 +94,8 @@
         "aliases": null,
         "latitude": 16.2001389,
         "longitude": -16.2626389,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100267072",
@@ -100,7 +107,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2044761",
@@ -112,7 +120,8 @@
         ],
         "latitude": 14.6902778,
         "longitude": -17.4588889,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Council for the Development of Social Science Research in Africa (CODESRIA, French: Conseil pour le développement de la recherche en sciences sociales en Afrique) is Pan-African research organisation headquartered in Dakar, Senegal. The recently outgone President is Isabel Casimiro while Godwin Murunga is the current Executive Secretary."
     },
     {
         "wikidata_id": "Q16931090",
@@ -122,7 +131,8 @@
         "aliases": null,
         "latitude": 14.7187348,
         "longitude": -17.4495192,
-        "type": "university"
+        "type": "university",
+        "description": "Dakar Bourguiba University or (French: Université Dakar Bourguiba or UDB) is located in Dakar, Senegal. It was founded in 1995."
     },
     {
         "wikidata_id": "Q125637004",
@@ -132,7 +142,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5333198",
@@ -145,7 +156,8 @@
         ],
         "latitude": 14.70002,
         "longitude": -17.4512,
-        "type": "university"
+        "type": "university",
+        "description": "ESMT (Ecole Supérieure Multinationale des Télécommunications) is an international institution of higher learning based in Senegal. It offers professional certifications and graduate programs in telecommunication."
     },
     {
         "wikidata_id": "Q105475468",
@@ -155,7 +167,8 @@
         "aliases": null,
         "latitude": 14.731383,
         "longitude": -17.468514,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97666997",
@@ -165,7 +178,8 @@
         "aliases": null,
         "latitude": 16.5352778,
         "longitude": -15.1922222,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q115405571",
@@ -175,7 +189,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105475490",
@@ -188,7 +203,8 @@
         ],
         "latitude": 14.747713,
         "longitude": -17.3977498,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2255542",
@@ -202,7 +218,8 @@
         ],
         "latitude": 14.68353,
         "longitude": -17.467779,
-        "type": "institute"
+        "type": "institute",
+        "description": "IFAN (I.F.A.N., Institut fondamental d'Afrique noire or Fundamental Institute of Black Africa) is a cultural and scientific institute in the nations of the former French West Africa. Founded in Dakar, Senegal in 1938 as the Institut français d’Afrique noire (French Institute of Black Africa), the name was changed only in 1966. It was headquartered in what is now the building of the IFAN Museum of African Arts."
     },
     {
         "wikidata_id": "Q105475469",
@@ -216,7 +233,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105475472",
@@ -229,7 +247,8 @@
         ],
         "latitude": 14.738279,
         "longitude": -17.4647759,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105475486",
@@ -243,7 +262,8 @@
         ],
         "latitude": 14.7231278,
         "longitude": -17.4726391,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105475473",
@@ -257,7 +277,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125865536",
@@ -267,7 +288,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3152637",
@@ -277,7 +299,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q105475470",
@@ -290,7 +313,8 @@
         ],
         "latitude": 14.7112041,
         "longitude": -17.4668012,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105475476",
@@ -300,7 +324,8 @@
         "aliases": null,
         "latitude": 14.6983983,
         "longitude": -17.4590187,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125253753",
@@ -312,7 +337,8 @@
         ],
         "latitude": 14.7160941,
         "longitude": -17.4660709,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134466056",
@@ -322,7 +348,8 @@
         "aliases": null,
         "latitude": 14.6955721,
         "longitude": -17.4513772,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3152335",
@@ -335,7 +362,8 @@
         ],
         "latitude": 48.8628874,
         "longitude": 2.2782039,
-        "type": "university"
+        "type": "university",
+        "description": "The International Institute for Educational Planning (IIEP – UNESCO) is an arm of UNESCO created in 1963 in Paris, France, with Headquarters in Paris, and Regional Offices in Buenos Aires and Dakar. It develops the capacities of education actors to plan and manage their education systems through its programmes of training, technical assistance, policy research and knowledge sharing."
     },
     {
         "wikidata_id": "Q3551371",
@@ -351,7 +379,8 @@
         ],
         "latitude": 14.6959099,
         "longitude": -16.4783497,
-        "type": "university"
+        "type": "university",
+        "description": "Alioune Diop University of Bambey (French: Université Alioune Diop de Bambey) is a public higher education institution located in Bambey in the Diourbel region of west-central Senegal. The university is a member of the Agence universitaire de la Francophonie."
     },
     {
         "wikidata_id": "Q105475483",
@@ -364,7 +393,8 @@
         ],
         "latitude": 14.7345837,
         "longitude": -17.1982207,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105475479",
@@ -377,7 +407,8 @@
         ],
         "latitude": 14.8600176,
         "longitude": -15.8965667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q671363",
@@ -394,7 +425,8 @@
         ],
         "latitude": 14.686955,
         "longitude": -17.463338,
-        "type": "university"
+        "type": "university",
+        "description": "Cheikh Anta Diop University (UCAD) (French: Université Cheikh Anta Diop), is a university in Dakar, Senegal. It is named after the Senegalese physicist, historian and anthropologist Cheikh Anta Diop and has an enrollment of over 60,000."
     },
     {
         "wikidata_id": "Q3551395",
@@ -409,7 +441,8 @@
         ],
         "latitude": 14.7188,
         "longitude": -17.4495,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551680",
@@ -424,7 +457,8 @@
         ],
         "latitude": 14.7752,
         "longitude": -16.8787,
-        "type": "university"
+        "type": "university",
+        "description": "Université de Thiès (UT - University of Thiès) is located in Thiès, Senegal. It was founded in 2007."
     },
     {
         "wikidata_id": "Q3551765",
@@ -439,7 +473,8 @@
         ],
         "latitude": 14.7115167,
         "longitude": -17.4782584,
-        "type": "university"
+        "type": "university",
+        "description": "Université du Sahel (UNIS) is located in Dakar, Senegal. It was founded in 1998."
     },
     {
         "wikidata_id": "Q30266542",
@@ -454,7 +489,8 @@
         ],
         "latitude": 14.706055,
         "longitude": -17.47766,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551411",
@@ -470,7 +506,8 @@
         ],
         "latitude": 16.0625,
         "longitude": -16.4258333,
-        "type": "university"
+        "type": "university",
+        "description": "Gaston Berger University (GBU), or L'Université Gaston Berger (UGB), located some 12 km (7.5 mi) outside Saint-Louis, was the second university established in Senegal (the first being Cheikh Anta Diop University). Originally the University of Saint-Louis, it was renamed for Gaston Berger, an important French-Senegalese philosopher, on December 4, 1996."
     },
     {
         "wikidata_id": "Q105475466",
@@ -483,7 +520,8 @@
         ],
         "latitude": 16.0257988,
         "longitude": -16.4942455,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105475480",
@@ -496,7 +534,8 @@
         ],
         "latitude": 14.1639673,
         "longitude": -16.1260747,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7984265",
@@ -508,7 +547,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The West African Research Center (WARC, French: Centre de recherche ouest-africain) is the overseas research center for the United States–based West African Research Association (WARA). It is located in Dakar, Senegal. WARC is a center for academic exchange between American and West African scholars that encourages research on the region of West Africa."
     },
     {
         "wikidata_id": "Q105475471",
@@ -522,7 +562,8 @@
         ],
         "latitude": 14.7241119,
         "longitude": -17.4596739,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105475474",
@@ -537,7 +578,8 @@
         ],
         "latitude": 14.6982096,
         "longitude": -17.4618039,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105475465",
@@ -552,7 +594,8 @@
         ],
         "latitude": 14.6746216,
         "longitude": -17.4351524,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105475477",
@@ -567,7 +610,8 @@
         ],
         "latitude": 14.7250614,
         "longitude": -17.4735434,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105475478",
@@ -580,7 +624,8 @@
         ],
         "latitude": 14.7293624,
         "longitude": -17.445193,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105475482",
@@ -595,6 +640,7 @@
         ],
         "latitude": 14.7040102,
         "longitude": -17.4632244,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

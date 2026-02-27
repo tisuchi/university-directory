@@ -9,7 +9,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122270858",
@@ -19,7 +20,8 @@
         "aliases": null,
         "latitude": 12.1283,
         "longitude": 15.09,
-        "type": "university"
+        "type": "university",
+        "description": "HEC-Chad University is located in N'Djamena, Chad. The HEC-Chad Institute was created in 2003 and became a university by Decree No. 453\/PR\/PM\/MESRI\/SEESRI\/SG\/DGRESRS\/DESP\/2016 on December 9, 2016."
     },
     {
         "wikidata_id": "Q125497946",
@@ -29,7 +31,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q121745579",
@@ -39,7 +42,8 @@
         "aliases": null,
         "latitude": 12.0932789,
         "longitude": 15.0581937,
-        "type": "university"
+        "type": "university",
+        "description": "The National Higher School of Information and Communication Technologies (ENASTIC) is a public institution for education, research, innovation, and higher training in the fields of electronic communications. It was established by ordinance number 005\/PR\/2015 on March 2, 2015 (2015-03-02) and has legal personality and financial autonomy. ENASTIC is administered by a board of directors, led by a general director, and falls under the supervision of the Ministry of Posts and New Information Technologies."
     },
     {
         "wikidata_id": "Q122270782",
@@ -49,7 +53,8 @@
         "aliases": null,
         "latitude": 12.12703,
         "longitude": 15.04153,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122270892",
@@ -59,7 +64,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134354332",
@@ -69,7 +75,8 @@
         "aliases": null,
         "latitude": 12.0195746,
         "longitude": 15.1128024,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134357585",
@@ -79,7 +86,8 @@
         "aliases": null,
         "latitude": 12.093325,
         "longitude": 15.054619,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134369457",
@@ -89,7 +97,8 @@
         "aliases": null,
         "latitude": 12.0931455,
         "longitude": 15.0652622,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134451658",
@@ -99,7 +108,8 @@
         "aliases": null,
         "latitude": 8.5442654,
         "longitude": 16.0674686,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134456426",
@@ -109,7 +119,8 @@
         "aliases": null,
         "latitude": 12.0974133,
         "longitude": 15.0574862,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134539207",
@@ -119,7 +130,8 @@
         "aliases": null,
         "latitude": 12.11823,
         "longitude": 15.0701382,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134567244",
@@ -129,7 +141,8 @@
         "aliases": null,
         "latitude": 12.099382,
         "longitude": 15.0930739,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134567280",
@@ -139,7 +152,8 @@
         "aliases": null,
         "latitude": 12.1350869,
         "longitude": 15.0556986,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134569879",
@@ -149,7 +163,8 @@
         "aliases": null,
         "latitude": 12.1007962,
         "longitude": 15.0608056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134572038",
@@ -159,7 +174,8 @@
         "aliases": null,
         "latitude": 12.0946374,
         "longitude": 15.0744001,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q136723426",
@@ -169,7 +185,8 @@
         "aliases": null,
         "latitude": 12.1329955,
         "longitude": 15.0442505,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3152764",
@@ -179,7 +196,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3152772",
@@ -189,7 +207,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q121741779",
@@ -201,7 +220,8 @@
         ],
         "latitude": 9.1721251,
         "longitude": 18.3719033,
-        "type": "university"
+        "type": "university",
+        "description": "Saint Charles Lwanga University of Sarh is a university located in Sarh, Chad. It was an initiative of the Association of Former Students of Charles Lwanga High School in Sarh and was established under decree No. 704\/PR\/PM\/MESRI\/SEESRI\/SG\/DGSRI\/DES\/2017."
     },
     {
         "wikidata_id": "Q3551638",
@@ -213,7 +233,8 @@
         ],
         "latitude": 8.63,
         "longitude": 16.028,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Moundou (UDM) is a public higher education institution in Chad, located in the city of Moundou in the southwest of the country."
     },
     {
         "wikidata_id": "Q1678185",
@@ -230,7 +251,8 @@
         ],
         "latitude": 12.1047,
         "longitude": 15.0444,
-        "type": "university"
+        "type": "university",
+        "description": "The University of N'Djamena (Arabic: جامعة انجامينا, French: Université de N'Djamena, UNDT) is the leading institution of higher education located in N'Djamena in Chad. It was created in 1971 as the University of Chad, and was renamed \"University of N'Djamena\" in 1994."
     },
     {
         "wikidata_id": "Q3551736",
@@ -242,7 +264,8 @@
         ],
         "latitude": 13.2307,
         "longitude": 18.3589,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Science and Technology of Ati (USTA) was founded in March 2008. It is located  near Ati, Chad. in the Batha region, in central Chad."
     },
     {
         "wikidata_id": "Q3551366",
@@ -255,7 +278,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551580",
@@ -267,7 +291,8 @@
         ],
         "latitude": 8.713,
         "longitude": 16.82,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Doba is a Chadian public institution of higher education located in the city of Doba."
     },
     {
         "wikidata_id": "Q3551669",
@@ -279,7 +304,8 @@
         ],
         "latitude": 9.0813889,
         "longitude": 18.4252778,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Sarh is a public higher education institution in Chad, located in the city of Sarh."
     },
     {
         "wikidata_id": "Q56326652",
@@ -292,7 +318,8 @@
         ],
         "latitude": 12.0932778,
         "longitude": 15.0778056,
-        "type": "university"
+        "type": "university",
+        "description": "Emi Koussi University or UNEK is a private institution of higher education established since November 2011 by decree of the Ministry of Higher Education of Chad.\nUNEK is located in N'Djamena, specifically in the Moursal neighborhood of the 6th arrondissement.\nThe chairman of the university's board of directors is Allaradi Koné."
     },
     {
         "wikidata_id": "Q100707287",
@@ -306,7 +333,8 @@
         ],
         "latitude": 12.1458056,
         "longitude": 15.0598333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100707285",
@@ -320,6 +348,7 @@
         ],
         "latitude": 12.09875,
         "longitude": 15.0594722,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

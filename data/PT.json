@@ -11,7 +11,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "42 is a private institution of education in computer science founded by Xavier Niel, Nicolas Sadirac (former executive director at Epitech), Kwame Yamgnane, and Florian Bucher (former executives at Epitech). The school opened in Paris in 2013. The school does not have any professors and is open 24\/7."
     },
     {
         "wikidata_id": "Q4671102",
@@ -21,7 +22,8 @@
         "aliases": null,
         "latitude": 38.6632694,
         "longitude": -9.1467667,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Academia de Marinha (Portuguese for \"Navy Academy\" or \"Marine Academy\"), MembIH is the cultural agency of the Portuguese Navy under the Chief of Naval Staff. Its purpose is to promote and to publish artistic, literary, historical, and scientific studies relating to the sea and maritime activities. Its offices are located in Lisbon at the Naval Headquarters, Rua do Arsenal."
     },
     {
         "wikidata_id": "Q62523026",
@@ -34,7 +36,8 @@
         ],
         "latitude": 37.741289,
         "longitude": -25.664598,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q66942613",
@@ -44,7 +47,8 @@
         "aliases": null,
         "latitude": 40.211778,
         "longitude": -8.427088,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q66943548",
@@ -56,7 +60,8 @@
         ],
         "latitude": 40.15474,
         "longitude": -8.108958,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q66942142",
@@ -66,7 +71,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q66942825",
@@ -76,7 +82,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10317952",
@@ -86,7 +93,8 @@
         "aliases": null,
         "latitude": 38.711877,
         "longitude": -9.149432,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20053121",
@@ -96,7 +104,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74552285",
@@ -106,7 +115,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530675",
@@ -116,7 +126,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74538491",
@@ -126,7 +137,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q131433533",
@@ -136,7 +148,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3052794",
@@ -149,7 +162,8 @@
         ],
         "latitude": 38.73722,
         "longitude": -9.15417,
-        "type": "university"
+        "type": "university",
+        "description": "The Calouste Gulbenkian Foundation (Portuguese: Fundação Calouste Gulbenkian), commonly referred to simply as the Gulbenkian Foundation, is a Portuguese institution dedicated to the promotion of the arts, philanthropy, science, and education. One of the wealthiest charitable foundations in the world, the Gulbenkian Foundation was founded on 18 July 1956 according to the last will and testament of Calouste Sarkis Gulbenkian, an Armenian Portugal-based oil magnate who bequeathed his assets to the country in the form of a foundation.\nGulbenkian had one of the largest private art collections in Europe, which is housed in the foundation's Calouste Gulbenkian Museum in Lisbon."
     },
     {
         "wikidata_id": "Q5028833",
@@ -159,7 +173,8 @@
         "aliases": null,
         "latitude": 38.730261,
         "longitude": -9.143101,
-        "type": "university"
+        "type": "university",
+        "description": "The Secondary School Luís de Camões (Portuguese: Escola Secundária Luís de Camões) is a secondary school located in the civil parish of Arroios, in the municipality and Portuguese capital of Lisbon, classified as a Monumento de Interesse Público (Monument of Public Interest) in 2012.\nFounded in 1902 and named after Portuguese poet Luís de Camões, it is one of the largest and most prestigious secondary schools in Lisbon, known for the many important Portuguese public figures who have attended it, including novelist António Lobo Antunes, current UN Secretary-General António Guterres and former President of the European Commission José Manuel Barroso."
     },
     {
         "wikidata_id": "Q131921021",
@@ -171,7 +186,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111668146",
@@ -181,7 +197,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q29572084",
@@ -193,7 +210,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q14176903",
@@ -205,7 +223,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18484650",
@@ -215,7 +234,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5062371",
@@ -225,7 +245,8 @@
         "aliases": null,
         "latitude": 41.1506361,
         "longitude": -8.6386611,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Centro de Astrofísica da Universidade do Porto (Centre for Astrophysics of the University of Porto - CAUP) is a private, non-profit scientific association, recognized as being of public utility by the Portuguese Government. It was created in May of 1989 by the Universidade do Porto.\nIts objectives include the promotion and support of astronomy through\n\nresearch\neducation at graduate and undergraduate levels\nactivities for primary and secondary schools\nscience outreach and the popularisation of astronomy\nCAUP is responsible for the scientific management of the Porto Planetarium."
     },
     {
         "wikidata_id": "Q111668151",
@@ -237,7 +258,8 @@
         ],
         "latitude": 38.722716,
         "longitude": -9.139264,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q101033431",
@@ -249,7 +271,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74544523",
@@ -259,7 +282,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q111668147",
@@ -269,7 +293,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74536103",
@@ -281,7 +306,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74555663",
@@ -291,7 +317,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q111668150",
@@ -303,7 +330,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18483769",
@@ -315,7 +343,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q111668149",
@@ -330,7 +359,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3664709",
@@ -340,7 +370,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q111668148",
@@ -350,7 +381,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74551472",
@@ -362,7 +394,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74536368",
@@ -372,7 +405,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q112085338",
@@ -382,7 +416,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2879311",
@@ -394,7 +429,8 @@
         ],
         "latitude": 40.20953,
         "longitude": -8.42086,
-        "type": "university"
+        "type": "university",
+        "description": "The Associação Académica de Coimbra (AAC) is the students' union of the University of Coimbra (UC). Founded in Coimbra on November 3, 1887, it is the oldest students' union in Portugal. It is also the biggest Portuguese students' union belonging to an independent institution, since it represents all the students of its university, who gain automatic membership into the AAC as students of the University of Coimbra (25,580 students as of 2021)."
     },
     {
         "wikidata_id": "Q5150419",
@@ -407,7 +443,8 @@
         ],
         "latitude": 41.16,
         "longitude": -8.6397222,
-        "type": "university"
+        "type": "university",
+        "description": "The College of the Marists (Portuguese: Colégio dos Maristas) is a former-college in the civil parish of Lordelo do Ouro e Massarelos, in the municipality of Porto, in the Portuguese district of the same name."
     },
     {
         "wikidata_id": "Q66942378",
@@ -417,7 +454,8 @@
         "aliases": null,
         "latitude": 40.141121,
         "longitude": -8.471497,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q76950216",
@@ -427,7 +465,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q66942208",
@@ -437,7 +476,8 @@
         "aliases": null,
         "latitude": 40.20688,
         "longitude": -8.425498,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10357812",
@@ -449,7 +489,8 @@
         ],
         "latitude": 40.209483,
         "longitude": -8.423269,
-        "type": "university"
+        "type": "university",
+        "description": "The Colégio das Artes (College of the Arts) is an academic unit of the University of Coimbra that operates in the field of contemporary art in its relation to architecture, film and the performing arts in an interdisciplinary perspective."
     },
     {
         "wikidata_id": "Q17372972",
@@ -459,7 +500,8 @@
         "aliases": null,
         "latitude": 38.7609306,
         "longitude": -9.1533583,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q66942217",
@@ -469,7 +511,8 @@
         "aliases": null,
         "latitude": 40.206909,
         "longitude": -8.426826,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q66942563",
@@ -479,7 +522,8 @@
         "aliases": null,
         "latitude": 40.212581,
         "longitude": -8.429958,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q66942659",
@@ -491,7 +535,8 @@
         ],
         "latitude": 40.212199,
         "longitude": -8.430131,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q39875483",
@@ -501,7 +546,8 @@
         "aliases": null,
         "latitude": 40.208641,
         "longitude": -8.422905,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q66942963",
@@ -511,7 +557,8 @@
         "aliases": null,
         "latitude": 40.203793,
         "longitude": -8.421454,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q66942543",
@@ -521,7 +568,8 @@
         "aliases": null,
         "latitude": 40.214559,
         "longitude": -8.431681,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q66813732",
@@ -531,7 +579,8 @@
         "aliases": null,
         "latitude": 38.573233,
         "longitude": -7.904607,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q66815970",
@@ -545,7 +594,8 @@
         ],
         "latitude": 32.674752,
         "longitude": -16.903461,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q76956828",
@@ -555,7 +605,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q14541205",
@@ -567,7 +618,8 @@
         ],
         "latitude": 32.65008,
         "longitude": -16.909541,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q54566000",
@@ -577,7 +629,8 @@
         "aliases": null,
         "latitude": 41.150181,
         "longitude": -8.582995,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q76953552",
@@ -587,7 +640,8 @@
         "aliases": null,
         "latitude": 41.12786,
         "longitude": -8.61056,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17117435",
@@ -597,7 +651,8 @@
         "aliases": null,
         "latitude": 38.712402,
         "longitude": -9.146685,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74538061",
@@ -607,7 +662,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q126953370",
@@ -617,7 +673,8 @@
         "aliases": null,
         "latitude": 38.7366667,
         "longitude": -9.1388889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112106851",
@@ -627,7 +684,8 @@
         "aliases": null,
         "latitude": 32.646,
         "longitude": -16.91555,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q76947310",
@@ -637,7 +695,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q117074140",
@@ -647,7 +706,8 @@
         "aliases": null,
         "latitude": 32.66616,
         "longitude": -16.94095,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q109248203",
@@ -661,7 +721,8 @@
         ],
         "latitude": 41.150651,
         "longitude": -8.601719,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q76951137",
@@ -671,7 +732,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q70104376",
@@ -681,7 +743,8 @@
         "aliases": null,
         "latitude": 40.90381,
         "longitude": -8.493095,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q76949182",
@@ -691,7 +754,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q73770047",
@@ -701,7 +765,8 @@
         "aliases": null,
         "latitude": 38.7391815,
         "longitude": -9.139679,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q98807385",
@@ -711,7 +776,8 @@
         "aliases": null,
         "latitude": 33.0621947,
         "longitude": -16.3332192,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q76957285",
@@ -721,7 +787,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q76957293",
@@ -731,7 +798,8 @@
         "aliases": null,
         "latitude": 39.481308,
         "longitude": -8.533858,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q66814794",
@@ -743,7 +811,8 @@
         ],
         "latitude": 41.15997,
         "longitude": -8.599604,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28679221",
@@ -753,7 +822,8 @@
         "aliases": null,
         "latitude": 32.6520785,
         "longitude": -16.9051238,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q73770534",
@@ -765,7 +835,8 @@
         ],
         "latitude": 40.640523,
         "longitude": -8.654663,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10274431",
@@ -775,7 +846,8 @@
         "aliases": null,
         "latitude": 32.6496,
         "longitude": -16.901225,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10274435",
@@ -785,7 +857,8 @@
         "aliases": null,
         "latitude": 40.211617,
         "longitude": -8.412913,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10274442",
@@ -795,7 +868,8 @@
         "aliases": null,
         "latitude": 41.155525,
         "longitude": -8.623147,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10274458",
@@ -805,7 +879,8 @@
         "aliases": null,
         "latitude": 41.15859,
         "longitude": -8.594361,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10274467",
@@ -819,7 +894,8 @@
         ],
         "latitude": 41.184496,
         "longitude": -8.662277,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10274479",
@@ -829,7 +905,8 @@
         "aliases": null,
         "latitude": 38.7133333,
         "longitude": -9.1480556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29522585",
@@ -839,7 +916,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74542242",
@@ -849,7 +927,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q29522874",
@@ -859,7 +938,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74536420",
@@ -869,7 +949,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18374505",
@@ -881,7 +962,8 @@
         ],
         "latitude": 38.70725,
         "longitude": -9.152444,
-        "type": "university"
+        "type": "university",
+        "description": "The European University (Portuguese: Universidade Europeia, abbr.: UE), also known as the European University of Lisbon and the European University at Lisbon (Portuguese: Universidade Europeia em Lisboa, abbr.: UEL) is a private university in Lisbon, Portugal.\nThe school was owned by Laureate Education, Inc., is now part of ENSILIS  and has 2,300 students."
     },
     {
         "wikidata_id": "Q20055490",
@@ -898,7 +980,8 @@
         ],
         "latitude": 38.756264,
         "longitude": -9.156427,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q634834",
@@ -910,7 +993,8 @@
         ],
         "latitude": 41.1733667,
         "longitude": -8.61135,
-        "type": "university"
+        "type": "university",
+        "description": "Fernando Pessoa University (UFP; Portuguese: Universidade Fernando Pessoa) is a private university located in Porto and Ponte de Lima, Portugal. It was founded in 1996 and named after Fernando Pessoa, a Portuguese writer and poet."
     },
     {
         "wikidata_id": "Q10287827",
@@ -920,7 +1004,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5551226",
@@ -930,7 +1015,8 @@
         "aliases": null,
         "latitude": 38.7586098,
         "longitude": -9.1636486,
-        "type": "university"
+        "type": "university",
+        "description": "Deutsche Schule Lissabon (Portuguese: Escola Alemã de Lisboa, EAL; German School of Lisbon) is a private German international school situated in the Lumiar district of Lisbon, Portugal. Founded in 1848, the Deutsche Schule Lissabon is the oldest German school in the Iberian Peninsula.\nThe school consists of a primary school with kindergarten and a secondary school."
     },
     {
         "wikidata_id": "Q10302682",
@@ -940,7 +1026,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10302527",
@@ -950,7 +1037,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529765",
@@ -960,7 +1048,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q66942136",
@@ -972,7 +1061,8 @@
         ],
         "latitude": 40.21345,
         "longitude": -8.430656,
-        "type": "college"
+        "type": "college",
+        "description": "Igreja da Graça  is a church in Portugal. It is classified as a National Monument."
     },
     {
         "wikidata_id": "Q10302873",
@@ -984,7 +1074,8 @@
         ],
         "latitude": 38.700219,
         "longitude": -9.18653,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2492346",
@@ -994,7 +1085,8 @@
         "aliases": null,
         "latitude": 38.7565472,
         "longitude": -9.1074333,
-        "type": "university"
+        "type": "university",
+        "description": "Independente University (in Portuguese Universidade Independente or UnI for short) was a private university, headquartered in Lisbon, Portugal, founded in 1993 by Luís Arouca, Rui Verde and Amadeu Lima Carvalho; it was owned by SIDES (Sociedade Independente Para O Desenvolvimento do Ensino Superior).  UnI was closed by order of the state education authorities in 2007, due to pedagogical and financial irregularities."
     },
     {
         "wikidata_id": "Q15227658",
@@ -1007,7 +1099,8 @@
         ],
         "latitude": 41.1794,
         "longitude": -8.59539,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute for Systems and Computer Engineering, Technology and Science (INESC TEC) is a research & development institute at the Faculty of Engineering of the University of Porto in Portugal. Present in 6 sites in the cities of Porto, Braga and Vila Real, INESC TEC incorporates 13 R&D Centres and one Associate Unit with complementary competences, always looking to the international market. INESC TEC brings together more than 700 researchers, of which around 350 have PhDs."
     },
     {
         "wikidata_id": "Q16986195",
@@ -1019,7 +1112,8 @@
         ],
         "latitude": 38.7362113,
         "longitude": -9.1410125,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Instituto de Engenharia de Sistemas e Computadores - Investigação e Desenvolvimento (INESC-ID, English: Institute of Systems and Computer Engineering - Research and Development) is a non-profit, privately owned institution of public interest, in Lisbon, Portugal, dedicated to advanced research and development in the domains of electronics, energy, telecommunications and information technologies. It was awarded the status of Associate Laboratory of the Portuguese Ministry for Science and Technology in 2005."
     },
     {
         "wikidata_id": "Q74539666",
@@ -1031,7 +1125,8 @@
         ],
         "latitude": 41.3840576,
         "longitude": 2.1648284,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q109514823",
@@ -1043,7 +1138,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q29571384",
@@ -1055,7 +1151,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10302765",
@@ -1067,7 +1164,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6039540",
@@ -1077,7 +1175,8 @@
         "aliases": null,
         "latitude": 38.7486742,
         "longitude": -9.1680629,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute for Political Studies (Portuguese: Instituto de Estudos Políticos, IEP) of the Catholic University of Portugal (Portuguese: Universidade Católica Portuguesa, UCP) is a Portuguese research institution focusing on political science and political philosophy.\nIt was created on 1 September 1997, at the Lisbon campus of the Catholic University of Portugal. The IEP was the only Portuguese think tank to get nominated for the top Think Tanks of World, according to The Global \"Go-To Think Tanks\": The Leading Public Policy Research Organizations in the World, 2008, published by the Think Tanks and Civil Societies Program of the University of Pennsylvania."
     },
     {
         "wikidata_id": "Q109514201",
@@ -1090,7 +1189,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q13847486",
@@ -1103,7 +1203,8 @@
         ],
         "latitude": 41.463855,
         "longitude": -8.153953,
-        "type": "university"
+        "type": "university",
+        "description": "IESF - Instituto de Estudos Superios de Fafe is an institute of higher education formed in 1985, in Fafe, Portugal."
     },
     {
         "wikidata_id": "Q105886482",
@@ -1115,7 +1216,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q62080174",
@@ -1131,7 +1233,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Abel Salazar Institute of Biomedical Sciences (Portuguese: Instituto de Ciências Biomédicas Abel Salazar, ICBAS) is a medical and life sciences graduate school of the University of Porto, named after the Portuguese and local physician Abel Salazar. The Institute teaches medicine – including specialities such as oncology, public health and mental health – as well as marine biology, veterinary medicine, biochemistry, and bioengineering."
     },
     {
         "wikidata_id": "Q10302792",
@@ -1141,7 +1244,8 @@
         "aliases": null,
         "latitude": 38.7496806,
         "longitude": -9.1525806,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q111668152",
@@ -1151,7 +1255,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q111668153",
@@ -1161,7 +1266,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q28134119",
@@ -1173,7 +1279,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q111668158",
@@ -1183,7 +1290,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q111668155",
@@ -1193,7 +1301,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q111668157",
@@ -1205,7 +1314,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q111668156",
@@ -1215,7 +1325,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10302887",
@@ -1227,7 +1338,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10302897",
@@ -1240,7 +1352,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6041703",
@@ -1250,7 +1363,8 @@
         "aliases": null,
         "latitude": 38.736634,
         "longitude": -9.1386129,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q112085386",
@@ -1263,7 +1377,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10302632",
@@ -1273,7 +1388,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74556684",
@@ -1283,7 +1399,8 @@
         "aliases": null,
         "latitude": 41.7939592,
         "longitude": -6.7696854,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q86726807",
@@ -1293,7 +1410,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10302676",
@@ -1303,7 +1421,8 @@
         "aliases": null,
         "latitude": 38.7083333,
         "longitude": -9.1494444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q48879632",
@@ -1315,7 +1434,8 @@
         ],
         "latitude": 32.65392,
         "longitude": -16.9097,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6041507",
@@ -1328,7 +1448,8 @@
         ],
         "latitude": 38.80672,
         "longitude": -9.191808,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10302686",
@@ -1338,7 +1459,8 @@
         "aliases": null,
         "latitude": 38.71321,
         "longitude": -9.19749,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10302698",
@@ -1350,7 +1472,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10302702",
@@ -1360,7 +1483,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10302677",
@@ -1372,7 +1496,8 @@
         ],
         "latitude": 37.140417,
         "longitude": -8.535889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10302678",
@@ -1384,7 +1509,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74537609",
@@ -1394,7 +1520,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10302689",
@@ -1404,7 +1531,8 @@
         "aliases": null,
         "latitude": 38.6677778,
         "longitude": -9.1988889,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6047620",
@@ -1414,7 +1542,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6051048",
@@ -1426,7 +1555,8 @@
         ],
         "latitude": 41.555,
         "longitude": -8.3997222,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q29566102",
@@ -1439,7 +1569,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2886844",
@@ -1458,7 +1589,8 @@
         ],
         "latitude": 38.7488889,
         "longitude": -9.1538889,
-        "type": "institute"
+        "type": "institute",
+        "description": "ISCTE – IUL (Instituto Universitário de Lisboa) is a Portuguese public tertiary education institution. It is located in the city centre of Lisbon, in Cidade Universitária, adjoining the Institute of Social Sciences (ICS) and Institute of Geography and Spatial Planning (IGOT) of the University of Lisbon. ISCTE was founded in 1972, starting with three degrees and 296 students."
     },
     {
         "wikidata_id": "Q5974041",
@@ -1470,7 +1602,8 @@
         ],
         "latitude": 41.2678164,
         "longitude": -8.617116,
-        "type": "university"
+        "type": "university",
+        "description": "ISMAI - Instituto Universitário da Maia is an institute of higher education formed in 1990 in Maia, Portugal.\nAcademic first degrees:\n\nPsychology\nPsychosocial Counseling\nCommunication Sciences\nPhysical Education and Sports\nLaw (solicitors training)\nAccountancy\nBusiness Administration\nPublic Relations\nInformation Systems and Software\nHuman Resources Management\nTechnologies of Multimedia Communication\nHealth and Safety in Work\nTelecommunication Networks\nManagement Informatics\nSports Management\nPostgraduate degrees and Diplomas:\nDoctoral Programmes:\n\nUniv. of Salamanca (Spain) PhD degree in \"Clinical Neuropsychology\" in collaboration with ISMAI\nUniv."
     },
     {
         "wikidata_id": "Q10299478",
@@ -1483,7 +1616,8 @@
         ],
         "latitude": 38.71223,
         "longitude": -9.12595,
-        "type": "university"
+        "type": "university",
+        "description": "ISPA – Instituto Universitário (English: Institute of Applied Psychology, officially Instituto Universitário de Ciências Psicológicas, Sociais e da Vida MH) is a private research university institute located in Lisbon. Founded in 1962 as Instituto de Ciências Psicopedagógicas, it was the first institution of higher education in the area of psychology in Portugal. According to the Academic Ranking of World Universities, ISPA is among the top 400 universities in the world in the field of psychology."
     },
     {
         "wikidata_id": "Q10302945",
@@ -1495,7 +1629,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q66942957",
@@ -1505,7 +1640,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16969173",
@@ -1515,7 +1651,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q116235689",
@@ -1525,7 +1662,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q131920922",
@@ -1541,7 +1679,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10317943",
@@ -1551,7 +1690,8 @@
         "aliases": null,
         "latitude": 41.1483444,
         "longitude": -8.5944083,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q66943410",
@@ -1561,7 +1701,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q66942734",
@@ -1571,7 +1712,8 @@
         "aliases": null,
         "latitude": 40.206637,
         "longitude": -8.407615,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74474338",
@@ -1581,7 +1723,8 @@
         "aliases": null,
         "latitude": 38.010932,
         "longitude": -7.863263,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q96242874",
@@ -1591,7 +1734,8 @@
         "aliases": null,
         "latitude": 41.6995086,
         "longitude": -8.8228836,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1367284",
@@ -1604,7 +1748,8 @@
         ],
         "latitude": 38.7633029,
         "longitude": -9.2354465,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q635878",
@@ -1617,7 +1762,8 @@
         ],
         "latitude": 38.69787,
         "longitude": -9.192153,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2478211",
@@ -1630,7 +1776,8 @@
         ],
         "latitude": 41.1758333,
         "longitude": -8.5825,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q15243446",
@@ -1640,7 +1787,8 @@
         "aliases": null,
         "latitude": 32.6588889,
         "longitude": -16.9244444,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6889102",
@@ -1652,7 +1800,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10302726",
@@ -1662,7 +1811,8 @@
         "aliases": null,
         "latitude": 38.70916,
         "longitude": -9.1678,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q29564165",
@@ -1672,7 +1822,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6041416",
@@ -1684,7 +1835,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6041395",
@@ -1697,7 +1849,8 @@
         ],
         "latitude": 38.7692954,
         "longitude": -9.1815165,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Instituto Nacional de Engenharia, Tecnologia e Inovação (National Institute of Engineering, Technology and Innovation), usually known as INETI for short, was a state-run R&D institution in Lisbon, Portugal, with scientific and technological activities in areas like new systems, processes and products; environmental and sustainable management; geological resources and risks; citizen protection, health and safety; space and defence; laboratory support and testing; etc.\nIn 2007 it was merged into the Laboratório Nacional de Energia e Geologia.\nThe Instituto Nacional de Engenharia, Tecnologia e Inovação (National Institute for Engineering, Technology and Innovation) carries out research, testing and technological development."
     },
     {
         "wikidata_id": "Q6041414",
@@ -1710,7 +1863,8 @@
         ],
         "latitude": 38.764782,
         "longitude": -9.164014,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q29525204",
@@ -1722,7 +1876,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1979891",
@@ -1736,7 +1891,8 @@
         ],
         "latitude": 38.7336,
         "longitude": -9.16028,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135972132",
@@ -1753,7 +1909,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74526686",
@@ -1763,7 +1920,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q106170750",
@@ -1773,7 +1931,8 @@
         "aliases": null,
         "latitude": 41.1526039,
         "longitude": -8.6738331,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10387859",
@@ -1788,7 +1947,8 @@
         ],
         "latitude": 41.18,
         "longitude": -8.606944,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7227028",
@@ -1800,7 +1960,8 @@
         ],
         "latitude": 38.01362,
         "longitude": -7.863271,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10302635",
@@ -1813,7 +1974,8 @@
         ],
         "latitude": 41.7968517,
         "longitude": -6.7684324,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7227029",
@@ -1825,7 +1987,8 @@
         ],
         "latitude": 39.8214565,
         "longitude": -7.5008732,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10302637",
@@ -1837,7 +2000,8 @@
         ],
         "latitude": 39.8214565,
         "longitude": -7.5008732,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2103165",
@@ -1849,7 +2013,8 @@
         ],
         "latitude": 40.2048285,
         "longitude": -8.4563921,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10302640",
@@ -1861,7 +2026,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7227031",
@@ -1873,7 +2039,8 @@
         ],
         "latitude": 39.7375679,
         "longitude": -8.8138905,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1363371",
@@ -1885,7 +2052,8 @@
         ],
         "latitude": 38.7495868,
         "longitude": -9.1956503,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q29522510",
@@ -1897,7 +2065,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4348556",
@@ -1909,7 +2078,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10302639",
@@ -1921,7 +2091,8 @@
         ],
         "latitude": 39.2218942,
         "longitude": -8.6887123,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10302638",
@@ -1931,7 +2102,8 @@
         "aliases": null,
         "latitude": 38.5198114,
         "longitude": -8.8394546,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q29565528",
@@ -1944,7 +2116,8 @@
         ],
         "latitude": 39.600562,
         "longitude": -8.3924097,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7227039",
@@ -1958,7 +2131,8 @@
         ],
         "latitude": 41.6922688,
         "longitude": -8.8348206,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10302641",
@@ -1971,7 +2145,8 @@
         ],
         "latitude": 40.6466692,
         "longitude": -7.9196896,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10302634",
@@ -1981,7 +2156,8 @@
         "aliases": null,
         "latitude": 40.5414722,
         "longitude": -7.2829167,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112770047",
@@ -1991,7 +2167,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529687",
@@ -2004,7 +2181,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q111668160",
@@ -2016,7 +2194,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10302664",
@@ -2028,7 +2207,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q10302690",
@@ -2038,7 +2218,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10302691",
@@ -2048,7 +2229,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q10302739",
@@ -2058,7 +2240,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q118133958",
@@ -2068,7 +2251,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q118146558",
@@ -2078,7 +2262,8 @@
         "aliases": null,
         "latitude": 38.881179,
         "longitude": -7.167565,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q120559115",
@@ -2088,7 +2273,8 @@
         "aliases": null,
         "latitude": 38.014613,
         "longitude": -7.859445,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q123196588",
@@ -2098,7 +2284,8 @@
         "aliases": null,
         "latitude": 38.837925,
         "longitude": -9.463564,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q123786361",
@@ -2108,7 +2295,8 @@
         "aliases": null,
         "latitude": 41.1853795,
         "longitude": -8.6911049,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124179721",
@@ -2118,7 +2306,8 @@
         "aliases": null,
         "latitude": 41.1944059,
         "longitude": -8.6088345,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q132674422",
@@ -2128,7 +2317,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q132863108",
@@ -2138,7 +2328,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q133698129",
@@ -2148,7 +2339,8 @@
         "aliases": null,
         "latitude": 38.696309,
         "longitude": -9.422181,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q133890059",
@@ -2158,7 +2350,8 @@
         "aliases": null,
         "latitude": 40.3797914,
         "longitude": -7.7104781,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136502689",
@@ -2168,7 +2361,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17167632",
@@ -2178,7 +2372,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25429257",
@@ -2188,7 +2383,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2599646",
@@ -2198,7 +2394,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q56348864",
@@ -2208,7 +2405,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q87365679",
@@ -2218,7 +2416,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q90315016",
@@ -2228,7 +2427,8 @@
         "aliases": null,
         "latitude": 38.706607,
         "longitude": -9.179875,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q95749655",
@@ -2238,7 +2438,8 @@
         "aliases": null,
         "latitude": 40.1349708,
         "longitude": -7.5002079,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q96625674",
@@ -2248,7 +2449,8 @@
         "aliases": null,
         "latitude": 39.3034035,
         "longitude": -7.4330652,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q96741367",
@@ -2258,7 +2460,8 @@
         "aliases": null,
         "latitude": 41.42695,
         "longitude": -8.298683,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q98310018",
@@ -2268,7 +2471,8 @@
         "aliases": null,
         "latitude": 41.2246913,
         "longitude": -8.698888,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q98962771",
@@ -2278,7 +2482,8 @@
         "aliases": null,
         "latitude": 38.1431531,
         "longitude": -7.4526032,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74538651",
@@ -2288,7 +2493,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74550009",
@@ -2298,7 +2504,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q109339954",
@@ -2308,7 +2515,8 @@
         "aliases": null,
         "latitude": 32.6535102,
         "longitude": -16.9083929,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q9821112",
@@ -2318,7 +2526,8 @@
         "aliases": null,
         "latitude": 41.1414056,
         "longitude": -8.5946556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74542769",
@@ -2328,7 +2537,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74529369",
@@ -2338,7 +2548,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1362729",
@@ -2350,7 +2561,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Technical University of Lisbon (UTL; Portuguese: Universidade Técnica de Lisboa, pronounced [univɨɾsiˈðaðɨ ˈtɛknikɐ ðɨ liʒˈβoɐ]) was a Portuguese public university. It was created in 1930 in Lisbon, as a confederation of preexisting schools, and comprised the faculties and institutes of veterinary medicine; agricultural sciences; economics and business administration; engineering, social and political sciences; architecture; and human kinetics.\nOn July 25, 2013, it merged with the older University of Lisbon (1911–2013) and was incorporated in the new University of Lisbon."
     },
     {
         "wikidata_id": "Q29565491",
@@ -2360,7 +2572,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q98836239",
@@ -2370,7 +2583,8 @@
         "aliases": null,
         "latitude": 39.460609,
         "longitude": -8.198506,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3391585",
@@ -2382,7 +2596,8 @@
         ],
         "latitude": 38.7176,
         "longitude": -9.15205,
-        "type": "university"
+        "type": "university",
+        "description": "Universidade Aberta (UAb) is a public distance education university in Portugal. Established in 1988, UAb offers higher education (undergraduate, master and doctorate degrees) and Lifelong Learning study programs. All programs are taught in e-learning mode since 2008, the year that UAb became a European institution of reference in the area of advanced e-learning and online learning through the recognition of its exclusive Virtual Pedagogical Model."
     },
     {
         "wikidata_id": "Q10387774",
@@ -2394,7 +2609,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Universidade Atlântica is a private university located near Taguspark in Oeiras Municipality, Portugal (near Lisbon).\nAtlântica was founded in 1996 by the initiative of university professors, researchers, banks, private companies, and the Oeiras local government.  The university is housed in the former Barcarena Gunpowder factory (Fábrica da Pólvora de Barcarena), and is administered by Ensino, Investigação e Administração S.A. (EIA), an entity created in 1993."
     },
     {
         "wikidata_id": "Q168458",
@@ -2407,7 +2623,8 @@
         ],
         "latitude": 38.7245,
         "longitude": -9.14577,
-        "type": "university"
+        "type": "university",
+        "description": "Universidade Autónoma de Lisboa (UAL; Autonomous University of Lisbon) is a private university located in Lisbon, the capital of Portugal.  UAL was founded on December 13, 1985.\nIts seat is in the Palace of the Counts of Redondo."
     },
     {
         "wikidata_id": "Q74544391",
@@ -2417,7 +2634,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74556680",
@@ -2427,7 +2645,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74555665",
@@ -2437,7 +2656,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74530265",
@@ -2447,7 +2667,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q74544430",
@@ -2457,7 +2678,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7894386",
@@ -2470,7 +2692,8 @@
         ],
         "latitude": 38.757929,
         "longitude": -9.152635,
-        "type": "university"
+        "type": "university",
+        "description": "Universidade Lusófona de Humanidades e Tecnologias (Lusophone University of Humanities and Technologies) is the largest private university in Portugal. It is also the main institution of Grupo Lusófona, which administers other universities and colleges in Portugal, Brazil, Cape Verde, Angola, Guinea-Bissau and Mozambique. Promotion of the Portuguese language is seen as a major objective of the institution; students from former Portuguese African colonies pay substantially reduced fees."
     },
     {
         "wikidata_id": "Q10387848",
@@ -2483,7 +2706,8 @@
         ],
         "latitude": 41.1430032,
         "longitude": -8.608327,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135403130",
@@ -2493,7 +2717,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894393",
@@ -2505,7 +2730,8 @@
         ],
         "latitude": 41.1822,
         "longitude": -8.61665,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1972136",
@@ -2518,7 +2744,8 @@
         ],
         "latitude": 37.0224,
         "longitude": -7.92764,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Algarve (UAlg; Portuguese: Universidade do Algarve), founded in 1979, is a Portuguese public higher education institution located in the southernmost region of mainland Portugal, the Algarve, having its headquarters and two out of its three campuses in Faro (namely the Gambelas and Penha) and another campus in Portimão. It has around 10,000 students, 20 per cent of whom are international, from more than 90 nationalities, with Brazil being the most representative country of origin for those foreign students."
     },
     {
         "wikidata_id": "Q29671",
@@ -2528,7 +2755,8 @@
         "aliases": null,
         "latitude": 40.6302778,
         "longitude": -8.6575,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Aveiro (Portuguese: Universidade de Aveiro) is a public university, in addition to providing polytechnic education, located in the Portuguese city of Aveiro. Founded in 1973, it has a student population of approximately 12,500, distributed among 58 graduate, 40 Masters of Science and 25 PhD programs, distributed by departments and autonomous sections, with specialized faculties. It is a Research & Development university, with research departments developing programmes in fundamental and applied mathematics, physics, chemistry, telecommunications, robotics, bioinformatics, sea sciences, materials, design, business administration and industrial engineering."
     },
     {
         "wikidata_id": "Q846725",
@@ -2540,7 +2768,8 @@
         ],
         "latitude": 40.2774,
         "longitude": -7.50887,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Beira Interior (UBI; Portuguese: Universidade da Beira Interior) is a public university located in the city of Covilhã, Portugal. It was created in 1979, and has about 6,879 students distributed across a multiplicity of graduation courses, awarding all academic degrees in fields ranging from medicine, biochemistry, biomedical sciences and industrial design to aeronautical engineering, fashion design, mathematics, economics and philosophy. The university is named after the historical Beira region, meaning Beira Interior, the most interior area of Beira, mainly composed by the district of Guarda and the district of Castelo Branco, in today's Centro region."
     },
     {
         "wikidata_id": "Q368643",
@@ -2554,7 +2783,8 @@
         ],
         "latitude": 40.2074,
         "longitude": -8.4265,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Coimbra (UC) is a public research university in Coimbra, Portugal. Officially chartered by King Denis on March 1, 1290, and recognised by Pope Nicholas IV on August 9, 1290, it is the oldest university in Portugal and one of the world's oldest in continuous operations, having begun operations in Lisbon before moving permanently to Coimbra in 1537. It had an influential role in the development of higher education in the Portuguese-speaking countries, and in their history."
     },
     {
         "wikidata_id": "Q74530555",
@@ -2564,7 +2794,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1434847",
@@ -2574,7 +2805,8 @@
         "aliases": null,
         "latitude": 32.6589,
         "longitude": -16.9244,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Madeira (UMa; Portuguese: Universidade da Madeira, pronounced [univɨɾsiˈðaðɨ ðɐ mɐˈðɐjɾɐ]) is a Portuguese public university, created in 1988 in Funchal, Madeira. The university offers first, second cycle and Doctorate academic degrees in a wide range of fields, in accordance with the Bologna process. It is now under the CMU\/Portugal agreement with Carnegie Mellon University, having master programme in Computer Engineering, Human Computer Interaction and Entertainment Technology."
     },
     {
         "wikidata_id": "Q29673",
@@ -2592,7 +2824,8 @@
         ],
         "latitude": 41.560436,
         "longitude": -8.3974382,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Minho (Portuguese: Universidade do Minho) is a public university in Minho Province, Portugal. It has multiple campuses in the cities of Braga and Guimarães."
     },
     {
         "wikidata_id": "Q1461089",
@@ -2602,7 +2835,8 @@
         "aliases": null,
         "latitude": 37.7458333,
         "longitude": -25.6638889,
-        "type": "university"
+        "type": "university",
+        "description": "The University of the Azores (Portuguese: Universidade dos Açores), or commonly abbreviated as UAc, is the only public university in the Autonomous Region of the Azores. It was founded on January 9, 1976, two years after the Carnation Revolution that ended several decades of dictatorship in Portugal, but before the Portuguese Third Republic was institutionalized, along with the region's autonomy. The university is a public institution dependent on the Ministry of Science, Technology and Higher Education and was established in order to advance sustainable development and higher education in the Azores."
     },
     {
         "wikidata_id": "Q3309132",
@@ -2617,7 +2851,8 @@
         ],
         "latitude": 41.28738,
         "longitude": -7.7389388,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Trás-os-Montes and Alto Douro (UTAD; Portuguese: Universidade de Trás-os-Montes e Alto Douro) is a public university located in the north-eastern city of Vila Real, Portugal.\nIt became a public university in 1986, although its history also includes a heritage received from its predecessor, the Polytechnic Institute of Vila Real, created in 1973. This Institute took on a relevant role in the development of the region, and in September 1979, it was converted into the University Institute of Trás-os-Montes and Alto Douro."
     },
     {
         "wikidata_id": "Q1557861",
@@ -2634,6 +2869,7 @@
         ],
         "latitude": 38.573,
         "longitude": -7.90427,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Évora (Universidade de Évora) is a public university in Évora, Portugal. It is the second-oldest university in the country, established in 1559 by the cardinal Henry, and it received University status in April of the same year from Pope Paul IV, as documented in his Cum a nobis papal bull. Running under the aegis of the Society of Jesus (also known as Jesuits) meant that the university was a target of the Marquis of Pombal's Jesuit oppression, being closed down permanently in 1779 and its masters either incarcerated or exiled."
     }
 ]

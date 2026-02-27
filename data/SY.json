@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 35.09913,
         "longitude": 36.18675,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Andalus University for Medical Sciences (Arabic: جامعة الأندلس الخاصة للعلوم الطبية) is a private university based in Qadmus, Syria.\nEstablished in 2005. The university specializes in medical sciences, and runs a number of training hospitals around the country."
     },
     {
         "wikidata_id": "Q4702404",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": 35.32283,
         "longitude": 40.11377,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Furat University (Arabic: جَامِعَةُ الْفُرَات, romanized: Jāmiʿatu l-Furāt) is a Syrian public university founded in 2006. It is located mainly in Deir ez-Zor, which hosts the medical school, and has campuses in other cities in Syria. Before 2011 it was the smallest public university in Syria."
     },
     {
         "wikidata_id": "Q12204413",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": 33.1668333,
         "longitude": 36.2975278,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Jazeera University in Damascus\/Deir ez Zor (Arabic: جامعة الجزيرة الخاصة) is a private university located in Damascus, Syria. JUDE was originally established in Deir Ezzor in 2007 as the first private university in eastern Syria.\n\nThe College of Engineering has three departments: Civil Engineering, Architectural Engineering, Informatics, College of Business Administration, and College of Pharmacy."
     },
     {
         "wikidata_id": "Q15622432",
@@ -39,7 +42,8 @@
         ],
         "latitude": 36.2185,
         "longitude": 37.1143889,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Shahba University (SU; Arabic: جامعة الشهباء), is a private university in Syria, established in 2005. It is located in the southern suburbs of the city of Aleppo. It was known as the Gulf University until February 2012 when the name was changed to al-Shahba University."
     },
     {
         "wikidata_id": "Q28715284",
@@ -49,7 +53,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q110554819",
@@ -59,7 +64,8 @@
         "aliases": null,
         "latitude": 36.167954,
         "longitude": 36.735929,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4703336",
@@ -71,7 +77,8 @@
         ],
         "latitude": 34.9693056,
         "longitude": 36.7516944,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Wataniya Private University, founded in 2007, is a private university located in Hama, Syria."
     },
     {
         "wikidata_id": "Q107600970",
@@ -81,7 +88,8 @@
         "aliases": null,
         "latitude": 33.6586395,
         "longitude": 36.3744344,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4783194",
@@ -93,7 +101,8 @@
         ],
         "latitude": 33.176,
         "longitude": 36.2995,
-        "type": "university"
+        "type": "university",
+        "description": "The Arab International University (AIU; Arabic: الْجَامِعَةُ الْعَرَبِيَّةُ الدَّوْلِيَّةُ, romanized: al-Jāmiʿat al-ʿArabīyat ad-Dawlīyah, formerly Arab European University) is a Syrian private university located in Ghabaghib, Daraa Governorate, Syria, founded in 2005. It was created under Presidential Decree No. 193 on the 06\/05\/2005."
     },
     {
         "wikidata_id": "Q12185345",
@@ -103,7 +112,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q15244396",
@@ -113,7 +123,8 @@
         "aliases": null,
         "latitude": 36.5813889,
         "longitude": 36.9663889,
-        "type": "university"
+        "type": "university",
+        "description": "Cordoba Private University (Arabic: جامعة قرطبة الخاصة), formerly known as Mamoun University for Science and Technology (MUST) (Arabic: جامعة المأمون الخاصة للعلوم والتكنولوجيا), is a private university in Syria. It was established by the Republic Decree No. 294 in 2003 at its headquarters in the city of Al-Qamishli in Al-Hasakah Governorate and its branch in Aleppo Governorate, to be one of the first private Syrian universities."
     },
     {
         "wikidata_id": "Q1351317",
@@ -126,7 +137,8 @@
         ],
         "latitude": 33.5113889,
         "longitude": 36.2913889,
-        "type": "university"
+        "type": "university",
+        "description": "Damascus University (Arabic: جامعة دمشق, romanized: Jāmiʾa Dimashq) is a public research university in Damascus, the capital city of Syria. It is the largest and oldest university in the country. It also operates satellite campuses in other Syrian cities."
     },
     {
         "wikidata_id": "Q100968510",
@@ -136,7 +148,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12204389",
@@ -146,7 +159,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q60572847",
@@ -156,7 +170,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q60572760",
@@ -166,7 +181,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16014234",
@@ -176,7 +192,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Faculty of Medicine - Syrian Private University (Arabic: كلية الطب البشري في الجامعة السورية الخاصة) was founded in 2005.\nIt is the second faculty of medicine in a private university in Syria."
     },
     {
         "wikidata_id": "Q131418366",
@@ -186,7 +203,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Faculty of Theology in Damascus is the first academic institution in Syria dedicated to the study of Christian theology. Established in 2019 by a presidential decree, it operates under the Melkite Greek Catholic Patriarchate of Antioch and All the East. The Faculty opened its doors in November 2021 and is located in Damascus, Syria."
     },
     {
         "wikidata_id": "Q108835718",
@@ -196,7 +214,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18639232",
@@ -206,7 +225,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Free Syrian University was established in 2013 to address the increasing amount of college aged refugees who lack education as a result of the ongoing Syrian Uprising. The university is of secular orientation and not affiliated with any particular faith, although it does contain a College of Sharia, providing undergraduate degrees in Sunni Islamic Law."
     },
     {
         "wikidata_id": "Q16875454",
@@ -216,7 +236,8 @@
         "aliases": null,
         "latitude": 35.130833,
         "longitude": 36.759444,
-        "type": "university"
+        "type": "university",
+        "description": "Hama University (Arabic: جامعة حماة, ALA-LC: Jāmiʻat Ḥamāh) is a public university located in the city of Hama, Syria. It was established in 2014."
     },
     {
         "wikidata_id": "Q5758173",
@@ -228,7 +249,8 @@
         ],
         "latitude": 33.5542,
         "longitude": 36.3123,
-        "type": "university"
+        "type": "university",
+        "description": "The Higher Institute of Applied Sciences and Technology (HIAST) (Arabic: الْمَعْهَدُ الْعَالِي لِلْعُلُومِ التَّطْبِيقِيَّةِ وَالتِّكْنُولُوجِيِّ, romanized: al-Maʿhad al-ʿĀlī li l-ʿUlūm at-Taṭbīqīyat wa t-Tiknūlūjī) is center of excellence for higher education, research & development in  Damascus, Syria. It is linked to the Syrian Scientific Studies and Research Center."
     },
     {
         "wikidata_id": "Q130735814",
@@ -238,7 +260,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Higher Institute of Business Administration is a public higher education institution in Syria's capital, Damascus, that focuses on teaching business administration. Established in 2001, it is located in the Barzeh district of Damascus,."
     },
     {
         "wikidata_id": "Q12193458",
@@ -250,7 +273,8 @@
         ],
         "latitude": 33.54992,
         "longitude": 36.30595,
-        "type": "university"
+        "type": "university",
+        "description": "The Higher Institute of Demographic Studies and Research is an educational institution located in Al-Baramkeh district of Damascus, the capital of Syria.\nEstablished in 2003, the institute aims to qualify national cadres with advanced academic degrees in demographic sciences that address societal needs and labor market requirements."
     },
     {
         "wikidata_id": "Q12193500",
@@ -260,7 +284,8 @@
         "aliases": null,
         "latitude": 33.51249,
         "longitude": 36.27948,
-        "type": "university"
+        "type": "university",
+        "description": "The Higher Institute of Dramatic Arts (HIDA, Arabic: الْمَعْهَدُ الْعَالِي لِلْفُنُونِ الْمَسْرَحِيَّةِ, romanized: al-Maʿhad al-ʿĀlī li l-Funūn al-Masraḥīyah) was founded in Damascus, Syria, in 1977 by academics such as the playwright Saadallah Wannous, theatre critic Ghassan al-Maleh and professor of theatre at Damascus University, Hannan Kassab Hassan. The institute initiated a new phase in the development of theatre in Syria through the preparation of a new generation of playwrights, theatre directors and actors in aspects of modern dramatic arts on an academic basis, including the actor Fares Al-Helou and playwrights Liwaa Yazji and Mohammad Al Attar. The institute initially included five departments: Acting, Literary Criticism, Dramatic Arts, Scenography, and Theatre Techniques, with a department for Dance added later."
     },
     {
         "wikidata_id": "Q797514",
@@ -270,7 +295,8 @@
         "aliases": null,
         "latitude": 34.7128,
         "longitude": 36.7086,
-        "type": "university"
+        "type": "university",
+        "description": "Homs University (Arabic: جَامِعَة حِمْص, ALA-LC: Jāmiʻat Ḥimṣ) is a public university located in the city of Homs, Syria, 180 km north of Damascus. It is Syria's fourth largest university. During the Ba'athist era, the institution was known as Al-Baath University (Arabic: جَامِعَة الْبَعْث, ALA-LC: Jāmiʻat al-Baʻth) from its establishment in 1979 until it adopted its current name in 2024."
     },
     {
         "wikidata_id": "Q30314718",
@@ -282,7 +308,8 @@
         ],
         "latitude": 35.9406,
         "longitude": 36.6227,
-        "type": "university"
+        "type": "university",
+        "description": "Idlib University (Arabic: ْجَامِعَةُ إِدْلِب, romanized: Jāmiʻatu Idlib) is a Syrian public university established in 2015.\nIn 2024, Idlib University ranked 18708 globally, according to Webometrics Ranking of World Universities.\nToday, the number of university students has exceeded 18,000, and the university's teaching and administrative staff has exceeded 600 people."
     },
     {
         "wikidata_id": "Q124412132",
@@ -294,7 +321,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6054144",
@@ -304,7 +332,8 @@
         "aliases": null,
         "latitude": 33.17513,
         "longitude": 36.29471,
-        "type": "university"
+        "type": "university",
+        "description": "The International University for Science and Technology (IUST; Arabic: الْجَامِعَةُ الدَّوْلِيَّةُ الْخَاصَّةُ لِلْعُلُومِ وَالتِّكْنُولُوجِيَا, romanized: al-Jāmiʿat ad-Dawlīyat al-Khāṣṣat li l-ʿUlūm wa t-Tiknūlūjiyā) is a private university established in 2005, located in Ghabagheb, Daraa Governorate, Syria. The university has seven faculties: dentistry, pharmacy, engineering and technology, information technology, business administration and finance, arts and sciences, and Architecture. The university has a liaison office at Damascus, Al Mazzeh Eastern villas."
     },
     {
         "wikidata_id": "Q100260373",
@@ -317,7 +346,8 @@
         ],
         "latitude": 35.55203,
         "longitude": 35.76618,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q108835620",
@@ -327,7 +357,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12204443",
@@ -337,7 +368,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q114672251",
@@ -347,7 +379,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125836171",
@@ -357,7 +390,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q20510760",
@@ -367,7 +401,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q21438672",
@@ -377,7 +412,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q28715211",
@@ -387,7 +423,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q109257356",
@@ -397,7 +434,8 @@
         "aliases": null,
         "latitude": 33.074304,
         "longitude": 36.2859976,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28937031",
@@ -407,7 +445,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7663241",
@@ -419,7 +458,8 @@
         ],
         "latitude": 33.3143,
         "longitude": 36.2693,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7663251",
@@ -431,7 +471,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100968543",
@@ -441,7 +482,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100968544",
@@ -451,7 +493,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q131383812",
@@ -461,7 +504,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2302663",
@@ -473,7 +517,8 @@
         ],
         "latitude": 36.20997,
         "longitude": 37.12001,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q649589",
@@ -483,7 +528,8 @@
         "aliases": null,
         "latitude": 34.06916,
         "longitude": 36.74978,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7809596",
@@ -495,7 +541,8 @@
         ],
         "latitude": 35.523333,
         "longitude": 35.807778,
-        "type": "university"
+        "type": "university",
+        "description": "Latakia University (Arabic: جامعة اللاذقية, ALA-LC: Jāmiʻat al-Lādhiqīyah), formerly known as Tishreen University, is a public university located in Latakia, Syria. It is the third-largest university in Syria."
     },
     {
         "wikidata_id": "Q1282182",
@@ -505,7 +552,8 @@
         "aliases": null,
         "latitude": 34.7114685,
         "longitude": 36.294733,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18395937",
@@ -515,7 +563,8 @@
         "aliases": null,
         "latitude": 33.08845,
         "longitude": 36.28393,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136565012",
@@ -525,6 +574,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

@@ -11,7 +11,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "42 is a private institution of education in computer science founded by Xavier Niel, Nicolas Sadirac (former executive director at Epitech), Kwame Yamgnane, and Florian Bucher (former executives at Epitech). The school opened in Paris in 2013. The school does not have any professors and is open 24\/7."
     },
     {
         "wikidata_id": "Q134359499",
@@ -23,7 +24,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4670157",
@@ -33,7 +35,8 @@
         "aliases": null,
         "latitude": 24.3666667,
         "longitude": 54.5644444,
-        "type": "university"
+        "type": "university",
+        "description": "Abu Dhabi University (ADU) (Arabic: جامعة أبوظبي) is a private research university with its main campus in Khalifa City, Abu Dhabi, United Arab Emirates, and satellite campuses in Al Ain, Dubai and Madinat Zayed. Founded in 2003 by Ali Saeed bin Harmal al-Dhaheri, it is the largest private institution in the country that offers courses in various subjects up to post-graduation."
     },
     {
         "wikidata_id": "Q116909517",
@@ -43,7 +46,8 @@
         "aliases": null,
         "latitude": 25.104556,
         "longitude": 55.166965,
-        "type": "university"
+        "type": "university",
+        "description": "The Abu Dhabi University–Dubai (ADU Dubai) (Arabic: جامعة أبوظبي – فرع دبي) is a branch campus of the Abu Dhabi University in Dubai, United Arab Emirates. Founded in 2017 by the university's chairman Ali Saeed al-Dhaheri, it is one of three satellite campuses of the university in the country and the first campus established outside the Emirate of Abu Dhabi."
     },
     {
         "wikidata_id": "Q4671535",
@@ -53,7 +57,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Academy of Technical Training (Arabic: أكاديمية التدريب الفني) is a privately owned institution which provides training programs in aviation security and safety, air traffic control, and management of aircraft accidents. The curriculum and courses are accredited and certified by the General Civil Aviation Authority."
     },
     {
         "wikidata_id": "Q12204508",
@@ -63,7 +68,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Ajman University (Arabic: جامعة عجمان) was established on 17 June 1988 as the first private university in the Gulf Cooperation Council. It was the first university in the United Arab Emirates to admit expatriate students under the institutional name \"Ajman University College of Science and Technology,\" which was subsequently renamed \"Ajman University of Science and Technology\". In 2018, it was again renamed to \"Ajman University\"."
     },
     {
         "wikidata_id": "Q4703454",
@@ -73,7 +79,8 @@
         "aliases": null,
         "latitude": 24.2387861,
         "longitude": 55.6789694,
-        "type": "university"
+        "type": "university",
+        "description": "Al Ain University (AAU) (Arabic: جامعة العين), is a private university in the United Arab Emirates with two campuses: one in Al Ain, and the other in Abu Dhabi."
     },
     {
         "wikidata_id": "Q4703880",
@@ -83,7 +90,8 @@
         "aliases": null,
         "latitude": 25.11,
         "longitude": 55.4069444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q38250910",
@@ -93,7 +101,8 @@
         "aliases": null,
         "latitude": 25.2964,
         "longitude": 55.4627,
-        "type": "university"
+        "type": "university",
+        "description": "Al Qasimia University (also called as AQU) is a national university located in Sharjah. It was established in year 2014 by its founder, president and chairman, the ruler of Sharjah His Highness Sheikh Dr. Sultan Bin Mohammed Al Qasimi."
     },
     {
         "wikidata_id": "Q4652368",
@@ -103,7 +112,8 @@
         "aliases": null,
         "latitude": 24.46012,
         "longitude": 54.377,
-        "type": "university"
+        "type": "university",
+        "description": "ALHOSN University was an educational institution founded in 2005 and located in Abu Dhabi, the capital city of the United Arab Emirates. It is a segregated University with separate campuses for Male and Female Students. The Abu Dhabi–based university was accredited by the UAE Ministry of Higher Education and Scientific Research."
     },
     {
         "wikidata_id": "Q5146743",
@@ -115,7 +125,8 @@
         ],
         "latitude": 25.2502778,
         "longitude": 55.3083333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q467144",
@@ -125,7 +136,8 @@
         "aliases": null,
         "latitude": 25.0908333,
         "longitude": 55.1563889,
-        "type": "university"
+        "type": "university",
+        "description": "The American University in Dubai (AUD) (Arabic: الجامعة الأمريكية في دبي) is a private for-profit university in Dubai, United Arab Emirates located in Dubai Media City. Founded in October 1995, AUD offers programs leading to bachelor's and master's degrees. Being the first private university in the UAE, it provides an American-style liberal education."
     },
     {
         "wikidata_id": "Q4745311",
@@ -137,7 +149,8 @@
         ],
         "latitude": 25.123,
         "longitude": 55.411164,
-        "type": "university"
+        "type": "university",
+        "description": "The American University in the Emirates (AUE) is a private university in Dubai International Academic City in the United Arab Emirates. The university was founded in 2006."
     },
     {
         "wikidata_id": "Q85845369",
@@ -147,7 +160,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008799",
@@ -157,7 +171,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008800",
@@ -167,7 +182,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4115992",
@@ -177,7 +193,8 @@
         "aliases": null,
         "latitude": 25.309722,
         "longitude": 55.490556,
-        "type": "university"
+        "type": "university",
+        "description": "The American University of Sharjah (AUS; Arabic: الجامعة الأميركية في الشارقة) is a private university in Sharjah, United Arab Emirates. It was founded in 1997 by Sultan bin Muhammad Al-Qasimi, Supreme Council Member and Ruler of Sharjah. Located in University City in Sharjah, AUS has more than 5,000 students from more than 94 countries and a full-time faculty of more than 360 from 48 countries."
     },
     {
         "wikidata_id": "Q116262077",
@@ -189,7 +206,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008806",
@@ -199,7 +217,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q118192952",
@@ -209,7 +228,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4882384",
@@ -219,7 +239,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Belford University was an organization that offered online unaccredited degrees for \"life experience\".  The organization maintained a post office box in Humble, Texas, but its certificates were mailed from the United Arab Emirates. Along with many similar websites, it was owned by the Karachi-based company Axact, the main business of which, according to an investigation by The New York Times, is \"to take the centuries-old scam of selling fake academic degrees and turn it into an Internet-era scheme on a global scale\"."
     },
     {
         "wikidata_id": "Q4835741",
@@ -232,7 +253,8 @@
         ],
         "latitude": 25.1316667,
         "longitude": 55.4197222,
-        "type": "institute"
+        "type": "institute",
+        "description": "Birla Institute of Technology & Science, Pilani - Dubai (BITS Pilani, Dubai Campus or BPDC) is a private technical research university and a constituent college of Dubai International Academic City. It became the international campus of BITS Pilani in 2000, making it the second campus established (other campuses: Pilani, Goa, Hyderabad, Mumbai). It is the first Indian university to have an overseas campus."
     },
     {
         "wikidata_id": "Q4971189",
@@ -244,7 +266,8 @@
         ],
         "latitude": 25.12514,
         "longitude": 55.4101528,
-        "type": "university"
+        "type": "university",
+        "description": "The British University in Dubai (BUiD) (Arabic: الجامعة البريطانية في دبي) is a research-based, non-profit institution in Dubai, United Arab Emirates. Founded in 2003 by the country's Vice President and Prime Minister Maktoum bin Rashid al-Maktoum, it is licensed by the UAE's Ministry of Education's Higher Education Affairs and all its programmes are accredited by the Commission for Academic Accreditation (CAA).\nBUiD is part of a strategic alliance with three UK Russell Group universities: University of Edinburgh, the University of Manchester, and University of Glasgow."
     },
     {
         "wikidata_id": "Q16256173",
@@ -254,7 +277,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Cambridge Academy for Higher Education (Arabic: اكاديمية كامبردج للدراسات العليا) is a Middle Eastern university for executive education and leadership programs with a campus in Fujairah at Fujairah Free Zone, United Arab Emirates. It offers degree programs including Master of Business Administration (MBA), Master of Management, Doctor of Business Administration (DBA), PhD programs, Master of Public Health (MPH), Master of Health Administration, Master of Health Economics, and Doctor in Public Health (DrPH)."
     },
     {
         "wikidata_id": "Q5030654",
@@ -264,7 +288,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Canadian University Dubai, popularly known as CUD, is a private university in Dubai, United Arab Emirates, founded in 2006. The Canadian University Dubai offers education based on the Canadian curriculum. The university has recently opened a new campus located in the heart of Dubai, in City Walk."
     },
     {
         "wikidata_id": "Q15210735",
@@ -274,7 +299,8 @@
         "aliases": null,
         "latitude": 25.388233,
         "longitude": 55.444833,
-        "type": "university"
+        "type": "university",
+        "description": "City University Ajman (CUA) is an institution of higher education located in Ajman in the United Arab Emirates.\nCUA received its license from the UAE Ministry of Higher Education and Scientific Research (MOHESR) in August 2011. \nOn July 17, 2024 it was reported that the university achieved a 5-star rating from QS Star system."
     },
     {
         "wikidata_id": "Q111263363",
@@ -286,7 +312,8 @@
         ],
         "latitude": 25.1254585,
         "longitude": 55.4105168,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5310583",
@@ -296,7 +323,8 @@
         "aliases": null,
         "latitude": 25.2502778,
         "longitude": 55.4172222,
-        "type": "college"
+        "type": "college",
+        "description": "Dubai Medical University (DMU) is a private medical university in Dubai, United Arab Emirates. It was the first private medical college in the UAE. It was founded in 1986 as Dubai Medical College for Girls."
     },
     {
         "wikidata_id": "Q5310585",
@@ -306,7 +334,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Dubai Men's College (DMC), one of the first Higher Colleges of Technology (HCT), is a government-funded higher education institution located in Academic City, Dubai, in the United Arab Emirates.\nDMC provides bachelor and associate degrees in applied communications, business and financial services, electrical and civil engineering technology, health sciences, and information technology. English is the medium of instruction."
     },
     {
         "wikidata_id": "Q5310594",
@@ -316,7 +345,8 @@
         "aliases": null,
         "latitude": 25.2508333,
         "longitude": 55.4166667,
-        "type": "college"
+        "type": "college",
+        "description": "The Dubai Pharmacy College for Girls (DPCG) is the first pharmacy higher education institution in the United Arab Emirates, established in 1992 by Dubai philanthropist Haji Saeed Bin Ahmed Al Lootah. In 2005, it won the Dubai Quality Appreciation Programme award for education presented by Sheikh Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai.\nThe Dubai Pharmacy College offers Bachelor of Pharmacy (BPharm) and Master of Pharmacy (MPharm) program in clinical pharmacy."
     },
     {
         "wikidata_id": "Q19818743",
@@ -326,7 +356,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Dubai School of Dental Medicine (DCDM), founded in 2013, is a dental medical college located in Dubai, United Arab Emirates. The dental college is accredited by the Ministry of Higher Education,offering both undergraduate and post-graduate programs.\nThe college is a newly established home-grown dental institution launched to support the United Arab Emirates (UAE) community with dental care services and education."
     },
     {
         "wikidata_id": "Q30294768",
@@ -336,7 +367,8 @@
         "aliases": null,
         "latitude": 25.1136,
         "longitude": 55.4118,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16836860",
@@ -346,7 +378,8 @@
         "aliases": null,
         "latitude": 24.4211389,
         "longitude": 54.5966667,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q5404636",
@@ -356,7 +389,8 @@
         "aliases": null,
         "latitude": 25.34628,
         "longitude": 55.42127,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q20412917",
@@ -366,7 +400,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q5644372",
@@ -378,7 +413,8 @@
         ],
         "latitude": 25.10486,
         "longitude": 55.39243,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5738583",
@@ -388,7 +424,8 @@
         "aliases": null,
         "latitude": 25.10217,
         "longitude": 55.16223,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5758041",
@@ -398,7 +435,8 @@
         "aliases": null,
         "latitude": 24.5,
         "longitude": 54.5,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q25227016",
@@ -410,7 +448,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6095050",
@@ -420,7 +459,8 @@
         "aliases": null,
         "latitude": 25.7746,
         "longitude": 55.926027,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q63323653",
@@ -430,7 +470,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6399651",
@@ -440,7 +481,8 @@
         "aliases": null,
         "latitude": 24.44736,
         "longitude": 54.39494,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q39793447",
@@ -453,7 +495,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12235965",
@@ -466,7 +509,8 @@
         ],
         "latitude": 25.2502778,
         "longitude": 55.3083333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28220745",
@@ -476,7 +520,8 @@
         "aliases": null,
         "latitude": 25.332132,
         "longitude": 55.390148,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18455299",
@@ -489,7 +534,8 @@
         ],
         "latitude": 24.5,
         "longitude": 54.5,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4117960",
@@ -501,7 +547,8 @@
         ],
         "latitude": 24.4325,
         "longitude": 54.6186,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q104864900",
@@ -511,7 +558,8 @@
         "aliases": null,
         "latitude": 25.10339,
         "longitude": 55.16438,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q22948633",
@@ -523,7 +571,8 @@
         ],
         "latitude": 25.07233,
         "longitude": 55.14528,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q79048705",
@@ -535,7 +584,8 @@
         ],
         "latitude": 24.4327778,
         "longitude": 54.6180556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5310605",
@@ -547,7 +597,8 @@
         ],
         "latitude": 25.2222222,
         "longitude": 55.2891667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18391415",
@@ -557,7 +608,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q93990120",
@@ -569,7 +621,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q566189",
@@ -582,7 +635,8 @@
         ],
         "latitude": 24.5239,
         "longitude": 54.4346,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74552570",
@@ -592,7 +646,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q3551475",
@@ -606,7 +661,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008761",
@@ -616,7 +672,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008763",
@@ -626,7 +683,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7178947",
@@ -636,7 +694,8 @@
         "aliases": null,
         "latitude": 24.4194667,
         "longitude": 54.5024667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131981339",
@@ -646,7 +705,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q110235875",
@@ -656,7 +716,8 @@
         "aliases": null,
         "latitude": 24.4301,
         "longitude": 54.43677,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7353990",
@@ -670,7 +731,8 @@
         ],
         "latitude": 25.122362,
         "longitude": 55.378304,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7462421",
@@ -680,7 +742,8 @@
         "aliases": null,
         "latitude": 24.43592,
         "longitude": 54.4394,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18210231",
@@ -690,7 +753,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7537928",
@@ -700,7 +764,8 @@
         "aliases": null,
         "latitude": 25.2902778,
         "longitude": 55.4672222,
-        "type": "university"
+        "type": "university",
+        "description": "Horizon University College (HUC) (formerly Skyline University College) is a private higher education institution in Ajman, United Arab Emirates. Founded in 1990 by Kamal Puri, the university operated for over three decades in Sharjah before relocating to Ajman in 2025 under its new name.\nHUC is approved, and its programs are accredited by the Commission on Academic Accreditation (CAA) of the Ministry of Higher Education and Scientific Research (MOHESR), United Arab Emirates."
     },
     {
         "wikidata_id": "Q18211094",
@@ -710,7 +775,8 @@
         "aliases": null,
         "latitude": 25.069419,
         "longitude": 55.142284,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17156215",
@@ -720,7 +786,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008772",
@@ -730,7 +797,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008774",
@@ -740,7 +808,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008775",
@@ -750,7 +819,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008776",
@@ -760,7 +830,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008778",
@@ -770,7 +841,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008779",
@@ -780,7 +852,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008781",
@@ -790,7 +863,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008782",
@@ -800,7 +874,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q99289810",
@@ -810,7 +885,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008783",
@@ -820,7 +896,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008784",
@@ -830,7 +907,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008785",
@@ -840,7 +918,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008786",
@@ -850,7 +929,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008789",
@@ -860,7 +940,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008790",
@@ -870,7 +951,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008791",
@@ -880,7 +962,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q118900038",
@@ -890,7 +973,8 @@
         "aliases": null,
         "latitude": 25.46824,
         "longitude": 55.64031,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1544739",
@@ -904,7 +988,8 @@
         ],
         "latitude": 24.228766,
         "longitude": 55.747463,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008792",
@@ -914,7 +999,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101008794",
@@ -924,7 +1010,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7895347",
@@ -934,7 +1021,8 @@
         "aliases": null,
         "latitude": 25.10608,
         "longitude": 55.41439,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134703678",
@@ -947,7 +1035,8 @@
         ],
         "latitude": 25.312709,
         "longitude": 56.346635,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896294",
@@ -959,7 +1048,8 @@
         ],
         "latitude": 25.2875,
         "longitude": 55.4769,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7896670",
@@ -969,7 +1059,8 @@
         "aliases": null,
         "latitude": 25.1036,
         "longitude": 55.1647,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Wollongong in Dubai (UOWD) Arabic: جامعة ولونغونغ في دبي) is an offshore campus of the University of Wollongong in Dubai, United Arab Emirates. Established in 1993, the university is located in the Dubai Knowledge Park and serves over 5,000 students.\nUnlike other foreign universities in the UAE, the University of Wollongong in Dubai is an autonomous and separate entity."
     },
     {
         "wikidata_id": "Q8067559",
@@ -979,7 +1070,8 @@
         "aliases": null,
         "latitude": 25.102,
         "longitude": 55.3856,
-        "type": "university"
+        "type": "university",
+        "description": "Zayed University (ZU; Arabic: جامعة زايد) is a public university in the United Arab Emirates. It has campuses in Dubai and Abu Dhabi."
     },
     {
         "wikidata_id": "Q101008797",
@@ -989,6 +1081,7 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

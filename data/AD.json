@@ -9,7 +9,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q648838",
@@ -21,7 +22,8 @@
         ],
         "latitude": 42.465,
         "longitude": 1.49056,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Andorra (Catalan: Universitat d'Andorra; IPA: [uniβəɾsiˈtad dənˈdorə]) is a public institution of higher education created in 1988, and the first university in Andorra. The university consists of the College of Health and Education Sciences, the College of Business and Technology, and the College of eLearning and Lifelong Learning.\nThe university is a member of the Vives Network, the European University Association, the International Association of Universities."
     },
     {
         "wikidata_id": "Q28927442",
@@ -33,6 +35,7 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

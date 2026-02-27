@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q890704",
@@ -19,7 +20,8 @@
         ],
         "latitude": 25.316389,
         "longitude": 51.438889,
-        "type": "university"
+        "type": "university",
+        "description": "Carnegie Mellon University in Qatar (Arabic: جامعة كارنيجي ميلون في قطر) is a satellite campus of Carnegie Mellon University in Education City, Doha, Qatar. This campus is a member of the Qatar Foundation and started graduating students in May 2008. It enrolls over 400 students, has 60 faculty and postdoctoral researchers, and 90 staff members."
     },
     {
         "wikidata_id": "Q23418976",
@@ -29,7 +31,8 @@
         "aliases": null,
         "latitude": 25.3866111,
         "longitude": 51.4835833,
-        "type": "university"
+        "type": "university",
+        "description": "The Doha Institute for Graduate Studies is a higher education institute in Doha, Qatar. Its first student enrollment was in the autumn\/fall semester of the 2015\/2016 academic year. The Doha Institute is intended as a graduate studies academy; students enrolled in its programs are eligible to receive master's degrees in a variety of fields related to the social sciences and humanities."
     },
     {
         "wikidata_id": "Q5547063",
@@ -43,7 +46,8 @@
         ],
         "latitude": 25.3155556,
         "longitude": 51.4347222,
-        "type": "college"
+        "type": "college",
+        "description": "Georgetown University in Qatar (GU-Q) is a campus of Georgetown University (Washington, D.C.) in Education City, Doha, Qatar. It is one of Georgetown University's eleven undergraduate and graduate schools, and is supported by a partnership between Qatar Foundation and Georgetown University.\nIn 2015, the university broadened its remit to include executive and professional education and custom training programs, in addition to the primary Bachelor of Science in Foreign Service degree."
     },
     {
         "wikidata_id": "Q24911975",
@@ -53,7 +57,8 @@
         "aliases": null,
         "latitude": 25.31413,
         "longitude": 51.43234,
-        "type": "university"
+        "type": "university",
+        "description": "Hamad Bin Khalifa University (HBKU; Arabic: جامعة حمد بن خليفة) is a public university located within Education City in Doha, the capital city of Qatar. The university, a member of Qatar Foundation, was founded in 2010. The university began graduating students in 2014."
     },
     {
         "wikidata_id": "Q108293481",
@@ -63,7 +68,8 @@
         "aliases": null,
         "latitude": 25.4023056,
         "longitude": 51.5128333,
-        "type": "university"
+        "type": "university",
+        "description": "Lusail University (Arabic: جَامِعَة لُوسَيْل, ALA-LC: Jāmiʻat Lūsayl) is a private university in Lusail, Qatar. It is the first national private university in Qatar."
     },
     {
         "wikidata_id": "Q890759",
@@ -75,7 +81,8 @@
         ],
         "latitude": 25.318341,
         "longitude": 51.445628,
-        "type": "university"
+        "type": "university",
+        "description": "Northwestern University in Qatar (NU-Q), also known as Northwestern Qatar, is Northwestern University’s campus in Education City, Doha, Qatar, founded in partnership with the Qatar Foundation in 2008.\nNorthwestern Qatar's campus offers a liberal arts and media education with undergraduate degrees awarded in communication, journalism, and strategic communication."
     },
     {
         "wikidata_id": "Q6840397",
@@ -85,7 +92,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7267097",
@@ -95,7 +103,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Qatar Computing Research Institute (QCRI) in Doha, Qatar, is a nonprofit multidisciplinary computing research institute founded by the Qatar Foundation (QF) for Education, Science and Community Development in 2010. It is primarily funded by the Qatar Foundation, a private, non-profit organization that is supporting Qatar on its journey from carbon economy to knowledge economy."
     },
     {
         "wikidata_id": "Q30296030",
@@ -107,7 +116,8 @@
         ],
         "latitude": 25.311437,
         "longitude": 51.432806,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q7267102",
@@ -117,7 +127,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "QFBA (Qatar Finance and Business Academy) is an educational Institution established in 2009. under the endorsement of the Qatar Financial Centre Authority. It is aimed at instructing entry-level to senior executive professionals in financial disciplines which include banking, asset management, capital markets and insurance."
     },
     {
         "wikidata_id": "Q1574578",
@@ -129,7 +140,8 @@
         ],
         "latitude": 25.3746,
         "longitude": 51.4902,
-        "type": "university"
+        "type": "university",
+        "description": "Qatar University (Arabic: جامعة قطر; transliterated: Jami'at Qatar) is a public research university located on the northern outskirts of Doha, Qatar. It is the only public university in the country. The university hosts twelve colleges – Arts and Sciences, Business and Economics, Education, Engineering, Law, Sharia and Islamic Studies, Pharmacy, College of Health Science, College of Medicine, College of Dental Medicine, College of Pharmacy, College of nursing, and College of Sport Science."
     },
     {
         "wikidata_id": "Q101000552",
@@ -139,7 +151,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000554",
@@ -149,7 +162,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12242241",
@@ -161,7 +175,8 @@
         ],
         "latitude": 25.3227778,
         "longitude": 51.4448889,
-        "type": "institute"
+        "type": "institute",
+        "description": "Sidra Medicine is a 400-bed hospital and research center in Doha, Qatar. The hospital first opened its outpatient facility in 2016, followed by its inpatient hospital in January 2018."
     },
     {
         "wikidata_id": "Q1144951",
@@ -171,7 +186,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Texas A&M University at Qatar (TAMUQ) is a branch of Texas A&M University located in Education City, Al Rayyan, Qatar. The university was established in 2003, and is slated to close by 2028.\nThe university offers undergraduate degrees in chemical, electrical, mechanical, and petroleum engineering."
     },
     {
         "wikidata_id": "Q30296037",
@@ -184,7 +200,8 @@
         ],
         "latitude": 25.360727,
         "longitude": 51.481317,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Doha for Science and Technology (UDST) is a public institution of higher education in Qatar, established by Amiri Decision No. 13 of 2022. It is recognized as the country’s first national university focused on applied, technical, and professional education."
     },
     {
         "wikidata_id": "Q24896812",
@@ -200,6 +217,7 @@
         ],
         "latitude": 25.314793,
         "longitude": 51.432974,
-        "type": "university"
+        "type": "university",
+        "description": "The Virginia Commonwealth University School of the Arts in Qatar (VCUarts Qatar) is the Qatari Education City campus of the School of the Arts of Virginia Commonwealth University, a public university in Richmond, Virginia, United States. VCUarts Qatar is accredited by the United States National Association of Schools of Art and Design, the Southern Association of Colleges and Schools, and the Council for Interior Design Accreditation."
     }
 ]

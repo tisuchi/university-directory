@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": 10.6435833,
         "longitude": -61.4022778,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Caribbean Agricultural Research and Development Institute (CARDI) carries out research and development for agriculture in the Caribbean region. Its headquarters are on the campus of the University of the West Indies (UWI), at St. Augustine in Trinidad and Tobago and it also has national offices throughout the region."
     },
     {
         "wikidata_id": "Q648688",
@@ -17,7 +18,8 @@
         "aliases": null,
         "latitude": 10.66182,
         "longitude": -61.51409,
-        "type": "university"
+        "type": "university",
+        "description": "The College of Science, Technology and Applied Arts of Trinidad and Tobago (COSTAATT) is a public, multi-campus college in Trinidad and Tobago, established in 2000."
     },
     {
         "wikidata_id": "Q110970263",
@@ -27,7 +29,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Imperial College of Tropical Agriculture was a post-graduate training institution for the British empire located in St Augustine, Trinidad for the study of tropical agriculture and the cultivation of tropical produce. It was established in 1921 and received a Royal Charter in 1926. In 1960, it became the Faculty of Agriculture of the University College of the West Indies, an external college of the University of London."
     },
     {
         "wikidata_id": "Q116482094",
@@ -39,7 +42,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q367398",
@@ -49,7 +53,8 @@
         "aliases": null,
         "latitude": 10.6935,
         "longitude": -61.4076,
-        "type": "university"
+        "type": "university",
+        "description": "The University of the Southern Caribbean (USC) is a private university owned and operated by the Caribbean Union Conference of Seventh-day Adventists. The main campus is located on 384 acres (1.55 km2) of land in the Maracas Valley on the island of Trinidad of the Republic of Trinidad and Tobago.  There are also six satellite extension campuses located in Scarborough, Trinidad and Tobago; San Fernando, Trinidad and Tobago; Georgetown, Guyana; Bridgetown, Barbados; Castries, St."
     },
     {
         "wikidata_id": "Q746153",
@@ -65,7 +70,8 @@
         ],
         "latitude": 18.0058,
         "longitude": -76.7467,
-        "type": "university"
+        "type": "university",
+        "description": "The University of the West Indies (UWI), originally University College of the West Indies, is a public university system established to serve the higher education needs of the residents of 18 English-speaking countries and territories in the Caribbean: Anguilla, Antigua and Barbuda, The Bahamas, Barbados, Belize, Bermuda, British Virgin Islands, Cayman Islands, Dominica, Grenada, Guyana, Jamaica, Montserrat, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, and Turks and Caicos Islands.\nEach country is either a member of the Commonwealth of Nations or a British Overseas Territory.\nThe university has five major university centres: UWI Mona (Jamaica), UWI Cave Hill (Barbados), UWI St."
     },
     {
         "wikidata_id": "Q119850110",
@@ -77,7 +83,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q648244",
@@ -87,7 +94,8 @@
         "aliases": null,
         "latitude": 10.6167,
         "longitude": -61.2167,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Trinidad and Tobago, also known as UTT, is a state owned university in Trinidad and Tobago established in 2004.  Its main campus, currently under construction, will be located at Wallerfield in Trinidad. Presently, its campuses are an amalgamation of several former technological colleges throughout the country."
     },
     {
         "wikidata_id": "Q119850067",
@@ -99,6 +107,7 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

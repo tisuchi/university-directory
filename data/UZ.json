@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q64623374",
@@ -23,7 +24,8 @@
         ],
         "latitude": 41.338114,
         "longitude": 69.337085,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25527819",
@@ -33,7 +35,8 @@
         "aliases": null,
         "latitude": 41.31787,
         "longitude": 69.30882,
-        "type": "university"
+        "type": "university",
+        "description": "The Academy of the Armed Forces of Uzbekistan (Uzbek: Oʻzbekiston respublikasi qurolli kuchlari akademiyasi) is a body for the training of highly qualified military personnel for the Armed Forces of the Republic of Uzbekistan. It was originally established as an inter-service educational institution that serves the purpose of training officers for higher level leadership positions. Cadets who study at the academy are enrolled for at least 2 years."
     },
     {
         "wikidata_id": "Q28771449",
@@ -43,7 +46,8 @@
         "aliases": null,
         "latitude": 41.32809,
         "longitude": 69.36158,
-        "type": "university"
+        "type": "university",
+        "description": "The Academy of the Ministry of Internal Affairs of Uzbekistan (Uzbek: O'zbekiston Respublikasi Ichki ishlar vazirligi akademiyasi), also known as the Tashkent Police School (Uzbek: Toshkent politsiya maktabi) is the main educational institution of the Ministry of Internal Affairs of Uzbekistan. Its purpose is to prepare highly qualified officers for service in the interior ministry and the Armed Forces of the Republic of Uzbekistan."
     },
     {
         "wikidata_id": "Q137397370",
@@ -56,7 +60,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28006255",
@@ -66,7 +71,8 @@
         "aliases": null,
         "latitude": 41.2930556,
         "longitude": 69.2530556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136649140",
@@ -79,7 +85,8 @@
         ],
         "latitude": 41.3070878,
         "longitude": 69.2550421,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294772",
@@ -91,7 +98,8 @@
         ],
         "latitude": 40.856012,
         "longitude": 72.300032,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25532246",
@@ -103,7 +111,8 @@
         ],
         "latitude": 40.7744231,
         "longitude": 72.3373811,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20533248",
@@ -113,7 +122,8 @@
         "aliases": null,
         "latitude": 40.8113792,
         "longitude": 72.3284265,
-        "type": "university"
+        "type": "university",
+        "description": "Andijan State Medical University (ASMI) is the biggest medical University and research center in Uzbekistan, founded in 1955."
     },
     {
         "wikidata_id": "Q124844869",
@@ -125,7 +135,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19818745",
@@ -135,7 +146,8 @@
         "aliases": null,
         "latitude": 40.7881111,
         "longitude": 72.3725556,
-        "type": "university"
+        "type": "university",
+        "description": "Andijan State University (named after Z. M. Bobur, and often abbreviated as ASU or ADU) is a university in Andijan, eastern Uzbekistan. It was founded in 1939 as a branch of Fergana Pedagogical Institute. Today, 6905 undergraduate students and 149 postgraduate students are enrolled at the university."
     },
     {
         "wikidata_id": "Q117237566",
@@ -149,7 +161,8 @@
         ],
         "latitude": 41.3384,
         "longitude": 69.34088,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25531810",
@@ -161,7 +174,8 @@
         ],
         "latitude": 39.8067222,
         "longitude": 64.43,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25531811",
@@ -176,7 +190,8 @@
         ],
         "latitude": 39.755,
         "longitude": 64.4222222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20536168",
@@ -186,7 +201,8 @@
         "aliases": null,
         "latitude": 39.76,
         "longitude": 64.422,
-        "type": "university"
+        "type": "university",
+        "description": "Bukhara State University, Bukhara State University named after Fayzulla Khodjayev, is a higher educational institution in Bukhara, Uzbekistan that trains scientific and pedagogical personnel."
     },
     {
         "wikidata_id": "Q114568254",
@@ -196,7 +212,8 @@
         "aliases": null,
         "latitude": 39.7569444,
         "longitude": 64.4163889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q132444474",
@@ -208,7 +225,8 @@
         ],
         "latitude": 41.366383,
         "longitude": 69.342735,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q106485444",
@@ -220,7 +238,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Central Asian University (CAU) is a private university located in Tashkent, Uzbekistan. It was established in 2019 and provides undergraduate, postgraduate, and medical education programs. Instruction is primarily conducted in English."
     },
     {
         "wikidata_id": "Q138335385",
@@ -238,7 +257,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97145097",
@@ -248,7 +268,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q116971973",
@@ -258,7 +279,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136564987",
@@ -268,7 +290,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16711550",
@@ -280,7 +303,8 @@
         ],
         "latitude": 40.3874167,
         "longitude": 71.7768889,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122885018",
@@ -290,7 +314,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12822800",
@@ -302,7 +327,8 @@
         ],
         "latitude": 40.5041484,
         "longitude": 68.7841453,
-        "type": "university"
+        "type": "university",
+        "description": "Gulistan State University (GSU) is a public university in Guliston, Uzbekistan."
     },
     {
         "wikidata_id": "Q12829082",
@@ -312,7 +338,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18351500",
@@ -322,7 +349,8 @@
         "aliases": null,
         "latitude": 41.3385,
         "longitude": 69.3346,
-        "type": "university"
+        "type": "university",
+        "description": "Inha University in Tashkent or IUT (Toshkent Shahridagi Inha Universiteti in Uzbek) is a branch of the Korean Inha University in Tashkent, Uzbekistan. Inha University in Tashkent has two departments - School of Computer and Information Engineering, and the School of Logistics.\nInha University in Tashkent was established according to the resolution of the first president of the Republic of Uzbekistan."
     },
     {
         "wikidata_id": "Q25514618",
@@ -332,7 +360,8 @@
         "aliases": null,
         "latitude": 41.311754,
         "longitude": 69.266442,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q113562425",
@@ -345,7 +374,8 @@
         ],
         "latitude": 41.336708,
         "longitude": 69.341101,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25523291",
@@ -355,7 +385,8 @@
         "aliases": null,
         "latitude": 41.335273,
         "longitude": 69.334893,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25520526",
@@ -369,7 +400,8 @@
         ],
         "latitude": 41.304987,
         "longitude": 69.283384,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25529359",
@@ -381,7 +413,8 @@
         ],
         "latitude": 41.31288,
         "longitude": 69.73978,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q130260861",
@@ -393,7 +426,8 @@
         ],
         "latitude": 41.33727,
         "longitude": 69.340373,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25529177",
@@ -403,7 +437,8 @@
         "aliases": null,
         "latitude": 41.32322,
         "longitude": 69.260576,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25517294",
@@ -415,7 +450,8 @@
         ],
         "latitude": 41.32965,
         "longitude": 69.27037,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q65284123",
@@ -427,7 +463,8 @@
         ],
         "latitude": 41.306626,
         "longitude": 69.286564,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12822154",
@@ -437,7 +474,8 @@
         "aliases": null,
         "latitude": 41.369047,
         "longitude": 69.404858,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12828426",
@@ -447,7 +485,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q12827364",
@@ -457,7 +496,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4201868",
@@ -467,7 +507,8 @@
         "aliases": null,
         "latitude": 41.4115,
         "longitude": 69.4552,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25523507",
@@ -477,7 +518,8 @@
         "aliases": null,
         "latitude": 41.337893,
         "longitude": 69.33748,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25533866",
@@ -487,7 +529,8 @@
         "aliases": null,
         "latitude": 41.343986,
         "longitude": 69.310037,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16705028",
@@ -499,7 +542,8 @@
         ],
         "latitude": 41.3235,
         "longitude": 69.258,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q124358666",
@@ -511,7 +555,8 @@
         ],
         "latitude": 41.3330833,
         "longitude": 69.255,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q72342707",
@@ -523,7 +568,8 @@
         ],
         "latitude": 40.1399322,
         "longitude": 67.8211907,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12824054",
@@ -533,7 +579,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Military Aviation Institute (Uzbek: O'zbekiston Respublikasi Harbiy aviatsiya instituti) is the military academy of the Uzbek Air Force, located in the city of Qarshi. It is one of 8 military colleges in Uzbekistan. The schools is responsible for preparing highly qualified military personnel with advanced knowledge and specialties."
     },
     {
         "wikidata_id": "Q12824058",
@@ -543,7 +590,8 @@
         "aliases": null,
         "latitude": 40.1295,
         "longitude": 67.836,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25533701",
@@ -553,7 +601,8 @@
         "aliases": null,
         "latitude": 40.1318611,
         "longitude": 67.8264722,
-        "type": "university"
+        "type": "university",
+        "description": "Jizzakh State Pedagogical University (JSPU) is one of the largest institutions of higher education and research centers in Uzbekistan, and a part of the Ministry of Higher and Secondary Specialized Education of Uzbekistan.\nThe university was founded on August 8, 1974, following the decree No. 256 of the Uzbekistan Ministry of Public Education."
     },
     {
         "wikidata_id": "Q20536396",
@@ -565,7 +614,8 @@
         ],
         "latitude": 42.4526667,
         "longitude": 59.6266389,
-        "type": "university"
+        "type": "university",
+        "description": "The Karakalpak State University named after Berdakh (Karakalpak: Berdaq atındaǵı Qaraqalpaq mámleketlik universiteti, Uzbek: Berdaq nomidagi Qoraqalpoq davlat universiteti) is a public university in Nukus, capital of autonomous Republic of Karakalpakstan in north-western Uzbekistan. The university is flagship institution of higher education of Karakalpakstan and its biggest academic and research centre.\nThe institution is named after the poet Berdakh."
     },
     {
         "wikidata_id": "Q73011341",
@@ -575,7 +625,8 @@
         "aliases": null,
         "latitude": 38.8278975,
         "longitude": 65.728266,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25528138",
@@ -589,7 +640,8 @@
         ],
         "latitude": 38.8359099,
         "longitude": 65.8090434,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q82524912",
@@ -602,7 +654,8 @@
         ],
         "latitude": 41.2583534,
         "longitude": 69.2205327,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q65283740",
@@ -612,7 +665,8 @@
         "aliases": null,
         "latitude": 40.5428746,
         "longitude": 70.9717428,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122676021",
@@ -624,7 +678,8 @@
         ],
         "latitude": 40.531158,
         "longitude": 70.928566,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q72083411",
@@ -634,7 +689,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25529326",
@@ -644,7 +700,8 @@
         "aliases": null,
         "latitude": 41.2692567,
         "longitude": 69.2027574,
-        "type": "university"
+        "type": "university",
+        "description": "The Management Development Institute of Singapore in Tashkent (MDIST) is one of the first international university branches to open in Uzbekistan. It was established to meet the high demand for professionals in various fields. MDIS serves students of Uzbekistan and other CIS countries."
     },
     {
         "wikidata_id": "Q122887111",
@@ -654,7 +711,8 @@
         "aliases": null,
         "latitude": 39.721845,
         "longitude": 64.551243,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q67080757",
@@ -664,7 +722,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Military Institute of Information and Communication Technologies and Communications (Uzbek: Axborot-kommunikatsiya texnologiyalari va kommunikatsiyalarining harbiy instituti; Russian: Военного института информационно-коммуникационных технологий и связи) is a specialized educational institution in the Armed Forces of Uzbekistan, under the Education System of the Ministry of Defense in Tashkent. It is currently led by Lieutenant Colonel Khakim Mukhitdinov. Its main campus is located in Yunusabad."
     },
     {
         "wikidata_id": "Q25512565",
@@ -677,7 +736,8 @@
         ],
         "latitude": 41.0071291,
         "longitude": 71.6302096,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q65283648",
@@ -687,7 +747,8 @@
         "aliases": null,
         "latitude": 41.010882,
         "longitude": 71.5927962,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q133998743",
@@ -697,7 +758,8 @@
         "aliases": null,
         "latitude": 41.00238,
         "longitude": 71.67524,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136565002",
@@ -709,7 +771,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q32393",
@@ -721,7 +784,8 @@
         ],
         "latitude": 41.0022753,
         "longitude": 71.6743985,
-        "type": "university"
+        "type": "university",
+        "description": "Namangan State University (NamSU) was established in 1942 as a pedagogical institute. It is in Namangan province which has almost 2.8 mln population with 7900 km2 area located in eastern part on Uzbekistan, considered one of the strategically important area. Nowadays NamSU has over 28,547 students in bachelor's and master's degree programs."
     },
     {
         "wikidata_id": "Q132166690",
@@ -731,7 +795,8 @@
         "aliases": null,
         "latitude": 41.337893,
         "longitude": 69.33748,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25511308",
@@ -741,7 +806,8 @@
         "aliases": null,
         "latitude": 41.2815432,
         "longitude": 69.268304,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q651133",
@@ -754,7 +820,8 @@
         ],
         "latitude": 41.3511111,
         "longitude": 69.205,
-        "type": "university"
+        "type": "university",
+        "description": "National University of Uzbekistan (NUUz; Uzbek: Mirzo Ulugʻbek nomidagi Oʻzbekiston milliy universiteti, OʻzMU) is a public research university located in Tashkent, Uzbekistan. NUUz is the oldest and largest university in Uzbekistan.\nThe National University of Uzbekistan is named after Mirzo Ulugbek."
     },
     {
         "wikidata_id": "Q25512478",
@@ -764,7 +831,8 @@
         "aliases": null,
         "latitude": 40.0960606,
         "longitude": 65.3861431,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25512487",
@@ -774,7 +842,8 @@
         "aliases": null,
         "latitude": 40.0853032,
         "longitude": 65.3837858,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136565003",
@@ -786,7 +855,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q116959484",
@@ -798,7 +868,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "New Uzbekistan University (Uzbek: Yangi O'zbekiston universiteti) is an Uzbek state university in Uzbekistan's capital Tashkent. It was founded in 2021 by presidential decree as the first public autonomous university with the aim of taking a leading position in research and teaching. It is part of the presidential education system of Uzbekistan."
     },
     {
         "wikidata_id": "Q114076881",
@@ -810,7 +881,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130533008",
@@ -822,7 +894,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12828800",
@@ -832,7 +905,8 @@
         "aliases": null,
         "latitude": 42.4717055,
         "longitude": 59.5877756,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q65287932",
@@ -842,7 +916,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4483534",
@@ -854,7 +929,8 @@
         ],
         "latitude": 41.328586,
         "longitude": 69.293936,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q111939454",
@@ -864,7 +940,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122676355",
@@ -874,7 +951,8 @@
         "aliases": null,
         "latitude": 41.3546299,
         "longitude": 69.3880496,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122676362",
@@ -884,7 +962,8 @@
         "aliases": null,
         "latitude": 41.3254443,
         "longitude": 69.302782,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122676453",
@@ -894,7 +973,8 @@
         "aliases": null,
         "latitude": 41.3263109,
         "longitude": 69.2267045,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122676456",
@@ -904,7 +984,8 @@
         "aliases": null,
         "latitude": 41.3393761,
         "longitude": 69.2636013,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122676480",
@@ -914,7 +995,8 @@
         "aliases": null,
         "latitude": 41.3125697,
         "longitude": 69.1981589,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122676561",
@@ -924,7 +1006,8 @@
         "aliases": null,
         "latitude": 41.2825721,
         "longitude": 69.2266617,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122676636",
@@ -934,7 +1017,8 @@
         "aliases": null,
         "latitude": 41.26949,
         "longitude": 69.2347,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122676640",
@@ -944,7 +1028,8 @@
         "aliases": null,
         "latitude": 41.2946315,
         "longitude": 69.2489697,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122676666",
@@ -954,7 +1039,8 @@
         "aliases": null,
         "latitude": 41.3038656,
         "longitude": 69.2877413,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122885001",
@@ -964,7 +1050,8 @@
         "aliases": null,
         "latitude": 39.658571,
         "longitude": 66.980232,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125516651",
@@ -974,7 +1061,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12821132",
@@ -984,7 +1072,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q135702534",
@@ -994,7 +1083,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25518475",
@@ -1004,7 +1094,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25521970",
@@ -1014,7 +1105,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25527395",
@@ -1024,7 +1116,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25531268",
@@ -1034,7 +1127,8 @@
         "aliases": null,
         "latitude": 41.3150993,
         "longitude": 69.2950134,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4453002",
@@ -1044,7 +1138,8 @@
         "aliases": null,
         "latitude": 41.3561111,
         "longitude": 69.1661111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q65283674",
@@ -1054,7 +1149,8 @@
         "aliases": null,
         "latitude": 41.3241229,
         "longitude": 69.2777616,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q66807370",
@@ -1064,7 +1160,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q72171746",
@@ -1074,7 +1171,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97236526",
@@ -1084,7 +1182,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q97292760",
@@ -1094,7 +1193,8 @@
         "aliases": null,
         "latitude": 42.4440035,
         "longitude": 59.6121357,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20536381",
@@ -1106,7 +1206,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134760855",
@@ -1116,7 +1217,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25510650",
@@ -1129,7 +1231,8 @@
         ],
         "latitude": 41.348163,
         "longitude": 69.207835,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q25531425",
@@ -1142,7 +1245,8 @@
         ],
         "latitude": 41.342889,
         "longitude": 69.342888,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q122886777",
@@ -1152,7 +1256,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28364225",
@@ -1162,7 +1267,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25532333",
@@ -1174,7 +1280,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q122885057",
@@ -1184,7 +1291,8 @@
         "aliases": null,
         "latitude": 39.653251,
         "longitude": 66.959397,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25531159",
@@ -1196,7 +1304,8 @@
         ],
         "latitude": 39.6531208,
         "longitude": 66.9591691,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25514536",
@@ -1208,7 +1317,8 @@
         ],
         "latitude": 39.659801,
         "longitude": 66.9323277,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25514525",
@@ -1218,7 +1328,8 @@
         "aliases": null,
         "latitude": 39.6320168,
         "longitude": 66.9405914,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q19521631",
@@ -1228,7 +1339,8 @@
         "aliases": null,
         "latitude": 39.652,
         "longitude": 66.9632,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18399739",
@@ -1240,7 +1352,8 @@
         ],
         "latitude": 39.654,
         "longitude": 66.959,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4406337",
@@ -1254,7 +1367,8 @@
         ],
         "latitude": 39.6447008,
         "longitude": 66.9611173,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122885019",
@@ -1264,7 +1378,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122887055",
@@ -1274,7 +1389,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122676641",
@@ -1284,7 +1400,8 @@
         "aliases": null,
         "latitude": 41.2879624,
         "longitude": 69.2599629,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122886753",
@@ -1294,7 +1411,8 @@
         "aliases": null,
         "latitude": 39.7759912,
         "longitude": 64.409866,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136699291",
@@ -1307,7 +1425,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q72084150",
@@ -1317,7 +1436,8 @@
         "aliases": null,
         "latitude": 39.0785388,
         "longitude": 66.8535075,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130285340",
@@ -1330,7 +1450,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21674834",
@@ -1343,7 +1464,8 @@
         ],
         "latitude": 41.3143032,
         "longitude": 69.2548506,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q12826385",
@@ -1353,7 +1475,8 @@
         "aliases": null,
         "latitude": 41.3512754,
         "longitude": 69.3422023,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q23638994",
@@ -1363,7 +1486,8 @@
         "aliases": null,
         "latitude": 41.3016663,
         "longitude": 69.2789545,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4452997",
@@ -1376,7 +1500,8 @@
         ],
         "latitude": 41.3002778,
         "longitude": 69.2811111,
-        "type": "university"
+        "type": "university",
+        "description": "Moscow State University, Tashkent, or Branch of Moscow State University Named for M.V. Lomonosov in Tashkent, was established in 2006 by the government of Uzbekistan as a branch of Moscow State University. The university primarily focuses on two areas: psychology and computer science. The campus is at 22 Amir Temur Prospect."
     },
     {
         "wikidata_id": "Q52223",
@@ -1388,7 +1513,8 @@
         ],
         "latitude": 41.3201,
         "longitude": 69.3065,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28666102",
@@ -1398,7 +1524,8 @@
         "aliases": null,
         "latitude": 41.47807,
         "longitude": 69.57103,
-        "type": "university"
+        "type": "university",
+        "description": "The Chirchiq Higher Tank Command and Engineering School (Uzbek: Чирчиқ олий танк қўмондонлик-муҳандислик билим юрти), formerly the Tashkent Order of Lenin Higher Tank Command School named after Pavel Rybalko (Russian: Ташкентское высшее танковое командное училище имени П. С. Рыбалко (ТВТКУ), romanized: Tashkentskoye vyssheye tankovoye komandnoye ordena Lenina uchilishche imeni dvazhdy Geroya Sovetskogo Soyuza marshala bronetankovykh voysk P. S. Rybalko (TVTKU)), is a military academy of the Ministry of Defense of Uzbekistan, responsible for training armored and engineering personnel of the Uzbekistan Ground Forces.\nEstablished in 1918 as the Nizhny Novgorod Infantry Courses, it became an infantry school in 1921 and was converted into a tank school in 1932, training tank commanders for the expanding Soviet armored forces. It relocated to Kharkov in 1938 and was evacuated to Chirchiq in September 1941 following Operation Barbarossa, the German invasion of the Soviet Union during World War II. The school was renamed the Tashkent Higher Tank Command School in 1966."
     },
     {
         "wikidata_id": "Q7687220",
@@ -1411,7 +1538,8 @@
         ],
         "latitude": 41.3202,
         "longitude": 69.2616,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4452999",
@@ -1431,7 +1559,8 @@
         ],
         "latitude": 41.3221154,
         "longitude": 69.2462664,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17372833",
@@ -1444,7 +1573,8 @@
         ],
         "latitude": 41.3232,
         "longitude": 69.296,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25521981",
@@ -1454,7 +1584,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25522068",
@@ -1466,7 +1597,8 @@
         ],
         "latitude": 41.284,
         "longitude": 69.2455,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131293755",
@@ -1476,7 +1608,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q111694614",
@@ -1488,7 +1621,8 @@
         ],
         "latitude": 41.290192,
         "longitude": 69.365206,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q136565006",
@@ -1500,7 +1634,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q20631438",
@@ -1510,7 +1645,8 @@
         "aliases": null,
         "latitude": 41.3387466,
         "longitude": 69.2384196,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4452982",
@@ -1522,7 +1658,8 @@
         ],
         "latitude": 41.3594325,
         "longitude": 69.1754985,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q130473792",
@@ -1534,7 +1671,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25522033",
@@ -1547,7 +1685,8 @@
         ],
         "latitude": 41.273063,
         "longitude": 69.204927,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4452988",
@@ -1557,7 +1696,8 @@
         "aliases": null,
         "latitude": 41.3540204,
         "longitude": 69.3318449,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4452998",
@@ -1567,7 +1707,8 @@
         "aliases": null,
         "latitude": 41.2977778,
         "longitude": 69.2755556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16705025",
@@ -1579,7 +1720,8 @@
         ],
         "latitude": 41.3622222,
         "longitude": 69.3405556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25529331",
@@ -1591,7 +1733,8 @@
         ],
         "latitude": 41.3091922,
         "longitude": 69.2989427,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25522012",
@@ -1601,7 +1744,8 @@
         "aliases": null,
         "latitude": 41.2997709,
         "longitude": 69.2616783,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q21600575",
@@ -1613,7 +1757,8 @@
         ],
         "latitude": 41.2984187,
         "longitude": 69.2744811,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3162985",
@@ -1623,7 +1768,8 @@
         "aliases": null,
         "latitude": 41.3524484,
         "longitude": 69.2070277,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1822284",
@@ -1636,7 +1782,8 @@
         ],
         "latitude": 41.2764,
         "longitude": 69.2822,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2428356",
@@ -1648,7 +1795,8 @@
         ],
         "latitude": 41.3061111,
         "longitude": 69.2544444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7687227",
@@ -1660,7 +1808,8 @@
         ],
         "latitude": 41.31106,
         "longitude": 69.27753,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1348615",
@@ -1672,7 +1821,8 @@
         ],
         "latitude": 41.3408333,
         "longitude": 69.2866667,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q104869141",
@@ -1682,7 +1832,8 @@
         "aliases": null,
         "latitude": 41.309177,
         "longitude": 69.344225,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125886260",
@@ -1692,7 +1843,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q132858669",
@@ -1702,7 +1854,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74500993",
@@ -1714,7 +1867,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q131560724",
@@ -1727,7 +1881,8 @@
         ],
         "latitude": 41.3747506,
         "longitude": 69.2729172,
-        "type": "university"
+        "type": "university",
+        "description": "The Law Enforcement Academy of the Republic of Uzbekistan is a higher education and research institution that trains personnel for the prosecutor's office and investigative bodies on the basis of a unified approach, with a system of continuous education: bachelor's, master's, doctoral, as well as retraining and advanced training. The Academy is headed by a head appointed and dismissed by the President of Uzbekistan."
     },
     {
         "wikidata_id": "Q15739366",
@@ -1740,7 +1895,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25529328",
@@ -1750,7 +1906,8 @@
         "aliases": null,
         "latitude": 41.350719,
         "longitude": 69.220975,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4071802",
@@ -1762,7 +1919,8 @@
         ],
         "latitude": 41.325739,
         "longitude": 69.296355,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q126903050",
@@ -1772,7 +1930,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25521053",
@@ -1784,7 +1943,8 @@
         ],
         "latitude": 37.2342079,
         "longitude": 67.2860279,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551706",
@@ -1796,7 +1956,8 @@
         ],
         "latitude": 41.324,
         "longitude": 69.321,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q132526910",
@@ -1808,7 +1969,8 @@
         ],
         "latitude": 41.34128,
         "longitude": 69.3413,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25511083",
@@ -1821,7 +1983,8 @@
         ],
         "latitude": 41.338252,
         "longitude": 69.340732,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q15924726",
@@ -1834,7 +1997,8 @@
         ],
         "latitude": 41.55725,
         "longitude": 60.605636,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q127272707",
@@ -1844,7 +2008,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25527783",
@@ -1857,7 +2022,8 @@
         ],
         "latitude": 41.437419,
         "longitude": 69.533754,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q4469711",
@@ -1869,7 +2035,8 @@
         ],
         "latitude": 41.285,
         "longitude": 69.1930556,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q116120180",
@@ -1882,7 +2049,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1552065",
@@ -1894,7 +2062,8 @@
         ],
         "latitude": 41.3069444,
         "longitude": 69.2833333,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q96633545",
@@ -1904,7 +2073,8 @@
         "aliases": null,
         "latitude": 40.2606111,
         "longitude": 68.8107778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q25527956",
@@ -1917,7 +2087,8 @@
         ],
         "latitude": 41.336031,
         "longitude": 69.335747,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q125446883",
@@ -1927,7 +2098,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q65283573",
@@ -1941,6 +2113,7 @@
         ],
         "latitude": 39.6444083,
         "longitude": 66.9579953,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

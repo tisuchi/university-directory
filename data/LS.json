@@ -13,7 +13,8 @@
         ],
         "latitude": -29.4505556,
         "longitude": 27.7230556,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Lesotho, the main and oldest university in Lesotho, is located in Roma, 34 km (21 mi) southeast of Maseru, the capital of Lesotho. The Roma valley is broad and is surrounded by a barrier of rugged mountains which provides magnificent scenery. The university enjoys a temperate climate with four distinct seasons."
     },
     {
         "wikidata_id": "Q100945117",
@@ -23,7 +24,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17042603",
@@ -35,6 +37,7 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Botswana, Lesotho and Swaziland (UBLS) was a predecessor to the universities of the respective countries, presently the University of Botswana, the National University of Lesotho, and the University of Eswatini. The University was originally known as the University of Basutoland, Bechuanaland and Swaziland (UBBS), which had its headquarters in Lesotho between 1964 and 1975. The UBBS had developed from the Pius XII Catholic University College at Roma, which was the product of a long-held desire of the Roman Catholic hierarchy in Southern Africa for an institution of higher learning for Africans."
     }
 ]

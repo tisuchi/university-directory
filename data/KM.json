@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3551727",
@@ -21,6 +22,7 @@
         ],
         "latitude": -11.7325,
         "longitude": 43.2779626,
-        "type": "university"
+        "type": "university",
+        "description": "The University of the Comoros is a higher education institution located in Mvouni, near Moroni, the capital of the Comoros."
     }
 ]

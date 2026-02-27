@@ -9,7 +9,8 @@
         ],
         "latitude": 5.6903307,
         "longitude": -0.2099589,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16240676",
@@ -23,7 +24,8 @@
         ],
         "latitude": 5.56611,
         "longitude": -0.261389,
-        "type": "university"
+        "type": "university",
+        "description": "The Accra Institute of Technology (AIT), is an independent technology-focused research university based in Accra, Ghana. The university comprises six schools and three institutes. \nAIT is equally a leading research university in Ghana with over 250 enrolled on its PhD programs."
     },
     {
         "wikidata_id": "Q4672825",
@@ -38,7 +40,8 @@
         ],
         "latitude": 5.554028,
         "longitude": -0.205556,
-        "type": "university"
+        "type": "university",
+        "description": "The Accra Technical University (ATU) was established in 1949 as a Technical School in Ghana and commissioned in 1957 as Accra Technical Institute before being converted into a Polytechnic in 2007 by the Parliament of Ghana.\nIt was later given a university status, becoming Accra Technical University (ATU) in 2016. The school is located in Accra, the capital city of Ghana."
     },
     {
         "wikidata_id": "Q46996955",
@@ -48,7 +51,8 @@
         "aliases": null,
         "latitude": 5.78044,
         "longitude": 0.62001,
-        "type": "university"
+        "type": "university",
+        "description": "Ada College of Education is a teacher education college in Ada-Foah (Ada East District, Greater Accra, Ghana). The college is located in Eastern \/ Greater Accra zone. It is one of the 46 Public Colleges of Education."
     },
     {
         "wikidata_id": "Q105078698",
@@ -61,7 +65,8 @@
         ],
         "latitude": 5.5922778,
         "longitude": -0.2437778,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q39397092",
@@ -75,7 +80,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q128034257",
@@ -87,7 +93,8 @@
         ],
         "latitude": 6.6697775,
         "longitude": 1.5765129,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q4689946",
@@ -102,7 +109,8 @@
         ],
         "latitude": 5.558098,
         "longitude": -0.211731,
-        "type": "university"
+        "type": "university",
+        "description": "The African University College of Communications is a private tertiary institution at Adabraka, Accra, Ghana, for the study and teaching of journalism, communication studies, information technology convergence, business, African Studies, providing opportunities for advanced learning, and practical and professional training for the rapid growth and development of Africa.\nThe university admitted the first batch of Diploma students for its Communication Studies programme in 2002, and was formally accredited as a tertiary institution by the National Accreditation Board (NAB) of Ghana in 2004."
     },
     {
         "wikidata_id": "Q134947528",
@@ -112,7 +120,8 @@
         "aliases": null,
         "latitude": 5.9732878,
         "longitude": -0.0854665,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q258200",
@@ -127,7 +136,8 @@
         ],
         "latitude": 6.090544,
         "longitude": -0.263329,
-        "type": "university"
+        "type": "university",
+        "description": "All Nations University was founded by Rev. Dr. Samuel Donkor in Ghana."
     },
     {
         "wikidata_id": "Q105078708",
@@ -140,7 +150,8 @@
         ],
         "latitude": 5.5796428,
         "longitude": -0.1085685,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q725198",
@@ -155,7 +166,8 @@
         ],
         "latitude": 5.7597222,
         "longitude": -0.2197222,
-        "type": "university"
+        "type": "university",
+        "description": "Ashesi University ( a-shii-si') is a private, non-profit and non-sectarian university located in Berekuso, near Accra.\nAshesi was established as an independent, public benefit education institution operating on a not-for-profit basis. The university obtained accreditation from the Ghanaian National Accreditation Board (now the Ghana Tertiary Education Commission) in September 2001 to operate under the mentorship of the University of Cape Coast (UCC), with degrees conferred by UCC. Ashesi began instruction on 4 March 2002."
     },
     {
         "wikidata_id": "Q85746900",
@@ -165,7 +177,8 @@
         "aliases": null,
         "latitude": 6.651,
         "longitude": -3.093,
-        "type": "university"
+        "type": "university",
+        "description": "Bia Lamplighter College of Education is a co-educational college of education in Sefwi Debsio (Bia West District, Western Region, Ghana). The college is located in the Central \/ Western zone. It is one of 46 public colleges of education in Ghana and is affiliated to the University of Education, Winneba."
     },
     {
         "wikidata_id": "Q100955843",
@@ -179,7 +192,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112036122",
@@ -189,7 +203,8 @@
         "aliases": null,
         "latitude": 10.806069,
         "longitude": -0.8633219,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q891337",
@@ -204,7 +219,8 @@
         ],
         "latitude": 10.8272222,
         "longitude": -0.9394444,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Bolgatanga Technical University BTU, (formally Bolgatanga Polytechnic) is a public tertiary institution in the Upper East Region of Ghana, West Africa. It is gradually increasing its courses and facilities following the achievement of university status. It was converted into a Technical University during the administration of the former president of Ghana, John Dramani Mahama."
     },
     {
         "wikidata_id": "Q103838315",
@@ -216,7 +232,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q115768943",
@@ -229,7 +246,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105078720",
@@ -244,7 +262,8 @@
         ],
         "latitude": 5.1534519,
         "longitude": -1.2791455,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105078699",
@@ -257,7 +276,8 @@
         ],
         "latitude": 5.5594722,
         "longitude": -0.2082222,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1051100",
@@ -271,7 +291,8 @@
         ],
         "latitude": 7.3538361,
         "longitude": -2.3879081,
-        "type": "university"
+        "type": "university",
+        "description": "The Catholic University College of Ghana is a private universities in Ghana. It is located at Fiapre, Sunyani in the Bono Region. It was granted accreditation by the National Accreditation Board on 4 December 2002."
     },
     {
         "wikidata_id": "Q134950490",
@@ -281,7 +302,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28223394",
@@ -295,7 +317,8 @@
         ],
         "latitude": 5.613,
         "longitude": -0.1929722,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1054042",
@@ -308,7 +331,8 @@
         ],
         "latitude": 5.5663,
         "longitude": -0.241,
-        "type": "university"
+        "type": "university",
+        "description": "The Central University is a Private university in Ghana, founded by the International Central Gospel Church (ICGC). It was founded as a pastoral training institute by Mensah Otabil in 1988. In June 1991, it was known as the Central Bible College."
     },
     {
         "wikidata_id": "Q100267078",
@@ -320,7 +344,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100942464",
@@ -333,7 +358,8 @@
         ],
         "latitude": 6.6931231,
         "longitude": -1.6523695,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1081899",
@@ -346,7 +372,8 @@
         ],
         "latitude": 6.6706539,
         "longitude": -1.6462343,
-        "type": "university"
+        "type": "university",
+        "description": "The Christian Service University  is one of the university accredited by the National Accreditation Board in the past decade. It is located in Kumasi, the second largest city in Ghana."
     },
     {
         "wikidata_id": "Q112123135",
@@ -359,7 +386,8 @@
         ],
         "latitude": 6.6704941,
         "longitude": -1.6461162,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30261781",
@@ -371,7 +399,8 @@
         ],
         "latitude": 6.217715,
         "longitude": -0.366133,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Cocoa Research Institute of Ghana (CRIG) is a national agricultural research institute headquartered at Tafo in the Eastern Region of Ghana. It is responsible for scientific research into cocoa production, diseases, genetics, processing, and sustainability. The institute operates under the Ghana Cocoa Board and serves as the principal body for cocoa research in Ghana."
     },
     {
         "wikidata_id": "Q5146623",
@@ -381,7 +410,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The College of Agriculture and Renewable Natural Resources (CANR) is one of the six colleges of Kwame Nkrumah University of Science and Technology in Ghana.\nCANR was founded in January 2005 after the release of revised university statuses in December 2004. It emerged from the former Faculty of Agriculture, the Institute of Renewable Natural Resources, and the School of Forestry."
     },
     {
         "wikidata_id": "Q5146636",
@@ -391,7 +421,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The College of Art and Built Environment came into existence in January 2005 in Kumasi, Ghana, as part of the restructuring of the Kwame Nkrumah University of Science and Technology into a Collegiate System. In the restructuring, the Faculty of Environmental and Development studies (FEDS) and the Institute of Land Management and Development (ILMAD) were merged to form the college."
     },
     {
         "wikidata_id": "Q5146641",
@@ -401,7 +432,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The College of Humanities and Social Sciences (CoHSS) is one of the six colleges of the Kwame Nkrumah University of Science and Technology in Kumasi, Ghana.\nThis college, like all five others, was established on 4 January 2005, following the promulgation of the new statutes. The college started with four academic Faculties: Art, Law, School of Business and Social Sciences, and a Research Centre; the Centre for Cultural and African Studies."
     },
     {
         "wikidata_id": "Q5146704",
@@ -411,7 +443,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The College of Engineering (CoE) is one of the six colleges of the Kwame Nkrumah University of Science and Technology (KNUST), in Kumasi, Ghana. It was established in October 1952 to prepare students for professional qualifications only. The College has since grown,  expanded and now runs 15 BSc, 20 MSc, MPhil and PhD programmes under 3 faculties; the faculty of Electrical and Computer Engineering, the faculty of Civil and Geo Engineering and the faculty of Mechanical and Chemical Engineering and 10 academic departments."
     },
     {
         "wikidata_id": "Q116869630",
@@ -425,7 +458,8 @@
         ],
         "latitude": 8.0508611,
         "longitude": -1.7324019,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q5146726",
@@ -435,7 +469,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The College of Health Sciences of the Kwame Nkrumah University of Science and Technology comprises the Faculties of Allied Health Sciences, Pharmacy and Pharmaceutical Sciences, School of Medical Sciences, School of Dentistry, School of Veterinary Medicine and the Kumasi Centre for Collaborative Research in tropical medicine (KCCR). It attained the status of a college by a change in the University Statutes that came into being in January 2005. Prior to this time, the components of the college existed separately as the Faculty of Pharmacy and School of Medical Sciences."
     },
     {
         "wikidata_id": "Q126205479",
@@ -447,7 +482,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q5146833",
@@ -460,7 +496,8 @@
         ],
         "latitude": 6.6732,
         "longitude": -1.5674,
-        "type": "college"
+        "type": "college",
+        "description": "The College of Science is one of six Colleges of the Kwame Nkrumah University of Science and Technology (KNUST). Originally established as the Faculty of Science in 1961, the College assumed its current status, following the restructuring of the University into six colleges in December 2004."
     },
     {
         "wikidata_id": "Q127347690",
@@ -470,7 +507,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q5187985",
@@ -482,7 +520,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q105078719",
@@ -495,7 +534,8 @@
         ],
         "latitude": 5.6701547,
         "longitude": -0.0235712,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16733458",
@@ -509,7 +549,8 @@
         ],
         "latitude": 5.7418787,
         "longitude": -0.0043939,
-        "type": "university"
+        "type": "university",
+        "description": "DataLink University College also known as DataLink Institute is a non-profit tertiary institution founded in 1993 by Ernest Ansah as a charitable education institute. It was fully transformed into a leading university college that offers programs leading to degrees, university access programs and certificates in other disciplines.\nThe institute has five campuses: Main Campus, Tema, at 5th Avenue, community Ten, Accra, Ho, Pre-university College."
     },
     {
         "wikidata_id": "Q100942462",
@@ -523,7 +564,8 @@
         ],
         "latitude": 5.64372,
         "longitude": -0.1626801,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q125019643",
@@ -536,7 +578,8 @@
         ],
         "latitude": 10.01225,
         "longitude": -2.513525,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5415743",
@@ -549,7 +592,8 @@
         ],
         "latitude": 6.6094582,
         "longitude": 0.4705369,
-        "type": "university"
+        "type": "university",
+        "description": "The Evangelical Presbyterian University College was established in 2008 by the Evangelical Presbyterian Church, Ghana."
     },
     {
         "wikidata_id": "Q112123077",
@@ -561,7 +605,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5469256",
@@ -573,7 +618,8 @@
         ],
         "latitude": 6.7109,
         "longitude": -1.5172,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Forestry Research Institute of Ghana (FORIG) is a research institution under the Council for Scientific and Industrial Research of Ghana.\nThe Forestry Research Institute of Ghana (FORIG), located in Fumesua near Kumasi in the Ashanti Region, is one of 13 institutes under the Council for Scientific and Industrial Research (CSIR). It began as a forestry research unit in 1962, became the Forest Products Research Institute in 1964, and was integrated into CSIR in 1968."
     },
     {
         "wikidata_id": "Q284673",
@@ -587,7 +633,8 @@
         ],
         "latitude": 6.7392651,
         "longitude": -1.5652295,
-        "type": "university"
+        "type": "university",
+        "description": "Garden City University (GCU) is a private university located in Kenyase, a suburb of Kumasi, in the Ashanti Region of Ghana. It was established in 2001 as the College of Information Technology and Management Systems. The institution was granted accreditation as a tertiary education provider in 2005 and renamed Garden City University College (GCUC)."
     },
     {
         "wikidata_id": "Q1521340",
@@ -600,7 +647,8 @@
         ],
         "latitude": 6.6913617,
         "longitude": -1.6074152,
-        "type": "university"
+        "type": "university",
+        "description": "The Ghana Baptist University College is a Baptist Christian university college located at Kumasi in Ghana. The university has been granted accreditation by the National Accreditation Board. It is affiliated with the Ghana Baptist Convention."
     },
     {
         "wikidata_id": "Q1521341",
@@ -614,7 +662,8 @@
         ],
         "latitude": 5.777,
         "longitude": -0.139,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1521371",
@@ -629,7 +678,8 @@
         ],
         "latitude": 5.596,
         "longitude": -0.223,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5555360",
@@ -642,7 +692,8 @@
         ],
         "latitude": 5.6583,
         "longitude": -0.170495,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1521350",
@@ -652,7 +703,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16733564",
@@ -666,7 +718,8 @@
         ],
         "latitude": 5.6360757,
         "longitude": -0.200648,
-        "type": "university"
+        "type": "university",
+        "description": "The Ghana Institute of Management and Public Administration (GIMPA)  is a public co-educational university spread over four campuses (Accra, Tema, Kumasi and Takoradi) and made up of six schools, ten research centers located at Greenhill in Accra, Ghana. \nThe location of GIMPA, Greenhill, was named by Nicholas T. Clerk (1930 – 2012) who served as the Rector of the institute from 1977 to 1982. The name, \"Greenhill\", is a reference to the lush greenery and hilly topography of the main campus, as well as its location in Legon which was historically on the periphery of the Ghanaian capital, Accra."
     },
     {
         "wikidata_id": "Q135387816",
@@ -676,7 +729,8 @@
         "aliases": null,
         "latitude": 5.6362306,
         "longitude": -0.2006158,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q114246749",
@@ -689,7 +743,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5555323",
@@ -701,7 +756,8 @@
         ],
         "latitude": 5.55958,
         "longitude": -0.19206,
-        "type": "university"
+        "type": "university",
+        "description": "The Ghana-India Kofi Annan Centre of Excellence in ICT (AITI-KACE) is Ghana's first Advanced Information Technology Institute (AITI). It was established in 2003, through a partnership between the government of Ghana and the government of India.\nThe centre also houses West Africa's first supercomputer."
     },
     {
         "wikidata_id": "Q96375236",
@@ -713,7 +769,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Greenfield College is a private university in Ghana. It is located  at Penkwase - Sunyani in the Bono Region of Ghana. The college was established in 2016  and it was accredited by the National Accreditation Board in January 2017."
     },
     {
         "wikidata_id": "Q48797148",
@@ -725,7 +782,8 @@
         ],
         "latitude": 5.716363,
         "longitude": -0.294378,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1325425",
@@ -739,7 +797,8 @@
         ],
         "latitude": 6.5911111,
         "longitude": 0.4694444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100956163",
@@ -751,7 +810,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16219415",
@@ -761,7 +821,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute of African Studies, on the Anne Jiagee Road on the campus of the University of Ghana at Legon, is an interdisciplinary research institute in the humanities and social sciences. It was established by President Kwame Nkrumah in 1962 to encourage African studies.\nThomas Lionel Hodgkin served as the first Director, from 1962 to 1965."
     },
     {
         "wikidata_id": "Q16733673",
@@ -773,7 +834,8 @@
         ],
         "latitude": 5.6632817,
         "longitude": -0.1535759,
-        "type": "institute"
+        "type": "institute",
+        "description": "The Institute of Local Government Studies (ILGS) is a Government of Ghana institution established in 1999 with the mandate to educate students in public management  and development. The institution is backed by Act of Parliament, 647 of 2003. The institute is under the Ministry of Local Government and Rural Development."
     },
     {
         "wikidata_id": "Q1358701",
@@ -786,7 +848,8 @@
         ],
         "latitude": 5.6557429,
         "longitude": -0.1171297,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q126949646",
@@ -800,7 +863,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105078717",
@@ -812,7 +876,8 @@
         ],
         "latitude": 5.5594332,
         "longitude": -0.2953454,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16733703",
@@ -824,7 +889,8 @@
         ],
         "latitude": 5.52668,
         "longitude": -0.48085,
-        "type": "university"
+        "type": "university",
+        "description": "KAAF University is an Engineering, Business Administration, Law, Political Science, and Health and Allied Sciences university in Fetteh Kakraba, Gomoa East District, Ghana."
     },
     {
         "wikidata_id": "Q105078703",
@@ -836,7 +902,8 @@
         ],
         "latitude": 6.541713,
         "longitude": -1.4506989,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112044401",
@@ -846,7 +913,8 @@
         "aliases": null,
         "latitude": 4.9263227,
         "longitude": -1.7443545,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105078704",
@@ -859,7 +927,8 @@
         ],
         "latitude": 5.5366411,
         "longitude": -0.3270336,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6334616",
@@ -872,7 +941,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100942463",
@@ -885,7 +955,8 @@
         ],
         "latitude": 5.6392118,
         "longitude": -0.1715281,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1406935",
@@ -901,7 +972,8 @@
         ],
         "latitude": 6.0874562,
         "longitude": -0.262417,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1791968",
@@ -917,7 +989,8 @@
         ],
         "latitude": 6.6911111,
         "longitude": -1.61,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q6450085",
@@ -931,7 +1004,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1654025",
@@ -948,7 +1022,8 @@
         ],
         "latitude": 6.67868,
         "longitude": -1.56063,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943469",
@@ -958,7 +1033,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946294",
@@ -968,7 +1044,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946293",
@@ -978,7 +1055,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946295",
@@ -988,7 +1066,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946297",
@@ -998,7 +1077,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q55648280",
@@ -1012,7 +1092,8 @@
         ],
         "latitude": 5.7051893,
         "longitude": -0.119326,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30266490",
@@ -1028,7 +1109,8 @@
         ],
         "latitude": 5.6422061,
         "longitude": -0.1524234,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134950964",
@@ -1038,7 +1120,8 @@
         "aliases": null,
         "latitude": 5.60887,
         "longitude": -0.0863803,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1892276",
@@ -1050,7 +1133,8 @@
         ],
         "latitude": 5.6252,
         "longitude": -0.276391,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105078718",
@@ -1064,7 +1148,8 @@
         ],
         "latitude": 5.5783386,
         "longitude": -0.2570406,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1602891",
@@ -1076,7 +1161,8 @@
         ],
         "latitude": 5.557669,
         "longitude": -0.303446,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1925513",
@@ -1092,7 +1178,8 @@
         ],
         "latitude": 5.56611,
         "longitude": -0.261389,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q15260094",
@@ -1105,7 +1192,8 @@
         ],
         "latitude": 5.5776944,
         "longitude": -0.1963333,
-        "type": "university"
+        "type": "university",
+        "description": "Mountcrest University College is a private co-ed tertiary institution in Ghana."
     },
     {
         "wikidata_id": "Q48774248",
@@ -1115,7 +1203,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The National Academy of Music is a Ghanaian institution for the training and development of musician from around the county. It is under the University of Education in Winneba. The school offers undergraduate and post graduate degrees in music."
     },
     {
         "wikidata_id": "Q110057126",
@@ -1127,7 +1216,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q136560010",
@@ -1139,7 +1229,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q132171089",
@@ -1151,7 +1242,8 @@
         ],
         "latitude": 9.432555,
         "longitude": -0.870256,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q112650966",
@@ -1161,7 +1253,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7096265",
@@ -1173,7 +1266,8 @@
         ],
         "latitude": 5.5586,
         "longitude": -0.1718,
-        "type": "university"
+        "type": "university",
+        "description": "Open University of West Africa (OUWA) was founded in Ghana in November 2011 by John Roberts and Patrick Steele. With the goal to break the poverty cycle in West Africa through online education,  John Roberts and his co-founder were inspired by a simple but contradictory observation: at the moment, higher education penetration in Africa was very low, many of the best universities around the world were beginning to put their courses online through platforms like Coursera, edX, Udacity etc.\nThe two founders became driven by the idea of harnessing this “perfect storm” of free Open Educational Resources (OER), cheaper access to mobile technology, and the profound need to spur development through higher-ed in West African countries."
     },
     {
         "wikidata_id": "Q2048800",
@@ -1183,7 +1277,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2069397",
@@ -1198,7 +1293,8 @@
         ],
         "latitude": 5.6257926,
         "longitude": -0.2740947,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30688383",
@@ -1210,7 +1306,8 @@
         ],
         "latitude": 5.3933684,
         "longitude": -0.6542569,
-        "type": "university"
+        "type": "university",
+        "description": "Perez University College is a co-ed Christian University located in Gomoa Pomadze in the Central region of Ghana. It was formerly known as the Pan African Christian University College. It is the first private university to be established in the Central Region."
     },
     {
         "wikidata_id": "Q1566634",
@@ -1227,7 +1324,8 @@
         ],
         "latitude": 6.6763454,
         "longitude": -0.7446939,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q18393060",
@@ -1241,7 +1339,8 @@
         ],
         "latitude": 5.6404722,
         "longitude": -0.1635278,
-        "type": "university"
+        "type": "university",
+        "description": "Radford University College is a private university in East Legon, Accra, Ghana. It is affiliated with Kwame Nkrumah University of Science and Technology, and was most recently accredited in 2019 by the Ghana Tertiary Education Commission."
     },
     {
         "wikidata_id": "Q2137488",
@@ -1255,7 +1354,8 @@
         ],
         "latitude": 5.55917,
         "longitude": -0.226944,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7309095",
@@ -1269,7 +1369,8 @@
         ],
         "latitude": 5.6075293,
         "longitude": -0.0639116,
-        "type": "university"
+        "type": "university",
+        "description": "The Regional Maritime University (RMU) is an international tertiary institution and private university in Accra, Ghana. It attained full university status on 25 October 2007 and was launched as such by John Agyekum Kufuor, former President of the Republic of Ghana. It was called Nautical college and later changed to Regional maritime Academy."
     },
     {
         "wikidata_id": "Q138054075",
@@ -1281,7 +1382,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q126280043",
@@ -1294,7 +1396,8 @@
         ],
         "latitude": 9.98817,
         "longitude": -2.47967,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134954201",
@@ -1309,7 +1412,8 @@
         ],
         "latitude": 7.7207,
         "longitude": -2.5173,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q48800583",
@@ -1321,7 +1425,8 @@
         ],
         "latitude": 4.9821228,
         "longitude": -1.6865922,
-        "type": "college"
+        "type": "college",
+        "description": "Sekondi College is a co-educational second cycle school in Sekondi in the Western Region of Ghana."
     },
     {
         "wikidata_id": "Q16734102",
@@ -1333,7 +1438,8 @@
         ],
         "latitude": 6.09056,
         "longitude": -0.263333,
-        "type": "university"
+        "type": "university",
+        "description": "SMU Ghana was established in 2007 by KnowledgeWorkz Ltd - Ghana as Ghana's maiden Authorized Study centre of Sikkim Manipal University, India. It is Located at the Ring Road Central opposite Provident Towers in Accra.\nSMU Ghana Learning Centre offers bachelor's and master's degrees programs in the following departments:\n\nDepartment of IT (Information Technology)\nDepartment of Management\nDepartment of Journalism & Mass Communication\nThe Centre has an alumni base of more than 1000 students from Ghana, Nigeria, Liberia and other West African countries, including French & English speaking nationals."
     },
     {
         "wikidata_id": "Q116784677",
@@ -1345,7 +1451,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q28223359",
@@ -1357,7 +1464,8 @@
         ],
         "latitude": 5.65853,
         "longitude": -0.01132,
-        "type": "college"
+        "type": "college",
+        "description": "SOS-Hermann Gmeiner International College (locally called SOS-HGIC) is an international school in Tema, Ghana. It is a selective preparatory college that educates students from across Africa as well as from North America, Europe, and Asia. \nWith a Pan-African mission and philosophy, the school prepares young leaders who go on to top universities around the globe; with recent alumni going on to Princeton, Yale, Harvard, Dartmouth, Stanford, MIT, University of Edinburgh, University of British Columbia, University of Cape Town, and many more."
     },
     {
         "wikidata_id": "Q134958744",
@@ -1367,7 +1475,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943463",
@@ -1380,7 +1489,8 @@
         ],
         "latitude": 6.7347363,
         "longitude": -1.4774019,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q85847309",
@@ -1390,7 +1500,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q86937156",
@@ -1400,7 +1511,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q630686",
@@ -1412,7 +1524,8 @@
         ],
         "latitude": 7.32139,
         "longitude": -2.31667,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q1233332",
@@ -1428,7 +1541,8 @@
         ],
         "latitude": 4.9094444,
         "longitude": -1.7561111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q68939243",
@@ -1445,7 +1559,8 @@
         ],
         "latitude": 9.430345,
         "longitude": -0.8674485,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q2802873",
@@ -1458,7 +1573,8 @@
         ],
         "latitude": 9.38898,
         "longitude": -0.816899,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q48800044",
@@ -1471,7 +1587,8 @@
         ],
         "latitude": 5.653741,
         "longitude": -0.168848,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894642",
@@ -1484,7 +1601,8 @@
         ],
         "latitude": 6.281687,
         "longitude": -0.4669027,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2495782",
@@ -1496,7 +1614,8 @@
         ],
         "latitude": 5.5467045,
         "longitude": -0.3383245,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1766573",
@@ -1510,7 +1629,8 @@
         ],
         "latitude": 9.37382,
         "longitude": -0.884289,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946418",
@@ -1520,7 +1640,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100943472",
@@ -1530,7 +1651,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294148",
@@ -1542,7 +1664,8 @@
         ],
         "latitude": 5.6997333,
         "longitude": -0.2592361,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q746079",
@@ -1558,7 +1681,8 @@
         ],
         "latitude": 5.10364,
         "longitude": -1.28249,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946275",
@@ -1568,7 +1692,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946276",
@@ -1578,7 +1703,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946281",
@@ -1588,7 +1714,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q100946284",
@@ -1598,7 +1725,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946285",
@@ -1608,7 +1736,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946286",
@@ -1618,7 +1747,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946287",
@@ -1628,7 +1758,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946427",
@@ -1638,7 +1769,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1557172",
@@ -1653,7 +1785,8 @@
         ],
         "latitude": 5.33803,
         "longitude": -0.6254,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q7894844",
@@ -1668,7 +1801,8 @@
         ],
         "latitude": 7.34949,
         "longitude": -2.343501,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q99973613",
@@ -1680,7 +1814,8 @@
         ],
         "latitude": 6.0507,
         "longitude": -0.0075,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2303765",
@@ -1697,7 +1832,8 @@
         ],
         "latitude": 5.65075,
         "longitude": -0.18951,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q98550150",
@@ -1707,7 +1843,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q100946301",
@@ -1717,7 +1854,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946304",
@@ -1727,7 +1865,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946407",
@@ -1737,7 +1876,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946412",
@@ -1747,7 +1887,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q18357149",
@@ -1759,7 +1900,8 @@
         ],
         "latitude": 5.5394,
         "longitude": -0.2295,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946414",
@@ -1769,7 +1911,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946415",
@@ -1779,7 +1922,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946416",
@@ -1789,7 +1933,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946399",
@@ -1799,7 +1944,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946406",
@@ -1809,7 +1955,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q74538037",
@@ -1819,7 +1966,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q16734216",
@@ -1834,7 +1982,8 @@
         ],
         "latitude": 6.6032663,
         "longitude": 0.4758539,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q5555358",
@@ -1852,7 +2001,8 @@
         ],
         "latitude": 5.5631866,
         "longitude": -0.1910972,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2495871",
@@ -1869,7 +2019,8 @@
         ],
         "latitude": 5.2985306,
         "longitude": -2.0004611,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16734218",
@@ -1885,7 +2036,8 @@
         ],
         "latitude": 5.65988,
         "longitude": -0.166614,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2509370",
@@ -1899,7 +2051,8 @@
         ],
         "latitude": 5.7993263,
         "longitude": -0.1260923,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945095",
@@ -1909,7 +2062,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945098",
@@ -1919,7 +2073,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100946273",
@@ -1929,7 +2084,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100945100",
@@ -1939,7 +2095,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q2538163",
@@ -1953,7 +2110,8 @@
         ],
         "latitude": 10.0136087,
         "longitude": -2.5125003,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q134959330",
@@ -1963,7 +2121,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16733317",
@@ -1973,7 +2132,8 @@
         "aliases": null,
         "latitude": 5.6383661,
         "longitude": -0.1659203,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q105078702",
@@ -1986,7 +2146,8 @@
         ],
         "latitude": 5.5353593,
         "longitude": -0.3983614,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q112123288",
@@ -1996,7 +2157,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q126463",
@@ -2010,7 +2172,8 @@
         ],
         "latitude": 5.6701,
         "longitude": -0.189428,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q8069126",
@@ -2024,6 +2187,7 @@
         ],
         "latitude": 5.57272,
         "longitude": -0.14367,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

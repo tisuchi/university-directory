@@ -7,7 +7,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122922491",
@@ -22,7 +23,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "institute"
+        "type": "institute",
+        "description": null
     },
     {
         "wikidata_id": "Q103018894",
@@ -32,7 +34,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q536280",
@@ -45,7 +48,8 @@
         ],
         "latitude": 18.0365,
         "longitude": 102.6366,
-        "type": "university"
+        "type": "university",
+        "description": "The National University of Laos (NUOL) is a national public university in Vientiane, the capital of Laos. Founded in 1996, with departments brought in from other existing colleges, it is the only national university in the country. The NUOL accepts students from all over Laos, along with international students."
     },
     {
         "wikidata_id": "Q123137542",
@@ -55,7 +59,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1289092",
@@ -65,7 +70,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Sisavangvong University was a university in Vientiane, Laos, established in 1958 and named after King Sisavangvong. Following the exodus of teaching staff in 1975 when the communists came to power in Laos, Sisavangvong University was dissolved and divided into separate colleges, leaving the country with no degree-awarding institution."
     },
     {
         "wikidata_id": "Q1584919",
@@ -75,6 +81,7 @@
         "aliases": null,
         "latitude": 19.9216,
         "longitude": 102.1881,
-        "type": "university"
+        "type": "university",
+        "description": "Souphanouvong University is a public university located in Luang Prabang, Laos."
     }
 ]

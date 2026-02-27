@@ -9,7 +9,8 @@
         ],
         "latitude": 22.78,
         "longitude": 58.52,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q17058840",
@@ -19,7 +20,8 @@
         "aliases": null,
         "latitude": 23.6128,
         "longitude": 58.4845,
-        "type": "university"
+        "type": "university",
+        "description": "Al-Zahra College for Women (Arabic: كلية الزهراء للبنات, romanized: Kullīyat al-Zahrāʼ lil-Banāt) is a private college in Oman. It was founded in the academic year 1999\/2000 and is located in Airport Heights Muscat, Oman."
     },
     {
         "wikidata_id": "Q3679860",
@@ -29,7 +31,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "Arab Open University (AOU) (Arabic: الجامعة العربية المفتوحة) is a non-profit university system in the Arab world. Headquartered in Kuwait, the system is composed of 16 campuses across 9 countries: Ardiya in Kuwait, Riyadh, Jeddah, Dammam, Madinah, Ḥail, Al-Ahsa in Saudi Arabia, Seeb in Oman, A'ali in Bahrain, Amman in Jordan, Al-Bireh in Palestine, Beirut, Antelias, Tripoli in Lebanon, El-Shorouk in Egypt and Khartoum in Sudan.\nThe university has a combined student body of 62,612 students, 61,886 of which are postgraduates while 742 of which are postgraduates, 1031 staff members and 77,037 living alumni."
     },
     {
         "wikidata_id": "Q1207665",
@@ -39,7 +42,8 @@
         "aliases": null,
         "latitude": 17.0586111,
         "longitude": 54.1569444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1514056",
@@ -51,7 +55,8 @@
         ],
         "latitude": 23.63625,
         "longitude": 58.046,
-        "type": "university"
+        "type": "university",
+        "description": "The German University of Technology in Oman (GUtech) is a private university in Halban, Oman. It was established in 2007 in Muscat in collaboration with RWTH Aachen University in Germany. In the Academic Year 2021\/22 more than 2400 students were enrolled in GUtech's programs."
     },
     {
         "wikidata_id": "Q136564993",
@@ -63,7 +68,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1561654",
@@ -73,7 +79,8 @@
         "aliases": null,
         "latitude": 23.2515,
         "longitude": 56.4889444,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q122461695",
@@ -85,7 +92,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q100968499",
@@ -95,7 +103,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q6841327",
@@ -105,7 +114,8 @@
         "aliases": null,
         "latitude": 23.5679,
         "longitude": 58.168024,
-        "type": "college"
+        "type": "college",
+        "description": "Middle East College (MEC) is a private college based in Muscat, Oman. It is one of the leading higher education institution in the Sultanate of Oman, with over 5,100 students. MEC is affiliated to Coventry University, UK. It is located in the Knowledge Oasis Muscat."
     },
     {
         "wikidata_id": "Q130671949",
@@ -117,7 +127,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q84654205",
@@ -127,7 +138,8 @@
         "aliases": null,
         "latitude": 23.5521,
         "longitude": 58.3992,
-        "type": "university"
+        "type": "university",
+        "description": "National University of Science and Technology (NUST) (Arabic: الجامعة الوطنية للعلوم والتكنولوجيا, romanized: al-Jāmiʻah al-Waṭanīyah lil-ʻUlūm wa-al-Tiknūlūjiyā) is a private university in Oman which was established in 2018 by merger of two professional colleges, Caledonian College of Engineering and Oman Medical College. Around 4300 international students from 33 countries have graduated from the university."
     },
     {
         "wikidata_id": "Q103518710",
@@ -139,7 +151,8 @@
         ],
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q7089537",
@@ -149,7 +162,8 @@
         "aliases": null,
         "latitude": 23.55,
         "longitude": 58.4,
-        "type": "college"
+        "type": "college",
+        "description": "Oman Medical College was a medical college in the Sultanate of Oman established in 2001. The college was situated in Muscat and Sohar in the North Batinha region. The pharmacy campus was located in Bowsher."
     },
     {
         "wikidata_id": "Q136148642",
@@ -159,7 +173,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q77968258",
@@ -169,7 +184,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q2279017",
@@ -179,7 +195,8 @@
         "aliases": null,
         "latitude": 24.7616667,
         "longitude": 56.4588889,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q2496166",
@@ -189,7 +206,8 @@
         "aliases": null,
         "latitude": 24.2979,
         "longitude": 56.7803,
-        "type": "university"
+        "type": "university",
+        "description": "Sohar University (جامعة صحار) was established in 2001 as the first private university in Oman.\n\nThe university is located in Sohar, an industrial city with a port and free zone, close to the border with the United Arab Emirates. \n\nSohar University is composed of six colleges: the College of Business Administration, the College of Computer and Information Technology, the College of Education and Arts, the College of Engineering, the College of Linguistic Studies, and the College of Law."
     },
     {
         "wikidata_id": "Q1808326",
@@ -201,7 +219,8 @@
         ],
         "latitude": 23.6004,
         "longitude": 58.1691,
-        "type": "university"
+        "type": "university",
+        "description": "Sultan Qaboos University (SQU) (Arabic: جامعة السلطان قابوس) is a public university located in al-Seeb, Oman. Established in 1986, it is one of the two public universities in the country and is named after Qaboos bin Said al-Said, the Sultan of Oman from 1970 until 2020.\nMost students entering the university are selected based on their performance in high school final examinations."
     },
     {
         "wikidata_id": "Q100968500",
@@ -211,7 +230,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100968493",
@@ -221,7 +241,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100968491",
@@ -231,7 +252,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q100968494",
@@ -241,7 +263,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q225690",
@@ -251,7 +274,8 @@
         "aliases": null,
         "latitude": 22.5048,
         "longitude": 59.4406,
-        "type": "college"
+        "type": "college",
+        "description": null
     },
     {
         "wikidata_id": "Q1683947",
@@ -263,7 +287,8 @@
         ],
         "latitude": 24.23525,
         "longitude": 55.8913889,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Buraimi (UOB) (Arabic: جامعة البريمي) is a private university in the Al Buraimi Governorate in the Northern part of Oman. The university opened on 6 November 2010. The university is a product of a European-Omani consortium and offers programs under Omani and European control."
     },
     {
         "wikidata_id": "Q2496107",
@@ -273,7 +298,8 @@
         "aliases": null,
         "latitude": 22.9108,
         "longitude": 57.6722,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Nizwa (UoN) was established in 2002 by the Decree of Sultan Qaboos as the first non-profit university in the Sultanate of Oman. It remains the only institution of its kind in Oman.\n\nUpon the satisfaction of all requirements set forth by the Oman Ministry of Higher Education and the Higher Education Council, the University of Nizwa was granted legal status by ministerial decision No."
     },
     {
         "wikidata_id": "Q12191827",
@@ -283,7 +309,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "University Of Technology and Applied Sciences (UTAS) (Arabic: الجامعة التقنية والعلوم التطبيقية) is a public university operating in 9 governorates in Oman. It has 11 branches spread over different parts of the country. It was the first Higher Education institution and is the largest in Oman, with over 46,000 students."
     },
     {
         "wikidata_id": "Q1655933",
@@ -296,6 +323,7 @@
         ],
         "latitude": 22.775881,
         "longitude": 58.492543,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]

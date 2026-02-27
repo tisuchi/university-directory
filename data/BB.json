@@ -13,7 +13,8 @@
         ],
         "latitude": 13.091502,
         "longitude": -59.5790365,
-        "type": "university"
+        "type": "university",
+        "description": "The American University of Barbados School of Medicine (AUB), founded in 2011, is a private medical school with its main campus in Wildey, Barbados. When it opened in January 2012, it was the first offshore private medical school in Barbados, started as a branch of Era's Lucknow Medical College and Hospital, based in Lucknow, India."
     },
     {
         "wikidata_id": "Q4883438",
@@ -23,7 +24,8 @@
         "aliases": null,
         "latitude": 13.1919444,
         "longitude": -59.6405556,
-        "type": "university"
+        "type": "university",
+        "description": "The Bellairs Research Institute, located on the Caribbean island of Barbados, was founded in 1954 as a marine biology field-station for McGill University. The main campus of McGill University is in Montreal, Quebec, Canada. \nBellairs' initial funding was from a bequest by British naval commander, Carlyon Bellairs, for whom the institute is named."
     },
     {
         "wikidata_id": "Q55075099",
@@ -35,7 +37,8 @@
         ],
         "latitude": 13.09853,
         "longitude": -59.620876,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q60764292",
@@ -45,7 +48,8 @@
         "aliases": null,
         "latitude": 13.09648,
         "longitude": -59.600055,
-        "type": "college"
+        "type": "college",
+        "description": "The Erdiston Teachers' Training College is located in Pine Hill, Bridgetown, Barbados. It is affiliated with the School of Education of the University of the West Indies, Cave Hill Campus."
     },
     {
         "wikidata_id": "Q5665562",
@@ -55,7 +59,8 @@
         "aliases": null,
         "latitude": 13.100109,
         "longitude": -59.610299,
-        "type": "college"
+        "type": "college",
+        "description": "Harrison College is a co-educational grammar school (secondary school) in Bridgetown, Barbados. Founded in 1733, the school takes its name from Thomas Harrison, a Bridgetown merchant, who intended it to serve as \"A Public and Free School for the poor and indigent boys of the parish\".\nEven in the nineteenth century it was recognised as perhaps the most prestigious secondary school in the British West Indies, attracting boys from neighbouring islands, including Pelham Warner who later went on to become the \"Grand Old Man\" of English cricket."
     },
     {
         "wikidata_id": "Q746153",
@@ -71,7 +76,8 @@
         ],
         "latitude": 18.0058,
         "longitude": -76.7467,
-        "type": "university"
+        "type": "university",
+        "description": "The University of the West Indies (UWI), originally University College of the West Indies, is a public university system established to serve the higher education needs of the residents of 18 English-speaking countries and territories in the Caribbean: Anguilla, Antigua and Barbuda, The Bahamas, Barbados, Belize, Bermuda, British Virgin Islands, Cayman Islands, Dominica, Grenada, Guyana, Jamaica, Montserrat, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, and Turks and Caicos Islands.\nEach country is either a member of the Commonwealth of Nations or a British Overseas Territory.\nThe university has five major university centres: UWI Mona (Jamaica), UWI Cave Hill (Barbados), UWI St."
     },
     {
         "wikidata_id": "Q101000378",
@@ -81,7 +87,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000381",
@@ -91,7 +98,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000400",
@@ -101,7 +109,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q101000392",
@@ -111,7 +120,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q29467820",
@@ -123,6 +133,7 @@
         ],
         "latitude": 13.0943,
         "longitude": -59.47421,
-        "type": "university"
+        "type": "university",
+        "description": "The Washington University of Barbados (WUB) is a defunct medical school which opened in 2017 and closed in 2018. The for-profit university received a charter from the Barbados Ministry of Education in 2016, but was unaccredited. Allegedly part of an international scam in which 200 students from India were conned out of ₹25 crore, the CEO and director of the school were arrested by the Royal Barbados Police and charged with fraud in 2018."
     }
 ]

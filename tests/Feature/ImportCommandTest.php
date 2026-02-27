@@ -18,6 +18,7 @@ function sampleJsonResponse(int $count = 3): array
             'latitude' => 48.0 + $i,
             'longitude' => 11.0 + $i,
             'type' => 'university',
+            'description' => "A prestigious university dedicated to research and education in Testing {$i}.",
         ];
     }
 

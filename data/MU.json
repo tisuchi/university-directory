@@ -9,7 +9,8 @@
         ],
         "latitude": -20.2293368,
         "longitude": 57.5131355,
-        "type": "university"
+        "type": "university",
+        "description": "Curtin Mauritius is the Mauritian campus of Curtin University, a public university in Australia. It offers undergraduate and postgraduate degree programs in healthcare, information technology, commerce, design and communications. Curtin University is named after John Curtin, a prominent Prime Minister of Australia during World War II from 1941 to 1945, and is the largest university in the state of Western Australia with 58,607 students globally in 2022."
     },
     {
         "wikidata_id": "Q64687028",
@@ -21,7 +22,8 @@
         ],
         "latitude": -20.2333389,
         "longitude": 57.4992111,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q30294301",
@@ -31,7 +33,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q16932785",
@@ -41,7 +44,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": "The Mauritius Institute of Training and Development is an institute of pre-vocational and vocational education in Mauritius. The institute offers technical and vocational education and training (TVET) courses at the secondary and tertiary levels of education, as well as training for professional certifications in a number of subjects.\nThe institute also offers education and training options for early school leavers."
     },
     {
         "wikidata_id": "Q7096263",
@@ -54,7 +58,8 @@
         ],
         "latitude": -20.2333389,
         "longitude": 57.4992111,
-        "type": "university"
+        "type": "university",
+        "description": "The Open University of Mauritius (OU) is a public university in Mauritius. It offer programmes leading to  undergraduate, and postgraduate degrees through open distance learning. OU's headquarters are located in Réduit, Moka."
     },
     {
         "wikidata_id": "Q64686935",
@@ -66,7 +71,8 @@
         ],
         "latitude": -20.2679516,
         "longitude": 57.4862677,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q3485202",
@@ -76,7 +82,8 @@
         "aliases": null,
         "latitude": -20.282124,
         "longitude": 57.495596,
-        "type": "college"
+        "type": "college",
+        "description": "Sir Abdool Raman Osman State College, abbreviated as SARO SC or simply SARO, is a public secondary school for boys and girls in Phoenix, Mauritius. It was found in 1996 as the Royal College of Phoenix and was renamed in late 1996 after Sir Abdool Raman Osman, the first Governor-General of Mauritius. The school became a National College in 2007."
     },
     {
         "wikidata_id": "Q1097479",
@@ -90,7 +97,8 @@
         ],
         "latitude": -20.233888,
         "longitude": 57.497027,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Mauritius (UoM) (French: Université de Maurice) is the national university of Mauritius. It is the oldest and largest university in the country in terms of student enrollment and the curriculum offered. The public university's main campus is located at Réduit, Moka."
     },
     {
         "wikidata_id": "Q100943578",
@@ -100,7 +108,8 @@
         "aliases": null,
         "latitude": null,
         "longitude": null,
-        "type": "university"
+        "type": "university",
+        "description": null
     },
     {
         "wikidata_id": "Q1097363",
@@ -114,7 +123,8 @@
         ],
         "latitude": -20.176785,
         "longitude": 57.46729,
-        "type": "university"
+        "type": "university",
+        "description": "The University of Technology, Mauritius (UTM) is a public research university in Mauritius. The main campus lies in La Tour Koenig, Pointe-aux-Sables, within the district of Port-Louis. It was founded following the government of Mauritius approval of the setting up of the University of Technology, Mauritius in January 2000 and the proclamation of The University of Technology, Mauritius Act on 21 June 2000."
     },
     {
         "wikidata_id": "Q64686942",
@@ -126,6 +136,7 @@
         ],
         "latitude": -20.2447954,
         "longitude": 57.453676,
-        "type": "university"
+        "type": "university",
+        "description": null
     }
 ]
