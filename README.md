@@ -11,7 +11,7 @@
     <a href="https://github.com/tisuchi/university-directory/blob/main/LICENSE"><img src="https://img.shields.io/github/license/tisuchi/university-directory?style=flat-square" alt="License"></a>
 </p>
 
-A lightweight, structured university registry for Laravel applications. Built for scholarship platforms, education portals, and any app that needs clean university data with search, autocomplete, and URL-friendly slugs.
+A lightweight, structured university registry for Laravel applications. Ships with a bundled dataset of 60,000+ universities across 183 countries — no external API calls needed. Built for scholarship platforms, education portals, and any app that needs clean university data with search, autocomplete, and URL-friendly slugs.
 
 ## Requirements
 
@@ -33,13 +33,19 @@ php artisan migrate
 
 ## Importing Data
 
-Import university data from the curated data source by country code:
+The package ships with a bundled dataset of 60,000+ universities across 183 countries. Import by country code, region, or all at once:
 
 ```bash
 php artisan university-directory:import DE
 php artisan university-directory:import DE US GB
 php artisan university-directory:import --region=europe
 php artisan university-directory:import --all
+```
+
+By default the import reads from the local bundled files — no network access required. Use `--remote` to fetch fresh data from the remote source instead:
+
+```bash
+php artisan university-directory:import DE --remote
 ```
 
 Available regions: `europe`, `asia`, `africa`, `americas`, `oceania`, `middle-east`
@@ -50,6 +56,7 @@ Available regions: `europe`, `asia`, `africa`, `americas`, `oceania`, `middle-ea
 |---|---|---|
 | `--region` | — | Import all countries in a region |
 | `--all` | — | Import all available countries |
+| `--remote` | — | Fetch from remote source instead of local files |
 | `--chunk` | 500 | Records per batch |
 | `--retries` | 3 | HTTP retry attempts |
 | `--no-update` | — | Skip updating existing records |
@@ -131,7 +138,8 @@ Response format:
     "country_code": "DE",
     "type": "university",
     "aliases": ["TU Munich", "TUM"],
-    "official_website": "https://www.tum.de"
+    "official_website": "https://www.tum.de",
+    "description": "The Technical University of Munich is a public research university in Munich, Germany."
 }
 ```
 
@@ -149,12 +157,20 @@ Route::get('/universities/search', function (Request $request) {
 ## Artisan Commands
 
 ```bash
+# Import universities into the database
+php artisan university-directory:import DE US GB
+php artisan university-directory:import --all
+
 # List universities with filters
 php artisan university-directory:list
 php artisan university-directory:list --country=DE --type=university --search=Munich --limit=10
 
 # Show database statistics
 php artisan university-directory:stats
+
+# Sync fresh data from remote source into local files (maintainers)
+php artisan university-directory:sync --all
+php artisan university-directory:sync DE US --retries=5
 ```
 
 ## Publishing Migrations
